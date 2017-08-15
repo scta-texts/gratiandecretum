@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d55">
-        <head>DISTINCTIO LV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars, Corpore uero uitiati similiter a sacris offitiisprohibentur.</p>
-        <p>Unde GeIasius Papa [Episcopis per Lucaniam etBrutios constitutis, epist. I. c. 2. et 3.]
+        <head xml:id="gd-p1d55-Hd1e103">DISTINCTIO LV.</head>
+        <p xml:id="gd-p1d55-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d55-d1e109">I. Pars, Corpore uero uitiati similiter a sacris offitiisprohibentur.</p>
+        <p xml:id="gd-p1d55-d1e112">Unde GeIasius Papa [Episcopis per Lucaniam etBrutios constitutis, epist. I. c. 2. et 3.]
           scribit, dicens:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Qui de monasterialibus disciplinis ad clericale munus
+        <div xml:id="gd-p1d55-Dd1e115">
+          <head xml:id="gd-p1d55-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d55-Hd1e120" type="question-title">. Qui de monasterialibus disciplinis ad clericale munus
             accedit et de laicis, anteacta eius uita examinetur.</head>
-          <p>Priscis igitur pro sua reuerentia manentibus institutis, (que, ubi nulla rerum uel
+          <p xml:id="gd-p1d55-d1e123">Priscis igitur pro sua reuerentia manentibus institutis, (que, ubi nulla rerum uel
             temporum perurgetangustia, regulariter conuenit custodiri), quia eatenus ecclesiae*, uel
             cunctis uel sufficientibus priuatae sunt ministeriis, ut plebibus ad se pertinentibus
             diuina munerasubplere non ualeant, concedimus s, ut, si quis monasterialibus**
@@ -74,12 +72,12 @@
             uel curiae uel publicarum nexibus rerum inplicatus, uel publica penitencianotatus, uel
             nulla congruentis temporis expectatione discussus.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Annuae suspensioni subiaceat, qui preter canonum^ formam
+        <div xml:id="gd-p1d55-Dd1e128">
+          <head xml:id="gd-p1d55-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d55-Hd1e133" type="question-title">. Annuae suspensioni subiaceat, qui preter canonum^ formam
             aliquem ordinat.</head>
-          <p>Item ex Concilio Ar eia tensi IV. [c. 3.] </p>
-          <p>Nullus penitentem, nullus digamum, nullus uidua-rum maritos in predictis honoribus
+          <p xml:id="gd-p1d55-d1e136">Item ex Concilio Ar eia tensi IV. [c. 3.] </p>
+          <p xml:id="gd-p1d55-d1e139">Nullus penitentem, nullus digamum, nullus uidua-rum maritos in predictis honoribus
             audeat ordinare. Et licet hec iam prope omnium canonum instituta contineant, tamen ne
             cuicumque sacerdotum supplicantium (sicut iam diximus) inportunitas uel suggestio
             iniquasubripiat, necesse fuit, ut nunc seueriorem regulam sibiuelint Domini sacerdotes
@@ -91,70 +89,70 @@
             ecclesiasticae disciplinae sentiat, qui salubriter s asanctis Patribus instituta
             obseruare contempnit.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Non ordinentur penilentes, uel inscii litterarum.</head>
-          <p>Item Ylarius Papa [ex Concilio Romano ab ipso habito, cap. 3.]</p>
-          <p>Penitentes uel inscii litterarum, aut aliqua membrorum dampna perpessi, ad sacros
+        <div xml:id="gd-p1d55-Dd1e143">
+          <head xml:id="gd-p1d55-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d55-Hd1e148" type="question-title">. Non ordinentur penilentes, uel inscii litterarum.</head>
+          <p xml:id="gd-p1d55-d1e151">Item Ylarius Papa [ex Concilio Romano ab ipso habito, cap. 3.]</p>
+          <p xml:id="gd-p1d55-d1e154">Penitentes uel inscii litterarum, aut aliqua membrorum dampna perpessi, ad sacros
             ordines aspirare non audeant. Quisquis autem talium consecrator extiterit,factum suum
             ipse dissoluet.</p>
-          <p>Gratian. Corpore autem uitiati intelliguntur non casu, sed propria uoluntate
+          <p xml:id="gd-p1d55-d1e157">Gratian. Corpore autem uitiati intelliguntur non casu, sed propria uoluntate
             abscisi.</p>
-          <p>Unde in canonibus Apostolorum, [c. 22. et 23.] legitur:</p>
+          <p xml:id="gd-p1d55-d1e161">Unde in canonibus Apostolorum, [c. 22. et 23.] legitur:</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Qui semetipsum abscidit, non ordinetur.</head>
-          <p>Si quis abscidit semetipsum, (id est, si quis amputa-uerit sibi uirilia), non fiat
+        <div xml:id="gd-p1d55-Dd1e165">
+          <head xml:id="gd-p1d55-Hd1e167">C. IV</head>
+          <head xml:id="gd-p1d55-Hd1e170" type="question-title">. Qui semetipsum abscidit, non ordinetur.</head>
+          <p xml:id="gd-p1d55-d1e173">Si quis abscidit semetipsum, (id est, si quis amputa-uerit sibi uirilia), non fiat
             clericus, quia suus est homicida, et Dei condicionis inimicus. §. 1. Si quis, cum
             clericus fuerit, absciderit semetipsum, omnino dampnetur,quia suus est homicida.•</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Non producantur ad clerum, qui se ipsos abscidunt.</head>
-          <p>Item ex Concilio Arelatensi II. [c. 7.]</p>
-          <p>Hii, qui se carnali uicio repugnare nescientes abscidunt, ad clerum peruenire non
+        <div xml:id="gd-p1d55-Dd1e177">
+          <head xml:id="gd-p1d55-Hd1e179">C. V</head>
+          <head xml:id="gd-p1d55-Hd1e182" type="question-title">. Non producantur ad clerum, qui se ipsos abscidunt.</head>
+          <p xml:id="gd-p1d55-d1e185">Item ex Concilio Arelatensi II. [c. 7.]</p>
+          <p xml:id="gd-p1d55-d1e188">Hii, qui se carnali uicio repugnare nescientes abscidunt, ad clerum peruenire non
             possunt.</p>
-          <p>Item Innocentius scribit Felici Nuceriano Episcopo [epist. IV. cap. i.]:</p>
+          <p xml:id="gd-p1d55-d1e191">Item Innocentius scribit Felici Nuceriano Episcopo [epist. IV. cap. i.]:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Non est ordinandus, qui partem digiti sui uolens
+        <div xml:id="gd-p1d55-Dd1e195">
+          <head xml:id="gd-p1d55-Hd1e197">C. VI</head>
+          <head xml:id="gd-p1d55-Hd1e200" type="question-title">. Non est ordinandus, qui partem digiti sui uolens
             abscidit.</head>
-          <p>Qui partem cuiuslibet digiti sibi ipsi uolens abscidit, hunc ad clerum canones non
+          <p xml:id="gd-p1d55-d1e203">Qui partem cuiuslibet digiti sibi ipsi uolens abscidit, hunc ad clerum canones non
             admittunt. Cui uero casu aliquo contigerit, dum aut operi rustico curam in-pendit, aut
             aliquid faciens se non sponte percutit, hoscanones precipiunt et clericos fieri, et, si
             in clero reperti fuerint, non abici. In illis enim uoluntas estiudicata, que sibi ausa
             fuerit ferrum inicere*; inistis uero casus ueniam meruit.</p>
-          <p>Gratian. Similiter intelligendum est de his, qui per languorem a medicis secantur, aut
+          <p xml:id="gd-p1d55-d1e206">Gratian. Similiter intelligendum est de his, qui per languorem a medicis secantur, aut
             a barbaris absciduntur,aut a dominis castrantur.</p>
-          <p>Unde in Ni ceno Concilio, [c. 1.] legitur :</p>
+          <p xml:id="gd-p1d55-d1e209">Unde in Ni ceno Concilio, [c. 1.] legitur :</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Qui per languorem a medicis dissecatur, ad clerum ualet
+        <div xml:id="gd-p1d55-Dd1e213">
+          <head xml:id="gd-p1d55-Hd1e215">C. VII</head>
+          <head xml:id="gd-p1d55-Hd1e218" type="question-title">. Qui per languorem a medicis dissecatur, ad clerum ualet
             admitti.</head>
-          <p>Si quis a medicis propter languorem desectus est aut</p>
-          <p>a barbaris abscisus , hic in clero permaneat. Si quis autem se sanus abscidit, hunc in?
+          <p xml:id="gd-p1d55-d1e221">Si quis a medicis propter languorem desectus est aut</p>
+          <p xml:id="gd-p1d55-d1e224">a barbaris abscisus , hic in clero permaneat. Si quis autem se sanus abscidit, hunc in?
             clero constitutumabstineri conueniet, et deinceps* nullum taliumdebere promoueri. Sicut
             autem hoc claret, quod dehis, qui hanc rem affectant audentque semetipsosabscidere
             dictum sit, sic eos, quos aut barbari, autdomini castrauerunt, inueniuntur autem s
             aliasdignissimi, tales ad clerum suscipit ecclesia.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Licite ordinetur episcopus, qui per hominum insidias
+        <div xml:id="gd-p1d55-Dd1e229">
+          <head xml:id="gd-p1d55-Hd1e231">C. VIII</head>
+          <head xml:id="gd-p1d55-Hd1e234" type="question-title">. Licite ordinetur episcopus, qui per hominum insidias
             eunuchizatur.</head>
-          <p>Item ex canone Apostolorum [21.]</p>
-          <p>Eunuchus, si per insidias* hominum factus est, uel si in persecutione eius sunt
+          <p xml:id="gd-p1d55-d1e237">Item ex canone Apostolorum [21.]</p>
+          <p xml:id="gd-p1d55-d1e240">Eunuchus, si per insidias* hominum factus est, uel si in persecutione eius sunt
             amputata uirilia, uel si ita natusest, et est dignus, fiat episcopus**.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Non excluduntur a clero, qui a medicis, uel a barbaris,.uel
+        <div xml:id="gd-p1d55-Dd1e244">
+          <head xml:id="gd-p1d55-Hd1e246">C. IX</head>
+          <head xml:id="gd-p1d55-Hd1e249" type="question-title">. Non excluduntur a clero, qui a medicis, uel a barbaris,.uel
             a dominis suis exsecantur^.</head>
-          <p>Item ex Concilio Martini Papae.</p>
-          <p>Si quis pro egritudine naturalia a medicis secta habuerit, similiter et qui a barbaris
+          <p xml:id="gd-p1d55-d1e252">Item ex Concilio Martini Papae.</p>
+          <p xml:id="gd-p1d55-d1e255">Si quis pro egritudine naturalia a medicis secta habuerit, similiter et qui a barbaris
             aut a dominis suis castrati fuerint, et moribus digni inueniuntur, hos canonadmittit ad
             clerum promoueri. Si quis autem sanusnon per disciplinam religionis et abstinentiae sed
             per abscis-sionem a Deo plasmati corporis, existimat, posse a secarnales concupiscentias
@@ -162,20 +160,20 @@
             offitium.Quod si iam ante fuerit promotus ad clerum, prohibitusa suo ministerio
             deponatur.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Non prohibetur a sacris ordinibus, qui medicorumincisione
+        <div xml:id="gd-p1d55-Dd1e259">
+          <head xml:id="gd-p1d55-Hd1e261">C. X</head>
+          <head xml:id="gd-p1d55-Hd1e264" type="question-title">. Non prohibetur a sacris ordinibus, qui medicorumincisione
             claudus efficitur.</head>
-          <p>Item ex Concilio Ilerdensi.</p>
-          <p>Si quis in infirmitate positus clericus in medicorum incisione claudus efficitur,
+          <p xml:id="gd-p1d55-d1e267">Item ex Concilio Ilerdensi.</p>
+          <p xml:id="gd-p1d55-d1e270">Si quis in infirmitate positus clericus in medicorum incisione claudus efficitur,
             promoueri ad sacros ordines eumnon denegamus.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. Non prohibetur a clero, qui digitum casusibi
+        <div xml:id="gd-p1d55-Dd1e274">
+          <head xml:id="gd-p1d55-Hd1e276">C. XI</head>
+          <head xml:id="gd-p1d55-Hd1e279" type="question-title">. Non prohibetur a clero, qui digitum casusibi
             abscidit.</head>
-          <p>Item Stephanus Roberto Metensi Episcopo.</p>
-          <p>Lator presentium, Flauinus scilicet clericus, ad sanctam sedem apostolicam ueniens,
+          <p xml:id="gd-p1d55-d1e282">Item Stephanus Roberto Metensi Episcopo.</p>
+          <p xml:id="gd-p1d55-d1e285">Lator presentium, Flauinus scilicet clericus, ad sanctam sedem apostolicam ueniens,
             detulit a te directamnobis epistolam, qua indagare studuisti, eum a Normannisnuperrime
             captum sinistrae manus digitum habere abscisum, sciscitaris, si ob hoc ad ecclesiasticum
             ordinem ualeat promoueri, an non. Quod et nos reperientes,quia sollertia tua, magis
@@ -186,12 +184,12 @@
             uel a medicis, siue apaganis non sponte tale quid patiuntur, sacri censeantcanones,
             dilectionem tuam latere non credimus.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. Tempore sinceritatis dignitas accepta sequenti debilitate
+        <div xml:id="gd-p1d55-Dd1e289">
+          <head xml:id="gd-p1d55-Hd1e291">C. XII</head>
+          <head xml:id="gd-p1d55-Hd1e294" type="question-title">. Tempore sinceritatis dignitas accepta sequenti debilitate
             non amittatur.</head>
-          <p>Item Gelasius Papa Palladio Episcopo.</p>
-          <p>Precepta canonum, quibus ecclesiastica regitur disciplina, sicut non paciuntur uenire
+          <p xml:id="gd-p1d55-d1e297">Item Gelasius Papa Palladio Episcopo.</p>
+          <p xml:id="gd-p1d55-d1e300">Precepta canonum, quibus ecclesiastica regitur disciplina, sicut non paciuntur uenire
             ad sacerdotium debiles corpore,ita si quis in eo fuerit constitutus actu, ac tunc fuerit
             sauciatus, amittere non potest quod tempore suaesinceritatis accepit. §. 1. Stephanus
             siquidem presbiterpetitorio nobis defleuit oblato, quod habetur* in subditis,olim sibi
@@ -204,17 +202,17 @@
             suumdignitatemque restitue, quatenus sacrosancta misteria, sicutconsueuit, exerceat. Nec
             enim conuenit ob hoc auferri antesusceptum ordinem, in quo postmodum in
             inualitudine^corporis casu probatur faciente prolapsus.</p>
-          <p>II. Pars. Gratian. Hoc autem non de omnibus membris intelligendum est. Qui enim oculum
+          <p xml:id="gd-p1d55-d1e303">II. Pars. Gratian. Hoc autem non de omnibus membris intelligendum est. Qui enim oculum
             casu amiserit, licet desituoluntas, tamen sacerdotium adipisci non potest.</p>
-          <p>Unde Pelagius scribit Rufino Episcopo.</p>
+          <p xml:id="gd-p1d55-d1e307">Unde Pelagius scribit Rufino Episcopo.</p>
         </div>
-        <div>
-          <head>C. XIII</head>
-          <head type="question-title">. Non sunt prestanda iura sacerdotii, cui oculus est
+        <div xml:id="gd-p1d55-Dd1e311">
+          <head xml:id="gd-p1d55-Hd1e313">C. XIII</head>
+          <head xml:id="gd-p1d55-Hd1e316" type="question-title">. Non sunt prestanda iura sacerdotii, cui oculus est
             erutus.</head>
-          <p>Si euangelica admonitio iracundiam nec usque ad uerbum furentem prosilire permittit,
+          <p xml:id="gd-p1d55-d1e319">Si euangelica admonitio iracundiam nec usque ad uerbum furentem prosilire permittit,
             ne, si Racha fratri suoquis dixerit, reus sit gehennae ignis: quali putamus</p>
-          <p>pena plectendum esse, qui non solum pugno inpie percussit hominem in Leuitici offitii
+          <p xml:id="gd-p1d55-d1e322">pena plectendum esse, qui non solum pugno inpie percussit hominem in Leuitici offitii
             ministerio seruientem, sedquasi non sufficeret ad cedem manus, ita (instigante
             sediabolo) raptus ad iracundiam est, Mt fuste non solum percuteret, sed etiam erueret
             oculum fratris? Et quamuishuiusmodi excessus grauiori esset pena plectendus, benetamen
@@ -230,7 +228,7 @@
             inconpensatione iniuriae sacratus ordo concedi poterit, quiad tantam sacerdotem proprium
             potuit iracundiam prouo-care, ut ille et offitium, in quo erat, amitteret, et iste
             pro-uectus sui perderet facultatem.</p>
-          <p>f</p>
+          <p xml:id="gd-p1d55-d1e325">f</p>
         </div>
       </div>
     </body>

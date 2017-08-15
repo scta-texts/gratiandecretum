@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p1d97">
-        <head>DISTINCTIO XCVn.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Hoc capitulo patenter ostenditur, quod nec inperator i, nec cuilibet laico licet
+        <head xml:id="gd-p1d97-Hd1e103">DISTINCTIO XCVn.</head>
+        <p xml:id="gd-p1d97-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d97-d1e109">I. Pars. Hoc capitulo patenter ostenditur, quod nec inperator i, nec cuilibet laico licet
           decernere uel de electione Pontificis \uel de rebus ecclesiasticis. Quecumque autem ab eis
           constitutafuerint, pro infectis habenda sunt, nisi subscriptione Romani Pontificis fuerint
           roborata. Unde illud Honorii Augusti, ut supradictum est, uanum esse uidetur, quod contra
@@ -68,18 +66,18 @@
           disponendi non habent facultatem. Honorius uero Augustus non sua auctoritate, sed B.
           Bonifatio suplicante, ecclesiasticae quieti consulere et concertantium ambitionem
           punirecurauit.</p>
-        <p>Unde idem Bonifatius Episcopus suplicationis epistolam Honorio Augusto destinauit,
+        <p xml:id="gd-p1d97-d1e112">Unde idem Bonifatius Episcopus suplicationis epistolam Honorio Augusto destinauit,
           dicens:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Epistola Bonifatii a,d Honorium Augustum.</head>
-          <p>Ecclesiae meae, cui Deus noster meum sacerdotium uobis res humanas regentibus
+        <div xml:id="gd-p1d97-Dd1e115">
+          <head xml:id="gd-p1d97-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d97-Hd1e120" type="question-title">. Epistola Bonifatii a,d Honorium Augustum.</head>
+          <p xml:id="gd-p1d97-d1e123">Ecclesiae meae, cui Deus noster meum sacerdotium uobis res humanas regentibus
             deputauit, nos cura constringit, ne causis eius, quamuis adhuc corporis
             incommoditatedetinear, propter conuentus, qui a sacerdotibus et clericisuniuersis et
             Christianae plebis perturbationibus agitantur,apud aures Christianissimi principis
             existimemur desse.Si enim secus quam oportet eueniat, nonuosid facere,qui cuncta equa
             moderatione conponitis, sed nos per no-</p>
-          <p>stram tacentem desidiam uidebimur quod ciuitatis quietem et ecclesiae pacem peruertere
+          <p xml:id="gd-p1d97-d1e126">stram tacentem desidiam uidebimur quod ciuitatis quietem et ecclesiae pacem peruertere
             ualeat admisisse. Cum enimhumanis rebus diuinae cultor religionis Domino
             fauenteprouideas, nostra culpa erit, si non id sub uestra gloria,quam certum est diuinis
             semper rebus animo propensiorifauisse, firmo et stabili iure custodiatur, quod per tot
@@ -107,13 +105,13 @@
             religionis, uty in urbe uestrae mansuetudinis hoc animo, quo postulatis annuitis,in
             perpetuum statui uniuersalis ecclesiae consultatis.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Rescriptum Honorii ad Bonifatium Papam.</head>
-          <p>Victor Honorius, inclitus, triumphator, semper augustus, sancto ac uenerabili Bonifatio
+        <div xml:id="gd-p1d97-Dd1e131">
+          <head xml:id="gd-p1d97-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d97-Hd1e136" type="question-title">. Rescriptum Honorii ad Bonifatium Papam.</head>
+          <p xml:id="gd-p1d97-d1e139">Victor Honorius, inclitus, triumphator, semper augustus, sancto ac uenerabili Bonifatio
             Papae urbis eternae. Scripta beatitudinis uestrae debita reuerentiae gratulatione
             suscepimus, quibus recensitis egimus omnipotenti</p>
-          <p>Deo maximas gratias, quod sanctimoniam tuam post longum incommodum optatae redditam
+          <p xml:id="gd-p1d97-d1e142">Deo maximas gratias, quod sanctimoniam tuam post longum incommodum optatae redditam
             didicimus sanitati. Et ideo reuertentibus uenerabilibus uiris gaudium nostrum sacrorum
             apicum attestatione signamus, ac petimus, uticottidianis orationibus apostolatus tuus
             studium ac uotumsuum circa salutem atque inperium nostrum inpenderedignetur. Illud autem
@@ -126,15 +124,15 @@
             tranquillam mentem et pacificosanimos ex serenitatis nostrae admonicione custodiant,
             necaliquid seditionis conspirationibus temptare conentur,cum certum sit, nulli partium
             sua studia profutura.</p>
-          <p>II. Pars. Gratian. Sine signatis apicibus non est mos Romanae ecclesiae undecumque
+          <p xml:id="gd-p1d97-d1e145">II. Pars. Gratian. Sine signatis apicibus non est mos Romanae ecclesiae undecumque
             legationem suscipere*.</p>
-          <p>Unde Nicolaus Papa :</p>
+          <p xml:id="gd-p1d97-d1e149">Unde Nicolaus Papa :</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Romana non consueuit ecclesia sine signatis apicibus
+        <div xml:id="gd-p1d97-Dd1e153">
+          <head xml:id="gd-p1d97-Hd1e155">C. III</head>
+          <head xml:id="gd-p1d97-Hd1e158" type="question-title">. Romana non consueuit ecclesia sine signatis apicibus
             legationem undecumque suscipere.</head>
-          <p>Nobilissimus uir atque strenuus uestrae sublimitatis legatus, licet nullam epistolam
+          <p xml:id="gd-p1d97-d1e161">Nobilissimus uir atque strenuus uestrae sublimitatis legatus, licet nullam epistolam
             iuxta consuetudinem a uobisnostro Pontificio detulisset, licet numquam apostolicae
             sedismoris fuerit absque signatis apicibus undecumque legationem suscipere, nos tamen
             uos in illa honorantes, eiusque grauitatem et eloquiorum illius ueridicas

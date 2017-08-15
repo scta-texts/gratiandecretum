@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,27 +53,27 @@
     </front>
     <body>
       <div xml:id="gd-p1d18">
-        <head>DISTINCTIO XVIII</head>
-        <p>GRATIaNUS.</p>
-        <p>I. Pars. Episcoporum igitur concilia, 'ut ex premissis apparet, sunt inualida ad
+        <head xml:id="gd-p1d18-Hd1e103">DISTINCTIO XVIII</head>
+        <p xml:id="gd-p1d18-d1e106">GRATIaNUS.</p>
+        <p xml:id="gd-p1d18-d1e109">I. Pars. Episcoporum igitur concilia, 'ut ex premissis apparet, sunt inualida ad
           diffiniendum et constituendum, non autem ad corrigendum. Sunt enim necessaria episcoporum
           concilia ad exortationem et correctionem, que etsi non habent uim constituendi, habent
           tamen auctoritatem imponendi et indicendi, quod alias statutum est et generaliter seu
           specialiter obseruari preceptum.</p>
-        <p>[PALE A*.</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Ex Cabilonensi Concilio, cap. 6.</head>
-          <p>Placuit} ut conseruato metropolitani primatu ceteri episcopi, secundum suae
+        <p xml:id="gd-p1d18-d1e112">[PALE A*.</p>
+        <div xml:id="gd-p1d18-Dd1e115">
+          <head xml:id="gd-p1d18-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d18-Hd1e120" type="question-title">Ex Cabilonensi Concilio, cap. 6.</head>
+          <p xml:id="gd-p1d18-d1e123">Placuit} ut conseruato metropolitani primatu ceteri episcopi, secundum suae
             ordinationis tempus, alius alii deferat locum.]</p>
 
-          <p>Unde Leo I., [epist. LXXXII. c. 7. Anastasio] Thessalonicensi Episcopo:</p>
+          <p xml:id="gd-p1d18-d1e126">Unde Leo I., [epist. LXXXII. c. 7. Anastasio] Thessalonicensi Episcopo:</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Bini conuentus per singulos annos ab
+        <div xml:id="gd-p1d18-Dd1e131">
+          <head xml:id="gd-p1d18-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d18-Hd1e136" type="question-title">Bini conuentus per singulos annos ab
             episcopiscelebrentur.</head>
-          <p>De conciliis autem episcopalibus non aliud indicimus, quam sancti Patres salubriter
+          <p xml:id="gd-p1d18-d1e139">De conciliis autem episcopalibus non aliud indicimus, quam sancti Patres salubriter
             ordinauerunt 5 scilicet bini conuentus per annos singulos habeantur, in quibus de
             omnibus querelis, que inter diuersos ecclesiae ordines. nasci solent, iudicetur. Ac si
             forte inter ispsos, quipresunt, de maioribus peccatis nascitur (quod absit) causa, que
@@ -83,20 +81,20 @@
             metropolitanus curabit instruere, ut si, coram positis partibus nec tuo fuerit res
             sopitaiudicio, ad nostram cognitionem, quicquid illud est, transferatur.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Quo tempore concilia episcoporum sunt celebranda.</head>
-          <p>Item ex Niceno Concilio, [cap. 5.]</p>
-          <p>Habeatur semel concilium ante dies quadragesimae, ut omnibus, si que sunt, simultatibus
+        <div xml:id="gd-p1d18-Dd1e143">
+          <head xml:id="gd-p1d18-Hd1e145">C. III.</head>
+          <head xml:id="gd-p1d18-Hd1e148" type="question-title">Quo tempore concilia episcoporum sunt celebranda.</head>
+          <p xml:id="gd-p1d18-d1e151">Item ex Niceno Concilio, [cap. 5.]</p>
+          <p xml:id="gd-p1d18-d1e154">Habeatur semel concilium ante dies quadragesimae, ut omnibus, si que sunt, simultatibus
             amputatis, mundum* solemprxe Deo. possit offerri; sepundum uero agatur circa tempus
             autumni.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Ad morum correctionem et controuersiarum dissblu-, tionem bis
+        <div xml:id="gd-p1d18-Dd1e158">
+          <head xml:id="gd-p1d18-Hd1e160">C. IV.</head>
+          <head xml:id="gd-p1d18-Hd1e163" type="question-title">Ad morum correctionem et controuersiarum dissblu-, tionem bis
             in anno episcopale concilium fiat.</head>
-          <p>Item ex Antio ceno Concilio, [cap. 20.]</p>
-          <p>Propter ecclesiasticas causas et que existunt controuersias dissoluendas, sufficere
+          <p xml:id="gd-p1d18-d1e166">Item ex Antio ceno Concilio, [cap. 20.]</p>
+          <p xml:id="gd-p1d18-d1e169">Propter ecclesiasticas causas et que existunt controuersias dissoluendas, sufficere
             uisum est, bis in anno per singulas prouincias episcoporum concilium fieri: semel quidem
             post tertiam ebdomadam pascalis solempnitatis, ita ut in quarta ebdomada, que
             consequitur, id est media* pentecoste, concilium compleatur**. Admoneant autem
@@ -113,21 +111,21 @@
 
 
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Se ipsos accusant, qui uocati ad sinodum uenire
+        <div xml:id="gd-p1d18-Dd1e173">
+          <head xml:id="gd-p1d18-Hd1e175">C. V.</head>
+          <head xml:id="gd-p1d18-Hd1e178" type="question-title">Se ipsos accusant, qui uocati ad sinodum uenire
             contempnunt.</head>
-          <p>Item ex Concilio Laudicensi [cap. 40.]</p>
-          <p>Non oportet uocatos episcopos ad sinodum contemp-nere, sed adire debere, et aut docere,
+          <p xml:id="gd-p1d18-d1e181">Item ex Concilio Laudicensi [cap. 40.]</p>
+          <p xml:id="gd-p1d18-d1e184">Non oportet uocatos episcopos ad sinodum contemp-nere, sed adire debere, et aut docere,
             aut doceri, que sunt ad ecclesiae ceterorumque correctionem utilia; quod si
             contempserint, se ipsos uidentur accusare, nisi ire forte non possint.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Corripiantur episcopi, qui ad concilium uocati uenire
+        <div xml:id="gd-p1d18-Dd1e188">
+          <head xml:id="gd-p1d18-Hd1e190">C. VI.</head>
+          <head xml:id="gd-p1d18-Hd1e193" type="question-title">Corripiantur episcopi, qui ad concilium uocati uenire
             recusant.</head>
-          <p>Item ex Concilio Calcedonensi, [cap. 19.]</p>
-          <p>Peruenit ad nostras aures, jquod in prouinciis constituta episcoporum concilia minime
+          <p xml:id="gd-p1d18-d1e196">Item ex Concilio Calcedonensi, [cap. 19.]</p>
+          <p xml:id="gd-p1d18-d1e199">Peruenit ad nostras aures, jquod in prouinciis constituta episcoporum concilia minime
             celebrentur. Hoc* ex eo probatur, quod multae, que correctione opus habent,
             ecclesiasticae res negligantur. Statuit ergo hec sancta sinodus, secundum Patrum regulas
             bis in anno in unum conuenire per singulas prouincias episcopos, ubi singula**, que
@@ -136,12 +134,12 @@
             aliis urgentibus necessitatibus et inexcusabilibus negotiis liberi sint, licere eos
             fraternae caritatis admonitionibus corripi.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Canonicis subiaceat penis metropolitanus, qui saltem semel in
+        <div xml:id="gd-p1d18-Dd1e203">
+          <head xml:id="gd-p1d18-Hd1e205">C. VII.</head>
+          <head xml:id="gd-p1d18-Hd1e208" type="question-title">Canonicis subiaceat penis metropolitanus, qui saltem semel in
             anno celebrare concilium negligit.</head>
-          <p>Item ex Septima Sinodo, [cap. 6.]</p>
-          <p>II. Pars. Quoniam quidem regula est, que dicit, bis in anno per singulas prouincias
+          <p xml:id="gd-p1d18-d1e211">Item ex Septima Sinodo, [cap. 6.]</p>
+          <p xml:id="gd-p1d18-d1e214">II. Pars. Quoniam quidem regula est, que dicit, bis in anno per singulas prouincias
             oportere fieri per conuen-tum episcoporum regulares inquisitiones, propter fatigationes
             et ut oportune* habeantur ad iter agendum 'hi, qui congregandi sunt, diffinierunt sextae
             sinodi sancti Patres, omni excusatione remota, omnibus modis semel in anno fieri, et
@@ -155,30 +153,30 @@
             egisse conuictus fuerit, soluat quadruplum.</p>
 
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Non cogantur presbiteri sacerdotalia eulogia ad concilium
+        <div xml:id="gd-p1d18-Dd1e219">
+          <head xml:id="gd-p1d18-Hd1e221">C. VIII.</head>
+          <head xml:id="gd-p1d18-Hd1e224" type="question-title">Non cogantur presbiteri sacerdotalia eulogia ad concilium
             deferre.</head>
-          <p>Item Leo IV. [ad Episcopos Britanniae, c. 3.]*</p>
-          <p>De eulogiis ad sacra concilia deferendis nihil inuenimus a maioribus terminatum: sed
+          <p xml:id="gd-p1d18-d1e227">Item Leo IV. [ad Episcopos Britanniae, c. 3.]*</p>
+          <p xml:id="gd-p1d18-d1e230">De eulogiis ad sacra concilia deferendis nihil inuenimus a maioribus terminatum: sed
             sicut unicuique presbitero placuerit. Nam si constitutum fuerit, illo in tempore
             benedictiones afferre, forsitan minus libenter ad sinodos occurrent, et magis uenire
             obtrectabunt. Que, ut arbitror, non sunt rationabiliter requirendae, nec ultro delatae
             respuendae.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Sine graui necessitate episcopus ad sinodum ire non
+        <div xml:id="gd-p1d18-Dd1e234">
+          <head xml:id="gd-p1d18-Hd1e236">C. IX.</head>
+          <head xml:id="gd-p1d18-Hd1e239" type="question-title">Sine graui necessitate episcopus ad sinodum ire non
             tardet.</head>
-          <p>Item ex Concilio Cartaginensi IV., [c. 21.] Episcopus ad sinodum ire non tardet, si
+          <p xml:id="gd-p1d18-d1e242">Item ex Concilio Cartaginensi IV., [c. 21.] Episcopus ad sinodum ire non tardet, si
             nonsatis graui necessitate inhibeatur: sic tamen, ut in persona sua legatum mittat,
             suscepturus salua fidei ueritate quicquid sinodus statuerit*.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Excusatorias litteras dirigant, qui grauati ad sinodum ire non
+        <div xml:id="gd-p1d18-Dd1e246">
+          <head xml:id="gd-p1d18-Hd1e248">C. X.</head>
+          <head xml:id="gd-p1d18-Hd1e251" type="question-title">Excusatorias litteras dirigant, qui grauati ad sinodum ire non
             possunt.</head>
-          <p>Item ex Concilio Cartaginensi V., [c. 10.] Placuit, ut quotienscumque congregandum est
+          <p xml:id="gd-p1d18-d1e254">Item ex Concilio Cartaginensi V., [c. 10.] Placuit, ut quotienscumque congregandum est
             concilium, episcopi, qui neque etate, neque egritudine, neque alia grauiori necessitate
             impediuntur, competenter occurrant. §. i. Quod si non potuerint occurrere, excusationes
             suas litteratorie* subscribant; nisi autem** rationem impedi-</p>
@@ -187,51 +185,51 @@
 
 
 
-          <p>menti sui apud primatem suum reddiderint, ecclesiae suae communione debent esse
+          <p xml:id="gd-p1d18-d1e257">menti sui apud primatem suum reddiderint, ecclesiae suae communione debent esse
             contenti.</p>
-          <p>[PALE A*.</p>
+          <p xml:id="gd-p1d18-d1e260">[PALE A*.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Item ex Concilio Turonensi, [cap. 2.]</head>
-          <p>Episcopus non debet abbatem cogere ad sinodum ire, nisi aliqua rationabilis causa
+        <div xml:id="gd-p1d18-Dd1e264">
+          <head xml:id="gd-p1d18-Hd1e266">C. XI.</head>
+          <head xml:id="gd-p1d18-Hd1e269" type="question-title">Item ex Concilio Turonensi, [cap. 2.]</head>
+          <p xml:id="gd-p1d18-d1e272">Episcopus non debet abbatem cogere ad sinodum ire, nisi aliqua rationabilis causa
             existat] .</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">A communione sit alienus, qui contempsitSinodo adesse.</head>
-          <p>Item ex Concilio Arelatensi II., [c. i9.]</p>
-          <p>Si quis autem adesse neglexerit; uel cetum fratrum, antequam concilium dissoluatur,
+        <div xml:id="gd-p1d18-Dd1e276">
+          <head xml:id="gd-p1d18-Hd1e278">C. XII.</head>
+          <head xml:id="gd-p1d18-Hd1e281" type="question-title">A communione sit alienus, qui contempsitSinodo adesse.</head>
+          <p xml:id="gd-p1d18-d1e284">Item ex Concilio Arelatensi II., [c. i9.]</p>
+          <p xml:id="gd-p1d18-d1e287">Si quis autem adesse neglexerit; uel cetum fratrum, antequam concilium dissoluatur,
             crediderit deserendum, alienatum se a fratrum communione agnoscat; nec eum recipi
             liceat, nisi in sequenti Sinodo fuerit absolutus.</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Usque ad proximam sinodum a communione abstineat, qui a
+        <div xml:id="gd-p1d18-Dd1e291">
+          <head xml:id="gd-p1d18-Hd1e293">C. XIII.</head>
+          <head xml:id="gd-p1d18-Hd1e296" type="question-title">Usque ad proximam sinodum a communione abstineat, qui a
             metropolitano uocatus absque graui necessitate Sinodo adesse contempsit.</head>
-          <p>Item ex Concilio Agat en si8®, [cap. 35.]</p>
-          <p>Si episcopus metropolitanus ad comprouinciales episcopos epistolas direxerit, in quibus
+          <p xml:id="gd-p1d18-d1e299">Item ex Concilio Agat en si8®, [cap. 35.]</p>
+          <p xml:id="gd-p1d18-d1e302">Si episcopus metropolitanus ad comprouinciales episcopos epistolas direxerit, in quibus
             eos aut ad ordinationemsummi pontificis, ut ad sinodum inuitet, postpositis omnibus
             (excepta graui infirmitate corporis, ac precep-tione regia) ad constitutum diem adesse
             non differant. Quod si defuerint (sicut prisca canonum precipit auctoritas) usque ad
             proximam sinodum a caritate fratrum et ecclesiae communione priuentur.</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">Communione^ priuetur episcopus, qui a metropolitano uocatus ad
+        <div xml:id="gd-p1d18-Dd1e307">
+          <head xml:id="gd-p1d18-Hd1e309">C. XIV.</head>
+          <head xml:id="gd-p1d18-Hd1e312" type="question-title">Communione^ priuetur episcopus, qui a metropolitano uocatus ad
             sinodum uenire contempnit.</head>
-          <p>Item ex Concilio Tarragonensi, [cap. 6.]</p>
-          <p>Si quis episcoporum commonitus a metropolitano ad sinodum, nulla graui intercedente
+          <p xml:id="gd-p1d18-d1e315">Item ex Concilio Tarragonensi, [cap. 6.]</p>
+          <p xml:id="gd-p1d18-d1e318">Si quis episcoporum commonitus a metropolitano ad sinodum, nulla graui intercedente
             necessitate corporali, uenire contempserit, sicut statuta Patrum sanxerunt, usque ad
             futurum concilium cunctorum episcoporum caritatis communione priuetur.</p>
         </div>
-        <div>
-          <head>C. XV.</head>
-          <head type="question-title">Presbiteri et diaconi, et cuncti, qui se lesos existimant, ad
+        <div xml:id="gd-p1d18-Dd1e322">
+          <head xml:id="gd-p1d18-Hd1e324">C. XV.</head>
+          <head xml:id="gd-p1d18-Hd1e327" type="question-title">Presbiteri et diaconi, et cuncti, qui se lesos existimant, ad
             metropolitanam sinodum conueniant.</head>
-          <p>Item ex Concilio Martini* Papae.</p>
+          <p xml:id="gd-p1d18-d1e330">Item ex Concilio Martini* Papae.</p>
 
-          <p>Propter ecclesiasticas causas et altercationum solutiones bene placuit per singulas
+          <p xml:id="gd-p1d18-d1e333">Propter ecclesiasticas causas et altercationum solutiones bene placuit per singulas
             prouincias bis in anno concilium fieri, conuocante metropolitano episcopo omnes
             prouinciales episcopos, ita ut ad concilium ueniantomnes presbiteri et diaconi, uel
             hi**, qui se lesos existimant, ut in concilio causae examinatae ad iustum &lt; iudicium
@@ -239,22 +237,22 @@
             in offensa, secundum rationem excommunicentur, quamdiu communi consensude his placuerit
             dare sententiam. Nulli autem episcopo liceat propria apud semetipsum concilia facere,
             preter eos, quibus metropoles sunt creditae.</p>
-          <p>[PALE A*.</p>
+          <p xml:id="gd-p1d18-d1e336">[PALE A*.</p>
         </div>
-        <div>
-          <head>C. XVI.</head>
-          <head type="question-title">Item ex Concilio Bylon.</head>
-          <p>Annis singulis episcopus in sua diocesi sinodum faciat de suis clericis, nec non
+        <div xml:id="gd-p1d18-Dd1e340">
+          <head xml:id="gd-p1d18-Hd1e342">C. XVI.</head>
+          <head xml:id="gd-p1d18-Hd1e345" type="question-title">Item ex Concilio Bylon.</head>
+          <p xml:id="gd-p1d18-d1e348">Annis singulis episcopus in sua diocesi sinodum faciat de suis clericis, nec non
             abbatibus, et discutiat alteros clericos et monachos.]</p>
-          <p>Gratian. Singuli uero episcoporum suis ecclesiis notificare studeant, que in conciliis
+          <p xml:id="gd-p1d18-d1e351">Gratian. Singuli uero episcoporum suis ecclesiis notificare studeant, que in conciliis
             statuuntur.</p>
-          <p>Unde in Concilio Tolletano [XVI., cap. 6.]</p>
+          <p xml:id="gd-p1d18-d1e354">Unde in Concilio Tolletano [XVI., cap. 6.]</p>
         </div>
-        <div>
-          <head>C. XVII.</head>
-          <head type="question-title">Que in conciliis statuuntur, singuli episcoporum • suis
+        <div xml:id="gd-p1d18-Dd1e358">
+          <head xml:id="gd-p1d18-Hd1e360">C. XVII.</head>
+          <head xml:id="gd-p1d18-Hd1e363" type="question-title">Que in conciliis statuuntur, singuli episcoporum • suis
             ecclesiis notificent.</head>
-          <p>Decernimus, ut, dum in qualibet prouincia concilium agitatur, unusquisque episcoporum
+          <p xml:id="gd-p1d18-d1e366">Decernimus, ut, dum in qualibet prouincia concilium agitatur, unusquisque episcoporum
             admonitionibus suis intra sex mensium spatia omnes abbates, presbiteros, diaconos atque
             clericos, seu etiam omnem conuentum ciuitatis ipsius, ubi preesse dignoscitur, nec non
             etiamcunctam diocesis suae plebem aggregare nequaquam moretur: quatenus* coram eis

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,33 +53,33 @@
     </front>
     <body>
       <div xml:id="gd-p1d36">
-        <head>DISTINCTIO XXXVI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Oportet etiam esse ordinandum prudentem. Quod contra eos notandum est, qui sub
+        <head xml:id="gd-p1d36-Hd1e103">DISTINCTIO XXXVI.</head>
+        <p xml:id="gd-p1d36-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d36-d1e109">I. Pars. Oportet etiam esse ordinandum prudentem. Quod contra eos notandum est, qui sub
           nomine simplicitatis excusant stulticiam sacerdotum. Prudentem autem oportet episcopum
           intelligi non solum litterarum peritia, uerum etiam secularium negotiorum
           dispensatione.</p>
-        <p>Unde in epistola Gei a sii Papae [ad Episcopos per Lucaniam, cap. 18.J:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Illitterati et corpore uitiati non promoueantur ad
+        <p xml:id="gd-p1d36-d1e112">Unde in epistola Gei a sii Papae [ad Episcopos per Lucaniam, cap. 18.J:</p>
+        <div xml:id="gd-p1d36-Dd1e115">
+          <head xml:id="gd-p1d36-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d36-Hd1e120" type="question-title">Illitterati et corpore uitiati non promoueantur ad
             clerum.</head>
-          <p>Illitteratos, aut aliqua parte corporis imminutos*, nullus presumat ad clerum
+          <p xml:id="gd-p1d36-d1e123">Illitteratos, aut aliqua parte corporis imminutos*, nullus presumat ad clerum
             promouere, quia litteris carens sacris non potest esse aptus offitiis, et uitiosum
             nichil Deo prorsus offerri legalia precepta sanxerunt. §. 1. Similiter, qui se ipsos
             abscidunt.</p>
 
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Ad summum sacerdotium non aspiret, qui diuinis stipendiis non
+        <div xml:id="gd-p1d36-Dd1e128">
+          <head xml:id="gd-p1d36-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d36-Hd1e133" type="question-title">Ad summum sacerdotium non aspiret, qui diuinis stipendiis non
             est eruditus.</head>
-          <p>Item Zosimus Papa [epist. ad Hesychium Episcopum Salonitanum].</p>
-          <p>Qui ecclesiasticis disciplinis per ordinem non estinbutus, et temporum approbatione
+          <p xml:id="gd-p1d36-d1e136">Item Zosimus Papa [epist. ad Hesychium Episcopum Salonitanum].</p>
+          <p xml:id="gd-p1d36-d1e139">Qui ecclesiasticis disciplinis per ordinem non estinbutus, et temporum approbatione
             diuinis stipendiis eruditus, nequaquam ad summum ecclesiae sacerdotium aspirare
             presumat; et non solum in eo ambitio inefficax habeatur, uerum etiam ordinatores eius
             careant eo ordine, quem contra precepta Patrum crediderant presumendum.</p>
-          <p>Gratian. Ecce, quod sacrarum litterarum oportet episcopum habere peritiam: unde in
+          <p xml:id="gd-p1d36-d1e142">Gratian. Ecce, quod sacrarum litterarum oportet episcopum habere peritiam: unde in
             ueteri testamento inter cetera ornamenta pontifex rationale ferebat in pectore, in quo
             scribebaturmanifestatio et ueritas, quia in pectore pontificis manifesta debet esse
             cognitio ueritatis. §. 1. Hinc etiam uectes, quibus archa portabatur, iugiter annulis
@@ -116,20 +114,20 @@
 
 
 
-          <p>liquido colligitur, quod non sufficit prelatis bona conuersatio et morum honestas, nisi
+          <p xml:id="gd-p1d36-d1e148">liquido colligitur, quod non sufficit prelatis bona conuersatio et morum honestas, nisi
             addatur scientia doctrinae. §. 13. Unde sacerdotes ingressuri tabernaculum prius
             lauabantur in labro eneOy quod fecerat Moyses ex speculis mulierum. §. 14. Hinc etiam in
             Canticis Canticorum oculi, per quos prelati ecclesiae intelligantur assimilantur
             columbis, que resident iuxta flu&gt;enta plenissima.</p>
-          <p>Hinc etiam Ieronimus* in Leuit. [c. 8.] </p>
+          <p xml:id="gd-p1d36-d1e151">Hinc etiam Ieronimus* in Leuit. [c. 8.] </p>
         </div>
-        <div>
-          <head>C. HL</head>
-          <head type="question-title">Sacerdotis est legis scientiam habere, non bellis, sed
+        <div xml:id="gd-p1d36-Dd1e155">
+          <head xml:id="gd-p1d36-Hd1e157">C. HL</head>
+          <head xml:id="gd-p1d36-Hd1e160" type="question-title">Sacerdotis est legis scientiam habere, non bellis, sed
             orationibus operam dare</head>
-          <p>Si quis uult pontifex non tam uocabulo esse cpiam merito, imitetur Moysen, imitetur
+          <p xml:id="gd-p1d36-d1e163">Si quis uult pontifex non tam uocabulo esse cpiam merito, imitetur Moysen, imitetur
             Aaron.</p>
-          <p> Quid enim dicitur de eis? quia non discedunt de tabernaculo Domini. Erat ergo Moyses
+          <p xml:id="gd-p1d36-d1e166"> Quid enim dicitur de eis? quia non discedunt de tabernaculo Domini. Erat ergo Moyses
             indesinenter in tabernaculo Domini. Quodautem ei opus erat? ut aut a Deo aliquid
             disceret aut ipse populum doceret. Hec duo sunt pontificis opera, ut aDeo discat legendo
             diuinas scripturas et sepius meditando, aut populum doceat. Sed illa doceat, que ipse a

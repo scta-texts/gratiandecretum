@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,35 +53,35 @@
     </front>
     <body>
       <div xml:id="gd-p1d65">
-        <head>DISTINCTIO LXV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Conprouincialium episcoporum uniuersaliter desideratur consensus in ordinatione
+        <head xml:id="gd-p1d65-Hd1e103">DISTINCTIO LXV.</head>
+        <p xml:id="gd-p1d65-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d65-d1e109">I. Pars. Conprouincialium episcoporum uniuersaliter desideratur consensus in ordinatione
           episcopi. Quod si aliquianimositate ducti contradicere uoluerint, obtineat sentencia
           plurimorum.</p>
-        <p>Unde in Niceno Concilio, [c. 6.];</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Si ceteris consentientibus ordinationi episcoporum duo uel
+        <p xml:id="gd-p1d65-d1e112">Unde in Niceno Concilio, [c. 6.];</p>
+        <div xml:id="gd-p1d65-Dd1e115">
+          <head xml:id="gd-p1d65-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d65-Hd1e120" type="question-title">. Si ceteris consentientibus ordinationi episcoporum duo uel
             tres contradicant, obtineat sentencia plurimorum.</head>
-          <p>Sane, si communi omnium consensu* rationabiliter probato secundum ecclesiasticam
+          <p xml:id="gd-p1d65-d1e123">Sane, si communi omnium consensu* rationabiliter probato secundum ecclesiasticam
             regulam, dpo uel tres ani</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Martini Papae.</p>
-          <p>Non debet ordinari episcopus absque consilio et presentia metropolitani episcopi.
+        <div xml:id="gd-p1d65-Dd1e128">
+          <head xml:id="gd-p1d65-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d65-Hd1e133" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d65-d1e136">Item ex Concilio Martini Papae.</p>
+          <p xml:id="gd-p1d65-d1e139">Non debet ordinari episcopus absque consilio et presentia metropolitani episcopi.
             Adesse autem oportet omnes, qui sunt in prouincia sacerdotes, quos per suam debet
             epistolam conuocare metropolitanus. Et quidem si omnesoccurrant, bene; si hoc autem
             difficile fuerit, plurioresoportet occurrere. Qui autem non conueniunt, presentiam sui
             per epistolas suas faciant, et sic omnium factoconsensu ordinationem episcopi fieri
             oportet. Si autemaliter, preter quod a nobis terminatum est, fuerit factum,talem
             ordinationem nichil preualere^decernimus.</p>
-          <p>II. Pars. §. i. Si autem secundum canones ordinatioepiscopi fuerit tacta, et aliquis
+          <p xml:id="gd-p1d65-d1e142">II. Pars. §. i. Si autem secundum canones ordinatioepiscopi fuerit tacta, et aliquis
             cum sua malicia in aliquocontradixerit, plurimorum consensus obtineat.</p>
-          <p>G. III. De eodem.</p>
-          <p>Item ex Concilio Antio ceno, [c. 19.] *</p>
-          <p>Episcopum non ordinandum sine consilio et presentia metropolitani episcopi, cui melius
+          <p xml:id="gd-p1d65-d1e146">G. III. De eodem.</p>
+          <p xml:id="gd-p1d65-d1e149">Item ex Concilio Antio ceno, [c. 19.] *</p>
+          <p xml:id="gd-p1d65-d1e152">Episcopum non ordinandum sine consilio et presentia metropolitani episcopi, cui melius
             erit, si ex omni prouincia congregentur episcopi. Quod si fieri non potest, hi, ui
             adesse non possunt, propriis litteris consensum suume ipso designent, et tunc demum post
             plurimorumsiue per presentiam siue per litteras consensum sentencia consona ordinetur.
@@ -91,71 +89,71 @@
             ueroetiam secundum diffinitas regulas ordinatio celebretur,contradicant autem aliqui
             propter proprias et domesticassimultates, his contemptis sentencia de eo obtineat
             plurimorum.</p>
-          <p>Gratian. Si autem prouinciam primatem habere constiterit, nec etiam metropolitano
+          <p xml:id="gd-p1d65-d1e155">Gratian. Si autem prouinciam primatem habere constiterit, nec etiam metropolitano
             absque eius conscientia episcopumconsecrare licebit.</p>
-          <p>Unde Leo Papa urbis Romae Anastasio Episcopo, [epist. LXXXII. al. LXXXIV. c. 6.]</p>
+          <p xml:id="gd-p1d65-d1e158">Unde Leo Papa urbis Romae Anastasio Episcopo, [epist. LXXXII. al. LXXXIV. c. 6.]</p>
         </div>
-        <div>
-          <head>C. IV, Absque primatis comensu metropolitanus episcopum non ordinet</head>
-          <head type="question-title">.</head>
-          <p>De persona autem consecrandi episcopi, et de cleri plebisque consensu metropolitanus
+        <div xml:id="gd-p1d65-Dd1e162">
+          <head xml:id="gd-p1d65-Hd1e164">C. IV, Absque primatis comensu metropolitanus episcopum non ordinet</head>
+          <head xml:id="gd-p1d65-Hd1e167" type="question-title">.</head>
+          <p xml:id="gd-p1d65-d1e170">De persona autem consecrandi episcopi, et de cleri plebisque consensu metropolitanus
             episcopus ad fraternitatem tuam referat, quodque in prouincia bene placuit scire
             tefaciat, ut ordinationem rite celebrandam tua quoque confirmet auctoritas. Que rectis
             dispositionibus nichil moraeaut difficultatis debebit afferre, ne gregibus Domini
             diudesit cura pastorum.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Cartaginensi III. [c. I2.]</p>
-          <p>Placet omnibus, ut inconsulto primate cuiuslibet pro-uinciae tam facile nemo presumat,
+        <div xml:id="gd-p1d65-Dd1e174">
+          <head xml:id="gd-p1d65-Hd1e176">C. V</head>
+          <head xml:id="gd-p1d65-Hd1e179" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d65-d1e182">Item ex Concilio Cartaginensi III. [c. I2.]</p>
+          <p xml:id="gd-p1d65-d1e185">Placet omnibus, ut inconsulto primate cuiuslibet pro-uinciae tam facile nemo presumat,
             licet cum multis, in</p>
-          <p>quocumque loco sine eius (ut dictum est) precepto episcopum ordinare. §. i. Si autem
+          <p xml:id="gd-p1d65-d1e188">quocumque loco sine eius (ut dictum est) precepto episcopum ordinare. §. i. Si autem
             necessitas fuerit, tres episcopi,in quocumque loco sint, cum primatis precepto
             ordinaredebebunt episcopum.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Unicuique ecclesiae proprius honor seruetur.</head>
-          <p>Item ex Niceno Concilio, [c. 6.]</p>
-          <p>Mos antiquus perduret in Egipto, uelLibia, et Pentapoli, ut Alexandrinus episcopus
+        <div xml:id="gd-p1d65-Dd1e192">
+          <head xml:id="gd-p1d65-Hd1e194">C. VI</head>
+          <head xml:id="gd-p1d65-Hd1e197" type="question-title">. Unicuique ecclesiae proprius honor seruetur.</head>
+          <p xml:id="gd-p1d65-d1e200">Item ex Niceno Concilio, [c. 6.]</p>
+          <p xml:id="gd-p1d65-d1e203">Mos antiquus perduret in Egipto, uelLibia, et Pentapoli, ut Alexandrinus episcopus
             horum omnium habeat potestatem, quoniam quidem et Romano episcopoparilis* mos est. §. i.
             Similiter autem et apud Antiochiamceterasque prouincias honor suus unicuique seruetur
             ecclesiae.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex eodem, [cap. 7.]</p>
-          <p>Quoniam mos antiquus obtinuit et uetusta traditio, ut Eliae, id est Ierosolimorum
+        <div xml:id="gd-p1d65-Dd1e207">
+          <head xml:id="gd-p1d65-Hd1e209">C. VII</head>
+          <head xml:id="gd-p1d65-Hd1e212" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d65-d1e215">Item ex eodem, [cap. 7.]</p>
+          <p xml:id="gd-p1d65-d1e218">Quoniam mos antiquus obtinuit et uetusta traditio, ut Eliae, id est Ierosolimorum
             episcopo, honor deferatur,habeat consequenter honorem, manente tamen metropolitanae
             ciuitatis propria dignitate.</p>
-          <p>Gratian. Qui uero a conprouincialibus suis cum metropolitani licentia fuerit ordinatus,
+          <p xml:id="gd-p1d65-d1e221">Gratian. Qui uero a conprouincialibus suis cum metropolitani licentia fuerit ordinatus,
             infra constituta tempora eius se representet conspectibus .</p>
-          <p>Unde in Tarraconensi Concilio, [c. 5.] legitur:</p>
+          <p xml:id="gd-p1d65-d1e225">Unde in Tarraconensi Concilio, [c. 5.] legitur:</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. De eodem^\</head>
-          <p>Si quis in metropolitana ciuitate episcopus non fuerit ordinatus, posteaquam suscepta
+        <div xml:id="gd-p1d65-Dd1e229">
+          <head xml:id="gd-p1d65-Hd1e231">C. VIII</head>
+          <head xml:id="gd-p1d65-Hd1e234" type="question-title">. De eodem^\</head>
+          <p xml:id="gd-p1d65-d1e237">Si quis in metropolitana ciuitate episcopus non fuerit ordinatus, posteaquam suscepta
             benedictione per metropolitani litteras honorem episcopi fuerit adeptus, id optimum esse
             decreuimus, ut postmodum statuto tempore, idest inpletis duobus mensibus, se
             metropolitani sui pre-sentet aspectibus, ut ab illo monitis ecclesiasticis instructus
             plenius quid obseruare debeat recognoscat. Quodsi forte hoc inplere neglexerit, in
             Sinodo increpatus afratribus corrigatur. Et si forte infirmitate aliqua ne hocinpleat
             fuerit inpeditus, hoc suis litteris metropolitanoindicare procuret.</p>
-          <p>III. Pars. Gratian. His auctoritatibus datur intelligi, quod episcopi a
+          <p xml:id="gd-p1d65-d1e240">III. Pars. Gratian. His auctoritatibus datur intelligi, quod episcopi a
             conprouincialibus suis debent^ ordinari. Sedqueritur, si in prouincia fuerint^ plurimi
             episcopi, et contigeritforte unum remanere episcopum, quid fieri debeat? Ille, quiasolus
             est, non potest ordinare episcopum; conprouinciales nonhabet, cum quibus consecrare
             episcopum ualeat. Cum ergotalis necessitas fuerit, quid faciendum sit, in Sardicensi
             Concilio diffinitur, in quo [cap. 5.] sic statutum legitur:</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Si unus tantum in prouincia remanserit episcopus, ad
+        <div xml:id="gd-p1d65-Dd1e245">
+          <head xml:id="gd-p1d65-Hd1e247">C. IX</head>
+          <head xml:id="gd-p1d65-Hd1e250" type="question-title">. Si unus tantum in prouincia remanserit episcopus, ad
             consecrationem episcopi de uicina prouinciaepiscopP conuocentur.</head>
-          <p>Si* forte in prouincia unum tantum remanere episcopum contigerit, superstes episcopus
+          <p xml:id="gd-p1d65-d1e253">Si* forte in prouincia unum tantum remanere episcopum contigerit, superstes episcopus
             conuocet episcopos uicinaeprouinciae, et cum eis ordinet conprouinciales sibi episcopos.
             Quod si facere neglexerit, populi conueniant episcoposuicinae prouinciae, et illi prius
             commoneant episcopum, quiin eadem prouincia commoratur, et ostendant, quod sibipetant

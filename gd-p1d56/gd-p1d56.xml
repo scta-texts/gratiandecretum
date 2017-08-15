@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,47 +53,47 @@
     </front>
     <body>
       <div xml:id="gd-p1d56">
-        <head>DISTINCTIO LVI</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Presbiterorum etiam filii ad sacra offitia non suntadmittendi.</p>
-        <p>Unde Urbanus Papa II. ait:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Filii presbiterorum a sacris ordinibus remouentur.</head>
-          <p>Presbiterorum filios a sacris ministeriis remouemus, nisi aut in cenobiis, aut in
+        <head xml:id="gd-p1d56-Hd1e103">DISTINCTIO LVI</head>
+        <p xml:id="gd-p1d56-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d56-d1e109">I. Pars. Presbiterorum etiam filii ad sacra offitia non suntadmittendi.</p>
+        <p xml:id="gd-p1d56-d1e112">Unde Urbanus Papa II. ait:</p>
+        <div xml:id="gd-p1d56-Dd1e115">
+          <head xml:id="gd-p1d56-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d56-Hd1e120" type="question-title">. Filii presbiterorum a sacris ordinibus remouentur.</head>
+          <p xml:id="gd-p1d56-d1e123">Presbiterorum filios a sacris ministeriis remouemus, nisi aut in cenobiis, aut in
             canonicis religiose probatifuerint conuersari.</p>
-          <p>II. Pars. Gratian. Sed hoc intelligendum est de illis, quipaternae incontinentiae
+          <p xml:id="gd-p1d56-d1e126">II. Pars. Gratian. Sed hoc intelligendum est de illis, quipaternae incontinentiae
             imitatores fuerint. Verum si morumhonestas eos commendabiles fecerit, exemplis et
             auctoritatenon solum sacerdotes, sed etiam summi sacerdotes fieri possunt.</p>
-          <p>[PALEA.</p>
+          <p xml:id="gd-p1d56-d1e129">[PALEA.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Unde Damasus Papa scribit*:</head>
-          <p>Osius Papa fuit filius Stephani subdiaconi. Bonifacius Papa fuit filius Iucundi
+        <div xml:id="gd-p1d56-Dd1e134">
+          <head xml:id="gd-p1d56-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d56-Hd1e139" type="question-title">. Unde Damasus Papa scribit*:</head>
+          <p xml:id="gd-p1d56-d1e142">Osius Papa fuit filius Stephani subdiaconi. Bonifacius Papa fuit filius Iucundi
             presbiteri. Felix Papa filius Felicispresbiteri de titulo Fasciolae. AgapitusPapa filius
             Gordianipresbiteri. Theodorus Papa filius Theodori episcopi deciuitate Ierosolima.
             Siluerius Papa filius Siluerii episcopiRomae. Deusdedit Papa filius Stephani
             subdiaconi.]</p>
-          <p>Felix enim tertius, natione Romanus, ex patre Felice presbitero fuit. Item Gelasius,
+          <p xml:id="gd-p1d56-d1e145">Felix enim tertius, natione Romanus, ex patre Felice presbitero fuit. Item Gelasius,
             natione Afer, ex patre episcopoValerio natus est. Item Agapitus, natione Romanus, ex
             patreGordiano presbitero originem duxit. Quamplures^ etiamalii inueniuntur, qui de
             sacerdotibus nati apostolicae sedi pre-fuerunt.</p>
-          <p>Hinc Augustinus ait [libro de bono coniug. c. i6.]:</p>
+          <p xml:id="gd-p1d56-d1e148">Hinc Augustinus ait [libro de bono coniug. c. i6.]:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Vicia parentum filiis non inputentur. Undecumque homines
+        <div xml:id="gd-p1d56-Dd1e152">
+          <head xml:id="gd-p1d56-Hd1e154">C. III</head>
+          <head xml:id="gd-p1d56-Hd1e157" type="question-title">. Vicia parentum filiis non inputentur. Undecumque homines
             nascuntur, si parentum uitianon sectantur, honesti et salui erunt. Semen enimhominis ex
             qualicumque homine Dei creatura est, et eomale utentibus male erit, non ipsum aliquando
             malum erit.Sicut autem boni filii adulterorum nulla est defensio adulterorum, sic mali
             filii coniugatorum nullum crimen estnuptiarum.</head>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Iohannes Crisostomus supra Mattheum homilia III. [c. i.].</p>
-          <p>Numquam de uiciis erubescamus parentum, sed unum illud queramus* semperque amplectamur,
+        <div xml:id="gd-p1d56-Dd1e161">
+          <head xml:id="gd-p1d56-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d56-Hd1e166" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d56-d1e169">Item Iohannes Crisostomus supra Mattheum homilia III. [c. i.].</p>
+          <p xml:id="gd-p1d56-d1e172">Numquam de uiciis erubescamus parentum, sed unum illud queramus* semperque amplectamur,
             uirtutem uidelicet.Huiusmodi enim, etiamsi alienigenam habet matrem, etiamsi
             fornicatione pollutam uel quolibet huiusmodidedecore sordidatam, nichil tamen de eius
             aut uilitate fuscabitur, aut crimine polluetur. Quod si fornicatorem ipsumad meliora
@@ -104,14 +102,14 @@
             est omnino, non est nec de uirtute,nec de uicio parentum aut laudandus aliquis, aut
             culpandus,nemo inde uere aut obscurus, aut clarus est, imo etiam utconsiderantius
             aliquid dicamus ac expressius, nescio quo-</p>
-          <p>modo ille magis resplendet, qui ex parentibus a uirtutibus prorsus alienis, ipse tamen
+          <p xml:id="gd-p1d56-d1e175">modo ille magis resplendet, qui ex parentibus a uirtutibus prorsus alienis, ipse tamen
             fuerit Dei uirtute mirabilis.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Non parentum, sed propria culpa quemque condempnat.</head>
-          <p>Item Ieronimus in epistola contra Rufinum.</p>
-          <p>Nasci de adulterio non est eius culpa, qui nascitur, sed illius, qui generat. Quomodo
+        <div xml:id="gd-p1d56-Dd1e179">
+          <head xml:id="gd-p1d56-Hd1e181">C. V</head>
+          <head xml:id="gd-p1d56-Hd1e184" type="question-title">. Non parentum, sed propria culpa quemque condempnat.</head>
+          <p xml:id="gd-p1d56-d1e187">Item Ieronimus in epistola contra Rufinum.</p>
+          <p xml:id="gd-p1d56-d1e190">Nasci de adulterio non est eius culpa, qui nascitur, sed illius, qui generat. Quomodo
             in seminibus non peccat terra,que confouet, non semen, quod in sulcis iacitur, nonhumor
             et calor, quibus temperata frumenta in germenpullulant, sed, uerbi gratia, fur et latro,
             qui fraude et ui eripitsemina: sic genus humanum recipit terra, id est uulua,quod suum
@@ -124,28 +122,28 @@
             degenerat, quia non in seminibus, sedin uoluntate nascentis causa uiciorum est atque
             uirtutum.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Iniquitates parentum filiis obesse r^on possunt.</head>
-          <p>Item Augustinus* [contra Faustum, lib. XXII. c. 64.]</p>
-          <p>Sponsus ille, qui uocaturus erat ad nuptias bonos et malos, congruens inuitatis, nasci
+        <div xml:id="gd-p1d56-Dd1e194">
+          <head xml:id="gd-p1d56-Hd1e196">C. VI</head>
+          <head xml:id="gd-p1d56-Hd1e199" type="question-title">. Iniquitates parentum filiis obesse r^on possunt.</head>
+          <p xml:id="gd-p1d56-d1e202">Item Augustinus* [contra Faustum, lib. XXII. c. 64.]</p>
+          <p xml:id="gd-p1d56-d1e205">Sponsus ille, qui uocaturus erat ad nuptias bonos et malos, congruens inuitatis, nasci
             etiam uoluit de bonis etmalis, quo exemplo discant, parentum suorum iniquitatessibi
             obesse non posse.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Non aliena culpa, sed propria aliquem ob eo, quo fungitur,
+        <div xml:id="gd-p1d56-Dd1e209">
+          <head xml:id="gd-p1d56-Hd1e211">C. VII</head>
+          <head xml:id="gd-p1d56-Hd1e214" type="question-title">. Non aliena culpa, sed propria aliquem ob eo, quo fungitur,
             deicit gradu.</head>
-          <p>Item Gregorius [ad Columbum Episcopum Numidiae, lib. X. epist. 8.]</p>
-          <p>Satis peruersum et contra ecclesiasticam probatur esse censuram, ut frustra quorundam,
+          <p xml:id="gd-p1d56-d1e217">Item Gregorius [ad Columbum Episcopum Numidiae, lib. X. epist. 8.]</p>
+          <p xml:id="gd-p1d56-d1e220">Satis peruersum et contra ecclesiasticam probatur esse censuram, ut frustra quorundam,
             uoluptatibus quispriuetur, quem sua culpa uel facinus ab offitiis, quo fungitur, gradu
             non deicit.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Ex adulterio natus a sacerdotio non prohibetur®*.</head>
-          <p>Item Ieronimus.</p>
-          <p>Dominus noster Iesus Christus uoluit, non solum de alienigenis, sed etiam de
+        <div xml:id="gd-p1d56-Dd1e225">
+          <head xml:id="gd-p1d56-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p1d56-Hd1e230" type="question-title">. Ex adulterio natus a sacerdotio non prohibetur®*.</head>
+          <p xml:id="gd-p1d56-d1e233">Item Ieronimus.</p>
+          <p xml:id="gd-p1d56-d1e236">Dominus noster Iesus Christus uoluit, non solum de alienigenis, sed etiam de
             adulterinis conmixtionibus nasci,nobis magnam fiduciam prestans, ut qualicumque
             modonascamus, tantum ut eius uestigia imitemur, ab ipsiuscorpore non separemur, cuius
             per fidem membra effectisumus. Et sicut ille uerus est pontifex ex adulterinisnatus
@@ -157,20 +155,20 @@
             autem illaorigo ducitur Christi, qui uerus sacerdos est; ideoque sifilii eius sumus, que
             ipse fecit imitari debemus.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. A populo Dei non separat aliquem materna condicio, sed
+        <div xml:id="gd-p1d56-Dd1e240">
+          <head xml:id="gd-p1d56-Hd1e242">C. IX</head>
+          <head xml:id="gd-p1d56-Hd1e245" type="question-title">. A populo Dei non separat aliquem materna condicio, sed
             propria culpa.</head>
-          <p>Item Augustinus de unico baptismo [contra Donatistas, lib. I. c. 15.]</p>
-          <p>Ismael ut separaretur a populo Dei, non obfuit mater ancilla, sed obfuit fraterna
+          <p xml:id="gd-p1d56-d1e248">Item Augustinus de unico baptismo [contra Donatistas, lib. I. c. 15.]</p>
+          <p xml:id="gd-p1d56-d1e251">Ismael ut separaretur a populo Dei, non obfuit mater ancilla, sed obfuit fraterna
             discordia; nec profuitpotestas uxoris, cuius magis filius erat, quia per ipsius
             iuraconiugalia et in ancilla seminatus erat, et ex ancilla susceptus.</p>
-          <p>III. Pars. Gratian. Contra Bonifacius Martir RegiAnglorum:</p>
+          <p xml:id="gd-p1d56-d1e254">III. Pars. Gratian. Contra Bonifacius Martir RegiAnglorum:</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Vicia parentum etiam ad posteros transeunt^.</head>
-          <p>Si gens Anglorum (sicut per istas prouincias diuulga-tum est, et nobis in Francia et in
+        <div xml:id="gd-p1d56-Dd1e258">
+          <head xml:id="gd-p1d56-Hd1e260">C. X</head>
+          <head xml:id="gd-p1d56-Hd1e263" type="question-title">. Vicia parentum etiam ad posteros transeunt^.</head>
+          <p xml:id="gd-p1d56-d1e266">Si gens Anglorum (sicut per istas prouincias diuulga-tum est, et nobis in Francia et in
             Italia inproperatur, et ab ipsis paganis inproperium nobis obicitur, spretis
             legalibusconubiis adulterando et luxuriando ad instar Sodomiticaegentis fedam uitam
             uixerit, de tali commixtione meretricum estimandum est degeneres populos et ignobiles,
@@ -180,37 +178,37 @@
             Ispaniae et Prouinciae et Burgundionum populis contigit, que sic a Deo
             recedentesfornicatae sunt, donec iudex talium criminum ultrices penas per ignorantiam*
             legiss Dei, et per Sarra-cenos, uenire et seuire permisit.</p>
-          <p>Unde idem Urbanus in fine superioris capituli®*distinguendo subiunxit:</p>
+          <p xml:id="gd-p1d56-d1e269">Unde idem Urbanus in fine superioris capituli®*distinguendo subiunxit:</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. Si religiosi inuenti fuerint filii sacerdotum, ordinentur
+        <div xml:id="gd-p1d56-Dd1e273">
+          <head xml:id="gd-p1d56-Hd1e275">C. XI</head>
+          <head xml:id="gd-p1d56-Hd1e278" type="question-title">. Si religiosi inuenti fuerint filii sacerdotum, ordinentur
             *.</head>
-          <p>Nisi aut in cenobiis, aut in canonicis religiose probati fuerint conuersari.</p>
+          <p xml:id="gd-p1d56-d1e281">Nisi aut in cenobiis, aut in canonicis religiose probati fuerint conuersari.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Alexander II.</p>
-          <p>Apostolica uobis auctoritate precipimus, ut si eum, qui ab ecclesia electus est,
+        <div xml:id="gd-p1d56-Dd1e285">
+          <head xml:id="gd-p1d56-Hd1e287">C. XII</head>
+          <head xml:id="gd-p1d56-Hd1e290" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d56-d1e293">Item Alexander II.</p>
+          <p xml:id="gd-p1d56-d1e296">Apostolica uobis auctoritate precipimus, ut si eum, qui ab ecclesia electus est,
             digniorem altero esse,canonicamque eiuselectionem probaueritis, nostra fulti auctoritate
             consecretis.Nam pro eo, quod filius sacerdotis dicitur, si ceterae uirtutesin eum
             conueniant, non reicimus, sed suffragantibusmeritis conniuendo eum recipimus.</p>
-          <p>Gratian. Hoc autem, quod de filiis sacerdotum dicitur, ex dispensatione ecclesiae
+          <p xml:id="gd-p1d56-d1e299">Gratian. Hoc autem, quod de filiis sacerdotum dicitur, ex dispensatione ecclesiae
             introductam uidetur, et quod ex dispensatione introducitur, ad consequentiam regulae
             trahi nonpoterit.</p>
-          <p>Unde Urbanus [Papa II.] scribit Bartholomeo Thuron.</p>
-          <p>Archiepiscopo:</p>
+          <p xml:id="gd-p1d56-d1e303">Unde Urbanus [Papa II.] scribit Bartholomeo Thuron.</p>
+          <p xml:id="gd-p1d56-d1e306">Archiepiscopo:</p>
         </div>
-        <div>
-          <head>C. XIII</head>
-          <head type="question-title">. Filii sacerdotum non prohibentur ab episcopatu, si ceterae
+        <div xml:id="gd-p1d56-Dd1e310">
+          <head xml:id="gd-p1d56-Hd1e312">C. XIII</head>
+          <head xml:id="gd-p1d56-Hd1e315" type="question-title">. Filii sacerdotum non prohibentur ab episcopatu, si ceterae
             uirtutes in eis inueniantur.</head>
-          <p>Cenomanensem electum, pro eo, quod filius sacerdotis dicitur, si ceterae uirtutes in
+          <p xml:id="gd-p1d56-d1e318">Cenomanensem electum, pro eo, quod filius sacerdotis dicitur, si ceterae uirtutes in
             eum conueniant, nonreicicimus, sed suffragantibus meritis patienter suscipimus:non
             tamen, ut pro regula in posterum assumatur, sed adtempus ecclesiae periculo
             consulitur.</p>
-          <p>Gratian. Cum ergo ex sacerdotibus nati in summos Pontifices supra leguntur esse
+          <p xml:id="gd-p1d56-d1e321">Gratian. Cum ergo ex sacerdotibus nati in summos Pontifices supra leguntur esse
             promoti, non sunt intelligendi de fornicatione, sed de legitimis coniugiis nati, que
             sacerdotibus *ante prohibitionem ubique licita erant, et in orientali ecclesia
             usquehodie eis licere probatur. §. 1. Quod autem uicium originissemini inputari negatur,
@@ -220,10 +218,10 @@
             paterna flagitia hereditaria successione descendunt.Similiter et illud Urbani
             intelligendum est, quod ipse scribitPatrono Legionensi Episcopo.</p>
         </div>
-        <div>
-          <head>C. XIV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Quia simpliciter ad sedem apostolicam ueniens humiliter peccatum confessus es, quod
+        <div xml:id="gd-p1d56-Dd1e326">
+          <head xml:id="gd-p1d56-Hd1e328">C. XIV</head>
+          <head xml:id="gd-p1d56-Hd1e331" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d56-d1e334">Quia simpliciter ad sedem apostolicam ueniens humiliter peccatum confessus es, quod
             pontificii tui uidebatur offitiuminpedire, uidelicet quod ex matre non legitima
             procreatussis, quam uiuente propria uxore pater tuus cognouissecognoscitur, nos
             apostolicae mansuetudinis gratia admonente a ceteris que sacerdotium inpediunt

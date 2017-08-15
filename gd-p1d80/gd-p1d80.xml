@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,26 +53,26 @@
     </front>
     <body>
       <div xml:id="gd-p1d80">
-        <head>DISTINCTIO LXXX.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Loca uero, in quibus primates, patriarchae, archiepiscopi, episcopi, presbiteri
+        <head xml:id="gd-p1d80-Hd1e103">DISTINCTIO LXXX.</head>
+        <p xml:id="gd-p1d80-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d80-d1e109">I. Pars. Loca uero, in quibus primates, patriarchae, archiepiscopi, episcopi, presbiteri
           sunt ordinandi, hec sunt secundum Lucium Papam, ac Clementem, atque Anacletum.</p>
-        <p>Ait enim Lucius Papa:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. In quibus locis primates uel patriarchae debeant
+        <p xml:id="gd-p1d80-d1e112">Ait enim Lucius Papa:</p>
+        <div xml:id="gd-p1d80-Dd1e115">
+          <head xml:id="gd-p1d80-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d80-Hd1e120" type="question-title">. In quibus locis primates uel patriarchae debeant
             ordinari.</head>
-          <p>Urbes et loca, in quibus primates presidere debent, non modernis, sed multis ante
+          <p xml:id="gd-p1d80-d1e123">Urbes et loca, in quibus primates presidere debent, non modernis, sed multis ante
             aduentum Christi suntstatutae temporibus, quarum primates gentiles etiam promaioribus
             negotiis’ appellabant. §. i. In ipsis uero urbibus post aduentum Christi apostoli et
             eorum successorespatriarchas et primates posuerunt, ad quos episcoporumnegotia, salua in
             omnibus apostolica auctoritate, et maiorescausae post apostolicam sedem sunt
             referendae.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Clemens Papa [ad Iacobum epist. I.]In illis ciuitatibus uero, in quibus olim apud
+        <div xml:id="gd-p1d80-Dd1e128">
+          <head xml:id="gd-p1d80-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d80-Hd1e133" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d80-d1e136">Item Clemens Papa [ad Iacobum epist. I.]In illis ciuitatibus uero, in quibus olim apud
             ethnicosprimi flamines eorum atque primi legis doctores erant, episcoporum primates uel
             patriarchas poni B. Petrus precepit,qui reliquorum episcoporum causas et maiora
             negotiain fide agitarent. §. i. In illis autem, in quibusdudum apud ethnicos predictos
@@ -83,10 +81,10 @@
             et non plures sepiscopos constitui precepit, qui episcoporum tantumuocabulo potirentur;
             quoniam nec inter ipsos apostolospar fuit institucio, sed unus prefuit omnibus.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. De eodem.</head>
-          <p>' Item Anacletus [epist. III. cap. 2.]Episcopi non in castellis neque in modicis
+        <div xml:id="gd-p1d80-Dd1e140">
+          <head xml:id="gd-p1d80-Hd1e142">C. III</head>
+          <head xml:id="gd-p1d80-Hd1e145" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d80-d1e148">' Item Anacletus [epist. III. cap. 2.]Episcopi non in castellis neque in modicis
             ciuitatibus debent constitui, sed presbiteri per castella et modicasciuitates atque
             uillas debent ab episcopis ordinari et poni,singuli tamen per singulos titulos suos.
             Episcopus nonab imo, sed a pluribus episcopis debet ordinari, et, ut dictumest, non ad
@@ -94,10 +92,10 @@
             denominandusest. Presbiter uero ad qualemcumque locum in eo constitutae ecclesiae est
             preficiendus.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Leo Papa [ad Episc. Africae, epist. LXXXV. c. 2.]Illud sane, quod ad sacerdotalem
+        <div xml:id="gd-p1d80-Dd1e152">
+          <head xml:id="gd-p1d80-Hd1e154">C. IV</head>
+          <head xml:id="gd-p1d80-Hd1e157" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d80-d1e160">Item Leo Papa [ad Episc. Africae, epist. LXXXV. c. 2.]Illud sane, quod ad sacerdotalem
             pertinet dignitatem,inter omnia uolumus canonum statuta seruari, ut non inquibuslibet
             locis, nec quibuscumque castellis, et ubiante non fuerunt, episcopi consecrentur, cum,
             ubi minoressunt plebes minoresque conuentus, presbiterorum curasufficiat episcopalia
@@ -106,23 +104,23 @@
             possessionibus, uel obscuriset solitariis municipiis tribuatur sacerdotale
             fastigium.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Laudicensi, [c. 57.]Non debere in uicis et uillis episcopos ordinari,
+        <div xml:id="gd-p1d80-Dd1e164">
+          <head xml:id="gd-p1d80-Hd1e166">C. V</head>
+          <head xml:id="gd-p1d80-Hd1e169" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d80-d1e172">Item ex Concilio Laudicensi, [c. 57.]Non debere in uicis et uillis episcopos ordinari,
             seduisitatores*, id est qui circumeant, constitui; his autemqui ante hoc ordinati sunt,
             nichil agere censemus sine</p>
-          <p>conscientia episcopi ciuitatis. Similiter autem presbiteri sine precepto et consilio
+          <p xml:id="gd-p1d80-d1e175">conscientia episcopi ciuitatis. Similiter autem presbiteri sine precepto et consilio
             episcopi nichil agant.</p>
-          <p>II. Pars. Gratian. Sedes autem episcoporum non longo interuallo debent disiungi, ut ad
+          <p xml:id="gd-p1d80-d1e178">II. Pars. Gratian. Sedes autem episcoporum non longo interuallo debent disiungi, ut ad
             consecrationem sui conprouin-cialis sine difficultate*® possint occurrere.</p>
-          <p>Unde Gregorius Augustino Anglorum Episcopo [resp,8.]:</p>
+          <p xml:id="gd-p1d80-d1e182">Unde Gregorius Augustino Anglorum Episcopo [resp,8.]:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Episcopales sedes non longo interuallo a se disiungi
+        <div xml:id="gd-p1d80-Dd1e186">
+          <head xml:id="gd-p1d80-Hd1e188">C. VI</head>
+          <head xml:id="gd-p1d80-Hd1e191" type="question-title">. Episcopales sedes non longo interuallo a se disiungi
             debent.</head>
-          <p>Fraternitatem tuam ita uolumus ordinare episcopos, ut sibi ipsi episcopi longo
+          <p xml:id="gd-p1d80-d1e194">Fraternitatem tuam ita uolumus ordinare episcopos, ut sibi ipsi episcopi longo
             interuallo minime disiungantur,quatinus nulla sit necessitas, ut in ordinatione
             episcopiconuenire non possint. Nam episcoporum ordinatio sineaggregatis tribus aut
             quatuor episcopis fieri nullatenus debet.</p>

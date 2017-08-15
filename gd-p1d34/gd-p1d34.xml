@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d34">
-        <head>DISTINCTIO XXXIV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Domesticarum quoque personarum immoderatam familiaritatem episcopum uitare
+        <head xml:id="gd-p1d34-Hd1e103">DISTINCTIO XXXIV.</head>
+        <p xml:id="gd-p1d34-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d34-d1e109">I. Pars. Domesticarum quoque personarum immoderatam familiaritatem episcopum uitare
           oportet.</p>
-        <p>Unde Nicolaus Papa Adaluino Archiepiscopo:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Etiam consanguinearum inmoderatam familiaritatem uitare
+        <p xml:id="gd-p1d34-d1e112">Unde Nicolaus Papa Adaluino Archiepiscopo:</p>
+        <div xml:id="gd-p1d34-Dd1e115">
+          <head xml:id="gd-p1d34-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d34-Hd1e120" type="question-title">Etiam consanguinearum inmoderatam familiaritatem uitare
             episcopum oportet.</head>
-          <p>Quorumdam relatione ifidelium nostris auribus intimatum est, quod Lanfredus episcopus,
+          <p xml:id="gd-p1d34-d1e123">Quorumdam relatione ifidelium nostris auribus intimatum est, quod Lanfredus episcopus,
             qui et iuuenis essedicitur, uenationi sit deditus, 'quod uitium plurimos etiamde
             clericali catalogo, genere dumtaxat Germanos et Gallos, irreuerentes implicat. Verum
             iste (si itaest, ut audiuimus) merito iuuenis dicitur, qui iuuenilibus desideriis
@@ -83,49 +81,49 @@
             filiae suae conuersatione uitanda uobis ammonitenbus obedire distulerit, a uestro
             collegio excommunicatus absce</p>
 
-          <p>dat. Quod si in hoc adhuc contumax apparuerit, a ministerio cessare debebit* ,
+          <p xml:id="gd-p1d34-d1e126">dat. Quod si in hoc adhuc contumax apparuerit, a ministerio cessare debebit* ,
               <sub>t</sub> .</p>
-          <p>[PALEA,</p>
+          <p xml:id="gd-p1d34-d1e132">[PALEA,</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Ex Concilio Epaonensi c. 4.* ^</head>
-          <p>Episcopum, presbiterum aut diaconum canes ad uenandum, aut accipitres, aut huiusmodi
+        <div xml:id="gd-p1d34-Dd1e137">
+          <head xml:id="gd-p1d34-Hd1e139">C. II.</head>
+          <head xml:id="gd-p1d34-Hd1e142" type="question-title">Ex Concilio Epaonensi c. 4.* ^</head>
+          <p xml:id="gd-p1d34-d1e145">Episcopum, presbiterum aut diaconum canes ad uenandum, aut accipitres, aut huiusmodi
             res habere non licet. Quod si quis talium personarum in hac uoluptatesepius detentus
             fuerit, si episcopus est, tribus mensibus a communione** suspendatur; diaconus uero ab
             omni offitio et communione suspendatur].</p>
-          <p>[PALE A*.</p>
-          <p>C. III.</p>
-          <p>Omnibus seruis Dei uenationes et siluaticas uaga-tiones cum canibus, et ut accipitres
+          <p xml:id="gd-p1d34-d1e148">[PALE A*.</p>
+          <p xml:id="gd-p1d34-d1e151">C. III.</p>
+          <p xml:id="gd-p1d34-d1e155">Omnibus seruis Dei uenationes et siluaticas uaga-tiones cum canibus, et ut accipitres
             aut falcones habeantinterdicimus.]</p>
-          <p>II. Par s. Gratian. Concubina autem hic ea intelligitur, que cessantibus legalibus
+          <p xml:id="gd-p1d34-d1e158">II. Par s. Gratian. Concubina autem hic ea intelligitur, que cessantibus legalibus
             instrumentis unita est, et coniugali affectu asciscitur; hanc coniugem facit affectus,
             concubinam uero lex nominat. De hac dicitur in Concilio Tollet ano [I. c. 17.] </p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Qui non habet uxorem, loco illius concubinam licet
+        <div xml:id="gd-p1d34-Dd1e162">
+          <head xml:id="gd-p1d34-Hd1e164">C. IV.</head>
+          <head xml:id="gd-p1d34-Hd1e167" type="question-title">Qui non habet uxorem, loco illius concubinam licet
             habere.</head>
-          <p>Is, qui* non habet uxorem, et pro uxore concubinam habet, a communione non repellatur:
+          <p xml:id="gd-p1d34-d1e170">Is, qui* non habet uxorem, et pro uxore concubinam habet, a communione non repellatur:
             tamen ut unius mulieris, aut uxoris aut concubinae, sit coniunctione contentus.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Ysidorus de distantia ueteris et noui testamenti</p>
-          <p>Christiano non dicam plurimas, sed nec duas simul habere licitum est, nisi unam tantum
+        <div xml:id="gd-p1d34-Dd1e174">
+          <head xml:id="gd-p1d34-Hd1e176">C. V.</head>
+          <head xml:id="gd-p1d34-Hd1e179" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d34-d1e182">Item Ysidorus de distantia ueteris et noui testamenti</p>
+          <p xml:id="gd-p1d34-d1e185">Christiano non dicam plurimas, sed nec duas simul habere licitum est, nisi unam tantum
             aut uxorem, aut certe loco uxoris (si coniux deest) concubinam.</p>
 
 
 
 
 
-          <p>[PALE A**.</p>
+          <p xml:id="gd-p1d34-d1e188">[PALE A**.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Ex dictis Augustini in lib. VIL homiliarum, hom. 49.4S.</head>
-          <p>Audite carissimi, membra Christi et matris catholicae ecclesiae filii! Quod dico
+        <div xml:id="gd-p1d34-Dd1e192">
+          <head xml:id="gd-p1d34-Hd1e194">C. VI.</head>
+          <head xml:id="gd-p1d34-Hd1e197" type="question-title">Ex dictis Augustini in lib. VIL homiliarum, hom. 49.4S.</head>
+          <p xml:id="gd-p1d34-d1e200">Audite carissimi, membra Christi et matris catholicae ecclesiae filii! Quod dico
             competentibus* et fidelibus, audiant penitentes. Quod dico fidelibus, dico et
             competentibus, et penitentibus. Audiant catecumini, audiant omnes, omnes timeant, nemo
             contempnat; sit mihi in consolationem uester auditus, ne uobis sit in testimonium dolor
@@ -134,16 +132,16 @@
             non licet; et si non habetis uxores, tamen non licebit uobis habere concubinas, quas
             postea dimittatis, et ducatis uxores, tanto magis dampnatio uobis erit, si uolueritis
             habere uxores et concubinas.j</p>
-          <p>III. Pars. Gratian. Ceterum, si non talis concubina fuerit, et etas illius, de quo
+          <p xml:id="gd-p1d34-d1e203">III. Pars. Gratian. Ceterum, si non talis concubina fuerit, et etas illius, de quo
             agitur, futurae incontinentiae suspicionem auferre dignoscitur, apostolica concessione
             ad ordinem diaconatus prouehi potest.</p>
-          <p>Unde Pelagius Papa scribit Florentino Episcopo:</p>
+          <p xml:id="gd-p1d34-d1e206">Unde Pelagius Papa scribit Florentino Episcopo:</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Qui post mortem uxoris de ancilla filios habuerit diaconus
+        <div xml:id="gd-p1d34-Dd1e210">
+          <head xml:id="gd-p1d34-Hd1e212">C. VII.</head>
+          <head xml:id="gd-p1d34-Hd1e215" type="question-title">Qui post mortem uxoris de ancilla filios habuerit diaconus
             fieri permittitur^.</head>
-          <p>Fraternitatis tuae relatione suscepta, eius latorem secundas quidem nuptias expertum
+          <p xml:id="gd-p1d34-d1e218">Fraternitatis tuae relatione suscepta, eius latorem secundas quidem nuptias expertum
             non fuisse didicimus, castitatem tamen eum priori non seruasse coniugio designasti. Et
             quamuis multa sint, que in huiusmodi casibus obseruari canonicae iubeat sublimitatis
             auctoritas: tamenquia defectus nostri temporis, quibus non solum merita, sed corpora
@@ -152,154 +150,154 @@
             diaconatus ordinem possit prouehi, concessisse nos noueris. §. 1. Micinam uero ancillam
             eius, de qua se post uxoris transitum filios habere confessus est, iubemus, ut tua
             dispositione cuicumques monasterio continentiam professura tradatur*.</p>
-          <p>Gratian. Hoc ex dispensatione misericordiae; ceterum ex rigore disciplinae intelligitur
+          <p xml:id="gd-p1d34-d1e221">Gratian. Hoc ex dispensatione misericordiae; ceterum ex rigore disciplinae intelligitur
             illud Aureli an en sis™** Concilii:</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Non admittatur ad clerum, qui preter uxorem aliam
+        <div xml:id="gd-p1d34-Dd1e225">
+          <head xml:id="gd-p1d34-Hd1e227">C. VIII.</head>
+          <head xml:id="gd-p1d34-Hd1e230" type="question-title">Non admittatur ad clerum, qui preter uxorem aliam
             cognouerit.</head>
-          <p>Si quis de laicis post uxorem suam aliam cuiuscumque conditionis cognouerit mulierem,
+          <p xml:id="gd-p1d34-d1e233">Si quis de laicis post uxorem suam aliam cuiuscumque conditionis cognouerit mulierem,
             in clerumnullatenus admittatur.</p>
 
-          <p>IV. Pars. Gratian. Quod ergo de pellice et meretrice apud Gregorium et Innocentium
+          <p xml:id="gd-p1d34-d1e236">IV. Pars. Gratian. Quod ergo de pellice et meretrice apud Gregorium et Innocentium
             scribitur, propter spem futurae incontinentiae constitutum esse creditur, quia difficile
             continentiam seruat, qui se illicito concubitu maculare non metuit. Vel prohibetur
             ordinari, qui pellicem uel meretricem cognouerit maritali affectu, uel quia corrupta
             florem virginitatis amise-rat^^, uel quia meretricari non desinit, licet in uxorem
             ducatur. Utrumque enim inpedimentum cuilibet prestat, quo minus ad sacros ordines
             pertingere ualeat.</p>
-          <p>Unde Ylarius Papa [in Sinodo Romana, cap. 2.] scribit, dicens:</p>
+          <p xml:id="gd-p1d34-d1e239">Unde Ylarius Papa [in Sinodo Romana, cap. 2.] scribit, dicens:</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Qui uirginem non duxit uxorem, ad sacros ordines non
+        <div xml:id="gd-p1d34-Dd1e244">
+          <head xml:id="gd-p1d34-Hd1e246">C. IX.</head>
+          <head xml:id="gd-p1d34-Hd1e249" type="question-title">Qui uirginem non duxit uxorem, ad sacros ordines non
             accedat.</head>
-          <p>Curandum ergo inprimis est, ne ad sacros ordines(sicut gestis prioribus ante
+          <p xml:id="gd-p1d34-d1e252">Curandum ergo inprimis est, ne ad sacros ordines(sicut gestis prioribus ante
             prescriptum est) quisquam, qui uxorem uirginem non duxerit, aspiret.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Bigamus, uel penitens, corpore uitiatus, litteras ignorans,
+        <div xml:id="gd-p1d34-Dd1e256">
+          <head xml:id="gd-p1d34-Hd1e258">C. X.</head>
+          <head xml:id="gd-p1d34-Hd1e261" type="question-title">Bigamus, uel penitens, corpore uitiatus, litteras ignorans,
             curiae uel conditioni obnoxius, clericus non fiat.</head>
-          <p>Item Gregorius urbis Romae Presul Scillacino Episc. [lib. II. epist. 25.]</p>
-          <p>Precipimus, ne umquam illicitas ordinationes facias, nec bigamum aut qui uirginem
+          <p xml:id="gd-p1d34-d1e264">Item Gregorius urbis Romae Presul Scillacino Episc. [lib. II. epist. 25.]</p>
+          <p xml:id="gd-p1d34-d1e267">Precipimus, ne umquam illicitas ordinationes facias, nec bigamum aut qui uirginem
             sortitus non est uxorem, aut ignorantem litteras, uel qualibet parte corporis uitiatum,
             uel penitentem, uel curiae aut cuilibet conditioni obnoxium, ad sacros ordines permittas
             accedere: sed si quos huiusmodi repereris, non audeas promouere.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Non fiat sacerdos, cuius euidenter uxorem constat adulterium
+        <div xml:id="gd-p1d34-Dd1e271">
+          <head xml:id="gd-p1d34-Hd1e273">C. XI.</head>
+          <head xml:id="gd-p1d34-Hd1e276" type="question-title">Non fiat sacerdos, cuius euidenter uxorem constat adulterium
             admisisse.</head>
-          <p>Item in Neocesariensi Concilio [cap. 8.]</p>
-          <p>Si cuius uxorem adulterium commisisse, cum esset laicus, euidenter fuerit comprobatum,
+          <p xml:id="gd-p1d34-d1e279">Item in Neocesariensi Concilio [cap. 8.]</p>
+          <p xml:id="gd-p1d34-d1e282">Si cuius uxorem adulterium commisisse, cum esset laicus, euidenter fuerit comprobatum,
             hic ad ministerium ecclesiasticum admitti non potest. Quod si in clericatu eo iam
             constituto adulterauit, dato repudio dimittere eam debet. Si uero retinere eius
             consortium uelit, non potest suscepto ministerio perfrui.</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item ex Concilio Martini Papae.</p>
-          <p>Si laici uxor in adulterio fuerit deprehensa, hic talis ad ministerium ecclesiasticum
+        <div xml:id="gd-p1d34-Dd1e286">
+          <head xml:id="gd-p1d34-Hd1e288">C. XII.</head>
+          <head xml:id="gd-p1d34-Hd1e291" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d34-d1e294">Item ex Concilio Martini Papae.</p>
+          <p xml:id="gd-p1d34-d1e297">Si laici uxor in adulterio fuerit deprehensa, hic talis ad ministerium ecclesiasticum
             nullo modo adducatur. Si autem post ordinationem alicuius clerici uxor adulterata
             fuerit, dimittat eam. Si autem cum ipsa uoluerit permanere, a ministerio alienus
             sit.</p>
-          <p>Gratian. Premissis auctoritatibus bigami et qui uirgines non sunt sortiti uxores a
+          <p xml:id="gd-p1d34-d1e300">Gratian. Premissis auctoritatibus bigami et qui uirgines non sunt sortiti uxores a
             sacris ordinibus prohibentur. Sed</p>
 
 
 
 
 
-          <p>queritur, &gt;$i quis mte baptisma uiduam duxerit uxorem, an propterea sit prohibendus
+          <p xml:id="gd-p1d34-d1e304">queritur, &gt;$i quis mte baptisma uiduam duxerit uxorem, an propterea sit prohibendus
             a sacris ordinibus f</p>
-          <p>De his ita scribit Innocentius Papa Victricio Rotomagensi Episcopo, {epist. II. cap. 5.
+          <p xml:id="gd-p1d34-d1e307">De his ita scribit Innocentius Papa Victricio Rotomagensi Episcopo, {epist. II. cap. 5.
             et 6.]</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Qui ante baptisma, seu post baptisma uiduam uxorem duxerit®**,
+        <div xml:id="gd-p1d34-Dd1e311">
+          <head xml:id="gd-p1d34-Hd1e313">C. XIII.</head>
+          <head xml:id="gd-p1d34-Hd1e316" type="question-title">Qui ante baptisma, seu post baptisma uiduam uxorem duxerit®**,
             non admittatur ad clerum.</head>
-          <p>Si quis uiduam (licet laicus) duxerit uxorem, siue ante baptismum, siue post baptismum,
+          <p xml:id="gd-p1d34-d1e319">Si quis uiduam (licet laicus) duxerit uxorem, siue ante baptismum, siue post baptismum,
             non admittatur ad clerum, quia eodem uitio uidetur exclusus. In baptismate enim crimina
             dimittuntur, non acceptae uxoris consortium relaxatur**** si tum putatur *u«w «isse
             com</p>
-          <p>putanda, que ante baptismum ducta est, ergo nec filii, qui ante baptismum geniti sunt,
+          <p xml:id="gd-p1d34-d1e322">putanda, que ante baptismum ducta est, ergo nec filii, qui ante baptismum geniti sunt,
             pro filiis habeantur.</p>
-          <p>Gratian. Prohibentur etiam bigami a quolibet ordine clericatus, iuxta illud Ambrosii,
+          <p xml:id="gd-p1d34-d1e325">Gratian. Prohibentur etiam bigami a quolibet ordine clericatus, iuxta illud Ambrosii,
             [epist. LXXXII.] ad Vercellenses^</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">Qui secunda coniugia sortitur, clericus non fiat.</head>
-          <p>Cognoscamus, non solum de episcopo et presbitero Apostolum statuisse, sed etiam Patres
+        <div xml:id="gd-p1d34-Dd1e329">
+          <head xml:id="gd-p1d34-Hd1e331">C. XIV.</head>
+          <head xml:id="gd-p1d34-Hd1e334" type="question-title">Qui secunda coniugia sortitur, clericus non fiat.</head>
+          <p xml:id="gd-p1d34-d1e337">Cognoscamus, non solum de episcopo et presbitero Apostolum statuisse, sed etiam Patres
             in concilii Niceni tractatu addidisse, clericum quemquam non debere esse, qui secunda
             coniugia sit sortitus.</p>
-          <p>V. Pars. Gratian. Similiter etiam uiduarum mariti, uel ancillarum, uel meretricum,
+          <p xml:id="gd-p1d34-d1e340">V. Pars. Gratian. Similiter etiam uiduarum mariti, uel ancillarum, uel meretricum,
             clerici fieri non possunt.</p>
-          <p>Unde in canonibus Apostolorum, [c. 18.] legitur;</p>
+          <p xml:id="gd-p1d34-d1e343">Unde in canonibus Apostolorum, [c. 18.] legitur;</p>
         </div>
-        <div>
-          <head>C. XV.</head>
-          <head type="question-title">Spectaculis publicis mancipatam, uel eiectam, uel ancillam
+        <div xml:id="gd-p1d34-Dd1e348">
+          <head xml:id="gd-p1d34-Hd1e350">C. XV.</head>
+          <head xml:id="gd-p1d34-Hd1e353" type="question-title">Spectaculis publicis mancipatam, uel eiectam, uel ancillam
             ducens uxorem, diaconus* non fiat.</head>
-          <p>Si quis uiduam aut eiectam acceperit, aut meretricem, aut ancillam, uel aliquam de his,
+          <p xml:id="gd-p1d34-d1e356">Si quis uiduam aut eiectam acceperit, aut meretricem, aut ancillam, uel aliquam de his,
             que publicis spectaculis mancipantur, non potest esse episcopus, aut presbiter, aut
             diaconus, aut ex eorum numero, qui ministerio sacro deseruiunt.</p>
-          <p>VI. Pars. Gratian. Que autem sit uidua, que eiecta, uel meretrix, leronimus [epist.
+          <p xml:id="gd-p1d34-d1e359">VI. Pars. Gratian. Que autem sit uidua, que eiecta, uel meretrix, leronimus [epist.
             CXXVIII.] ad Fabiolam de ueste sacerdotali, ostendit dicens:</p>
         </div>
-        <div>
-          <head>C. XVI.</head>
-          <head type="question-title">Que sit uidua, uel eiecta, uel meretrix.</head>
-          <p>Vidua est, cuius maritus mortuus est. Eiecta, quea marito uiuente proicitur. Meretrix,
+        <div xml:id="gd-p1d34-Dd1e363">
+          <head xml:id="gd-p1d34-Hd1e365">C. XVI.</head>
+          <head xml:id="gd-p1d34-Hd1e368" type="question-title">Que sit uidua, uel eiecta, uel meretrix.</head>
+          <p xml:id="gd-p1d34-d1e371">Vidua est, cuius maritus mortuus est. Eiecta, quea marito uiuente proicitur. Meretrix,
             que multorum libidini patet.</p>
-          <p>VII. Pars. Gratian. Sed postea temporum defectui condescendens Papa Martinus in
+          <p xml:id="gd-p1d34-d1e374">VII. Pars. Gratian. Sed postea temporum defectui condescendens Papa Martinus in
             minoribus ordinibus eos constitui permisit, dicens:</p>
         </div>
-        <div>
-          <head>C. XVII.</head>
-          <head type="question-title">Inter lectores uel hostiarios deputetur subdiaconus, secundam
+        <div xml:id="gd-p1d34-Dd1e378">
+          <head xml:id="gd-p1d34-Hd1e380">C. XVII.</head>
+          <head xml:id="gd-p1d34-Hd1e383" type="question-title">Inter lectores uel hostiarios deputetur subdiaconus, secundam
             ducens uxorem.</head>
-          <p>Si subdiaconus secundam uxorem duxerit, inter lectores uel hostiarios habeatur, ita ut
+          <p xml:id="gd-p1d34-d1e386">Si subdiaconus secundam uxorem duxerit, inter lectores uel hostiarios habeatur, ita ut
             Apostolum non legat.</p>
-          <p>Gratian. Necessitate tamen exigente bigami usque ad sub-diaconatum possunt
+          <p xml:id="gd-p1d34-d1e389">Gratian. Necessitate tamen exigente bigami usque ad sub-diaconatum possunt
             promoueri.</p>
 
-          <p>Unde Murrinus Papa ait:</p>
+          <p xml:id="gd-p1d34-d1e392">Unde Murrinus Papa ait:</p>
         </div>
-        <div>
-          <head>C. XVIII.</head>
-          <head type="question-title">Viduam ducens uxorem, subdiaconus fieri potest.</head>
-          <p>Lector, si uiduam uxorem alterius acceperit, in lecto-ratu permaneat, aut .si
+        <div xml:id="gd-p1d34-Dd1e396">
+          <head xml:id="gd-p1d34-Hd1e398">C. XVIII.</head>
+          <head xml:id="gd-p1d34-Hd1e401" type="question-title">Viduam ducens uxorem, subdiaconus fieri potest.</head>
+          <p xml:id="gd-p1d34-d1e404">Lector, si uiduam uxorem alterius acceperit, in lecto-ratu permaneat, aut .si
             necessitas fuerit^, subdiaconus fiat, nichil autem supra. Similiter et si bigamus
             fuerit.</p>
-          <p>VIII. Pars. Gratian. Quibus autem propria coniugia prohibentur, interdicitur etiam
+          <p xml:id="gd-p1d34-d1e407">VIII. Pars. Gratian. Quibus autem propria coniugia prohibentur, interdicitur etiam
             nuptialibus conuiuiis interesse.</p>
-          <p>Unde in Aga t en si Concilio, [cap. 39.] legitur:</p>
+          <p xml:id="gd-p1d34-d1e410">Unde in Aga t en si Concilio, [cap. 39.] legitur:</p>
         </div>
-        <div>
-          <head>C. XIX.</head>
-          <head type="question-title">Nuptiarum conuiuiis presbiteri interesse non debent.</head>
-          <p>Presbiteri, diacones, subdiacones uel deinceps, quibus ducendi uxores licentia non
+        <div xml:id="gd-p1d34-Dd1e414">
+          <head xml:id="gd-p1d34-Hd1e416">C. XIX.</head>
+          <head xml:id="gd-p1d34-Hd1e419" type="question-title">Nuptiarum conuiuiis presbiteri interesse non debent.</head>
+          <p xml:id="gd-p1d34-d1e422">Presbiteri, diacones, subdiacones uel deinceps, quibus ducendi uxores licentia non
             est*, etiam alienarum nuptiarum euitent conuiuia, nec his cetibus misceantur, ubi
             amatoria cantantur et turpia, aut obsceni motus corporum choris et saltacionibus
             efferuntur, ne auditus et obtutus sacris misteriis deputatus turpium spectaculorum atque
             uerborum contagione polluantur,.</p>
-          <p>IX. Pars. Gratian. Vidua uero intelligenda est<sub>9</sub> si post solempne fedus
+          <p xml:id="gd-p1d34-d1e425">IX. Pars. Gratian. Vidua uero intelligenda est<sub>9</sub> si post solempne fedus
             nuptiarum morte interueniente a uiro suo diuisa fuerit. Ceterum si antequam conueniant
             fatali necessitate ab alterutro diuisi fuerint, licet ex sponsalibus uxor sit appellata,
             non tamen post mortem sponsi, et si in propria sit ducta, et cum eo uelata, uidua
             appellatur, nec ex eius copula a sacris ordinibus aliquis prohibetur.</p>
-          <p>Unde Pelagius Papa scribit:</p>
+          <p xml:id="gd-p1d34-d1e431">Unde Pelagius Papa scribit:</p>
         </div>
-        <div>
-          <head>C. XX.</head>
-          <head type="question-title">Qui cum alio uelatam, non tamen illi nuptam, uxorem dfuxit,
+        <div xml:id="gd-p1d34-Dd1e435">
+          <head xml:id="gd-p1d34-Hd1e437">C. XX.</head>
+          <head xml:id="gd-p1d34-Hd1e440" type="question-title">Qui cum alio uelatam, non tamen illi nuptam, uxorem dfuxit,
             sacerdos fieri non prohibetur.</head>
-          <p>Valentino clerico, cui mulier cum alio ante uelata, non tamen illi nupta, sed uirgo
+          <p xml:id="gd-p1d34-d1e443">Valentino clerico, cui mulier cum alio ante uelata, non tamen illi nupta, sed uirgo
             permanens, post mortem eius, cum quo uelata erat sponso, coniugali est copula sociata,
             quia iterum uelamen accepit, nullum in promouendo generetur obstaculum, quia nichil est
             (quantum ad hunc articulum pertinet) quod ei de canonicis obuiet constitutis .</p>

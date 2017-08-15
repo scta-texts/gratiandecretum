@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,23 +53,23 @@
     </front>
     <body>
       <div xml:id="gd-p1d82">
-        <head>DISTINCTIO LXXXII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Generaliter etiam pauperibus et his, qui suis manibus laborare non possunt,
+        <head xml:id="gd-p1d82-Hd1e103">DISTINCTIO LXXXII.</head>
+        <p xml:id="gd-p1d82-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d82-d1e109">I. Pars. Generaliter etiam pauperibus et his, qui suis manibus laborare non possunt,
           episcopus necessaria prouideat.</p>
-        <p>Unde in Aur.elianensi Concilio [I. c. 18.] legitur:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Episcopus pauperibus uel infirmis, qui debilitate faciente suis manibus laborare non
+        <p xml:id="gd-p1d82-d1e112">Unde in Aur.elianensi Concilio [I. c. 18.] legitur:</p>
+        <div xml:id="gd-p1d82-Dd1e115">
+          <head xml:id="gd-p1d82-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d82-Hd1e120" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d82-d1e123">Episcopus pauperibus uel infirmis, qui debilitate faciente suis manibus laborare non
             possunt, uictum et uestitum (inquantum sibi possibile fuerit) largiatur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Qui uoluptatem offitio preposuerit, modis omnibus
+        <div xml:id="gd-p1d82-Dd1e128">
+          <head xml:id="gd-p1d82-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d82-Hd1e133" type="question-title">. Qui uoluptatem offitio preposuerit, modis omnibus
             submoueatur</head>
-          <p>Item Innocentius Exsuperio Tolletano Episcopo, [epist. III. c. 1.]</p>
-          <p>II. Pars. Proposuisti, quid de his obseruari debeat,quos in diaconii ministerio aut in
+          <p xml:id="gd-p1d82-d1e136">Item Innocentius Exsuperio Tolletano Episcopo, [epist. III. c. 1.]</p>
+          <p xml:id="gd-p1d82-d1e139">II. Pars. Proposuisti, quid de his obseruari debeat,quos in diaconii ministerio aut in
             offitio presbiterii positos incontinentes esse aut fuisse generati filii prodiderunt.De
             his etiam manifesta diuinarum legum est disciplina,et beatae recordationis Siricii
             episcopi monita euiaentiacommearunt, ut incontinentes in offitiis talibus positiomni
@@ -96,19 +94,19 @@
             apertius declarat dicens: „Qui autem in carne sunt, Deo placere non possunt. Vos
             autemiam non estis in carne, sed in spiritu . Sed ea plane dis-par et diuersa sententia
             est. Nam si ad aliquos forma</p>
-          <p>ecclesiasticae uitae pariter et disciplinae, que ab episcopo Siricio ad omnesy
+          <p xml:id="gd-p1d82-d1e142">ecclesiasticae uitae pariter et disciplinae, que ab episcopo Siricio ad omnesy
             prouincias comeauit, non probatur</p>
-          <p>Seruenisse, his ignorantibus uenia non negabitur, ita ut e cetero penitus incipiant
+          <p xml:id="gd-p1d82-d1e146">Seruenisse, his ignorantibus uenia non negabitur, ita ut e cetero penitus incipiant
             abstinere et ita gradus suos, inquibus fuerint inuenti, retentent, ut eis non liceat
             adpotiora conscendere; quibus in beneficio esse debet,quod hunc ipsum locum, quem
             retinent, non amittunt.§. i. Si qui autem scisse formam uiuendi missam a
             Siriciodeteguntur, neque statim cupiditates libidinis abiecisse,illi sunt modis omnibus
             submouendj, qui post admonitionem cognitam preponendam arbitrati sunt uoluptatem.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item S iri cius Papa [ad Himerium Tarraconensem Episcopum, epist. I. cap. 7.]Plurimos
+        <div xml:id="gd-p1d82-Dd1e150">
+          <head xml:id="gd-p1d82-Hd1e152">C. III</head>
+          <head xml:id="gd-p1d82-Hd1e155" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d82-d1e158">Item S iri cius Papa [ad Himerium Tarraconensem Episcopum, epist. I. cap. 7.]Plurimos
             sacerdotes Christi atque Leuitas post longaconsecrationis suae tempora tam de coniugibus
             propriis,quam etiam de turpi coitu sobolem didicimus procreasse, etcrimen suum hac
             prescriptione defendere, quia in ueteritestamento sacerdotibus ac ministris generandi
@@ -122,9 +120,9 @@
             deseruitionis suae temporeuxoris usus solius successionis causa fuerat relaxatus,quia
             non ex alia tribu, nisi ex Leui, quisquam ad Dei ministerium fuerat preceptus
             admitti.</p>
-          <p>[C. IV.]*</p>
-          <p>/&lt;em.</p>
-          <p>Quia aliquanti, de quibus loquimur, (ut tua sanctitas retulit), ignorantia lapsos se
+          <p xml:id="gd-p1d82-d1e161">[C. IV.]*</p>
+          <p xml:id="gd-p1d82-d1e164">/&lt;em.</p>
+          <p xml:id="gd-p1d82-d1e168">Quia aliquanti, de quibus loquimur, (ut tua sanctitas retulit), ignorantia lapsos se
             esse deflent, his hac condicione misericordiam dicimus non negandam, ut sine ullohonoris
             augmento, in hoc, quo deiecti sunt, quamdiuuixerint, offitio perseuerent: si tamen post
             hoc continentes se studuerint exhibere. Hi uero, qui illiciti priuilegiiexcusatione
@@ -135,15 +133,15 @@
             episcopus, presbiter atquediaconus (quod non optamus) fuerit talis inuentus, iamnunc
             sibi omnem per nos indulgentiae aditum intelligatobseratum, quia ferro necesse est ut
             abscidanturs uulnera,que fomentorum non senserint medicinam.</p>
-          <p>III. Pars. Gratian. Qui autem propter peccatumiubetur deponi, post condignam
+          <p xml:id="gd-p1d82-d1e171">III. Pars. Gratian. Qui autem propter peccatumiubetur deponi, post condignam
             penitenciam in suo ordine pote-rit i reparari.</p>
-          <p>Unde in Gangrensi Concilio legitur^*.</p>
+          <p xml:id="gd-p1d82-d1e174">Unde in Gangrensi Concilio legitur^*.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Que penitentia sit inponenda sacerdoti, qui de fornicatione
+        <div xml:id="gd-p1d82-Dd1e178">
+          <head xml:id="gd-p1d82-Hd1e180">C. V</head>
+          <head xml:id="gd-p1d82-Hd1e183" type="question-title">. Que penitentia sit inponenda sacerdoti, qui de fornicatione
             conuictus fuerit.</head>
-          <p>Presbiter, si fornicationem fecerit, quamquam secundum canones Apostolorum debeat
+          <p xml:id="gd-p1d82-d1e186">Presbiter, si fornicationem fecerit, quamquam secundum canones Apostolorum debeat
             deponi, tamen iuxta auctoritatem B. Siluestri Papae, si non in uitio perdurauerit, sib
             sponte confessus adierit, ut resurgeret, decemannis in hunc modum peniteat: tribus
             siquidem mensibus a ceteris remotus pane et aqua a uespera inuesperam utatur, diebus
@@ -161,7 +159,7 @@
             pascalibus diebus, tres legitimas ferias in unaquaque ebdomadain pane et aqua ieiunet.
             Expleto septimi anni circulo,si 1431 fratres apud quos penituit, eius condignam
             peni-</p>
-          <p>tentiam laudauerint*, episcopus in pristinum honoremiuxta B. Calixti Papae auctoritatem
+          <p xml:id="gd-p1d82-d1e189">tentiam laudauerint*, episcopus in pristinum honoremiuxta B. Calixti Papae auctoritatem
             eum reuocare poterit. Sane sciendum est, quia secundam feriam unumpsalterium canendo,
             aut unum denarium pauperibusdando, si opus est, redimere poterit. Finitis septem pannis,
             deinde usque ad finem decimi anni sextam feriam(nulla interueniente redemptione)

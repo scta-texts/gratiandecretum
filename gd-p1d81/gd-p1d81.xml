@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,43 +53,43 @@
     </front>
     <body>
       <div xml:id="gd-p1d81">
-        <head>DISTINCTIO LXXXI.</head>
-        <p> GRATIANUS.</p>
-        <p>I. Pars. Hec de ordinandis et ordinatoribus atque de singulorum graduum distinctionibus
+        <head xml:id="gd-p1d81-Hd1e103">DISTINCTIO LXXXI.</head>
+        <p xml:id="gd-p1d81-d1e106"> GRATIANUS.</p>
+        <p xml:id="gd-p1d81-d1e109">I. Pars. Hec de ordinandis et ordinatoribus atque de singulorum graduum distinctionibus
           et offitiis dixisse nos sufficiat.Verum quia aliquantulum diffusius in his immorati sumus,
           precedentibus coherentia quedam sub epilogo ad memoriam subiciamus.Debet autem ordinandus
           in episcopum {ut Apostolus scribit)esse ,,sine \crimine, id est sine peccato mortifero,
           quod nonsolum de episcopo, sed etiam de quolibet electo ad aliquam pre-posituram ecclesiae
           oportet intelligi.</p>
-        <p>Unde Augustinus scribit supra Iohannem:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Sine crimine id est% sine graui peccato debet esse qui
+        <p xml:id="gd-p1d81-d1e112">Unde Augustinus scribit supra Iohannem:</p>
+        <div xml:id="gd-p1d81-Dd1e115">
+          <head xml:id="gd-p1d81-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d81-Hd1e120" type="question-title">. Sine crimine id est% sine graui peccato debet esse qui
             ordinatur episcopus.</head>
-          <p>Apostolus Paulus, quando elegit ordinandos uel presbiteros, uel diacones, et quicumque
+          <p xml:id="gd-p1d81-d1e123">Apostolus Paulus, quando elegit ordinandos uel presbiteros, uel diacones, et quicumque
             ordinandus est ad pre-posituram ecclesiae, non ait: „Si quis sine peccato est,“ (hoc
             enim si diceret, omnis homo reprobaretur, et nullusordinaretur,) sed ait: ,,Si quis sine
             crimine est:“ sicut esthomicidium, adulterium, aut aliqua inmunditia fornicationis,
             furtum, fraus, sacrilegium et cetera huiusmodi.§. i. Crimen autem est graue peccatum,
             accusatione etaampnatione dignissimum.</p>
-          <p>II. Pars. Gratian. Quolibet itaque horum inplicatus ordinari non debet; uel si iam
+          <p xml:id="gd-p1d81-d1e126">II. Pars. Gratian. Quolibet itaque horum inplicatus ordinari non debet; uel si iam
             ordinatus ante tempus uel post tempussuae ordinationis aliquid eorum admisisse
             conuinciiur, susceptigradus offitio priuabitur.</p>
-          <p>Unde Sim acus Papa ait:</p>
+          <p xml:id="gd-p1d81-d1e129">Unde Sim acus Papa ait:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Monitoris personam recte non suscipit, qui uerbis, non
+        <div xml:id="gd-p1d81-Dd1e134">
+          <head xml:id="gd-p1d81-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d81-Hd1e139" type="question-title">. Monitoris personam recte non suscipit, qui uerbis, non
             operibus docet.</head>
-          <p>Nemo recte monitoris personam suscipit, nisi qui actibus suis errata condempnat, et
+          <p xml:id="gd-p1d81-d1e142">Nemo recte monitoris personam suscipit, nisi qui actibus suis errata condempnat, et
             amorem innocentiae conuersa-tione demonstrat.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Car eat ordine, quem pr estat, qui indignum sublimare non
+        <div xml:id="gd-p1d81-Dd1e146">
+          <head xml:id="gd-p1d81-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d81-Hd1e151" type="question-title">. Car eat ordine, quem pr estat, qui indignum sublimare non
             metuit.</head>
-          <p>Item Cei e s tinus Papa- [ad Episcopos Galliae, epist. II. c. 3.]</p>
-          <p>Tantis Daniel grauatus testimoniis facinorum, tanta accusatione pulsatus, sacrarum, ut
+          <p xml:id="gd-p1d81-d1e154">Item Cei e s tinus Papa- [ad Episcopos Galliae, epist. II. c. 3.]</p>
+          <p xml:id="gd-p1d81-d1e157">Tantis Daniel grauatus testimoniis facinorum, tanta accusatione pulsatus, sacrarum, ut
             dicitur, uirginum pollutus incestu, episcopus asseritur ordinatus. Et, ut in
             nostrilibellis scrinii continetur, quorum ad uos quoque exemplariadireximus, in
             pontificii dignitatem hoc tempore, quo ad causam dicendam missis a nobis litteris
@@ -100,28 +98,28 @@
             sibi credidit largiendo pontificium sociandum. Qualis enim ipse sit, quisquis tales
             ordinauerit, ostendit.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Non recipit ordo ecclesiasticus, qui m examinatione, uel
+        <div xml:id="gd-p1d81-Dd1e161">
+          <head xml:id="gd-p1d81-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d81-Hd1e166" type="question-title">. Non recipit ordo ecclesiasticus, qui m examinatione, uel
             postea confessus ordinatur.</head>
-          <p>Item &amp;r Concilio Ni ceno, [cap. 9.]Si qui sine examinatione promoti presbiteri
+          <p xml:id="gd-p1d81-d1e169">Item &amp;r Concilio Ni ceno, [cap. 9.]Si qui sine examinatione promoti presbiteri
             sunt, etpostea examinati confessi sunt peccata sua, et, cum confessifuissent, homines
             uenientes contra regulam eis manus in-posuerunt, hos ecclesiasticus ordo non recipit. In
             omnibusenim quod inrepreliensibiie est defendit ecclesia.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Lapsi, per ignorantiam aut contemptu ordinantium
+        <div xml:id="gd-p1d81-Dd1e173">
+          <head xml:id="gd-p1d81-Hd1e175">C. V</head>
+          <head xml:id="gd-p1d81-Hd1e178" type="question-title">. Lapsi, per ignorantiam aut contemptu ordinantium
             tonsorati^*, deiciantur.</head>
-          <p>Item eiusdem Concilii [cap. 10.] Quicumque ex his, qui lapsi sunt, per ignorantiamiam
+          <p xml:id="gd-p1d81-d1e181">Item eiusdem Concilii [cap. 10.] Quicumque ex his, qui lapsi sunt, per ignorantiamiam
             ordinati sunt, uel contemptu* eorum, qui eos ordina-uerunt, hoc non preiudicat regulae
             ecclesiasticae. Cum enimcompertum fuerit, deponentur.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Alienus fiat a ministerio, qui illud uiuendo illicite
+        <div xml:id="gd-p1d81-Dd1e185">
+          <head xml:id="gd-p1d81-Hd1e187">C. VI</head>
+          <head xml:id="gd-p1d81-Hd1e190" type="question-title">. Alienus fiat a ministerio, qui illud uiuendo illicite
             polluit.</head>
-          <p>Item Innocentius [ad Maximum et Seuerum, ep. V.]Maximilianus filius noster qualem
+          <p xml:id="gd-p1d81-d1e193">Item Innocentius [ad Maximum et Seuerum, ep. V.]Maximilianus filius noster qualem
             querelam detulerit, libelli eius series adnexa declarat. Qui zelo fideiac disciplinae
             ductus, non patitur ecclesiam pollui abindignis presbiteris, quos in presbiterio filios
             asserit procreasse. Et ideo, fratres, huius libelli, qui subiectusest, tenore perspecto,
@@ -130,158 +128,158 @@
             remoueantur offitio, (quia qui sanctinon sunt sancta attractare non possunt,) atque
             alieniefficiantur a ministerio, quod uiuendo illicite polluerunt.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Cuilibet ab ordine deponendo episcopi prouidentia locus
+        <div xml:id="gd-p1d81-Dd1e197">
+          <head xml:id="gd-p1d81-Hd1e199">C. VII</head>
+          <head xml:id="gd-p1d81-Hd1e202" type="question-title">. Cuilibet ab ordine deponendo episcopi prouidentia locus
             penitenciae deputetur.</head>
-          <p>Item Eugenius Papa [II.]Sacerdos, aut quis alius in ordine ecclesiastico pro-uectus, si
+          <p xml:id="gd-p1d81-d1e205">Item Eugenius Papa [II.]Sacerdos, aut quis alius in ordine ecclesiastico pro-uectus, si
             in eo scelere inuenitur, quo abiciendus conprobe-</p>
-          <p>tur, depositus prouidentia episcopi bene prouiso loco constituatur, ubi peccatum lugeat
+          <p xml:id="gd-p1d81-d1e208">tur, depositus prouidentia episcopi bene prouiso loco constituatur, ubi peccatum lugeat
             et ulterius noncommittat.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Retrudantur in monasterio* presbiteri, qui penitenciam agere
+        <div xml:id="gd-p1d81-Dd1e213">
+          <head xml:id="gd-p1d81-Hd1e215">C. VIII</head>
+          <head xml:id="gd-p1d81-Hd1e218" type="question-title">. Retrudantur in monasterio* presbiteri, qui penitenciam agere
             contempnunt.</head>
-          <p>Item ex Concilio Magontiensi.</p>
-          <p>Dictum est nobis, presbiteros propter suam negligentiam canonice degradatos et
+          <p xml:id="gd-p1d81-d1e221">Item ex Concilio Magontiensi.</p>
+          <p xml:id="gd-p1d81-d1e224">Dictum est nobis, presbiteros propter suam negligentiam canonice degradatos et
             seculariter gradu amisso uiuere, et penitenciae agendae bonum negligere. Unde statuimus,
             utgradu amisso agendae penitenciae gratia in monasterium*aut canonicam regularem
             mittantur. Si uero hocfieri causa quelibet prohibuerit, ubicumque sint, penitenciam
             agere non desistant. Si autem amisso gradu seculariteruiuere uoluerint, et penitenciam
             agere neglexerint, ab ecclesiae communione separentur.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Mutatio loci ualet conuersis ad penitenciam.</head>
-          <p>Item Ysidorus [Sentenciarum, de summo bono, lib. II. c. io.]</p>
-          <p>Valet interdum conuersis pro animae salute mutatio loci; plerumque enim, dum mutatur
+        <div xml:id="gd-p1d81-Dd1e228">
+          <head xml:id="gd-p1d81-Hd1e230">C. IX</head>
+          <head xml:id="gd-p1d81-Hd1e233" type="question-title">. Mutatio loci ualet conuersis ad penitenciam.</head>
+          <p xml:id="gd-p1d81-d1e236">Item Ysidorus [Sentenciarum, de summo bono, lib. II. c. io.]</p>
+          <p xml:id="gd-p1d81-d1e239">Valet interdum conuersis pro animae salute mutatio loci; plerumque enim, dum mutatur
             locus, mutatur mentis affectus.' Congruum est ergo, inde etiam corporaliter euelli ubi
             quisque illecebris deseruiuit. Nam locus,ubi praue quisque uixit, in aspectu mentis
             apponitquod sepe ibi uel cogitauit, uel gessit.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Clericus adulterasse conuictus uel confessus in • monasterio
+        <div xml:id="gd-p1d81-Dd1e243">
+          <head xml:id="gd-p1d81-Hd1e245">C. X</head>
+          <head xml:id="gd-p1d81-Hd1e248" type="question-title">. Clericus adulterasse conuictus uel confessus in • monasterio
             retrudatur .</head>
-          <p>Item ex VII. Sinodo Aurelianensi, [c. 7.]</p>
-          <p>Si quis clericus adulterasse aut confessus fuerit, aut conuictus, depositus ab offitio
+          <p xml:id="gd-p1d81-d1e251">Item ex VII. Sinodo Aurelianensi, [c. 7.]</p>
+          <p xml:id="gd-p1d81-d1e254">Si quis clericus adulterasse aut confessus fuerit, aut conuictus, depositus ab offitio
             communione concessain monasterio toto uitae suae tempore trudatur.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Pelagius Constantino Defensori.</p>
-          <p>Romanus ecclesiae Thianensis clericus pro crimine adulterii, quod admisisse perhibetur,
+        <div xml:id="gd-p1d81-Dd1e258">
+          <head xml:id="gd-p1d81-Hd1e260">C. XI</head>
+          <head xml:id="gd-p1d81-Hd1e263" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e266">Item Pelagius Constantino Defensori.</p>
+          <p xml:id="gd-p1d81-d1e269">Romanus ecclesiae Thianensis clericus pro crimine adulterii, quod admisisse perhibetur,
             a clericatus ordinedepositus in monasterio hic in urbe Romana ad agendam penitenciam ex
             nostra iussione retrusus est.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. In crimine captus presbiter uel diaconus deponatur, sed
+        <div xml:id="gd-p1d81-Dd1e273">
+          <head xml:id="gd-p1d81-Hd1e275">C. XII</head>
+          <head xml:id="gd-p1d81-Hd1e278" type="question-title">. In crimine captus presbiter uel diaconus deponatur, sed
             communione non priuetur.</head>
-          <p>Item ex canone Apostolorum [c. 25.]Presbiter aut diaconus, qui in fornicatione, aut
+          <p xml:id="gd-p1d81-d1e281">Item ex canone Apostolorum [c. 25.]Presbiter aut diaconus, qui in fornicatione, aut
             furto,aut periurio, aut homicidio* captus est, deponatur, nontamen communione
             priuetur**; dicit enim scriptura:„Non iudicat Deus bis in id ipsum.“</p>
           <a/>
           <h1>
             <a/>C. XIII. De eodem.</h1>
-          <p>Item *.</p>
-          <p>Si quis episcopus, aut presbiter, aut diaconus post diaconii sui gradus acceptos fuerit
+          <p xml:id="gd-p1d81-d1e292">Item *.</p>
+          <p xml:id="gd-p1d81-d1e295">Si quis episcopus, aut presbiter, aut diaconus post diaconii sui gradus acceptos fuerit
             fornicatus autmechatus, deponatur, et ab ecclesia proiectus inter laicos** agat
             penitenciam.</p>
         </div>
-        <div>
-          <head>C. XIV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Aurelianensi \\, c. 9. et 12.]Si diaconus aut presbiter crimen
+        <div xml:id="gd-p1d81-Dd1e299">
+          <head xml:id="gd-p1d81-Hd1e301">C. XIV</head>
+          <head xml:id="gd-p1d81-Hd1e304" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e307">Item ex Concilio Aurelianensi \\, c. 9. et 12.]Si diaconus aut presbiter crimen
             capitale commiserit, simul et ab offitio, et communione pellatur.Si uero pro reatu suo
             se ab altaris communione sub peni-tentis professione submouerit, his quoque, si alii
             defuerint, et causa certae necessitatis exoritur, poscentembaptismum liceat
             baptizare.</p>
         </div>
-        <div>
-          <head>C. XV</head>
-          <head type="question-title">. Non ingrediantur ecclesias presbiteri, diaconi, subdiaconi,
+        <div xml:id="gd-p1d81-Dd1e312">
+          <head xml:id="gd-p1d81-Hd1e314">C. XV</head>
+          <head xml:id="gd-p1d81-Hd1e317" type="question-title">. Non ingrediantur ecclesias presbiteri, diaconi, subdiaconi,
             qui in fornicationis crimine iacent.</head>
-          <p>Item Gregorius [VII.] omnibus per regnum Italicum et Teutonicorum *.</p>
-          <p>Si qui sunt presbiteri, diaconi, uel subdiaconi, qui in crimine fornicationis iacent,
+          <p xml:id="gd-p1d81-d1e320">Item Gregorius [VII.] omnibus per regnum Italicum et Teutonicorum *.</p>
+          <p xml:id="gd-p1d81-d1e323">Si qui sunt presbiteri, diaconi, uel subdiaconi, qui in crimine fornicationis iacent,
             interdicimus eis ex parteDei omnipotentis et S. Petri auctoritate ecclesiae introitum,
             usque dum peniteant et emendent. Si qui uero inpeccato suo perseuerare maluerint, nullus
             uestrum eorum</p>
-          <p>audire presumat offitium, quia benedictio eorum uerti-tur in maledictionem, et oratio
+          <p xml:id="gd-p1d81-d1e326">audire presumat offitium, quia benedictio eorum uerti-tur in maledictionem, et oratio
             in peccatum, testante Domino, per Prophetam: „Maledicam,“ inquit, „benedictionibus
             uestris.“ Qui uero huic saluberrimo preceptoobedire noluerint, ydolatriae peccatum
             incurrent, Sa-muele teste, et B. Gregorio instruenteS: „Peccatumariolandi est non
             obedire, et scelus ydololatriae non ad-quiescere.“ Peccatum igitur paganitatis incurrit,
             quisquis,dum Christianum se esse asserit, apostolicae sedi obedirecontempnit.</p>
         </div>
-        <div>
-          <head>C. XVI</head>
-          <head type="question-title">. Offitio et beneficio priuetur episcopus, presbiter, diaconus
+        <div xml:id="gd-p1d81-Dd1e330">
+          <head xml:id="gd-p1d81-Hd1e332">C. XVI</head>
+          <head xml:id="gd-p1d81-Hd1e335" type="question-title">. Offitio et beneficio priuetur episcopus, presbiter, diaconus
             uxorem suscipiens, uel susceptam retinens.</head>
-          <p>Item Alexander II. Episcopis et Regi Dalmatiae.</p>
-          <p>Si quis amodo episcopus, presbiter, diaconus feminam acceperit uel acceptam retinuerit,
+          <p xml:id="gd-p1d81-d1e338">Item Alexander II. Episcopis et Regi Dalmatiae.</p>
+          <p xml:id="gd-p1d81-d1e341">Si quis amodo episcopus, presbiter, diaconus feminam acceperit uel acceptam retinuerit,
             proprio gradu decidat, usque dum ad satisfactionem ueniat, nec in choropsallentium
             maneat, nec aliquam portionem de rebus ecclesiasticis habeat.</p>
         </div>
-        <div>
-          <head>C. XVII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem Clero Mediolanensi.</p>
-          <p>Si quis sacerdotum, uel diaconorum, uel subdiaconorum offitium contumaciter deserens
+        <div xml:id="gd-p1d81-Dd1e345">
+          <head xml:id="gd-p1d81-Hd1e347">C. XVII</head>
+          <head xml:id="gd-p1d81-Hd1e350" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e353">Idem Clero Mediolanensi.</p>
+          <p xml:id="gd-p1d81-d1e356">Si quis sacerdotum, uel diaconorum, uel subdiaconorum offitium contumaciter deserens
             feminam sibi potius elegerit, sicut sponte ob fornicationem dimittit offitium, itaob
             preuaricationem dimittere cogatur etiam inuitus beneficium.</p>
         </div>
-        <div>
-          <head>C. XVIII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem populo Mediolanensi.</p>
-          <p>Eos etiam, qui, ut fornicari eis liceat, diuinum offitium derelinquunt, a Deo
+        <div xml:id="gd-p1d81-Dd1e360">
+          <head xml:id="gd-p1d81-Hd1e362">C. XVIII</head>
+          <head xml:id="gd-p1d81-Hd1e365" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e368">Idem populo Mediolanensi.</p>
+          <p xml:id="gd-p1d81-d1e371">Eos etiam, qui, ut fornicari eis liceat, diuinum offitium derelinquunt, a Deo
             recedentes diabolo et operibus eiusseruiunt, sicut se iustissime ab offitio alienos
             faciunt, itabeneficio ecclesiarum priuatos esse adiudicamus.</p>
-          <p>Ministri altaris presbiteri siue diaconi ad offitiadominica tales eligantur, qui
+          <p xml:id="gd-p1d81-d1e374">Ministri altaris presbiteri siue diaconi ad offitiadominica tales eligantur, qui
             continenciam seruent. §. i.Si uero post ordinationem suam ministro contigeritpropriae
             uxoris inuadere cubile, sacrarii non intret hlimina,nec sacrarii* portitor fiat nec
             altare contingat 168 eb offerentibus holocausti oblationem suscipiat, nec ad dominici
             corporis portionem accedat &amp;,nec propinet**, neque sine maioris natu
             auctoritateminora gerati offitia; urceum sane uel calicem ad altarenon suggerat.</p>
         </div>
-        <div>
-          <head>C. XX</head>
-          <head type="question-title">. Clericus matronarum domicilia frequentans deponatur.</head>
-          <p>Idem.</p>
-          <p>III. Pars. Clericus solus ad feminae tabernaculum nonaccedat, nec properet sine maioris
+        <div xml:id="gd-p1d81-Dd1e378">
+          <head xml:id="gd-p1d81-Hd1e380">C. XX</head>
+          <head xml:id="gd-p1d81-Hd1e383" type="question-title">. Clericus matronarum domicilia frequentans deponatur.</head>
+          <p xml:id="gd-p1d81-d1e386">Idem.</p>
+          <p xml:id="gd-p1d81-d1e389">III. Pars. Clericus solus ad feminae tabernaculum nonaccedat, nec properet sine maioris
             natu sacerdotisiussione*; nec solus presbiter cum sola femina fabulasmisceat, nec
             archidiaconus sub pretextu humilitatisaut offitii frequenter intret domicilia
             matronarum, autforte per clericos aut domesticos matronae mandetaliquid secrete. Si
             agnitum fuerit, et ille deponatur, etilla a liminibus ecclesiae arceatur.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d81-d1e392">[PALE A.</p>
         </div>
-        <div>
-          <head>C. XXI</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem*.</p>
-          <p>Sed si forte aliqua intercessio fuerit, episcopo suggeratur. Et si talis est, ad quam
+        <div xml:id="gd-p1d81-Dd1e396">
+          <head xml:id="gd-p1d81-Hd1e398">C. XXI</head>
+          <head xml:id="gd-p1d81-Hd1e401" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e404">Idem*.</p>
+          <p xml:id="gd-p1d81-d1e407">Sed si forte aliqua intercessio fuerit, episcopo suggeratur. Et si talis est, ad quam
             debeat ire pio interuentu, ipse pergat: sin autem, de latere suo dirigat** cum duobus
             aut tribus testibus. Nemo tamen cum extranea habitetfemina, nisi proxima aut soror
             fuerit. Et hoc cum magnasollicitudine fiat. Non enim ignoramus malicias satanae.]</p>
-          <p>[PALE A i».</p>
+          <p xml:id="gd-p1d81-d1e410">[PALE A i».</p>
         </div>
-        <div>
-          <head>C. XXII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Ex decreto* Eu geni i Papae.</p>
-          <p>Si quispiam sacerdotum, id est presbiter, uel diaconus, uel subdiaconus, de quacumque
+        <div xml:id="gd-p1d81-Dd1e415">
+          <head xml:id="gd-p1d81-Hd1e417">C. XXII</head>
+          <head xml:id="gd-p1d81-Hd1e420" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e423">Ex decreto* Eu geni i Papae.</p>
+          <p xml:id="gd-p1d81-d1e426">Si quispiam sacerdotum, id est presbiter, uel diaconus, uel subdiaconus, de quacumque
             femina crimine fornicationis suspectus post primam, secundam et tertiamadmonitionem**
             inueniatur fabulari cum ea uel aliquomodo conuersari, excommunicetur, femina uero
             canoniceiudicetur.] </p>
         </div>
-        <div>
-          <head>C. XXIII</head>
-          <head type="question-title">. Simul cum mulieribus sacerdotes habitare non licet.</head>
-          <p>Item Gregorius.</p>
-          <p>IV. Pars. Oportet sacerdotes, quibus populus Domini commissus est, cum magna constantia
+        <div xml:id="gd-p1d81-Dd1e430">
+          <head xml:id="gd-p1d81-Hd1e432">C. XXIII</head>
+          <head xml:id="gd-p1d81-Hd1e435" type="question-title">. Simul cum mulieribus sacerdotes habitare non licet.</head>
+          <p xml:id="gd-p1d81-d1e438">Item Gregorius.</p>
+          <p xml:id="gd-p1d81-d1e441">IV. Pars. Oportet sacerdotes, quibus populus Domini commissus est, cum magna constantia
             uigilare desuper dominicas oues, ne lupinis morsibus, id estdiaboli stimulis lanientur.
             §. i. Neque enim hoc sileredebeo, quod cum graui animi tristicia dico: sacerdotescum
             feminis habitare conspicio; quod nefarium est dicereuel audire, et contra sanctorum
@@ -295,95 +293,95 @@
             et reprobant legem,“ quoset alius Propheta increpat, dicens: ,,Vos o sacerdotes,qui
             fallitis nomen meum, et dixistis, in qua re fallimus nomen tuum? quibus responsum est:
             offerentes ad altare meum</p>
-          <p>E anes pollutos. Non mihi uoluntas in uobis, dicit &gt;ominus, et sacrificium non
+          <p xml:id="gd-p1d81-d1e444">E anes pollutos. Non mihi uoluntas in uobis, dicit &gt;ominus, et sacrificium non
             accipiam de manibus uestris,quia polluti estis.“</p>
         </div>
-        <div>
-          <head>C. XXIV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem Simaco [Defensori, lib. I. Reg. Indict. IX. ep. 50.]Volumus, ut sacerdotes
+        <div xml:id="gd-p1d81-Dd1e448">
+          <head xml:id="gd-p1d81-Hd1e450">C. XXIV</head>
+          <head xml:id="gd-p1d81-Hd1e453" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e456">Idem Simaco [Defensori, lib. I. Reg. Indict. IX. ep. 50.]Volumus, ut sacerdotes
             prohiberi debeant, ne cummulieribus conuersentur: excepta dumtaxat matre, uelsorore, uel
             uxore, quae caste regenda est.</p>
         </div>
-        <div>
-          <head>C. XXV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem in registro [lib. VII. epist. 39.].</p>
-          <p>Legitur, quod B. Augustinus nec cum sorore habitare consenserit, dicens: Que cum sorore
+        <div xml:id="gd-p1d81-Dd1e460">
+          <head xml:id="gd-p1d81-Hd1e462">C. XXV</head>
+          <head xml:id="gd-p1d81-Hd1e465" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e468">Idem in registro [lib. VII. epist. 39.].</p>
+          <p xml:id="gd-p1d81-d1e471">Legitur, quod B. Augustinus nec cum sorore habitare consenserit, dicens: Que cum sorore
             mea sunt sorores meaenon sunt. Docti ergo uiri cautela magna nobis debet
             esseinstructio.</p>
-          <p>In omnibus obseruare conuenit, ut certus quis, et certo tempore, et certo loco, et
+          <p xml:id="gd-p1d81-d1e474">In omnibus obseruare conuenit, ut certus quis, et certo tempore, et certo loco, et
             certis personis uel apparere clericus, uel loqui debeat mulieribus, ut excludaturomnis
             nefanda suspicio. Certe solum ad solam accederenulla religionis ratio permittit. ,,
             Melius enim duo, quamunus.“ Simul enim et fidelius, et tutius res geritur.„Ve enim uni,
             quia si ceciderit, non est qui erigat eum.“</p>
         </div>
-        <div>
-          <head>C. XXVII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Cartaginensi III. [c. 17.]Cum omnibus omnino clericis extraneae
+        <div xml:id="gd-p1d81-Dd1e478">
+          <head xml:id="gd-p1d81-Hd1e480">C. XXVII</head>
+          <head xml:id="gd-p1d81-Hd1e483" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e486">Item ex Concilio Cartaginensi III. [c. 17.]Cum omnibus omnino clericis extraneae
             feminae noncohabitent, sed solae matres, auiae et materterae, amitae,sorores et filiae
             fratrum aut sororum, et quecumque exfamilia domestica necessitate, etiam antequam
             ordinarentur, iam cum eis habitabant, uel si filii eorum iam ordinatisparentibus uxores
             acceperunt, aut seruis, non habentibusin domo quas ducant, aliunde ducere necessitas
             fuerit.</p>
         </div>
-        <div>
-          <head>C. XXVIII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Laudicensi, [c. 30.]Non oportet ministros altaris, uel etiam clericos
+        <div xml:id="gd-p1d81-Dd1e490">
+          <head xml:id="gd-p1d81-Hd1e492">C. XXVIII</head>
+          <head xml:id="gd-p1d81-Hd1e495" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e498">Item ex Concilio Laudicensi, [c. 30.]Non oportet ministros altaris, uel etiam clericos
             quoslibet, aut se continentes, et omnino Christianum cummulieribus lauacra habere
             communia. Hec enim est apudgentiles prima reprehensio.</p>
         </div>
-        <div>
-          <head>C. XXIX</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Gregorius Ia nuar io Episcopo Caralitano,</p>
-          <p>[lib. III. epist. 26.] </p>
-          <p>Archidiaconum tuum, ut audio, habitare cum mulieribus prohibuisti, et nunc usque in ea
+        <div xml:id="gd-p1d81-Dd1e503">
+          <head xml:id="gd-p1d81-Hd1e505">C. XXIX</head>
+          <head xml:id="gd-p1d81-Hd1e508" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d81-d1e511">Item Gregorius Ia nuar io Episcopo Caralitano,</p>
+          <p xml:id="gd-p1d81-d1e514">[lib. III. epist. 26.] </p>
+          <p xml:id="gd-p1d81-d1e517">Archidiaconum tuum, ut audio, habitare cum mulieribus prohibuisti, et nunc usque in ea
             prohibitione despiceris; qui nisi iussioni tuae paruerit, eum sacro ordine uolumusesse
             priuatum.</p>
         </div>
-        <div>
-          <head>C. XXX</head>
-          <head type="question-title">. Venundentur ab episcopo que appetunt illicita clericorum
+        <div xml:id="gd-p1d81-Dd1e521">
+          <head xml:id="gd-p1d81-Hd1e523">C. XXX</head>
+          <head xml:id="gd-p1d81-Hd1e526" type="question-title">. Venundentur ab episcopo que appetunt illicita clericorum
             consortia.</head>
-          <p>Item ex Concilio Tolletano [IV. c. 42.]Quidam clerici, legitimum non habentes
+          <p xml:id="gd-p1d81-d1e529">Item ex Concilio Tolletano [IV. c. 42.]Quidam clerici, legitimum non habentes
             coniugium, extranearum mulierum uel ancillarum suarum que interdicta sunt consortia
             appetunt. Ideoque, quecumque clericis taliter coniunctae sunt, ab episcopoauferantur et
             uenundentur, illis pro tempore religatis adpenitenciam, quos sua libidine
             infecerunt.</p>
         </div>
-        <div>
-          <head>C. XXXI</head>
-          <head type="question-title">. Non habitent cum clericis, nisi quas necessitudo
+        <div xml:id="gd-p1d81-Dd1e533">
+          <head xml:id="gd-p1d81-Hd1e535">C. XXXI</head>
+          <head xml:id="gd-p1d81-Hd1e538" type="question-title">. Non habitent cum clericis, nisi quas necessitudo
             excusat.</head>
-          <p>Item S iri cius Papa Imerio Episcopo, [ep. I. c. 12.]Feminas non alias in domo
+          <p xml:id="gd-p1d81-d1e541">Item S iri cius Papa Imerio Episcopo, [ep. I. c. 12.]Feminas non alias in domo
             clericorum esse patimur,</p>
-          <p>nisi eas tantum, quas propter™ solas necessitudinum causas habitare cum eisdem sinodus
+          <p xml:id="gd-p1d81-d1e544">nisi eas tantum, quas propter™ solas necessitudinum causas habitare cum eisdem sinodus
             Nicena permisit.</p>
         </div>
-        <div>
-          <head>C. XXXII</head>
-          <head type="question-title">. Nisi maiorum iussione ad feminarum domicilia clerici non
+        <div xml:id="gd-p1d81-Dd1e548">
+          <head xml:id="gd-p1d81-Hd1e550">C. XXXII</head>
+          <head xml:id="gd-p1d81-Hd1e553" type="question-title">. Nisi maiorum iussione ad feminarum domicilia clerici non
             accedant.</head>
-          <p>Item ex Concilio Affricano III., [c. 5.]</p>
-          <p>Clerici uel continentes ad uiduas uel uirgines nisi ex iussu uel permissu episcoporum
+          <p xml:id="gd-p1d81-d1e556">Item ex Concilio Affricano III., [c. 5.]</p>
+          <p xml:id="gd-p1d81-d1e559">Clerici uel continentes ad uiduas uel uirgines nisi ex iussu uel permissu episcoporum
             aut presbiterorumnon accedant. Et hoc non soli faciant, sed cum clericis , uel cum
             quibus episcopus aut presbiter iusserit.Nec ipsi episcopi aut presbiteri soli habeant
             accessum ad huiusmodi feminas, sed ubi aut clerici presentessunt, aut graues aliqui
             Christiani.</p>
         </div>
-        <div>
-          <head>C. XXXIII</head>
-          <head type="question-title">. Episcopi prouideani, ne occasione temporalium clericorum
+        <div xml:id="gd-p1d81-Dd1e563">
+          <head xml:id="gd-p1d81-Hd1e565">C. XXXIII</head>
+          <head xml:id="gd-p1d81-Hd1e568" type="question-title">. Episcopi prouideani, ne occasione temporalium clericorum
             familiaritatibus uirgines socientur;</head>
-          <p>Item ex Concilio Cartaginensi IV. [c. 102.]</p>
-          <p>Ad reatum episcopi pertinet uel presbiteri, qui parro-chiae preest, si sustentandae
+          <p xml:id="gd-p1d81-d1e571">Item ex Concilio Cartaginensi IV. [c. 102.]</p>
+          <p xml:id="gd-p1d81-d1e574">Ad reatum episcopi pertinet uel presbiteri, qui parro-chiae preest, si sustentandae
             uitae presentis causa ado-lescentiores uiduae uel sanctimoniales clericorum
             familiaritatibus subiciantur.</p>
-          <p>[C. XXXIV.] a Item ex eodem [c. 103.]</p>
-          <p>Viduae, que stipendio ecclesiae sustentantur, tamassiduae in Dei opere esse debent, ut
+          <p xml:id="gd-p1d81-d1e577">[C. XXXIV.] a Item ex eodem [c. 103.]</p>
+          <p xml:id="gd-p1d81-d1e581">Viduae, que stipendio ecclesiae sustentantur, tamassiduae in Dei opere esse debent, ut
             et meritis, et orationibus suis ecclesiam adiuuent.</p>
         </div>
       </div>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,14 +53,14 @@
     </front>
     <body>
       <div xml:id="gd-p1d32">
-        <head>DISTINCTIO XXXII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Seruanda est ergo continentia ab omnibus in sacris ordinibus constitutis.</p>
-        <p>Unde Leo Papa [ad Anastasium epist. LXXXII. cap. 3. et 4.] ait:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Neque etiam subdiaconis conubium conceditur.</head>
-          <p>Cum sacerdotum tam excellens est electio, ut hec, que in aliis membris ecclesiae non
+        <head xml:id="gd-p1d32-Hd1e103">DISTINCTIO XXXII.</head>
+        <p xml:id="gd-p1d32-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d32-d1e109">I. Pars. Seruanda est ergo continentia ab omnibus in sacris ordinibus constitutis.</p>
+        <p xml:id="gd-p1d32-d1e112">Unde Leo Papa [ad Anastasium epist. LXXXII. cap. 3. et 4.] ait:</p>
+        <div xml:id="gd-p1d32-Dd1e115">
+          <head xml:id="gd-p1d32-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d32-Hd1e120" type="question-title">Neque etiam subdiaconis conubium conceditur.</head>
+          <p xml:id="gd-p1d32-d1e123">Cum sacerdotum tam excellens est electio, ut hec, que in aliis membris ecclesiae non
             uocantur ad culpam in illis tamen habeantur illicita. Cum enim extra clericorum ordinem
             constitutis nuptiarum societati et filiorum procreationi studere sit liberum, ad
             exhibendam tamenperfectae continentiae puritatem nec subdiaconibus carnalequidem
@@ -71,13 +69,13 @@
             custodiri, quanto magis in primo, uel secundo tertioue seruandum est, ne aut leuitico
             aut presbiterali honore, aut episcopali excellentia quisquam idoneus existimeturs, qui
             se a uoluptate luxuriae* nec dum refrenas s e detegitur.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d32-d1e126">[PALE A.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Item Gregorius Leoni Episcopo Catinensi, lib. III. epist.
+        <div xml:id="gd-p1d32-Dd1e131">
+          <head xml:id="gd-p1d32-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d32-Hd1e136" type="question-title">Item Gregorius Leoni Episcopo Catinensi, lib. III. epist.
             34..</head>
-          <p>Multorum relatione comperimus, hanc apud uos olim consuetudinem tenuisse, ut subdiaconi
+          <p xml:id="gd-p1d32-d1e139">Multorum relatione comperimus, hanc apud uos olim consuetudinem tenuisse, ut subdiaconi
             suis licite miscerentur* uxoribus. Quod ne denuo quisquam presumeret, a Seruo dei sedis
             nostrae diacono ex auctoritate nostri decessoris est isto modo prohibitum, ut eodem
             tempore ii, qui iam uxoribus fuerant copulati, unum e duobus eligerent, id est, aut a
@@ -92,48 +90,48 @@
 
 
 
-          <p>inspiciat, ne si uxores habent, miscendi se cum eis licentia potiantur, sed ad
+          <p xml:id="gd-p1d32-d1e142">inspiciat, ne si uxores habent, miscendi se cum eis licentia potiantur, sed ad
             similitudinem sedis apostolicae eos cuncta obseruare sua nichilominus districtione
             constituat.]</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Extra sacros ordines constituti ducant uxores et ab ■ ecclesia
+        <div xml:id="gd-p1d32-Dd1e146">
+          <head xml:id="gd-p1d32-Hd1e148">C. III.</head>
+          <head xml:id="gd-p1d32-Hd1e151" type="question-title">Extra sacros ordines constituti ducant uxores et ab ■ ecclesia
             stipendia accipiant.</head>
-          <p>Item Gregorius Augustino Anglorum Episcopo,</p>
-          <p>[cap. 2. ad secundam interrogationem].</p>
-          <p>Si qui uero sunt clerici extra sacros ordines constituti, qui se non possunt continere,
+          <p xml:id="gd-p1d32-d1e154">Item Gregorius Augustino Anglorum Episcopo,</p>
+          <p xml:id="gd-p1d32-d1e157">[cap. 2. ad secundam interrogationem].</p>
+          <p xml:id="gd-p1d32-d1e160">Si qui uero sunt clerici extra sacros ordines constituti, qui se non possunt continere,
             sortiri uxores debent, et stipendia sua exterius accipere, quia et de eisdem Patribus
             nouimus scriptum, quod diuidebatur singulis, prout cuique opus erat. De eorum ergo
             stipendio cogitandum atque prouidendum est, et sub ecclesiastica regula tenendi sunt, ut
             bonis moribus uiuant, et canendis psalmis inuigi-lent, et ab omnibus illicitis et cor et
             linguam et corpus Deo auctore conseruent.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Subdiacono uxorem ducere non licet.</head>
-          <p>Item Nicolaus Papa [I.] Adoni- Viennensi Archiepiscopo </p>
-          <p>De illo clerico Alwico nomine, quem per ordines ecclesiasticos usque ad subdiaconatum
+        <div xml:id="gd-p1d32-Dd1e164">
+          <head xml:id="gd-p1d32-Hd1e166">C. IV.</head>
+          <head xml:id="gd-p1d32-Hd1e169" type="question-title">Subdiacono uxorem ducere non licet.</head>
+          <p xml:id="gd-p1d32-d1e172">Item Nicolaus Papa [I.] Adoni- Viennensi Archiepiscopo </p>
+          <p xml:id="gd-p1d32-d1e175">De illo clerico Alwico nomine, quem per ordines ecclesiasticos usque ad subdiaconatum
             uixisse dicitis, cur uestra auctoritate uxorem duxerit, miramur, eo quod nulli umquam
             '(exceptis illis, quibus ecclesiastica regula habere permittit) uxorem ducendi licentiam
             damus.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Non audiatur missa presbiteri concubinam habentis.</head>
-          <p>Item Nicolaus Papa [II.] omnibus Episcopis.</p>
-          <p>II. Pars. Nullus missam audiat presbiteri, quem scit concubinam indubitanter habere aut
+        <div xml:id="gd-p1d32-Dd1e179">
+          <head xml:id="gd-p1d32-Hd1e181">C. V.</head>
+          <head xml:id="gd-p1d32-Hd1e184" type="question-title">Non audiatur missa presbiteri concubinam habentis.</head>
+          <p xml:id="gd-p1d32-d1e187">Item Nicolaus Papa [II.] omnibus Episcopis.</p>
+          <p xml:id="gd-p1d32-d1e190">II. Pars. Nullus missam audiat presbiteri, quem scit concubinam indubitanter habere aut
             subintroductam mulierem. Unde etiam ipsa sancta sinodus hoc capitulum sub
             excommunicatione statuit, dicens: Quicumque sacerdotum diaconorum etc.* sicut in
             subsequentis cap. Alexandri [II.] continetur .</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Non est audienda missa presbiteri, qui concubinam
+        <div xml:id="gd-p1d32-Dd1e194">
+          <head xml:id="gd-p1d32-Hd1e196">C. VI.</head>
+          <head xml:id="gd-p1d32-Hd1e199" type="question-title">Non est audienda missa presbiteri, qui concubinam
             habet.</head>
-          <p>Item Alexander iJ.</p>
+          <p xml:id="gd-p1d32-d1e202">Item Alexander iJ.</p>
 
-          <p>Preter hoc autem precipiendo mandamus, ut nullus missam audiat presbiteri, quem scit
+          <p xml:id="gd-p1d32-d1e205">Preter hoc autem precipiendo mandamus, ut nullus missam audiat presbiteri, quem scit
             concubinam habere indubitanter uel subintroductam mulierem. Unde etiamsancta sinodus hec
             a capite sub excommunicatione statuit, dicens: §. i. Quicumque sacerdotum, diaconorum,
             subdiaconorum post constitutum beatae memoriae predecessoris nostri sancti Papae Leonis
@@ -149,12 +147,12 @@
             oblationes uiuorum et mortuorum ecclesiis Dei fideliter reddantur a laicis, et ut in
             dispositione episcoporum sint, quas qui retinuerint, a sanctae ecclesiae communione
             separentur.</p>
-          <p>III. Pars. Gratian. Verum principia harum auctoritatum contraire uideniur leronimo^°,
+          <p xml:id="gd-p1d32-d1e208">III. Pars. Gratian. Verum principia harum auctoritatum contraire uideniur leronimo^°,
             Augustino et ceteris, qui Christi sacramenta neque in bono, neque in malo homine
             fugienda demonstranti, sicut subsequens causa simoniacorum plenius ostendit Q. Sed
             Urbanus II. in epist. destinata preposito S. Vincentii hanc contrarietatem determinat
             dicens:</p>
-          <p>§. 1. Ad hoc** uero, quod subiungitur in eadem epistola, id est, utrum sit utendum
+          <p xml:id="gd-p1d32-d1e212">§. 1. Ad hoc** uero, quod subiungitur in eadem epistola, id est, utrum sit utendum
             ordinationibus et reliquis sacramentis a criminosis exhibitis, ut ab adulteris uel
             sanctimonialium uiolatoribus uel huiusmodi? ad hoc, inquam, respondemus: ;Si scismate
             uel heresi ab ecclesia non separantur, eorumdem ordinationes et reliqua sacramenta
@@ -175,7 +173,7 @@
 
 
 
-          <p>non sunt, et alia, que prediximus, suae uirtutis effectum non habent, quid agentibus
+          <p xml:id="gd-p1d32-d1e215">non sunt, et alia, que prediximus, suae uirtutis effectum non habent, quid agentibus
             obsunt? quod si habent, cur spernuntur, si ab indignis presumuntur? Ad hec, inquam,
             respondemus ita: proprias quidem habent uirtutisdignitates, ut prefatus Augustinus ait
             super Iohannem contra Donatistas; sed agentibus uel suscipientibus eadem sacramenta
@@ -202,87 +200,87 @@
             quam in eternum perire. Et hanc sententiam prescriptorum Pontificum Cornelii et Stephani
             et Augustini, secuti sunt Siricius, Innocentius, Leo, Anastasius et M. Gregorius et
             omnis catholica ecclesia.</p>
-          <p>IV. Pars. §. 5. Prohibentur ergo de manibus talium sacerdotum sacramenta suscipi, non
+          <p xml:id="gd-p1d32-d1e218">IV. Pars. §. 5. Prohibentur ergo de manibus talium sacerdotum sacramenta suscipi, non
             quin sint uera quantum ad formam et effectum, sed quia, dum huiusmodi sacerdotes se a
             populo contemptos uiderint, rubore uerecundiae facilius ad penitentiam prouocantur
             SS.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Qui uxorem ducere uoluerit, ante ordinem subdiaconatus hoc
+        <div xml:id="gd-p1d32-Dd1e222">
+          <head xml:id="gd-p1d32-Hd1e224">C. VII.</head>
+          <head xml:id="gd-p1d32-Hd1e227" type="question-title">Qui uxorem ducere uoluerit, ante ordinem subdiaconatus hoc
             faciat.</head>
-          <p>Item ex VI Sinodo, [cap. 6.]</p>
-          <p>Si quis eorum, qui ad clerum accedunt, uoluerit nuptiali</p>
+          <p xml:id="gd-p1d32-d1e230">Item ex VI Sinodo, [cap. 6.]</p>
+          <p xml:id="gd-p1d32-d1e233">Si quis eorum, qui ad clerum accedunt, uoluerit nuptiali</p>
 
-          <p>iure mulieri copulari, hoc ante ordinem subdiaconatus faciat.</p>
+          <p xml:id="gd-p1d32-d1e236">iure mulieri copulari, hoc ante ordinem subdiaconatus faciat.</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Lectores aut uxores ducant, aut continentiam
+        <div xml:id="gd-p1d32-Dd1e241">
+          <head xml:id="gd-p1d32-Hd1e243">C. VIII.</head>
+          <head xml:id="gd-p1d32-Hd1e246" type="question-title">Lectores aut uxores ducant, aut continentiam
             profiteantur.</head>
-          <p>Item ex Concil. Cartag. III. [cap. 19.]</p>
-          <p>Lectores cum ad annos pubertatis ueniunt, cogantur aut uxores ducere, aut continentiam
+          <p xml:id="gd-p1d32-d1e249">Item ex Concil. Cartag. III. [cap. 19.]</p>
+          <p xml:id="gd-p1d32-d1e252">Lectores cum ad annos pubertatis ueniunt, cogantur aut uxores ducere, aut continentiam
             profiteri.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Subdiaconos continentiam obseruare™* oportet.</head>
-          <p>Item Gregorius Bonifatio Episcopo Regitano,</p>
-          <p>[lib. m. epist. 5.]</p>
-          <p>Subdiaconibus tuis hoc, quod de singulis statuimus, decreuimus obseruari, nec illam
+        <div xml:id="gd-p1d32-Dd1e256">
+          <head xml:id="gd-p1d32-Hd1e258">C. IX.</head>
+          <head xml:id="gd-p1d32-Hd1e261" type="question-title">Subdiaconos continentiam obseruare™* oportet.</head>
+          <p xml:id="gd-p1d32-d1e264">Item Gregorius Bonifatio Episcopo Regitano,</p>
+          <p xml:id="gd-p1d32-d1e267">[lib. m. epist. 5.]</p>
+          <p xml:id="gd-p1d32-d1e270">Subdiaconibus tuis hoc, quod de singulis statuimus, decreuimus obseruari, nec illam
             diffinitionem nostram cuiusquam contumatia sinas aut temeritate corrumpi.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Beneficio et offitio careant, qui post diaconatum uxoribus
+        <div xml:id="gd-p1d32-Dd1e274">
+          <head xml:id="gd-p1d32-Hd1e276">C. X.</head>
+          <head xml:id="gd-p1d32-Hd1e279" type="question-title">Beneficio et offitio careant, qui post diaconatum uxoribus
             uacant.</head>
-          <p>Item Urbanus II. in Sinodo apud Melfiam, [cap. 12.]</p>
-          <p>Eos, qui post diaconatum* uxoribus uacare uolue-rint, ab omni sacro ordine remouemus,
+          <p xml:id="gd-p1d32-d1e282">Item Urbanus II. in Sinodo apud Melfiam, [cap. 12.]</p>
+          <p xml:id="gd-p1d32-d1e285">Eos, qui post diaconatum* uxoribus uacare uolue-rint, ab omni sacro ordine remouemus,
             offitio atque beneficio ecclesiae carere decreuimus. Quod si ab episcopo commoniti non
             se correxerint, principibus indulgemus licentiam, ut eorum feminas mancipent seruituti.
             Si uero episcopi consenserint eorum prauitatibus, ipsi offitii interdictione
             mulctentur.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Excludendi sunt a suorum graduum dignitate subdiaconi et
+        <div xml:id="gd-p1d32-Dd1e289">
+          <head xml:id="gd-p1d32-Hd1e291">C. XI.</head>
+          <head xml:id="gd-p1d32-Hd1e294" type="question-title">Excludendi sunt a suorum graduum dignitate subdiaconi et
             deinceps, si continentes esse noluerint.</head>
-          <p>Item Dominico Grandensi Patriarchae.</p>
-          <p>Erubescant impii, et aperte intelligant iudicio Spiritus sancti eos, qui in tribus
+          <p xml:id="gd-p1d32-d1e297">Item Dominico Grandensi Patriarchae.</p>
+          <p xml:id="gd-p1d32-d1e300">Erubescant impii, et aperte intelligant iudicio Spiritus sancti eos, qui in tribus
             sacris gradibus, presbiteratus, diaconatu, subdiaconatus positi, mulierculas non
             abiecerint et caste non uixerint, excludendosab eorundum# graduum dignitate. De
             manifestis quidemloquimur: secretorum autem cognitor et iudex est Deus.</p>
-          <p>Idem Meldensi Sinodo presidens ait, [cap. 3.]</p>
+          <p xml:id="gd-p1d32-d1e303">Idem Meldensi Sinodo presidens ait, [cap. 3.]</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">Ad sacros ordines non accedat, nisi uirgo, aut probatae
+        <div xml:id="gd-p1d32-Dd1e307">
+          <head xml:id="gd-p1d32-Hd1e309">C. XII.</head>
+          <head xml:id="gd-p1d32-Hd1e312" type="question-title">Ad sacros ordines non accedat, nisi uirgo, aut probatae
             castitatis.</head>
-          <p>Nemo ad sacrum ordinem permittatur accedere, nisi aut uirgo, aut probatae castitatis,
+          <p xml:id="gd-p1d32-d1e315">Nemo ad sacrum ordinem permittatur accedere, nisi aut uirgo, aut probatae castitatis,
             et qui usque ad subdia-conatum unicam et uirginem uxorem habuerit.</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">In tribus gradibus constituti etiam ab uxoribus
+        <div xml:id="gd-p1d32-Dd1e319">
+          <head xml:id="gd-p1d32-Hd1e321">C. XIII.</head>
+          <head xml:id="gd-p1d32-Hd1e324" type="question-title">In tribus gradibus constituti etiam ab uxoribus
             abstineant.</head>
-          <p>Item in Cartag in en si Concilio [V., c. 3.]</p>
-          <p>Placuit episcopos, presbiteros, diaconos* subdiaco-nos secundum priora instituta**
+          <p xml:id="gd-p1d32-d1e327">Item in Cartag in en si Concilio [V., c. 3.]</p>
+          <p xml:id="gd-p1d32-d1e330">Placuit episcopos, presbiteros, diaconos* subdiaco-nos secundum priora instituta**
             etiam abstinere</p>
 
 
 
 
 
-          <p>ab uxoribus: quod nisi fecerint, ab ecclesiastico remo-ueantur offitio, ceteros uero
+          <p xml:id="gd-p1d32-d1e333">ab uxoribus: quod nisi fecerint, ab ecclesiastico remo-ueantur offitio, ceteros uero
             clericos ad hoc non cogi, sed uniuscuiusque ecclesiae consuetudinem obseruari
             debere.</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">In minoribus ordinibus constituti uxores ducant, nisi uoto et
+        <div xml:id="gd-p1d32-Dd1e338">
+          <head xml:id="gd-p1d32-Hd1e340">C. XIV.</head>
+          <head xml:id="gd-p1d32-Hd1e343" type="question-title">In minoribus ordinibus constituti uxores ducant, nisi uoto et
             religioso habitu 'prohibeantur.</head>
-          <p>Item Leo [IX.] contra epistolam Hicetae Abbatis.</p>
-          <p>Seriatim et aperte prosequamur, quod sancta Romana ecclesia in gradibus clericorum ait.
+          <p xml:id="gd-p1d32-d1e346">Item Leo [IX.] contra epistolam Hicetae Abbatis.</p>
+          <p xml:id="gd-p1d32-d1e349">Seriatim et aperte prosequamur, quod sancta Romana ecclesia in gradibus clericorum ait.
             Clericos hostiarios, lectores, exorcistas, acolitos, si extra uotum et habitum monachi
             inueniantur et continentiam profiteri noluerint, uxorem ducere uirginem cum benedictione
             sacerdotali permittit, non autem uiduam aut repudiatam, quia propter hoc deinceps nec ad
@@ -292,53 +290,53 @@
             nemine eos cogente. Neque permittitur postea uxor iungi eidem marito suo carnaliter, nec
             cuiquam nubere in uita aut post mortem illius.</p>
         </div>
-        <div>
-          <head>C. XV.</head>
-          <head type="question-title">Non liceat clericis alterius sectae uxorem accipere.</head>
-          <p>Item ex Concilio Calcedonensi, [cap. 14.]</p>
-          <p>Quoniam in quibusdam prouinciis concessum estlectoribus et psalmistis uxores ducere,
+        <div xml:id="gd-p1d32-Dd1e353">
+          <head xml:id="gd-p1d32-Hd1e355">C. XV.</head>
+          <head xml:id="gd-p1d32-Hd1e358" type="question-title">Non liceat clericis alterius sectae uxorem accipere.</head>
+          <p xml:id="gd-p1d32-d1e361">Item ex Concilio Calcedonensi, [cap. 14.]</p>
+          <p xml:id="gd-p1d32-d1e364">Quoniam in quibusdam prouinciis concessum estlectoribus et psalmistis uxores ducere,
             constituit sancta sinodus, non licere cuiquam ex his accipere sectae alterius
             uxorem.</p>
         </div>
-        <div>
-          <head>C. XVI.</head>
-          <head type="question-title">Non habitent cum clericis mulieres, nisi que naturali federe
+        <div xml:id="gd-p1d32-Dd1e368">
+          <head xml:id="gd-p1d32-Hd1e370">C. XVI.</head>
+          <head xml:id="gd-p1d32-Hd1e373" type="question-title">Non habitent cum clericis mulieres, nisi que naturali federe
             omnem suspicionem excludunt.</head>
-          <p>Item Niceni Concilii, [c. 3.]</p>
-          <p>V. Pars. Interdixit per omnia sancta sinodus, non episcopo, non presbitero, non
+          <p xml:id="gd-p1d32-d1e376">Item Niceni Concilii, [c. 3.]</p>
+          <p xml:id="gd-p1d32-d1e379">V. Pars. Interdixit per omnia sancta sinodus, non episcopo, non presbitero, non
             diacono, non subdiacononon alicui omnino, qui in clero est, licere subintroduc-tam
             mulierem habere, nisi forte aut matrem, aut sororem, aut amitam, aut etiam* eas idoneas
             personas, que fugiant suspiciones.</p>
-          <p>[PALE A*</p>
+          <p xml:id="gd-p1d32-d1e382">[PALE A*</p>
         </div>
-        <div>
-          <head>C. XVII.</head>
-          <head type="question-title">Item Ieronimusad Nepotianum de uita clericorum, et
+        <div xml:id="gd-p1d32-Dd1e386">
+          <head xml:id="gd-p1d32-Hd1e388">C. XVII.</head>
+          <head xml:id="gd-p1d32-Hd1e391" type="question-title">Item Ieronimusad Nepotianum de uita clericorum, et
             alibi.</head>
-          <p>Hospitiolum tuum aut raro, aut numquam mulierum pedes terant. §. 1. Quia non potest**
+          <p xml:id="gd-p1d32-d1e394">Hospitiolum tuum aut raro, aut numquam mulierum pedes terant. §. 1. Quia non potest**
             toto corde cum Deo habitare, qui feminarum accessibus copulatur. §. 2. Femina***
             conscientiam secum pariter habitantis exurit. §. 3.</p>
 
-          <p>Numquam de formis mulierum disputes. §. 4. Feminae nomen tuum nouerint****, uultum
+          <p xml:id="gd-p1d32-d1e397">Numquam de formis mulierum disputes. §. 4. Feminae nomen tuum nouerint****, uultum
             nesciant. §. 5. Feminam, quam bene uideris conuersantem, mente dilige, non corporali
             frequentia+* §. 6. Si bonum est mulierem non tangere, malum est ergo tangere.]</p>
         </div>
-        <div>
-          <head>C. XVIII.</head>
-          <head type="question-title">Presbiter uxorem suam quasi sororem diligat et quasi hostem
+        <div xml:id="gd-p1d32-Dd1e401">
+          <head xml:id="gd-p1d32-Hd1e403">C. XVIII.</head>
+          <head xml:id="gd-p1d32-Hd1e406" type="question-title">Presbiter uxorem suam quasi sororem diligat et quasi hostem
             fugiat.</head>
-          <p>Item Gregorius in Dialog. lib. IV. [cap. 2.]</p>
-          <p>Presbiter quidam commissam sibi regebat ecclesiam cum magno timore Domini, qui ex
+          <p xml:id="gd-p1d32-d1e409">Item Gregorius in Dialog. lib. IV. [cap. 2.]</p>
+          <p xml:id="gd-p1d32-d1e412">Presbiter quidam commissam sibi regebat ecclesiam cum magno timore Domini, qui ex
             tempore accepti ordinispresbiterum suam ut sororem diligens, sed quasi hostem cauens, ad
             se propius non sinebat accedere, eamque sibi appropinquare nulla occasione permittens,
             ab ea sibi communionem funditus familiaritatis abscidit.</p>
-          <p>Gratianus. Presbiterum uero quam debeamus accipere, Laudicense Concilium, [c. n.]
+          <p xml:id="gd-p1d32-d1e415">Gratianus. Presbiterum uero quam debeamus accipere, Laudicense Concilium, [c. n.]
             ostendit, dicens:</p>
         </div>
-        <div>
-          <head>C. XIX.</head>
-          <head type="question-title">Viduae uel seniores presbiterae appellantur.</head>
-          <p>Mulieres* que apud Grecos presbiterae appellantur, apud nos autem uiduae, seniores,
+        <div xml:id="gd-p1d32-Dd1e419">
+          <head xml:id="gd-p1d32-Hd1e421">C. XIX.</head>
+          <head xml:id="gd-p1d32-Hd1e424" type="question-title">Viduae uel seniores presbiterae appellantur.</head>
+          <p xml:id="gd-p1d32-d1e427">Mulieres* que apud Grecos presbiterae appellantur, apud nos autem uiduae, seniores,
             uniuirae et matri-curiae appellantur, in ecclesia tamquam ordinatas constitui non
             debere.</p>
         </div>

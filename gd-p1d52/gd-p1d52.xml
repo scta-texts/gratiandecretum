@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,17 +53,17 @@
     </front>
     <body>
       <div xml:id="gd-p1d52">
-        <head>DISTINCTIO LII.</head>
-        <p>GRATIANUS.</p>
-        <p>Qui uero pretermissis aliquibus gradibus non superbia, sed negligentia ad maiores
+        <head xml:id="gd-p1d52-Hd1e103">DISTINCTIO LII.</head>
+        <p xml:id="gd-p1d52-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d52-d1e109">Qui uero pretermissis aliquibus gradibus non superbia, sed negligentia ad maiores
           conscenderit, tamdiu a maioribus abstineat, quousque congruo tempore pretermissos
           accipiat.</p>
-        <p>Unde Alexander* II. scribit Grimaldo Constantiensi Episcopo:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. De eo, qui subdiaconatus ordine postposito diaconus et
+        <p xml:id="gd-p1d52-d1e112">Unde Alexander* II. scribit Grimaldo Constantiensi Episcopo:</p>
+        <div xml:id="gd-p1d52-Dd1e115">
+          <head xml:id="gd-p1d52-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d52-Hd1e120" type="question-title">. De eo, qui subdiaconatus ordine postposito diaconus et
             presbiter est ordinatus.</head>
-          <p>Sollicitudo dilectionis tuae studuit consulere, utrum portitor istarum litterarum
+          <p xml:id="gd-p1d52-d1e123">Sollicitudo dilectionis tuae studuit consulere, utrum portitor istarum litterarum
             diaconatus et presbiteratus offitium idoneus sit peragere nec ne, cum ad id
             preproperocursu, subdiaconatus ordine postposito, negligentia potiusquam superbia
             cognoscatur ascendisse. Unde nos consulendo caritati tuae mandamus, ut ab offitio

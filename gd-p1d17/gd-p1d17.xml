@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,52 +53,52 @@
     </front>
     <body>
       <div xml:id="gd-p1d17">
-        <head>DISTINCTIO XVII.</head>
-        <p>I. Pars. Generalia concilia quorum tempore celebrata sint, uel quorum auctoritas ceteris
+        <head xml:id="gd-p1d17-Hd1e103">DISTINCTIO XVII.</head>
+        <p xml:id="gd-p1d17-d1e106">I. Pars. Generalia concilia quorum tempore celebrata sint, uel quorum auctoritas ceteris
           premineat sanctorum auctoritatibus, supra monstratum est. Auctoritas uero congregandorum
           conciliorum penes apostolicam sedem est.</p>
-        <p>Unde Marcellus Papa scribit Maxentio*;</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Absque Romani Pontificis auctoritate congregari sinodus non
+        <p xml:id="gd-p1d17-d1e109">Unde Marcellus Papa scribit Maxentio*;</p>
+        <div xml:id="gd-p1d17-Dd1e112">
+          <head xml:id="gd-p1d17-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d17-Hd1e117" type="question-title">Absque Romani Pontificis auctoritate congregari sinodus non
             debet.</head>
-          <p>Sinodum episcoporum absque huius sanctae sedis auctoritate (quamquam quosdam episcopos
+          <p xml:id="gd-p1d17-d1e120">Sinodum episcoporum absque huius sanctae sedis auctoritate (quamquam quosdam episcopos
             possitis congregare) non potestis regulariter facere.</p>
-          <p>[PALEA.</p>
-          <p>Neque** ullum episcopum, qui hanc appellauerit apostolicam sedem, dampnare, antequam
+          <p xml:id="gd-p1d17-d1e123">[PALEA.</p>
+          <p xml:id="gd-p1d17-d1e126">Neque** ullum episcopum, qui hanc appellauerit apostolicam sedem, dampnare, antequam
             hinc sententia definitiua</p>
 
 
 
 
 
-          <p>procedat. Nam si seculares in publicis iudiciis libellis utuntur appellatoriis, quanto
+          <p xml:id="gd-p1d17-d1e130">procedat. Nam si seculares in publicis iudiciis libellis utuntur appellatoriis, quanto
             magis sacerdotibus hec eadem agere licet, qui super illos sunt?“ de quibus dictum est:
             „Ego dixi, Dii estis?“]</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Non est ratum concilium, quod auctoritate Romanae ecclesiae
+        <div xml:id="gd-p1d17-Dd1e134">
+          <head xml:id="gd-p1d17-Hd1e136">C. II.</head>
+          <head xml:id="gd-p1d17-Hd1e139" type="question-title">Non est ratum concilium, quod auctoritate Romanae ecclesiae
             fultum non fuerit.</head>
-          <p>Item lulius Papa [I.] orientalibus episcopis.</p>
-          <p>Regula uestra, nullas habet uires, nec habere poterit, quoniam nec ab orthodoxis
+          <p xml:id="gd-p1d17-d1e142">Item lulius Papa [I.] orientalibus episcopis.</p>
+          <p xml:id="gd-p1d17-d1e145">Regula uestra, nullas habet uires, nec habere poterit, quoniam nec ab orthodoxis
             episcopis hoc concilium actum est, nec Romanae ecclesiae legatio interfuit; canonibus
             precipientibus, sine eius auctoritate concilia fieri non debere. Nec ullum ratum est,
             aut erit unquam concilium, quod fultum fuerit auctoritate eius.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Nullus usurpet concessa Romanae ecclesiae.</head>
-          <p>Item Damasus Papa [I. ad Stephanum epist. IV.]</p>
-          <p>Huic sedi concessa nullus usurpare sine eius consultu presumat, qui non uult honore
+        <div xml:id="gd-p1d17-Dd1e150">
+          <head xml:id="gd-p1d17-Hd1e152">C. III.</head>
+          <head xml:id="gd-p1d17-Hd1e155" type="question-title">Nullus usurpet concessa Romanae ecclesiae.</head>
+          <p xml:id="gd-p1d17-d1e158">Item Damasus Papa [I. ad Stephanum epist. IV.]</p>
+          <p xml:id="gd-p1d17-d1e161">Huic sedi concessa nullus usurpare sine eius consultu presumat, qui non uult honore
             ecclesiastico indignus autcontemptor iudicari.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Absque apostolicae sedis auctoritate sinodumaliquibus
+        <div xml:id="gd-p1d17-Dd1e165">
+          <head xml:id="gd-p1d17-Hd1e167">C. IV.</head>
+          <head xml:id="gd-p1d17-Hd1e170" type="question-title">Absque apostolicae sedis auctoritate sinodumaliquibus
             congregare non licet.</head>
-          <p>Item Gregorius*.</p>
-          <p>Nec, licuit aliquando, nec licebit particularem sinodum** congregari; sed quotiens
+          <p xml:id="gd-p1d17-d1e173">Item Gregorius*.</p>
+          <p xml:id="gd-p1d17-d1e176">Nec, licuit aliquando, nec licebit particularem sinodum** congregari; sed quotiens
             aliqua de uniuersali Sinodo aliquibus dubitatio nascitur, ad recipiendam de eo, quod non
             intelligunt, rationem, aut sponte hi, qui salutem animae suae desiderant, ad apostolicam
             sedem pro perci-pienda ratione conueniant; aut si forte (sicut de talibusscriptum est:
@@ -109,17 +107,17 @@
             salutem quoquomodo necesse est, aut (ne aliorum perditio esse possint) secundum canones
             per seculares opprimi potestates.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Non est concilium, sed conuenticulum, quod sine sedis
+        <div xml:id="gd-p1d17-Dd1e180">
+          <head xml:id="gd-p1d17-Hd1e182">C. V.</head>
+          <head xml:id="gd-p1d17-Hd1e185" type="question-title">Non est concilium, sed conuenticulum, quod sine sedis
             apostolicae auctoritate celebratur.</head>
-          <p>Item Pelagius [Papa II.] Episcopis, qui conuenerunt ad illicitam uocationem Iohannis
+          <p xml:id="gd-p1d17-d1e188">Item Pelagius [Papa II.] Episcopis, qui conuenerunt ad illicitam uocationem Iohannis
             Constantinopolitani,</p>
-          <p>[epist. I. cap. i.]</p>
-          <p>Multis denuo apostolicis et canonicis atque ecclesiasticis instruimur regulis, non
+          <p xml:id="gd-p1d17-d1e191">[epist. I. cap. i.]</p>
+          <p xml:id="gd-p1d17-d1e194">Multis denuo apostolicis et canonicis atque ecclesiasticis instruimur regulis, non
             debere absque sententia</p>
 
-          <p>Romani Pontificis concilia celebrari. §. i. Quapropter, ut iam dictum est, recte non
+          <p xml:id="gd-p1d17-d1e198">Romani Pontificis concilia celebrari. §. i. Quapropter, ut iam dictum est, recte non
             concilium, sed uestrum conuenticulum uel conciliabulum cassatur, et quicquid in eo actum
             est, irritum habetur et uacuum. Vos quoque deinceps uidete, ut nullius hortatu talia
             presumatis* si apostolicae sedis communione carere non uultis. §, 2. Si uero in qualibet
@@ -130,17 +128,17 @@
             sancta sinodus statuit, et beata consuetudo exigit), ad sedem apostolicam semper
             deferantur.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Prouincialia concilia sine Romani Pontificis pre-sentia
+        <div xml:id="gd-p1d17-Dd1e202">
+          <head xml:id="gd-p1d17-Hd1e204">C. VI.</head>
+          <head xml:id="gd-p1d17-Hd1e207" type="question-title">Prouincialia concilia sine Romani Pontificis pre-sentia
             pondere carebunt.</head>
-          <p>Item Simachus Papa.</p>
-          <p>Concilia sacerdotum ecclesiasticis legibus quotannis decreta per prouincias, quia
+          <p xml:id="gd-p1d17-d1e210">Item Simachus Papa.</p>
+          <p xml:id="gd-p1d17-d1e213">Concilia sacerdotum ecclesiasticis legibus quotannis decreta per prouincias, quia
             presentiam Papae non habent, ualetudinem perdiderunt*. Legite insanissimi, aliquando in
             illis preter apostolici apicis sanctionem aliquid constitutum, et non de maioribus
             negotiis ad consultationem, si quid occurrerit, prefatae sedis arbitrio fuisse
             ser-uatum?</p>
-          <p>II. Pars. Gratianus. Hinc etiam cum auctoritas Teo-dorici regis ex diuersis prouinciis
+          <p xml:id="gd-p1d17-d1e216">II. Pars. Gratianus. Hinc etiam cum auctoritas Teo-dorici regis ex diuersis prouinciis
             ad urbem Romam sacerdotes conuenire precepisset, ut sanctum concilium iudicaret de his,
             que uenerabili Papae Simacho, presuli apostolicae sedis, ab aduersariis ipsius
             dicebantur impingi, Liguriae Emiliae episcopi, seu Venetiarum suggesserunt, ipsum, qui
@@ -159,7 +157,7 @@
 
 
 
-          <p>pos titionibus impetitus quantum ad homines respicit, sit immunis et liber, cuius
+          <p xml:id="gd-p1d17-d1e220">pos titionibus impetitus quantum ad homines respicit, sit immunis et liber, cuius
             causam totam Dei iudicio reseruamus. §. 2. „De clericis uero memorati Papae, qui ab
             episcopo suo ante tempus contra regulas discesserunt, et scisma fecerunt, hoc fieri
             decreuimus^s, ut satisfacientes episcopo suo misericordiam consequantur et offitiis
@@ -167,17 +165,17 @@
             Mediolanensis huic statuto nostro, in.quo totam causam Dei iudicio commisimus,
             subscripsit^^ Petrus Ecclesiae Rauennatis Episcopus sub eisdem uerbis subscripsit, post
             eum LXXV. episcopi. Illud de</p>
-          <p>clericis jt?ro pace in Urbe reformanda misericorditer et dis-pensatiue factum
+          <p xml:id="gd-p1d17-d1e223">clericis jt?ro pace in Urbe reformanda misericorditer et dis-pensatiue factum
             dignoscitur. §. 4. Lfoc quoque notandum est,</p>
-          <p>gwocZ in hoc concilio et in alia Sinodo Simachi Papae ante Rauennatem episcopum
+          <p xml:id="gd-p1d17-d1e226">gwocZ in hoc concilio et in alia Sinodo Simachi Papae ante Rauennatem episcopum
             Mediolanensis subscripsisse ^ respondisse legitur: ex quo et sedis prerogatiuam ante eum
             habere colligitur.</p>
-          <p>[C. VII.] Ait enim Gregorius I., [lib. VII. reg. epist. 112.]</p>
-          <p>Sia gr io Episcopo Augustodunensi:</p>
-          <p>Episcopos secundum ordinationis suae tempus siue ad considendum in concilio, siue ad
+          <p xml:id="gd-p1d17-d1e229">[C. VII.] Ait enim Gregorius I., [lib. VII. reg. epist. 112.]</p>
+          <p xml:id="gd-p1d17-d1e232">Sia gr io Episcopo Augustodunensi:</p>
+          <p xml:id="gd-p1d17-d1e235">Episcopos secundum ordinationis suae tempus siue ad considendum in concilio, siue ad
             suscribendum, uel in qualibet alia re, sua attendere loca decernimus, et suorum sibi
             prerogatiuam ordinum uindicare.</p>
-          <p>Gratianus . Verum tempus ordinationis non ad ecclesias, sed ad personas refertur, sicui
+          <p xml:id="gd-p1d17-d1e239">Gratianus . Verum tempus ordinationis non ad ecclesias, sed ad personas refertur, sicui
             ex consuetudine Cardinalium sanctae Romanae ecclesiae, et episcoporum uniuscuiusque
             pro-uinciae euidenter apparet.</p>
         </div>

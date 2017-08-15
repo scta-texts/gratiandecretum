@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,8 +53,8 @@
     </front>
     <body>
       <div xml:id="gd-p1d22">
-        <head>DISTINCTIO XXII.</head>
-        <p>I. Pars. Quia ergo maior a minori iudicari non debet uidendum est, que inter ceteras
+        <head xml:id="gd-p1d22-Hd1e103">DISTINCTIO XXII.</head>
+        <p xml:id="gd-p1d22-d1e106">I. Pars. Quia ergo maior a minori iudicari non debet uidendum est, que inter ceteras
           ecclesias primum locum, que secundum, uel tertium obtineat. Romana ecclesia (sicut
           supra</p>
 
@@ -64,13 +62,13 @@
 
 
 
-        <p>dictum est) primum locum inter ceteras obtinet, Alexandrina ecclesia** secundum,
+        <p xml:id="gd-p1d22-d1e109">dictum est) primum locum inter ceteras obtinet, Alexandrina ecclesia** secundum,
           Antiocena ecclesia tercium ab ea locum accepit.</p>
-        <p>Unde Nicolaus Papa [II.] scribit Mediolanensibus;</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Romana ecclesia ceterarum primatum obtinuit.</head>
-          <p>Omnes siue patriarchae in cuiuslibet apicem , siue metropoleon primatus, aut
+        <p xml:id="gd-p1d22-d1e112">Unde Nicolaus Papa [II.] scribit Mediolanensibus;</p>
+        <div xml:id="gd-p1d22-Dd1e115">
+          <head xml:id="gd-p1d22-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d22-Hd1e120" type="question-title">Romana ecclesia ceterarum primatum obtinuit.</head>
+          <p xml:id="gd-p1d22-d1e123">Omnes siue patriarchae in cuiuslibet apicem , siue metropoleon primatus, aut
             episcopatuum cathedras, uel ecclesiarum cuiuslibet ordinis dignitatem instituit Romana
             ecclesia. Illam uero solus ipse s fundauit, etsuper petram fidei mox nascentis erexit,
             qui beato eternae uitae clauigero terreni simul et celestis imperii iura commisit. Non
@@ -85,13 +83,13 @@
             Unde et ipse S. Ambrosius se in omnibus sequi magistram sanctam Romanam profitetur
             ecclesiam.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Non ab apostolis, sed ab ipso Domino Romana ecclesia primatum
+        <div xml:id="gd-p1d22-Dd1e128">
+          <head xml:id="gd-p1d22-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d22-Hd1e133" type="question-title">Non ab apostolis, sed ab ipso Domino Romana ecclesia primatum
             obtinuit*</head>
-          <p>Item Anacletus Seruus Christi Iesu [ad omnes episcopos, epistola III. c. 3-].</p>
+          <p xml:id="gd-p1d22-d1e136">Item Anacletus Seruus Christi Iesu [ad omnes episcopos, epistola III. c. 3-].</p>
 
-          <p>Sacrosancta Romana et apostolica ecclesia non ab apostolis, sed ab ipso Domino
+          <p xml:id="gd-p1d22-d1e139">Sacrosancta Romana et apostolica ecclesia non ab apostolis, sed ab ipso Domino
             saluatore nostro primatum obtinuit, sicut B. Petro apostolo dixit: „Tu es Petrus,“ et
             reliqua usque: „soluta in celo.“ §. i. Adhibita est societas in eadem Romana urbe
             beatissimi Pauli apostoli, uasis electionis, qui uno die eodemque tempore cum Petro
@@ -121,25 +119,25 @@
 
 
 
-          <p>Gratian. Hac auctoritate Alexandrina ecclesia secundum a prima locum habere censetur.
+          <p xml:id="gd-p1d22-d1e142">Gratian. Hac auctoritate Alexandrina ecclesia secundum a prima locum habere censetur.
             Sed postea in Constantino-politana Sinodo ecclesia Constantinopolitana secundum a sede
             apostolica locum accepit.</p>
-          <p>Unde in eadem Sinodo [id est Constantinop. I. c. 5.]constitutum est ita:</p>
+          <p xml:id="gd-p1d22-d1e146">Unde in eadem Sinodo [id est Constantinop. I. c. 5.]constitutum est ita:</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Secundum a Romano Pontifice Constantinopoli-tanus obtinet
+        <div xml:id="gd-p1d22-Dd1e150">
+          <head xml:id="gd-p1d22-Hd1e152">C. III.</head>
+          <head xml:id="gd-p1d22-Hd1e155" type="question-title">Secundum a Romano Pontifice Constantinopoli-tanus obtinet
             locum.</head>
-          <p>Constantinopolitanae * ciuitatis episcopum habere oportet primatus honorem post Romanum
+          <p xml:id="gd-p1d22-d1e158">Constantinopolitanae * ciuitatis episcopum habere oportet primatus honorem post Romanum
             episcopum, propterquod sit noua Roma.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Apostolicae sedi Constantinopolitanam constat esse
+        <div xml:id="gd-p1d22-Dd1e162">
+          <head xml:id="gd-p1d22-Hd1e164">C. IV.</head>
+          <head xml:id="gd-p1d22-Hd1e167" type="question-title">Apostolicae sedi Constantinopolitanam constat esse
             subiectam.</head>
-          <p>Item Gregorius* Iohanni episcopo Siracusano,</p>
-          <p>[lib. VII. epist. 63.]</p>
-          <p>De Constantinopolitana ecclesia quod dicunt, quis eam dubitet sedi apostolicae esse
+          <p xml:id="gd-p1d22-d1e170">Item Gregorius* Iohanni episcopo Siracusano,</p>
+          <p xml:id="gd-p1d22-d1e173">[lib. VII. epist. 63.]</p>
+          <p xml:id="gd-p1d22-d1e176">De Constantinopolitana ecclesia quod dicunt, quis eam dubitet sedi apostolicae esse
             subiectam! Si tamen quid boni uel ipsa, uel altera ecclesia habet, ego et minores meos,
             quos ab illicitis prohibeo, in bono imitari paratus sum. Stultus est enim, qui in eo se
             primum existimat, ut bona, que uiderit, discere contempnat. Idem eidem [epist. 64.]: Nam
@@ -147,11 +145,11 @@
             inuenitur nescio quis ei subiectus non sit; cum uero culpa non exigit, omnes secundum
             rationem humilitatis equales sumus.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Constantinopolitanus episcopus auctoritate deponitur.</head>
-          <p>Item Gelasius [Papa I. ad Faustum magistrum legationis.] </p>
-          <p>Qua traditione maiorum apostolicam sedem in iudicium uocant? An secundae sedis
+        <div xml:id="gd-p1d22-Dd1e180">
+          <head xml:id="gd-p1d22-Hd1e182">C. V.</head>
+          <head xml:id="gd-p1d22-Hd1e185" type="question-title">Constantinopolitanus episcopus auctoritate deponitur.</head>
+          <p xml:id="gd-p1d22-d1e188">Item Gelasius [Papa I. ad Faustum magistrum legationis.] </p>
+          <p xml:id="gd-p1d22-d1e191">Qua traditione maiorum apostolicam sedem in iudicium uocant? An secundae sedis
             antistites et terciae, ceterique bene conscii sibi sacerdotes depelli debuerunt, et qui
             extitit religionis inimicus, depelli non debuit? Viderint ergo, si alios habent canones,
             quibus suas ineptias exequantur. Ceterum isti, qui sacri, qui ecclesiastici, qui
@@ -160,27 +158,27 @@
             nomen accepit, in communionem recidens perfidorum non debuit submo-ueri?</p>
 
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Constantinopolitana ecclesia secundum a</head>
-          <p>Romana obtinet locum. *</p>
-          <p>Item ex VI. Sinodo [cap. 36.]</p>
-          <p>Renouantes* sancti Constantinopolitani concilii decreta, petimus, ut
+        <div xml:id="gd-p1d22-Dd1e195">
+          <head xml:id="gd-p1d22-Hd1e197">C. VI.</head>
+          <head xml:id="gd-p1d22-Hd1e200" type="question-title">Constantinopolitana ecclesia secundum a</head>
+          <p xml:id="gd-p1d22-d1e203">Romana obtinet locum. *</p>
+          <p xml:id="gd-p1d22-d1e206">Item ex VI. Sinodo [cap. 36.]</p>
+          <p xml:id="gd-p1d22-d1e209">Renouantes* sancti Constantinopolitani concilii decreta, petimus, ut
             Constantinopolitana sedes similia priuilegia, que superior** Roma habet, accipiat, non
             tamen*** ecclesiasticis rebus magnificetur,ut illa; uthec secunda post illam existens,
             prius quam Alexandrina sedes numeretur; deinde Antiocena, et post eam
             Iero-solimitana.</p>
-          <p>Gratian. Hinc datur intelligi, quod Alexandrina ecclesia de secunda facta sit tercia,
+          <p xml:id="gd-p1d22-d1e213">Gratian. Hinc datur intelligi, quod Alexandrina ecclesia de secunda facta sit tercia,
             et Antiocena de tercia sit facta®*quarta: nisi forte quis duas contendat esse secundas,
             ut Constantinopolitanam et Alexandrinam®* parem suae dignitatis uelit locum
             ohtinere.</p>
-          <p>Unde in VIII. Sinodo legitur, [can. 21.]</p>
+          <p xml:id="gd-p1d22-d1e216">Unde in VIII. Sinodo legitur, [can. 21.]</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Que patriarchalium sedium primum uel deinceps teneat
+        <div xml:id="gd-p1d22-Dd1e220">
+          <head xml:id="gd-p1d22-Hd1e222">C. VII.</head>
+          <head xml:id="gd-p1d22-Hd1e225" type="question-title">Que patriarchalium sedium primum uel deinceps teneat
             locum.</head>
-          <p>Diffinimus, neminem prorsus mundi potentum quemquam eorum, qui patriarchalibus sedibus
+          <p xml:id="gd-p1d22-d1e228">Diffinimus, neminem prorsus mundi potentum quemquam eorum, qui patriarchalibus sedibus
             presunt, inhonorare, aut mouere a proprio throno temptare °; precipue quidem
             sanctissimum Papam senioris Romae, deinceps autem Con-stantinopoleos patriarcham, deinde
             uero Alexandriae, ac Antiociae, ac lerosolimorum.</p>

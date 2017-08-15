@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,30 +53,30 @@
     </front>
     <body>
       <div xml:id="gd-p1d91">
-        <head>DISTINCTIO XCI.</head>
-        <p>I. Pars. Qui autem turpi lucro uel inhonesto negocio uictum sibi querere prohibetur, de
+        <head xml:id="gd-p1d91-Hd1e103">DISTINCTIO XCI.</head>
+        <p xml:id="gd-p1d91-d1e106">I. Pars. Qui autem turpi lucro uel inhonesto negocio uictum sibi querere prohibetur, de
           oblationibus ecclesiae stipendia consequatur. Quod si ecclesia ei sufficere non poierit,
           proprioartificio uel agricultura (exemplo Apostoli, qui de laboremanuum uiuebat) sibi
           necessaria inueniat, ita tamen, ut occasionesui operis uigiliis ecclesiae non desit, quod
           absque inequalitate suicorporis inpune nulli conceditur.</p>
-        <p>Unde Pelagius Papa$:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Corripiantur clerici, qui offitiis matutinis uel uespertinis
+        <p xml:id="gd-p1d91-d1e109">Unde Pelagius Papa$:</p>
+        <div xml:id="gd-p1d91-Dd1e112">
+          <head xml:id="gd-p1d91-Hd1e114">C. I</head>
+          <head xml:id="gd-p1d91-Hd1e117" type="question-title">. Corripiantur clerici, qui offitiis matutinis uel uespertinis
             se subtrahunt.</head>
-          <p>Eleuterius frater et coepiscopus noster queritur, clericos suos sibi contra canones
+          <p xml:id="gd-p1d91-d1e120">Eleuterius frater et coepiscopus noster queritur, clericos suos sibi contra canones
             superbire, et id, quod nobis iuben-tibus facta in scrinio cautione promisit, ut
             cottidianis diebusuigiliae in eius celebrentur ecclesia, illis contempnentibusinplere
             non posse, sed magis unumquemque suis (postpositoecclesiae seruitio) uacare negotiis. Et
             ideo experientia tuaeos, quos tibi esse ostenderit contumaces, debita obiurga-tione
             conpesce, et modis omnibus uigiliis uacare conpelle.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d91-d1e123">[PALE A.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Nannetensi.</p>
-          <p>Presbiter mane, matutinali offitio expleto, pensum ser-uitutis suae canendo primam,
+        <div xml:id="gd-p1d91-Dd1e127">
+          <head xml:id="gd-p1d91-Hd1e129">C. II</head>
+          <head xml:id="gd-p1d91-Hd1e132" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d91-d1e135">Item ex Concilio Nannetensi.</p>
+          <p xml:id="gd-p1d91-d1e138">Presbiter mane, matutinali offitio expleto, pensum ser-uitutis suae canendo primam,
             tertiam, sextam nonamquepersoluat, ita tamen, ut postea horis conpetentibus et
             signisdesignantibus iuxta possibilitatem aut a se, aut a scolaribuspublice conpleantur.
             Deinde peractis horis, infirmisuisitatis, si uoluerit, ad opus rurale exeat ieiunus,
@@ -92,30 +90,30 @@
             surgebam ad confitendum tibi.“ Ergo histemporibus referamus laudes creatori nostro super
             iudiciaiustitiae suae.“]'</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Sine offitii detrimento artificiolo sibi clericus necessaria
+        <div xml:id="gd-p1d91-Dd1e143">
+          <head xml:id="gd-p1d91-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d91-Hd1e148" type="question-title">. Sine offitii detrimento artificiolo sibi clericus necessaria
             querat.</head>
-          <p>Unde in Concilio eodem$* Cartaginensi [IV., c. 52. et 49.] legitur .</p>
-          <p>Clericus uictum et uestimentum sibi artificiolo uel agricultura, absque offitii sui
+          <p xml:id="gd-p1d91-d1e151">Unde in Concilio eodem$* Cartaginensi [IV., c. 52. et 49.] legitur .</p>
+          <p xml:id="gd-p1d91-d1e154">Clericus uictum et uestimentum sibi artificiolo uel agricultura, absque offitii sui
             dumtaxat detrimento, prepa-ret^.§. i.35d Clericus enim, qui absque corpusculi</p>
-          <p>sui inequalitate uigiliis deest, stipendio priuatus* excommunicetur.</p>
+          <p xml:id="gd-p1d91-d1e157">sui inequalitate uigiliis deest, stipendio priuatus* excommunicetur.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem*.</head>
-          <p>Item ex eodem, [c. 51. 53. et 48. et 50.]</p>
-          <p>Clericus quilibet uerbo Dei eruditus artificiouictum querat. Item: §. 1. Omnes clerici,
+        <div xml:id="gd-p1d91-Dd1e161">
+          <head xml:id="gd-p1d91-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d91-Hd1e166" type="question-title">. De eodem*.</head>
+          <p xml:id="gd-p1d91-d1e169">Item ex eodem, [c. 51. 53. et 48. et 50.]</p>
+          <p xml:id="gd-p1d91-d1e172">Clericus quilibet uerbo Dei eruditus artificiouictum querat. Item: §. 1. Omnes clerici,
             qui ad operandum ualidi sunt, et artificiola, et litteras discant. Qui uero</p>
-          <p>non pro emendo aliquid in nundinis uel in foro deambulant^ ab offitio suo degradentur.
+          <p xml:id="gd-p1d91-d1e175">non pro emendo aliquid in nundinis uel in foro deambulant^ ab offitio suo degradentur.
             Inter temptaciones** autem ab offitio declinantes uel negligentius agentes abipso
             offitio remoueantur.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Aurelianensi [I. c. 28.]</p>
-          <p>Clerici uero, qui ad opus sanctum adesse contempserint, secundum arbitrium episcopi
+        <div xml:id="gd-p1d91-Dd1e179">
+          <head xml:id="gd-p1d91-Hd1e181">C. V</head>
+          <head xml:id="gd-p1d91-Hd1e184" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d91-d1e187">Item ex Concilio Aurelianensi [I. c. 28.]</p>
+          <p xml:id="gd-p1d91-d1e190">Clerici uero, qui ad opus sanctum adesse contempserint, secundum arbitrium episcopi
             ecclesiasticam suscipiant disciplinam.</p>
         </div>
       </div>

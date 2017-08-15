@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d85">
-        <head>DISTINCTIO LXXXV.</head>
-        <p>GRATIANUS.</p>
-        <p>Hospitalitas uero usque adeo episcopis necessaria est, ut, si ab ea inueniantur alieni,
+        <head xml:id="gd-p1d85-Hd1e103">DISTINCTIO LXXXV.</head>
+        <p xml:id="gd-p1d85-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d85-d1e109">Hospitalitas uero usque adeo episcopis necessaria est, ut, si ab ea inueniantur alieni,
           iure prohibeantur ordinari.</p>
-        <p>Unde Gregorius scribit Iohanni Episcopo, [lib. XII. epist. 6.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Hospitalitatem nesciens non fiat episcopus.</head>
-          <p>Florentinum archidiaconum ecclesiae Anchonitanae, qui ad episcopatum electus fuerat,
+        <p xml:id="gd-p1d85-d1e112">Unde Gregorius scribit Iohanni Episcopo, [lib. XII. epist. 6.]:</p>
+        <div xml:id="gd-p1d85-Dd1e115">
+          <head xml:id="gd-p1d85-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d85-Hd1e120" type="question-title">. Hospitalitatem nesciens non fiat episcopus.</head>
+          <p xml:id="gd-p1d85-d1e123">Florentinum archidiaconum ecclesiae Anchonitanae, qui ad episcopatum electus fuerat,
             scripturae quidem sacraescientiam habere, sed ita etatis senio iam confractumaccepimus,
             ut ad regiminis offitium non possit assurgere;adicientes etiam, illum ita tenacem
             existere, ut in domoeius amicus ad karitatem numquam introeat. Rusticus autem diaconus

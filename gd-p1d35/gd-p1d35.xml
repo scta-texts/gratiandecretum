@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p1d35">
-        <head>DISTINCTIO XXXV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. A quibus ordinibus bigami prohibeantur, et utrum reputentur bigami, qui ante
+        <head xml:id="gd-p1d35-Hd1e103">DISTINCTIO XXXV.</head>
+        <p xml:id="gd-p1d35-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d35-d1e109">I. Pars. A quibus ordinibus bigami prohibeantur, et utrum reputentur bigami, qui ante
           baptismum habuerunt unam , et post baptismum alteram, et an liceat sortiri uxores in
           sacris ordinibus constitutis, multorum auctoritatibus breuiter monstratum est. §. 1.
           Sequitur autem in descriptione illa apostolica: „ut sit sobrius,“ qui ordinandus est,
@@ -69,24 +67,24 @@
 
 
 
-        <p>uenter mero estuans facile despumat in libidines ^. Unde Noe in ebrietate nudauit femora;
+        <p xml:id="gd-p1d35-d1e112">uenter mero estuans facile despumat in libidines ^. Unde Noe in ebrietate nudauit femora;
           Loth, quem Sodoma non uicit, uina uicerunt. §. 2. Quod autem uinolentus esse prohibetur,
           non semel, sed frequenter uino repletus debet intelligi.</p>
-        <p>Hinc etiam in canonibus Apostolorum, [can. 43. et 42.] legitur;</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Diaconus, presbiter et episcopus ebrietati et aleae
+        <p xml:id="gd-p1d35-d1e115">Hinc etiam in canonibus Apostolorum, [can. 43. et 42.] legitur;</p>
+        <div xml:id="gd-p1d35-Dd1e119">
+          <head xml:id="gd-p1d35-Hd1e121">C. I.</head>
+          <head xml:id="gd-p1d35-Hd1e124" type="question-title">Diaconus, presbiter et episcopus ebrietati et aleae
             deseruientes, nisi desierint, deponantur .</head>
-          <p>Episcopus, aut presbiter, aut diaconus, aleae atqueebrietati deseruiens, aut desinat,
+          <p xml:id="gd-p1d35-d1e127">Episcopus, aut presbiter, aut diaconus, aleae atqueebrietati deseruiens, aut desinat,
             aut certe dampnetur, Subdiaconus autem, aut lector, aut cantor similia faciens, aut
             desinat, aut communione priuetur. Similiter etlaicus.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Esus carnium et uini potus post diluuium concessus legitur,
+        <div xml:id="gd-p1d35-Dd1e131">
+          <head xml:id="gd-p1d35-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d35-Hd1e136" type="question-title">Esus carnium et uini potus post diluuium concessus legitur,
             post Christi aduentum inhibitus.</head>
-          <p>Item Ieronimus [lib. I. contra Iouianum.]</p>
-          <p>Ab exordio conditionis humanae nec carnibus uesceba-mur,nec dabamus repudium, nec
+          <p xml:id="gd-p1d35-d1e139">Item Ieronimus [lib. I. contra Iouianum.]</p>
+          <p xml:id="gd-p1d35-d1e142">Ab exordio conditionis humanae nec carnibus uesceba-mur,nec dabamus repudium, nec
             prepucia nobis eripiebantur in signum, et hoc cursu usque ad diluuium peruenimus. Post
             diluuium autem cum datione, quam nullus implere potuit, carnes ingestae sunt ad
             uescendum, et repudii concessa duricia, et cultellus circumcisionis est appositus, quasi
@@ -96,19 +94,19 @@
             Apostolo: „Bonum est uinum non bibere, et carnes non comedere.**Et uinum enim cum
             carnibus post diluuium dedicatum est.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Alienum est a sapiente potationibus et ebrietatibus
+        <div xml:id="gd-p1d35-Dd1e146">
+          <head xml:id="gd-p1d35-Hd1e148">C. III.</head>
+          <head xml:id="gd-p1d35-Hd1e151" type="question-title">Alienum est a sapiente potationibus et ebrietatibus
             uacare.</head>
-          <p>Item ex epistolis eiusdem.</p>
-          <p>Luxuriosa res uinum, et contumeliosa ebrietas; omnis autem, qui cum his miscetur, non
+          <p xml:id="gd-p1d35-d1e154">Item ex epistolis eiusdem.</p>
+          <p xml:id="gd-p1d35-d1e157">Luxuriosa res uinum, et contumeliosa ebrietas; omnis autem, qui cum his miscetur, non
             erit sapiens.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Ignominiosum est sacerdoti affluere deliciis^*.</head>
-          <p>Idem in Michea propheta [ad. c. 2.].</p>
-          <p>Ecclesiae principes, qui deliciis affluunt, et inter epulas atque lasciuias pudicitiam
+        <div xml:id="gd-p1d35-Dd1e161">
+          <head xml:id="gd-p1d35-Hd1e163">C. IV.</head>
+          <head xml:id="gd-p1d35-Hd1e166" type="question-title">Ignominiosum est sacerdoti affluere deliciis^*.</head>
+          <p xml:id="gd-p1d35-d1e169">Idem in Michea propheta [ad. c. 2.].</p>
+          <p xml:id="gd-p1d35-d1e172">Ecclesiae principes, qui deliciis affluunt, et inter epulas atque lasciuias pudicitiam
             seruare se credunt, propheticus sermo describit, ,,quod eiciendi sint de spatiosis
             domibus lautisque conuiuiis et multo labore conquisitis epulis propter malas
             cogitationes et opera sua.** Et si uis scire, quo eiciendi sunt, euangelium lege: ,,in
@@ -117,41 +115,41 @@
             ieiunio-rum^s doctrinam rubentes buccas tumentiaque ora proferre? Si in loco apostolorum
             sumus, non solum sermonem eorum imitemur, sed conuersationem etabstinentiam*.</p>
 
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d35-d1e175">[PALE A.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Idem ad Oceanum, epist. 83.</p>
-          <p>Venter mero estuans cito despumat in libidines.</p>
-          <p>Ubi ebrietas, ibi libido dominatur et furor.]</p>
-          <p>• [PALE A.</p>
+        <div xml:id="gd-p1d35-Dd1e179">
+          <head xml:id="gd-p1d35-Hd1e181">C. V.</head>
+          <head xml:id="gd-p1d35-Hd1e184" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d35-d1e187">Idem ad Oceanum, epist. 83.</p>
+          <p xml:id="gd-p1d35-d1e190">Venter mero estuans cito despumat in libidines.</p>
+          <p xml:id="gd-p1d35-d1e193">Ubi ebrietas, ibi libido dominatur et furor.]</p>
+          <p xml:id="gd-p1d35-d1e197">• [PALE A.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Idem ad Nepotianum, de uita clericorum.</p>
-          <p>Vinolentum sacerdotem et Apostolus dampnat, et uetus lex prohibet. Sacerdotes, qui
+        <div xml:id="gd-p1d35-Dd1e201">
+          <head xml:id="gd-p1d35-Hd1e203">C. VI.</head>
+          <head xml:id="gd-p1d35-Hd1e206" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d35-d1e209">Idem ad Nepotianum, de uita clericorum.</p>
+          <p xml:id="gd-p1d35-d1e212">Vinolentum sacerdotem et Apostolus dampnat, et uetus lex prohibet. Sacerdotes, qui
             ministrant in templo Dei, prohibentur uinum et siceram bibere, ne in crapula et
             ebrietate aggrauentur corda eorum. Sicera hebreosermone omnis potio nuncupatur, que
             inebriare potest. Et infra: Quicquid inebriat et statum mentis euertit, fuge similiter
             ut uinum. ,,Nolite, ait Apostolus, inebriari uino, in quo est luxuria.** Et supra: Qui
             altario deser-uiunt, uinum et siceram non bibant. Sponsa Christi* uinum fugiat ut
             uenenum. Vinum et ebrietas incendium est.]</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d35-d1e215">[PALE A.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Prosper de uita contemplatiua, lib. II. cap. 22.</p>
-          <p>Luxuriam facit et nutrit uini perceptio nimia, non natura.]</p>
+        <div xml:id="gd-p1d35-Dd1e220">
+          <head xml:id="gd-p1d35-Hd1e222">C. VII.</head>
+          <head xml:id="gd-p1d35-Hd1e225" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d35-d1e228">Item Prosper de uita contemplatiua, lib. II. cap. 22.</p>
+          <p xml:id="gd-p1d35-d1e231">Luxuriam facit et nutrit uini perceptio nimia, non natura.]</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">In paradyso abstinentia, post paradysum edendi lasciuia
+        <div xml:id="gd-p1d35-Dd1e235">
+          <head xml:id="gd-p1d35-Hd1e237">C. VIII.</head>
+          <head xml:id="gd-p1d35-Hd1e240" type="question-title">In paradyso abstinentia, post paradysum edendi lasciuia
             cepit*.</head>
-          <p>Item Ambrosius in sermone de ieiunio Diuinum ad patrem resultat oraculum^.</p>
-          <p>Sexto die bestiae sunt creatae, et cum bestiis orta edendi potestas est et usus
+          <p xml:id="gd-p1d35-d1e243">Item Ambrosius in sermone de ieiunio Diuinum ad patrem resultat oraculum^.</p>
+          <p xml:id="gd-p1d35-d1e246">Sexto die bestiae sunt creatae, et cum bestiis orta edendi potestas est et usus
             escarum. Ubi cibus cepit, ibi finis factus est mundi: ubi cepit sua incrementa nescire,
             ibi ceperunt diuina circa eum opera feriari. Quo indiciodeclaratum est, quod per cibos
             mundus haberet imminui, per quos desiit augeri. Et infra: §. 1. Ut sciamus, non esse
@@ -169,7 +167,7 @@
 
 
 
-          <p>malum ebrietatis agnouit, iumentum suum ad remedium temperauit, non ad uicium effudit.
+          <p xml:id="gd-p1d35-d1e249">malum ebrietatis agnouit, iumentum suum ad remedium temperauit, non ad uicium effudit.
             §. 3. Manebat autem, antequam uinum inueniretur, omnibus inconcussa libertas; nemo
             sciebat a consorte naturae suae obsequia seruitutis exigere. Non esset hodie seruitus,
             si ebrietas non fuisset. Obrepserat quidem iam fraternae prelationis inuidia, manebat
@@ -184,12 +182,12 @@
             Iohannes, „non manducans panem, neque bibens uinum.“ Qui enim Christum annuntiat, ab
             omni uitiorum incentiuo prestare se debet alienum.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Triginta diebus a communione clericus abstineat, quem ebrium
+        <div xml:id="gd-p1d35-Dd1e253">
+          <head xml:id="gd-p1d35-Hd1e255">C. IX.</head>
+          <head xml:id="gd-p1d35-Hd1e258" type="question-title">Triginta diebus a communione clericus abstineat, quem ebrium
             fuisse constiterit.</head>
-          <p>Item ex Concilio Agat ensi, [cap. 41.]"</p>
-          <p>Ante omnia clericis uetetur ebrietas, que omnium uitiorum fomes ac nutrix est. Itaque
+          <p xml:id="gd-p1d35-d1e261">Item ex Concilio Agat ensi, [cap. 41.]"</p>
+          <p xml:id="gd-p1d35-d1e264">Ante omnia clericis uetetur ebrietas, que omnium uitiorum fomes ac nutrix est. Itaque
             eum, quem ebriumfuisse constiterit, (ut ordo patitur) aut triginta dierum spatio a
             communione submoueatur, aut corporali subdatur i°b suplicio.</p>
         </div>

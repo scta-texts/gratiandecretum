@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,113 +53,113 @@
     </front>
     <body>
       <div xml:id="gd-p1d1">
-        <head>DISTINCTIO PRIMA.</head>
-        <p>Humanum genus duobus regitur, naturali uidelicet iure et moribus. Ius naturae est, quod
+        <head xml:id="gd-p1d1-Hd1e103">DISTINCTIO PRIMA.</head>
+        <p xml:id="gd-p1d1-d1e106">Humanum genus duobus regitur, naturali uidelicet iure et moribus. Ius naturae est, quod
           in lege et euangelio continetur, quo quisque iubetur alii facere, quod sibi uult fieri, et
           prohibetur alii inferre, quod sibi nolit fieri. Unde Christus in euangelio : „ Omnia
           quecunque uultis ut faciant uobis homines, et uos eadem facite illis. Haec est enim lex et
           prophetae.</p>
-        <p>Hinc Ysidorus in V. libro Ethimologiarum [c. 2.] ait:</p>
-        <div>
-          <head>C. 1</head>
-          <head type="question-title">Diuinae leges natura, humanae moribus constant.</head>
-          <p>Omnes leges aut diuinae sunt, aut humanae. Diuinae natura, humanae moribus constant,
+        <p xml:id="gd-p1d1-d1e109">Hinc Ysidorus in V. libro Ethimologiarum [c. 2.] ait:</p>
+        <div xml:id="gd-p1d1-Dd1e112">
+          <head xml:id="gd-p1d1-Hd1e114">C. 1</head>
+          <head xml:id="gd-p1d1-Hd1e117" type="question-title">Diuinae leges natura, humanae moribus constant.</head>
+          <p xml:id="gd-p1d1-d1e120">Omnes leges aut diuinae sunt, aut humanae. Diuinae natura, humanae moribus constant,
             ideoque he discrepant, quoniam aliae aliis gentibus placent. §. i. *Fas lex diuina est:
             ius lex humana. Transire per agrum alienum, fas est, ius non est.</p>
-          <p>Gratianus. Ex uerbis huius auctoritatis euidenter datur intelligi, in quo differant
+          <p xml:id="gd-p1d1-d1e123">Gratianus. Ex uerbis huius auctoritatis euidenter datur intelligi, in quo differant
             inter se lex diuina et humana, cum omne quod fas est, nomine diuinae uel naturalis legis
             accipiatur, nomine uero legis humanae mores iure conscripti et traditi intelligantur. §.
             i. Est autem ius generale nomen, multas sub se continens species.</p>
-          <p>Unde in eodem lib. [Etymolog. c. 3.] Ysidorus ait:</p>
+          <p xml:id="gd-p1d1-d1e126">Unde in eodem lib. [Etymolog. c. 3.] Ysidorus ait:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">Ius genus, lex species eius est.</head>
-          <p>Ius generale nomen est; lex autem iuris est species. Ius autem est dictum, quia iustum
+        <div xml:id="gd-p1d1-Dd1e130">
+          <head xml:id="gd-p1d1-Hd1e132">C. II</head>
+          <head xml:id="gd-p1d1-Hd1e135" type="question-title">Ius genus, lex species eius est.</head>
+          <p xml:id="gd-p1d1-d1e138">Ius generale nomen est; lex autem iuris est species. Ius autem est dictum, quia iustum
             est. Omne autem ius legibus et moribus constat.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">Quid sit lex.</head>
-          <p>[Is i dor. eod. cap. 3.]</p>
-          <p>Lex est constitutio scripta.</p>
+        <div xml:id="gd-p1d1-Dd1e143">
+          <head xml:id="gd-p1d1-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d1-Hd1e148" type="question-title">Quid sit lex.</head>
+          <p xml:id="gd-p1d1-d1e151">[Is i dor. eod. cap. 3.]</p>
+          <p xml:id="gd-p1d1-d1e154">Lex est constitutio scripta.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">Quid sit mos.</head>
-          <p>[Is i dor. eod. cap. 3. et lib. II. c. 10.]</p>
-          <p>Mos* autem est longa consuetudo, de moribus tracta tantumdem.</p>
+        <div xml:id="gd-p1d1-Dd1e158">
+          <head xml:id="gd-p1d1-Hd1e160">C. IV</head>
+          <head xml:id="gd-p1d1-Hd1e163" type="question-title">Quid sit mos.</head>
+          <p xml:id="gd-p1d1-d1e166">[Is i dor. eod. cap. 3. et lib. II. c. 10.]</p>
+          <p xml:id="gd-p1d1-d1e169">Mos* autem est longa consuetudo, de moribus tracta tantumdem.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">Quid sit consuetudo</head>
-          <p>Consuetudo autem est ius quoddam moribus institutum, quod pro lege suscipitur, cum
+        <div xml:id="gd-p1d1-Dd1e173">
+          <head xml:id="gd-p1d1-Hd1e175">C. V</head>
+          <head xml:id="gd-p1d1-Hd1e178" type="question-title">Quid sit consuetudo</head>
+          <p xml:id="gd-p1d1-d1e181">Consuetudo autem est ius quoddam moribus institutum, quod pro lege suscipitur, cum
             deficit lex. §. 1. Nec differt, an scriptura, an ratione consistat, quoniam et legem
             ratio commendat. §. 2. Porro si ratione lex constat, lex erit omne iam, quod ratione
             constiterit, dumtaxat quod religioni congruat, quod disciplinae conueniat, quod saluti
             proficiat. §. 3. Vocatur autem consuetudo, quia in communi est usu.</p>
-          <p>Gratianus. Cum itaque dicitur: „non differt, utrum consuetudo scriptura, uel ratione
+          <p xml:id="gd-p1d1-d1e184">Gratianus. Cum itaque dicitur: „non differt, utrum consuetudo scriptura, uel ratione
             consistat,“ apparet, quod consuetudo partim est redacta in scriptis, partim moribus
             tantum utentium est reseruata. Quae in scriptis redacta est, constitutio siue ius
             uocatur; quae uero in scriptis redacta non est, generali nomine, consuetudo uidelicet,
             appellatur.</p>
-          <p>§. 1. Est et alia diuisio iuris, ut in eodem libro [V. c. 4.] testatur Ysidorus ita
+          <p xml:id="gd-p1d1-d1e187">§. 1. Est et alia diuisio iuris, ut in eodem libro [V. c. 4.] testatur Ysidorus ita
             dicens:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">Que sint species iuris.</head>
-          <p>[Isidor. eod. c. 4.]</p>
-          <p>Ius aut naturale est, aut ciuile, aut gentium.</p>
+        <div xml:id="gd-p1d1-Dd1e191">
+          <head xml:id="gd-p1d1-Hd1e193">C. VI</head>
+          <head xml:id="gd-p1d1-Hd1e196" type="question-title">Que sint species iuris.</head>
+          <p xml:id="gd-p1d1-d1e199">[Isidor. eod. c. 4.]</p>
+          <p xml:id="gd-p1d1-d1e202">Ius aut naturale est, aut ciuile, aut gentium.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Quid sit ius naturale.</head>
-          <p>[Isidor. eod. c. 4.]</p>
-          <p>Ius naturale est commune omnium nationum, eo quod ubique instinGtu naturae, non
+        <div xml:id="gd-p1d1-Dd1e206">
+          <head xml:id="gd-p1d1-Hd1e208">C. VII.</head>
+          <head xml:id="gd-p1d1-Hd1e211" type="question-title">Quid sit ius naturale.</head>
+          <p xml:id="gd-p1d1-d1e214">[Isidor. eod. c. 4.]</p>
+          <p xml:id="gd-p1d1-d1e217">Ius naturale est commune omnium nationum, eo quod ubique instinGtu naturae, non
             constitutione aliqua habetur, ut uiri et feminae coniunctio, liberorum successio*
             eteducatio, communis omnium possessio et omnium una libertas, acquisitio eorum, quae
             celo, terra marique capiuntur; item depositae rei uel commendatae pecuniae restitutio,
             uiolentiae per uim repulsio. §. 1. Nam hoc, aut si quid huic simile est, numquam
             iniustum, sed naturale equumque habetur.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title"> Quid sit ius ciuile.</head>
-          <p>[Isidor. eod. c. 5.]</p>
-          <p>Ius ciuile est, quod quisque populus uel duitassibi proprium diuina humanaque causa
+        <div xml:id="gd-p1d1-Dd1e221">
+          <head xml:id="gd-p1d1-Hd1e223">C. VIII</head>
+          <head xml:id="gd-p1d1-Hd1e226" type="question-title"> Quid sit ius ciuile.</head>
+          <p xml:id="gd-p1d1-d1e229">[Isidor. eod. c. 5.]</p>
+          <p xml:id="gd-p1d1-d1e232">Ius ciuile est, quod quisque populus uel duitassibi proprium diuina humanaque causa
             constituit.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">Quid sit ius gentium.</head>
-          <p>[Isidor. eod. c. 6.]</p>
-          <p>Ius gentium est sedium occupatio, edificatio, munitio, bella, captiuitates, seruitutes,
+        <div xml:id="gd-p1d1-Dd1e237">
+          <head xml:id="gd-p1d1-Hd1e239">C. IX</head>
+          <head xml:id="gd-p1d1-Hd1e242" type="question-title">Quid sit ius gentium.</head>
+          <p xml:id="gd-p1d1-d1e245">[Isidor. eod. c. 6.]</p>
+          <p xml:id="gd-p1d1-d1e248">Ius gentium est sedium occupatio, edificatio, munitio, bella, captiuitates, seruitutes,
             postliminia, federa pacis, induciae, legatorum non uiolandorum religio, conubia inter
             alienigenas prohibita. §. i. Hoc inde ius gentium appellatur, quia eo iure omnes fere
             gentes utuntur.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">Quid sit ius militare.</head>
-          <p>[Isidor. eod. c. 7.]</p>
-          <p>Ius militare est belli inferendi solempnitates, federis faciendi nexus, signo dato
+        <div xml:id="gd-p1d1-Dd1e252">
+          <head xml:id="gd-p1d1-Hd1e254">C. X</head>
+          <head xml:id="gd-p1d1-Hd1e257" type="question-title">Quid sit ius militare.</head>
+          <p xml:id="gd-p1d1-d1e260">[Isidor. eod. c. 7.]</p>
+          <p xml:id="gd-p1d1-d1e263">Ius militare est belli inferendi solempnitates, federis faciendi nexus, signo dato
             egressio in hostem uel commissio; item signo dato receptio; item flagitii militaris
             disciplina, si locus deseratur; item stipendiorum modus, dignitatum gradus, premiorum
             honor, ueluti cum corona uel torques donantur; item predae decisio, €t pro personarum
             qualitatibus et laboribus iusta diuisio, ac principis porcio.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">Quid sit ius publicum.</head>
-          <p>[Isidor. eod. c. 8.]</p>
-          <p>Ius publicum est in sacris et sacerdotibus et magistratibus .</p>
+        <div xml:id="gd-p1d1-Dd1e267">
+          <head xml:id="gd-p1d1-Hd1e269">C. XI</head>
+          <head xml:id="gd-p1d1-Hd1e272" type="question-title">Quid sit ius publicum.</head>
+          <p xml:id="gd-p1d1-d1e275">[Isidor. eod. c. 8.]</p>
+          <p xml:id="gd-p1d1-d1e278">Ius publicum est in sacris et sacerdotibus et magistratibus .</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">Quid sit ius Quiritum.</head>
-          <p>[Isidor. eod. c. 9.]</p>
-          <p>Ius Quiritum est proprie Romanorum, quod nulli tenent, nisi Quirites, id est Romani. §.
+        <div xml:id="gd-p1d1-Dd1e282">
+          <head xml:id="gd-p1d1-Hd1e284">C. XII</head>
+          <head xml:id="gd-p1d1-Hd1e287" type="question-title">Quid sit ius Quiritum.</head>
+          <p xml:id="gd-p1d1-d1e290">[Isidor. eod. c. 9.]</p>
+          <p xml:id="gd-p1d1-d1e293">Ius Quiritum est proprie Romanorum, quod nulli tenent, nisi Quirites, id est Romani. §.
             1. In quo agitur de legitimis hereditatibus, de curationibus *, de tutelis, de
             usucapionibus, quae iura apud nullum alium populum repperiuntur, sed propria sunt
             Romanorum, et in eos solos constituta.</p>

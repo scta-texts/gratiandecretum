@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d63">
-        <head>DISTINCTIO LXIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Laici uero nullo modo se debent inserere electioni.</p>
-        <p>Unde Adrianus* Papa [in VIII. Sinodo Constantinopoli sub ipso celebrata c. 22.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Laici electioni pontificum se ipsos non inserant.</head>
-          <p>Nullus laicorum principum uel potentum semet inseratelectioni uel promotioni
+        <head xml:id="gd-p1d63-Hd1e103">DISTINCTIO LXIII.</head>
+        <p xml:id="gd-p1d63-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d63-d1e109">I. Pars. Laici uero nullo modo se debent inserere electioni.</p>
+        <p xml:id="gd-p1d63-d1e112">Unde Adrianus* Papa [in VIII. Sinodo Constantinopoli sub ipso celebrata c. 22.]:</p>
+        <div xml:id="gd-p1d63-Dd1e115">
+          <head xml:id="gd-p1d63-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d63-Hd1e120" type="question-title">. Laici electioni pontificum se ipsos non inserant.</head>
+          <p xml:id="gd-p1d63-d1e123">Nullus laicorum principum uel potentum semet inseratelectioni uel promotioni
             patriarchae, metropolitae, uel</p>
-          <p>cuiuslibet episcopi, ne uidelicet inordinata et incongrua fiat confusio uel contentio,
+          <p xml:id="gd-p1d63-d1e126">cuiuslibet episcopi, ne uidelicet inordinata et incongrua fiat confusio uel contentio,
             presertim cum nullam in talibus potestatem quemquam potestatiuorum uel ceterorumlaicorum
             habere conueniat. Et infra: Quisquis secularium principum uel potentum, uel alterius
             dignitatis laicus aduersus communem acg consonantem atquecanonicam electionem
@@ -72,10 +70,10 @@
             quicquid ecclesia de ordinatione atque electione proprii presulis se
             uellemonstrauerit.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex VIII. Sinodo, [actione I.]Adrianus Papa secundus (quod Nicolaus decessoreius
+        <div xml:id="gd-p1d63-Dd1e131">
+          <head xml:id="gd-p1d63-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d63-Hd1e136" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d63-d1e139">Item ex VIII. Sinodo, [actione I.]Adrianus Papa secundus (quod Nicolaus decessoreius
             disposuerat) missos suos, Donatum scilicet Hostiensemepiscopum, et Stephanum Nephesinum
             episcopum, etMarinum diaconem sanctae Romanae ecclesiae, ad Basiliuminperatorem et ad
             filios eius Constantinum et Leonem Augustos Constantinopolim direxit, cum quibus et
@@ -95,10 +93,10 @@
             forte uoluerit, obtemperarese asciscentibus. Taliter enim dignum pastorem sibi
             regulariter ad suam et ecclesiae salutem promouet*.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Electioni episcoporum inperator interesse non debet.</head>
-          <p>Item ex Istoria tripartita, [lib. VII. c. 8.] Valentinianus inperator ueniens ab
+        <div xml:id="gd-p1d63-Dd1e143">
+          <head xml:id="gd-p1d63-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d63-Hd1e148" type="question-title">. Electioni episcoporum inperator interesse non debet.</head>
+          <p xml:id="gd-p1d63-d1e151">Item ex Istoria tripartita, [lib. VII. c. 8.] Valentinianus inperator ueniens ab
             oriente ad esperiaspartes (ut refert istoria ecclesiastica) mortuo Auxentio, Ar-rianae
             perfidiae magistro, qui Mediolanensem ecclesiam utlupus dilaniauerat, cum uellet
             catholicum, Deo ordinante,ibi consecrari episcopum, euocans episcopos hec eislocutus
@@ -119,71 +117,71 @@
             Noli timere, quia et Deus, qui te elegit,semper adiuuabit te, et ego adiutor et defensor
             tuus (utmeum ordinem decet) semper existam.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Apostolica auctoritate, non regio fauore episcopus est
+        <div xml:id="gd-p1d63-Dd1e155">
+          <head xml:id="gd-p1d63-Hd1e157">C. IV</head>
+          <head xml:id="gd-p1d63-Hd1e160" type="question-title">. Apostolica auctoritate, non regio fauore episcopus est
             eligendus.</head>
-          <p>Item Nicolaus Papa [I.] Lothario Regi.</p>
-          <p>Porro scias, quia relatum est nobis, quod, quicumque ad episcopatum in regno tuo
+          <p xml:id="gd-p1d63-d1e163">Item Nicolaus Papa [I.] Lothario Regi.</p>
+          <p xml:id="gd-p1d63-d1e166">Porro scias, quia relatum est nobis, quod, quicumque ad episcopatum in regno tuo
             prouehendus est, non nisifauentem tibi permittas eligi. Idcirco apostolica
             auctoritatesub diuini iudicii obtestacione iniungimus tibi, ut in Tre-uerensi urbe et in
             Agrippina Colonia nullum eligi patiaris,antequam relatum super hoc nostro apostolatui
             fiat.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Non recipiatur a conprouincialibus qui regia ordinatione
+        <div xml:id="gd-p1d63-Dd1e170">
+          <head xml:id="gd-p1d63-Hd1e172">C. V</head>
+          <head xml:id="gd-p1d63-Hd1e175" type="question-title">. Non recipiatur a conprouincialibus qui regia ordinatione
             episcopale culmen adipiscitur .</head>
-          <p>Item ex Concilio Parisiensi [I. cap. 8.]Si per ordinationem regiam honoris istius
+          <p xml:id="gd-p1d63-d1e178">Item ex Concilio Parisiensi [I. cap. 8.]Si per ordinationem regiam honoris istius
             culmen perua-dere aliquis nimia temeritate presumpserit, a conprouincialibus ipsius loci
             episcopis recipi nullatenus mereatur,quem indebite ordinatum agnoscunt. Si quis de
             conprouincialibus recipere eum contra interdicta presumpserit,sit a fratribus omnibus
             segregatus et ab ipsorum omniumkaritate submotus.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Laudicensi, [c. 13.]Non est permittendum turbis electionem
+        <div xml:id="gd-p1d63-Dd1e182">
+          <head xml:id="gd-p1d63-Hd1e184">C. VI</head>
+          <head xml:id="gd-p1d63-Hd1e187" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d63-d1e190">Item ex Concilio Laudicensi, [c. 13.]Non est permittendum turbis electionem
             eorumfacere, qui sunt ad sacerdotium promouendi. *</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Irrita sit electio episcopi, aut^* presbiteri aprincipibus
+        <div xml:id="gd-p1d63-Dd1e194">
+          <head xml:id="gd-p1d63-Hd1e196">C. VII</head>
+          <head xml:id="gd-p1d63-Hd1e199" type="question-title">. Irrita sit electio episcopi, aut^* presbiteri aprincipibus
             facta.</head>
-          <p>Item ex secunda actione VI. * sinodi CCCL. Episcoporum, [c. 3.]</p>
-          <p>Omnis electio episcopi, uel presbiteri, aut diaconi a principibus facta irrita maneat
+          <p xml:id="gd-p1d63-d1e202">Item ex secunda actione VI. * sinodi CCCL. Episcoporum, [c. 3.]</p>
+          <p xml:id="gd-p1d63-d1e205">Omnis electio episcopi, uel presbiteri, aut diaconi a principibus facta irrita maneat
             secundum regulam, que dicit:„Si quis episcopus, secularibus potestatibus usus, ecclesias
             e per ipsas obtinuerit, deponatur, et segrege-turs** omnesque, qui illi
             communicant."</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Non eligantur a populo, qui sunt promouendiad clerum.</head>
-          <p>Item ex Concilio Martini Papae, [c. i.]</p>
-          <p>Non liceat populo facere electionem eorum, qui ad sacerdotium promouentur, sed in
+        <div xml:id="gd-p1d63-Dd1e210">
+          <head xml:id="gd-p1d63-Hd1e212">C. VIII</head>
+          <head xml:id="gd-p1d63-Hd1e215" type="question-title">. Non eligantur a populo, qui sunt promouendiad clerum.</head>
+          <p xml:id="gd-p1d63-d1e218">Item ex Concilio Martini Papae, [c. i.]</p>
+          <p xml:id="gd-p1d63-d1e221">Non liceat populo facere electionem eorum, qui ad sacerdotium promouentur, sed in
             iudicio episcoporumsit, ut ipsi eum probent, si in sermone et fide et spirituali uita
             edoctus sit.</p>
-          <p>Gratian. His omnibus auctoritatibus laici excluduntur ab electione sacerdotum, atque
+          <p xml:id="gd-p1d63-d1e224">Gratian. His omnibus auctoritatibus laici excluduntur ab electione sacerdotum, atque
             iniungitur eis necessitas obediendi, nonlibertas inperandi.</p>
-          <p>II. Pars. Econtra uero scribitB. Gregorius IohanniEpiscopo primae Iustinianae Iliricae,
+          <p xml:id="gd-p1d63-d1e228">II. Pars. Econtra uero scribitB. Gregorius IohanniEpiscopo primae Iustinianae Iliricae,
             [lib. IV. epist. 15.]</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Voluntas principis in ordinatione pontificis
+        <div xml:id="gd-p1d63-Dd1e232">
+          <head xml:id="gd-p1d63-Hd1e234">C. IX</head>
+          <head xml:id="gd-p1d63-Hd1e237" type="question-title">. Voluntas principis in ordinatione pontificis
             desideratur.</head>
-          <p>Quia igitur suscepta fratrum atque coepiscoporum relatio ad locum uos sacerdotii totius
+          <p xml:id="gd-p1d63-d1e240">Quia igitur suscepta fratrum atque coepiscoporum relatio ad locum uos sacerdotii totius
             concilii unito consensu et serenissimi principis uoluntate declarat accersiri,gratias
             saluatori nostro magna cum exultationeretulimus. Nos quoqbe in persona fraternitatis
             tuaeper omnia consentimus, atque omnipotentem Dominum deprecamur, ut karitatem uestram
             sicut sua gratia elegit, itain omnibus sua protectione custodiat.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Clerus et populus pontificis electioni intersit^-.</head>
-          <p>Item Gregorius Iohanni Subdiacono, [lib. II.</p>
-          <p>Indict. 11. epist. 30.]</p>
-          <p>Quanto apostolica sedes auctoritate cunctis prelata constat ecclesiis, tanto inter
+        <div xml:id="gd-p1d63-Dd1e244">
+          <head xml:id="gd-p1d63-Hd1e246">C. X</head>
+          <head xml:id="gd-p1d63-Hd1e249" type="question-title">. Clerus et populus pontificis electioni intersit^-.</head>
+          <p xml:id="gd-p1d63-d1e252">Item Gregorius Iohanni Subdiacono, [lib. II.</p>
+          <p xml:id="gd-p1d63-d1e255">Indict. 11. epist. 30.]</p>
+          <p xml:id="gd-p1d63-d1e258">Quanto apostolica sedes auctoritate cunctis prelata constat ecclesiis, tanto inter
             multiplices curas et illa nosualde sollicitat, ubi ad consecrandum antistitem
             nostrumspectatur arbitrium. Defuncto igitur Laurentio, Mediolanensi episcopo, sua nobis
             relatione clerus innotuit, in electione se filii nostri Constancii, diaconi sui,
@@ -197,11 +195,11 @@
             solatiante Domino, facias consecrari,quatinus huiusmodi seruata consuetudine et
             apostolica sedesproprium uigorem retineat, et a se concessa aliis iura nonminuat.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. In electione episcopi populus debet adesse.</head>
-          <p>Item Gelasius Papa Philippo et Gerontio Episcopis.</p>
-          <p>Plebs Dictrensis data nobis peticione defleuit, diu se sine rectoris proprii
+        <div xml:id="gd-p1d63-Dd1e262">
+          <head xml:id="gd-p1d63-Hd1e264">C. XI</head>
+          <head xml:id="gd-p1d63-Hd1e267" type="question-title">. In electione episcopi populus debet adesse.</head>
+          <p xml:id="gd-p1d63-d1e270">Item Gelasius Papa Philippo et Gerontio Episcopis.</p>
+          <p xml:id="gd-p1d63-d1e273">Plebs Dictrensis data nobis peticione defleuit, diu se sine rectoris proprii
             gubernatione dispergi. Ac, sicutasseritur, is qui a nobis iam probatus dicitur, a paucis
             ettenuibus iam putatur electus, cum ad nos pertineat,uniuersos assidua admonitione
             compellere, ut omnes inunum, quem dignum sacerdotio uiderint et sine
@@ -211,11 +209,11 @@
             ammonentibus, sibi querant sola diuinitatis attentione personam, quam nullacontrarietas
             a constitutis possit reuocare prescriptis.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Stephanus Episcopus seruus seruorum Dei, Romano Archiepiscopo Rauennati^.</p>
-          <p>Nosse tuam fraternitatem uolumus, ad nostrasaures fore peruentum,Immolensem episcopum
+        <div xml:id="gd-p1d63-Dd1e277">
+          <head xml:id="gd-p1d63-Hd1e279">C. XII</head>
+          <head xml:id="gd-p1d63-Hd1e282" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d63-d1e285">Item Stephanus Episcopus seruus seruorum Dei, Romano Archiepiscopo Rauennati^.</p>
+          <p xml:id="gd-p1d63-d1e288">Nosse tuam fraternitatem uolumus, ad nostrasaures fore peruentum,Immolensem episcopum
             ab hac lucemigrasse; in cuius successoris electione populi diuisionemprouenisse
             audiuimus. Quod quia sepe contingere solet,querentibus singulis que sua sunt, non que
             Iesu Christi, nonadeo miramur. Verumtamen in hoc plurimum oportet tuamadhiberi
@@ -223,22 +221,22 @@
             cui sacri non obuientcanones. Sacerdotum quippe est electio, et fidelis populiconsensus
             adhibendus est; quia docendus est populus,non sequendus.</p>
         </div>
-        <div>
-          <head>C. XIII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Nicolaus* Papa Iohanni Rauennati Archiepisc.</p>
-          <p>Episcopos per Emiliam non consecres, nisi post electionem cleri et populi.</p>
-          <p>Litteras karitatis tuae suscepimus, quibus significas, Latinum diaconum tuum ad
+        <div xml:id="gd-p1d63-Dd1e292">
+          <head xml:id="gd-p1d63-Hd1e294">C. XIII</head>
+          <head xml:id="gd-p1d63-Hd1e297" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d63-d1e300">Item Nicolaus* Papa Iohanni Rauennati Archiepisc.</p>
+          <p xml:id="gd-p1d63-d1e303">Episcopos per Emiliam non consecres, nisi post electionem cleri et populi.</p>
+          <p xml:id="gd-p1d63-d1e306">Litteras karitatis tuae suscepimus, quibus significas, Latinum diaconum tuum ad
             episcopatum ecclesiae Marcellia-nensis a clero et omnibus °, qui illic conueniunt,
             postulari.Hoc itaque dicimus, ut si eum omnes eligunt, et uis eumconcedere, gratum nobis
             esse cognosce; et si potest, antediem sanctum festinet occurrere, ut uel sabato
             ipsonoctis magnae post baptismum cum Dei gratia ualeatordinari.</p>
         </div>
-        <div>
-          <head>C. XV</head>
-          <head type="question-title">. Sacra* principis ordinandis est necessaria.</head>
-          <p>Idem Laurentio Episcopo Centumcelensi^.</p>
-          <p>Principali deuotissimorum militum, qui illic in ciuitate Centumcelensi consistunt,
+        <div xml:id="gd-p1d63-Dd1e311">
+          <head xml:id="gd-p1d63-Hd1e313">C. XV</head>
+          <head xml:id="gd-p1d63-Hd1e316" type="question-title">. Sacra* principis ordinandis est necessaria.</head>
+          <p xml:id="gd-p1d63-d1e319">Idem Laurentio Episcopo Centumcelensi^.</p>
+          <p xml:id="gd-p1d63-d1e322">Principali deuotissimorum militum, qui illic in ciuitate Centumcelensi consistunt,
             relatione ad nos directa, sacram insinuant se clementissimi principis inpetrasse, queeis
             presbiterum, diaconum et subdiaconum fieri debereprecepit. Ideo hortamur dilectionem
             tuam, ut personasipsas uideas, et diligenter requiras, ne aliquid contracanones
@@ -246,12 +244,12 @@
             uideris, ueniente mediana ebdomada pascae, (si Dominus uoluerit, et siuixerimus)
             unumquemque per offitia, que prediximuspromouere non differas.</p>
         </div>
-        <div>
-          <head>C. XVI</head>
-          <head type="question-title">. Papa rogat Augustos, ut Reatinam ecclesiam cuidam electo
+        <div xml:id="gd-p1d63-Dd1e326">
+          <head xml:id="gd-p1d63-Hd1e328">C. XVI</head>
+          <head xml:id="gd-p1d63-Hd1e331" type="question-title">. Papa rogat Augustos, ut Reatinam ecclesiam cuidam electo
             dignentur concedere.</head>
-          <p>Item Leo IV. Lothario et Lodeuico Augustis.</p>
-          <p>Reatina ecclesia, que per tot annorum spatia pastoralibus curis destituta consistit,
+          <p xml:id="gd-p1d63-d1e334">Item Leo IV. Lothario et Lodeuico Augustis.</p>
+          <p xml:id="gd-p1d63-d1e337">Reatina ecclesia, que per tot annorum spatia pastoralibus curis destituta consistit,
             dignum est, ut brachio amplitudinis uestrae subleuetur, ac gubernationis
             tegmineprotegatur. Unde salutationis alloquio premisso uestrammansuetudinem deprecamur,
             quatinus Colono humili diaconoeandem ad regendum ecclesiam concedere dignemini,ut,
@@ -260,21 +258,21 @@
             uiduata existit, illi uestra serenitas dignetur concedere, ut consecratus a nostro
             presulatu Deo omnipotenti uestroque inperio grates peragere ualeat.</p>
         </div>
-        <div>
-          <head>C. XVII</head>
-          <head type="question-title">. Regis precepto ab Apostolica Colonus Reatinae ecclesiae
+        <div xml:id="gd-p1d63-Dd1e341">
+          <head xml:id="gd-p1d63-Hd1e343">C. XVII</head>
+          <head xml:id="gd-p1d63-Hd1e346" type="question-title">. Regis precepto ab Apostolica Colonus Reatinae ecclesiae
             ordinatur episcopus.</head>
-          <p>Item Ritae Comitissae.</p>
-          <p>Nobis dominus inperator et inperatrix per suas epistolas direxerunt, ut Colonum in
+          <p xml:id="gd-p1d63-d1e349">Item Ritae Comitissae.</p>
+          <p xml:id="gd-p1d63-d1e352">Nobis dominus inperator et inperatrix per suas epistolas direxerunt, ut Colonum in
             Reatina ecclesia, que pastoris offitio per longa iam tempora destituta
             uidebatur,episcopum facere deberemus, sicut et fecimus.</p>
         </div>
-        <div>
-          <head>C. XVIII</head>
-          <head type="question-title">. Inperatoris epistola in electionis confirmatione
+        <div xml:id="gd-p1d63-Dd1e356">
+          <head xml:id="gd-p1d63-Hd1e358">C. XVIII</head>
+          <head xml:id="gd-p1d63-Hd1e361" type="question-title">. Inperatoris epistola in electionis confirmatione
             desideratur.</head>
-          <p>Item Stephanus Guidoni Comiti.</p>
-          <p>Lectis sagacitatis uestrae apicibus, que defuncto ecclesiae Reatinae antistite clerum
+          <p xml:id="gd-p1d63-d1e364">Item Stephanus Guidoni Comiti.</p>
+          <p xml:id="gd-p1d63-d1e367">Lectis sagacitatis uestrae apicibus, que defuncto ecclesiae Reatinae antistite clerum
             et plebem eiusdem elegisse futurum sibi antistitem, nobis consecrandumuestro studio
             directum esse, ne ipsa ecclesia diu sine proprioconstet pastore, fatebantur; nos, de
             obitu prioris dolentes,nunc ipsum electum unanimitate et canonica ipsius
@@ -288,32 +286,32 @@
             uestraeparebimus de hoc, eundemque electum Domino adiuuanteconsecrabimus; quod,
             karissime fili, moleste nullo modosuscipiatis.</p>
         </div>
-        <div>
-          <head>C. XIX</head>
-          <head type="question-title">. Clericorum et ciuium uoluntate metropolitanus est
+        <div xml:id="gd-p1d63-Dd1e371">
+          <head xml:id="gd-p1d63-Hd1e373">C. XIX</head>
+          <head xml:id="gd-p1d63-Hd1e376" type="question-title">. Clericorum et ciuium uoluntate metropolitanus est
             ordinandus.</head>
-          <p>Item Leo Papa [I. ad Anastasium Thessalonicensem Episcopum, epist. LXXXII. al. LXXXIV.
+          <p xml:id="gd-p1d63-d1e379">Item Leo Papa [I. ad Anastasium Thessalonicensem Episcopum, epist. LXXXII. al. LXXXIV.
             c. 6.]</p>
-          <p>Metropolitano defuncto, cum in loco eius alius fuerit subrogandus, prouinciales
+          <p xml:id="gd-p1d63-d1e382">Metropolitano defuncto, cum in loco eius alius fuerit subrogandus, prouinciales
             episcopi ad ciuitatem metropolim conuenire debent, ut omnium clericorum atqueciuium
             uoluntate discussa ex presbiteris eiusdem ecclesiaeuel ex diaconibus optimus
             ordinetur.</p>
         </div>
-        <div>
-          <head>C. XX</head>
-          <head type="question-title">. Cum clero et populo archipresbiteri fiat electio.</head>
-          <p>Item Ysidorus in libro Offitiorum*</p>
-          <p>Si in plebibus archipresbiteri obierint aut pro aliquo reatu exinde eiecti fuerint
+        <div xml:id="gd-p1d63-Dd1e386">
+          <head xml:id="gd-p1d63-Hd1e388">C. XX</head>
+          <head xml:id="gd-p1d63-Hd1e391" type="question-title">. Cum clero et populo archipresbiteri fiat electio.</head>
+          <p xml:id="gd-p1d63-d1e394">Item Ysidorus in libro Offitiorum*</p>
+          <p xml:id="gd-p1d63-d1e397">Si in plebibus archipresbiteri obierint aut pro aliquo reatu exinde eiecti fuerint
             archidiaconus quantociusproficiscatur illuc, et cum clericis et populis ipsius
             plebiselectionem faciat, quatinus dignus pastor domui Dei constituatur, et, dum
             ordinatur, eius prouidentia ipsa plebscustodiatur.</p>
         </div>
-        <div>
-          <head>C. XXI</head>
-          <head type="question-title">. Electus in Romanum Pontificem non ordinetur, nisi eius
+        <div xml:id="gd-p1d63-Dd1e402">
+          <head xml:id="gd-p1d63-Hd1e404">C. XXI</head>
+          <head xml:id="gd-p1d63-Hd1e407" type="question-title">. Electus in Romanum Pontificem non ordinetur, nisi eius
             decretum inperatori primum representetur.</head>
-          <p>Item ex gestis Romanorum Pontificum.</p>
-          <p>Agatho natione Siculus, cuius legatione fungens Iohannes episcopus Portuensis dominico
+          <p xml:id="gd-p1d63-d1e410">Item ex gestis Romanorum Pontificum.</p>
+          <p xml:id="gd-p1d63-d1e413">Agatho natione Siculus, cuius legatione fungens Iohannes episcopus Portuensis dominico
             die Octaua pascae in ecclesia S. Sophiae publicas missas coram principe et patriarcha
             latine celebrauit, hic suscepit diualem secundumsuam postulationem, per quam reuelata
             est quantitas,que solita erat dari pro ordinatione pontificis facienda, sictamen, ut, si
@@ -321,14 +319,14 @@
             nisi prius decretumgenerale introducatur in regiam urbem secundum antiquam
             consuetudinem, ut cum eorum conscientia etiussione debeat ordinatio prosperari. §. i.
             Item Vitalia-</p>
-          <p>nus natione Signensis direxit responsales suos cum sinodica iuxta s consuetudinem in
+          <p xml:id="gd-p1d63-d1e416">nus natione Signensis direxit responsales suos cum sinodica iuxta s consuetudinem in
             regiam urbem apudpiissimos principes, significans de ordinatione sua.</p>
         </div>
-        <div>
-          <head>C. XXII</head>
-          <head type="question-title">. Inperator iuS habet eligendi Pontificem.</head>
-          <p>Item ex Historia ecclesiastica.</p>
-          <p>Adrianus Papa Romam uenire Karolum regem ad defendendas res ecclesiae postulauit.
+        <div xml:id="gd-p1d63-Dd1e420">
+          <head xml:id="gd-p1d63-Hd1e422">C. XXII</head>
+          <head xml:id="gd-p1d63-Hd1e425" type="question-title">. Inperator iuS habet eligendi Pontificem.</head>
+          <p xml:id="gd-p1d63-d1e428">Item ex Historia ecclesiastica.</p>
+          <p xml:id="gd-p1d63-d1e431">Adrianus Papa Romam uenire Karolum regem ad defendendas res ecclesiae postulauit.
             Karolus uero Romam ueniens Papiam obsedit, ibique relicto exercitu in
             sanctaresurrectione ab Adriano Papa Romae honorifice susceptusest. Post sanctam
             ueroresurrectionem reuersus Papiam,cepit Desiderium regem; deinde Romam reuersus,
@@ -341,12 +339,12 @@
             et quicumquecontra hoc decretum esset, anathematis uinculo euminnodauit, et nisi
             resipisceret, bona eius publicari precepit.</p>
         </div>
-        <div>
-          <head>C. XXIII</head>
-          <head type="question-title">. Electio Romani Pontificis ad ius pertinet
+        <div xml:id="gd-p1d63-Dd1e435">
+          <head xml:id="gd-p1d63-Hd1e437">C. XXIII</head>
+          <head xml:id="gd-p1d63-Hd1e440" type="question-title">. Electio Romani Pontificis ad ius pertinet
             inperatoris.</head>
-          <p>Item Leo PapaK</p>
-          <p>In Sinodo * congregata Romae in ecclesia S. Saluatoris. Ad exemplum B. Adriani
+          <p xml:id="gd-p1d63-d1e443">Item Leo PapaK</p>
+          <p xml:id="gd-p1d63-d1e446">In Sinodo * congregata Romae in ecclesia S. Saluatoris. Ad exemplum B. Adriani
             apostolicae sedis antistitis, quidomino Karolo, uictoriosissimo regi Francorum ac
             Longobardorum, patriciatus dignitatem, ac ordinationem apostolicae sedis, et
             inuestituram episcoporum concessit, egoquoque Leo, seruus seruorumDei, episcopus, cum
@@ -363,8 +361,8 @@
             regelaudetur, et inuestiatur, non consecretur. Si quis contrahanc apostolicams
             auctoritatem aliquid molietur, huncexcommunicacioni subiacere decernimus, et, nisi
             resipuerit,inreuocabili exilio puniri, uel ultimis suppliciis feriri.</p>
-          <p>Item Gregorius [lib. IV. Reg. epist. 34. ad Constantiam Augustam.]</p>
-          <p>Salonitanae ciuitatis episcopus me ac responsalemeo nesciente ordinatus est, et facta
+          <p xml:id="gd-p1d63-d1e449">Item Gregorius [lib. IV. Reg. epist. 34. ad Constantiam Augustam.]</p>
+          <p xml:id="gd-p1d63-d1e453">Salonitanae ciuitatis episcopus me ac responsalemeo nesciente ordinatus est, et facta
             res est, que sub nullisanterioribus principibus euenit. Quod ego audiens, ad eundem
             preuaricatorem, qui inordinate ordinatus est, protinusmisi, ut omnino missarum solempnia
             nullo modo celebrarepresumeret, nisi prius a serenissimis dominis cognoscerem,si hoc
@@ -379,12 +377,12 @@
             Deum inre-uisita preterire non possum. Et s si ad me diuistulerit uenire, exercere in eo
             districtionem canonicamnullo modo cessabo.</p>
         </div>
-        <div>
-          <head>C. XXV</head>
-          <head type="question-title">. In episcoporum electione principis desideratur
+        <div xml:id="gd-p1d63-Dd1e457">
+          <head xml:id="gd-p1d63-Hd1e459">C. XXV</head>
+          <head xml:id="gd-p1d63-Hd1e462" type="question-title">. In episcoporum electione principis desideratur
             assensus.</head>
-          <p>Item ex Tollet ano Concilio [XII. c. 6.]</p>
-          <p>Cum longe lateque tractu terrarum diffuso commeantium inpeditur celeritas nunciorum,
+          <p xml:id="gd-p1d63-d1e465">Item ex Tollet ano Concilio [XII. c. 6.]</p>
+          <p xml:id="gd-p1d63-d1e468">Cum longe lateque tractu terrarum diffuso commeantium inpeditur celeritas nunciorum,
             quo aut non queat regibus audientibus decedentis presulis transitus notifi-cari, aut de
             successore morientis episcopi libera principiselectio expectari, nascitur sepe aut
             nostro ordini derelatione talium difficultas, aut regiae potestati, dumconsultum nostrum
@@ -395,33 +393,33 @@
             precedentium sedibus preficere presules, etdecedentibus episcopis eligere successores,
             ita tamen,ut, quisquis ille fuerit ordinatus, post ordinationis suaetempus infra trium
             mensium spatium metropolitani propriipresentiam uisurus accedat.</p>
-          <p>Gratian. Electiones quoque summorum Pontificum atque aliorum infra presulum quondam
+          <p xml:id="gd-p1d63-d1e471">Gratian. Electiones quoque summorum Pontificum atque aliorum infra presulum quondam
             inperatoribus represenlabantur,sicut de electione B. Ambrosii et B. Gregorii legitur.
             Quibusexemplis et premissis auctoritatibus liquido colligitur, laicos nonexcludendos
             esse ab electione, neque principes esse reiciendosab ordinatione ecclesiarum. Sed quod
             populus iubetur electioniinteresse, non precipitur aduocari ad electionem faciendam,
             sed</p>
-          <p>ad consensum electioni adhibendum. Sacerdotum enim (ut in fine superioris capituli
+          <p xml:id="gd-p1d63-d1e475">ad consensum electioni adhibendum. Sacerdotum enim (ut in fine superioris capituli
             Stephani Papae legitur) est electio, et fidelispopuli est humiliter consentire.
             Desiderium ergo plebis requirituran k clericorum electioni concordet. Tunc enim in
             ecclesiaDei rite preficietur antistes, cum populus pariter in eum acclama-uerit, quem
             clerus communi uolo elegerit.</p>
-          <p>Unde Celestinus Papa ait [ad Episcopos Galliae, epist. II. c. 5.];</p>
+          <p xml:id="gd-p1d63-d1e478">Unde Celestinus Papa ait [ad Episcopos Galliae, epist. II. c. 5.];</p>
         </div>
-        <div>
-          <head>C. XXVI</head>
-          <head type="question-title">. Plebis non est eligere, sed electioni consentire.</head>
-          <p>Cleri, plebisque consensus et desiderium requiratur.</p>
+        <div xml:id="gd-p1d63-Dd1e482">
+          <head xml:id="gd-p1d63-Hd1e484">C. XXVI</head>
+          <head xml:id="gd-p1d63-Hd1e487" type="question-title">. Plebis non est eligere, sed electioni consentire.</head>
+          <p xml:id="gd-p1d63-d1e490">Cleri, plebisque consensus et desiderium requiratur.</p>
         </div>
-        <div>
-          <head>C. XXVII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Leo I. [ad Episcopos Viennensis prouinciae, epist. LXXXVII. al. LXXXIX.j</p>
-          <p>Vota ciuium, testimonia populorum, honoratorum arbitrium, electio clericorum in
+        <div xml:id="gd-p1d63-Dd1e494">
+          <head xml:id="gd-p1d63-Hd1e496">C. XXVII</head>
+          <head xml:id="gd-p1d63-Hd1e499" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d63-d1e502">Item Leo I. [ad Episcopos Viennensis prouinciae, epist. LXXXVII. al. LXXXIX.j</p>
+          <p xml:id="gd-p1d63-d1e505">Vota ciuium, testimonia populorum, honoratorum arbitrium, electio clericorum in
             ordinationibus sacerdotum constituantur. Et infra: Per pacem et quietem sacerdotes, qui
             futuri' sunt, postulentur, teneatur subscriptioclericorum, honoratorum testimonium,
             ordinis conuentuset plebis.....</p>
-          <p>III. Pars. Gratian. Principibus uero atque inperatoribuselectiones Romanorum Pontificum
+          <p xml:id="gd-p1d63-d1e508">III. Pars. Gratian. Principibus uero atque inperatoribuselectiones Romanorum Pontificum
             atque aliorum episcoporumreferendas usus et constitutio tradidit pro scismaticorum
             atquehereticorum dissensionibus, quibus nonnumquam ecclesia Deiconcussa periclitabatur,
             contra quos legibus fidelissimorum inpe-ratorum frequenter ecclesia munita legitur.
@@ -431,13 +429,13 @@
             omnibus suffragatores existerent, sicut Valentinianus B. Ambrosiolegitur dixisse: ,,Noli
             timere, quia Deuss, qui te elegit,semper adiuuabit te, et ego adiutor et defensor tuus,
             ut meoordini decet, semper existam.</p>
-          <p>Unde Stephanus Papa statuit dicens:</p>
+          <p xml:id="gd-p1d63-d1e512">Unde Stephanus Papa statuit dicens:</p>
         </div>
-        <div>
-          <head>C. XXVIII</head>
-          <head type="question-title">. Presentibus legatis inperatoris ordinetur Pontifex
+        <div xml:id="gd-p1d63-Dd1e517">
+          <head xml:id="gd-p1d63-Hd1e519">C. XXVIII</head>
+          <head xml:id="gd-p1d63-Hd1e522" type="question-title">. Presentibus legatis inperatoris ordinetur Pontifex
             Romanus.</head>
-          <p>Quia sancta Romana ecclesia, cui Deo auctore pre-sidemus, a plurimis patitur uiolentias
+          <p xml:id="gd-p1d63-d1e525">Quia sancta Romana ecclesia, cui Deo auctore pre-sidemus, a plurimis patitur uiolentias
             Pontifice obeunte, que ob hoc inferuntur, quia absque inperiali noticia Pontificis fit
             consecratio, nec canonico ritu et consuetudineab inperatore directi sunt nuncii, qui
             scandala uetentfieri: uolumus, ut, cum instituendus est Pontifex, conuenienti-bus
@@ -446,7 +444,7 @@
             periculo iuramenta uel promissiones aliquas noua ad-inuentione audeat extorquere, nisi
             que antiqua exigit consuetudo, ne uel ecclesia scandalizetur, et inperialis
             honorificentia minuatur.</p>
-          <p>IV. Pars. Gratian. Verum, quia inperatores quandoquemodum suum ignorantes non in numero
+          <p xml:id="gd-p1d63-d1e528">IV. Pars. Gratian. Verum, quia inperatores quandoquemodum suum ignorantes non in numero
             consentientium, sed primidistribuentium, immo exterminantium esse uoluerunt,
             frequenteretiam in hereticorum perfidiam prolapsi catholicae matris ecclesiaeunitatem
             inpugnare conati sunt, sanctorum Patrum statutaaduersus eos prodierunt, ut semet
@@ -462,13 +460,13 @@
             destruantur. Postremopresentibus legatis inperatorum et inconsultis electiones Romanorum
             Pontificum leguntur celebratae, et tandem idem inpera-tores religioso mentis affectu
             prefatis priuilegiis renunciauerunt,multa insuper donaria ecclesiae Dei conferentes.</p>
-          <p>Unde Gregorius* IV. scribit:</p>
+          <p xml:id="gd-p1d63-d1e531">Unde Gregorius* IV. scribit:</p>
         </div>
-        <div>
-          <head>C. XXIX</head>
-          <head type="question-title">. Inconsultis legatis inperatoris Adrianus [II.] ad
+        <div xml:id="gd-p1d63-Dd1e535">
+          <head xml:id="gd-p1d63-Hd1e537">C. XXIX</head>
+          <head xml:id="gd-p1d63-Hd1e540" type="question-title">. Inconsultis legatis inperatoris Adrianus [II.] ad
             Pontificatum eligitur.</head>
-          <p>Cum Adrianus secundus ad Romanum Pontificatum ab ecclesia Dei genitricis dominae
+          <p xml:id="gd-p1d63-d1e543">Cum Adrianus secundus ad Romanum Pontificatum ab ecclesia Dei genitricis dominae
             nostrae, que dicitur. ,,Adpresepe,“ traheretur ad Lateranense patriarchium, cer-tatim a
             populo et clero et proceribus deportatus est.Quod audientes missi Lodoici inperatoris
             moleste tulerunt,indignati scilicet, quod, dum presentes essent, non fuerunt inuitati,
@@ -478,16 +476,16 @@
             fomitem inolesceret), omnem indignationem medullitus sedauerunt, et ad salutandum
             electum etiam ipsi humiliter accesserunt**.</p>
         </div>
-        <div>
-          <head>C. XXX</head>
-          <head type="question-title">. Romani Pontificis electio a Lodoico * Romanis
+        <div xml:id="gd-p1d63-Dd1e547">
+          <head xml:id="gd-p1d63-Hd1e549">C. XXX</head>
+          <head xml:id="gd-p1d63-Hd1e552" type="question-title">. Romani Pontificis electio a Lodoico * Romanis
             conceditur.</head>
-          <p>Item pactum constitutionis Inperatoris primi Lodoici cum Romanis Pontificibus.</p>
-          <p>Ego Lodoicus Romanus Inperator Augustus statuo et concedo per hoc pactum confirmationis
+          <p xml:id="gd-p1d63-d1e555">Item pactum constitutionis Inperatoris primi Lodoici cum Romanis Pontificibus.</p>
+          <p xml:id="gd-p1d63-d1e558">Ego Lodoicus Romanus Inperator Augustus statuo et concedo per hoc pactum confirmationis
             nostrae tibiB. Petro principi apostolorum, et per te uicario tuo dominoPascali summo
             Pontifici et successoribus eius in perpetuum, sicut a predecessoribus uestris usque nunc
             in</p>
-          <p>uestra potestate et ditione tenuistis et disposuistis, ciuitatem Romanam cum ducatu
+          <p xml:id="gd-p1d63-d1e561">uestra potestate et ditione tenuistis et disposuistis, ciuitatem Romanam cum ducatu
             suo, et suburbanis atque luculis omnibus, et territoriis eius montanis, atquemaritimis
             littoribus, et portubus, seu cunctis ciuitatibus,castellis, oppidis, ac uillis in
             Tusciae partibus. Idem:§. i. Quando diuina uocatione huius sacratissimae sedisPontifex
@@ -502,34 +500,34 @@
             contradictione more canonicoconsecrare, et, dum consecratus fuerit, legati ad nos,uel ad
             successores nostros reges Francorum dirigantur, quiinter nos et illum amicitiam et
             caritatem ac pacemsocient.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d63-d1e565">[PALE A.</p>
         </div>
-        <div>
-          <head>C. XXXI</head>
-          <head type="question-title">. Electio et consecratio Romani Pontificis non nisi iuste et
+        <div xml:id="gd-p1d63-Dd1e569">
+          <head xml:id="gd-p1d63-Hd1e571">C. XXXI</head>
+          <head xml:id="gd-p1d63-Hd1e574" type="question-title">. Electio et consecratio Romani Pontificis non nisi iuste et
             canonice fieri debet.</head>
-          <p>Item Leo IV. Lothario et Lodowico Augustis.</p>
-          <p>Inter nos et uos pacti serie statutum et confirmatum est, quod electio et consecratio
+          <p xml:id="gd-p1d63-d1e577">Item Leo IV. Lothario et Lodowico Augustis.</p>
+          <p xml:id="gd-p1d63-d1e580">Inter nos et uos pacti serie statutum et confirmatum est, quod electio et consecratio
             futuri Romani Pontificis non nisiiuste et canonice fieri debeat.]</p>
-          <p>[PALEA.</p>
+          <p xml:id="gd-p1d63-d1e583">[PALEA.</p>
         </div>
-        <div>
-          <head>C. XXXII</head>
-          <head type="question-title">. Ab inperatore uel nunciis eius electioni Romani Pontificis
+        <div xml:id="gd-p1d63-Dd1e587">
+          <head xml:id="gd-p1d63-Hd1e589">C. XXXII</head>
+          <head xml:id="gd-p1d63-Hd1e592" type="question-title">. Ab inperatore uel nunciis eius electioni Romani Pontificis
             nullum generetur obstaculum.</head>
-          <p>Item Constitutio* primi Heinrici et primi Ottonis cum Romanis Pontificibus.</p>
-          <p>Constitucio primi Heinrici et primi Ottonis cum Romanis Pontificibus. Ut nullus
+          <p xml:id="gd-p1d63-d1e595">Item Constitutio* primi Heinrici et primi Ottonis cum Romanis Pontificibus.</p>
+          <p xml:id="gd-p1d63-d1e598">Constitucio primi Heinrici et primi Ottonis cum Romanis Pontificibus. Ut nullus
             missorum nostrorumcuiuscumque inpeditionis argumentum in electione Romani Pontificis
             componere audeat, omnino prohibemus.Item: §. i. In electione Romanorum Pontificum
             nequeliber, neque seruus ad hoc uenire presumat, ut illis Romanis,quos ad hanc
             electionem per constitutionem sanctorumPatrum antiqua admisit consuetudo, aliquod faciat
             inpedi-</p>
         </div>
-        <div>
-          <head>C. XXXIII</head>
-          <head type="question-title">. Iuramentum Ottonis, quod fecit domino Papae Iohanni.</head>
-          <p>Item Constitucio Ottonis.</p>
-          <p>Tibi domino Iohanni Papae ego rex Otto promittereet iurare facio per Patrem et Filium
+        <div xml:id="gd-p1d63-Dd1e602">
+          <head xml:id="gd-p1d63-Hd1e604">C. XXXIII</head>
+          <head xml:id="gd-p1d63-Hd1e607" type="question-title">. Iuramentum Ottonis, quod fecit domino Papae Iohanni.</head>
+          <p xml:id="gd-p1d63-d1e610">Item Constitucio Ottonis.</p>
+          <p xml:id="gd-p1d63-d1e613">Tibi domino Iohanni Papae ego rex Otto promittereet iurare facio per Patrem et Filium
             et Spiritum sanctum,et per hoc lignum uiuificae crucis, et per has reliquiasSanctorum,
             quod, si (permittente Deo Romam uenero,sanctam Romanam ecclesiam et te rectorem ipsius
             exaltabosecundum meum posse, et numquam uitam, aut membra,neque ipsum honorem quem
@@ -539,17 +537,17 @@
             uenerit, tibi reddam. Cuicumqueregnum Italicum commisero, iurare faciam illum, ut
             adiu-tor tui sit ad defendendam terram S. Petri secundumsuum posse*.</p>
         </div>
-        <div>
-          <head>C. XXXIV</head>
-          <head type="question-title">. Liberum sit clero et populo de propria diocesi episcopum
+        <div xml:id="gd-p1d63-Dd1e618">
+          <head xml:id="gd-p1d63-Hd1e620">C. XXXIV</head>
+          <head xml:id="gd-p1d63-Hd1e623" type="question-title">. Liberum sit clero et populo de propria diocesi episcopum
             digere.</head>
-          <p>Item ex primo libro Capitulorum Caroli et Lodowici [Imperatorum c. 84.] </p>
-          <p>Sacrorum canonum non ignari, ut in Dei nomine sancta ecclesia suo liberius potiatur
+          <p xml:id="gd-p1d63-d1e626">Item ex primo libro Capitulorum Caroli et Lodowici [Imperatorum c. 84.] </p>
+          <p xml:id="gd-p1d63-d1e629">Sacrorum canonum non ignari, ut in Dei nomine sancta ecclesia suo liberius potiatur
             honore, assensum ordiniecclesiastico prebemus, ut scilicet episcopi per electionem cleri
             et populi secundum statuta canonum de propriadiocesi, remota personarum et munerum
             acceptione, obuitae meritum et sapientiae donum eligantur, ut exemplo etuerbo sibi
             subiectis usquequaque prodesse ualeant.</p>
-          <p>Gratian. Ex his constitutionibus et pacto Lodowici inpera-toris deprehenditur,
+          <p xml:id="gd-p1d63-d1e632">Gratian. Ex his constitutionibus et pacto Lodowici inpera-toris deprehenditur,
             inperatores illis renunciasse priuilegiis, que de electione summi Pontificis Adrianus
             Papa Karolo inperatori’, et adimitacionem eius Leo Papa Ottoni I. regi Theutonicorum
             fecerat.Cum ergo ex premissis auctoritatibus cunctis liqueat electionemclericorum
@@ -559,28 +557,28 @@
             septimoconcilio iWce/m‘ et Macer ens/ concilio statutum est, utad eligendum episcopum
             sufficiat ecclesiae matricis arbitrium.Nunc autem sicut electio summi Pontificis non a
             Cardinalibustantum, zmmo§ etiam ab aliis religiosis clericis auctoritate</p>
-          <p>Nicolai Papae est facienda, ita et episcoporum electio non a canonicis tantum, sed
+          <p xml:id="gd-p1d63-d1e636">Nicolai Papae est facienda, ita et episcoporum electio non a canonicis tantum, sed
             etiam ob aliis religiosis clericis, sicut ingenerali Sinodo Innocentii Papae Romae
             habita constitutumest. Ait enim:</p>
         </div>
-        <div>
-          <head>C. XXXV</head>
-          <head type="question-title">. Absque religiosorum uirorum consilio canonici maioris
+        <div xml:id="gd-p1d63-Dd1e640">
+          <head xml:id="gd-p1d63-Hd1e642">C. XXXV</head>
+          <head xml:id="gd-p1d63-Hd1e645" type="question-title">. Absque religiosorum uirorum consilio canonici maioris
             ecclesiae episcopum non eligant.</head>
-          <p>Obeuntibus sane episcopis, quoniam ultra tres menses uacare ecclesiam sanctorum Patrum
+          <p xml:id="gd-p1d63-d1e648">Obeuntibus sane episcopis, quoniam ultra tres menses uacare ecclesiam sanctorum Patrum
             prohibent sanctiones,sub anathemate interdicimus, ne canonici de sede episcopali ab
             electione episcoporum excludant religiososuiros, sed eorum consilio honestam et idoneam
             personam inepiscopum eligant. Quod si exclusis religiosis electiofacta fuerit, quod
             absque eorum consensu et conni-uentia factum fuerit, irritum habeatur et uacuum.</p>
-          <p>Gratian. Nunc ergo queritur, si uota eligentium in duas se diuiserint partes, quis
+          <p xml:id="gd-p1d63-d1e651">Gratian. Nunc ergo queritur, si uota eligentium in duas se diuiserint partes, quis
             eorum sit preferendus alteri f De his itascribit Leo Episcopus [ad Anastasium
             ThessalonicensemEpiscopum, epist. LXXXII. al. LXXXIV. cap. 5.]</p>
         </div>
-        <div>
-          <head>C. XXXVI</head>
-          <head type="question-title">. Cum uota eligentium in duas se diuiserintpartes, quis sit
+        <div xml:id="gd-p1d63-Dd1e655">
+          <head xml:id="gd-p1d63-Hd1e657">C. XXXVI</head>
+          <head xml:id="gd-p1d63-Hd1e660" type="question-title">. Cum uota eligentium in duas se diuiserintpartes, quis sit
             preferendus alteri.</head>
-          <p>Si forte, quod* nec reprehensibile, nec inreligiosijm iudicamus, uota eligentium in
+          <p xml:id="gd-p1d63-d1e663">Si forte, quod* nec reprehensibile, nec inreligiosijm iudicamus, uota eligentium in
             duas se diuiserint partes,is metropolitani iudicio alteri preferatur, qui
             maioribusiuuatur studiis et meritis; tantum ut nullus deturinuitis et non petentibus, ne
             plebs inuita episcopum non optatum contempnat", aut oderit.</p>

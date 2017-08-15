@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,8 +53,8 @@
     </front>
     <body>
       <div xml:id="gd-p1d44">
-        <head>DISTINCTIO XLIV. GRATIANUS.</head>
-        <p>I. Pars. Cum autem uinolentus esse prohibetur, gulae intemperantiam nequaquam habere
+        <head xml:id="gd-p1d44-Hd1e103">DISTINCTIO XLIV. GRATIANUS.</head>
+        <p xml:id="gd-p1d44-d1e106">I. Pars. Cum autem uinolentus esse prohibetur, gulae intemperantiam nequaquam habere
           permittitur; neque enim ebrietas prohibetur, et uoracitas permittitur. Utrumque enim inter
           operatenebrarum Apostolus connumerat, scribens Romanis; „Nonin comessationibus et
           ebrietatibus. “ Ventris namque ingluuies adluxuriam facile prouocat, et omne bonum opus
@@ -65,14 +63,14 @@
           Ierusalem destruxisse legitur,quia uenter, cui multitudo cocorum deseruit, edificia
           uirtutumad solum redigit. Sacerdos itaque de altario ° uiuere, nonluxuriari querat. Unde
           Ieronimus ait: „Tibi o sacerdos de</p>
-        <p>altario uiuere, non luxuriari permittitur. §. i. Sunt autem comessationes non solum
+        <p xml:id="gd-p1d44-d1e109">altario uiuere, non luxuriari permittitur. §. i. Sunt autem comessationes non solum
           sacerdotibus, sed etiam laicis noxiae,qui festinos et solempnes dies non aliter se digne
           celebrare putant , nisi comessationibus deseruiant.</p>
-        <p>Unde Augustinus scribit ad Aurelium Episcopum, [epist. LXIV.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Non est uacandum comessationibus et ebrietatibus.</head>
-          <p>Comessationes et ebrietates ita concessae putantur et licitae, ut in honorem
+        <p xml:id="gd-p1d44-d1e112">Unde Augustinus scribit ad Aurelium Episcopum, [epist. LXIV.]:</p>
+        <div xml:id="gd-p1d44-Dd1e115">
+          <head xml:id="gd-p1d44-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d44-Hd1e120" type="question-title">. Non est uacandum comessationibus et ebrietatibus.</head>
+          <p xml:id="gd-p1d44-d1e123">Comessationes et ebrietates ita concessae putantur et licitae, ut in honorem
             beatissimorum martirum non solumper dies solempnes, (quod unus quisque non
             lugendumuideat, qui hec non carneis oculis inspicit?), sed etiam cotidie celebrentur. Et
             post pauca: Non ergo aspere, quantum estimo, non duriter, non modo imperiose
@@ -83,56 +81,56 @@
             uel s spiritualibus proximi, quorum auctoritate et lenissimis quidem, sed instantissimis
             admoni-cionibus cetera multitudo frangatur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Nulli clericorum aut continentium licet tabernas
+        <div xml:id="gd-p1d44-Dd1e128">
+          <head xml:id="gd-p1d44-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d44-Hd1e133" type="question-title">. Nulli clericorum aut continentium licet tabernas
             intrare.</head>
-          <p>Item ex Concilio Laudicensi, [c. 24.]</p>
-          <p>Non oportet clericos seruientes* a presbiteris usque ad subdiaconos et deinceps ordinis
+          <p xml:id="gd-p1d44-d1e136">Item ex Concilio Laudicensi, [c. 24.]</p>
+          <p xml:id="gd-p1d44-d1e139">Non oportet clericos seruientes* a presbiteris usque ad subdiaconos et deinceps ordinis
             ecclesiastici omnesusque ad ministros, aut lectores, aut exorcistas, aut hostia-rios,
             aut psalmistas, aut etiam eos, qui in proposito continentiae sunt, tabernas **
             intrare.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Deponatur clericus, qui tabernas aut ergasterium habere
+        <div xml:id="gd-p1d44-Dd1e143">
+          <head xml:id="gd-p1d44-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d44-Hd1e148" type="question-title">. Deponatur clericus, qui tabernas aut ergasterium habere
             noluerit.</head>
-          <p>Item ex VI. Sinodo, [cap. 9.]</p>
-          <p>Nulli licet clerico tabernam* aut ergasterium habere. Si enim huiusmodi tabernam
+          <p xml:id="gd-p1d44-d1e151">Item ex VI. Sinodo, [cap. 9.]</p>
+          <p xml:id="gd-p1d44-d1e154">Nulli licet clerico tabernam* aut ergasterium habere. Si enim huiusmodi tabernam
             ingredi inhibetur, quanto magis aliis ministrare in ea? Si quis uero tale quidfecerit,
             aut cesset, aut deponatur.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Nisi necessitate compulsi clerici tabernas non
+        <div xml:id="gd-p1d44-Dd1e158">
+          <head xml:id="gd-p1d44-Hd1e160">C. IV</head>
+          <head xml:id="gd-p1d44-Hd1e163" type="question-title">. Nisi necessitate compulsi clerici tabernas non
             ingrediantur.</head>
-          <p>Item ex Concilio Cartag. III. [c. 27.] </p>
-          <p>Clerici edendi uel bibendi causa tabernas non ingrediantur, nisi peregrinationis
+          <p xml:id="gd-p1d44-d1e166">Item ex Concilio Cartag. III. [c. 27.] </p>
+          <p xml:id="gd-p1d44-d1e169">Clerici edendi uel bibendi causa tabernas non ingrediantur, nisi peregrinationis
             necessitate compulsi.</p>
-          <p>Item Gregorius Natali Episcopo, [lib. II. Reg.</p>
-          <p>Indict. X. epist. 14.]</p>
-          <p>II. Pars. Multis ab urbe tua uenientibus, frater karis-sime, didici, pastorali cura
+          <p xml:id="gd-p1d44-d1e172">Item Gregorius Natali Episcopo, [lib. II. Reg.</p>
+          <p xml:id="gd-p1d44-d1e176">Indict. X. epist. 14.]</p>
+          <p xml:id="gd-p1d44-d1e179">II. Pars. Multis ab urbe tua uenientibus, frater karis-sime, didici, pastorali cura
             derelicta solis te conuiuiis occupatum. Que audita non crederem, nisi hec actionumtuarum
             experimentis approbarem. Nam quia nequaquamlectioni studeas, nequaquam exortationi
             inuigiles, sed ipsumquoque usum ecclesiastici ordinis ignores, hoc est in testimonium,
             quod eis, sub quibus positus es, seruare reuerentiamnescis..</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ad eundem* [ib. II. epist. 37.]</p>
-          <p>Conuiuia, que ex intentione impendendae karitatis fiunt, recte uestra fraternitas in
+        <div xml:id="gd-p1d44-Dd1e183">
+          <head xml:id="gd-p1d44-Hd1e185">C. VI</head>
+          <head xml:id="gd-p1d44-Hd1e188" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d44-d1e191">Item ad eundem* [ib. II. epist. 37.]</p>
+          <p xml:id="gd-p1d44-d1e194">Conuiuia, que ex intentione impendendae karitatis fiunt, recte uestra fraternitas in
             suis epistolis laudat. Sedtamen sciendum est, quia tunc ex karitate ueraciter prodeunt,
             cum in eis nulla absentium uita mordetur, nullus exirrisione reprehenditur, nec in eis
             inanes secularium negotiorum fabulae, sed uerba sacrae lectionis audiuntur; cumnon plus,
             quam necesse est, seruitur corpori, sed sola eiusinfirmitas reficitur, ut ad usus
             exercendae uirtutis habeatur. Hec itaque si uos in uestris conuiuiis agitis,
             abstinentium, fateor, magistri estis.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d44-d1e197">[PALE A.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Item ex Concilio NanetensiNullus presbiterorum, quando ad
+        <div xml:id="gd-p1d44-Dd1e201">
+          <head xml:id="gd-p1d44-Hd1e203">C. VII</head>
+          <head xml:id="gd-p1d44-Hd1e206" type="question-title">. Item ex Concilio NanetensiNullus presbiterorum, quando ad
             anniuersariumdiem, trigesimum, aut septimum, uel tertium alicuius defuncti, aut
             quacumque uocatione ad collectam presbitericonuenerit, se inebriare ullatenus presumat,
             nec precatus amore sanctorum uel ipsius animae bibere, aut aliosad bibendum cogere, uel
@@ -140,30 +138,30 @@
             referre,aut cantare presumat, aut turpia ioca uel urso, uel torna-tricibus ante se fieri
             patiatur; nec laruas demonum*ante se ferri consentiat, quia hoc diabolicum est et a
             sacriscanonibus prohibitum.]</head>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d44-d1e209">[PALE A.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex eodem.</p>
-          <p>Quando autem conuenerint presbiteri ad aliquod con-uiuium, aliquis prior illorum uersum
+        <div xml:id="gd-p1d44-Dd1e213">
+          <head xml:id="gd-p1d44-Hd1e215">C. VIII</head>
+          <head xml:id="gd-p1d44-Hd1e218" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d44-d1e221">Item ex eodem.</p>
+          <p xml:id="gd-p1d44-d1e224">Quando autem conuenerint presbiteri ad aliquod con-uiuium, aliquis prior illorum uersum
             ante mensam incipiat et cibum benedicat. Et tunc secundum ordinem sedeant,alter alteri
             honorem prebentes; et per uices cibum etpotum benedicant, et aliquis de illorum clericis
             aliquid desancta scriptura legat. Et post refectionem similiter san-</p>
-          <p>ctum ymnum dicant ad exemplum Domini, sicut in cena fecisse legitur, et sic se
+          <p xml:id="gd-p1d44-d1e227">ctum ymnum dicant ad exemplum Domini, sicut in cena fecisse legitur, et sic se
             contineant omnes presbiteri,maxime in talibus locis, ut non uituperetur
             ministeriumillorum.]</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d44-d1e231">[PALE A.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex eodem.</p>
-          <p>Quando presbiteri per calendas simul conueniunt post peractum diuinum misterium ad
+        <div xml:id="gd-p1d44-Dd1e236">
+          <head xml:id="gd-p1d44-Hd1e238">C. IX</head>
+          <head xml:id="gd-p1d44-Hd1e241" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d44-d1e244">Item ex eodem.</p>
+          <p xml:id="gd-p1d44-d1e247">Quando presbiteri per calendas simul conueniunt post peractum diuinum misterium ad
             necessariam collationem, non® quasi ad plenam 'refectionem, sed quasi adprandium ibi ad
             tabulas resideant, ne per talia inhonestaconuiuia se inuicem grauent, quia indecens est
             et onerosum. Sepe etiam tarde ad ecclesiam redeuntes maius</p>
-          <p>dine mutua contrahunt, quam lucrum ibi faciant. ^ Nam de huiusmodi conuentu Paulus
+          <p xml:id="gd-p1d44-d1e250">dine mutua contrahunt, quam lucrum ibi faciant. ^ Nam de huiusmodi conuentu Paulus
             Corinthios reprehendit, quiinconuenienter cenam dominicam manducare conueniebant.Sic et
             qui ad cenam dominicam, id est ad collationemuerlpi, sub occasione conueniunt, et ex
             ueritate" uentriscausa coniunguntur, reprehensibiles coram Deo et hominibushabentur, fit
@@ -171,33 +169,33 @@
             fratribusfrangant, et singuli singulos bibere faciant, et maximeultra tertiam uicem
             poculum non contingant, et sic adecclesias redeant.]</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Christiani ex simbolis conuiuia non celebrent.</head>
-          <p>Item ex Concilio Laudicensi, [c. 55.]</p>
-          <p>III. Pars. Non oportet ministros altaris uel quoslibetclericos, aut etiam laicos
+        <div xml:id="gd-p1d44-Dd1e254">
+          <head xml:id="gd-p1d44-Hd1e256">C. X</head>
+          <head xml:id="gd-p1d44-Hd1e259" type="question-title">. Christiani ex simbolis conuiuia non celebrent.</head>
+          <p xml:id="gd-p1d44-d1e262">Item ex Concilio Laudicensi, [c. 55.]</p>
+          <p xml:id="gd-p1d44-d1e265">III. Pars. Non oportet ministros altaris uel quoslibetclericos, aut etiam laicos
             Christianos ex simbolis, queuulgus comissalia appellat, conuiuia celebrare.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. Sacrarum scripturarum lectio sacerdotalibuscormiuiis semper
+        <div xml:id="gd-p1d44-Dd1e269">
+          <head xml:id="gd-p1d44-Hd1e271">C. XI</head>
+          <head xml:id="gd-p1d44-Hd1e274" type="question-title">. Sacrarum scripturarum lectio sacerdotalibuscormiuiis semper
             admisceatur.</head>
-          <p>. Item ex Concilio Tollet ano III. [c. 7.]</p>
-          <p>Pro reuerentia Dei et sacerdotum id uniuersaconstituit sinodus, ut (quia solent crebro
+          <p xml:id="gd-p1d44-d1e277">. Item ex Concilio Tollet ano III. [c. 7.]</p>
+          <p xml:id="gd-p1d44-d1e280">Pro reuerentia Dei et sacerdotum id uniuersaconstituit sinodus, ut (quia solent crebro
             mensis ociosaefabulae interponi) in omni sacerdotali conuiuio lectio diuinarum
             scripturarum misceatur. Per hoc enim et animae edifi-cantur ad bonum, et fabulae non
             necessariae prohibentur.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. De confertis nec conuiuia facere, nec ante horam diei
+        <div xml:id="gd-p1d44-Dd1e284">
+          <head xml:id="gd-p1d44-Hd1e286">C. XII</head>
+          <head xml:id="gd-p1d44-Hd1e289" type="question-title">. De confertis nec conuiuia facere, nec ante horam diei
             tertiam clericis comedere licet.</head>
-          <p>Item ex Concilio Martini Papae, [c. 61. et 66.]</p>
-          <p>Non liceat sacerdotes uel clericos, sed nec religiosos lai-cqs conuiuia facere de
+          <p xml:id="gd-p1d44-d1e292">Item ex Concilio Martini Papae, [c. 61. et 66.]</p>
+          <p xml:id="gd-p1d44-d1e295">Non liceat sacerdotes uel clericos, sed nec religiosos lai-cqs conuiuia facere de
             confertis. §. u Nec oportet clericos uel laicos religiosos ante sacram horam diei
             tertiaminire conuiuia, neque aliquando clericos, nisi ymno dicto,edere panem, et post
             cibos gratias auctori Deoreferre.</p>
-          <p>Gratian. Si ergo laicis comessationes dampnabiles sunt, multo magis sacerdotibus
+          <p xml:id="gd-p1d44-d1e298">Gratian. Si ergo laicis comessationes dampnabiles sunt, multo magis sacerdotibus
             inputantur ad gehennam. Venter enimpinguis (ut ait Ieronimus) crassum sensum generat,
             cumsacerdotalis sensus econtra uigil debeat esse et tenuis;atque ideo edacitatis uitio
             obnoxii in sacerdotes ungi non debent.Hi enim (ut ait Gregorius in Moralibus), qui adhuc

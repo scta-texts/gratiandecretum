@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,44 +53,44 @@
     </front>
     <body>
       <div xml:id="gd-p1d94">
-        <head>DISTINCTIO XCIV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Subdiacono etiam summus patriarcha uices suascommittere ualet.</p>
-        <p>Unde Simacus ait*:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Etiam subdiacono uices suas committit apostolica
+        <head xml:id="gd-p1d94-Hd1e103">DISTINCTIO XCIV.</head>
+        <p xml:id="gd-p1d94-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d94-d1e109">I. Pars. Subdiacono etiam summus patriarcha uices suascommittere ualet.</p>
+        <p xml:id="gd-p1d94-d1e112">Unde Simacus ait*:</p>
+        <div xml:id="gd-p1d94-Dd1e115">
+          <head xml:id="gd-p1d94-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d94-Hd1e120" type="question-title">. Etiam subdiacono uices suas committit apostolica
             ecclesia.</head>
-          <p>Valde necessarium esse perspeximus, ut sicut decessorum nostrorum fuit iudicium, ita
+          <p xml:id="gd-p1d94-d1e123">Valde necessarium esse perspeximus, ut sicut decessorum nostrorum fuit iudicium, ita
             uni eidemque personae omnia committamus, et ubi nos presentes esse non possumus, nostra
             per eum, cui precipimus, representetur auctoritas. Quamobrem Petro subdiacono sedis
             nostrae intraprouinciam Siciliam uices nostras auxiliante Deo commisimus. Nec enim de
             eius actibus dubitare possumus, cuiDeo auxiliante totum nostrae ecclesiae noscimur
             patrimonium commisisse.</p>
-          <p>II. P ars. Gratian. Legatum uero apostolicae sedis quicumque inpedierit, usque ad
+          <p xml:id="gd-p1d94-d1e126">II. P ars. Gratian. Legatum uero apostolicae sedis quicumque inpedierit, usque ad
             satisfactionem excommunicetur.</p>
-          <p>Unde Alexander [Papa I. epist. II. omnibus Episcopis]:</p>
+          <p xml:id="gd-p1d94-d1e129">Unde Alexander [Papa I. epist. II. omnibus Episcopis]:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Excommunicetur, qui legatum sedis apostolicae inpedire
+        <div xml:id="gd-p1d94-Dd1e134">
+          <head xml:id="gd-p1d94-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d94-Hd1e139" type="question-title">. Excommunicetur, qui legatum sedis apostolicae inpedire
             temptauerit.</head>
-          <p>Si quis autem legationem* inpedit, non unius, sed multorum profectum auertit, et sicut
+          <p xml:id="gd-p1d94-d1e142">Si quis autem legationem* inpedit, non unius, sed multorum profectum auertit, et sicut
             multis nocet, ita a multis arguendus est, et bonorum societate priuandus. Et quiaDei
             causam inpedit, et statum conturbat ecclesiae, ideoab eius liminibus arceatur. Ab
             omnibus itaque talis estcauendus, et non in communione fidelium usque adsatisfactionem
             recipiendus.</p>
-          <p>III. Pars. Gratian. Archidiaconi quo que^, quamuis ex offitio suo clericorum uitam
+          <p xml:id="gd-p1d94-d1e145">III. Pars. Gratian. Archidiaconi quo que^, quamuis ex offitio suo clericorum uitam
             diligenti examinatione debeant,° inquirere, et que corrigenda inueniunt episcopo
             nunciare, tamendominacionem super eos exercere, et censum ab eis exigere prohibentur
             ^.</p>
-          <p>Unde in Cabillonensi Concilio, [c. 15.] legitur:</p>
+          <p xml:id="gd-p1d94-d1e148">Unde in Cabillonensi Concilio, [c. 15.] legitur:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Archidiaconi super presbiteros dominacionem* non
+        <div xml:id="gd-p1d94-Dd1e152">
+          <head xml:id="gd-p1d94-Hd1e154">C. III</head>
+          <head xml:id="gd-p1d94-Hd1e157" type="question-title">. Archidiaconi super presbiteros dominacionem* non
             exerceant.</head>
-          <p>Dictum est, quod in plerisque locis archidiaconi super presbiteros parrochianos quandam
+          <p xml:id="gd-p1d94-d1e160">Dictum est, quod in plerisque locis archidiaconi super presbiteros parrochianos quandam
             exercent dominacionem,et ab eis censum exigunt, quod magis ad tirannidem, quamad
             rectitudinis pertinet formam. §. 1. Si enim iuxtaApostoli sententiam episcopi non debent
             esse dominantes in clero, sed forma facti gregis ex animo, multo minusisti facere hoc

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,42 +53,42 @@
     </front>
     <body>
       <div xml:id="gd-p1d26">
-        <head>DISTINCTIO XXVI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Sequitur in utraque epistola: „unius uxoris uirum “ post baptisma uidelicet, non
+        <head xml:id="gd-p1d26-Hd1e103">DISTINCTIO XXVI.</head>
+        <p xml:id="gd-p1d26-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d26-d1e109">I. Pars. Sequitur in utraque epistola: „unius uxoris uirum “ post baptisma uidelicet, non
           ante baptismum.</p>
-        <p>Unde Ieronimus* scribit ad Oceanum, [epist. 83.]:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Post baptismum debet esse monogamus, qui episcopus est
+        <p xml:id="gd-p1d26-d1e112">Unde Ieronimus* scribit ad Oceanum, [epist. 83.]:</p>
+        <div xml:id="gd-p1d26-Dd1e115">
+          <head xml:id="gd-p1d26-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d26-Hd1e120" type="question-title">Post baptismum debet esse monogamus, qui episcopus est
             ordinandus.</head>
-          <p>Unius uxoris uirum, id est monogamum, post baptismum. Si enim et ante coniugem
+          <p xml:id="gd-p1d26-d1e123">Unius uxoris uirum, id est monogamum, post baptismum. Si enim et ante coniugem
             habuerit, que obierit, non ei imputatur, cui prorsus nouo nec stupra, nec alia, que ante
             fuerunt, iam obsunt.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Qui ante baptismum habuerit unam, et post baptismum alteram ,
+        <div xml:id="gd-p1d26-Dd1e128">
+          <head xml:id="gd-p1d26-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d26-Hd1e133" type="question-title">Qui ante baptismum habuerit unam, et post baptismum alteram ,
             ordinandus non est. .</head>
-          <p>Augustinus uero econtra testatur, scribens in epistolam ad Titum.</p>
-          <p>Acutius intelligunt, qui nec eum, qui catecuminus uel paganus habuerit alteram,
+          <p xml:id="gd-p1d26-d1e136">Augustinus uero econtra testatur, scribens in epistolam ad Titum.</p>
+          <p xml:id="gd-p1d26-d1e139">Acutius intelligunt, qui nec eum, qui catecuminus uel paganus habuerit alteram,
             ordinandum censue-runt, quia de sacramento agitur, non de peccato*. Propter sacramenti
             sanctitatem sicut femina, si catecu-mina uitiata est, non potest post baptisma inter Dei
             uirgines consecrari, ita non absurde uisum est bigamum non peccasse, sed normam
             sacramenti amisisse non ad uitae meritum, sed ad ordinationis signaculum 's. Unius
             uxoris uir, episcopus significat ex omnibus gentibus unitatem uni uiro Christo
             subditam.</p>
-          <p>II. Pars. §. 1. Sicut duobus dominis seruire, sic ab uno Deo apostatare, atque in
+          <p xml:id="gd-p1d26-d1e142">II. Pars. §. 1. Sicut duobus dominis seruire, sic ab uno Deo apostatare, atque in
             alterius superstitionem ire non licet.</p>
 
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Bigamus* probatur, qui ante baptismum habuerit unam, et post
+        <div xml:id="gd-p1d26-Dd1e146">
+          <head xml:id="gd-p1d26-Hd1e148">C. III.</head>
+          <head xml:id="gd-p1d26-Hd1e151" type="question-title">Bigamus* probatur, qui ante baptismum habuerit unam, et post
             baptismum alteram.</head>
-          <p>Item Innocentius [I.] Rufo et Eusebio, et ceteris Episcopis Macedonibus, [epistol.
+          <p xml:id="gd-p1d26-d1e154">Item Innocentius [I.] Rufo et Eusebio, et ceteris Episcopis Macedonibus, [epistol.
             XXII. c. 2.]</p>
-          <p>Deinde ponitur, non dici oportere bigamum eum, qui catecuminus habuerit uxorem atque
+          <p xml:id="gd-p1d26-d1e157">Deinde ponitur, non dici oportere bigamum eum, qui catecuminus habuerit uxorem atque
             amiserit, si post baptismum fuerit aliam sortitus, eamque primam uideri, que nouo homini
             copulata sit, quia illud coniugium perbaptismi sacramentum cum ceteris criminibus sit
             ablatum . Quod cum de una utique dicitur, certe, si tres habuerit in uetere positus
@@ -116,7 +114,7 @@
 
 
 
-          <p>interrogatum, et Iudeis esse responsum. §. 2. Quero, et sollicitus quero, si una
+          <p xml:id="gd-p1d26-d1e160">interrogatum, et Iudeis esse responsum. §. 2. Quero, et sollicitus quero, si una
             eademque sit uxor eius, qui ante catecuminus, postea fit fidelis, filiosque ex ea, cum
             esset catecuminus suscepit", ac postea, cum fidelis, alios: utrum sint appellandi
             fratres, an non* habeant postea defuncto patre herciscundae hereditatis consortium,
@@ -136,12 +134,12 @@
             eritque, integrum estimare aboleri non posse nomen prioris uxoris, cum non sit dimissum
             pro peccato, quod ex Dei uoluntate sit completum.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">In baptismate culpa dimittitur, non lex coniugii
+        <div xml:id="gd-p1d26-Dd1e164">
+          <head xml:id="gd-p1d26-Hd1e166">C. IV.</head>
+          <head xml:id="gd-p1d26-Hd1e169" type="question-title">In baptismate culpa dimittitur, non lex coniugii
             aboletur.</head>
-          <p>Item Ambrosius in libro de offitiis [lib. I. c. ult. 80.]</p>
-          <p>Una tantum, nec repetita nobis copula permittitur, et in ipso coniugio lex est, non
+          <p xml:id="gd-p1d26-d1e172">Item Ambrosius in libro de offitiis [lib. I. c. ult. 80.]</p>
+          <p xml:id="gd-p1d26-d1e175">Una tantum, nec repetita nobis copula permittitur, et in ipso coniugio lex est, non
             iterare coniugium, nec secundae coniugis coniunctionem. Quod plerisque mirum uidetur,
             cur etiam ante baptisma iterata* con-iugia electioni muneris et prerogatiuae
             ordinationis impedimenta generent, cum etiam delicta obesse non soleant si lauacri
@@ -150,18 +148,18 @@
             baptismo relaxatur: quod legis, in coniugio non soluitur. Quomodo autem potest hortator
             esse uiduitatis, qui ipse coniugia frequentauerit?</p>
 
-          <p>Gratian. lohannes etiam Baptista, dum Herodem ab incestu prohiberet dicens: „ Non licet
+          <p xml:id="gd-p1d26-d1e178">Gratian. lohannes etiam Baptista, dum Herodem ab incestu prohiberet dicens: „ Non licet
             tibi habere uxorem fratris tui, euidenter ostendit, inter infideles coniugia esse. Unde
             datur intelligi, quod bigami dicuntur non solum qui post baptismum coniugia frequentant,
             sed etiam qui ante baptismum unam, et post baptismum alteram habuisse probantur. §. 1.
             Bigamus uero in sacerdotem ordinari non debet, non quia deliquerit secundam accipiendo
             uxorem, sed quiaprerogatiua exutus est sacerdotis.</p>
-          <p>Unde Ambrosius in epistola ad Vercellenses, [lib. X. epist. 82. ait:}</p>
+          <p xml:id="gd-p1d26-d1e182">Unde Ambrosius in epistola ad Vercellenses, [lib. X. epist. 82. ait:}</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Non peccat bigamus, sed prerogatiua sacerdotis exuitur.</head>
-          <p>Qui sine crimine unius uxoris est uir, tenetur ad legem sacerdotii suscipiendi. Qui
+        <div xml:id="gd-p1d26-Dd1e186">
+          <head xml:id="gd-p1d26-Hd1e188">C. V.</head>
+          <head xml:id="gd-p1d26-Hd1e191" type="question-title">Non peccat bigamus, sed prerogatiua sacerdotis exuitur.</head>
+          <p xml:id="gd-p1d26-d1e194">Qui sine crimine unius uxoris est uir, tenetur ad legem sacerdotii suscipiendi. Qui
             autem iterauerit coniugium, culpam quidem non habet coinquinati, sed prerogatiua exuitur
             sacerdotis.</p>
         </div>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,43 +53,43 @@
     </front>
     <body>
       <div xml:id="gd-p1d78">
-        <head>DISTINCTIO LXXVHI. GRATIANUS.</head>
-        <p>Qua uero etate sacerdotes ordinari debeant, Bonifatius* Papa diffinit, dicens:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Ante XXX. annos presbiter non ordinetur.</head>
-          <p>Si quis triginta etatis suae non inpleuerit annos, nullo modo ordinetur presbiter,
+        <head xml:id="gd-p1d78-Hd1e103">DISTINCTIO LXXVHI. GRATIANUS.</head>
+        <p xml:id="gd-p1d78-d1e106">Qua uero etate sacerdotes ordinari debeant, Bonifatius* Papa diffinit, dicens:</p>
+        <div xml:id="gd-p1d78-Dd1e109">
+          <head xml:id="gd-p1d78-Hd1e111">C. I</head>
+          <head xml:id="gd-p1d78-Hd1e114" type="question-title">. Ante XXX. annos presbiter non ordinetur.</head>
+          <p xml:id="gd-p1d78-d1e117">Si quis triginta etatis suae non inpleuerit annos, nullo modo ordinetur presbiter,
             etiamsi ualde sit dignus.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d78-d1e120">[PALE A.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item in Nouellis in Authentica de sanctiss. episcopis §.</p>
-          <p>Clericos, apud Iulian. Antec. constit. CXV. c. 19.</p>
-          <p>Nemo presbiter consecretur* qui minor triginta annis sit; nemo diaconus uel subdiaconus
+        <div xml:id="gd-p1d78-Dd1e124">
+          <head xml:id="gd-p1d78-Hd1e126">C. II</head>
+          <head xml:id="gd-p1d78-Hd1e129" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d78-d1e132">Item in Nouellis in Authentica de sanctiss. episcopis §.</p>
+          <p xml:id="gd-p1d78-d1e135">Clericos, apud Iulian. Antec. constit. CXV. c. 19.</p>
+          <p xml:id="gd-p1d78-d1e138">Nemo presbiter consecretur* qui minor triginta annis sit; nemo diaconus uel subdiaconus
             fiat, qui minor uiginti-quinque annis sit; nemo lectoribus connumeretur, qui minordecem
             et octo annis fuerit; nemo inter diaconissas consecretur sacrosanctae ecclesiae, que
             minor sit quadragintaannis, uel ad secundum matrimonium peruenerit.]</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Non est ordinandus sacerdos, nisi longo
+        <div xml:id="gd-p1d78-Dd1e142">
+          <head xml:id="gd-p1d78-Hd1e144">C. III</head>
+          <head xml:id="gd-p1d78-Hd1e147" type="question-title">. Non est ordinandus sacerdos, nisi longo
             probatusexamine.</head>
-          <p>Item Leo Papa [ad Episcopos Africanos, epist. LXXXV. cap. i.]</p>
-          <p>Quid est: manus cito inponere , nisi ante etatem maturitatis, ante tempus examinis,
+          <p xml:id="gd-p1d78-d1e150">Item Leo Papa [ad Episcopos Africanos, epist. LXXXV. cap. i.]</p>
+          <p xml:id="gd-p1d78-d1e153">Quid est: manus cito inponere , nisi ante etatem maturitatis, ante tempus examinis,
             ante meritum obedien-tiae, ante experientiam disciplinae sacerdotalem honorem tribuere
             non probatis? Et quid est: communicare peccatis alienis, nisi talem effici ordinantem,
             qualis illeest, qui non meruit ordinari?</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Ante XXX. annos presbiter non ordinetur.</head>
-          <p>Item ex Concilio Neocesariensi, [c. 11.]</p>
-          <p>Presbiter ante triginta annorum etatem non ordinetur, quamuis sit probabilis uitae; sed
+        <div xml:id="gd-p1d78-Dd1e158">
+          <head xml:id="gd-p1d78-Hd1e160">C. IV</head>
+          <head xml:id="gd-p1d78-Hd1e163" type="question-title">. Ante XXX. annos presbiter non ordinetur.</head>
+          <p xml:id="gd-p1d78-d1e166">Item ex Concilio Neocesariensi, [c. 11.]</p>
+          <p xml:id="gd-p1d78-d1e169">Presbiter ante triginta annorum etatem non ordinetur, quamuis sit probabilis uitae; sed
             obseruetur usque adprefinitum tempus. Dominus enim tricesimo annobaptizatus est, et tunc
             predicauit.</p>
-          <p>Gratian. Hoc regulariter , unde et Christus, et Iohannes Baptista, et Ezechiel, et
+          <p xml:id="gd-p1d78-d1e172">Gratian. Hoc regulariter , unde et Christus, et Iohannes Baptista, et Ezechiel, et
             nonnulli prophetarum non legunturjmedicasse uel prophetasse. Verum, quia et Ieremias
             etDaniel ante iuuenilem etatem spiritum prophetiae accepisseleguntur, Dauid quoque s et
             Salomon in adolescentia uncti in-ueniuntur, Iohannes etiam Euangelista, cum adhuc esset
@@ -99,14 +97,14 @@
             Paulus quoque apostolus in adolescentiaa Domino electus, et ad predicandum missus
             asseritur: ecclesiasimiliter necessitate exigente nonnullos ante trigesimum
             annumordinare consueuit.</p>
-          <p>Unde Zacharias Papa Bonifatio Episcopo, [epist. VI. cuius initium: „Benedictus
+          <p xml:id="gd-p1d78-d1e176">Unde Zacharias Papa Bonifatio Episcopo, [epist. VI. cuius initium: „Benedictus
             Deus]:</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Necessitate cogente XXV. annorum sacerdotes
+        <div xml:id="gd-p1d78-Dd1e180">
+          <head xml:id="gd-p1d78-Hd1e182">C. V</head>
+          <head xml:id="gd-p1d78-Hd1e185" type="question-title">. Necessitate cogente XXV. annorum sacerdotes
             ordinentur.</head>
-          <p> Si triginta annorum non reperiuntur, et necessitas exposcit, a uiginti quinque annis
+          <p xml:id="gd-p1d78-d1e188"> Si triginta annorum non reperiuntur, et necessitas exposcit, a uiginti quinque annis
             sacerdotes ordinentur.</p>
         </div>
       </div>

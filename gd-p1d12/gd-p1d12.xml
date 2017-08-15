@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d12">
-        <head>DISTINCTIO XII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Quod absque discretione iustitiae nulli agere licet. Unde Calix tu s Papa [I.J
+        <head xml:id="gd-p1d12-Hd1e103">DISTINCTIO XII.</head>
+        <p xml:id="gd-p1d12-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d12-d1e109">I. Pars. Quod absque discretione iustitiae nulli agere licet. Unde Calix tu s Papa [I.J
           omnibus Episcopis [ait in Epistola I.ad Benedictum Episcopum]:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Sine discretione iustitiae contra disciplinam Romanae
+        <div xml:id="gd-p1d12-Dd1e112">
+          <head xml:id="gd-p1d12-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d12-Hd1e117" type="question-title">Sine discretione iustitiae contra disciplinam Romanae
             ecclesiae nulli agere licet.</head>
-          <p>Non decet a capite membra dissidere , sed iuxta scripturae testimonium omnia membra
+          <p xml:id="gd-p1d12-d1e120">Non decet a capite membra dissidere , sed iuxta scripturae testimonium omnia membra
             caput sequantur. Nulli uero dubium est, quod apostolica ecclesia mater sitomnium
             ecclesiarum, a cuius uos regulis nullatenus conuenit deuiare. Et sicut filius uenit
             facere uoluntatem patris, sic et uos uoluntatem implete uestrae matris, que est
@@ -71,11 +69,11 @@
             discretione iustitiae contra huius disciplinam actum fuerit, ratum habere nulla ratio
             permittit.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Apostolicis preceptis nullus superbe resistat.</head>
-          <p>Item Gregorius* [Papa IV.]</p>
-          <p>Preceptis apostolicis non dura superbia resistatur, sed per obedientiam, que a sancta
+        <div xml:id="gd-p1d12-Dd1e124">
+          <head xml:id="gd-p1d12-Hd1e126">C. II.</head>
+          <head xml:id="gd-p1d12-Hd1e129" type="question-title">Apostolicis preceptis nullus superbe resistat.</head>
+          <p xml:id="gd-p1d12-d1e132">Item Gregorius* [Papa IV.]</p>
+          <p xml:id="gd-p1d12-d1e135">Preceptis apostolicis non dura superbia resistatur, sed per obedientiam, que a sancta
             Romana et apostolica auctoritate iussa sunt, salutifere impleantur, si eiusdem sanctae
             ecclesiae Dei, que est caput uestrum, communionem habere desideratis. §. i. Non nouum
             aliquid presenti iussione precipimus, sed illa, que olim uidentur indulta, firmamus: cum
@@ -87,55 +85,55 @@
             apostolicae sedis precepta non obseruauerit, percepti honoris esse hostis non
             dubitetur.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Non est resistendum consuetudini, cui canonica non obsistit
+        <div xml:id="gd-p1d12-Dd1e140">
+          <head xml:id="gd-p1d12-Hd1e142">C. III.</head>
+          <head xml:id="gd-p1d12-Hd1e145" type="question-title">Non est resistendum consuetudini, cui canonica non obsistit
             auctoritas.</head>
-          <p>Item Nicolaus Michaeli Imperatori [Leo IX.* Michaeli Episcopo Constantinopolitano,
+          <p xml:id="gd-p1d12-d1e148">Item Nicolaus Michaeli Imperatori [Leo IX.* Michaeli Episcopo Constantinopolitano,
             epist. I. c. 29. et Nicolaus I. epist. II. ad Photium.]</p>
-          <p>Scit sancta Romana ecclesia, quod nichil obsunt saluti</p>
+          <p xml:id="gd-p1d12-d1e151">Scit sancta Romana ecclesia, quod nichil obsunt saluti</p>
 
-          <p>credentium diuersae pro loco et tempore consuetudines, si illis canonica non obsistit
+          <p xml:id="gd-p1d12-d1e154">credentium diuersae pro loco et tempore consuetudines, si illis canonica non obsistit
             auctoritas, pro qua eis obuiare debeamus; unde nil iudicamus eis debere uel posse
             resisti.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Consuetudines, que fidei non ofifitiunt, ut a maioribus
+        <div xml:id="gd-p1d12-Dd1e158">
+          <head xml:id="gd-p1d12-Hd1e160">C. IV.</head>
+          <head xml:id="gd-p1d12-Hd1e163" type="question-title">Consuetudines, que fidei non ofifitiunt, ut a maioribus
             traditae sunt, obseruentur.</head>
-          <p>Item Ieronimus ad Lucinum, [epist. XXVIII.]Illud breuiter te admonendum puto,
+          <p xml:id="gd-p1d12-d1e166">Item Ieronimus ad Lucinum, [epist. XXVIII.]Illud breuiter te admonendum puto,
             traditiones ecclesiasticas, presertim que fidei non offitiant, ita obseruan-das, ut a
             maioribus traditae sunt, nec aliorum consuetudinem aliorum contrario more subuerti.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Traditiones a patribus institutae, non sunt
+        <div xml:id="gd-p1d12-Dd1e170">
+          <head xml:id="gd-p1d12-Hd1e172">C. V.</head>
+          <head xml:id="gd-p1d12-Hd1e175" type="question-title">Traditiones a patribus institutae, non sunt
             infringendae.</head>
-          <p>Item Nicolaus Incmaro* Episcopo. Ridiculum est, et satis abominabile dedecus, ut
+          <p xml:id="gd-p1d12-d1e178">Item Nicolaus Incmaro* Episcopo. Ridiculum est, et satis abominabile dedecus, ut
             traditiones», quas antiquitus a patribus suscepimus, infringipatiamur.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Mores diuturni pro lege sunt habendi.</head>
-          <p>Item Iustinianus Constit. lib. I. tit. I. [Institutionum lib. I. tit. 2. de iure nat.
+        <div xml:id="gd-p1d12-Dd1e182">
+          <head xml:id="gd-p1d12-Hd1e184">C. VI.</head>
+          <head xml:id="gd-p1d12-Hd1e187" type="question-title">Mores diuturni pro lege sunt habendi.</head>
+          <p xml:id="gd-p1d12-d1e190">Item Iustinianus Constit. lib. I. tit. I. [Institutionum lib. I. tit. 2. de iure nat.
             §. 9.]Diuturni mores nisi legi sunt aduersi consensu utentium approbati legem
             imitantur.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Quicquid fit contra longam consuetudinem, reuocari
+        <div xml:id="gd-p1d12-Dd1e194">
+          <head xml:id="gd-p1d12-Hd1e196">C. VII.</head>
+          <head xml:id="gd-p1d12-Hd1e199" type="question-title">Quicquid fit contra longam consuetudinem, reuocari
             oportet.</head>
-          <p>Item Cod. lib. VIII. cap. 52. tit. 2. [tit. 53. quae sit longa consuetudo, 1.
+          <p xml:id="gd-p1d12-d1e202">Item Cod. lib. VIII. cap. 52. tit. 2. [tit. 53. quae sit longa consuetudo, 1.
             i.]Consuetudo precedens et ratio, que consuetudinem suasit, tenenda est. Et quicquid*
             contra longam consuetudinem fiet, ad sollicitudinem suam reuocabit preses
             prouinciae.</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Immota maneat^ consuetudo, que contra</head>
-          <p>fidem catholicam nichil usurpare dignoscitur.</p>
-          <p>Item Gregorius uniuersis Episcopis Numidiis, [lib. I. epist. LXXV.]</p>
-          <p>Nos consuetudinem, que contra fidem catholicam nichil usurpare dignoscitur, immotam
+        <div xml:id="gd-p1d12-Dd1e206">
+          <head xml:id="gd-p1d12-Hd1e208">C. VIII.</head>
+          <head xml:id="gd-p1d12-Hd1e211" type="question-title">Immota maneat^ consuetudo, que contra</head>
+          <p xml:id="gd-p1d12-d1e214">fidem catholicam nichil usurpare dignoscitur.</p>
+          <p xml:id="gd-p1d12-d1e217">Item Gregorius uniuersis Episcopis Numidiis, [lib. I. epist. LXXV.]</p>
+          <p xml:id="gd-p1d12-d1e220">Nos consuetudinem, que contra fidem catholicam nichil usurpare dignoscitur, immotam
             permanere concedimus, siue de primatibus constituendis, siue de ceteris capitulis,
             exceptis iis, qui exDonatistis ad episcopatum per-ueniunt, quos prouehi ad primatus
             dignitatem (etiam cum</p>
@@ -144,23 +142,23 @@
 
 
 
-          <p>ordo* eos deferat ad locum eundem) modis omnibus prohibemus. Suffitiat autem illis
+          <p xml:id="gd-p1d12-d1e224">ordo* eos deferat ad locum eundem) modis omnibus prohibemus. Suffitiat autem illis
             commissae sibi plebis curamgerere, non autem illos antistites, quos catholica fides in
             ecclesiae sinu et edocuit et genuit, ad obtinendum culmen primatus anteire.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Non negentur que consuetudinis sunt.</head>
-          <p>Item Gregorius [ad Maximum Salonitanum Episcopum lib. VII. Regest. epist. 8i.]</p>
-          <p>Quemadmodum illicita perpetrare non patimur, sic que consuetudinis sunt non
+        <div xml:id="gd-p1d12-Dd1e229">
+          <head xml:id="gd-p1d12-Hd1e231">C. IX.</head>
+          <head xml:id="gd-p1d12-Hd1e234" type="question-title">Non negentur que consuetudinis sunt.</head>
+          <p xml:id="gd-p1d12-d1e237">Item Gregorius [ad Maximum Salonitanum Episcopum lib. VII. Regest. epist. 8i.]</p>
+          <p xml:id="gd-p1d12-d1e240">Quemadmodum illicita perpetrare non patimur, sic que consuetudinis sunt non
             negamus.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Non locus consuetudinem, sed consuetudo locum
+        <div xml:id="gd-p1d12-Dd1e244">
+          <head xml:id="gd-p1d12-Hd1e246">C. X.</head>
+          <head xml:id="gd-p1d12-Hd1e249" type="question-title">Non locus consuetudinem, sed consuetudo locum
             commendat.</head>
-          <p>Item ad Augustino Anglorum Episcopo, [resp. ad interrog. 3.] ,</p>
-          <p>Nouit fraternitas tua Romanae ecclesiae consuetudinem, in qua se meminit nutritam. Sed
+          <p xml:id="gd-p1d12-d1e252">Item ad Augustino Anglorum Episcopo, [resp. ad interrog. 3.] ,</p>
+          <p xml:id="gd-p1d12-d1e255">Nouit fraternitas tua Romanae ecclesiae consuetudinem, in qua se meminit nutritam. Sed
             mihi placet, ut siue in Romana, siue in Gallicorum, siue in qualibet ecclesia inuenisti,
             quod plus omnipotenti Deo possit placere, sollicite eligas, et in Anglorum ecclesia, que
             adhuc in fide noua est, institutione precipua, que de multis ecclesiis colligere
@@ -168,12 +166,12 @@
             ergo quibusque ecclesiis que pia, que religiosa, que recta sunt, elige, et hec quasi in
             fasciculum collecta apud Anglorum mentes in consuetudinem depone.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Quod neque contra fidem, neque contra bonos mores esse
+        <div xml:id="gd-p1d12-Dd1e259">
+          <head xml:id="gd-p1d12-Hd1e261">C. XI.</head>
+          <head xml:id="gd-p1d12-Hd1e264" type="question-title">Quod neque contra fidem, neque contra bonos mores esse
             conuincitur, indifferenter est habendum.</head>
-          <p>Item Augustinus ad Ianuarium, [epist. CXVIII. cap. 1. et 2.]</p>
-          <p>Illa autem, que non scripta, sed tradita custodimus, que quidem toto terrarum orbe
+          <p xml:id="gd-p1d12-d1e267">Item Augustinus ad Ianuarium, [epist. CXVIII. cap. 1. et 2.]</p>
+          <p xml:id="gd-p1d12-d1e270">Illa autem, que non scripta, sed tradita custodimus, que quidem toto terrarum orbe
             obseruantur, datur intelligi uel ab ipsis apostolis, uel plenariis conciliis, (quorum
             est in ecclesia saluberrima auctoritas), commendata atque statuta retineri: sicuti id
             quod Domini passio et resurrectio et ascensio in celum, aduentus Spiritus sancti
@@ -190,17 +188,17 @@
             Sic et tu, ad quam forte ecclesiam ueneris, eius morem serua, si cuiquam non uis esse
             scandalum, nec quemquam tibi. Hoc cum matri renuntiassem, libenter amplexa est.</p>
 
-          <p>II. Pars. Gratianus. Hoc autem de consuetudine illa intelligendum est, que uel
+          <p xml:id="gd-p1d12-d1e273">II. Pars. Gratianus. Hoc autem de consuetudine illa intelligendum est, que uel
             uniuersalis ecclesiae usu, uel temporis prolixitate roboratur. Ceterum, si pro uarietate
             temporum uel animorum uariae consuetudines introducantur, inuenta opportunitate,
             resecandae sunt potius, quam obseruandae.</p>
-          <p>Unde Augustinus scribit ad inquisitiones I anu a r ii [epist. CXIX. c. 19.]</p>
+          <p xml:id="gd-p1d12-d1e277">Unde Augustinus scribit ad inquisitiones I anu a r ii [epist. CXIX. c. 19.]</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">Resecanda sunt, que neque auctoritate, neque moribus
+        <div xml:id="gd-p1d12-Dd1e281">
+          <head xml:id="gd-p1d12-Hd1e283">C. XII.</head>
+          <head xml:id="gd-p1d12-Hd1e286" type="question-title">Resecanda sunt, que neque auctoritate, neque moribus
             uniuersitatis comprobantur.</head>
-          <p>Omnia talia, que neque sanctarum scripturarum auctoritatibus continentur, nec in
+          <p xml:id="gd-p1d12-d1e289">Omnia talia, que neque sanctarum scripturarum auctoritatibus continentur, nec in
             conciliis episcoporum statuta inueniuntur, nec consuetudine uniuersae ecclesiae roborata
             sunt, sed diuersorum locorum diuersis moribus innumerabiliter uariantur, ita ut uix, aut
             numquam omnino inueniri possint causae, quas in eis constituendis homines secuti sunt,
@@ -211,20 +209,20 @@
             libertatis non cognouerint, legalibus tamen sacramentis, non humanis presumtionibus
             subi-ciuntur.</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Omnes prouincialesM* eundem in psallendo modum teneant, quem
+        <div xml:id="gd-p1d12-Dd1e293">
+          <head xml:id="gd-p1d12-Hd1e295">C. XIII.</head>
+          <head xml:id="gd-p1d12-Hd1e298" type="question-title">Omnes prouincialesM* eundem in psallendo modum teneant, quem
             metropolitanam sedem habere cognouerint.</head>
-          <p>Item ex Concilio Tollet ano [XI. c. 3.]</p>
-          <p>III. Pars. De his, qui contra Apostoli uoluntatem circumferuntur omni uento doctrinae,
+          <p xml:id="gd-p1d12-d1e301">Item ex Concilio Tollet ano [XI. c. 3.]</p>
+          <p xml:id="gd-p1d12-d1e304">III. Pars. De his, qui contra Apostoli uoluntatem circumferuntur omni uento doctrinae,
             placuit sancto concilio, ut metropolitanae sedis auctoritate coacti uniuscuiusque
             prouinciae* ciues, rectoresque ecclesiarum unum eundem-que in psallendo teneant modum,
             quem metropolitana insede cognouerint institutum, nec aliqua diuersitate cuiusque
             ordinis uel offitii a metropolitana se patiantur sede disiungi. Sic enim iustum est, ut
             inde unusquisque sumat regulas magisterii, unde honoris consecrationem accipit, ut iuxta
             maiorum decreta sedes, que uniuscuiusque sacerdotalis</p>
-          <div>
-            <p>/</p>
+          <div xml:id="gd-p1d12-Dd1e307">
+            <p xml:id="gd-p1d12-d1e309">/</p>
           </div>
           <br/>
 
@@ -232,7 +230,7 @@
 
 
 
-          <p>dignitatis est mater, sit ecclesiasticae magistra rationis. Abbatibus sane induitis
+          <p xml:id="gd-p1d12-d1e316">dignitatis est mater, sit ecclesiasticae magistra rationis. Abbatibus sane induitis
             offitiis, que iuxta uoluntatem sui episcopi regulariter illis implenda sunt, cetera
             offitia publica, id est uesperam, matutinum, siue missam, aliter quam in principali
             ecclesia celebrare non liceat. §. i. Quisquis autem horum decretorum uiolator
@@ -243,12 +241,12 @@
             sacerdotes adstringat, sed etiam ceteri episcopi subiectos sibi ecclesiarum rectores
             obtemperare institutionibus cogant.</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">Ordo seruetur in matutinis et uespei'tinis offitiis unus et
+        <div xml:id="gd-p1d12-Dd1e320">
+          <head xml:id="gd-p1d12-Hd1e322">C. XIV.</head>
+          <head xml:id="gd-p1d12-Hd1e325" type="question-title">Ordo seruetur in matutinis et uespei'tinis offitiis unus et
             idem.</head>
-          <p>Item ex Concilio Bracarensi [I. cap. 1.]</p>
-          <p>Placuit omnibus communi consensu, ut unus atque idem psallendi ordo in matutinis uel
+          <p xml:id="gd-p1d12-d1e328">Item ex Concilio Bracarensi [I. cap. 1.]</p>
+          <p xml:id="gd-p1d12-d1e331">Placuit omnibus communi consensu, ut unus atque idem psallendi ordo in matutinis uel
             uespertinis offitiis teneatur, et non diuerse ac priuate, neque* monasteriorum
             consuetudines cum ecclesiastica regula sint permixtae.</p>
         </div>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,35 +53,35 @@
     </front>
     <body>
       <div xml:id="gd-p1d24">
-        <head>DISTINCTIO XXIV</head>
-        <p>I. Pars. Qualiter episcopus sit examinandus, qualiter ipse simul cum reliquis infra ipsum
+        <head xml:id="gd-p1d24-Hd1e103">DISTINCTIO XXIV</head>
+        <p xml:id="gd-p1d24-d1e106">I. Pars. Qualiter episcopus sit examinandus, qualiter ipse simul cum reliquis infra ipsum
           constitutis sit ordinandus, breuiter monstratum est. Nunc autem uidendum est de
           sacerdotibus et reliquis, an sine examinatione sint promonendi. De bis ita scribit Paulus
           Apostolus ad Timotheum: „ Manus cito nemini imposueris, et nichil sine preiudicio facias
           in alteram partem declinando^</p>
-        <p>[PALE A.</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Ex decretis Siluestri Papae in Sinodo Rom. c. 9.</p>
-          <p>Nullus acolitorum uel subdiaconorum* rem consecratam a presbitero aliis porrigat, (quia
+        <p xml:id="gd-p1d24-d1e109">[PALE A.</p>
+        <div xml:id="gd-p1d24-Dd1e112">
+          <head xml:id="gd-p1d24-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d24-Hd1e117" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d24-d1e120">Ex decretis Siluestri Papae in Sinodo Rom. c. 9.</p>
+          <p xml:id="gd-p1d24-d1e123">Nullus acolitorum uel subdiaconorum* rem consecratam a presbitero aliis porrigat, (quia
             aliud est minister, aliud assistens), nisi tantum supportet, quod ei sacerdos imposuerit
             suo ore benedictum.]</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Ante probationem nullus ordinetur clericus.</head>
-          <p>Item ex Concilio Cartagin. IIIA, c. 22.</p>
-          <p>Nullus ordinetur clericus, nisi probatus uel episcoporum examine, uel populi
+        <div xml:id="gd-p1d24-Dd1e127">
+          <head xml:id="gd-p1d24-Hd1e129">C. II.</head>
+          <head xml:id="gd-p1d24-Hd1e132" type="question-title">Ante probationem nullus ordinetur clericus.</head>
+          <p xml:id="gd-p1d24-d1e135">Item ex Concilio Cartagin. IIIA, c. 22.</p>
+          <p xml:id="gd-p1d24-d1e138">Nullus ordinetur clericus, nisi probatus uel episcoporum examine, uel populi
             testimonio.</p>
 
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Ad ministerium alicuius ecclesiae clerici eiusdem
+        <div xml:id="gd-p1d24-Dd1e143">
+          <head xml:id="gd-p1d24-Hd1e145">C. III.</head>
+          <head xml:id="gd-p1d24-Hd1e148" type="question-title">Ad ministerium alicuius ecclesiae clerici eiusdem
             promoueantur.</head>
-          <p>Item Gelasius Papa Celestino episcopo.</p>
-          <p>Presbiteri, diacones et uniuersi clerici Stoniensiumciuitatis petitorio nobis
+          <p xml:id="gd-p1d24-d1e151">Item Gelasius Papa Celestino episcopo.</p>
+          <p xml:id="gd-p1d24-d1e154">Presbiteri, diacones et uniuersi clerici Stoniensiumciuitatis petitorio nobis
             suggessere porrecto, in ecclesia beati [martiris Eleuterii episcopi (que in supradicatae
             ciuitatis parrochia* probatur esse constructa) presbiterum, qui constitutus fuerat,
             defecisse, atque in eius locum Iulianum, diaconem ipsius ecclesiae pro celebritate
@@ -94,24 +92,24 @@
             patitur, subrogabis, ut locus processionis celeberrimus ad misterio-rum consecrationem
             nec sacerdote indigeat, hec ministro.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Metropolitanorum et episcoporum examine promoueantur ceteri
+        <div xml:id="gd-p1d24-Dd1e158">
+          <head xml:id="gd-p1d24-Hd1e160">C. IV.</head>
+          <head xml:id="gd-p1d24-Hd1e163" type="question-title">Metropolitanorum et episcoporum examine promoueantur ceteri
             episcopi.</head>
-          <p>Item ex Concilio Laudicensi [c. 12.]</p>
-          <p>Episcopi iudicio metropolitanorum et eorum episcoporum, qui circumcirca sunt,
+          <p xml:id="gd-p1d24-d1e166">Item ex Concilio Laudicensi [c. 12.]</p>
+          <p xml:id="gd-p1d24-d1e169">Episcopi iudicio metropolitanorum et eorum episcoporum, qui circumcirca sunt,
             prouehantur ad ecclesiasticam dignitatem, hi uidelicet, qui plurimo tempore probantur
             tam uerbo fidei quam rectae conuersationis exemplo.</p>
-          <p>II. Pars. Gratianus. Cum itaque sine examinatione nullus sit ordinandus, quemadmodum,
+          <p xml:id="gd-p1d24-d1e172">II. Pars. Gratianus. Cum itaque sine examinatione nullus sit ordinandus, quemadmodum,
             et quo tempore sacerdotum et ceterorum infra positorum examinatio fieri debeat,
             considerandum est.</p>
-          <p>De his in Concilio Nannetensi, [c. 11.] sic statutum legitur;</p>
+          <p xml:id="gd-p1d24-d1e176">De his in Concilio Nannetensi, [c. 11.] sic statutum legitur;</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Qui ordinandi sunt, feria quarta ad examinationem
+        <div xml:id="gd-p1d24-Dd1e180">
+          <head xml:id="gd-p1d24-Hd1e182">C. V.</head>
+          <head xml:id="gd-p1d24-Hd1e185" type="question-title">Qui ordinandi sunt, feria quarta ad examinationem
             conueniant.</head>
-          <p>Quando episcopus ordinationes facere disponit, omnes, qui ad sacrum ministerium
+          <p xml:id="gd-p1d24-d1e188">Quando episcopus ordinationes facere disponit, omnes, qui ad sacrum ministerium
             accedere uolunt, feria quarta ante ipsam ordinationem euocandi sunt ad ciuitatem, una
             cum presbiteris, qui eos representare debent; et tunc episcopus a latere suo eligere
             debet sacerdotes et alios prudentes uiros, gnaros diuinae legis et exercitatos in
@@ -123,32 +121,32 @@
 
 
 
-          <p>teneant et uerbis simplicibus asserere queant. §. i. Ipsi autem, quibus cura^
+          <p xml:id="gd-p1d24-d1e191">teneant et uerbis simplicibus asserere queant. §. i. Ipsi autem, quibus cura^
             committitur, cauere debent, ne aut fauoris gratia, aut cuiuscumque muneris cupiditate
             illecti a uero deuient, ut indignum et minus idoneum ad sacros gradus suscipiendos
             episcopi manibus applicent. Quod si fecerint, et ille, qui indigne accesserit, ab altari
             remouebi-tur, et illi, qui donum sancti Spiritus uendere conati sunt, coram Deo iam
             condempnati, ecclesiastica dignitate care-bunt. §. 2. Igitur per tres dies continuos
             diligenter examinentur, et sic sabbato qui probati sunt episcopo represententur.</p>
-          <p>Gratian. Alias autem, sme, clericorum consilio s uidelicet et populi testimonio, nullum
+          <p xml:id="gd-p1d24-d1e194">Gratian. Alias autem, sme, clericorum consilio s uidelicet et populi testimonio, nullum
             episcopus ordinare presumat.</p>
-          <p>Unde in Concilio Cartagin. IV. [c. 22.] legitur:</p>
+          <p xml:id="gd-p1d24-d1e198">Unde in Concilio Cartagin. IV. [c. 22.] legitur:</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Sine clericorum suorum consilio episcopus clericos non
+        <div xml:id="gd-p1d24-Dd1e202">
+          <head xml:id="gd-p1d24-Hd1e204">C. VI.</head>
+          <head xml:id="gd-p1d24-Hd1e207" type="question-title">Sine clericorum suorum consilio episcopus clericos non
             ordinet.</head>
-          <p>Episcopus sine consilio clericorum suorum clericos non ordinet, ita ut ciuium
+          <p xml:id="gd-p1d24-d1e210">Episcopus sine consilio clericorum suorum clericos non ordinet, ita ut ciuium
             conniuentiam et testimonium querat.</p>
-          <p>III. Pars. Gratian. Queritur, quid fieri debeat de bis, qui sine examinatione prouecti
+          <p xml:id="gd-p1d24-d1e213">III. Pars. Gratian. Queritur, quid fieri debeat de bis, qui sine examinatione prouecti
             sunt.</p>
-          <p>De liis ita legitur in Concilio Martini Papae:</p>
+          <p xml:id="gd-p1d24-d1e216">De liis ita legitur in Concilio Martini Papae:</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">De his, qui sine examinatione ordinantur, et postea , peccata
+        <div xml:id="gd-p1d24-Dd1e220">
+          <head xml:id="gd-p1d24-Hd1e222">C. VII.</head>
+          <head xml:id="gd-p1d24-Hd1e225" type="question-title">De his, qui sine examinatione ordinantur, et postea , peccata
             sua confitentur.</head>
-          <p>Si quis presbiter aut diaconus sine aliqua examinatione ordinati sunt, aut certe, cum
+          <p xml:id="gd-p1d24-d1e228">Si quis presbiter aut diaconus sine aliqua examinatione ordinati sunt, aut certe, cum
             discuterentur, criminosa peccata sua confessi sunt*, aut post ordinationem ab aliis
             detecti, abiciantur ex clero. §. 1. Similiter uero et de uniuerso clericorum ordine
             seruetur; nam hoc sibi, quod irreprehensibile est, sancta ecclesia catholica

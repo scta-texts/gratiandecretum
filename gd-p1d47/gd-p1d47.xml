@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,38 +53,38 @@
     </front>
     <body>
       <div xml:id="gd-p1d47">
-        <head>DISTINCTIO XLVII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Quod autem in fine huius capituli usurarii ordinari prohibentur, inde est, quia
+        <head xml:id="gd-p1d47-Hd1e103">DISTINCTIO XLVII.</head>
+        <p xml:id="gd-p1d47-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d47-d1e109">I. Pars. Quod autem in fine huius capituli usurarii ordinari prohibentur, inde est, quia
           usuram exercentes cupididati deseruire probantur; cupidi autem ab Apostolo ordinari
           prohibentur, quia tales facile a iusto deuiarent.</p>
-        <p>Unde in canonibus Apostolorum, [c. 44.] legitur:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Diaconus, presbiter eP episcopus exigens usuras, nisi
+        <p xml:id="gd-p1d47-d1e112">Unde in canonibus Apostolorum, [c. 44.] legitur:</p>
+        <div xml:id="gd-p1d47-Dd1e115">
+          <head xml:id="gd-p1d47-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d47-Hd1e120" type="question-title">. Diaconus, presbiter eP episcopus exigens usuras, nisi
             desierit, deponatur.</head>
-          <p>' Episcopus aut presbiter aut diaconus usuras a debitoribus exigens, aut desmat, aut
+          <p xml:id="gd-p1d47-d1e123">' Episcopus aut presbiter aut diaconus usuras a debitoribus exigens, aut desmat, aut
             certe deponatur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Usuras exigens siue clericus, siue regulae subiectus,
+        <div xml:id="gd-p1d47-Dd1e128">
+          <head xml:id="gd-p1d47-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d47-Hd1e133" type="question-title">. Usuras exigens siue clericus, siue regulae subiectus,
             deiciatur.</head>
-          <p>Item ex Concilio Ni ceno, [c.] 17.</p>
-          <p>Quoniam multi sub regula constituti auaritiam et turpia lucra sectantur, oblitique
+          <p xml:id="gd-p1d47-d1e136">Item ex Concilio Ni ceno, [c.] 17.</p>
+          <p xml:id="gd-p1d47-d1e139">Quoniam multi sub regula constituti auaritiam et turpia lucra sectantur, oblitique
             diuinae scripturae, dicentis:„Qui pecuniam suam non dedit ad usuram,“ mutuumdantes
             centesimas exigunt: iuste censuit sancta et magnasinodus, ut, si quis inuentus fuerit
             post hanc diffinitionem usuras accipiens, aut aliquam adinuentionem uelquolibet modo
             negotia transigens, aut emiolia, id estsescupla* exigens, uel aliquid tale prorsus
             excogitansturpis lucri gratia, deiciatur a clero et alienus existata regula.</p>
-          <p>Hinc etiam Gregorius in lib. XIX. Moralium, parte IV* c. 35. de dilectoribus seculi
+          <p xml:id="gd-p1d47-d1e142">Hinc etiam Gregorius in lib. XIX. Moralium, parte IV* c. 35. de dilectoribus seculi
             scribit, dicens:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Temporalibus lucris deseruientes Deo nequaquam militare
+        <div xml:id="gd-p1d47-Dd1e146">
+          <head xml:id="gd-p1d47-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d47-Hd1e151" type="question-title">. Temporalibus lucris deseruientes Deo nequaquam militare
             probantur.</head>
-          <p>Omnes huius seculi dilectores in terrenis rebus fortes sunt, in celestibus debiles. Nam
+          <p xml:id="gd-p1d47-d1e154">Omnes huius seculi dilectores in terrenis rebus fortes sunt, in celestibus debiles. Nam
             pro temporali gloria usquead mortem desudare appetunt, et pro spe perpetua necparum
             quidem in labore subsistunt; pro terrenis lucris quaslibet iniurias tollerant, et pro
             celesti mercede uel tenuissimiuerbi ferre contumelias recusant; terreno iudici toto
@@ -106,51 +104,51 @@
             bonorumoperum, quales fuistis dudum in actione uiciorum, nedebiliores uos habeat sancta
             libertas aeris*, quos in carneualidos habuit usus terrenae uoluptatis.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Ad sacros ordines usurarii promoueri non debent. Item
+        <div xml:id="gd-p1d47-Dd1e158">
+          <head xml:id="gd-p1d47-Hd1e160">C. IV</head>
+          <head xml:id="gd-p1d47-Hd1e163" type="question-title">. Ad sacros ordines usurarii promoueri non debent. Item
             Gregorius ciuibus Neapolim, [lib. VIII. epist. 40.]De Petro insuper ad nos peruenisse
             cognoscite, quiasolidos dederit ad usuras. Quod uos oportet cumomni subtilitate
             perquirere, et si ita constiterit, aliumeligite,et ab huiusmodi persona uos suspendite
             sine mora.Nam nos amatoribus usurarum nulla ratione manus inponi-mus. Si uero subtili
             habita inquisitione hoc falsum esseputaueritis, (quia persona eius nobis ignota est, et
             utrum</head>
-          <p>ita sit de simplicitate s, quod ad nos perlatum est, ignoramus), cum decreto a uobis
+          <p xml:id="gd-p1d47-d1e166">ita sit de simplicitate s, quod ad nos perlatum est, ignoramus), cum decreto a uobis
             facto ad nos eum uenire necesse est, ut uitam moresque ipsius sollicitius
             requirentessensum quoque pariter agnoscamus, ut, si huic iudicioaptus extiterit, uestra
             in eum (adiuuante Domino) desideria coripleamus.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Degradetur clericus, qui usuras accipere detegitur.</head>
-          <p>Item ex Concilio Elibertano, [c. 20.]</p>
-          <p>Si quis clericorum detectus fuerit usuras accipere, placuit degradari et abstinere.</p>
+        <div xml:id="gd-p1d47-Dd1e170">
+          <head xml:id="gd-p1d47-Hd1e172">C. V</head>
+          <head xml:id="gd-p1d47-Hd1e175" type="question-title">. Degradetur clericus, qui usuras accipere detegitur.</head>
+          <p xml:id="gd-p1d47-d1e178">Item ex Concilio Elibertano, [c. 20.]</p>
+          <p xml:id="gd-p1d47-d1e181">Si quis clericorum detectus fuerit usuras accipere, placuit degradari et abstinere.</p>
         </div>
-        <div>
-          <head>C* VI</head>
-          <head type="question-title">. Afee implicari errore, nec cupiditate sacerdotem uiolari
+        <div xml:id="gd-p1d47-Dd1e185">
+          <head xml:id="gd-p1d47-Hd1e187">C* VI</head>
+          <head xml:id="gd-p1d47-Hd1e190" type="question-title">. Afee implicari errore, nec cupiditate sacerdotem uiolari
             oportet.</head>
-          <p>Item Leo Episcopus [Anatolio Episcopo Constantinopol., epist. LI.] </p>
-          <p>II. Pars. Virum catholicum et precipue Domini sacerdotem sicut nullo errore inplicari,
+          <p xml:id="gd-p1d47-d1e193">Item Leo Episcopus [Anatolio Episcopo Constantinopol., epist. LI.] </p>
+          <p xml:id="gd-p1d47-d1e196">II. Pars. Virum catholicum et precipue Domini sacerdotem sicut nullo errore inplicari,
             ita nulla oportet cupiditate uiolari, dicente sancta scriptura; „Post concupiscentias
             tuas non eas.“ Mens etiam potentiae auidanec abstinere nouit uetitis, nec gaudere
             concessis, nec*pietati adhibere consensum.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Qui cupiditatem a se non abscidit^, bonorum auctori inherere
+        <div xml:id="gd-p1d47-Dd1e200">
+          <head xml:id="gd-p1d47-Hd1e202">C. VII</head>
+          <head xml:id="gd-p1d47-Hd1e205" type="question-title">. Qui cupiditatem a se non abscidit^, bonorum auctori inherere
             non ualet.</head>
-          <p>Item Gregorius, [1. VII. epist. 100.]</p>
-          <p>Bonorum auctori inherere aliter non ualemus, nisi cupiditatem a nobis (que omnium
+          <p xml:id="gd-p1d47-d1e208">Item Gregorius, [1. VII. epist. 100.]</p>
+          <p xml:id="gd-p1d47-d1e211">Bonorum auctori inherere aliter non ualemus, nisi cupiditatem a nobis (que omnium
             malorum radix est)abscidamus.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Auarus omnium bona inuadii, quorum necessitatibus subuenire
+        <div xml:id="gd-p1d47-Dd1e216">
+          <head xml:id="gd-p1d47-Hd1e218">C. VIII</head>
+          <head xml:id="gd-p1d47-Hd1e221" type="question-title">. Auarus omnium bona inuadii, quorum necessitatibus subuenire
             ualet.</head>
-          <p>Item Ambrosius [Serm. LXXXI.] de eo, quod scriptum est in euangelio: „ Hominis?
+          <p xml:id="gd-p1d47-d1e224">Item Ambrosius [Serm. LXXXI.] de eo, quod scriptum est in euangelio: „ Hominis?
             cuiusdam diuitis fructusuberes agere attulit.</p>
-          <p>Sicut hi, qui per insaniam mente translati sunt, non iam res ipsas, sed passionis suae
+          <p xml:id="gd-p1d47-d1e227">Sicut hi, qui per insaniam mente translati sunt, non iam res ipsas, sed passionis suae
             fantasias uident, ita etiammens auari semel uinculis cupiditatis astricta semper aurum,
             semper argentum uidet, semper redditus computat,gratius aurum intuetur quam solem; ipsa
             eius oratio etsupplicatio ad Dominum aurum querit. Et post pauca:§. 1. Interdum etiam
@@ -171,7 +169,7 @@
             est,uem tu detines; nudorum indumentum est, quod tu reclu-is; miserorum redemptio est et
             absolutio pecunia, quamtu in terra defodis. Tantorum te ergo scias inuaderebona, quantis
             possis prestare quod uelis.</p>
-          <p>III. Pars. Gratian. Necesse est etiam, vt ille, quiordinandus est, „suae domui sit bene
+          <p xml:id="gd-p1d47-d1e230">III. Pars. Gratian. Necesse est etiam, vt ille, quiordinandus est, „suae domui sit bene
             prepositus, id est, si inlaicali habitu uxorem habuerit^ P uel filios, a uiciis ad
             uirtutumstudia et uerbo et exemplo prouocet, ut quod postea precepturusest populis,
             prius exigat a domesticis. Unde Apostolus Ephesiis scribit, ut uxores suas sicut sua
@@ -199,16 +197,16 @@
             sollicitamdiligentiam exhibebit? Unde Ieronimus: „Non enimiustus polluitur ex uiciis
             filiorum, sed libertas ab Apostoloecclesiae principi reseruatur, ut talis fiat, qui non
             timeat propteruicia liberorum extraneos reprehenderet</p>
-          <p>IV. Pars. §. 1. Quod tunc fiet, si non erit quod sibi in-putetur. Cum enim gressus
+          <p xml:id="gd-p1d47-d1e234">IV. Pars. §. 1. Quod tunc fiet, si non erit quod sibi in-putetur. Cum enim gressus
             hominis a Domino dirigantur necsint in homine uiae eius, corripere quidem potest,
             corrigere</p>
-          <p>autem non ualet; pulsare potest, non aperire, manus conpri-mere, non animum mutare.</p>
-          <p>Unde Augustinus ad Vincentium Donatistam[epist. CXXXVII.]:</p>
+          <p xml:id="gd-p1d47-d1e237">autem non ualet; pulsare potest, non aperire, manus conpri-mere, non animum mutare.</p>
+          <p xml:id="gd-p1d47-d1e240">Unde Augustinus ad Vincentium Donatistam[epist. CXXXVII.]:</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Bonorum disciplina omniummores inmutarenon nafef.</head>
-          <p>Quantumlibet uigilet disciplina domus meae, homo sum et inter homines uiuo; nec mihi
+        <div xml:id="gd-p1d47-Dd1e244">
+          <head xml:id="gd-p1d47-Hd1e246">C. IX</head>
+          <head xml:id="gd-p1d47-Hd1e249" type="question-title">. Bonorum disciplina omniummores inmutarenon nafef.</head>
+          <p xml:id="gd-p1d47-d1e252">Quantumlibet uigilet disciplina domus meae, homo sum et inter homines uiuo; nec mihi
             arrogare audeo , utdomus mea melior sit quam archa Noe, ubi tamen interocto homines unus
             reprobus inuentus est, aut melior sitquam domus Abrahae, ubi dictum est: „Eice ancillam
             etfilium eius,“ aut melior sit quam domus Ysaac, cui deduobus geminis dictum est: „Iacob
@@ -217,12 +215,12 @@
             difficile sum expertus meliores quam qui in monasteriisprofecerunt ita non sum expertus
             peiores quam qui inmonasteriis defecerunt.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Conuicia perditorum a uia rectitudinis nos mouerenon
+        <div xml:id="gd-p1d47-Dd1e256">
+          <head xml:id="gd-p1d47-Hd1e258">C. X</head>
+          <head xml:id="gd-p1d47-Hd1e261" type="question-title">. Conuicia perditorum a uia rectitudinis nos mouerenon
             debent.</head>
-          <p>Item Cipriano, Cornelius Papa\</p>
-          <p>Quod ad nos adtinet, conscientiae nostrae conuenit, frater, dare operam, ne quis culpa
+          <p xml:id="gd-p1d47-d1e264">Item Cipriano, Cornelius Papa\</p>
+          <p xml:id="gd-p1d47-d1e267">Quod ad nos adtinet, conscientiae nostrae conuenit, frater, dare operam, ne quis culpa
             nostra de ecclesia pereat; si autem quis ultro et crimine suo perierit, et penitenciam
             agere atque ad ecclesiam redire noluerit, nos iniudicii die inculpatos futuros credimus,
             qui eorum consulimus sanitati; illos solos in penis remansuros, qui noluerint consilii

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,62 +53,62 @@
     </front>
     <body>
       <div xml:id="gd-p1d74">
-        <head>DISTINCTIO LXXIV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Queritur de his qui ah episcopis suis promonericontempnunt, an inuiti sint
+        <head xml:id="gd-p1d74-Hd1e103">DISTINCTIO LXXIV.</head>
+        <p xml:id="gd-p1d74-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d74-d1e109">I. Pars. Queritur de his qui ah episcopis suis promonericontempnunt, an inuiti sint
           sublimandi, an non ?</p>
-        <p>De his ita statutum inuenitur in Concilio Aureli a -nensi III. [cap. 7.]</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Annuae suspensioni suhiaceat episcopus, qui inuitum *
+        <p xml:id="gd-p1d74-d1e112">De his ita statutum inuenitur in Concilio Aureli a -nensi III. [cap. 7.]</p>
+        <div xml:id="gd-p1d74-Dd1e115">
+          <head xml:id="gd-p1d74-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d74-Hd1e120" type="question-title">. Annuae suspensioni suhiaceat episcopus, qui inuitum *
             ordinare presumit.</head>
-          <p>Episcopus, qui inuitum aut reclamantem ordinare presumpserit, annuali penitenciae
+          <p xml:id="gd-p1d74-d1e123">Episcopus, qui inuitum aut reclamantem ordinare presumpserit, annuali penitenciae
             subditus missas facere non presumat.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Nullus promoueatur inuitus.</head>
-          <p>Item Gregorius Natali Episcopo [Salonitano, in lib. I.</p>
-          <p>Reg. epist. 19.]</p>
-          <p>Gesta, que nobis consilii uestri secretario confecta direxistis, in quo archidiaconus
+        <div xml:id="gd-p1d74-Dd1e128">
+          <head xml:id="gd-p1d74-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d74-Hd1e133" type="question-title">. Nullus promoueatur inuitus.</head>
+          <p xml:id="gd-p1d74-d1e136">Item Gregorius Natali Episcopo [Salonitano, in lib. I.</p>
+          <p xml:id="gd-p1d74-d1e139">Reg. epist. 19.]</p>
+          <p xml:id="gd-p1d74-d1e142">Gesta, que nobis consilii uestri secretario confecta direxistis, in quo archidiaconus
             Honoratus adicitur, plenaesse semine iurgiorum cognouimus, cum uno eodemquetempore una
             persona nolens ad sacerdotii ordinem pro-uehitur, que tamquam inmerita a diaconatus
             offitio remouea-tur. Et sicut iustum est, ut nemo crescere conpellaturinuitus, ita
             censendum puto, ne quisquam insons ab ordinis sui ministerio deiciatur iniuste.</p>
-          <p>Econtra inuenitur in Concilio Cartaginensi [c. 31.]:</p>
+          <p xml:id="gd-p1d74-d1e146">Econtra inuenitur in Concilio Cartaginensi [c. 31.]:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Qui ah episcopis suis promoneri contempnunt, a loco suo
+        <div xml:id="gd-p1d74-Dd1e150">
+          <head xml:id="gd-p1d74-Hd1e152">C. III</head>
+          <head xml:id="gd-p1d74-Hd1e155" type="question-title">. Qui ah episcopis suis promoneri contempnunt, a loco suo
             deiciantur.</head>
-          <p>Si qui* clerici ab episcopis suis promoueri contempserint, nec illic maneant, unde
+          <p xml:id="gd-p1d74-d1e158">Si qui* clerici ab episcopis suis promoueri contempserint, nec illic maneant, unde
             recedere noluerunt.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Item de eodem.</head>
-          <p>Placuit, ut quicumque clerici uel diaconi pro necessitatibus* ecclesiasticarum^ rerum
+        <div xml:id="gd-p1d74-Dd1e162">
+          <head xml:id="gd-p1d74-Hd1e164">C. IV</head>
+          <head xml:id="gd-p1d74-Hd1e167" type="question-title">. Item de eodem.</head>
+          <p xml:id="gd-p1d74-d1e170">Placuit, ut quicumque clerici uel diaconi pro necessitatibus* ecclesiasticarum^ rerum
             non obtemperauerint episcopis suis, uolentibus eos ad honorem ampliorem in ecclesia sua
             promouere, nec illic ministrent in gradu suo,unde recedere noluerunt.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Posteriores prioribus episcopi non preponantur-.</head>
-          <p>Item ex Concilio Agatensi, [c. 23.]</p>
-          <p>Episcoporum etiam, quorum uita non reprehenditur, posteriorem priori nullus preponat,
+        <div xml:id="gd-p1d74-Dd1e174">
+          <head xml:id="gd-p1d74-Hd1e176">C. V</head>
+          <head xml:id="gd-p1d74-Hd1e179" type="question-title">. Posteriores prioribus episcopi non preponantur-.</head>
+          <p xml:id="gd-p1d74-d1e182">Item ex Concilio Agatensi, [c. 23.]</p>
+          <p xml:id="gd-p1d74-d1e185">Episcoporum etiam, quorum uita non reprehenditur, posteriorem priori nullus preponat,
             nisi forte superbia</p>
-          <p>elatus quod pro necessitate ecclesiae episcopus iusserit in-plere contempnat.</p>
-          <p>II. Par s. §. i. Sane si offitium archidiaconatus proptersimpliciorem naturam inplere
+          <p xml:id="gd-p1d74-d1e188">elatus quod pro necessitate ecclesiae episcopus iusserit in-plere contempnat.</p>
+          <p xml:id="gd-p1d74-d1e192">II. Par s. §. i. Sane si offitium archidiaconatus proptersimpliciorem naturam inplere
             aut expedire nequiuerit, illeloci sui teneat nomen et ordinationem* ecclesiae,
             quemelegerit episcopus preponendum.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. In quo loco quis ordinatus est inuitus teneri non
+        <div xml:id="gd-p1d74-Dd1e196">
+          <head xml:id="gd-p1d74-Hd1e198">C. VI</head>
+          <head xml:id="gd-p1d74-Hd1e201" type="question-title">. In quo loco quis ordinatus est inuitus teneri non
             debet.</head>
-          <p>Item Gregorius Iohanni Episcopo Siracusano,</p>
-          <p>[lib. XI. epist. 34.]</p>
-          <p>Quorumdam ad nos relatione peruenit, Cosmam, qui ex monacho monasterii S. Luciae a
+          <p xml:id="gd-p1d74-d1e204">Item Gregorius Iohanni Episcopo Siracusano,</p>
+          <p xml:id="gd-p1d74-d1e207">[lib. XI. epist. 34.]</p>
+          <p xml:id="gd-p1d74-d1e210">Quorumdam ad nos relatione peruenit, Cosmam, qui ex monacho monasterii S. Luciae a
             decessore tuo uene-randae memoriae Maximiano in ecclesia Siracusana subdiaconus factus,
             atque a te postea in possessione, queIuliana uocatur, presbiter dicitur ordinatus, ita
             nimiatristicia et loci qualitate uehementer afflictum, ut uitam sibipenam existimet, et
@@ -121,17 +119,17 @@
             quantum arbitramur, debes&lt;3, sinichil est, quod iuste contra eum animos
             tuosexasperet. Si uero aliqua culpa est, suis nobis epistolis hocfraternitas uestra, ut
             scire possimus, insinuet.</p>
-          <p>III. Pars. Gratian. Verum illud Gregorii de his intelligen-dum est, qui non causa
+          <p xml:id="gd-p1d74-d1e214">III. Pars. Gratian. Verum illud Gregorii de his intelligen-dum est, qui non causa
             necessitatis, sed causa ingratitudinis callideab episcopis suis promoueri queruntur.
             Illud autem Cartaginensisconcilii de his intelligitur, qui nolunt obtemperare episcopis
             suispropter necessitatem ecclesiae uolentibus eos ad altiora promouere.Hanc
             distinctionem ex decreto Simplicii Papae quilibet ualetcorroborare, qui scribens Iohanni
             Archiepisc. Rauennati‘,[epist. II.] ait inter cetera:</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Non est aliquis inuitus ad episcopatum pertrahendus.</head>
-          <p>Ubi ista didicisti, que in episcopum et confratremCanastrum Gregorium non dilectione,
+        <div xml:id="gd-p1d74-Dd1e218">
+          <head xml:id="gd-p1d74-Hd1e220">C. VII</head>
+          <head xml:id="gd-p1d74-Hd1e223" type="question-title">. Non est aliquis inuitus ad episcopatum pertrahendus.</head>
+          <p xml:id="gd-p1d74-d1e226">Ubi ista didicisti, que in episcopum et confratremCanastrum Gregorium non dilectione,
             sed inuidia perpetrasti? quem inexcusabili uiolentia pertrahi ad te passus es
             atqueuexari, ut ei tantum honorem non per animi tranquillitatem,sed per amentiam, sicut
             dicendum est, irrogares? Nequeenim talia potuissent fieri sanitate consilii. Nolumus
@@ -140,9 +138,9 @@
             aliquid tale presumpseris, et aliquem seuepiscopum, uel presbiterum, uel diaconum
             inuitumfacere forte credideris, ordinationes tibi Rauennatis ecclesiae uel Emiliensis
             noueris auferendas.</p>
-          <p>Item Gregorius Antonino Subdiacono, [lib. II.</p>
-          <p>epist. 16. Indict. 10.] •</p>
-          <p>Honoratus, archidiaconus Salonitanae ecclesiae a sanctae memoriae decessore meo missa
+          <p xml:id="gd-p1d74-d1e229">Item Gregorius Antonino Subdiacono, [lib. II.</p>
+          <p xml:id="gd-p1d74-d1e232">epist. 16. Indict. 10.] •</p>
+          <p xml:id="gd-p1d74-d1e236">Honoratus, archidiaconus Salonitanae ecclesiae a sanctae memoriae decessore meo missa
             supplicatione poposcerat,ut ab antistite suo inuitus prouehi ad fortioris gradus ordinem
             contra morem nullo modo cogeretur. Hoc enim fierisibi non causa prouehendi, sed causa
             ingratitudinis perhibebat. Pro qua re tunc etiam sanctae memoriae predecessor noster
@@ -163,19 +161,19 @@
             hac sede concessus sibi fuerat, ex auctoritate sedis apostolicae contradices. Quem si
             etiamamisso pallio adhuc in eadem pertinacia perseuerareperspexeris, dominici corporis
             et sanguinis eundemantistitem participatione priuabis.</p>
-          <p>Gratian. Adhibenda est etiam disciplina, qua nolentes promoueri ad sacros ordines ad
+          <p xml:id="gd-p1d74-d1e239">Gratian. Adhibenda est etiam disciplina, qua nolentes promoueri ad sacros ordines ad
             obediendum episcopis suis prouocen-tur. In minoribus siquidem ordinibus constituti
             paulatim per singulos gradus sunt prouehendi, ut contempnentes suis obedireepiscopis
             doleant sibi esse prelatos, quos prius habebantsubiectos.</p>
-          <p>Unde Gelasius scribit Victori Episcopo®:</p>
+          <p xml:id="gd-p1d74-d1e242">Unde Gelasius scribit Victori Episcopo®:</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Cum maiores ordinari contempserint, de minoribus
+        <div xml:id="gd-p1d74-Dd1e247">
+          <head xml:id="gd-p1d74-Hd1e249">C. IX</head>
+          <head xml:id="gd-p1d74-Hd1e252" type="question-title">. Cum maiores ordinari contempserint, de minoribus
             promoneantur ordinibus.</head>
-          <p>Consuluit dilectio tua de suorum promotione clericorum, perhibens, quod diaconi ad
+          <p xml:id="gd-p1d74-d1e255">Consuluit dilectio tua de suorum promotione clericorum, perhibens, quod diaconi ad
             presbiterii gradum (quo ecclesiam tuam memoras indigere) uenire detrectant.</p>
-          <p>Quapropter, quia inuitos fieri ecclesiastica moderatio graui-tasque non patitur, ut ex
+          <p xml:id="gd-p1d74-d1e258">Quapropter, quia inuitos fieri ecclesiastica moderatio graui-tasque non patitur, ut ex
             nolentibus fiant uolentes ordinatio illa potest perficere, si quos habes inacolitis, uel
             subdiaconibus maturiores etate, et quorumsit uita probabilis, hos in presbiterium
             studeas promo-uere, ut, qui in suis proficere noluerunt, reddantursuis inferioribus post

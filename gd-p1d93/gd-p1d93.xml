@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,19 +53,19 @@
     </front>
     <body>
       <div xml:id="gd-p1d93">
-        <head>DISTINCTIO XCIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Obedientiam autem inferiores ex ordine^- superioribus debent. Summo enim
+        <head xml:id="gd-p1d93-Hd1e103">DISTINCTIO XCIII.</head>
+        <p xml:id="gd-p1d93-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d93-d1e109">I. Pars. Obedientiam autem inferiores ex ordine^- superioribus debent. Summo enim
           Pontifici ea debetur ab omnibus obe-dientia, ut nulli liceat ei communicare, cui pro
           actibus suis ipse inimicus extiterit, nec in ecclesia esse poterit, qui eius
           cathedramdeserit.</p>
-        <p>Unde B. Petrus princeps apostolorum in ordinatione Clementis populum alloquens, inter
+        <p xml:id="gd-p1d93-d1e112">Unde B. Petrus princeps apostolorum in ordinatione Clementis populum alloquens, inter
           cetera ait:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Cui pro actibus prauis^ Apostolicus inimicatur, communicare
+        <div xml:id="gd-p1d93-Dd1e115">
+          <head xml:id="gd-p1d93-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d93-Hd1e120" type="question-title">. Cui pro actibus prauis^ Apostolicus inimicatur, communicare
             non debemus.</head>
-          <p>Si inimicus est iste Clemens alicui pro actibus suis, et uos nolite expectare, ut ispse
+          <p xml:id="gd-p1d93-d1e123">Si inimicus est iste Clemens alicui pro actibus suis, et uos nolite expectare, ut ispse
             uobis dicat: cum illo nolite amici esse, sed prudenter obseruare debetis, et
             uoluntatieius absque communicatione obsecundare, et auertereuos ab eo, cui ipsum
             sentitis aduersum; sed nec loqui his,quibus ipse non loquitur, ut unusquisque, qui in
@@ -81,12 +79,12 @@
             ut effecta certior karitas uestra sollicitius deinceps agere studeat etcautius, ne
             peruersi et infideles homines ledendi fideleset beniuolos habeant facultatem.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. A nullo debet suscipi, quem Romana repellit^
+        <div xml:id="gd-p1d93-Dd1e128">
+          <head xml:id="gd-p1d93-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d93-Hd1e133" type="question-title">. A nullo debet suscipi, quem Romana repellit^
             ecclesia.</head>
-          <p>Item Gregorius [1. V. epist. 26.]</p>
-          <p>Miratus ualde sum, quia in tanto Salonitanae ecclesiae clero uel populo uix duo ex
+          <p xml:id="gd-p1d93-d1e136">Item Gregorius [1. V. epist. 26.]</p>
+          <p xml:id="gd-p1d93-d1e139">Miratus ualde sum, quia in tanto Salonitanae ecclesiae clero uel populo uix duo ex
             sacris ordinibus inuenti sunt, frater scilicet et coepiscopus meus Paulinus, et
             dilectissimus filius meus Honoratus archidiaconus eiusdemecclesiae, qui communicare
             Maximo sacerdotium rapientiminime consentirent, et se Christianos esse
@@ -95,105 +93,105 @@
             mundaretur, et tuncei uestra dilectio communicaret, ne particeps
             obligationisexisteret.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Non est in ecclesia, qui cathedram Petri non
+        <div xml:id="gd-p1d93-Dd1e143">
+          <head xml:id="gd-p1d93-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d93-Hd1e148" type="question-title">. Non est in ecclesia, qui cathedram Petri non
             sequitur.</head>
-          <p>Item Ciprianus [de unitate ecclesiae]*.</p>
-          <p>Qui cathedram Petri, super quam ecclesia fundata est, deserit, in ecclesia se esse non
+          <p xml:id="gd-p1d93-d1e151">Item Ciprianus [de unitate ecclesiae]*.</p>
+          <p xml:id="gd-p1d93-d1e154">Qui cathedram Petri, super quam ecclesia fundata est, deserit, in ecclesia se esse non
             confidat.</p>
-          <p>Gratian. Episcopi uero, qui apostolicae ordinationi sub-iacent, etiam hanc reuerentiam
+          <p xml:id="gd-p1d93-d1e157">Gratian. Episcopi uero, qui apostolicae ordinationi sub-iacent, etiam hanc reuerentiam
             debent, ut singulis annis apostolorum liminibus sese representent.</p>
-          <p>Unde Anacletus et Zacharias Papa:</p>
+          <p xml:id="gd-p1d93-d1e161">Unde Anacletus et Zacharias Papa:</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Singulis annis apostolorum limina uisitent episcopi, qui
+        <div xml:id="gd-p1d93-Dd1e165">
+          <head xml:id="gd-p1d93-Hd1e167">C. IV</head>
+          <head xml:id="gd-p1d93-Hd1e170" type="question-title">. Singulis annis apostolorum limina uisitent episcopi, qui
             apostolicae ordinationi subiacent.</head>
-          <p>Iuxta sanctorum Patrum et canonum instituta episcopi omnes, qui huius apostolicae sedis
+          <p xml:id="gd-p1d93-d1e173">Iuxta sanctorum Patrum et canonum instituta episcopi omnes, qui huius apostolicae sedis
             ordinationi subia-cent, qui propinqui sunt, annue circa idus magi sanctorum principum
             apostolorum Petri et Pauli liminibus presententur omni occasione seposita. Qui uero de
             longinquo,iuxta cyrographum suum inpleant. Qui autem constitutionis huius contemptor
             extiterit, preterquam si egritudinefuerit detentus, sciat se canonicis subiacere
             sententiis.</p>
-          <p>II. Pars. Gratian. Reliqui uero in ecclesia minores semper debent maioribus subesse,
+          <p xml:id="gd-p1d93-d1e176">II. Pars. Gratian. Reliqui uero in ecclesia minores semper debent maioribus subesse,
             sicut in Sinodo*-* S. Siluestri, [c. VII.] legitur</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Maioribus minores obedientiam exhibeant.</head>
-          <p>A subdiacono usque ad lectores omnes subditi sintdiacono cardinali uiro reuerentissimo,
+        <div xml:id="gd-p1d93-Dd1e180">
+          <head xml:id="gd-p1d93-Hd1e182">C. V</head>
+          <head xml:id="gd-p1d93-Hd1e185" type="question-title">. Maioribus minores obedientiam exhibeant.</head>
+          <p xml:id="gd-p1d93-d1e188">A subdiacono usque ad lectores omnes subditi sintdiacono cardinali uiro reuerentissimo,
             in ecclesia repre-sentantes ei honorem. Porro pontifici presbiter, presbitero diaconus,
             diacono subdiaconus, subdiacono acoli-thus, acolitho exorcista, exorcistae lector,
             lectori hostiarius,hostiario abbas**, abbati monachus in omni loco representet
             obsequium, siue in publico, siue in gremioecclesiae.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Quid- sit diaconorum offitium.</head>
-          <p>Item ex epist. [I.] Clementis Papae* [ad Iacobum fratrem Domini]:</p>
-          <p>Diaconi ecclesiae sint tanquam oculi episcopi, oberrantes et circumlustrantes cum
+        <div xml:id="gd-p1d93-Dd1e192">
+          <head xml:id="gd-p1d93-Hd1e194">C. VI</head>
+          <head xml:id="gd-p1d93-Hd1e197" type="question-title">. Quid- sit diaconorum offitium.</head>
+          <p xml:id="gd-p1d93-d1e200">Item ex epist. [I.] Clementis Papae* [ad Iacobum fratrem Domini]:</p>
+          <p xml:id="gd-p1d93-d1e203">Diaconi ecclesiae sint tanquam oculi episcopi, oberrantes et circumlustrantes cum
             uerecundia actus totius ecclesiae, et perscrutantes diligentius, si quem uideant uicinum
             fieri precipicio et proximum esse peccato, ut referant hec</p>
-          <div>
-            <p>ad episcopum. Et infra*: §. i. Episcopo suggerereque ad cultum ecclesiae et
+          <div xml:id="gd-p1d93-Dd1e206">
+            <p xml:id="gd-p1d93-d1e208">ad episcopum. Et infra*: §. i. Episcopo suggerereque ad cultum ecclesiae et
               disciplinam eius pertinent,diaconibus cura sit.</p>
-            <p>[C. VII.]</p>
-            <p>Item in eadem**.</p>
-            <p>Sacerdotes uero dicebat B. Petrus sal terrae et mundi lumen docens, eos in splendore
+            <p xml:id="gd-p1d93-d1e211">[C. VII.]</p>
+            <p xml:id="gd-p1d93-d1e214">Item in eadem**.</p>
+            <p xml:id="gd-p1d93-d1e217">Sacerdotes uero dicebat B. Petrus sal terrae et mundi lumen docens, eos in splendore
               operum glorificare patrem Deum, de quibus Dominus ait: „Beatiestis, cum maledixerint
               uobis homines et reliq.“ etiterum: „Vos estis sal terrae.“</p>
           </div>
-          <div>
-            <head>C. VIII</head>
-            <head type="question-title">. iVon sunt habendi clerici, qui episcopali non gubernantur
+          <div xml:id="gd-p1d93-Dd1e222">
+            <head xml:id="gd-p1d93-Hd1e224">C. VIII</head>
+            <head xml:id="gd-p1d93-Hd1e227" type="question-title">. iVon sunt habendi clerici, qui episcopali non gubernantur
               prouidentia.</head>
-            <p>Item ex Concilio Parisiensi*.</p>
-            <p>Nulla ratione clerici aut sacerdotes habendi sunt, qui sub nullius episcopi
+            <p xml:id="gd-p1d93-d1e230">Item ex Concilio Parisiensi*.</p>
+            <p xml:id="gd-p1d93-d1e233">Nulla ratione clerici aut sacerdotes habendi sunt, qui sub nullius episcopi
               disciplina et prouidentia gubernantur.Tales enim acephalos, id est sine capite, prisca
               consuetudo» nuncupauit.</p>
-            <p>[C. IX.]</p>
-            <p>Item [ex epist. III. Clementis].</p>
-            <p>Qui suis episcopis non obediunt, indubitanter rei et reprobi existunt. Porro ipsi a
+            <p xml:id="gd-p1d93-d1e236">[C. IX.]</p>
+            <p xml:id="gd-p1d93-d1e240">Item [ex epist. III. Clementis].</p>
+            <p xml:id="gd-p1d93-d1e243">Qui suis episcopis non obediunt, indubitanter rei et reprobi existunt. Porro ipsi a
               Deo donum summi muneris consecuntur, qui suis doctoribus, qui recte episcopi
               in-telliguntur, libenter obediunt.</p>
           </div>
-          <div>
-            <head>C. X</head>
-            <head type="question-title">. /n Deum scandalizantur, qui suo non obediunt
+          <div xml:id="gd-p1d93-Dd1e247">
+            <head xml:id="gd-p1d93-Hd1e249">C. X</head>
+            <head xml:id="gd-p1d93-Hd1e252" type="question-title">. /n Deum scandalizantur, qui suo non obediunt
               episcopo.</head>
-            <p>Item Anacletus, [epist. I.]</p>
-            <p>Ille proculdubio scandalizatur in Deum, qui recte non docet, et qui eius scandalizat
+            <p xml:id="gd-p1d93-d1e255">Item Anacletus, [epist. I.]</p>
+            <p xml:id="gd-p1d93-d1e258">Ille proculdubio scandalizatur in Deum, qui recte non docet, et qui eius scandalizat
               episcopum uel sacerdotem.</p>
           </div>
-          <div>
-            <head>C. XI</head>
-            <head type="question-title">. Septem debent esse diaconi in unaquaque ciuitate.</head>
-            <p>Item Euaristus omnibus Episcopis.</p>
-            <p>Diaconi (qui quasi oculi uidentur esse episcopi) septem debent esse in unaquaque
+          <div xml:id="gd-p1d93-Dd1e262">
+            <head xml:id="gd-p1d93-Hd1e264">C. XI</head>
+            <head xml:id="gd-p1d93-Hd1e267" type="question-title">. Septem debent esse diaconi in unaquaque ciuitate.</head>
+            <p xml:id="gd-p1d93-d1e270">Item Euaristus omnibus Episcopis.</p>
+            <p xml:id="gd-p1d93-d1e273">Diaconi (qui quasi oculi uidentur esse episcopi) septem debent esse in unaquaque
               ciuitate, qui custodiantepiscopum predicantem, ne ipse ab insidiatoribusquoquo modo
               infestetur, aut ledatur a suis, aut uerba diuina</p>
           </div>
-          <p>detrahendo aut insidiando polluantur uel despiciantur: sed ueritas spirituali redoleat
+          <p xml:id="gd-p1d93-d1e277">detrahendo aut insidiando polluantur uel despiciantur: sed ueritas spirituali redoleat
             feruore; pax predicatalabiis cum uoluntate animi concordet.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. De eodemK Item ex Concilio Neocesariensi, [c. 14.]</head>
-          <p>Diaconi septem debent esse secundum regulam, quamuis* non magna sit ciuitas. Regulae
+        <div xml:id="gd-p1d93-Dd1e281">
+          <head xml:id="gd-p1d93-Hd1e283">C. XII</head>
+          <head xml:id="gd-p1d93-Hd1e286" type="question-title">. De eodemK Item ex Concilio Neocesariensi, [c. 14.]</head>
+          <p xml:id="gd-p1d93-d1e289">Diaconi septem debent esse secundum regulam, quamuis* non magna sit ciuitas. Regulae
             autemauctoritas ista est, quod et liber actuum apostolorum ideminsinuat.</p>
-          <p>III. Pars. Gratian. Ut ex premissis auctoritatibus^apparet, diaconi debent obedientiam
+          <p xml:id="gd-p1d93-d1e292">III. Pars. Gratian. Ut ex premissis auctoritatibus^apparet, diaconi debent obedientiam
             presbiteris, sicut etpresbiteri episcopis. Sed diaconi superbientes sacerdotibus
             ex-equari°, uel potius preferri querebant, contra quorum insolentiam multorum
             auctoritates manauerunt, eorum superciliumreprimentes, atque ut sacerdotibus condignam
             obedientiam exhibeant decernentes.</p>
-          <p>Unde Gelasius* Papa, [in epist. ad Episcopos per Lucaniam, c. 9. et 10.] ait:</p>
+          <p xml:id="gd-p1d93-d1e295">Unde Gelasius* Papa, [in epist. ad Episcopos per Lucaniam, c. 9. et 10.] ait:</p>
         </div>
-        <div>
-          <head>C. XIII</head>
-          <head type="question-title">. Nichil eorum, que sunt decreta primis ordinibus, uendicent
+        <div xml:id="gd-p1d93-Dd1e300">
+          <head xml:id="gd-p1d93-Hd1e302">C. XIII</head>
+          <head xml:id="gd-p1d93-Hd1e305" type="question-title">. Nichil eorum, que sunt decreta primis ordinibus, uendicent
             sibi diaconi.</head>
-          <p>Diaconos propriam constituimus obseruare» mensuram, nec ultra tenorem paternis
+          <p xml:id="gd-p1d93-d1e308">Diaconos propriam constituimus obseruare» mensuram, nec ultra tenorem paternis
             canonibus deputatum quidpiam temptare permittimus, et nichil eorumsuo ministerio penitus
             applicare, que primis ordinibusproprie decreuit antiquitas. Absque episcopo uel
             presbitero baptizare non audeant, nisi predictis ordinibusfortassis longius constitutis
@@ -201,11 +199,11 @@
             §. i. Sacri corporis prerogationem sub conspectuepiscopi seu presbiteri (nisi his
             absentibus) ius nonhabeant exercendi.</p>
         </div>
-        <div>
-          <head>C. XIV</head>
-          <head type="question-title">. Inferiores presbiteris se diaconi cognoscant.</head>
-          <p>Item in Ni ceno Concilio, [c. 14. seu 18.]*</p>
-          <p>Peruenit ad sanctum concilium, quod in locis quibusdam et ciuitatibus presbiteris
+        <div xml:id="gd-p1d93-Dd1e312">
+          <head xml:id="gd-p1d93-Hd1e314">C. XIV</head>
+          <head xml:id="gd-p1d93-Hd1e317" type="question-title">. Inferiores presbiteris se diaconi cognoscant.</head>
+          <p xml:id="gd-p1d93-d1e320">Item in Ni ceno Concilio, [c. 14. seu 18.]*</p>
+          <p xml:id="gd-p1d93-d1e323">Peruenit ad sanctum concilium, quod in locis quibusdam et ciuitatibus presbiteris
             sacramenta diaconi porrigant. Hocneque regula, neque consuetudo tradidit, ut hi, qui
             offerendisacrificii non habent potestatem, his, qui offerunt, corpusChristi porrigant.
             Sed et illud innotuit, quod quidamdiacones etiam ante episcopos sacramenta sumant**.Hec
@@ -216,57 +214,57 @@
             regulam probatur existere. Si quis autem posts hasdiffinitiones obedire noluerit, a
             ministerio cessare debebit.</p>
         </div>
-        <div>
-          <head>C. XV</head>
-          <head type="question-title">. Diaconus honorem exhibeat presbitero, et ipse ab
+        <div xml:id="gd-p1d93-Dd1e327">
+          <head xml:id="gd-p1d93-Hd1e329">C. XV</head>
+          <head xml:id="gd-p1d93-Hd1e332" type="question-title">. Diaconus honorem exhibeat presbitero, et ipse ab
             inferioribus honoretur.</head>
-          <p>Item ex Concilio Laodicensi, [c* 20.]</p>
-          <p>Non oportet diaconum coram presbitero sedere, sed iussione presbiteri sedeat. Similiter
+          <p xml:id="gd-p1d93-d1e335">Item ex Concilio Laodicensi, [c* 20.]</p>
+          <p xml:id="gd-p1d93-d1e338">Non oportet diaconum coram presbitero sedere, sed iussione presbiteri sedeat. Similiter
             autem diaconushonorem habeat a sequentibus, id est a subdiaconi-bus et ab omnibus
             clericis.</p>
         </div>
-        <div>
-          <head>C. XVI</head>
-          <head type="question-title">. Calicem benedicere et panem dare diacononon licet.</head>
-          <p>Item ex eodem, [c. 25.J</p>
-          <p>Non oportet diacones* panem dare, nec calicem benedicere.</p>
+        <div xml:id="gd-p1d93-Dd1e342">
+          <head xml:id="gd-p1d93-Hd1e344">C. XVI</head>
+          <head xml:id="gd-p1d93-Hd1e347" type="question-title">. Calicem benedicere et panem dare diacononon licet.</head>
+          <p xml:id="gd-p1d93-d1e350">Item ex eodem, [c. 25.J</p>
+          <p xml:id="gd-p1d93-d1e353">Non oportet diacones* panem dare, nec calicem benedicere.</p>
         </div>
-        <div>
-          <head>C. XVII</head>
-          <head type="question-title">. Sicut episcopis, ita et presbiteris diaconi
+        <div xml:id="gd-p1d93-Dd1e357">
+          <head xml:id="gd-p1d93-Hd1e359">C. XVII</head>
+          <head xml:id="gd-p1d93-Hd1e362" type="question-title">. Sicut episcopis, ita et presbiteris diaconi
             ministrent.</head>
-          <p>Item ex Concilio Cartaginensi [IV.] cui Papa Zosimus interfuit per uicarios *, [c.
+          <p xml:id="gd-p1d93-d1e365">Item ex Concilio Cartaginensi [IV.] cui Papa Zosimus interfuit per uicarios *, [c.
             37.]</p>
-          <p>Diaconi ita se presbiteri, sicut episcopi ministros esse cognoscant.</p>
-          <p>[C. XVIII.]</p>
-          <p>Item m eodem, [c. 38.]</p>
-          <p>Presente presbitero diaconus eucharistiam corporis Christi populo, si necessitas cogit,
+          <p xml:id="gd-p1d93-d1e368">Diaconi ita se presbiteri, sicut episcopi ministros esse cognoscant.</p>
+          <p xml:id="gd-p1d93-d1e371">[C. XVIII.]</p>
+          <p xml:id="gd-p1d93-d1e375">Item m eodem, [c. 38.]</p>
+          <p xml:id="gd-p1d93-d1e378">Presente presbitero diaconus eucharistiam corporis Christi populo, si necessitas cogit,
             iussus eroget.</p>
-          <p>[C. XIX.]</p>
-          <p>Item m eodem, [c. 39. 40. et 41.]</p>
-          <p>Diaconus sedeat iubente presbitero quolibet loco. Item diaconus in conuentu
+          <p xml:id="gd-p1d93-d1e381">[C. XIX.]</p>
+          <p xml:id="gd-p1d93-d1e384">Item m eodem, [c. 39. 40. et 41.]</p>
+          <p xml:id="gd-p1d93-d1e387">Diaconus sedeat iubente presbitero quolibet loco. Item diaconus in conuentu
             presbiterorum interrogatusloquatur." Alba uero tantum tempore oblationis etlectionis
             utatur.</p>
         </div>
-        <div>
-          <head>C. XX</head>
-          <head type="question-title">. Diacones presbiteros se superiores cognoscant.</head>
-          <p>Item ex Concilio Tollet ano IV. [c. 39.]</p>
-          <p>Nonnulli diacones in tantam erumpunt superbiam, ut se presbiteris anteponant, atque in
+        <div xml:id="gd-p1d93-Dd1e391">
+          <head xml:id="gd-p1d93-Hd1e393">C. XX</head>
+          <head xml:id="gd-p1d93-Hd1e396" type="question-title">. Diacones presbiteros se superiores cognoscant.</head>
+          <p xml:id="gd-p1d93-d1e399">Item ex Concilio Tollet ano IV. [c. 39.]</p>
+          <p xml:id="gd-p1d93-d1e402">Nonnulli diacones in tantam erumpunt superbiam, ut se presbiteris anteponant, atque in
             primo choro ipsipriores stare .presumant, presbiteris in secundo choro constitutis.
             Ergo, ut sublimiores se presbiteros agnoscant,tam hii quam illi in utroque*
             consistant.</p>
-          <p>IV. Pars. Gratian. Compagis uero calciari absque apostolici licentia diaconibus non
+          <p xml:id="gd-p1d93-d1e405">IV. Pars. Gratian. Compagis uero calciari absque apostolici licentia diaconibus non
             permittitur, sicut nec mapulis uti absque eiusdem auctoritate quibuslibet clericis
             conceditur.</p>
-          <p>Unde Gregorius I ob anni Episcopo, Siracusano,</p>
-          <p>[lib. VII. epist. 28. indict. I.]:</p>
+          <p xml:id="gd-p1d93-d1e409">Unde Gregorius I ob anni Episcopo, Siracusano,</p>
+          <p xml:id="gd-p1d93-d1e412">[lib. VII. epist. 28. indict. I.]:</p>
         </div>
-        <div>
-          <head>C. XXI</head>
-          <head type="question-title">. Absque apostolica licentia compagis diacones uti minime
+        <div xml:id="gd-p1d93-Dd1e417">
+          <head xml:id="gd-p1d93-Hd1e419">C. XXI</head>
+          <head xml:id="gd-p1d93-Hd1e422" type="question-title">. Absque apostolica licentia compagis diacones uti minime
             presumant.</head>
-          <p>Peruenit ad nos, quod diaconus ecclesiae Catenensis calciatus compagis procedere
+          <p xml:id="gd-p1d93-d1e425">Peruenit ad nos, quod diaconus ecclesiae Catenensis calciatus compagis procedere
             presum-psisset, quod quia hactenus nulli per totam Siciliamlicuit, nisi solis tantummodo
             diaconibus Messanensis ecclesiae, quibus olim a predecessoribus nostris non
             dubitaturesse concessum, bene recolitis. Quia ergo tantae temeritatis ausus leuiter non
@@ -274,23 +272,23 @@
             ses,uel alicuius hoc auctoritate presumpserit, nobis subtiliterinnotescat. Nam si
             negligenter ea, que male usurpantur,omittimus, excessus uiam aliis aperimus.</p>
         </div>
-        <div>
-          <head>C. XXII</head>
-          <head type="question-title">. Mapulis clerici sine apostolici licentia uti .non
+        <div xml:id="gd-p1d93-Dd1e429">
+          <head xml:id="gd-p1d93-Hd1e431">C. XXII</head>
+          <head xml:id="gd-p1d93-Hd1e434" type="question-title">. Mapulis clerici sine apostolici licentia uti .non
             debent.</head>
-          <p>Idem Iobanni Rauennati Episcopo, [lib. II. epist. 54. circa finem].</p>
-          <p>Illud autem, quod pro utendis a clero uestro mapulis scripsistis, a clericis nostris
+          <p xml:id="gd-p1d93-d1e437">Idem Iobanni Rauennati Episcopo, [lib. II. epist. 54. circa finem].</p>
+          <p xml:id="gd-p1d93-d1e440">Illud autem, quod pro utendis a clero uestro mapulis scripsistis, a clericis nostris
             est fortiter obuiatum, dicentibus,nulli hoc umquam alii cuilibet concessum fuisse
             ecclesiae,nec Rauennates clericos uel illic, uel in Romana ciuitatetale aliquid cum sua
             conscientia presumpsisse, nec, sitemptatum esset, ex furtiua usurpatione sibi
             preiudiciumgenerari, sed etiam si in qualibet ecclesia hoc presumptum fuerit, asserunt
             emendandum, quod non concessioneRomani Pontificis, sed sola subreptione presumitur.</p>
         </div>
-        <div>
-          <head>C. XXIII</head>
-          <head type="question-title">. Sicut in ministerio, ita in dispensatione sine diaconibus
+        <div xml:id="gd-p1d93-Dd1e444">
+          <head xml:id="gd-p1d93-Hd1e446">C. XXIII</head>
+          <head xml:id="gd-p1d93-Hd1e449" type="question-title">. Sicut in ministerio, ita in dispensatione sine diaconibus
             episcopus non uiuat.</head>
-          <p>Item Ieronimus ad Rusticum Narbonensem episcopum, V. Pars. Diaconi sunt, quos
+          <p xml:id="gd-p1d93-d1e452">Item Ieronimus ad Rusticum Narbonensem episcopum, V. Pars. Diaconi sunt, quos
             inApocalipsi legimus,septem angeli ecclesiarum, hi sunt septem candelabra aurea,hi sunt
             uoces tonitruorum, §. 1.221 d Virtutum Operatione preclari, humilitate prediti, quieti,
             humiles, euangeli-zantes pacem, annunciantes bona, dissensiones et rixas etscandala
@@ -313,7 +311,7 @@
             uideatur. Et infra: §. 5. Nunc autem ex quo inecclesiis, sicut in Romano inperio, creuit
             auaritia, periitlex a sacerdote et uisio de propheta; singuli quiqueper potentiam
             episcopalis nominis, quam sibi ipsi</p>
-          <p>illicite absque ecclesia uendicarunt, totum, quod Leuita-rum est, in suos usus
+          <p xml:id="gd-p1d93-d1e455">illicite absque ecclesia uendicarunt, totum, quod Leuita-rum est, in suos usus
             redigunt, nec hoc solum, quod asscriptum est, sibi uendicant, sed cunctis
             auferuntuniuersa. Mendicat infelix in plateis clerus, et ser-uili mm operi mancipatus
             publicam de quolibet poscit elemosinamPP. Qui qq ex eo magis despicitur a cunctis, quo
@@ -334,15 +332,15 @@
             querit,ac nos cupit longa sua bonitate saluari. Si nonconuertimur, si duri colli sumus,
             si in peccatis usquead mortem illicite perduramus, assidue peccantium ppp,non miseretur
             Deus qqq.</p>
-          <p>VI. Pars. Gratian. Hoc capitulo sacerdotum auaricia reprehenditur, diaconorum dignitas
+          <p xml:id="gd-p1d93-d1e458">VI. Pars. Gratian. Hoc capitulo sacerdotum auaricia reprehenditur, diaconorum dignitas
             siue offitium commendatur.Sed quia {ut supra dictum est) diaconi insolescentes etiam
             presbiteris se preferendos arbitrati sunt, contra illorum^ supercilium scribit Ieronimus
             ad Euangelum presbiterum,[epist. LXXXV.]:</p>
         </div>
-        <div>
-          <head>C. XXIV</head>
-          <head type="question-title">. Diacones presbiteris debent subesse.</head>
-          <p>Legimus in Ysaia: ,,Fatuus fatua loquitur.” Audio quendam in tantam erupisse uecordiam,
+        <div xml:id="gd-p1d93-Dd1e462">
+          <head xml:id="gd-p1d93-Hd1e464">C. XXIV</head>
+          <head xml:id="gd-p1d93-Hd1e467" type="question-title">. Diacones presbiteris debent subesse.</head>
+          <p xml:id="gd-p1d93-d1e470">Legimus in Ysaia: ,,Fatuus fatua loquitur.” Audio quendam in tantam erupisse uecordiam,
             ut diaconos presbiteris id est episcopis anteferret. Nam cum Apostolus perspicue doceat,
             eosdem esse episcopos, quos presbiteros, quidpatitur mensarum et uiduarum minister, ut
             supra eos se tumidus efferat, ad quorum preces Christi corpus sanguisque conficitur?
@@ -378,7 +376,7 @@
             Ubicumque fuerit episcopus,siue Romae, siue Eugubio, siue Constantinopolim,siue Regio ,
             siue Alexandrinae, siue Thanis, eiusdem estmeriti, eiusdem et sacerdotii. Potentia
             diuitiarum et pau-</p>
-          <p>pertatis humilitas uel sublimiorem episcopum, uel inferiorem non facit; ceterum omnes
+          <p xml:id="gd-p1d93-d1e473">pertatis humilitas uel sublimiorem episcopum, uel inferiorem non facit; ceterum omnes
             apostolorum successores sunt.§. 2. Sed dicis, quomodo Romae ad testimonium diaconi
             presbiter ordinatur? Quid mihi profers unius urbisconsuetudinem? Quid paucitatem, de qua
             ortum est supercilium, in leges ecclesiae uendicas? Omne quod rarum estplus appetitur.
@@ -396,10 +394,10 @@
             paruo, aut si ex diacono ordinaturpresbiter, nouerit se** laicis maiorem, sacerdotibus
             esseminorem.</p>
         </div>
-        <div>
-          <head>C. XXV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Ciprianus, [lib. III. epist. 9.]Dominus noster Iesus Christus, rex et iudex
+        <div xml:id="gd-p1d93-Dd1e477">
+          <head xml:id="gd-p1d93-Hd1e479">C. XXV</head>
+          <head xml:id="gd-p1d93-Hd1e482" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d93-d1e485">Item Ciprianus, [lib. III. epist. 9.]Dominus noster Iesus Christus, rex et iudex
             etdominus noster, usque ad passionis diem seruauithonorem pontificibus et sacerdotibus
             quamuis illinec timorem Dei, nec agnicionem Christi seruassent. Namcum leprosum
             mundasset, dixit illi: ,, Vade, et ostendete sacerdotibus, et offer donum. Humilitatem
@@ -413,23 +411,23 @@
             quoniam apostolos, id est episcopos et presbiteros ^Dominus elegit, diaconos autem post
             ascensumDomini in celum apostoli sibi constituerunt episcopatussui et ecclesiae
             ministros. Quod si nos aliquid audere contra</p>
-          <p>Deum possumus, qui episcopos facit, possunt et contra nos diacones audere, a quibus
+          <p xml:id="gd-p1d93-d1e488">Deum possumus, qui episcopos facit, possunt et contra nos diacones audere, a quibus
             fiunt.</p>
-          <p>VII. Pars. Gratian. Hoc autem, quod de diaconorum minoritate dicitur, ubique seruandum
+          <p xml:id="gd-p1d93-d1e491">VII. Pars. Gratian. Hoc autem, quod de diaconorum minoritate dicitur, ubique seruandum
             est, nisi cum diaconus habuerit locum aut proprii patriarchae, aut sui
             metropolitani^.</p>
-          <p>Unde in VI. Sinodo, [c. 7.] legitur;</p>
+          <p xml:id="gd-p1d93-d1e495">Unde in VI. Sinodo, [c. 7.] legitur;</p>
         </div>
-        <div>
-          <head>C. XXVI</head>
-          <head type="question-title">. Diaconus sacerdotibus non pre feratur, nisi locum
+        <div xml:id="gd-p1d93-Dd1e499">
+          <head xml:id="gd-p1d93-Hd1e501">C. XXVI</head>
+          <head xml:id="gd-p1d93-Hd1e504" type="question-title">. Diaconus sacerdotibus non pre feratur, nisi locum
             metropolitani sui obtineat.</head>
-          <p>Precipimus, ne diaconus (quamuis etiam in dignitate, hoc est in offitio quolibet
+          <p xml:id="gd-p1d93-d1e507">Precipimus, ne diaconus (quamuis etiam in dignitate, hoc est in offitio quolibet
             ecclesiastico sit) ante presbiterumsedeat, nisi cum locum habuerit proprii patriarchae
             .autmetropolitani pro aliquo capitulo; tunc enim sicut illiuslocum tenens honorabitur.
             Si quis uero presumpserit hoctyrannice facere, a proprio gradu repulsus ultimus
             omniumfiat in ordine suo.</p>
-          <p>' * '</p>
+          <p xml:id="gd-p1d93-d1e510">' * '</p>
         </div>
       </div>
     </body>

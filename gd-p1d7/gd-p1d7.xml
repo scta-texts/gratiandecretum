@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d7">
-        <head>DISTINCTIO VII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Ius autem constitutionis cepit a iustificaiioni-bus, quas Dominus tradidit Moisi
+        <head xml:id="gd-p1d7-Hd1e103">DISTINCTIO VII.</head>
+        <p xml:id="gd-p1d7-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d7-d1e109">I. Pars. Ius autem constitutionis cepit a iustificaiioni-bus, quas Dominus tradidit Moisi
           dicens: „Si emeris seruum ebreum etc.</p>
-        <p>Unde Ysidorus in libro V. Ethim. [c. 1.] ait:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">De conditoribus legum.</head>
-          <p>Moises gentis Hebreae primus omnium diuinas leges sacris literis explicauit. Foroneus
+        <p xml:id="gd-p1d7-d1e112">Unde Ysidorus in libro V. Ethim. [c. 1.] ait:</p>
+        <div xml:id="gd-p1d7-Dd1e115">
+          <head xml:id="gd-p1d7-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d7-Hd1e120" type="question-title">De conditoribus legum.</head>
+          <p xml:id="gd-p1d7-d1e123">Moises gentis Hebreae primus omnium diuinas leges sacris literis explicauit. Foroneus
             rex Grecis primus leges iudiciaque constituit. Mercurius Trismegistus primus leges
             Egiptiis tradidit. Solon primus leges Atheniensibus edidit. Licurgus primus Lacedemoniis
             iura ex Apollinis auctoritate confinxit. Numa Pompilius, qui Romulo successit in regno,
@@ -71,11 +69,11 @@
             decemuiros legibus scribendis creauit, qui leges ex libris Solonis in latinum sermonem
             translatas XII. tabulis exposuerunt.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Nomina eorum, qui leges XII. tabularum exposuerunt.</head>
-          <p>[Isidor. ibidem continenter.]</p>
-          <p>Fuerunt autem hi App. Claudius, Genutius, Sextius, Veturius, Iulius, Manlius,
+        <div xml:id="gd-p1d7-Dd1e128">
+          <head xml:id="gd-p1d7-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d7-Hd1e133" type="question-title">Nomina eorum, qui leges XII. tabularum exposuerunt.</head>
+          <p xml:id="gd-p1d7-d1e136">[Isidor. ibidem continenter.]</p>
+          <p xml:id="gd-p1d7-d1e139">Fuerunt autem hi App. Claudius, Genutius, Sextius, Veturius, Iulius, Manlius,
             Sulpitius, Curiatius, Romilius, Posthumius. Hi decemuiri legum conscribendarum electi
             sunt. Leges autem redigere in libris primus consul Pompeius instituere uoluit, sed non
             perseuerauit obtrectatorum metu. Deinde Cesar cepit id facere, sed ante interfectus est.

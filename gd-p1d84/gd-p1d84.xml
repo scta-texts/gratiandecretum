@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,20 +53,20 @@
     </front>
     <body>
       <div xml:id="gd-p1d84">
-        <head>DISTINCTIO LXXXIV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Sollicitum quoque «c uigilantem oportet esse episcopum circa defensionem
+        <head xml:id="gd-p1d84-Hd1e103">DISTINCTIO LXXXIV.</head>
+        <p xml:id="gd-p1d84-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d84-d1e109">I. Pars. Sollicitum quoque «c uigilantem oportet esse episcopum circa defensionem
           pauperum, releuationem obpressorum, tuicionem monasteriorum. Quod si facere
           neglexerint,aspere sunt corripiendi.</p>
-        <p>Unde Gregorius Antemio* Subdiacono Campaniae,</p>
-        <p>[lib. XI. epist. 29.] :</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Corripiatur episcopus, qui circa offitium suum negligens
+        <p xml:id="gd-p1d84-d1e112">Unde Gregorius Antemio* Subdiacono Campaniae,</p>
+        <p xml:id="gd-p1d84-d1e115">[lib. XI. epist. 29.] :</p>
+        <div xml:id="gd-p1d84-Dd1e119">
+          <head xml:id="gd-p1d84-Hd1e121">C. I</head>
+          <head xml:id="gd-p1d84-Hd1e124" type="question-title">. Corripiatur episcopus, qui circa offitium suum negligens
             extiterit.</head>
-          <p>Peruenit ad nos, fratrem et coepiscopum nostrum Pa-scasium ita desidem et negligentem
+          <p xml:id="gd-p1d84-d1e127">Peruenit ad nos, fratrem et coepiscopum nostrum Pa-scasium ita desidem et negligentem
             in cunctis existere,</p>
-          <p>ut in nullo quia est episcopus agnoscatur, adeo ut neque ecclesia ipsius, neque
+          <p xml:id="gd-p1d84-d1e130">ut in nullo quia est episcopus agnoscatur, adeo ut neque ecclesia ipsius, neque
             monasteria, siue filii uel obpressipauperes eius erga se dilectionis studium sentiant,
             necaliquam supplicantibus sibi in quibus iustum est opemdefensionis accommodet, et (quod
             adhuc dici est grauius)consilia sapientum et recta suadentium nulla patiatur
@@ -80,11 +78,11 @@
             ad nos est modis omnibus transmittendus, ut hic positus discere possit, quid uel
             qualitersecundum Dei timorem agere conueniat sacerdotem.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem ad eundem [eod. lib. epist. 33.]</p>
-          <p>Nunciatum est nobis, Campaniae episcopos ita negligentes existere, et inmemores honoris
+        <div xml:id="gd-p1d84-Dd1e134">
+          <head xml:id="gd-p1d84-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d84-Hd1e139" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d84-d1e142">Idem ad eundem [eod. lib. epist. 33.]</p>
+          <p xml:id="gd-p1d84-d1e145">Nunciatum est nobis, Campaniae episcopos ita negligentes existere, et inmemores honoris
             sui, ut neque erga ecclesias, neque erga filios paternae uigilantiae curamexhibeant, uel
             monasteriorum sollicitudinem gerant, seu inobpressorum siue pauperum se tuicionem
             inpendant.Ideoque hac tibi auctoritate precipimus, ut, eis ad teconuocatis, ex nostro
@@ -93,16 +91,16 @@
             uero eorum post hec negligen-tem esse cognoueris, ad nos eum sine aliqua
             excusationetransmitte, ut quam sit graue nolle ab his, que reprehensibilia et ualde
             uituperanda sunt, corrigi, regulari in seualeat districtione sentire.</p>
-          <p>II. Pars. Gratian. Quod autem de munditia castitatis sacerdotibus inperatur, hoc etiam
+          <p xml:id="gd-p1d84-d1e148">II. Pars. Gratian. Quod autem de munditia castitatis sacerdotibus inperatur, hoc etiam
             de quibuslibet altari deseruien-tibus intelligendum est.</p>
-          <p>Unde in Car tag in en si Concilio II. [cap. 2.] Aurelius Episcopus dixisse legitur
+          <p xml:id="gd-p1d84-d1e152">Unde in Car tag in en si Concilio II. [cap. 2.] Aurelius Episcopus dixisse legitur
             :</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Qui sacramentis diuinis deseruiunt continentiam in omnibus
+        <div xml:id="gd-p1d84-Dd1e156">
+          <head xml:id="gd-p1d84-Hd1e158">C. III</head>
+          <head xml:id="gd-p1d84-Hd1e161" type="question-title">. Qui sacramentis diuinis deseruiunt continentiam in omnibus
             seruent.</head>
-          <p>Cum in preterito concilio de continentiae et castitatis moderamine tractaretur, gradus
+          <p xml:id="gd-p1d84-d1e164">Cum in preterito concilio de continentiae et castitatis moderamine tractaretur, gradus
             isti tres conscriptione quadam castitatis per consecrationes adnexi sunt; episcopos
             inquam, presbiteros Ct diacones ita placuit, utcondecet sacros antistites ac Dei
             sacerdotes, necnon et Leuitas, uel qui sacramentis diuinis inseruiunt, continentes esse
@@ -112,39 +110,39 @@
             contrectant, pudicitiae custodes etiam ab uxoribus abstineant.Ab omnibus dictum est:
             Placet, ut in omnibus et abomnibus pudicitia custodiatur, qui altario deseruiunt.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Cartaginensi V. [cap. 3.]</p>
-          <p>Cum de quorumdam clericorum, quamuis erga uxores proprias, incontinentia referretur,
+        <div xml:id="gd-p1d84-Dd1e168">
+          <head xml:id="gd-p1d84-Hd1e170">C. IV</head>
+          <head xml:id="gd-p1d84-Hd1e173" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d84-d1e176">Item ex Concilio Cartaginensi V. [cap. 3.]</p>
+          <p xml:id="gd-p1d84-d1e179">Cum de quorumdam clericorum, quamuis erga uxores proprias, incontinentia referretur,
             placuit episcopos etpresbiteros et diaconos secundum statuta priora etiamab uxoribus
             continere: quod nisi fecerint, ab ecclesiasticoremoueantur offitio; ceteros autem
             clericos ad hoc noncogi, sed secundum uniuscuiusque ecclesiae consuetudinem obseruari
             debere*.</p>
-          <p>III. Pars. Gratian. Similiter, quod monogamus episcopusesse iubetur, etiam ad reliquos
+          <p xml:id="gd-p1d84-d1e182">III. Pars. Gratian. Similiter, quod monogamus episcopusesse iubetur, etiam ad reliquos
             ordines ecclesiasticos deriuarioportet.</p>
-          <p>Unde Siricius Episcopus scribit Ymerio TarraconensiEpiscopo, [epist. I. c. 11.] :</p>
+          <p xml:id="gd-p1d84-d1e186">Unde Siricius Episcopus scribit Ymerio TarraconensiEpiscopo, [epist. I. c. 11.] :</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Laica sit tantum communione contentus clericus,</head>
-          <p>. uiduam aut secundam ducens uxorem.</p>
-          <p>Quisquis clericus aut uiduam, aut secundamuxorem duxerit, omni ecclesiasticae
+        <div xml:id="gd-p1d84-Dd1e190">
+          <head xml:id="gd-p1d84-Hd1e192">C. V</head>
+          <head xml:id="gd-p1d84-Hd1e195" type="question-title">. Laica sit tantum communione contentus clericus,</head>
+          <p xml:id="gd-p1d84-d1e198">. uiduam aut secundam ducens uxorem.</p>
+          <p xml:id="gd-p1d84-d1e201">Quisquis clericus aut uiduam, aut secundamuxorem duxerit, omni ecclesiasticae
             dignitatis priuilegiomox denudetur, laica tantum sibi communione concessa. Quam ita
             demum poterit possidere, si nichilpostea, propter quod hac carere debeat, admittat.</p>
-          <p>IV. Pars. Gratian. Presbiterorum uero nomen quamquama senectute sit sumptum, magis
+          <p xml:id="gd-p1d84-d1e204">IV. Pars. Gratian. Presbiterorum uero nomen quamquama senectute sit sumptum, magis
             tamen maturitatem indicat sapientiae, quam caniciem corporis.</p>
-          <p>Unde Anacletus [ad Episcopos Italiae, epist. II.]:</p>
+          <p xml:id="gd-p1d84-d1e208">Unde Anacletus [ad Episcopos Italiae, epist. II.]:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Presbiteri seniores dicuntur, non tam etate, quam
+        <div xml:id="gd-p1d84-Dd1e212">
+          <head xml:id="gd-p1d84-Hd1e214">C. VI</head>
+          <head xml:id="gd-p1d84-Hd1e217" type="question-title">. Presbiteri seniores dicuntur, non tam etate, quam
             sapientia.</head>
-          <p>Porro Moysi precipitur, ut eligat presbiteros id est seniores. Unde et in Prouerbiis
+          <p xml:id="gd-p1d84-d1e220">Porro Moysi precipitur, ut eligat presbiteros id est seniores. Unde et in Prouerbiis
             dicitur:,,Gloria senumest canicies.“ Hec uero canicies sapientiam designat,de qua
             scriptum est: „Canicies hominum prudentia est.“Cumque nongentis et amplius annis ab Adam
             usque</p>
-          <p>ad Abraham uixisse homines legamus, nullus alius prius appellatus est presbiter, id est
+          <p xml:id="gd-p1d84-d1e223">ad Abraham uixisse homines legamus, nullus alius prius appellatus est presbiter, id est
             senior, nisi Abraham,qui multo paucioribus uixisse annis commititur. Non ergopropter
             decrepitam senectutem, sed propter sapientiampresbiteri nominantur.•</p>
         </div>

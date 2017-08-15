@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,54 +53,54 @@
     </front>
     <body>
       <div xml:id="gd-p1d75">
-        <head>DISTINCTIO LXXV</head>
-        <p>I. Pars. Tempus autem consecrationis, sicut in OrdineRomano habetur, ad episcopi
+        <head xml:id="gd-p1d75-Hd1e103">DISTINCTIO LXXV</head>
+        <p xml:id="gd-p1d75-d1e106">I. Pars. Tempus autem consecrationis, sicut in OrdineRomano habetur, ad episcopi
           benedictionem non eligitur. Omnienim tempore benedicuntur, dummodo ieiunii et hora tertia
           benedictionem accipiant.</p>
-        <p>Unde Anacletus urbis Romae Episcopus scribit omnibus Episcopis$ [epist. II. in
+        <p xml:id="gd-p1d75-d1e109">Unde Anacletus urbis Romae Episcopus scribit omnibus Episcopis$ [epist. II. in
           prine.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Ordinationes episcoporum qua hora fieri debeant.</head>
-          <p>Ordinationes episcoporum auctoritate apostolica ab omnibus, qui in eadem fuerint
+        <div xml:id="gd-p1d75-Dd1e112">
+          <head xml:id="gd-p1d75-Hd1e114">C. I</head>
+          <head xml:id="gd-p1d75-Hd1e117" type="question-title">. Ordinationes episcoporum qua hora fieri debeant.</head>
+          <p xml:id="gd-p1d75-d1e120">Ordinationes episcoporum auctoritate apostolica ab omnibus, qui in eadem fuerint
             prouincia, episcopis suntcelebrandae. Qui simul conuenientes scrutinium cum precibus^
             celebrent, manus cum sanctis euangeliis inpo-nentes^, dominica die, hora tertia orantes,
             sacraque unctione prophetarum exemplo regum capita perungentium,eos more apostolorum et
             Moysi ungentes; quia omnissanctificatio constat esse in Spiritu sancto, cuius
             uirtusinuisibilis sancto est erismati permixta, et hoc ritu so-lempnem celebrent
             ordinationem.</p>
-          <p>II. Pars. Gratian. Tempus autem consecrationis triummensium spatio clauditur, ultra
+          <p xml:id="gd-p1d75-d1e123">II. Pars. Gratian. Tempus autem consecrationis triummensium spatio clauditur, ultra
             quod, nisi necessitate cogente,episcoporum consecrationes post electionem differri non
             licet.</p>
-          <p>Unde in Calcedonensi Concilio, [c. 25.] legitur:</p>
+          <p xml:id="gd-p1d75-d1e126">Unde in Calcedonensi Concilio, [c. 25.] legitur:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Ultra tres menses non differatur episcoporum
+        <div xml:id="gd-p1d75-Dd1e130">
+          <head xml:id="gd-p1d75-Hd1e132">C. II</head>
+          <head xml:id="gd-p1d75-Hd1e135" type="question-title">. Ultra tres menses non differatur episcoporum
             ordinatio.</head>
-          <p>Quoniam quidam metropolitanorum, sicut ad nos perlatum est, negligunt greges sibi
+          <p xml:id="gd-p1d75-d1e138">Quoniam quidam metropolitanorum, sicut ad nos perlatum est, negligunt greges sibi
             creditos, et differunt ordinationes facere episcoporum, placuit sanctae Sinodo,intra
             tres menses fieri ordinationes episcoporum, nisi forteinexcusabilis necessitas coegerit
             tempus ordinationis ampliusprotelari. Si autem episcoporum quis* hoc non obser-uauerit,
             ipsum debere ecclesiasticae condempnationi subiacere, redditus uero eiusdem uiduatae
             ecclesiae integros re-seruari apud economum eiusdem ecclesiae censemus .</p>
-          <p>III. Pars. Gratian. Ceterorum uero ordinationes non nisicertis temporibus et diebus,
+          <p xml:id="gd-p1d75-d1e141">III. Pars. Gratian. Ceterorum uero ordinationes non nisicertis temporibus et diebus,
             maxime sacerdotum et Leuitarum,fieri debent, uespera uidelicet sabati, uel mane diei
             dominicaecontinuato ieiunio.</p>
-          <p>Unde Zepherinus urbis Romae Archiepiscopus scribit omnibus Episcopis [epist. II.];</p>
+          <p xml:id="gd-p1d75-d1e144">Unde Zepherinus urbis Romae Archiepiscopus scribit omnibus Episcopis [epist. II.];</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Presbiteri et Leuitae qua hora ordinentur^.</head>
-          <p>Ordinationes presbiterorum Leuitarumque tempore congruo, multis coram astantibus,
+        <div xml:id="gd-p1d75-Dd1e149">
+          <head xml:id="gd-p1d75-Hd1e151">C. III</head>
+          <head xml:id="gd-p1d75-Hd1e154" type="question-title">. Presbiteri et Leuitae qua hora ordinentur^.</head>
+          <p xml:id="gd-p1d75-d1e157">Ordinationes presbiterorum Leuitarumque tempore congruo, multis coram astantibus,
             solempniter agite,et probabiles ac doctos uiros ad hoc opus prouehite, ut deeorum
             societate et adiumento plurimum gaudeatis.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem^-.</head>
-          <p>Item Leo Episcopus Dioscoro Alexandrino Episcopo, [epist. LXXIX. cap. i.]</p>
-          <p>Quod a Patribus nostris propensiori cura nouimus esse seruatum, a nobis quoque uolumus
+        <div xml:id="gd-p1d75-Dd1e161">
+          <head xml:id="gd-p1d75-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d75-Hd1e166" type="question-title">. De eodem^-.</head>
+          <p xml:id="gd-p1d75-d1e169">Item Leo Episcopus Dioscoro Alexandrino Episcopo, [epist. LXXIX. cap. i.]</p>
+          <p xml:id="gd-p1d75-d1e172">Quod a Patribus nostris propensiori cura nouimus esse seruatum, a nobis quoque uolumus
             custodiri, ut nonpassim diebus omnibus sacerdotalis uel leuitica ordinatiocelebretur,
             sed post diem sabati eiusque noctis, quein prima sabati lucescit, exordia consecrandi
             eligantur, inquibus his, qui consecrandi sunt, ieiunis et a ieiunantibussacra benedictio
@@ -111,12 +109,12 @@
             ad diem resurrectionis (sicutetiam in pasca Domini declaratur) pertinere non dubium
             est.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Quare die dominico sacerdotum ordinationes
+        <div xml:id="gd-p1d75-Dd1e176">
+          <head xml:id="gd-p1d75-Hd1e178">C. V</head>
+          <head xml:id="gd-p1d75-Hd1e181" type="question-title">. Quare die dominico sacerdotum ordinationes
             celebrentur.</head>
-          <p>Item [eodem cap.]</p>
-          <p>IV. Pars. Quod die* dominico ordinationes sacerdotum celebrentur, non tantum ex
+          <p xml:id="gd-p1d75-d1e184">Item [eodem cap.]</p>
+          <p xml:id="gd-p1d75-d1e187">IV. Pars. Quod die* dominico ordinationes sacerdotum celebrentur, non tantum ex
             consuetudine, sedetiam ex apostolica nouimus uenire doctrina, scripturamanifestante,
             quod, cum apostoli Paulum et Barrabam exSpiritus sancti precepto ad euangelium gentibus
             mitterentpredicandum, ieiunantes et orantes inposuerunt eis manus,ut intelligamus,
@@ -125,24 +123,24 @@
             morem gesseris institutis, si hanc ordinandorumformam sacerdotum per ecclesias, quibus
             Dominus preessete uoluit, etiam ipse seruaueris, ut his, qui consecrandisunt, numquam
             benedictio, nisi in die dominicae resurrectio-</p>
-          <p>nis tribuatur, cui a uespere sabati initium constat ascribi, que tantis diuinarum
+          <p xml:id="gd-p1d75-d1e190">nis tribuatur, cui a uespere sabati initium constat ascribi, que tantis diuinarum
             dispensationum misteriisest consecrata, ut, quicquid a Domino est insigne constitutum,
             in huius diei dignitate sit gestum. In hac mundussumpsit exordium: in hac per
             resurrectionem et morsinteritum, et uita accepit principium.</p>
-          <p>[PALE A».</p>
+          <p xml:id="gd-p1d75-d1e194">[PALE A».</p>
         </div>
-        <div>
-          <head>C. Vt</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item in ordine Romano, cap. de gradibus ecclesiae.</p>
-          <p>Quando et ubi libitum fuerit usque ad subdiaconatus offitium ordinantur clerici,
+        <div xml:id="gd-p1d75-Dd1e198">
+          <head xml:id="gd-p1d75-Hd1e200">C. Vt</head>
+          <head xml:id="gd-p1d75-Hd1e203" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d75-d1e206">Item in ordine Romano, cap. de gradibus ecclesiae.</p>
+          <p xml:id="gd-p1d75-d1e209">Quando et ubi libitum fuerit usque ad subdiaconatus offitium ordinantur clerici,
             diaconi uero atque presbiteri nunquam, nisi in publica ordinatione.]</p>
         </div>
-        <div>
-          <head>C. VIL De temporibus ordinationis</head>
-          <head type="question-title">.</head>
-          <p>Item Gei astus omnibus Episcopis [epist. I. cap. 13.]</p>
-          <p>V. Pars. Ordinationes presbiterorum et diaconorumnisi certis temporibus et diebus
+        <div xml:id="gd-p1d75-Dd1e213">
+          <head xml:id="gd-p1d75-Hd1e215">C. VIL De temporibus ordinationis</head>
+          <head xml:id="gd-p1d75-Hd1e218" type="question-title">.</head>
+          <p xml:id="gd-p1d75-d1e221">Item Gei astus omnibus Episcopis [epist. I. cap. 13.]</p>
+          <p xml:id="gd-p1d75-d1e224">V. Pars. Ordinationes presbiterorum et diaconorumnisi certis temporibus et diebus
             exerceri non debent, idest quarti mensis ieiunio et septimi et decimi; sedetiam
             quadragesimalis initii, ac medianae hebdomadae,sabati ieiunio circa uesperas ipsas
             ordinationesnouerint celebrandas, nec cuiuslibet utilitatis seuspresbiterum, seu

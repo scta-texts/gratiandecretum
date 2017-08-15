@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p1d48">
-        <head>DISTINCTIO XLVIIL</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Prohibentur etiam „neophiti in episcopos ordinari, ut qui heri^erat catecuminus,
+        <head xml:id="gd-p1d48-Hd1e103">DISTINCTIO XLVIIL</head>
+        <p xml:id="gd-p1d48-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d48-d1e109">I. Pars. Prohibentur etiam „neophiti in episcopos ordinari, ut qui heri^erat catecuminus,
           hodie non fiat episcopus, qui heri erat in teatro, hodie non sedeat in ecclesia, qui
           uespere eratin circo, hodie non ministret altario, qui dudum fuerat fautoristrionum, hodie
           non sii consecrator uirginum. Causa autemhuius prohibitionis est secundum Apostolum, ne
@@ -67,11 +65,11 @@
           arrogantiam (&lt;que est ruina diabolii) incidunt, qui puncto horae necdumdiscipuli fiunt
           magistri, et sicut Innocentius ait, ,, miserum est,eum fieri magistrum, qui necdum didicit
           esse discipulus. “</p>
-        <p>Unde de eisdem in Ni ceno Concilio, [c. 2.] legitur:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Neophitus in episcopum non est ordinandus.</head>
-          <p>Quoniam multa siue per necessitatem, siue ex quacumque* causa, contra regulam gesta
+        <p xml:id="gd-p1d48-d1e112">Unde de eisdem in Ni ceno Concilio, [c. 2.] legitur:</p>
+        <div xml:id="gd-p1d48-Dd1e115">
+          <head xml:id="gd-p1d48-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d48-Hd1e120" type="question-title">. Neophitus in episcopum non est ordinandus.</head>
+          <p xml:id="gd-p1d48-d1e123">Quoniam multa siue per necessitatem, siue ex quacumque* causa, contra regulam gesta
             sunt, ita ut homines ex uita gentili nuper adhuc cathecumini uel instructi statimad
             spirituale baptisma uenissent, et continuo, cum baptizati sunt, etiam ad episcopatum uel
             presbiterium pro-uecti sunt: recte igitur uisum est, de cetero nil talefieri. Nam et
@@ -81,14 +79,14 @@
             peccatum admiserit, et conuictus duobus ueltribus testibus fuerit, cessabit a clero qui
             huiusmodi est.Si quis uero preter hec fecerit, tanquam contrariastatuti sancti concilii
             gerens, etiam ipse periclitabitur de statu sui cleri.</p>
-          <p>Gratian. Neophiti uero hodie appellantur ad propositum sacrae religionis nouiter
+          <p xml:id="gd-p1d48-d1e126">Gratian. Neophiti uero hodie appellantur ad propositum sacrae religionis nouiter
             accedentes .</p>
-          <p>Unde B. Gregorius scribit [lib. VII. epist. no.]'dicens:</p>
+          <p xml:id="gd-p1d48-d1e129">Unde B. Gregorius scribit [lib. VII. epist. no.]'dicens:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Qui dicantur neophiti.</head>
-          <p>Sicut neophitus dicebatur, qui in initio* sanctae fidei erat erudicione plantatus,sic
+        <div xml:id="gd-p1d48-Dd1e134">
+          <head xml:id="gd-p1d48-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d48-Hd1e139" type="question-title">. Qui dicantur neophiti.</head>
+          <p xml:id="gd-p1d48-d1e142">Sicut neophitus dicebatur, qui in initio* sanctae fidei erat erudicione plantatus,sic
             modo neophitus habendus est, qui repente in religionis habitu plantatus ad ambiendos
             sacros ordines irrepserit. §, i. Ordinate ergo adordines ascendendum est. Nam casum
             appetit, qui adsummi loci fastigia postpositis gradibus per abrupta queritascensum.

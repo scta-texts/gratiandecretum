@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d31">
-        <head>DISTINCTIO XXXI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Tempus quia* nondum* erat institutum, ut sacerdotes continentiam seruarent.</p>
-        <p>Unde Gregorius scribit Petro Subdiacono Siciliae,</p>
-        <p>[lib. I. epist. 42.]</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Qui castitatem non promisit, ab uxore sua separari non
+        <head xml:id="gd-p1d31-Hd1e103">DISTINCTIO XXXI.</head>
+        <p xml:id="gd-p1d31-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d31-d1e109">I. Pars. Tempus quia* nondum* erat institutum, ut sacerdotes continentiam seruarent.</p>
+        <p xml:id="gd-p1d31-d1e112">Unde Gregorius scribit Petro Subdiacono Siciliae,</p>
+        <p xml:id="gd-p1d31-d1e115">[lib. I. epist. 42.]</p>
+        <div xml:id="gd-p1d31-Dd1e119">
+          <head xml:id="gd-p1d31-Hd1e121">C. I.</head>
+          <head xml:id="gd-p1d31-Hd1e124" type="question-title">Qui castitatem non promisit, ab uxore sua separari non
             cogatur.</head>
-          <p>Ante triennium omnium ecclesiarum subdiaconi Siciliae prohibiti fb&amp;^jJt, ut
+          <p xml:id="gd-p1d31-d1e127">Ante triennium omnium ecclesiarum subdiaconi Siciliae prohibiti fb&amp;^jJt, ut
             more&amp;omanae ecclesiae $jjj£ uxoribus nullatenus misceantur. Quod mihi durum atque
             incom-petens uidetur, ut, qui usum continentiae non inuenit, neque castitatem promisit,
             compellatur a sua uxore separari, atque per hoc (quod absit) in deterius cadat. Inde
@@ -77,33 +75,33 @@
             uxoribus continere noluerint, ad sacrum ordinem nolumus promoueri, quia nullus debet ad
             altaris ministerium accedere, nisi cuius castitas ante susceptum ministerium fuerit
             approbata.</p>
-          <p>II. Pars. Gratian. Causa uero huius institucionis mundicia fuit sacerdotalis, ut libere
+          <p xml:id="gd-p1d31-d1e130">II. Pars. Gratian. Causa uero huius institucionis mundicia fuit sacerdotalis, ut libere
             cunctis diebus orationi possentuacare. Si enim (ut Apostolus ait) ab uxoribus est
             cessandum, ut expeditius orationi uacemus, ministris itaque altaris, quibus cotidiana
             necessitas orandi incumbit, numquam coniugali offitio uacare permittitur.</p>
-          <p>Unde B e da super Lucam, [ad cap. 1.] ait:</p>
+          <p xml:id="gd-p1d31-d1e133">Unde B e da super Lucam, [ad cap. 1.] ait:</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Sacerdotibus semper castitas obseruanda precipitur.</head>
-          <p>Sacerdotibus, ut semper ualeant altari assistere, semper ab uxoribus continendum,
+        <div xml:id="gd-p1d31-Dd1e137">
+          <head xml:id="gd-p1d31-Hd1e139">C. II.</head>
+          <head xml:id="gd-p1d31-Hd1e142" type="question-title">Sacerdotibus semper castitas obseruanda precipitur.</head>
+          <p xml:id="gd-p1d31-d1e145">Sacerdotibus, ut semper ualeant altari assistere, semper ab uxoribus continendum,
             semper castitas obseruanda precipitur.</p>
 
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Qui diuinis sacramentis deseruiunt, continentes esse
+        <div xml:id="gd-p1d31-Dd1e149">
+          <head xml:id="gd-p1d31-Hd1e151">C. III.</head>
+          <head xml:id="gd-p1d31-Hd1e154" type="question-title">Qui diuinis sacramentis deseruiunt, continentes esse
             oportet.</head>
-          <p>Item in Concilio Cartaginensi /J. [cap. 2.]</p>
-          <p>Episcopos, presbiteros diacones ita ut placuit, et, decet sacrosanctos antistites aut
+          <p xml:id="gd-p1d31-d1e157">Item in Concilio Cartaginensi /J. [cap. 2.]</p>
+          <p xml:id="gd-p1d31-d1e160">Episcopos, presbiteros diacones ita ut placuit, et, decet sacrosanctos antistites aut
             sacerdotes, aut Leuitas^, uel qui sacramentis diuinis inseruiunt, continentes esse decet
             in omnibus.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Sacerdotes et Leuitae suis non misceantur uxoribus.</head>
-          <p>Item Innocentius I. Victricio Rotomag. Episcopo, [epist. II. cap. 9.]</p>
-          <p>Tenere debet ecclesia omni modo, ut sacerdotes et Leuitae cum uxoribus suis non
+        <div xml:id="gd-p1d31-Dd1e164">
+          <head xml:id="gd-p1d31-Hd1e166">C. IV.</head>
+          <head xml:id="gd-p1d31-Hd1e169" type="question-title">Sacerdotes et Leuitae suis non misceantur uxoribus.</head>
+          <p xml:id="gd-p1d31-d1e172">Item Innocentius I. Victricio Rotomag. Episcopo, [epist. II. cap. 9.]</p>
+          <p xml:id="gd-p1d31-d1e175">Tenere debet ecclesia omni modo, ut sacerdotes et Leuitae cum uxoribus suis non
             misceantur, quia ministerii cotidiani necessitatibus occupantur. Scriptum est enim:
             „Sancti estote, quoniam sanctus sum, Dominus Deus uester.“ Nam priscis temporibus anno
             uicis suae de templo non discedebant (sicut de Zacharia legimus, nec domum suam omnino
@@ -112,22 +110,22 @@
             quanto magis hi sacerdotes ets Leuitae pudicitiam ex die ordinationis suae obseruare
             debent, quibus uel sacerdotium, uel ministerium sine successione est, nec preterit dies,
             qua uel a sacrificiis diuinis, uel a baptismatis offitio uacent?</p>
-          <p>[PALE A*.</p>
+          <p xml:id="gd-p1d31-d1e178">[PALE A*.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Item ibidem.</head>
-          <p>Nam sicut Paulus ad Corinthios scribit, dicens: „Abstinete uos ad tempus, ut uacetis
+        <div xml:id="gd-p1d31-Dd1e182">
+          <head xml:id="gd-p1d31-Hd1e184">C. V.</head>
+          <head xml:id="gd-p1d31-Hd1e187" type="question-title">Item ibidem.</head>
+          <p xml:id="gd-p1d31-d1e190">Nam sicut Paulus ad Corinthios scribit, dicens: „Abstinete uos ad tempus, ut uacetis
             orationi,“ et hoc utique laicis precepit: multo magis sacerdotes, quibus orandi et
             sacrificandi iuge sacrificium est, semper debebunt ab huiusmodi consortio
             abstinere.]</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Qui ab uxoris offitiis abstinent, ad sacrificia
+        <div xml:id="gd-p1d31-Dd1e194">
+          <head xml:id="gd-p1d31-Hd1e196">C. VI.</head>
+          <head xml:id="gd-p1d31-Hd1e199" type="question-title">Qui ab uxoris offitiis abstinent, ad sacrificia
             admittantur.</head>
-          <p>Idem Exsuperio Tolletano Episcopo&amp;, [epist. III. c. 1.]</p>
-          <p>Eos* ad sacrificia admitti fas sit, qui uel cum uxore non exerceant offitium
+          <p xml:id="gd-p1d31-d1e202">Idem Exsuperio Tolletano Episcopo&amp;, [epist. III. c. 1.]</p>
+          <p xml:id="gd-p1d31-d1e205">Eos* ad sacrificia admitti fas sit, qui uel cum uxore non exerceant offitium
             carnale.</p>
 
 
@@ -135,31 +133,31 @@
 
 
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Sacerdoti, cui semper est orandum, semper est matrimonio
+        <div xml:id="gd-p1d31-Dd1e210">
+          <head xml:id="gd-p1d31-Hd1e212">C. VII.</head>
+          <head xml:id="gd-p1d31-Hd1e215" type="question-title">Sacerdoti, cui semper est orandum, semper est matrimonio
             carendum.</head>
-          <p>Item Ieronimus contra Iouinianum, [lib. I.]</p>
-          <p>Si laicus et quisque fidelis non potest orare, nisi careat offitio coniugali,
+          <p xml:id="gd-p1d31-d1e218">Item Ieronimus contra Iouinianum, [lib. I.]</p>
+          <p xml:id="gd-p1d31-d1e221">Si laicus et quisque fidelis non potest orare, nisi careat offitio coniugali,
             sacerdoti, cui semper offerendasunt sacrificia, semper orandum est; si semper orandum
             est, semper ergo matrimonio carendum.</p>
-          <p>Gratian. Quod autem Manicheorum causa de coniugio* sacerdotum illud supra dictum sit,
+          <p xml:id="gd-p1d31-d1e224">Gratian. Quod autem Manicheorum causa de coniugio* sacerdotum illud supra dictum sit,
             ex G an g ren si Concilioapparet, in quo [cap. i.] sic statutum legitur:</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Anathema sit, qui nuptias uituperat.</head>
-          <p>Si quis uituperat nuptias, et dormientem cum uiro suo fidelem ac religiosam detestatur
+        <div xml:id="gd-p1d31-Dd1e228">
+          <head xml:id="gd-p1d31-Hd1e230">C. VIII.</head>
+          <head xml:id="gd-p1d31-Hd1e233" type="question-title">Anathema sit, qui nuptias uituperat.</head>
+          <p xml:id="gd-p1d31-d1e236">Si quis uituperat nuptias, et dormientem cum uiro suo fidelem ac religiosam detestatur
             aut culpabilem estimat, uelut que regnum Dei introire non possit, anathema sit.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item ex eodem, [cap. 9.]</p>
-          <p>Quicumque uirginitatem custodiens aut continentiae studens, uelut horrescens nuptias,
+        <div xml:id="gd-p1d31-Dd1e240">
+          <head xml:id="gd-p1d31-Hd1e242">C. IX.</head>
+          <head xml:id="gd-p1d31-Hd1e245" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d31-d1e248">Item ex eodem, [cap. 9.]</p>
+          <p xml:id="gd-p1d31-d1e251">Quicumque uirginitatem custodiens aut continentiae studens, uelut horrescens nuptias,
             nec propter hoc, quod bonum et sanctum est, nomen uirginitatis assumit, anathema
             sit.</p>
-          <p>III. Pars. Gratian. Potest et aliter intelligi illud, quod in canone apostolorum
+          <p xml:id="gd-p1d31-d1e254">III. Pars. Gratian. Potest et aliter intelligi illud, quod in canone apostolorum
             legitur, ut iste sit sensus capituli: „Si quis docet sacerdotem uxorem suam contempnere,
             non uxorem quam in sacerdotio accepit, sed quam, dum esset adhuc laicus uel in minoribus
             ordinibus constitutus, sibi copulauit, cum qua continentiam professus est, cum ad sacros
@@ -167,11 +165,11 @@
             abicere, quin ei necessaria prouideat. Probatur autem hec interpretatio auctoritate
             Leonis Papae, qui [epist. XC. cap. 3.] scribens Rustico Narbonensi Episcopo ait:</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Ministris altaris* episcopis et presbiteris eadem lex est
+        <div xml:id="gd-p1d31-Dd1e258">
+          <head xml:id="gd-p1d31-Hd1e260">C. X.</head>
+          <head xml:id="gd-p1d31-Hd1e263" type="question-title">Ministris altaris* episcopis et presbiteris eadem lex est
             continentiae.</head>
-          <p>Lex continentiae eadem est altaris ministris, que episcopis aut presbiteris, qui cum
+          <p xml:id="gd-p1d31-d1e266">Lex continentiae eadem est altaris ministris, que episcopis aut presbiteris, qui cum
             essent laici siue lectores, licite et uxores ducere, et filios procreare potuerunt; sed
             cum ad predictos peruenerunt gradus, cepit eis non licere quod licuit. Unde, ut de
             carnali fiat spirituale coniugium, oportet eos nec dimittere uxores, sed qui habent
@@ -179,12 +177,12 @@
             opera nuptiarum.</p>
 
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Episcopus uel presbiter uxorem propriam a sua cura non
+        <div xml:id="gd-p1d31-Dd1e270">
+          <head xml:id="gd-p1d31-Hd1e272">C. XI.</head>
+          <head xml:id="gd-p1d31-Hd1e275" type="question-title">Episcopus uel presbiter uxorem propriam a sua cura non
             abiciat.</head>
-          <p>Item Leo IX.* contra epistolam Nicetae Abbatis9®.</p>
-          <p>Omnino confitemur, non licere episcopo, presbitero, diacono, propriam uxorem causa
+          <p xml:id="gd-p1d31-d1e278">Item Leo IX.* contra epistolam Nicetae Abbatis9®.</p>
+          <p xml:id="gd-p1d31-d1e281">Omnino confitemur, non licere episcopo, presbitero, diacono, propriam uxorem causa
             religionis abicere a cura sua, sed ut ei uictum et uestitum largiatur, sed non ut cum
             illa ex more carnaliter iaceat. Sic et sanctos apostolos legimus egisse, B. Paulo
             apostolo dicente: „Numquid non habemus** potestatem sororem mulierem circumducendi,
@@ -192,17 +190,17 @@
             potestatem sororem mulierem „ amplectendi ?“ sed „ circumducendi,scilicet ut mercede
             predicationis sustentaretur ab eis, nec tamen deinceps foret inter eos ulterius carnale
             coniugium.</p>
-          <p>Gratian. Hinc et illud Gregorii in dialogoS: ,,Presbiter quidam require infr. §. 1. Ut
+          <p xml:id="gd-p1d31-d1e284">Gratian. Hinc et illud Gregorii in dialogoS: ,,Presbiter quidam require infr. §. 1. Ut
             igitur ex his auctoritatibus apparet, sacerdotes, uxoribus, quas in laicali habitu uel
             in minoribus ordinibus constituti sibi legitime copularunt, necessaria subministrare
             debita uero reddere non ualent.</p>
-          <p>IV. Pars. §.2. Sed obicitur illud Tripartitae ystoriae, [libro II. capite 14.]</p>
+          <p xml:id="gd-p1d31-d1e288">IV. Pars. §.2. Sed obicitur illud Tripartitae ystoriae, [libro II. capite 14.]</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">Dissuasu Pahfnucii Nicena sinodus non constituit, ne
+        <div xml:id="gd-p1d31-Dd1e292">
+          <head xml:id="gd-p1d31-Hd1e294">C. XII.</head>
+          <head xml:id="gd-p1d31-Hd1e297" type="question-title">Dissuasu Pahfnucii Nicena sinodus non constituit, ne
             presbiteri cum suis uxoribus dormirent.</head>
-          <p>Nicena sinodus uolens corrigere uitam hominum in ecclesiis commorantium, posuit leges,
+          <p xml:id="gd-p1d31-d1e300">Nicena sinodus uolens corrigere uitam hominum in ecclesiis commorantium, posuit leges,
             quas canones uoca-mus, in quorum tractatu uidebatur aliquibus introducere legem, ut
             episcopi, presbiteri, diaconi, subdiaconi* cum coniugibus, quas ante consecrationem
             duxerunt non dormirent. Surgens autem Pahfnucius confessor contradixit, honorabiles
@@ -212,18 +210,18 @@
             esset inexpertus) exposuit, sinodusque laudauit sententiam eius, et nichil ex hac parte
             sanciuit, sed hoc in uniuscuiusque uoluntate, non necessitate permisit.</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Non in perpetuum, sed tempore oblationis a complexu suarum
+        <div xml:id="gd-p1d31-Dd1e305">
+          <head xml:id="gd-p1d31-Hd1e307">C. XIII.</head>
+          <head xml:id="gd-p1d31-Hd1e310" type="question-title">Non in perpetuum, sed tempore oblationis a complexu suarum
             uxorum sacerdotes abstineant.</head>
-          <p>Item VI. Sinodus, [cap. 13.]</p>
-          <p>Quoniam* in Romani ordine canonis esse traditum</p>
+          <p xml:id="gd-p1d31-d1e313">Item VI. Sinodus, [cap. 13.]</p>
+          <p xml:id="gd-p1d31-d1e316">Quoniam* in Romani ordine canonis esse traditum</p>
 
 
 
 
 
-          <p>cognouimus/ eos, qui ordinati sunt diaconi uel presbiteri, confiteri, quod iam non suis
+          <p xml:id="gd-p1d31-d1e319">cognouimus/ eos, qui ordinati sunt diaconi uel presbiteri, confiteri, quod iam non suis
             copulentur uxoribus: antiquum sequentes canonem apostolicae diligentiae et
             constitucionis, sacrorum uirorum legales nuptias amodo ualere uolumus, nullo modo cum
             uxoribus suis eorum conubia dissoluentes, aut priuantes eos familiaritate ad inuicem in
@@ -237,20 +235,20 @@
             legalis uxoris suae, deponatur. §. 3. Similiter et presbiter aut diaconus, qui
             religionis causa uxorem suam expellit, excommunicetur; si uero in hoc permanserit,
             deponatur.</p>
-          <p>Gratian. Hoc autem ex loco intelligendum est. Orientalis enim ecclesia, cui VI. sinodus
+          <p xml:id="gd-p1d31-d1e323">Gratian. Hoc autem ex loco intelligendum est. Orientalis enim ecclesia, cui VI. sinodus
             regulam uiuendi prescripsit, uotum castitatis in ministris altaris non suscepit.</p>
-          <p>Unde Stephanus Papa ait [in I. actione Sinodi, ab ipso in basilica Lateranensi
+          <p xml:id="gd-p1d31-d1e326">Unde Stephanus Papa ait [in I. actione Sinodi, ab ipso in basilica Lateranensi
             congregatae];</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">Occidentalis, non orientalis ecclesia castitatis obtulit
+        <div xml:id="gd-p1d31-Dd1e330">
+          <head xml:id="gd-p1d31-Hd1e332">C. XIV.</head>
+          <head xml:id="gd-p1d31-Hd1e335" type="question-title">Occidentalis, non orientalis ecclesia castitatis obtulit
             uotum.</head>
-          <p>V. Pars. Aliter se habet orientalium ecclesiarum traditio, aliter huius sanctae Romanae
+          <p xml:id="gd-p1d31-d1e338">V. Pars. Aliter se habet orientalium ecclesiarum traditio, aliter huius sanctae Romanae
             ecclesiae. Nam eorum sacerdotes, diaconi atquesubdiaconi matrimonio* copulantur; istius
             autem ecclesiae uel occidentalium nullus sacerdotum a subdiacono usque ad episcopum
             licentiam habet coniugium sortiendi.</p>
-          <p>VI. Pars. Gratian. Similiter et capitulum Nicolai ex loco consideratur, quia gens
+          <p xml:id="gd-p1d31-d1e341">VI. Pars. Gratian. Similiter et capitulum Nicolai ex loco consideratur, quia gens
             Bulgarorum nouiter conuersa ad fidem propositum sacrae religionis ex integro assumere
             nondum didicerat. §. 1. Quod autem in c. VI. sinodi presbiter non legitimis nuptiis
             detentus punitur, non legales nuptiae secundaeintelligendae sunt, a quibus auctoritate

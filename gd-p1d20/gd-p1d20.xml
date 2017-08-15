@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d20">
-        <head>DISTINCTIO XX.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Decretales itaque epistolae canonibus conciliorum pari iure exequantur. Nunc
+        <head xml:id="gd-p1d20-Hd1e103">DISTINCTIO XX.</head>
+        <p xml:id="gd-p1d20-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d20-d1e109">I. Pars. Decretales itaque epistolae canonibus conciliorum pari iure exequantur. Nunc
           autem queritur de expositoribussacrae scripturae, an exequeniur, an subiciantur eis? Quo
           enim quisque magis ratione nititur, eo maioris auctoritatis eius uerba esse uidentur.
           Plurimi autem tractatorum, sicut pleniori gratia Spiritus sancti, ita ampliori scientia
           aliis precellentes, rationi magis adhesisse probantur. Unde nonnullorum Pontificum
           constitutis Augustini, Ieronimi atque aliorum tractatorum dicta eis uidentur esse pre
           ferenda.</p>
-        <p>II. Pars. §. i. Sed aliud est causis terminum imponere aliud scripturas sacras diligenter
+        <p xml:id="gd-p1d20-d1e112">II. Pars. §. i. Sed aliud est causis terminum imponere aliud scripturas sacras diligenter
           exponere. Negotiis diffiniendis non solum est necessaria scientia, sed etiam potestas.
           Unde Christus dicturus Petr o; „ Quodcumque ligaueris super terram, erit ligatum et in
           celis, etc. prius dedit sibi claues regni celo-rum: in altera dans ei scientiam
@@ -75,13 +73,13 @@
           scripturarum tractatores, etsi scientia Pontificibus pre-mineant, tamen, quia dignitatis
           eorum apicem non sunt adepti, in sacrarum scripturarum expositionibus eis preponuntur, in
           causis uero diffiniendis secundum post eos locum merentur.</p>
-        <p>Unde Leo /F. scribit Brittanniae Episcopis:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Aliorum scripturae Romanorum Pontificum decretis non sunt
+        <p xml:id="gd-p1d20-d1e115">Unde Leo /F. scribit Brittanniae Episcopis:</p>
+        <div xml:id="gd-p1d20-Dd1e119">
+          <head xml:id="gd-p1d20-Hd1e121">C. I.</head>
+          <head xml:id="gd-p1d20-Hd1e124" type="question-title">Aliorum scripturae Romanorum Pontificum decretis non sunt
             preponendae.</head>
 
-          <p>De libellis et commentariis aliorum non conuenit aliquos iudicare, et sanctorum
+          <p xml:id="gd-p1d20-d1e127">De libellis et commentariis aliorum non conuenit aliquos iudicare, et sanctorum
             conciliorum canones relinquere uel"decretalium regulas, que habentur apud nos simul cum
             canonibus. Quibus in omnibus ecclesiasticis utimur iudiciis, id est apostolorum*,
             Nicenorum, Anciranorum, Neocesariensium, Gangrensium, Sardicen-sium, Cartaginensium **,
@@ -98,20 +96,20 @@
             conuincitur, nec catholicam et apostolicam fidem, nec sancta quatuor euangelia utiliter
             et efficaciter ad effectum suum retinere uel credere probatur.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Corripiendi sunt, qui decreta Romanorum Pontificum uel non
+        <div xml:id="gd-p1d20-Dd1e131">
+          <head xml:id="gd-p1d20-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d20-Hd1e136" type="question-title">Corripiendi sunt, qui decreta Romanorum Pontificum uel non
             habent, uel non obseruant.</head>
-          <p>Item Nicolaus Papa'clero Constantinopolitano:</p>
-          <p>Si decreta Romanorum Pontificum non habetis, de neglectu atque incuria estis arguendi.
+          <p xml:id="gd-p1d20-d1e139">Item Nicolaus Papa'clero Constantinopolitano:</p>
+          <p xml:id="gd-p1d20-d1e142">Si decreta Romanorum Pontificum non habetis, de neglectu atque incuria estis arguendi.
             Si uero habetis et non obseruatis, de temeritate estis corripiendi et increpandi.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Ad quos recurrendum sit, cum sacrae scripturae auctoritas non
+        <div xml:id="gd-p1d20-Dd1e146">
+          <head xml:id="gd-p1d20-Hd1e148">C. III.</head>
+          <head xml:id="gd-p1d20-Hd1e151" type="question-title">Ad quos recurrendum sit, cum sacrae scripturae auctoritas non
             occurrit.</head>
-          <p>Item Innocentius* Papa,</p>
-          <p>De quibus causis nulla soluendi ligandique auctoritas in libris ueteris testamenti,
+          <p xml:id="gd-p1d20-d1e154">Item Innocentius* Papa,</p>
+          <p xml:id="gd-p1d20-d1e157">De quibus causis nulla soluendi ligandique auctoritas in libris ueteris testamenti,
             quatuor euangeliorum cum totis scriptis apostolorum apareat, non ad diuina recurratur
             scripta greca. Si** nec in illis, ad catholicae ecclesiae historias catholicas, a
             doctoribus catholicis scriptas, manum mitte. Si nec in illis, sanctorum exempla

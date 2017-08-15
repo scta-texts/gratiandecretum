@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,18 +53,18 @@
     </front>
     <body>
       <div xml:id="gd-p1d51">
-        <head>DISTINCTIO LI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Ecce, quod criminosi, uel non uere penitentes, uel publicam penitenciam agentes,
+        <head xml:id="gd-p1d51-Hd1e103">DISTINCTIO LI.</head>
+        <p xml:id="gd-p1d51-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d51-d1e109">I. Pars. Ecce, quod criminosi, uel non uere penitentes, uel publicam penitenciam agentes,
           a sacris prohibentur ordinibus.Adiecit quoque sancta mater ecclesia, ut curiales, aut
           postbaptisma militantes, aut in foro decertantes, a sacris prohibeantur ordinibus.</p>
-        <p>Unde Innocentius ait [Papa Episcopis in Toletana.</p>
-        <p>Sinodo constitutis, epist. XXIV. c. 2.]</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Post baptisma militantes, uel in foro decertantes, a sacris
+        <p xml:id="gd-p1d51-d1e112">Unde Innocentius ait [Papa Episcopis in Toletana.</p>
+        <p xml:id="gd-p1d51-d1e115">Sinodo constitutis, epist. XXIV. c. 2.]</p>
+        <div xml:id="gd-p1d51-Dd1e119">
+          <head xml:id="gd-p1d51-Hd1e121">C. I</head>
+          <head xml:id="gd-p1d51-Hd1e124" type="question-title">. Post baptisma militantes, uel in foro decertantes, a sacris
             prohibentur ordinibus.</head>
-          <p>Aliquantos ex his, qui post acceptam baptismi gratiam in forensi exercitacione sunt
+          <p xml:id="gd-p1d51-d1e127">Aliquantos ex his, qui post acceptam baptismi gratiam in forensi exercitacione sunt
             uersati et obtinendi pertinaciam susceperunt, adscitos ad sacerdotium esse comperi-mus,
             e quorum numero aliqui perhibentur ad sacerdotiumassumi; aliquantos ex milicia, qui cum
             potestatibus obedie-runt, seua necessario precepta sunt exsecuti; aliquantos ex
@@ -80,21 +78,21 @@
             inponatur, eouidelicet constituto, ut, quicumque tales ordinati fuerint,cum
             ordinatoribus suis deponantur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De quibus laicis ad clericatum non possunt peruenire.</head>
-          <p>Idem Felici Episcopo Nuceriano, [epist. IV. c. 3.]</p>
-          <p>Designata sunt genera laicorum, de quibus ad clericatum aliqui peruenire non possunt,
+        <div xml:id="gd-p1d51-Dd1e131">
+          <head xml:id="gd-p1d51-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d51-Hd1e136" type="question-title">. De quibus laicis ad clericatum non possunt peruenire.</head>
+          <p xml:id="gd-p1d51-d1e139">Idem Felici Episcopo Nuceriano, [epist. IV. c. 3.]</p>
+          <p xml:id="gd-p1d51-d1e142">Designata sunt genera laicorum, de quibus ad clericatum aliqui peruenire non possunt,
             id est, si quis fidelis administrauerit. De curialibus autem manifesta ratioest, quoniam
             etsi inueniantur huiusmodi uiri, qui clericidebeant»fieri, tamen quoniam sepius ad
             curiam repetuntur, cauendum est ab his propter tribulationem, que sepe dehis ecclesiae
             prouenit.,</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Non admittantur curiales ad clericale offitium.</head>
-          <p>Idem [Victricio Episcopo Rothomagensi, epist. II. cap. ii.]</p>
-          <p>Preterea frequenter quidam ex fratribus nostris curiales uel quibuslibet publicis
+        <div xml:id="gd-p1d51-Dd1e146">
+          <head xml:id="gd-p1d51-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d51-Hd1e151" type="question-title">. Non admittantur curiales ad clericale offitium.</head>
+          <p xml:id="gd-p1d51-d1e154">Idem [Victricio Episcopo Rothomagensi, epist. II. cap. ii.]</p>
+          <p xml:id="gd-p1d51-d1e157">Preterea frequenter quidam ex fratribus nostris curiales uel quibuslibet publicis
             functionibus occupatos, clericos facere contendunt, pro quibus postea maior est
             tri-sticia, cum de reuocandis eis aliquid ab inperatore precipiti, quam gratia nascitur
             de ascito. Constat enim eosin ipsis muneribus etiam uoluptates exhibere, quas adiabolo
@@ -104,25 +102,25 @@
             cognouisti, quibus non solum inferiores clerici ex curialibus, uerum etiamiam in
             sacerdotio constituti ingens molestia ut redderentur instabat.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Non promoneatur ad diaconatum, qui post baptismum ad fideles
+        <div xml:id="gd-p1d51-Dd1e161">
+          <head xml:id="gd-p1d51-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d51-Hd1e166" type="question-title">. Non promoneatur ad diaconatum, qui post baptismum ad fideles
             necandum accinctus fuerit.</head>
-          <p>Item ex Concilio Tollet ano I. [cap. 8.]</p>
-          <p>Si quis post acceptum baptismum militauerit, et cla-midem sumpserit ac cingulum ad
+          <p xml:id="gd-p1d51-d1e169">Item ex Concilio Tollet ano I. [cap. 8.]</p>
+          <p xml:id="gd-p1d51-d1e172">Si quis post acceptum baptismum militauerit, et cla-midem sumpserit ac cingulum ad
             necandum fideles*, etiamsi grauia non admiserit, si ad clerum admissus fuerit,diaconii
             non accipiat dignitatem.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. A quibus debet esse inmunis, qui in episcopum est
+        <div xml:id="gd-p1d51-Dd1e176">
+          <head xml:id="gd-p1d51-Hd1e178">C. V</head>
+          <head xml:id="gd-p1d51-Hd1e181" type="question-title">. A quibus debet esse inmunis, qui in episcopum est
             ordinandus.</head>
-          <p>Item ex Tolletano Concilio IV. [cap. 19.]</p>
-          <p>Qui in aliquo crimine detenti sunt, qui infamiae nota aspersi sunt, qui scelera aliqua
+          <p xml:id="gd-p1d51-d1e184">Item ex Tolletano Concilio IV. [cap. 19.]</p>
+          <p xml:id="gd-p1d51-d1e187">Qui in aliquo crimine detenti sunt, qui infamiae nota aspersi sunt, qui scelera aliqua
             per publicam penitenciamse admisisse confessi sunt, qui in heresim sunt lapsi, quiin
             heresi baptizati aut rebaptizati esse noscuntur, quisemetipsos absciderunt aut qui
             naturali defectu mem-</p>
-          <p>brorum aliquid * minus habere noscuntur, qui secundae uxoris coniunctionem sortiti sunt
+          <p xml:id="gd-p1d51-d1e190">brorum aliquid * minus habere noscuntur, qui secundae uxoris coniunctionem sortiti sunt
             aut numerosa coniugiafrequentauerunt, qui uiduam uel a marito relictam duxerunt aut
             corruptarum mariti fuerunt, qui concubinas autfornicarias** habuerunt,qui seruili
             condicioni obnoxii sunt,qui ignoti sunt, qui neophiti uel laici sunt, qui seculari

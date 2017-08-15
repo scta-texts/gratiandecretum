@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,26 +53,26 @@
     </front>
     <body>
       <div xml:id="gd-p1d3">
-        <head>DISTINCTIO III.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Omnes lie species secularium legum partes sunt. Sed quia constitutio alia est
+        <head xml:id="gd-p1d3-Hd1e103">DISTINCTIO III.</head>
+        <p xml:id="gd-p1d3-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d3-d1e109">I. Pars. Omnes lie species secularium legum partes sunt. Sed quia constitutio alia est
           ciuilis, alia ecclesiastica: ciuilis uero forense uel ciuile ius appellatur, quo nomine
           ecclesiastica constitutio appelletur, uideamus. §. 1. Ecclesiastica constitutio' nomine
           canonis censetur. Quid autem canon sit Ysidorus in lib. VI. Ethim. [c. 16.] declarat
           dicens:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Quid sit canon.</head>
-          <p>Canon grece, latine regula nuncupatur.</p>
+        <div xml:id="gd-p1d3-Dd1e112">
+          <head xml:id="gd-p1d3-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d3-Hd1e117" type="question-title">Quid sit canon.</head>
+          <p xml:id="gd-p1d3-d1e120">Canon grece, latine regula nuncupatur.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Unde regula dicatur.</head>
-          <p>[Isidor. eod. c. 16.]</p>
-          <p>Regula dicta est eo quod recte ducit, nec aliquando aliorsum trahit. Alii dixerunt
+        <div xml:id="gd-p1d3-Dd1e124">
+          <head xml:id="gd-p1d3-Hd1e126">C. II.</head>
+          <head xml:id="gd-p1d3-Hd1e129" type="question-title">Unde regula dicatur.</head>
+          <p xml:id="gd-p1d3-d1e132">[Isidor. eod. c. 16.]</p>
+          <p xml:id="gd-p1d3-d1e135">Regula dicta est eo quod recte ducit, nec aliquando aliorsum trahit. Alii dixerunt
             regulam dictam, uel quod regat, uel normam recte uiuendi prebeat, uel quod distortum
             prauumque est corrigat.</p>
-          <p>II. Pars. Gratian. Porro canonum alii sunt decreta Pontificum, alii statuta
+          <p xml:id="gd-p1d3-d1e138">II. Pars. Gratian. Porro canonum alii sunt decreta Pontificum, alii statuta
             conciliorum. Conciliorum uero alia sunt uniuersalia, alia prouincialia. Prouincialium
             alia celebrantur auctoritate Romani Pontificis, presente uidelicet legato sanctae
             Romanae ecclesiae; alia uero auctoritate patriarcharum, uel</p>
@@ -83,25 +81,25 @@
 
 
 
-          <p>primatum, uel metropolitanorum eiusdem prouinciae. Hec quidem de generalibus regulis
+          <p xml:id="gd-p1d3-d1e142">primatum, uel metropolitanorum eiusdem prouinciae. Hec quidem de generalibus regulis
             intelligenda sunt.</p>
-          <p>§. i. Sunt autem quedam priuatae leges, tam ecclesiasticae quam seculares, que
+          <p xml:id="gd-p1d3-d1e145">§. i. Sunt autem quedam priuatae leges, tam ecclesiasticae quam seculares, que
             priuilegia appellantur. De quibus in V.lib. Ethim. [cap. 18.] Ysidorus ait:</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Quid sit priuilegium.</head>
-          <p>Priuilegia sunt leges priuatorum, quasi priuatae leges. Nam priuilegium* inde dictum
+        <div xml:id="gd-p1d3-Dd1e150">
+          <head xml:id="gd-p1d3-Hd1e152">C. III.</head>
+          <head xml:id="gd-p1d3-Hd1e155" type="question-title">Quid sit priuilegium.</head>
+          <p xml:id="gd-p1d3-d1e158">Priuilegia sunt leges priuatorum, quasi priuatae leges. Nam priuilegium* inde dictum
             est, quod in priuato feratur.</p>
-          <p>III. Pars. Gratianus. Officium uero secularium, siue ecclesiasticarum legum est,
+          <p xml:id="gd-p1d3-d1e161">III. Pars. Gratianus. Officium uero secularium, siue ecclesiasticarum legum est,
             precipere quod necesse est fieri**, prohibere quod malum est fieri; permittere uel
             licita, ut premium petere, uel quedam illicita, ut dare libellum repudii, ne fiant
             grauiora. Unde in eod.lib. [c.19.] Ysidorus scribit dicens:</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Quid sit officium legum .</head>
-          <p>Omnis autem lex aut permittit aliquid, ut: uir fortis petat premium; aut uetat, ut:
+        <div xml:id="gd-p1d3-Dd1e165">
+          <head xml:id="gd-p1d3-Hd1e167">C. IV.</head>
+          <head xml:id="gd-p1d3-Hd1e170" type="question-title">Quid sit officium legum .</head>
+          <p xml:id="gd-p1d3-d1e173">Omnis autem lex aut permittit aliquid, ut: uir fortis petat premium; aut uetat, ut:
             sacrarum uirginum nuptias nulli petere liceat: aut punit, ut: qui cedem fecerit, capite
             plectatur; eius enim premio aut pena uita moderatur humana; aut precipiti ut*: ,,Dilige
             Dominum Deum tuum.“</p>

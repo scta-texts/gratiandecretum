@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,30 +53,30 @@
     </front>
     <body>
       <div xml:id="gd-p1d88">
-        <head>DISTINCTIO LXXXVIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Prohibentur ergo clerici cupiditatis negocia suscipere, non pietatis curam
+        <head xml:id="gd-p1d88-Hd1e103">DISTINCTIO LXXXVIII.</head>
+        <p xml:id="gd-p1d88-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d88-d1e109">I. Pars. Prohibentur ergo clerici cupiditatis negocia suscipere, non pietatis curam
           uiduis et orphanis inpendere.</p>
-        <p>Unde Melciades Papa*:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Decreuit sancta sinodus, nullum deinceps clericum aut possessiones conducere,aut
+        <p xml:id="gd-p1d88-d1e112">Unde Melciades Papa*:</p>
+        <div xml:id="gd-p1d88-Dd1e115">
+          <head xml:id="gd-p1d88-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d88-Hd1e120" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d88-d1e123">Decreuit sancta sinodus, nullum deinceps clericum aut possessiones conducere,aut
             negociis secularibus se miscere,nisi propter curam aut pupillorum aut orphanorum
             autuiduarum, aut si forte episcopus ciuitatis ecclesiasticarumrerum sollicitudinem eum
             habere precipiat. Ubi patet,quia alia sunt negocia secularia, alia ecclesiastica.
             Nonne*Moyses in seculo erat, cum crebro intraret tabernaculum, etexiret, qui intus
             contemplatione rapiebatur, foris infirmantium negociis urgebatur? Sic et Iacob
             ascendentes etdescendentes angelos uidit, quia rectores ecclesiae non</p>
-          <p>solum contemplandos ascendunt*, sed deorsum quoque ad membra illius miserando
+          <p xml:id="gd-p1d88-d1e126">solum contemplandos ascendunt*, sed deorsum quoque ad membra illius miserando
             descendunt. Et dum sacerdotes horum facta imitantur, et se custodiunt, et
             subditorumonera portant.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Gelasius [Papa ad Episcopos per Lucaniam, c. 17.]</p>
-          <p>Consequens est, ut illa quoque, que de Piceni partibus nuper ad nos missa relatio
+        <div xml:id="gd-p1d88-Dd1e131">
+          <head xml:id="gd-p1d88-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d88-Hd1e136" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d88-d1e139">Item Gelasius [Papa ad Episcopos per Lucaniam, c. 17.]</p>
+          <p xml:id="gd-p1d88-d1e142">Consequens est, ut illa quoque, que de Piceni partibus nuper ad nos missa relatio
             nuntiauit, non pretereunda putaremus, id est, plurimos clericorum negotiationibus
             inhonestis et turpibus lucris inminere, nullo pudore censentes euangelicam lectionem,
             qua ipse Dominus negotiatores ex templo uerberatos asseritur expulisse, necApostoli
@@ -90,19 +88,19 @@
             abstinere,uoniam domus Dei domus orationis et esse debet etici, ne per offitia
             negotiationis potius sit latronumspelunca.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. ih sacris ordinibus constituti, seculares curas assumere non
+        <div xml:id="gd-p1d88-Dd1e146">
+          <head xml:id="gd-p1d88-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d88-Hd1e151" type="question-title">. ih sacris ordinibus constituti, seculares curas assumere non
             debent.</head>
-          <p>Item ex [Septimo] canone Apostolorum.</p>
-          <p>Episcopus, aut sacerdos, aut diaconus nequaquam seculares curas assumant; sin aliter,
+          <p xml:id="gd-p1d88-d1e154">Item ex [Septimo] canone Apostolorum.</p>
+          <p xml:id="gd-p1d88-d1e157">Episcopus, aut sacerdos, aut diaconus nequaquam seculares curas assumant; sin aliter,
             deiciantur^</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Episcopus secularibus causis non debet occupari.</head>
-          <p>Item Gregorius Romano DefensoiI, [1. VIII. ep. n.]</p>
-          <p>Perlatum est ad nos, reuerentissimum fratrem nostrum Basilium episcopum uelud unum de
+        <div xml:id="gd-p1d88-Dd1e161">
+          <head xml:id="gd-p1d88-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d88-Hd1e166" type="question-title">. Episcopus secularibus causis non debet occupari.</head>
+          <p xml:id="gd-p1d88-d1e169">Item Gregorius Romano DefensoiI, [1. VIII. ep. n.]</p>
+          <p xml:id="gd-p1d88-d1e172">Perlatum est ad nos, reuerentissimum fratrem nostrum Basilium episcopum uelud unum de
             laicis in causis secularibus occupari, et pretoriis inutiliter obseruare. Queres quoniam
             et ipsum uilem reddit, et reuerentiam sacerdotalem adnichilat, statim ut experientia tua
             hoc preceptumsusceperit, ad reuertendum eum districta executioneconpellat, quatinus ei
@@ -110,50 +108,50 @@
             quolibetmodo eum ibidem amplius moram habere permiseris, cumipso apud nos grauiter
             incipias esse culpabilis.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Testamentorum tuicionem et curam familiaris rei episcopus
+        <div xml:id="gd-p1d88-Dd1e176">
+          <head xml:id="gd-p1d88-Hd1e178">C. V</head>
+          <head xml:id="gd-p1d88-Hd1e181" type="question-title">. Testamentorum tuicionem et curam familiaris rei episcopus
             non suscipiat.</head>
-          <p>Item ex Concilio Cartaginensi IV. [c. 18.].</p>
-          <p>Episcopus tuicionem testamentorum non suscipiat.</p>
-          <p>[C. VI.]</p>
-          <p>Item ex eodem, [c. 20.]</p>
-          <p>Episcopus nullam rei familiaris curam ad se reupcet, sed lectioni et orationi et uerbo
+          <p xml:id="gd-p1d88-d1e184">Item ex Concilio Cartaginensi IV. [c. 18.].</p>
+          <p xml:id="gd-p1d88-d1e187">Episcopus tuicionem testamentorum non suscipiat.</p>
+          <p xml:id="gd-p1d88-d1e190">[C. VI.]</p>
+          <p xml:id="gd-p1d88-d1e194">Item ex eodem, [c. 20.]</p>
+          <p xml:id="gd-p1d88-d1e197">Episcopus nullam rei familiaris curam ad se reupcet, sed lectioni et orationi et uerbo
             predicationis tantummodo uacet.</p>
-          <p>[C. VII.] .</p>
-          <p>Item ex eodem, [c. 17.]</p>
-          <p>Episcopus gubernationem uiduarum et pupillorum ac peregrinorum non per se ipsum, sed
+          <p xml:id="gd-p1d88-d1e200">[C. VII.] .</p>
+          <p xml:id="gd-p1d88-d1e203">Item ex eodem, [c. 17.]</p>
+          <p xml:id="gd-p1d88-d1e206">Episcopus gubernationem uiduarum et pupillorum ac peregrinorum non per se ipsum, sed
             per archipresbite-rum aut archidiaconem agat.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Ratiociniorum causas clericus non debet assumere.</head>
-          <p>Item Gregorius Quertino^prefecto&amp;b, [epist. 30. lib. X.]</p>
-          <p>Inutile et ualde laboriosum est, hominem litteratum ratiociniorum causas assumere, et
+        <div xml:id="gd-p1d88-Dd1e210">
+          <head xml:id="gd-p1d88-Hd1e212">C. VIII</head>
+          <head xml:id="gd-p1d88-Hd1e215" type="question-title">. Ratiociniorum causas clericus non debet assumere.</head>
+          <p xml:id="gd-p1d88-d1e218">Item Gregorius Quertino^prefecto&amp;b, [epist. 30. lib. X.]</p>
+          <p xml:id="gd-p1d88-d1e221">Inutile et ualde laboriosum est, hominem litteratum ratiociniorum causas assumere, et
             in eis, quod non expedit, se obligare.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Fugiendus est clericus negotiator.</head>
-          <p>Item Ieronimus [ad Nepoti anum de uita clericorum].</p>
-          <p>Negotiatorem clericum, ex inope diuitem et ex ignobili gloriosum, quasi quasdam pestes
+        <div xml:id="gd-p1d88-Dd1e225">
+          <head xml:id="gd-p1d88-Hd1e227">C. IX</head>
+          <head xml:id="gd-p1d88-Hd1e230" type="question-title">. Fugiendus est clericus negotiator.</head>
+          <p xml:id="gd-p1d88-d1e233">Item Ieronimus [ad Nepoti anum de uita clericorum].</p>
+          <p xml:id="gd-p1d88-d1e236">Negotiatorem clericum, ex inope diuitem et ex ignobili gloriosum, quasi quasdam pestes
             fuge.</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Clerico negotiari non licet.</head>
-          <p>Item Augustinus in libro questionum ueteris et noui testamenti, [cap. 127.] </p>
-          <p>Fornicari hominibus semper non licet, negotiari uero aliquando licet, aliquando non
+        <div xml:id="gd-p1d88-Dd1e241">
+          <head xml:id="gd-p1d88-Hd1e243">C. X</head>
+          <head xml:id="gd-p1d88-Hd1e246" type="question-title">. Clerico negotiari non licet.</head>
+          <p xml:id="gd-p1d88-d1e249">Item Augustinus in libro questionum ueteris et noui testamenti, [cap. 127.] </p>
+          <p xml:id="gd-p1d88-d1e252">Fornicari hominibus semper non licet, negotiari uero aliquando licet, aliquando non
             licet; antequam enim ecclesiasticus quis sit, licet ei negotiari; facto iam non
             licet.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d88-d1e255">[PALE A.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Iohannes Chrysostomus super Matthaeum (id est auctor operis imperfecti, hom.
+        <div xml:id="gd-p1d88-Dd1e259">
+          <head xml:id="gd-p1d88-Hd1e261">C. XI</head>
+          <head xml:id="gd-p1d88-Hd1e264" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d88-d1e267">Item Iohannes Chrysostomus super Matthaeum (id est auctor operis imperfecti, hom.
             XXXVIII.ad c.21. Matth.) *</p>
-          <p>Eiciens Dominus uendentes et ementes de templo, signi-ficauit, quia homo mercator uix
+          <p xml:id="gd-p1d88-d1e270">Eiciens Dominus uendentes et ementes de templo, signi-ficauit, quia homo mercator uix
             aut numquam potest Deo placere. Et ideo nullus Christianus debet esse mercator, aut, si
             uoluerit esse, proiciatur de ecclesia Dei, dicentePropheta: ,,Quia non cognoui
             negotiationes, introibo inpotentias Domini.“ Quemadmodum enim qui ambulat interduos
@@ -165,7 +163,7 @@
             grana omnia paulatimdeorsum cadunt, et tandem in cribro nichil remanet, nisistercus
             solum: sic de substantia negotiatorum nouissimenil remanet, nisi solum peccatum. §. 2.
             Sed omnes homines uidentur esse mercatores; ostendam ergo, quis non</p>
-          <p>est negotiator, ut qui talis non fuerit, eum intelligas esse negotiatorem. Quicumque
+          <p xml:id="gd-p1d88-d1e273">est negotiator, ut qui talis non fuerit, eum intelligas esse negotiatorem. Quicumque
             rem conparat, non ut ipsamrem integram et inmutatam uendat, sed ut materia sibisit inde
             aliquid operandi, ille non est negotiator; qui autemconparat rem, ut illam ipsam
             integram et inmutatamdando lucretur, ille est mercator, qui de templo Deieicitur. §. 3.
@@ -187,14 +185,14 @@
             templo Dei non debent essenummi, nisi spirituales, id est, qui Dei imaginem, non
             diaboli, portant. Aut certe mensas nummularioum sacerdotum dicit scripturas. Nouo enim
             testamento succedentepriori, euersae sunt scripturae illorum.]</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d88-d1e277">[PALE A.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex uerbis Augustini, (hinc inde collectis, et in summam redactis ad Psal. LXX.
+        <div xml:id="gd-p1d88-Dd1e281">
+          <head xml:id="gd-p1d88-Hd1e283">C. XII</head>
+          <head xml:id="gd-p1d88-Hd1e286" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d88-d1e289">Item ex uerbis Augustini, (hinc inde collectis, et in summam redactis ad Psal. LXX.
             uers. Quoniamnon cognoui.)</p>
-          <p>„ Quoniam non cognoui litteraturam: “ Aliqui codices habent ,,negotiationesin quo
+          <p xml:id="gd-p1d88-d1e292">„ Quoniam non cognoui litteraturam: “ Aliqui codices habent ,,negotiationesin quo
             diuersitas interpretum sensum ostendit, non errorem inducit. Ergo si proptereaiste tota
             die laudem Dei dicit, quia non cognouit negotiationes, corrigant se Christiani, non
             negotientur. Sedait mihi negotiator: Affero ex longinquo merces, merce-dem laboris mei,
@@ -215,24 +213,24 @@
             an-nunciabit iustitiam tuam.“ Unde et Dominus expulitillos de templo, uolentes suam
             iustitiam statuere et ignorantes iustitiam Dei. Merito dictum negotium, quia negatotium,
             quod malum est, neque querit ueram quietem, queest Deus.]</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d88-d1e295">[PALE A.</p>
         </div>
-        <div>
-          <head>C. XIII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Cassiodorusin eundem Psalmum LXX. in eundem uersiculum.</p>
-          <p>Quid est aliud negotium, nisi que possint uilius conparari carius uelle distrahere? Et
+        <div xml:id="gd-p1d88-Dd1e299">
+          <head xml:id="gd-p1d88-Hd1e301">C. XIII</head>
+          <head xml:id="gd-p1d88-Hd1e304" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d88-d1e307">Item Cassiodorusin eundem Psalmum LXX. in eundem uersiculum.</p>
+          <p xml:id="gd-p1d88-d1e310">Quid est aliud negotium, nisi que possint uilius conparari carius uelle distrahere? Et
             infra: Negotiatores ergo illi abhominabiles existimantur, qui iustitiamDei minime
             considerantes per inmoderatum pecuniaeambitum polluuntur, merces suas plus periuriis
             onerandoquam preciis. Tales eiecit Dominus de templo, dicens:„ Nolite facere domum
             patris mei domum negotiationis/]</p>
         </div>
-        <div>
-          <head>C. XIV</head>
-          <head type="question-title">. Nomine sacerdotis careat, qui Dei ministros a suis euocat
+        <div xml:id="gd-p1d88-Dd1e314">
+          <head xml:id="gd-p1d88-Hd1e316">C. XIV</head>
+          <head xml:id="gd-p1d88-Hd1e319" type="question-title">. Nomine sacerdotis careat, qui Dei ministros a suis euocat
             offitiis.</head>
-          <p>Item Cyprianus [ad Clerum et plebem Furnitanorum, lib. I. epist. 9.J</p>
-          <p>II. Pars. Neque apud altare Dei merentur nominariin sacerdotum prece, qui ab altari
+          <p xml:id="gd-p1d88-d1e322">Item Cyprianus [ad Clerum et plebem Furnitanorum, lib. I. epist. 9.J</p>
+          <p xml:id="gd-p1d88-d1e325">II. Pars. Neque apud altare Dei merentur nominariin sacerdotum prece, qui ab altari
             sacerdotes et ministrosuoluerint auocare. Et ideo Victor, cum contra formamnuper in
             concilio a sacerdotibus datam Geminum Fau-stinum presbiterum ausus sit tutorem
             constituere, apuduos ob dormicionem eius non fiat oblatio, aut aliquadeprecatio pro

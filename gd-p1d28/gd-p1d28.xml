@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,17 +53,17 @@
     </front>
     <body>
       <div xml:id="gd-p1d28">
-        <head>DISTINCTIO XXVIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Ecce ostensum est, quod nolentes continentiam, nec ad subdiaconatum, nec ad
+        <head xml:id="gd-p1d28-Hd1e103">DISTINCTIO XXVIII.</head>
+        <p xml:id="gd-p1d28-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d28-d1e109">I. Pars. Ecce ostensum est, quod nolentes continentiam, nec ad subdiaconatum, nec ad
           superiores gradus conscendere possunt. Unde ad [subdiaconatum accedentes, non sine uoto
           castitatis iubentur admitti, auctoritate B. Gregorii, qui scribens Petro Subdiacono [lib.
           I. epistola 42. in fine] ait:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Non fiat subdiaconus, qui se caste uicturum non
+        <div xml:id="gd-p1d28-Dd1e112">
+          <head xml:id="gd-p1d28-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d28-Hd1e117" type="question-title">Non fiat subdiaconus, qui se caste uicturum non
             promittit.</head>
-          <p>Nullum facere subdiaconum presumant episcopi, nisi qui se uicturum caste promiserit:
+          <p xml:id="gd-p1d28-d1e120">Nullum facere subdiaconum presumant episcopi, nisi qui se uicturum caste promiserit:
             quia nullus debet ad ministerium altaris accedere, nisi cuius castitas ante susceptum
             ministerium fuerit approbata.</p>
 
@@ -74,43 +72,43 @@
 
 
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Subdiaconus et supra constituti incontinentes, uxorem aut
+        <div xml:id="gd-p1d28-Dd1e124">
+          <head xml:id="gd-p1d28-Hd1e126">C. II.</head>
+          <head xml:id="gd-p1d28-Hd1e129" type="question-title">Subdiaconus et supra constituti incontinentes, uxorem aut
             concubinam ducentes, ecclesiastico beneficio et offitio careant.</head>
-          <p>Jtem Innocentius II.*</p>
-          <p>Decernimus, ut hi, qui in ordine subdiaconatus et supra uxores duxerint aut concubinas
+          <p xml:id="gd-p1d28-d1e132">Jtem Innocentius II.*</p>
+          <p xml:id="gd-p1d28-d1e135">Decernimus, ut hi, qui in ordine subdiaconatus et supra uxores duxerint aut concubinas
             habuerint, offitio atque ecclesiastico beneficio careant. Cum enim ipsi templum, uasa
             Domini, sacrarium Spiritus sancti debeant esse et dici, indignum est, eos cubilibus et
             immunditiis deseruire.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Caste se uicturos promittant qui in diaconos uel presbiteros
+        <div xml:id="gd-p1d28-Dd1e140">
+          <head xml:id="gd-p1d28-Hd1e142">C. III.</head>
+          <head xml:id="gd-p1d28-Hd1e145" type="question-title">Caste se uicturos promittant qui in diaconos uel presbiteros
             ordinantur^**.</head>
-          <p>Item ex Concilio Tollet ano F.</p>
-          <p>II. Pars. Quando presbiteri et diacones per parro-chias constituuntur, oportet eos
+          <p xml:id="gd-p1d28-d1e148">Item ex Concilio Tollet ano F.</p>
+          <p xml:id="gd-p1d28-d1e151">II. Pars. Quando presbiteri et diacones per parro-chias constituuntur, oportet eos
             professionem episcoposuo facere, ut caste et pure uiuant sub timore Dei, ut, dum eos
             talis professio obligat, uitae sanctae disciplinam retineant.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Qui longam sui corporis continentiam non habet, in episcopum
+        <div xml:id="gd-p1d28-Dd1e155">
+          <head xml:id="gd-p1d28-Hd1e157">C. IV.</head>
+          <head xml:id="gd-p1d28-Hd1e160" type="question-title">Qui longam sui corporis continentiam non habet, in episcopum
             eligi non debet.</head>
-          <p>Item Gregorius nobilibus ciuibus Neapolim,</p>
-          <p>[lib. VIII. epist. 40.]</p>
-          <p>III. Pars. Priusquam ad nos scripta uestra discurrerent», Iohannem diaconum, qui ab
+          <p xml:id="gd-p1d28-d1e163">Item Gregorius nobilibus ciuibus Neapolim,</p>
+          <p xml:id="gd-p1d28-d1e166">[lib. VIII. epist. 40.]</p>
+          <p xml:id="gd-p1d28-d1e169">III. Pars. Priusquam ad nos scripta uestra discurrerent», Iohannem diaconum, qui ab
             altera parte electus est, paruulam habere filiam, quorumdam relatione cogno-uimus; unde,
             si rationem uoluissent attendere, nec aliieum eligere, nec ipse debuerat consentire. Nam
             qua presumptione ad episcopatum audet accedere, qui adhuc longam corporis sui
             continentiam, filia * teste, conuin-citur non habere ?</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Ad subdiaconatum accessuri continentiam profiteantur.</head>
-          <p>Item ex Concilio Tollet ano II. [c. i.]</p>
+        <div xml:id="gd-p1d28-Dd1e173">
+          <head xml:id="gd-p1d28-Hd1e175">C. V.</head>
+          <head xml:id="gd-p1d28-Hd1e178" type="question-title">Ad subdiaconatum accessuri continentiam profiteantur.</head>
+          <p xml:id="gd-p1d28-d1e181">Item ex Concilio Tollet ano II. [c. i.]</p>
 
-          <p>IV. Pars. De his, quos uoluntas parentum a primis infantiae annis clericatus* offitio
+          <p xml:id="gd-p1d28-d1e184">IV. Pars. De his, quos uoluntas parentum a primis infantiae annis clericatus* offitio
             manciparit, id statuimus obseruandum, ut mox detonsi, uel ministerio** lectorum
             contraditi, in domo ecclesiae sub episcopali presentia a preposito sibi debeant erudiri.
             At ubi octa-uum decimum etatis suae compleuerint annum, coram totius cleri plebisque
@@ -128,55 +126,55 @@
             renunciaturos se pari consensu operibus carnis spoponderint, ad <sub>(</sub>sacros
             ordines aspirent.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">In coniugio constitutus ad sacerdotium assumi non
+        <div xml:id="gd-p1d28-Dd1e191">
+          <head xml:id="gd-p1d28-Hd1e193">C. VI.</head>
+          <head xml:id="gd-p1d28-Hd1e196" type="question-title">In coniugio constitutus ad sacerdotium assumi non
             debet.</head>
-          <p>Item ex Concilio Arelatensi II. [c. 2.]</p>
-          <p>V. Pars. Assumi aliquem ad sacerdotium in coniugii uinculo constitutum non oportet,
+          <p xml:id="gd-p1d28-d1e199">Item ex Concilio Arelatensi II. [c. 2.]</p>
+          <p xml:id="gd-p1d28-d1e202">V. Pars. Assumi aliquem ad sacerdotium in coniugii uinculo constitutum non oportet,
             nisi fuerit promissaconuersio.</p>
         </div>
-        <div>
-          <head>C. VII, Non ordinentur Diaconi, qui castitatem non</head>
-          <head type="question-title">profitentur.</head>
-          <p>Item ex eodem III.</p>
-          <p>Preterea* placuit, ut deinceps non ordinentur diacones coniugati, nisi qui prius
+        <div xml:id="gd-p1d28-Dd1e206">
+          <head xml:id="gd-p1d28-Hd1e208">C. VII, Non ordinentur Diaconi, qui castitatem non</head>
+          <head xml:id="gd-p1d28-Hd1e211" type="question-title">profitentur.</head>
+          <p xml:id="gd-p1d28-d1e214">Item ex eodem III.</p>
+          <p xml:id="gd-p1d28-d1e217">Preterea* placuit, ut deinceps non ordinentur diacones coniugati, nisi qui prius
             conuersionis proposito confessi fuerint castitatem.</p>
-          <p>Gratian. Verum illa priori auctoritate diaconibus uidetur permitti coniugium, cum ad
+          <p xml:id="gd-p1d28-d1e220">Gratian. Verum illa priori auctoritate diaconibus uidetur permitti coniugium, cum ad
             sacerdotium tantum coniugati prohibentur assumi. Porro sequenti uidetur permitti
             subdiaconi-bus, cum de diaconibus specialiter preripitur, ut sine probatione castitatis
             non ordinentur.</p>
-          <p>Hoc idem in An chir it an a Sinodo uidetur esse permissum, in qua [c. io.] sic statutum
+          <p xml:id="gd-p1d28-d1e224">Hoc idem in An chir it an a Sinodo uidetur esse permissum, in qua [c. io.] sic statutum
             est:</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Diaconi non prohibeantur a ministerio pro nuptiis, si in
+        <div xml:id="gd-p1d28-Dd1e228">
+          <head xml:id="gd-p1d28-Hd1e230">C. VIII.</head>
+          <head xml:id="gd-p1d28-Hd1e233" type="question-title">Diaconi non prohibeantur a ministerio pro nuptiis, si in
             ordinatione dicunt, se continere non posse.</head>
-          <p>Diaconi quicumque ordinantur, si in ipsa ordinatione protestati sunt, dicentes, se
+          <p xml:id="gd-p1d28-d1e236">Diaconi quicumque ordinantur, si in ipsa ordinatione protestati sunt, dicentes, se
             uelle habere uxores, nec posse se continere, hi, si postea ad nuptias uenerint,</p>
 
 
 
 
 
-          <p>maneant in ministerio, propterea quod his licentiam dederit episcopus. Quicumque sane
+          <p xml:id="gd-p1d28-d1e239">maneant in ministerio, propterea quod his licentiam dederit episcopus. Quicumque sane
             tacuerint, et susceperintmanus inpositionem professi continentiam, si postea ad nuptias
             conuenerint, a ministerio cessare debent.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Presbiter ducens uxorem, ab ordine deponatur™.</head>
-          <p>Item ex Concilio Neocesariensi, [c. i.]</p>
-          <p>VI. Pars. Presbiter si uxorem duxerit, ab ordine illum» deponi debere. Quod si
+        <div xml:id="gd-p1d28-Dd1e244">
+          <head xml:id="gd-p1d28-Hd1e246">C. IX.</head>
+          <head xml:id="gd-p1d28-Hd1e249" type="question-title">Presbiter ducens uxorem, ab ordine deponatur™.</head>
+          <p xml:id="gd-p1d28-d1e252">Item ex Concilio Neocesariensi, [c. i.]</p>
+          <p xml:id="gd-p1d28-d1e255">VI. Pars. Presbiter si uxorem duxerit, ab ordine illum» deponi debere. Quod si
             fornicatus fuerit, uel adulterium commiserit, extra ecclesiam abici et ad penitentiam
             inter laicos* redigi oportet.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">De eo, qui relictam cuiusdam diaconi duxit uxorem.</head>
-          <p>Item Gregorius [lib. XI. epist. 59.]</p>
-          <p>VII. Pars. Quia sunt culpae, in quibus culpa est relaxare uindictam, querenda est
+        <div xml:id="gd-p1d28-Dd1e259">
+          <head xml:id="gd-p1d28-Hd1e261">C. X.</head>
+          <head xml:id="gd-p1d28-Hd1e264" type="question-title">De eo, qui relictam cuiusdam diaconi duxit uxorem.</head>
+          <p xml:id="gd-p1d28-d1e267">Item Gregorius [lib. XI. epist. 59.]</p>
+          <p xml:id="gd-p1d28-d1e270">VII. Pars. Quia sunt culpae, in quibus culpa est relaxare uindictam, querenda est
             semper ueritas, ut inquiri debeat, utrum accusatum noxa condempnet, an a pena innocentia
             patefacta subducat. Itaque peruenit ad nos, Fantinumdefensorem ultionem exercere in
             Petrum latorem presentium uoluisse, pro eo, quod (quantum dicitur) relictam cuiusdam
@@ -192,29 +190,29 @@
             ex nostro mandato commonere te uolumus, ut ei facere nil presumat, nrcfalsa illum
             accusatione in aliquo pregrauet.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">De uxore presbiteri uel diaconisi alii se coniunxerit.</head>
-          <p>Item ex Concilio Aurei i an en si [I. c. 13.]</p>
-          <p>Si se cuiquam mulier duplici coniugio presbiteri uel diaconi relicta coniunxerit, aut
+        <div xml:id="gd-p1d28-Dd1e274">
+          <head xml:id="gd-p1d28-Hd1e276">C. XI.</head>
+          <head xml:id="gd-p1d28-Hd1e279" type="question-title">De uxore presbiteri uel diaconisi alii se coniunxerit.</head>
+          <p xml:id="gd-p1d28-d1e282">Item ex Concilio Aurei i an en si [I. c. 13.]</p>
+          <p xml:id="gd-p1d28-d1e285">Si se cuiquam mulier duplici coniugio presbiteri uel diaconi relicta coniunxerit, aut
             castigati separentur, aut certe, si in criminis intentione perstiterint, pari
             excommunicatione plectantur.</p>
 
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item ex Concilio Martini Papae.</p>
-          <p>Si qua uidua episcopi uel presbiteri aut diaconi maritum accepit, nullus clericus,
+        <div xml:id="gd-p1d28-Dd1e289">
+          <head xml:id="gd-p1d28-Hd1e291">C. XII.</head>
+          <head xml:id="gd-p1d28-Hd1e294" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d28-d1e297">Item ex Concilio Martini Papae.</p>
+          <p xml:id="gd-p1d28-d1e300">Si qua uidua episcopi uel presbiteri aut diaconi maritum accepit, nullus clericus,
             nulla religiosa personacum ea conuiuium sufnat, numquam communicet; morienti tamen ei
             sacramentum sub ueniat.</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Cuiusdam episcopi ordinatio differtur, quia uxorem habet et
+        <div xml:id="gd-p1d28-Dd1e304">
+          <head xml:id="gd-p1d28-Hd1e306">C. XIII.</head>
+          <head xml:id="gd-p1d28-Hd1e309" type="question-title">Cuiusdam episcopi ordinatio differtur, quia uxorem habet et
             filios.</head>
-          <p>Item Pelagius* Cet ego Patricio.</p>
-          <p>VIII. Pars. De Siracusanae urbis antistite optauera-mus in ipso initio gloriae uestrae
+          <p xml:id="gd-p1d28-d1e312">Item Pelagius* Cet ego Patricio.</p>
+          <p xml:id="gd-p1d28-d1e315">VIII. Pars. De Siracusanae urbis antistite optauera-mus in ipso initio gloriae uestrae
             desideriis obedire, nisi nos multiplex ratio ipsius non paucis temporibus ordinationem
             differre sacerdotii coegisset, ob hoc, quod uel personae qualitas (sicut et uos nostis
             melius), uel superstes uxor aut filii (per quos ecclesiastica solet periclitari
@@ -234,7 +232,7 @@
             usurpare ecclesiae, et uniuersa sui episcopatus quesita tempore ecclesiae suae dominio
             sociaret, nichil ultra id, quodmodo descriptum est, suis filiis uel heredibus
             relicturus.</p>
-          <p>Gratian. Ecce hac auctoritate electus in episcopatum prohi-betur ** habere uxorem et
+          <p xml:id="gd-p1d28-d1e318">Gratian. Ecce hac auctoritate electus in episcopatum prohi-betur ** habere uxorem et
             filios. Eligi autem ad episcopatum non debet, nisi aut sacerdos aut diaconus ;
             subdiaconus uero non, nisi necessitate cogente. Siue ergo presbiter siue diaconus
             siue</p>
@@ -243,7 +241,7 @@
 
 
 
-          <p>subdiaconus fuerit, apparet, quod in prefatis ordinibus constituti licite matrimonio
+          <p xml:id="gd-p1d28-d1e322">subdiaconus fuerit, apparet, quod in prefatis ordinibus constituti licite matrimonio
             possunt uti. §. i. Qyta ergo auctoritate Gregorii, qui relictam diaconi marito tradidit,
             puniendus est; item in Neocesariensi concilio presbiter ducens uxorem, non diaconus,
             iubetur deponi; item in Anchiritana Sinodo diaconi, qui in ordinatione sua dicunt, se
@@ -255,7 +253,7 @@
             constitutus potuit habere uxorem et filios: postea^ ex consensu uxoris continentiam
             professus subdiaconatum uel diaconatum uel pres-biterii gradum adeptus fuerat, et tamenS
             uxori et filiis ipsum necessaria subministrare oportebat §. 3. Illud autem</p>
-          <p>Gregorii duobus modis soluitur: uel quia ecclesia illa, cui diaconus ille militauerat,
+          <p xml:id="gd-p1d28-d1e325">Gregorii duobus modis soluitur: uel quia ecclesia illa, cui diaconus ille militauerat,
             nondum continentiae uotum susceperat in diaconibus et reliquis ministris; uel quia
             (sicut de electo in episcopum supra^' scriptum est) ante subdiaconatum memoratus
             diaconus eam in uxorem duxerat. §. 4. Illud autem Neocesariensis et Anchiritanae sinodi
@@ -264,29 +262,29 @@
             orientalis ecclesia non suscipit generale uotum castitatis. Hoc tamen diligenti
             obseruatione custodit, ut post adeptum sacerdotium, defuncta priore uxore, cum qua
             sacerdos factus fuerat, si alteram duxerit, deponatur.</p>
-          <p>Item opponitur illud, quod legitur in canone Apostolorum , [c. 6. al. 5.]</p>
+          <p xml:id="gd-p1d28-d1e328">Item opponitur illud, quod legitur in canone Apostolorum , [c. 6. al. 5.]</p>
         </div>
-        <div>
-          <head>C. XIV, Presbiter causa religionis non contempnatpropriam</head>
-          <head type="question-title">uxorem.</head>
-          <p>IX. Pars. Si* quis docuerit, sacerdotem sub obtentu religionis propriam uxorem
+        <div xml:id="gd-p1d28-Dd1e332">
+          <head xml:id="gd-p1d28-Hd1e334">C. XIV, Presbiter causa religionis non contempnatpropriam</head>
+          <head xml:id="gd-p1d28-Hd1e337" type="question-title">uxorem.</head>
+          <p xml:id="gd-p1d28-d1e340">IX. Pars. Si* quis docuerit, sacerdotem sub obtentu religionis propriam uxorem
             contempnere, anathema sit.</p>
         </div>
-        <div>
-          <head>C. XV.</head>
-          <head type="question-title">Anathema sit, qui presbiterum coniugatum occasione nuptiarum
+        <div xml:id="gd-p1d28-Dd1e345">
+          <head xml:id="gd-p1d28-Hd1e347">C. XV.</head>
+          <head xml:id="gd-p1d28-Hd1e350" type="question-title">Anathema sit, qui presbiterum coniugatum occasione nuptiarum
             discernit.</head>
-          <p>Item ex Concilio Gangren&amp;i, [c. 4.]</p>
-          <p>Si 160* q<sub>U</sub>i<sub>s</sub> discernit presbiterum coniugatum, tanquam occasione
+          <p xml:id="gd-p1d28-d1e353">Item ex Concilio Gangren&amp;i, [c. 4.]</p>
+          <p xml:id="gd-p1d28-d1e356">Si 160* q<sub>U</sub>i<sub>s</sub> discernit presbiterum coniugatum, tanquam occasione
             nuptiarum quod offerre non debeat, et ab eius oblatione ideo abstinet, anathema sit.</p>
         </div>
-        <div>
-          <head>C. XVI.</head>
-          <head type="question-title">Ab offitio abstineat presbiter non legalibus nuptiis
+        <div xml:id="gd-p1d28-Dd1e366">
+          <head xml:id="gd-p1d28-Hd1e368">C. XVI.</head>
+          <head xml:id="gd-p1d28-Hd1e371" type="question-title">Ab offitio abstineat presbiter non legalibus nuptiis
             detentus.</head>
-          <p>Item ex VI. Sinodo*, [c. 26.]</p>
+          <p xml:id="gd-p1d28-d1e374">Item ex VI. Sinodo*, [c. 26.]</p>
 
-          <p>X. Pars. Presbiterum, non legalibus nuptiis detentum, cathedram quidem habere, sed ab
+          <p xml:id="gd-p1d28-d1e377">X. Pars. Presbiterum, non legalibus nuptiis detentum, cathedram quidem habere, sed ab
             offitio* abstinere precipimus. Sufficit enim huiusmodi ei indulgentia, quia benedicere
             aliis eum, cpii uulnera sua debet curare, consequens non est. Benedictio enim
             sanctificationis traditio est. Qui uero hanc non habet propter delictum ignorantiae,
@@ -296,11 +294,11 @@
             huiusmodi non legitimae nuptiae soluentur, et nullatenus uir accessum habeatad eam,
             propter quam sacro ministerio priuatus est.</p>
         </div>
-        <div>
-          <head>C. XVII.</head>
-          <head type="question-title">De presbiteris non est laicis iudicandum.</head>
-          <p>Item Nicolaus ad consulta Bulgarorum, [c. 70.]</p>
-          <p>XI. Pars. Consulendum decernitis utrum presbiterum* habentem uxorem debeatis sustentare
+        <div xml:id="gd-p1d28-Dd1e381">
+          <head xml:id="gd-p1d28-Hd1e383">C. XVII.</head>
+          <head xml:id="gd-p1d28-Hd1e386" type="question-title">De presbiteris non est laicis iudicandum.</head>
+          <p xml:id="gd-p1d28-d1e389">Item Nicolaus ad consulta Bulgarorum, [c. 70.]</p>
+          <p xml:id="gd-p1d28-d1e392">XI. Pars. Consulendum decernitis utrum presbiterum* habentem uxorem debeatis sustentare
             et honorare, an a uobis proicere. In quo respondemus: Quoniam licet ipsi sint ualde
             reprehensibiles, uos tamen Deum conuenit imitari, qui solem suum facit oriri super bonos
             et malos. Deicere enim a uobis ideo non debetis, quonium nec ludam Dominus, cum esset

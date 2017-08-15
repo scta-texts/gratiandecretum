@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,41 +53,41 @@
     </front>
     <body>
       <div xml:id="gd-p1d16">
-        <head>DISTINCTIO XVI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Apostolorum canones, qui per Clementem Romanum Pontificem, sicut quidam
+        <head xml:id="gd-p1d16-Hd1e103">DISTINCTIO XVI.</head>
+        <p xml:id="gd-p1d16-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d16-d1e109">I. Pars. Apostolorum canones, qui per Clementem Romanum Pontificem, sicut quidam
           asserunt, dicuntur esse translati*, sunt quinquaginta.</p>
-        <p>Hos non recipiendos, sed inter apocrifa deputatos, Ysi-do rus scribit dicens:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Apostolorum canones apostolica reiciuntur auctoritate.</head>
-          <p>Canones**, qui dicuntur apostolorum, seu quia eosdem nec sedes apostolica recipit, nec
+        <p xml:id="gd-p1d16-d1e112">Hos non recipiendos, sed inter apocrifa deputatos, Ysi-do rus scribit dicens:</p>
+        <div xml:id="gd-p1d16-Dd1e115">
+          <head xml:id="gd-p1d16-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d16-Hd1e120" type="question-title">Apostolorum canones apostolica reiciuntur auctoritate.</head>
+          <p xml:id="gd-p1d16-d1e123">Canones**, qui dicuntur apostolorum, seu quia eosdem nec sedes apostolica recipit, nec
             sancti Patres illis consensum prebuerunt, pro eo quod ab hereticis sub nomine
             apostolorum compositi dignoscuntur, quamuis in eis inue-niantur utilia, auctoritate
             tamen canonica atque apostolica eorum gesta constat esse remota atque inter apocrifa
             deputata.</p>
 
-          <p>ZepJierinus autem e contra scribit Episcopis per Siciliam constitutis, [epist. I.]</p>
+          <p xml:id="gd-p1d16-d1e126">ZepJierinus autem e contra scribit Episcopis per Siciliam constitutis, [epist. I.]</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Apostolorum canones sunt recipiendi.</head>
-          <p>Sexaginta* sententias apostoli prescripserunt cum aliis quam plurimis episcopis, et
+        <div xml:id="gd-p1d16-Dd1e131">
+          <head xml:id="gd-p1d16-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d16-Hd1e136" type="question-title">Apostolorum canones sunt recipiendi.</head>
+          <p xml:id="gd-p1d16-d1e139">Sexaginta* sententias apostoli prescripserunt cum aliis quam plurimis episcopis, et
             seruandas esse cen-suerunt.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Exceptis quinquaginta capitulis canones apostolorum inter
+        <div xml:id="gd-p1d16-Dd1e143">
+          <head xml:id="gd-p1d16-Hd1e145">C. III.</head>
+          <head xml:id="gd-p1d16-Hd1e148" type="question-title">Exceptis quinquaginta capitulis canones apostolorum inter
             apocrifa deputantur.</head>
-          <p>Item Leo* Papa IX. contra epistolam Nicet a e Abbatis.</p>
-          <p>Clementis librum, id est Petri apostoli itinerarium, et canones apostolorum numerant
+          <p xml:id="gd-p1d16-d1e151">Item Leo* Papa IX. contra epistolam Nicet a e Abbatis.</p>
+          <p xml:id="gd-p1d16-d1e154">Clementis librum, id est Petri apostoli itinerarium, et canones apostolorum numerant
             Patres inter apocrifa, exceptis quinquaginta capitulis, que decreuerunt orthodoxae fidei
             adiungenda.</p>
-          <p>[C. IV. Item] VI. Sinodus, cap. 2.</p>
-          <p>Placuit huic sanctae Sinodo, ut amodo confirmata et rata sint canonum apostolorum
+          <p xml:id="gd-p1d16-d1e157">[C. IV. Item] VI. Sinodus, cap. 2.</p>
+          <p xml:id="gd-p1d16-d1e161">Placuit huic sanctae Sinodo, ut amodo confirmata et rata sint canonum apostolorum
             LXXXV. capitula.</p>
-          <p>Epistola* Ysidori in capite canonum .</p>
-          <p>Ysidorus** seruus Christi lectori suo conseruo. §. k Propter eorum auctoritatem ceteris
+          <p xml:id="gd-p1d16-d1e164">Epistola* Ysidori in capite canonum .</p>
+          <p xml:id="gd-p1d16-d1e167">Ysidorus** seruus Christi lectori suo conseruo. §. k Propter eorum auctoritatem ceteris
             conciliis preponimuscanones, qui dicuntur apostolorum, licet a quibusdam apo-crifi
             dicantur, quoniam perplures eos recipiunt, et sancti Patres eorum sententias sinodali
             auctoritate robo-rauerunt et inter canonicas posuerunt constitutiones. Item. §. 2.
@@ -97,7 +95,7 @@
             canonum apostolorum, ac primorum apostolicorum (id est, a S. Clemente usque ad S.
             Siluestrum) decretorum atque diuersorum conciliorum breuiarium est interpolatum, sequens
             ordinem suum.</p>
-          <p>Gratianus. Item cum Adrianus Papa sextam sinodum recipiat cum omnibus canonibus suis,
+          <p xml:id="gd-p1d16-d1e170">Gratianus. Item cum Adrianus Papa sextam sinodum recipiat cum omnibus canonibus suis,
             cum etiam sancta octo universalia concilia professione Romani Pontificis sint roborata,
             in septima autem Sinodo, siue in sexto concilio, apostolorum canones sint recepti et
             approbati: patet, quod non sunffiz inter apocrifa deputandi.</p>
@@ -106,26 +104,26 @@
 
 
 
-          <p>Scribit Adrianus Papa Tharasio Patriarchae:</p>
+          <p xml:id="gd-p1d16-d1e173">Scribit Adrianus Papa Tharasio Patriarchae:</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Sexta sinodus auctoritate Adriani corroboratur.</head>
-          <p>Sextam* sanctam sinodum recipio cum omnibus canonibus suis.</p>
-          <p>Gratianus. Sed dubitatur de ea, an canones conscripserit, quod ex quarta actione sextae
+        <div xml:id="gd-p1d16-Dd1e177">
+          <head xml:id="gd-p1d16-Hd1e179">C. V.</head>
+          <head xml:id="gd-p1d16-Hd1e182" type="question-title">Sexta sinodus auctoritate Adriani corroboratur.</head>
+          <p xml:id="gd-p1d16-d1e185">Sextam* sanctam sinodum recipio cum omnibus canonibus suis.</p>
+          <p xml:id="gd-p1d16-d1e188">Gratianus. Sed dubitatur de ea, an canones conscripserit, quod ex quarta actione sextae
             ** sinodi facile absoluitur.</p>
-          <p>Ait enim Petrus Episcopus Nicomediae:</p>
+          <p xml:id="gd-p1d16-d1e191">Ait enim Petrus Episcopus Nicomediae:</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Sexta sinodus canones conscripsit.</head>
-          <p>Habeo * librum continentem canones sanctae sinodi sextae. Patriarcha dixit: §. i.
+        <div xml:id="gd-p1d16-Dd1e195">
+          <head xml:id="gd-p1d16-Hd1e197">C. VI.</head>
+          <head xml:id="gd-p1d16-Hd1e200" type="question-title">Sexta sinodus canones conscripsit.</head>
+          <p xml:id="gd-p1d16-d1e203">Habeo * librum continentem canones sanctae sinodi sextae. Patriarcha dixit: §. i.
             Quidam per ignorantiam scandalizantur pro canonibus istis, dicentes: Numquid sexta
             6frxodt&amp; catndtteS fecit? fidant ergo, quoniam saitcta sifiodas sexta sub
             Constantino congregata est contra eos, qui dicebant unam operationem esse et uoluntatem*
             in Christo, in qua sancti Patres illos utpote hereticos anathematizaue-runt, et
             orthodoxam fidem explanauerunt.</p>
-          <p>II. Pars. §. 2. Soluta est hec sinodus Constantini XIV. anno. Post quatuor uero aut
+          <p xml:id="gd-p1d16-d1e206">II. Pars. §. 2. Soluta est hec sinodus Constantini XIV. anno. Post quatuor uero aut
             quinque annos iidem sancti Patres congregati sunt sub Iustiniano, filio Constantini, et
             redictos canones promulgauerunt, de quibus nullus du-itet. Qui enim sub Constantino in
             Sinodo fuerunt, iidem ipsi sub Iustiniano istis canonibus subscripserunt. Oportebat
@@ -136,15 +134,15 @@
             quarto aut quinto anno congregata est, et canones CII. numero ad correctionem ecclesiae
             promulgauit.</p>
 
-          <p>Gratian. Ex his ergo colligitur, quod sexta sinodus bis congregata est: primo sub
+          <p xml:id="gd-p1d16-d1e209">Gratian. Ex his ergo colligitur, quod sexta sinodus bis congregata est: primo sub
             Constantino et nullos canones constituit; secundo sub Iustiniano filio eius, et prefatos
             canones promulgauit.</p>
-          <p>Unde sancti Patres in eadem Sinodo secundo congregati dixerunt:</p>
+          <p xml:id="gd-p1d16-d1e213">Unde sancti Patres in eadem Sinodo secundo congregati dixerunt:</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Constitutiones sinodi sextae.</head>
-          <p>Quoniam* sanctae et uniuersales sinodi, quinta sub Iustiniano Augusto, sexta sub
+        <div xml:id="gd-p1d16-Dd1e217">
+          <head xml:id="gd-p1d16-Hd1e219">C. VII.</head>
+          <head xml:id="gd-p1d16-Hd1e222" type="question-title">Constitutiones sinodi sextae.</head>
+          <p xml:id="gd-p1d16-d1e225">Quoniam* sanctae et uniuersales sinodi, quinta sub Iustiniano Augusto, sexta sub
             Constantino patre suoAugusto, de misterio** fidei plenissime disputantes, canones non
             fecerunt, sicut ceterae quatuor uniuersales sinodi: propterea nos conuenientes in hanc
             imperialem urbem sacros canones conscripsimus. Item: f. 1. Placuit huic sanctae Sinodo,
@@ -161,25 +159,25 @@
 
 
 
-          <p>Cirilli Alexandrini episcopi, Cipriani Cartaginensis episcopi et sinodum ++ suam.</p>
+          <p xml:id="gd-p1d16-d1e228">Cirilli Alexandrini episcopi, Cipriani Cartaginensis episcopi et sinodum ++ suam.</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Auctoritate Romani Pontificis sancta octo concilia
+        <div xml:id="gd-p1d16-Dd1e232">
+          <head xml:id="gd-p1d16-Hd1e234">C. VIII.</head>
+          <head xml:id="gd-p1d16-Hd1e237" type="question-title">Auctoritate Romani Pontificis sancta octo concilia
             roborantur.</head>
-          <p>Item ex Libro Diurno * professio Romani Pontificis.</p>
-          <p>Sancta octo uniuersalia concilia, primum Nice-num, Constantinopolitanum, Ephesinum,
+          <p xml:id="gd-p1d16-d1e240">Item ex Libro Diurno * professio Romani Pontificis.</p>
+          <p xml:id="gd-p1d16-d1e243">Sancta octo uniuersalia concilia, primum Nice-num, Constantinopolitanum, Ephesinum,
             Calcedo-nense quintum et sextum, Constantinopolitanum; item Nicenum; octauum quoque
             Constantinopolitanumusque ad unum apicem immutilata seruare, et pari honore et
             ueneratione digna habere, et que predicauerunt et statuerunt omnibus modis sequi et
             predicare, quecumque^ condempnauerunt ore et corde condempnare pro-</p>
-          <p>Quo autem tempore sexta sinodus et secunda et prima, et quarta et quinta congregatae
+          <p xml:id="gd-p1d16-d1e246">Quo autem tempore sexta sinodus et secunda et prima, et quarta et quinta congregatae
             sunt, Bedain libro de temporibus [c. 65.] scribit^, dicens:</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">De temporibus conciliorum.</head>
-          <p>Sexta sinodus uniuersalis Constantinopolim celebrata est, et greco sermone conscripta,
+        <div xml:id="gd-p1d16-Dd1e251">
+          <head xml:id="gd-p1d16-Hd1e253">C. IX.</head>
+          <head xml:id="gd-p1d16-Hd1e256" type="question-title">De temporibus conciliorum.</head>
+          <p xml:id="gd-p1d16-d1e259">Sexta sinodus uniuersalis Constantinopolim celebrata est, et greco sermone conscripta,
             temporibus Papae Agathonis, exequente piissimo principe Constantino intra palatium suum,
             simulque legatis Apostolicae sedis, etepiscopis CL. residentibus. §. 1. Prima
             uniuersalissinodus in Nicea congregata est contra Arrium CCCXVIII. Patrum, temporibus
@@ -189,9 +187,9 @@
             Calce-done DCXXX. Patrum, sub Leone Papa, temporibus Martiani principis, contra Euticen
             nefandissimorum monachorum presulem. §. 5. Quinta in Constantinopolim i temporibus Iulii
             Papae, sub Iustiniano principe, contra Theodorum et omnes hereticos.</p>
-          <p>[C. X.]</p>
+          <p xml:id="gd-p1d16-d1e262">[C. X.]</p>
 
-          <p>Prima* autem sinodus in Nicea, CCCXVIII. Patrum, contra Arrium Alexandrinum
+          <p xml:id="gd-p1d16-d1e265">Prima* autem sinodus in Nicea, CCCXVIII. Patrum, contra Arrium Alexandrinum
             presbiterum, qui tres gradus in trinitate asserebat, Patrem maiorem, Filium minorem,
             Spiritum sanctum creaturam, temporibus Constantini principis Siluestri Papae Romani,
             Macharii Ierosolimitani, Alexandri** Alexandrini, qui condempnata eadem heresi
@@ -224,11 +222,11 @@
 
 
 
-          <p>suspicione astruebant", temporibus Constantini principis, Agatonis Papae Romani,
+          <p xml:id="gd-p1d16-d1e269">suspicione astruebant", temporibus Constantini principis, Agatonis Papae Romani,
             Gregorii" Constantinopolitani; qui condempnata prefata heresi anathematizando
             scripserunt nouem**** capitula interius annexa.</p>
-          <p>[C. XI.]</p>
-          <p>Prima* annotatio Anquiritanae sinodi, que ante Nice-nam fertur fuisse, sed propter
+          <p xml:id="gd-p1d16-d1e272">[C. XI.]</p>
+          <p xml:id="gd-p1d16-d1e275">Prima* annotatio Anquiritanae sinodi, que ante Nice-nam fertur fuisse, sed propter
             auctoritatem maiorem postponitur; in qua Patres XVIII. statuerunt canones XXIV.quorum
             auctor maxime Vitalis Antiocenus episcopus extitit. §. i. Secunda Neocesariensis, que
             post Anquiritanam, et Antiocenam** legitur fuisse; in qua Patres XVIII.statuerunt
@@ -241,7 +239,7 @@
             Osius Cordubensis episcopus, et Vincentius Capuanus episcopus, et Ianuarius****
             Beneuentanus, et Calepodius Neapolitanus sanctae Romanae ecclesiae legati extiterint. §.
             4.</p>
-          <p>Quinta Antiocena, in qua Patres XXX. statuerunt canones XXV. quorum auctor maxime
+          <p xml:id="gd-p1d16-d1e278">Quinta Antiocena, in qua Patres XXX. statuerunt canones XXV. quorum auctor maxime
             Eusebius Palestinensis episcopus extitit. §. 5. Sexta Laudicensis, in qua Patres XXII.
             statuerunt canones LVIII., quorum auctor maxime Theodosius episcopus extitit. §. 6.
             Septima+ Cartaginensis, in qua Patres CCVIII. statuerunt canones XXXIII., quorum auctor
@@ -249,7 +247,7 @@
             in eadem Sinodo legitur fuisse, temporibus Honorii Augusti. §. 7. Octaua Africana sub
             Theodosio minore</p>
 
-          <p>Augusto, in qua Patres CCXXIV. recitauerunt et firma-uerunt canones CV., qui per
+          <p xml:id="gd-p1d16-d1e281">Augusto, in qua Patres CCXXIV. recitauerunt et firma-uerunt canones CV., qui per
             diuersa concilia Africanae prouinciae temporibus Aurelii Cartaginensis episcopi leguntur
             esse conscripti. §. 8. Nona Arelatensis, in qua Patres DC. statuerunt canones, quorum
             auctores maxime Siluester urbis Romae episcopus, et S. MaurinusP Arelatensis episcopus
@@ -263,7 +261,7 @@
             Patres XVI. statuerunt canones, quorum auctor maxime Ilarius episcopus extitit. §. 14.
             Quinta-decima Epaunensis ++, in qua Patres XXVI. statuerunt canones XL., quorum auctor
             maxime Cesarius Episcopus extitit.</p>
-          <p>§. 15. Sextadecima Agathensis, in qua Patres XXXIII.statuerunt canones, quorum auctor
+          <p xml:id="gd-p1d16-d1e284">§. 15. Sextadecima Agathensis, in qua Patres XXXIII.statuerunt canones, quorum auctor
             maxime Cesarius* extitit. §. 16. Septimadecimaftf Aurelianensis, in qua Patres LXXII.
             statuerunt canones, quorum maxime auctor Aurelianusy Arelatensis episcopus extitit. §.
             17. Octauadecima item Aurelianensis, in qua Patres XXXI. statuerunt canones, quorum
@@ -277,22 +275,22 @@
 
 
 
-          <p>Maticensis, in qua Patres XXL statuerunt canones, quorum auctor maxime Priscus
+          <p xml:id="gd-p1d16-d1e288">Maticensis, in qua Patres XXL statuerunt canones, quorum auctor maxime Priscus
             Lugdunensis episcopus extitit. §.21. Vicesima secunda item Maticensis, in qua Patres LX
             VIII.statuerunt canones, quorum auctor maxime idem Priscus Lugdunensis episcopus
             extitit. §. 22. Vicesima tertia Lugdunensis, in qua Patres XVII. statuerunt canones,
             quorum auctor maxime Philippus Viennensis episcopus extitit. §. 23. Vicesima quarta item
             Lugdunensis, in qua Patres XX. constituerunt canones, quorum auctor maxime Priscus
             Lugdunensis episcopus extitit.</p>
-          <p>Sed quod Nicena sinodus XX. canones supra statuisse dicitur, contrarium uidetur ei,
+          <p xml:id="gd-p1d16-d1e291">Sed quod Nicena sinodus XX. canones supra statuisse dicitur, contrarium uidetur ei,
             quod in epistola Athanasii inuenitur.</p>
-          <p>Scribit enim Athanasius Alexandrinus Marco Papae, ita dicens:</p>
+          <p xml:id="gd-p1d16-d1e294">Scribit enim Athanasius Alexandrinus Marco Papae, ita dicens:</p>
         </div>
-        <div>
-          <head>C. XII.</head>
-          <head type="question-title">Epistola Athanasii^ postulantis capitula Ni-ceni
+        <div xml:id="gd-p1d16-Dd1e298">
+          <head xml:id="gd-p1d16-Hd1e300">C. XII.</head>
+          <head xml:id="gd-p1d16-Hd1e303" type="question-title">Epistola Athanasii^ postulantis capitula Ni-ceni
             concilii.</head>
-          <p>Septuaginta* Niceni capitula, que de prefata Sinodo, iubente domino meo Alexandro,
+          <p xml:id="gd-p1d16-d1e306">Septuaginta* Niceni capitula, que de prefata Sinodo, iubente domino meo Alexandro,
             decretaomnium episcoporum attuli que sunt igne combusta, optamus, ut a sede sanctae
             ecclesiae uestra auctoritatepercipere per presentes legatos mereamur. Item: §.
             i.Presentibus nobis septuaginta in memorata Sinodo capitula tractata sunt: triginta £ a
@@ -302,26 +300,26 @@
             locis insererentur, et ad formam LXX. discipulorum, uel totius orbis terrae linguarum,
             septuaginta tanti et tam excellentis concilii fierent capitula, que omnem Christianorum
             informarent orbem.</p>
-          <p>Gratian. Quomodo ergo uiginti tantum capitula in Nicena Sinodo statuta dicuntur, cum
+          <p xml:id="gd-p1d16-d1e309">Gratian. Quomodo ergo uiginti tantum capitula in Nicena Sinodo statuta dicuntur, cum
             septuaginta capitula (ut Athanasius scribit) in ea statuta monstrentur? His ita
             respondetur: Capitula Nicenae sinodi quedam in desuetudinem abierunt: uiginti tantum in
             Romana ecclesia habentur.</p>
 
-          <p>Unde Stephanus Papa scribit, dicens LuitbertoEpiscopo Maguntino:</p>
+          <p xml:id="gd-p1d16-d1e312">Unde Stephanus Papa scribit, dicens LuitbertoEpiscopo Maguntino:</p>
         </div>
-        <div>
-          <head>C. XIII.</head>
-          <head type="question-title">Niceni concilii uiginti tantum capitula habentur.</head>
-          <p>Viginti* tantum capitula Nicenae sinodi in sanctaRomana ecclesia habentur; sed quo
+        <div xml:id="gd-p1d16-Dd1e316">
+          <head xml:id="gd-p1d16-Hd1e318">C. XIII.</head>
+          <head xml:id="gd-p1d16-Hd1e321" type="question-title">Niceni concilii uiginti tantum capitula habentur.</head>
+          <p xml:id="gd-p1d16-d1e324">Viginti* tantum capitula Nicenae sinodi in sanctaRomana ecclesia habentur; sed quo
             neglectu alia defecerint, ambiguum est. Plurimi arbitrantur Antioceno ea esse concilio
             inserta.</p>
-          <p>Sardicense quoque concilium auctoritate Nicolai Papae recipitur.</p>
-          <p>Unde idem scribit clero Constantinopolitano:</p>
+          <p xml:id="gd-p1d16-d1e327">Sardicense quoque concilium auctoritate Nicolai Papae recipitur.</p>
+          <p xml:id="gd-p1d16-d1e330">Unde idem scribit clero Constantinopolitano:</p>
         </div>
-        <div>
-          <head>C. XIV.</head>
-          <head type="question-title">Auctoritate apostolica Sardicense concilium recipitur.</head>
-          <p>Quod dicitis, neque Sardicense concilium, neque decretalia uos habere sanctorum Patrum
+        <div xml:id="gd-p1d16-Dd1e334">
+          <head xml:id="gd-p1d16-Hd1e336">C. XIV.</head>
+          <head xml:id="gd-p1d16-Hd1e339" type="question-title">Auctoritate apostolica Sardicense concilium recipitur.</head>
+          <p xml:id="gd-p1d16-d1e342">Quod dicitis, neque Sardicense concilium, neque decretalia uos habere sanctorum Patrum
             uel recipere, non facile uobis facultas credendi tribuitur, maxime cum Sardicense
             concilium, quod penes uos in uestris regionibus actum est, et omnis ecclesia recipit,
             qua ratione conueniat, ut hec sancta Constantinopolitana ecclesia abiceret et ut dictum

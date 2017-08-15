@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,32 +53,32 @@
     </front>
     <body>
       <div xml:id="gd-p1d86">
-        <head>DISTINCTIO LXXXYI.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Doctorem autem episcopum oportet esse, ne inferiorum culpae in eum refundantur,
+        <head xml:id="gd-p1d86-Hd1e103">DISTINCTIO LXXXYI.</head>
+        <p xml:id="gd-p1d86-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d86-d1e109">I. Pars. Doctorem autem episcopum oportet esse, ne inferiorum culpae in eum refundantur,
           qui docendi offitium accepit, quod exequi nescit uel negligit.</p>
-        <p>Unde Leo Episcopus scribit Aquilegensi Episcopo, [epist. III, et LXXXIV. seu
+        <p xml:id="gd-p1d86-d1e112">Unde Leo Episcopus scribit Aquilegensi Episcopo, [epist. III, et LXXXIV. seu
           LXXXVI.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Negligentiae rectorum inputantur culpae inferiorum.</head>
-          <p>Inferiorum ordinum culpae ad nullos magis referendae sunt, quam ad desides
+        <div xml:id="gd-p1d86-Dd1e115">
+          <head xml:id="gd-p1d86-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d86-Hd1e120" type="question-title">. Negligentiae rectorum inputantur culpae inferiorum.</head>
+          <p xml:id="gd-p1d86-d1e123">Inferiorum ordinum culpae ad nullos magis referendae sunt, quam ad desides
             negligentesque rectores, qui multamsepe nutriunt pestilentiam, dum austeriorem*
             dissimulantadhibere medicinam.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Homines sunt diligendi, peccata odio habenda.</head>
-          <p>Item Leo Episcopus Rustico Narbonensi Episcopo, [epist. XC. seu XCII. in princip.]:</p>
-          <p>Odio habeantur peccata, non homines; corripiantur tumidi, tolerentur infirmi; et quod
+        <div xml:id="gd-p1d86-Dd1e128">
+          <head xml:id="gd-p1d86-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d86-Hd1e133" type="question-title">. Homines sunt diligendi, peccata odio habenda.</head>
+          <p xml:id="gd-p1d86-d1e136">Item Leo Episcopus Rustico Narbonensi Episcopo, [epist. XC. seu XCII. in princip.]:</p>
+          <p xml:id="gd-p1d86-d1e139">Odio habeantur peccata, non homines; corripiantur tumidi, tolerentur infirmi; et quod
             seuerius castigarenecesse est non seuientis plectatur animo, sed medentis.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Qui negligit emendare quod ualet, facientis culpam
+        <div xml:id="gd-p1d86-Dd1e143">
+          <head xml:id="gd-p1d86-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d86-Hd1e148" type="question-title">. Qui negligit emendare quod ualet, facientis culpam
             habet.</head>
-          <p>Item Iohannes VIII.*</p>
-          <p>Facientis proculdubio culpam habet, qui quod potest corrigere negligit emendare.
+          <p xml:id="gd-p1d86-d1e151">Item Iohannes VIII.*</p>
+          <p xml:id="gd-p1d86-d1e154">Facientis proculdubio culpam habet, qui quod potest corrigere negligit emendare.
             Scriptum quippe est: ,*Nonsolum qui faciunt, sed etiam qui consentiunt,“ participes
             iudicantur. §. i. Et libat Domino prospera, qui abafflictis pellit aduersa. Et
             negligere, cum possit deturbare peruersos, nichil est aliud quam fouere. Nec
@@ -89,29 +87,29 @@
             pepercerit excedenti. Et primus innocentiae gradus est odissenefanda. Et latum pandit
             delinquentibus aditum, quiiungit cum prauitate consensum. Et nichil prodest alicuinon
             puniri proprio, qui puniendus est alieno peccato.</p>
-          <p>II. Pars. Gratian. Si autem in corripiendo quisque^modum excesserit, non a subditis,
+          <p xml:id="gd-p1d86-d1e157">II. Pars. Gratian. Si autem in corripiendo quisque^modum excesserit, non a subditis,
             sed a Domino ueniam petat.</p>
-          <p>Unde Augustinus de uita* clericorum:</p>
+          <p xml:id="gd-p1d86-d1e161">Unde Augustinus de uita* clericorum:</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Veniam a subditis non petat qui in corripiendo modum
+        <div xml:id="gd-p1d86-Dd1e165">
+          <head xml:id="gd-p1d86-Hd1e167">C. IV</head>
+          <head xml:id="gd-p1d86-Hd1e170" type="question-title">. Veniam a subditis non petat qui in corripiendo modum
             excedit.</head>
-          <p>Quando necessitas disciplinae moribus cohercendis dicere uos dura uerba conpellit, si
+          <p xml:id="gd-p1d86-d1e173">Quando necessitas disciplinae moribus cohercendis dicere uos dura uerba conpellit, si
             etiam ipsi modumuos excessisse sentitis, non a uobis exigitur, ut uobis asubditis ueniam
             postuletis, ne apud eos, quos oportetesse subiectos, dum nimium seruatur humilitas,
             regendifrangatur auctoritas. Et tamen petenda est uenia abomnium Domino, qui nouit eos,
             quos plus iusto fortecorripitis, quanta beneuolentia diligatis.</p>
-          <p>III. Pars. Gratian. In doctrina uero sacrae scripturaedebet auctoritatem preferre^z,
+          <p xml:id="gd-p1d86-d1e176">III. Pars. Gratian. In doctrina uero sacrae scripturaedebet auctoritatem preferre^z,
             non secularium litterarum peritiam ostentare. Non enim est episcopalis offitii
             grammaticamexponere, ne laudes Iouis personent ore pontificis.</p>
-          <p>- Unde Gregorius scribit Desiderio Episcopo, [lib. IX. epist. 48.] </p>
+          <p xml:id="gd-p1d86-d1e179">- Unde Gregorius scribit Desiderio Episcopo, [lib. IX. epist. 48.] </p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Sacram scripturam, non grammaticam debet episcopus
+        <div xml:id="gd-p1d86-Dd1e183">
+          <head xml:id="gd-p1d86-Hd1e185">C. V</head>
+          <head xml:id="gd-p1d86-Hd1e188" type="question-title">. Sacram scripturam, non grammaticam debet episcopus
             exponere.</head>
-          <p>Cum multa nobis de uestris studiis fuissent nuntiata, ita nostro cordi est nata
+          <p xml:id="gd-p1d86-d1e191">Cum multa nobis de uestris studiis fuissent nuntiata, ita nostro cordi est nata
             leticia, ut negare ea, que sibiuestra fraternitas concedenda deposcit, minime
             ualere-mus. Sed post hec peruenit ad nos, (quod sine uere-cundia memorare non
             possumus),fraternitatem tuam grammaticam quibusdam exponere. Quam rem ita
@@ -119,87 +117,87 @@
             gemitum et tristiciam uerteremus,quia in uno se ore cum Iouis laudibus Christi laudes
             noncapiunt. Et quam graue nefandumque sit episcopis canere, quod nec religioso
             conueniat, considera C</p>
-          <p>IV. Pars. Gratian. Liberalem quoque necessitatem patientibus sacerdotem esse oportet;
+          <p xml:id="gd-p1d86-d1e194">IV. Pars. Gratian. Liberalem quoque necessitatem patientibus sacerdotem esse oportet;
             alias autem uacuum portabitnomen episcopi.</p>
-          <p>Unde Gregorius scribit [lib. V. epist. 29.] Secundo seruo Dei inter cetera**:</p>
+          <p xml:id="gd-p1d86-d1e197">Unde Gregorius scribit [lib. V. epist. 29.] Secundo seruo Dei inter cetera**:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Sine liberalitate inane portatur nomen episcopi.</head>
-          <p>Fratrem nostrum Marianum episcopum uerbis, quibus uales, excita, quia eum obdormisse
+        <div xml:id="gd-p1d86-Dd1e201">
+          <head xml:id="gd-p1d86-Hd1e203">C. VI</head>
+          <head xml:id="gd-p1d86-Hd1e206" type="question-title">. Sine liberalitate inane portatur nomen episcopi.</head>
+          <p xml:id="gd-p1d86-d1e209">Fratrem nostrum Marianum episcopum uerbis, quibus uales, excita, quia eum obdormisse
             suspicor. Dicergo illi, ut cum loco mutet et mentem. Non sibicredat solam lectionem
             sufficere et orationem, ut remotusnichil studeat de manu fructificare: sed largam
             manumhabeat, necessitatem patientibus concurrat, alienam inopiamsuam credat, quia, si
             hocs non habet, uacuum episcopinomen tenet.</p>
-          <p>V. Pars. Gratian. In ipsa autem liberalitate modus adbibendus est rerum et personarum:
+          <p xml:id="gd-p1d86-d1e212">V. Pars. Gratian. In ipsa autem liberalitate modus adbibendus est rerum et personarum:
             rerum, ut non omnia uni, sedsingulis quedam prestentur, ut pluribus prodesse possimus,
             iuxtaillud Prophetae: ,, Dispersit, dedit pauperibus; personarum, utprimum iustis,
             deinde peccatoribus: quibus tamen dare prohibemur, non quia homines sunt, sed quia
             peccatores.</p>
-          <p>Unde Augustinus supra Iohannem parte iZ.</p>
+          <p xml:id="gd-p1d86-d1e215">Unde Augustinus supra Iohannem parte iZ.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Inmane peccatum est res suas istrionibus donare.</head>
-          <p>Donare res suas istrionibus uitium est inmane, non uirtus. Et scitis de talibus, quam
+        <div xml:id="gd-p1d86-Dd1e219">
+          <head xml:id="gd-p1d86-Hd1e221">C. VII</head>
+          <head xml:id="gd-p1d86-Hd1e224" type="question-title">. Inmane peccatum est res suas istrionibus donare.</head>
+          <p xml:id="gd-p1d86-d1e227">Donare res suas istrionibus uitium est inmane, non uirtus. Et scitis de talibus, quam
             sit frequens fama cumlaude, quia, „ laudatur peccator in desideriis animae suae,et qui
             iniqua gerit benedicitur.“</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Grauiter delinquunt qui uenatoribus aliquid donant.</head>
-          <p>Idem in Psalmo CII. [ad uers. Faciens misericordias.]</p>
-          <p>Qui uenatoribus donant, quare donant? dicant mihi, quare dant uenatori? Hoc in illo
+        <div xml:id="gd-p1d86-Dd1e232">
+          <head xml:id="gd-p1d86-Hd1e234">C. VIII</head>
+          <head xml:id="gd-p1d86-Hd1e237" type="question-title">. Grauiter delinquunt qui uenatoribus aliquid donant.</head>
+          <p xml:id="gd-p1d86-d1e240">Idem in Psalmo CII. [ad uers. Faciens misericordias.]</p>
+          <p xml:id="gd-p1d86-d1e243">Qui uenatoribus donant, quare donant? dicant mihi, quare dant uenatori? Hoc in illo
             amant, in quo nequissimus</p>
-          <p>est, hoc in illo pascunt, hoc in illo uestiunt, ipsam nequitiam publicam spectaculis
+          <p xml:id="gd-p1d86-d1e246">est, hoc in illo pascunt, hoc in illo uestiunt, ipsam nequitiam publicam spectaculis
             omnium. Qui donant istrionibus, qui donant meretricibus, quare donant? numquidnon et
             ipsa hominibus donant: Non tamen naturamibi attendunt operis Dei, sed nequitiam operis
             humani.</p>
-          <p>[C. IX.]Jtem .</p>
-          <p>Qui uenatori, donat, non homini donat, sed arti nequissimae. Nam si homo tantum esset,
+          <p xml:id="gd-p1d86-d1e250">[C. IX.]Jtem .</p>
+          <p xml:id="gd-p1d86-d1e253">Qui uenatori, donat, non homini donat, sed arti nequissimae. Nam si homo tantum esset,
             et uenator nonesset, non ei donares: honoras in eo uitium, non naturam.</p>
-          <p>[C.X.]</p>
-          <p>Idem inPsalm. CXLVIL</p>
-          <p>Vident homines uenatores, et delectantur ; ue miseris, si non se correxerint. Qui enim
+          <p xml:id="gd-p1d86-d1e256">[C.X.]</p>
+          <p xml:id="gd-p1d86-d1e259">Idem inPsalm. CXLVIL</p>
+          <p xml:id="gd-p1d86-d1e262">Vident homines uenatores, et delectantur ; ue miseris, si non se correxerint. Qui enim
             uident uenatorem et delectantur, uidebunt Saluatorem et contristabuntur.</p>
-          <p>[C. XI.]</p>
-          <p>Item Ieronimus in Psalm. XC. [ad uers. Sperabo in</p>
-          <p>Domino] .</p>
-          <p>Esau uenator erat, quoniam peccator erat. Et penitus non inuenimus in scripturis
+          <p xml:id="gd-p1d86-d1e265">[C. XI.]</p>
+          <p xml:id="gd-p1d86-d1e269">Item Ieronimus in Psalm. XC. [ad uers. Sperabo in</p>
+          <p xml:id="gd-p1d86-d1e272">Domino] .</p>
+          <p xml:id="gd-p1d86-d1e275">Esau uenator erat, quoniam peccator erat. Et penitus non inuenimus in scripturis
             sanctis sanctum aliquem uenatorem; piscatores inuenimus sanctos.</p>
-          <p>[C. XII.] </p>
-          <p>Item Ambrosius in omelia [XXXIII. de Quadragesima].</p>
-          <p>Quid prodest ieiunare uisceribus, et luxuriari uena-tibus? abstinere a cibis, errare
+          <p xml:id="gd-p1d86-d1e278">[C. XII.] </p>
+          <p xml:id="gd-p1d86-d1e281">Item Ambrosius in omelia [XXXIII. de Quadragesima].</p>
+          <p xml:id="gd-p1d86-d1e284">Quid prodest ieiunare uisceribus, et luxuriari uena-tibus? abstinere a cibis, errare
             peccatis?</p>
-          <p>[C. XIII.] </p>
-          <p>Item^.</p>
-          <p>An putatis illum ieiunare, fratres, qui primo diluculo non ad ecclesiam uigilat, non
+          <p xml:id="gd-p1d86-d1e288">[C. XIII.] </p>
+          <p xml:id="gd-p1d86-d1e291">Item^.</p>
+          <p xml:id="gd-p1d86-d1e294">An putatis illum ieiunare, fratres, qui primo diluculo non ad ecclesiam uigilat, non
             beatorum martirum sanctaloca perquirit, sed surgens congregat seruulos, disponitretia,
             canes producit, saltus siluasque perlustrat? Seruulos,inquam, secum pertrahit, fortasse
             magis ad ecclesiam festinantes, et uoluptatibus suis peccata accumulat aliena,nesciens
             reum se futurum tam de suo delicto, quam de per-dicione seruorum.</p>
         </div>
-        <div>
-          <head>C. XIV</head>
-          <head type="question-title">. Que sint in liberalitate seruanda.</head>
-          <p>Item Ambrosius in lib. de offitiis^.</p>
-          <p>Non satis* est bene uelle, sed etiam bene facere. Nec satis est iterum bene facere,
+        <div xml:id="gd-p1d86-Dd1e298">
+          <head xml:id="gd-p1d86-Hd1e300">C. XIV</head>
+          <head xml:id="gd-p1d86-Hd1e303" type="question-title">. Que sint in liberalitate seruanda.</head>
+          <p xml:id="gd-p1d86-d1e306">Item Ambrosius in lib. de offitiis^.</p>
+          <p xml:id="gd-p1d86-d1e309">Non satis* est bene uelle, sed etiam bene facere. Nec satis est iterum bene facere,
             nisi id ex bono fonte, hocest ex bona uoluntate proficiscatur. Jtem: §. 1. Perfecta
             liberalitas fide, causa, loco, tempore commendatur,ut primum opereris circa domesticos
             fidei. Grandis culpa,si sciente te fidelis egeat, si scias eum sine sumptu esse,</p>
-          <p>famem tollerare, erumpnam perpeti, qui presertim egere erubescit, si in causam
+          <p xml:id="gd-p1d86-d1e312">famem tollerare, erumpnam perpeti, qui presertim egere erubescit, si in causam
             ceciderit aut captiuitatis suorum, aut calumpniae, et non adiuues, si sit in carcere,et
             penis et suppliciis et propter debitum aliquod iustusexcrucietur, (nam etsi omnibus
             debetur misericordia,iusto amplius), si tempore suae afflictionis nichil a te in-petret,
             si tempore periculi, quo rapitur ad mortem, plusapud te pecunia tua ualeat quam uita
             morituri, non est leuepeccatum**.</p>
-          <p>[C. XV.] a Item.</p>
-          <p>Dominus non uult simul effundi opes, sed dispensari, nisi forte, ut Helyseus, qui boues
+          <p xml:id="gd-p1d86-d1e316">[C. XV.] a Item.</p>
+          <p xml:id="gd-p1d86-d1e319">Dominus non uult simul effundi opes, sed dispensari, nisi forte, ut Helyseus, qui boues
             suos occidit, etpauitpauperes ex eo, quod habuit, ut nulla cura teneretur domestica, sed
             relictis omnibus in disciplinam se propheticamdaret.</p>
-          <p>[C. XVI.] a.</p>
-          <p>Item.</p>
-          <p>Est etiam illa probanda liberalitas, ut proximos seminis tui ne despicias, si egere
+          <p xml:id="gd-p1d86-d1e322">[C. XVI.] a.</p>
+          <p xml:id="gd-p1d86-d1e325">Item.</p>
+          <p xml:id="gd-p1d86-d1e328">Est etiam illa probanda liberalitas, ut proximos seminis tui ne despicias, si egere
             cognoscas. Meliusenim est, ut ipse subuenias tuis, quibus pudor est ab aliissumptum
             deposcere, aut alicui postulare subsidium necessitatis^; non tamen illi ditiores fieri
             uelint,ex eoquod tu potess conferre inopibus: causam enim* natura prestat, non gratia.
@@ -207,14 +205,14 @@
             fructu boni operis adquiras, et precio miserationis peccata tua redimas. Putant parum se
             poscere? preciumquerunt tuum, uitae tuae adimere contendunt fructum,et accusant, quod
             eos diuites non feceris, cum te uelintilli eternae uitae fraudare mercede?</p>
-          <p>[C. XVII.] a Item.</p>
-          <p>Consideranda est etiam in largiendo etas atque debilitas, nonnumquam etiam uerecundia,
+          <p xml:id="gd-p1d86-d1e331">[C. XVII.] a Item.</p>
+          <p xml:id="gd-p1d86-d1e335">Consideranda est etiam in largiendo etas atque debilitas, nonnumquam etiam uerecundia,
             que ingenuosprodit natales, ut senibuS plus largiaris, qui sibi iamuictum non queunt
             querere. Similiter et debilitas corporis est promptius adiuuanda; tamen si quis ex
             diuitiiscecidit in egestatem, et maxime, sine uitio suo, sed autlatrociniis, aut
             proscriptione, aut calumpniis que habebat amisit.</p>
-          <p>[C. XVIII.]* em.</p>
-          <p>Pulcra* etiam liberalitas est, in ipso quoque pauperis dato mensuram tenere, ut
+          <p xml:id="gd-p1d86-d1e338">[C. XVIII.]* em.</p>
+          <p xml:id="gd-p1d86-d1e341">Pulcra* etiam liberalitas est, in ipso quoque pauperis dato mensuram tenere, ut
             habundes pluribus, non conciliandi fauoris gratia ultra modum fluere. Quicquid enimex
             affectu puro et sincero promitur, hoc est aecorum: nonsuperfluas edificationes aggredi,
             nec pretermittere necessarias. Et maxime sacerdotibus hoc conuenit, ornareDei templum
@@ -224,8 +222,8 @@
             possumus iuuemus, et plus interdum quam possumus. Meliusest enim causas prestare pro
             misericordia et inuidiamperpeti, quam pretendere inclementiam; nos aliquandoin inuidiam
             incidimus, quod confregimus uasa mi*stica, ut captiuos redimeremus.</p>
-          <p>[C. XIX.] a Item super Ziecam.</p>
-          <p>Singulis quoque generibus hominum conueniens tribuit S. Baptista responsum unum omnibus
+          <p xml:id="gd-p1d86-d1e344">[C. XIX.] a Item super Ziecam.</p>
+          <p xml:id="gd-p1d86-d1e347">Singulis quoque generibus hominum conueniens tribuit S. Baptista responsum unum omnibus
             ita: publicanis, ne ultra prescriptum exigant, militibus, ne calumpniam'faciant, predam
             requirant; docens idcirco stipendia constituta miliciae, ne, dum sumptus queritur, predo
             grassetur.Sed hec et alia offitiorum precepta propria sunt singulorum, misericordia
@@ -236,37 +234,37 @@
             uestimentis alimentisque suis parcant. Misericordiae tamen ipsius pro possibilitate
             conditionis humanae mensura seruetur, ut non sibiunusquisque totum eripiat, sed quod
             habet cum pauperepartiatur.</p>
-          <p>[C. XX.] a</p>
+          <p xml:id="gd-p1d86-d1e350">[C. XX.] a</p>
           <h1>
             <a/>/d era.</h1>
-          <p>Ceterum Dei traditio est, ut prius pascas parentes. Nam si iuxta diuinum oraculum
+          <p xml:id="gd-p1d86-d1e359">Ceterum Dei traditio est, ut prius pascas parentes. Nam si iuxta diuinum oraculum
             contumelia parentis morte luitur, quanto magis fames, que multo grauior est? Quoloco
             insolentem Dominus infrenat iactantiam.</p>
-          <p>[C. XXI.] a</p>
-          <p>Idem in libro de offitiis*.</p>
-          <p>Pasce fame morientem. Quisquis enim pascendo hominem seruare poteris, si non paueris,
+          <p xml:id="gd-p1d86-d1e362">[C. XXI.] a</p>
+          <p xml:id="gd-p1d86-d1e365">Idem in libro de offitiis*.</p>
+          <p xml:id="gd-p1d86-d1e368">Pasce fame morientem. Quisquis enim pascendo hominem seruare poteris, si non paueris,
             occidisti.</p>
-          <p>[C. XXII.] 196 a liem Ieronimus.</p>
-          <p>Qui clementiam non habet, nec indutus est uiscera misericordiae et lacrimarum, quamuis
+          <p xml:id="gd-p1d86-d1e371">[C. XXII.] 196 a liem Ieronimus.</p>
+          <p xml:id="gd-p1d86-d1e375">Qui clementiam non habet, nec indutus est uiscera misericordiae et lacrimarum, quamuis
             spiritalis sit, nonadinpleuitc legem Christi.*</p>
-          <p>VI. Pars. Gratian. Similiter etiam oportet episcopum non</p>
-          <p>esse percussorem, id est ad uindictam facilem. ■</p>
-          <p>Unde Gregorius scribit Iohonni Episcopo Corin-tioruvn [libro XI., epist. 49.]:</p>
+          <p xml:id="gd-p1d86-d1e378">VI. Pars. Gratian. Similiter etiam oportet episcopum non</p>
+          <p xml:id="gd-p1d86-d1e381">esse percussorem, id est ad uindictam facilem. ■</p>
+          <p xml:id="gd-p1d86-d1e384">Unde Gregorius scribit Iohonni Episcopo Corin-tioruvn [libro XI., epist. 49.]:</p>
         </div>
-        <div>
-          <head>C. XXXIII</head>
-          <head type="question-title">. Ad uindictam facilis episcopus esse non debet.</head>
-          <p>Si quid uero de quocumque clerico ad aures tuas peruenerit, quod te iuste possit
+        <div xml:id="gd-p1d86-Dd1e388">
+          <head xml:id="gd-p1d86-Hd1e390">C. XXXIII</head>
+          <head xml:id="gd-p1d86-Hd1e393" type="question-title">. Ad uindictam facilis episcopus esse non debet.</head>
+          <p xml:id="gd-p1d86-d1e396">Si quid uero de quocumque clerico ad aures tuas peruenerit, quod te iuste possit
             offendere, facile non credas, nec ad uindictam te res accendat incognita; sed
             presentibusecclesiae tuae senioribus diligenter ueritas est perscrutanda,et tunc, si
             qualitas rei poposcerit, canonica districtio culpamferiat delinquentis.</p>
         </div>
-        <div>
-          <head>C. XXIV</head>
-          <head type="question-title">. De quodam episcopo, qui ante missarum solempnia™, die
+        <div xml:id="gd-p1d86-Dd1e400">
+          <head xml:id="gd-p1d86-Hd1e402">C. XXIV</head>
+          <head xml:id="gd-p1d86-Hd1e405" type="question-title">. De quodam episcopo, qui ante missarum solempnia™, die
             dominico ad exarandam messemcuiusdam profectus est.</head>
-          <p>Idem Ianuario Episcopo, [lib. VII. Indict. 2. epist. i.]</p>
-          <p>Tanta nequitia ad aures meas de tua senectute peruenit, ut eam, nisi humanitus
+          <p xml:id="gd-p1d86-d1e408">Idem Ianuario Episcopo, [lib. VII. Indict. 2. epist. i.]</p>
+          <p xml:id="gd-p1d86-d1e411">Tanta nequitia ad aures meas de tua senectute peruenit, ut eam, nisi humanitus
             pensaremus, fixa iam maledictione feriremus. Dictum quippe est mihi, quod dominicorum
             die, priusquam missarum solempnia celebrare, ad exarandam messem latoris presentium
             perrexisti, etpost exarationem eius missarum solempnia celebrasti;post missarum
@@ -281,25 +279,25 @@
             excommunicatos esse decreuimus&lt;i: ita! ut, si quid eis intraduorum mensium spatium
             humanitus euenerit, benedictione uiatici non priuentur. Deinceps autem ab eorumconsiliis
             cautus existe.</p>
-          <p>VII. Pars. Gratian. Vel percussor esse prohibetur, neuidelicet propriis manibus aliquem
+          <p xml:id="gd-p1d86-d1e414">VII. Pars. Gratian. Vel percussor esse prohibetur, neuidelicet propriis manibus aliquem
             cedat.</p>
-          <p>Unde ihAgatensi Concilio legitur*.</p>
+          <p xml:id="gd-p1d86-d1e418">Unde ihAgatensi Concilio legitur*.</p>
         </div>
-        <div>
-          <head>C. XXV</head>
-          <head type="question-title">. Non liceat episcopo propriis manibus aliquem cedere.</head>
-          <p>Non liceat episcopo manibus suis aliquem cedere. Hoc enim alienum a sacerdote esse
+        <div xml:id="gd-p1d86-Dd1e422">
+          <head xml:id="gd-p1d86-Hd1e424">C. XXV</head>
+          <head xml:id="gd-p1d86-Hd1e427" type="question-title">. Non liceat episcopo propriis manibus aliquem cedere.</head>
+          <p xml:id="gd-p1d86-d1e430">Non liceat episcopo manibus suis aliquem cedere. Hoc enim alienum a sacerdote esse
             debet.</p>
-          <p>VIII. Pars. Gratian. Prohibetur etiam episcopus turpis lucri esse cupidus, ne aliquo
+          <p xml:id="gd-p1d86-d1e433">VIII. Pars. Gratian. Prohibetur etiam episcopus turpis lucri esse cupidus, ne aliquo
             inhonesto negotio uictum uel ceteranecessaria sibi querat. Quod generaliter de omnibus
             diuinocultui mancipatis, id est clericis et monachis, intelligi oportet.</p>
-          <p>Unde in Calcedonensi Concilio, [cap. 3.] legitur:</p>
+          <p xml:id="gd-p1d86-d1e436">Unde in Calcedonensi Concilio, [cap. 3.] legitur:</p>
         </div>
-        <div>
-          <head>C. XXVI</head>
-          <head type="question-title">. Qui connumerantur in clero, turpibus non deseruiant
+        <div xml:id="gd-p1d86-Dd1e440">
+          <head xml:id="gd-p1d86-Hd1e442">C. XXVI</head>
+          <head xml:id="gd-p1d86-Hd1e445" type="question-title">. Qui connumerantur in clero, turpibus non deseruiant
             lucris.</head>
-          <p>Peruenit ad sanctam sinodum, quia de his qui in clero connumerantur, quidam propter
+          <p xml:id="gd-p1d86-d1e448">Peruenit ad sanctam sinodum, quia de his qui in clero connumerantur, quidam propter
             turpis lucri gratiamaliorum possessionum conductiones, et causas secularium suscipiunt,
             et a sacris® offitiis se per desidiam separant, ad domos autem secularium concurrunt,et
             substantiarum eorum gubernationes auaritiae causasuscipiunt. Decreuit igitur sancta et

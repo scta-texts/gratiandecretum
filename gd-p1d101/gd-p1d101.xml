@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,20 +53,20 @@
     </front>
     <body>
       <div xml:id="gd-p1d101">
-        <head>DISTINCTIO CI.</head>
-        <p>GRATIANUS.</p>
-        <p>In una autem prouincia duo metropolitani esse non debent, sicut in Calcedonensi Concilio,
+        <head xml:id="gd-p1d101-Hd1e103">DISTINCTIO CI.</head>
+        <p xml:id="gd-p1d101-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d101-d1e109">In una autem prouincia duo metropolitani esse non debent, sicut in Calcedonensi Concilio,
           [cap. 12.] statutum est.</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Duo metropolitani in una eademque prouincia esse non
+        <div xml:id="gd-p1d101-Dd1e112">
+          <head xml:id="gd-p1d101-Hd1e114">C. I</head>
+          <head xml:id="gd-p1d101-Hd1e117" type="question-title">. Duo metropolitani in una eademque prouincia esse non
             possunt.</head>
-          <p>Peruenit ad nos, quod quidam preter ecclesiasticas ordinationes affectantes potentiam
+          <p xml:id="gd-p1d101-d1e120">Peruenit ad nos, quod quidam preter ecclesiasticas ordinationes affectantes potentiam
             per pragmaticum sacrum* unam prouinciam in duas diuidant, et ex hoc inueniuntur duo
             metropolitani episcopi in una eademque esse prouincia.Statuit igitur sancta sinodus
             deinceps nichil tale attemptaria quolibet episcopo, eos uero, qui aliquid tale
             temptauerint,cadere de proprio gradu.</p>
-          <p>Gratian. Hactenus de electione et ordinatione clericorum tractauimus. Nunc ad
+          <p xml:id="gd-p1d101-d1e123">Gratian. Hactenus de electione et ordinatione clericorum tractauimus. Nunc ad
             symoniacorum ordinationes transeamus,et ut facile liqueat, quid super hac heresi
             sanctorum Patrumdecreuit auctoritas, causa deducatur in medium, cuius negotiumet de
             scienter a symoniacis ordinatis, et de ignoranter a symoniacisconsecratis,' et de

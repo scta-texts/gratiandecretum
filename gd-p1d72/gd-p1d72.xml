@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,30 +53,30 @@
     </front>
     <body>
       <div xml:id="gd-p1d72">
-        <head>DISTINCTIO LXXII.</head>
-        <p>GRATIANUS.</p>
-        <p>Dimissorias uero litteras episcopus non nisi rogatus tribuatsicut statutum est in Sinodo
+        <head xml:id="gd-p1d72-Hd1e103">DISTINCTIO LXXII.</head>
+        <p xml:id="gd-p1d72-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d72-d1e109">Dimissorias uero litteras episcopus non nisi rogatus tribuatsicut statutum est in Sinodo
           habita Romae.</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Nisi eodem petente, nulli dimissoriae litterae
+        <div xml:id="gd-p1d72-Dd1e112">
+          <head xml:id="gd-p1d72-Hd1e114">C. I</head>
+          <head xml:id="gd-p1d72-Hd1e117" type="question-title">. Nisi eodem petente, nulli dimissoriae litterae
             prestentur.</head>
-          <p>Episcopus subiecto sibi sacerdoti, uel alii clerico, nisi ab ipso postulatus,
+          <p xml:id="gd-p1d72-d1e120">Episcopus subiecto sibi sacerdoti, uel alii clerico, nisi ab ipso postulatus,
             dimissorias non faciat, ne ouis quasi perdita aut errans inueniatur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Cartaginensi III. [c. 21.]Clericum alienum, nisi concedente episcopo,
+        <div xml:id="gd-p1d72-Dd1e124">
+          <head xml:id="gd-p1d72-Hd1e126">C. II</head>
+          <head xml:id="gd-p1d72-Hd1e129" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d72-d1e132">Item ex Concilio Cartaginensi III. [c. 21.]Clericum alienum, nisi concedente episcopo,
             nemo</p>
-          <p>audeat uel retinere, uel promouere in ecclesiam sibi creditam. Clericorum autem nomen
+          <p xml:id="gd-p1d72-d1e135">audeat uel retinere, uel promouere in ecclesiam sibi creditam. Clericorum autem nomen
             etiam lectores et psalmistae et hostiarii retinent.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. In una ecclesia ordinatus m alia non suscipiatur.</head>
-          <p>Item ex Concilio Mileuitano [II. c. 15.]</p>
-          <p>Placuit, ut quicumque in ecclesia uel semel eligitur*, ab alia ecclesia ad clericatum
+        <div xml:id="gd-p1d72-Dd1e140">
+          <head xml:id="gd-p1d72-Hd1e142">C. III</head>
+          <head xml:id="gd-p1d72-Hd1e145" type="question-title">. In una ecclesia ordinatus m alia non suscipiatur.</head>
+          <p xml:id="gd-p1d72-d1e148">Item ex Concilio Mileuitano [II. c. 15.]</p>
+          <p xml:id="gd-p1d72-d1e151">Placuit, ut quicumque in ecclesia uel semel eligitur*, ab alia ecclesia ad clericatum
             non teneatur.</p>
         </div>
       </div>

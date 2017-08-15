@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,31 +53,31 @@
     </front>
     <body>
       <div xml:id="gd-p1d27">
-        <head>DISTINCTIO XXVII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Quod autem unius uxoris uir episcopus iubetureligi, queritur, an de tempore
+        <head xml:id="gd-p1d27-Hd1e103">DISTINCTIO XXVII.</head>
+        <p xml:id="gd-p1d27-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d27-d1e109">I. Pars. Quod autem unius uxoris uir episcopus iubetureligi, queritur, an de tempore
           ordinationis hoc sit accipiendum, ut tempore suae administrationis eius copula possit
           fungi, quam unicam et uirginem sibi desponsauit.</p>
-        <p>Hoc Martinus Papa prohibet dicens:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Non ordinetur diaconus, nisi castitatem professus
+        <p xml:id="gd-p1d27-d1e112">Hoc Martinus Papa prohibet dicens:</p>
+        <div xml:id="gd-p1d27-Dd1e115">
+          <head xml:id="gd-p1d27-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d27-Hd1e120" type="question-title">Non ordinetur diaconus, nisi castitatem professus
             fuerit.</head>
-          <p>Diaconus qui eligitur, si contestatus fuerit pro accipiendo matrimonio, et se dixerit
+          <p xml:id="gd-p1d27-d1e123">Diaconus qui eligitur, si contestatus fuerit pro accipiendo matrimonio, et se dixerit
             in castitate permanerenon posse, hic non ordinetur. Quod si in ordinatione tacuerit et
             ordinatus fuerit, et postea matrimonium desidera-uerit, alienus sit a ministerio et
             uacet a clero.</p>
-          <p>Gratian. Hac auctoritate datur intelligi, quod illi, qui habent uxores uel accipere
+          <p xml:id="gd-p1d27-d1e126">Gratian. Hac auctoritate datur intelligi, quod illi, qui habent uxores uel accipere
             uolunt, nec diacones, nec sacerdotes fieri possunt, nisi continentiam profiteantur. §.
             1. Si uero diaconus a ministerio cessare uoluerit, contracto matrimonio licite potest
             uti. Nam etsi in ordinatione sua castitatis uotum obtulerit, tamen tanta est uis in
             sacramento coniugii, quod nec ex uiolatione uoti potest dissolui coniugium ipsum.</p>
-          <p>Unde Augustinus* in libro de bono coniugali ad Iulianum, [cap. io.]:</p>
+          <p xml:id="gd-p1d27-d1e129">Unde Augustinus* in libro de bono coniugali ad Iulianum, [cap. io.]:</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Nubentes post uotum non sunt abinuicem separandi.</head>
-          <p>II. Pars. Quidam nubentes post uotum adulterosasserunt. Ego autem dico, quod grauiter
+        <div xml:id="gd-p1d27-Dd1e134">
+          <head xml:id="gd-p1d27-Hd1e136">C. II.</head>
+          <head xml:id="gd-p1d27-Hd1e139" type="question-title">Nubentes post uotum non sunt abinuicem separandi.</head>
+          <p xml:id="gd-p1d27-d1e142">II. Pars. Quidam nubentes post uotum adulterosasserunt. Ego autem dico, quod grauiter
             peccant qui tales diuidunt.</p>
 
 
@@ -87,43 +85,43 @@
 
 
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Theodorus.</p>
-          <p>Si uir* uotum uirginitatis habens adiungituruxori, postea non dimittat uxorem, sed
+        <div xml:id="gd-p1d27-Dd1e146">
+          <head xml:id="gd-p1d27-Hd1e148">C. III.</head>
+          <head xml:id="gd-p1d27-Hd1e151" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d27-d1e154">Item Theodorus.</p>
+          <p xml:id="gd-p1d27-d1e157">Si uir* uotum uirginitatis habens adiungituruxori, postea non dimittat uxorem, sed
             tribus annispeniteat.</p>
-          <p>Ieronimus* uero scribit econtra:</p>
+          <p xml:id="gd-p1d27-d1e160">Ieronimus* uero scribit econtra:</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Dampnabile est uouentibus uelle nubere.</head>
-          <p>Vouentibus uirginitatem non solum nubere, sed etiam uelle dampnabile est.</p>
+        <div xml:id="gd-p1d27-Dd1e164">
+          <head xml:id="gd-p1d27-Hd1e166">C. IV.</head>
+          <head xml:id="gd-p1d27-Hd1e169" type="question-title">Dampnabile est uouentibus uelle nubere.</head>
+          <p xml:id="gd-p1d27-d1e172">Vouentibus uirginitatem non solum nubere, sed etiam uelle dampnabile est.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">Dampnationem habebit, si nupserit, que uirginitatem
+        <div xml:id="gd-p1d27-Dd1e176">
+          <head xml:id="gd-p1d27-Hd1e178">C. V.</head>
+          <head xml:id="gd-p1d27-Hd1e181" type="question-title">Dampnationem habebit, si nupserit, que uirginitatem
             uouit.</head>
-          <p>Idem contra Iouinianum, [lib. I.]</p>
-          <p>Si nupserit uirgo, non peccat: non illa uirgo, que se-met cultui diuino dedicauit.
+          <p xml:id="gd-p1d27-d1e184">Idem contra Iouinianum, [lib. I.]</p>
+          <p xml:id="gd-p1d27-d1e187">Si nupserit uirgo, non peccat: non illa uirgo, que se-met cultui diuino dedicauit.
             Harum enim si qua nupserit, habebit dampnationem, quia primam fidem irritam fecit.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Que sanctimonialem se esse fingit non ualet nubere.</head>
-          <p>Item Nicolaus [Papa I. ad Albinum Viennens. ecclesiae Archiepiscopum.]</p>
-          <p>Quod interrogasti de femina, que post obitummariti sui sacrum uelamen super caput suum
+        <div xml:id="gd-p1d27-Dd1e191">
+          <head xml:id="gd-p1d27-Hd1e193">C. VI.</head>
+          <head xml:id="gd-p1d27-Hd1e196" type="question-title">Que sanctimonialem se esse fingit non ualet nubere.</head>
+          <p xml:id="gd-p1d27-d1e199">Item Nicolaus [Papa I. ad Albinum Viennens. ecclesiae Archiepiscopum.]</p>
+          <p xml:id="gd-p1d27-d1e202">Quod interrogasti de femina, que post obitummariti sui sacrum uelamen super caput suum
             inposuit, et finxit se sub eodem uelamine sanctimonialem esse, postea uero ad nuptias
             rediit: bonum mihi uidetur, quia per ypocrisim ecclesiasticam regulam conturbare u
             oluit, et non legitime in uoto suo permansit, ut penitentiam agat de illusione nefanda,
             et reuertatur ad id, quod spopondit, et in sacro ministerio permaneat, quod
             inchoauit.</p>
-          <p>[PALE A.</p>
+          <p xml:id="gd-p1d27-d1e205">[PALE A.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Idem ibid.</head>
-          <p>Nam* si consenserimus, quod omnia sacramenta ecclesiastica quisque prout uult fingat et
+        <div xml:id="gd-p1d27-Dd1e209">
+          <head xml:id="gd-p1d27-Hd1e211">C. VII.</head>
+          <head xml:id="gd-p1d27-Hd1e214" type="question-title">Idem ibid.</head>
+          <p xml:id="gd-p1d27-d1e217">Nam* si consenserimus, quod omnia sacramenta ecclesiastica quisque prout uult fingat et
             non uere faciatomnis ordo ecclesiasticus turbabitur, nec catholicae fidei iura
             consistunt, nec canones sacri rite obseruantur. Quid enim profuit Simoni Mago baptismum
             sacrum ficte suscipere, et in Christianitate permansurum se finxisse, cum per Apostolum,
@@ -131,30 +129,30 @@
             tecum sit in erditionem: cor enim tuum non est rectum coram Deo. enitentiam itaque age
             ab hac nequitia tua, et roga</p>
 
-          <p>Deum, si forte remittatur tibi hec cogitatio cordis tui: in felle enim amaritudinis et
+          <p xml:id="gd-p1d27-d1e220">Deum, si forte remittatur tibi hec cogitatio cordis tui: in felle enim amaritudinis et
             obligatione iniquitatis uideo te esse.“ Ideo tales, nisi resipiscant, spirituali gladio
             percutere censemus. Non enim fas est Spiritui sancto mentiri, sicut Ananias et Saphira
             mentiti sunt, et statim perierunt.]</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">In sacris ordinibus constituti, non ducant uxores: et si
+        <div xml:id="gd-p1d27-Dd1e225">
+          <head xml:id="gd-p1d27-Hd1e227">C. VIII.</head>
+          <head xml:id="gd-p1d27-Hd1e230" type="question-title">In sacris ordinibus constituti, non ducant uxores: et si
             duxerint, separentur.</head>
-          <p>Item Calix tus Papa [II.]</p>
-          <p>Presbiteris*, diaconibus, subdiaconibus et monachis concubinas habere, seu matrimonium
+          <p xml:id="gd-p1d27-d1e233">Item Calix tus Papa [II.]</p>
+          <p xml:id="gd-p1d27-d1e236">Presbiteris*, diaconibus, subdiaconibus et monachis concubinas habere, seu matrimonium
             contrahere penitus interdicimus; contracta quoque matrimonia ab huiusmodi personis
             disiungi, et personas ad penitentiam debere redigi, iuxta sacrorum canonum diffinitionem
             iudicamus.</p>
-          <p>Gratian. Hic distinguendum est, quod uouentium alii sunt simpliciter uouentes, de
+          <p xml:id="gd-p1d27-d1e239">Gratian. Hic distinguendum est, quod uouentium alii sunt simpliciter uouentes, de
             quibus Augustinus et Theodorus locuti sunt, alii sunt, quibus post uotum accedit
             benedictio consecrationis, uel propositum religionis, de quibus Ieronimus et Nicolaus et
             Calixtus scripserunt.</p>
-          <p>Unde contra eundem Iouinianum Ieronimus[lib. I.] scribens, ait:</p>
+          <p xml:id="gd-p1d27-d1e243">Unde contra eundem Iouinianum Ieronimus[lib. I.] scribens, ait:</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Incestae sunt uirgines, que post consecrationem nubunt.</head>
-          <p>Virgines, que post consecrationem nupserint, non tam adulterae sunt, quam incestae.</p>
+        <div xml:id="gd-p1d27-Dd1e247">
+          <head xml:id="gd-p1d27-Hd1e249">C. IX.</head>
+          <head xml:id="gd-p1d27-Hd1e252" type="question-title">Incestae sunt uirgines, que post consecrationem nubunt.</head>
+          <p xml:id="gd-p1d27-d1e255">Virgines, que post consecrationem nupserint, non tam adulterae sunt, quam incestae.</p>
         </div>
       </div>
     </body>

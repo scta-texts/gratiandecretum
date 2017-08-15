@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,17 +53,17 @@
     </front>
     <body>
       <div xml:id="gd-p1d89">
-        <head>DISTINCTIO LXXXIX.</head>
-        <p>4 GRATIANUS.</p>
-        <p>I. Pars. Domui quoque suae oportet bene esse prepositum, ut quedam inde quodammodo
+        <head xml:id="gd-p1d89-Hd1e103">DISTINCTIO LXXXIX.</head>
+        <p xml:id="gd-p1d89-d1e106">4 GRATIANUS.</p>
+        <p xml:id="gd-p1d89-d1e109">I. Pars. Domui quoque suae oportet bene esse prepositum, ut quedam inde quodammodo
           futurae dispensationisargumenta assumantur. In dispensatione uero ecclesiae hancregulam
           obseruandam nouerit, ut nulli quantumlibet exercitataepersonae duo simul offitia
           committat, neque secularibus uiris resecclesiasticas gubernandas committat.</p>
-        <p>Unde Gregorius* scribit omnibus Episcopis:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Uni personae duo non committantur offitia.</head>
-          <p>Singula ecclesiastici iuris offitia singulis quibusque personis singillatim committi
+        <p xml:id="gd-p1d89-d1e112">Unde Gregorius* scribit omnibus Episcopis:</p>
+        <div xml:id="gd-p1d89-Dd1e115">
+          <head xml:id="gd-p1d89-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d89-Hd1e120" type="question-title">. Uni personae duo non committantur offitia.</head>
+          <p xml:id="gd-p1d89-d1e123">Singula ecclesiastici iuris offitia singulis quibusque personis singillatim committi
             iubemus. Sicut enim in uno corpore multa membra habemus, omnia autem membranon eundem
             actum habent, ita in ecclesiae corpore secundum ueridicam Pauli sententiam in uno
             eodemquespirituali corpore conferendum est hoc offitium uni,alii committendum est illud,
@@ -77,37 +75,37 @@
             humanoalterius fungatur offitio alterum membrum, ita nimirumnoxium simulque turpissimum,
             si singula rerum ministeria personis totidem non fuerint distributa.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Quilibet episcopus uicedominum et yconomum habeat.</head>
-          <p>Item Gregorius An ternio Subdiacono, [lib. IX. epist. 66.] </p>
-          <p>II. Pars. Volumus, ut frater noster Pascasius et uicedominum sibi ordinet et maiorem
+        <div xml:id="gd-p1d89-Dd1e128">
+          <head xml:id="gd-p1d89-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d89-Hd1e133" type="question-title">. Quilibet episcopus uicedominum et yconomum habeat.</head>
+          <p xml:id="gd-p1d89-d1e136">Item Gregorius An ternio Subdiacono, [lib. IX. epist. 66.] </p>
+          <p xml:id="gd-p1d89-d1e139">II. Pars. Volumus, ut frater noster Pascasius et uicedominum sibi ordinet et maiorem
             domus, quatinus possituel hospitibus superuenientibus, uel causis, que eueniunt,idoneus
             et paratus existere. Si uero negligentem eumprospicis, uel ea, que dicimus, inplere
             differentem,omnis eius clerus adhiberi debet, ut communi consilio ipsieligant, quorum
             personae ad ea, que prediximus ualeantordinari.</p>
-          <p>Gratian*. Offitium uicedomini est episcopium disponere.</p>
-          <p>Unde Gregorius Clementinae Patriciae, [lib. I. epist. ii.] post alia:</p>
+          <p xml:id="gd-p1d89-d1e142">Gratian*. Offitium uicedomini est episcopium disponere.</p>
+          <p xml:id="gd-p1d89-d1e146">Unde Gregorius Clementinae Patriciae, [lib. I. epist. ii.] post alia:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Quid™ sit offitium uicedomini.</head>
-          <p>Diaconum uero Anatholium, quem ad uos dirigi poposcistis, hoc nos facere non posse,
+        <div xml:id="gd-p1d89-Dd1e150">
+          <head xml:id="gd-p1d89-Hd1e152">C. III</head>
+          <head xml:id="gd-p1d89-Hd1e155" type="question-title">. Quid™ sit offitium uicedomini.</head>
+          <p xml:id="gd-p1d89-d1e158">Diaconum uero Anatholium, quem ad uos dirigi poposcistis, hoc nos facere non posse,
             causae magis modus quam rigoris auctoritas facit. Vicedominum enim eum constituimus,
             cuius arbitrio episcopium commisimus disponendum.</p>
-          <p>Quia in quibusdam ecclesiis, sicut ad nos peruenit, sine yconomo episcopi res
+          <p xml:id="gd-p1d89-d1e161">Quia in quibusdam ecclesiis, sicut ad nos peruenit, sine yconomo episcopi res
             ecclesiasticas tractant, placuit,omnes ecclesias habentes episcopos etiam yconomoshabere
             de proprio clero, qui gubernent res ecclesiae cumarbitrio sui episcopi, ut non sine
             testimonio sit gubernatioipsarum rerum ecclesiasticarum, neque ex hoc eueniatres eiusdem
             ecclesiae dispergi, et sacerdotali dignitati obtrectatio generetur. Si uero quis hoc non
             obseruauerit,diuinis subiaceat regulis.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Secularibus uiris res ecclesiasticae non
+        <div xml:id="gd-p1d89-Dd1e165">
+          <head xml:id="gd-p1d89-Hd1e167">C. V</head>
+          <head xml:id="gd-p1d89-Hd1e170" type="question-title">. Secularibus uiris res ecclesiasticae non
             committantur.</head>
-          <p>Item Gregorius Iohannis Carolitano^ Episcopo, [lib. VII. epist. 66.]</p>
-          <p>Indicatum est nobis, quod laicis quibusdam curam uestri patrimonii commiseritis, qui
+          <p xml:id="gd-p1d89-d1e173">Item Gregorius Iohannis Carolitano^ Episcopo, [lib. VII. epist. 66.]</p>
+          <p xml:id="gd-p1d89-d1e176">Indicatum est nobis, quod laicis quibusdam curam uestri patrimonii commiseritis, qui
             postmodum in rusticorumuestrorum depredationibus atque ex fatigationibus* fuerunt
             deprehensi. Quod si ita est, districte a uobisdiscuti conuenit, atque inter eos
             ecclesiaeque uestrae rusticos causam examinare subtilius. Et quicquid fraudisinuentum
@@ -117,29 +115,29 @@
             quibus, si quid reperiri poteritprauitatis, ut in subditis emendare quod illicite gestum
             fueritualeatis: quo** uidelicet apud uos habitus sui offitiummagis conuenienter
             amministrent, quam accusent.</p>
-          <p>III. Pars. Gratian. Propinquis, uel etiam fauore sibi coniunctim, ecclesiastica offitia
+          <p xml:id="gd-p1d89-d1e179">III. Pars. Gratian. Propinquis, uel etiam fauore sibi coniunctim, ecclesiastica offitia
             committere non audeat.</p>
-          <p>Unde in Tolletano Concilio X. [c. 3.]:</p>
+          <p xml:id="gd-p1d89-d1e183">Unde in Tolletano Concilio X. [c. 3.]:</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Ecclesiastica episcopus non committat offitia propinquis uel
+        <div xml:id="gd-p1d89-Dd1e187">
+          <head xml:id="gd-p1d89-Hd1e189">C. VI</head>
+          <head xml:id="gd-p1d89-Hd1e192" type="question-title">. Ecclesiastica episcopus non committat offitia propinquis uel
             fauore coniunctis.</head>
-          <p>Decenter omnibus placet, in presenti tale rescindere factum, et non esse de cetero
+          <p xml:id="gd-p1d89-d1e195">Decenter omnibus placet, in presenti tale rescindere factum, et non esse de cetero
             faciendum. Quicumque igitur pontificum deinceps aut sanguine propinquis, autfauore
             personae quibuscumque deuinctis talia lucracommendare temptauerit, ad suum nefandae
             presumptionis excidium et quod iussum fuerit deuocetur in irritum, et qui ordinauerit
             annuae excommunicationi subiaceat. Que uero ablata fortasse fuerint, ab eo, qui
             tulit,reddantur in duplum.</p>
-          <p>Gratian. Porro ipsa offiiia quare ita sint distinguenda necs uni personae omnia
+          <p xml:id="gd-p1d89-d1e198">Gratian. Porro ipsa offiiia quare ita sint distinguenda necs uni personae omnia
             committenda, ex auctoritate Gregoriiet ex auctoritate Bonifatii Papae datur intelligi,
             qui ait :</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Graduum et ordinum distributio ecclesiasticam unitatem
+        <div xml:id="gd-p1d89-Dd1e202">
+          <head xml:id="gd-p1d89-Hd1e204">C. VII</head>
+          <head xml:id="gd-p1d89-Hd1e207" type="question-title">. Graduum et ordinum distributio ecclesiasticam unitatem
             conseruat*.</head>
-          <p>Ad hoc dispositionis prouisio gradus diuersos et ordines 'constituit esse distinctos,
+          <p xml:id="gd-p1d89-d1e210">Ad hoc dispositionis prouisio gradus diuersos et ordines 'constituit esse distinctos,
             ut, dum reuerentiamminores potioribus exhiberent, et potiores minoribus dilectionem
             inpenderent,uera concordia fieret ex diuersitatecontextio, et recte offitiorum gereretur
             administratio singulorum. Neque uniuersitas alia poterat ratione subsistere,nisi

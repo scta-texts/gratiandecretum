@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d57">
-        <head>DISTINCTIO LVII.</head>
-        <p>GRATIANUS.</p>
-        <p>Item, qui in egritudine constitutus baptizatur, presbiter ordinari non debet.</p>
-        <p>Unde in Neocesariensi Concilio, [c. 12.] legitur:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Non ordinetur presbiter, in egritudine constitutus
+        <head xml:id="gd-p1d57-Hd1e103">DISTINCTIO LVII.</head>
+        <p xml:id="gd-p1d57-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d57-d1e109">Item, qui in egritudine constitutus baptizatur, presbiter ordinari non debet.</p>
+        <p xml:id="gd-p1d57-d1e112">Unde in Neocesariensi Concilio, [c. 12.] legitur:</p>
+        <div xml:id="gd-p1d57-Dd1e115">
+          <head xml:id="gd-p1d57-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d57-Hd1e120" type="question-title">. Non ordinetur presbiter, in egritudine constitutus
             baptizatur.</head>
-          <p>Si* quis in egritudine constitutus baptizatus fuerit,presbiter ordinari non debet, (non
+          <p xml:id="gd-p1d57-d1e123">Si* quis in egritudine constitutus baptizatus fuerit,presbiter ordinari non debet, (non
             enim fides illius uoluntaria, sed ex necessitate est), nisi forte postea ipsius studium
             etfides probabilis fuerit, aut hominum raritas exegerit.</p>
         </div>

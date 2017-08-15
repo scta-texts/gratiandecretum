@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,27 +53,27 @@
     </front>
     <body>
       <div xml:id="gd-p1d92">
-        <head>DISTINCTIO XCII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Cum autem ad ecclesiam uenerint, corde magis quam uoce Deo cantandum
+        <head xml:id="gd-p1d92-Hd1e103">DISTINCTIO XCII.</head>
+        <p xml:id="gd-p1d92-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d92-d1e109">I. Pars. Cum autem ad ecclesiam uenerint, corde magis quam uoce Deo cantandum
           meminerint.</p>
-        <p>Unde Ieronimus in epistola ad Ephesios:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Corde, non uoce Deum laudare debemus.</head>
-          <p>,, Cantantes et psallentes in cordibus uestris Domino.Audiant hec adolescentuli,
+        <p xml:id="gd-p1d92-d1e112">Unde Ieronimus in epistola ad Ephesios:</p>
+        <div xml:id="gd-p1d92-Dd1e115">
+          <head xml:id="gd-p1d92-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d92-Hd1e120" type="question-title">. Corde, non uoce Deum laudare debemus.</head>
+          <p xml:id="gd-p1d92-d1e123">,, Cantantes et psallentes in cordibus uestris Domino.Audiant hec adolescentuli,
             audiant hi, quibus in ecclesiaest psallendi offitium: Deo non uoce, sed corde
             cantandum,nec in tragediarum modum guttur et fauces medicamine liniendae sunt, ut in
             ecclesia teatrales moduli audiantur et cantica .</p>
-          <p>Gratian. Ab offitio autem cantandi et psallendi diaconi inueniuntur excepti*, ne, dum
+          <p xml:id="gd-p1d92-d1e126">Gratian. Ab offitio autem cantandi et psallendi diaconi inueniuntur excepti*, ne, dum
             uocis modulationi student altaris ministeria negligant.</p>
-          <p>Unde Gregorius [lib. IV. epist. 44. et 1. XII. post finem epistolarum, in Concilio ab
+          <p xml:id="gd-p1d92-d1e129">Unde Gregorius [lib. IV. epist. 44. et 1. XII. post finem epistolarum, in Concilio ab
             ipso habito]:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Cantandi offitium sibi diacones non usurpent.</head>
-          <p>In sancta ecclesia Romana dudum consuetudo est ualde reprehensibilis exorta, ut quidam
+        <div xml:id="gd-p1d92-Dd1e134">
+          <head xml:id="gd-p1d92-Hd1e136">C. II</head>
+          <head xml:id="gd-p1d92-Hd1e139" type="question-title">. Cantandi offitium sibi diacones non usurpent.</head>
+          <p xml:id="gd-p1d92-d1e142">In sancta ecclesia Romana dudum consuetudo est ualde reprehensibilis exorta, ut quidam
             ad sacri altaris ministerium* cantores eligantur, et in diaconatus ordine constituti
             modulationi uocis inseruiant, quos ad predicationisoffitium et elemosinarum studium
             uacare congruebat.Unde fit plerumque ut in sacro ministerio, dum blandauox queritur,
@@ -85,84 +83,84 @@
             solempnia exsoluant; psalmos uero ac reliquas lectionescenseo per subdiaconos uel, si
             necessitas exigit, per minoresordines exhiberi. Si quis autem contra hoc decretum
             meumuenire temptauerit, anathema sit.</p>
-          <p>II. Pars. Gratian. A quibus ordinandos oporteat esseinmunes, breuiter monstratum est.
+          <p xml:id="gd-p1d92-d1e145">II. Pars. Gratian. A quibus ordinandos oporteat esseinmunes, breuiter monstratum est.
             De quorum uero manibussuos ordines suscipere debeant, facile patet. Sacerdos enimet
             cuncti infra ipsum constituti ab epicopis debent * ordinari.</p>
-          <p>Unde in Concilio Martini Papae legitur:</p>
+          <p xml:id="gd-p1d92-d1e148">Unde in Concilio Martini Papae legitur:</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Qui ab episcopo non ordinantur , in pulpito non psallant
+        <div xml:id="gd-p1d92-Dd1e152">
+          <head xml:id="gd-p1d92-Hd1e154">C. III</head>
+          <head xml:id="gd-p1d92-Hd1e157" type="question-title">. Qui ab episcopo non ordinantur , in pulpito non psallant
             uel$ legant.</head>
-          <p>Non liceat in pulpito psallere aut legere, nisi qui ab episcopo ordinati sunt
+          <p xml:id="gd-p1d92-d1e160">Non liceat in pulpito psallere aut legere, nisi qui ab episcopo ordinati sunt
             lectores.</p>
-          <p>Gratian. De episcopis autem., a quibus uel in quibus locis ordinari debeant, supra
+          <p xml:id="gd-p1d92-d1e163">Gratian. De episcopis autem., a quibus uel in quibus locis ordinari debeant, supra
             diffinitum est.</p>
-          <p>III. Pars. §. 1. Nunc autem queritur de his, qui ordinatia parrochia sua non
+          <p xml:id="gd-p1d92-d1e166">III. Pars. §. 1. Nunc autem queritur de his, qui ordinatia parrochia sua non
             recipiuntur, uel pro aliqua causa easadire noluerint, an in alterius parrochia
             episcopale possint offitiumcelebrare? De his in Concilio Martini Papae sic
             statutuminuenitur:</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Sacerdotis tantum offitium gerat episcopus, quem sua
+        <div xml:id="gd-p1d92-Dd1e170">
+          <head xml:id="gd-p1d92-Hd1e172">C. IV</head>
+          <head xml:id="gd-p1d92-Hd1e175" type="question-title">. Sacerdotis tantum offitium gerat episcopus, quem sua
             parrochia non recipit.</head>
-          <p>Si quis ordinatus episcopus* pro contemptione** populi aut pro aliqua ratione, non pro
+          <p xml:id="gd-p1d92-d1e178">Si quis ordinatus episcopus* pro contemptione** populi aut pro aliqua ratione, non pro
             sua culpa, in parrochiam, que ei fuerit data, non ierit, hunc oportet honorem sacerdotii
             tantummodo contingere, ita ut de rebusecclesiae, in quam conuenit nichil presumat^,
             sustineatautem, quid de eo sanctum concilium iudicare uoluerit.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. De episcopo ordinato, quem sua parrochia non recipit.</head>
-          <p>Item ex Concilio Antioceno, [c. 18.]</p>
-          <p>Si quis episcopus ordinatus ad parrochiam, cuius est electus, minime accesserit, non
+        <div xml:id="gd-p1d92-Dd1e182">
+          <head xml:id="gd-p1d92-Hd1e184">C. V</head>
+          <head xml:id="gd-p1d92-Hd1e187" type="question-title">. De episcopo ordinato, quem sua parrochia non recipit.</head>
+          <p xml:id="gd-p1d92-d1e190">Item ex Concilio Antioceno, [c. 18.]</p>
+          <p xml:id="gd-p1d92-d1e193">Si quis episcopus ordinatus ad parrochiam, cuius est electus, minime accesserit, non
             suo uitio, sed quod eum autpopulus uetet*, aut propter aliam causam, non tamen eiusuitio
             perpetratam, hic et honoris sit et ministerii particeps,dummodo rebus ecclesiae, ubi
             ministrare cognoscitur, innullo molestus existat. Quem etiam obseruare** conuenit,
             quicquid sinodus perfecte *** prouinciae iudicandodecreuerit.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. ^4 sua parrochia non recepti aliis molestiam non
+        <div xml:id="gd-p1d92-Dd1e197">
+          <head xml:id="gd-p1d92-Hd1e199">C. VI</head>
+          <head xml:id="gd-p1d92-Hd1e202" type="question-title">. ^4 sua parrochia non recepti aliis molestiam non
             inferant.</head>
-          <p>Item ex Concilio Anciranq, [c. 28.]</p>
-          <p>Si qui episcopi ordinati sunt, nec recepti ab illa parrochia, in qua fuerant
+          <p xml:id="gd-p1d92-d1e205">Item ex Concilio Anciranq, [c. 28.]</p>
+          <p xml:id="gd-p1d92-d1e208">Si qui episcopi ordinati sunt, nec recepti ab illa parrochia, in qua fuerant
             denominati, uoluerintque alias occupare parrochias, et uim presulibus earum inferre,
             seditiones aduersus eos excitando, eos abici placuit. Quod si uolue-rint in presbiterii
             ordine, ubi prius fuerant, ut presbiteriresidere, non abiciantur a propria dignitate. Si
             autemseditiones commouerint ibidem constitutis episcopis,presbiterii quoque honor
             talibus auferatur, fiantque dam-pnatione notabiles.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Communione priuetur episcopus, qui ecclesiam sibi commissam
+        <div xml:id="gd-p1d92-Dd1e212">
+          <head xml:id="gd-p1d92-Hd1e214">C. VII</head>
+          <head xml:id="gd-p1d92-Hd1e217" type="question-title">. Communione priuetur episcopus, qui ecclesiam sibi commissam
             adire neglexerit.</head>
-          <p>Item ex Concilio Antioceno, [c. 17.]</p>
-          <p>Si quis episcopus per manus inpositionem episcopatum acceperit, et sibi* commissum
+          <p xml:id="gd-p1d92-d1e220">Item ex Concilio Antioceno, [c. 17.]</p>
+          <p xml:id="gd-p1d92-d1e223">Si quis episcopus per manus inpositionem episcopatum acceperit, et sibi* commissum
             ministerium subire neglexerit, nec acquieuerit ire ad ecclesiam sibi commissam,hunc
             oportet communione priuari, donec susceperitcoactus offitium, aut certe de eo aliquid
             integre decre-uerit eiusdem prouinciae sinodus sacerdotum.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Sine consilio integri ordinis uacantem ecclesiam episcopus
+        <div xml:id="gd-p1d92-Dd1e228">
+          <head xml:id="gd-p1d92-Hd1e230">C. VIII</head>
+          <head xml:id="gd-p1d92-Hd1e233" type="question-title">. Sine consilio integri ordinis uacantem ecclesiam episcopus
             non adeat.</head>
-          <p>Item ex eodem, [c. 16.]*</p>
-          <p>Si quis episcopus uacans in ecclesiam non habentem episcopum, subripiens populos, sine
+          <p xml:id="gd-p1d92-d1e236">Item ex eodem, [c. 16.]*</p>
+          <p xml:id="gd-p1d92-d1e239">Si quis episcopus uacans in ecclesiam non habentem episcopum, subripiens populos, sine
             consilio integri ordinis irruerit, etiamsi populus, quem seduxit, desideret
             illum,alienum eum ab ecclesia esse oportet. Integrum autemet perfectum concilium dicimus
             illud, cui metropolitanus**episcopus interfuerit.</p>
-          <p>IV. Pars. Gratian. Quod autem supra clerici se uigiliis subtrahentes excommunicari
+          <p xml:id="gd-p1d92-d1e242">IV. Pars. Gratian. Quod autem supra clerici se uigiliis subtrahentes excommunicari
             iubentur, de his intelligendum est, quiab episcopo frequenter admonitinegligentiam suam
             corrigere con-tempnunt.</p>
-          <p>Unde in Concilio Martini Papae legitur:</p>
+          <p xml:id="gd-p1d92-d1e246">Unde in Concilio Martini Papae legitur:</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Excommunicetur clericus, qui ab episcopo commonitus
+        <div xml:id="gd-p1d92-Dd1e250">
+          <head xml:id="gd-p1d92-Hd1e252">C. IX</head>
+          <head xml:id="gd-p1d92-Hd1e255" type="question-title">. Excommunicetur clericus, qui ab episcopo commonitus
             matutinis uel uespertinis horis adesse neglexerit.</head>
-          <p>Si quis presbiter aut diaconus uel quilibet clericus ecclesiae deputatus, si in
+          <p xml:id="gd-p1d92-d1e258">Si quis presbiter aut diaconus uel quilibet clericus ecclesiae deputatus, si in
             quolibet loco fuerit, inquo ecclesia est, et ad cottidianum psallendi offitium matutinis
             uel uespertinis horis ad ecclesiam non conuenit,deponatur a clero, si tamen castigatus
             ueniam ab episcopoper satisfactionem noluerit promereri.</p>

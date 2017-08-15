@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,21 +53,21 @@
     </front>
     <body>
       <div xml:id="gd-p1d9">
-        <head>DISTINCTIO IX.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Quod autem constitutio naturali iuri cedat multiplici auctoritate probatur.</p>
-        <p>Ait enim Augustinus ad Bonifatium [Comitem, epist L.]:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Leges principum naturali iuri preualere non debent.</head>
-          <p>[PALE A*.</p>
-          <p>Imperatores, quando pro falsitate contra ueritatem constituunt malas leges, probantur
+        <head xml:id="gd-p1d9-Hd1e103">DISTINCTIO IX.</head>
+        <p xml:id="gd-p1d9-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d9-d1e109">I. Pars. Quod autem constitutio naturali iuri cedat multiplici auctoritate probatur.</p>
+        <p xml:id="gd-p1d9-d1e112">Ait enim Augustinus ad Bonifatium [Comitem, epist L.]:</p>
+        <div xml:id="gd-p1d9-Dd1e115">
+          <head xml:id="gd-p1d9-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d9-Hd1e120" type="question-title">Leges principum naturali iuri preualere non debent.</head>
+          <p xml:id="gd-p1d9-d1e123">[PALE A*.</p>
+          <p xml:id="gd-p1d9-d1e126">Imperatores, quando pro falsitate contra ueritatem constituunt malas leges, probantur
             bene credentes et coronantur perseuerantes; quando autem pro ueritate contra falsitatem
             constituunt bonas leges, terrentur seuientes et corriguntur intelligentes.]</p>
-          <p>§. 1. Quicumque** legibus imperatorum, que pro Dei ueritate feruntur, obtemperare non
+          <p xml:id="gd-p1d9-d1e129">§. 1. Quicumque** legibus imperatorum, que pro Dei ueritate feruntur, obtemperare non
             uult, acquirit grande supplicium. Quicumque ergo legibus imperatorum, que contra
             uoluntatem Dei® feruntur, obtemperare non uult, acquirit grande premium.</p>
-          <p>[§. 2. Nam et temporibus prophetarum omnes reges, qui in populo Dei non prohibuerunt,
+          <p xml:id="gd-p1d9-d1e133">[§. 2. Nam et temporibus prophetarum omnes reges, qui in populo Dei non prohibuerunt,
             nec euerterunt, que contra Dei precepta fuerant instituta, culpantur, et qui
             prohibuerunt et euerterunt, super aliorum merita laudantur. Et rex Nabuchodonosor, cum
             seruus esset idolorum, constituit sacrilegam legem, ut simulacrum adoraretur; sed eius
@@ -77,10 +75,10 @@
             diuino correctus miraculo, piam et laudabilem legem pro ueritate constituit, ut
             quicumque diceret blasphemiam in Deum Sidrac, Misac et Abdenago, cum domo sua penitus
             interiret.]</p>
-          <p>[PALEA.</p>
-          <p>C. II.* Principes tenentur et ipsi uiuere legibus suis.</p>
-          <p>Item ex uerbis Isi dori lib. III. Sententiarum, de summo bono, c. 53.</p>
-          <p>Iustum est, principem legibus obtemperare suis. Tunc enim iura sua ab omnibus
+          <p xml:id="gd-p1d9-d1e136">[PALEA.</p>
+          <p xml:id="gd-p1d9-d1e139">C. II.* Principes tenentur et ipsi uiuere legibus suis.</p>
+          <p xml:id="gd-p1d9-d1e142">Item ex uerbis Isi dori lib. III. Sententiarum, de summo bono, c. 53.</p>
+          <p xml:id="gd-p1d9-d1e145">Iustum est, principem legibus obtemperare suis. Tunc enim iura sua ab omnibus
             custodienda existimet, quando et ipse illis reuerentiam prebet. Principes legibus teneri
             suis, nec in se conuenit, posse damnare iura, que in subiectisconstituunt. Iusta est
             enim uocis eorum auctoritas, si quod populis prohibent, sibi licere non patiantur.]</p>
@@ -90,23 +88,23 @@
 
 
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Scripturis canonicis tractatorum litterae deseruiunt.</head>
-          <p>Idem^* in Prologo libri III. de Trinitate.</p>
-          <p>II. Pars. Noli meis litteris quasi canonicis scripturis inseruire. Sed in illis et quod
+        <div xml:id="gd-p1d9-Dd1e150">
+          <head xml:id="gd-p1d9-Hd1e152">C. III.</head>
+          <head xml:id="gd-p1d9-Hd1e155" type="question-title">Scripturis canonicis tractatorum litterae deseruiunt.</head>
+          <p xml:id="gd-p1d9-d1e158">Idem^* in Prologo libri III. de Trinitate.</p>
+          <p xml:id="gd-p1d9-d1e161">II. Pars. Noli meis litteris quasi canonicis scripturis inseruire. Sed in illis et quod
             non credebas cum inue-neris, incunctanter crede: in istis autem, quod certum habebas,
             nisi certum intellexeris, noli firme tenere.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">In tractatorum opusculis multa corrigenda inueniuntur. Idem ad
+        <div xml:id="gd-p1d9-Dd1e165">
+          <head xml:id="gd-p1d9-Hd1e167">C. IV.</head>
+          <head xml:id="gd-p1d9-Hd1e170" type="question-title">In tractatorum opusculis multa corrigenda inueniuntur. Idem ad
             Vincentium Victorem, lib. II. [lib. IV. de anima et eius origine, cap. i.]</head>
-          <p>Negare non possum, nec debeo, sicut in ipsis maioribus, ita multa esse in tam multis
+          <p xml:id="gd-p1d9-d1e173">Negare non possum, nec debeo, sicut in ipsis maioribus, ita multa esse in tam multis
             opusculis meis, que possunt iusto iudicio et nulla temeritate culpari.</p>
-          <p>. C. V. In scripturis canonicis mendacia non admittuntur.</p>
-          <p>Idem ad Ieronimum, epist. VIII. [XIX.]</p>
-          <p>Ego solis eis scriptorum, qui iam canonici appellantur, didici hunc timorem honoremque
+          <p xml:id="gd-p1d9-d1e176">. C. V. In scripturis canonicis mendacia non admittuntur.</p>
+          <p xml:id="gd-p1d9-d1e179">Idem ad Ieronimum, epist. VIII. [XIX.]</p>
+          <p xml:id="gd-p1d9-d1e183">Ego solis eis scriptorum, qui iam canonici appellantur, didici hunc timorem honoremque
             referre, ut nullum eorum scribendo errasse audeam credere, ac si aliquid in eis
             offendero, quod uideatur contrarium ueritati, nichil aliud quam uel mendosum esse
             codicem, uel non esse assecutum interpretem, quod dictum est, uel me minime
@@ -115,30 +113,30 @@
             auctores, uel canonicas uel probabiles rationes, quod a uero non abhorreat, persuadere
             potuerunt.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Libris ueterum ebrea uolumina, nouis greca auctoritatem
+        <div xml:id="gd-p1d9-Dd1e187">
+          <head xml:id="gd-p1d9-Hd1e189">C. VI.</head>
+          <head xml:id="gd-p1d9-Hd1e192" type="question-title">Libris ueterum ebrea uolumina, nouis greca auctoritatem
             impendunt.</head>
-          <p>Idem *.</p>
-          <p>Ut ueterum librorum fides de ebreis uoluminibus examinanda est, ita nouorum greci
+          <p xml:id="gd-p1d9-d1e195">Idem *.</p>
+          <p xml:id="gd-p1d9-d1e198">Ut ueterum librorum fides de ebreis uoluminibus examinanda est, ita nouorum greci
             sermonis normam desiderat.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Nichil auctoritatis canonicis remanebit scripturis, si ad eas
+        <div xml:id="gd-p1d9-Dd1e202">
+          <head xml:id="gd-p1d9-Hd1e204">C. VII.</head>
+          <head xml:id="gd-p1d9-Hd1e207" type="question-title">Nichil auctoritatis canonicis remanebit scripturis, si ad eas
             mendacia fuerint admissa.</head>
-          <p>Idem in Ep. /. ad Ieronimum, [epist. IX.]</p>
-          <p>Si ad scripturas sanctas admissa fixerint uel offitiosa mendacia, quid in eis remanebit
+          <p xml:id="gd-p1d9-d1e210">Idem in Ep. /. ad Ieronimum, [epist. IX.]</p>
+          <p xml:id="gd-p1d9-d1e213">Si ad scripturas sanctas admissa fixerint uel offitiosa mendacia, quid in eis remanebit
             auctoritatis? Que tandem de scripturis illis sententia proferetur, cuius pondere
             contentiosae falsitatis obteretur improbitas?</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Litteris omnium episcoporum sacra scriptura preponatur.</head>
-          <p>Idem de unico baptismo lib. II. [Item de Baptismo contra Donatistas, lib. II. c.
+        <div xml:id="gd-p1d9-Dd1e217">
+          <head xml:id="gd-p1d9-Hd1e219">C. VIII.</head>
+          <head xml:id="gd-p1d9-Hd1e222" type="question-title">Litteris omnium episcoporum sacra scriptura preponatur.</head>
+          <p xml:id="gd-p1d9-d1e225">Idem de unico baptismo lib. II. [Item de Baptismo contra Donatistas, lib. II. c.
             3.]</p>
 
-          <p>Quis nesciat sanctam scripturam canonicam, tam uete-ris quam noui testamenti, certis
+          <p xml:id="gd-p1d9-d1e228">Quis nesciat sanctam scripturam canonicam, tam uete-ris quam noui testamenti, certis
             terminis suis contineri, eam-que posterioribus omnibus episcoporum litteris ita preponi,
             ut de illa omnino dubitari et disceptari non possit, utrum uerum uel utrum rectum sit,
             quicquid in ea scriptum constiterit esse? Episcoporum autem litteras, que post
@@ -147,12 +145,12 @@
             doctio-remque prudentiam, et per concilia licere reprehendi, si quid in eis forte a
             ueritate deuiatum est?</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Contra diuina mandata calumpniae non colliganturex quorumlibet
+        <div xml:id="gd-p1d9-Dd1e232">
+          <head xml:id="gd-p1d9-Hd1e234">C. IX.</head>
+          <head xml:id="gd-p1d9-Hd1e237" type="question-title">Contra diuina mandata calumpniae non colliganturex quorumlibet
             dictis episcoporum.</head>
-          <p>Idem ad Vincentium [epist. XLVIII. contra Donatistas].</p>
-          <p>Noli frater contra diuina tam multa, tam preclara, tam indubitata testimonia colligere
+          <p xml:id="gd-p1d9-d1e240">Idem ad Vincentium [epist. XLVIII. contra Donatistas].</p>
+          <p xml:id="gd-p1d9-d1e243">Noli frater contra diuina tam multa, tam preclara, tam indubitata testimonia colligere
             uelle calumpnias ex episcoporum scriptis, siue nostrorum, sicut Ylarii, siue* (antequam
             pars Donati separetur ,) Cipriani et Agrippini; primo, quia hoc genus litterarum ab
             auctoritate canonis distinguendum est: non enim sic leguntur, tamquam ita ex eis
@@ -160,25 +158,25 @@
             quam ueritas postulat. In eo quippe numero sumus, ut non dedignemur etiam nobis dictum
             ab Apostolo accipere: „Et si quid aliter sapitis, quoque uobis Deus reuelauit^**.</p>
         </div>
-        <div>
-          <head>C. X.</head>
-          <head type="question-title">Non debetur par reuerentia canonicis scripturis et
+        <div xml:id="gd-p1d9-Dd1e248">
+          <head xml:id="gd-p1d9-Hd1e250">C. X.</head>
+          <head xml:id="gd-p1d9-Hd1e253" type="question-title">Non debetur par reuerentia canonicis scripturis et
             expositionibus earum.</head>
-          <p>Idem in Ep. ad Fortunatum [Item ad Fortunatianum, epist. III.]</p>
-          <p>Neque quorumlibet disputationes, quamuis catholicorum et laudatorum hominum, uelut
+          <p xml:id="gd-p1d9-d1e256">Idem in Ep. ad Fortunatum [Item ad Fortunatianum, epist. III.]</p>
+          <p xml:id="gd-p1d9-d1e259">Neque quorumlibet disputationes, quamuis catholicorum et laudatorum hominum, uelut
             scripturas canonicas habere debemus,'ut nobis non liceat salua honorificentia, que illis
             debetur hominibus, aliquid in eorum scriptis inprobare atque respuere, si forte
             inuenerimus, quod aliter senserint quam ueritas habet, diuino adiutorio uel ab aliis
             intellecta uel a nobis. Talis ego sum in scriptis aliorum, qualesuolo esse intellectores
             meorum.</p>
         </div>
-        <div>
-          <head>C. XI.</head>
-          <head type="question-title">Exemplis ratio sana prefertur.</head>
-          <p>Idem ad Casulanum [ad Marcellinum de civitate Dei lib. I. c. 22. §. 2.] </p>
-          <p>Sana quippe ratio etiam exemplis anteponenda est: cui quidem et exempla concordant, sed
+        <div xml:id="gd-p1d9-Dd1e263">
+          <head xml:id="gd-p1d9-Hd1e265">C. XI.</head>
+          <head xml:id="gd-p1d9-Hd1e268" type="question-title">Exemplis ratio sana prefertur.</head>
+          <p xml:id="gd-p1d9-d1e271">Idem ad Casulanum [ad Marcellinum de civitate Dei lib. I. c. 22. §. 2.] </p>
+          <p xml:id="gd-p1d9-d1e274">Sana quippe ratio etiam exemplis anteponenda est: cui quidem et exempla concordant, sed
             illa, que tantum digniora sunt imitatione, quantum excellentiora pietate.</p>
-          <p>Gratianus. Cum ergo naturali iure nichil aliud precipiatur, quam quod Deus uult fieri,
+          <p xml:id="gd-p1d9-d1e277">Gratianus. Cum ergo naturali iure nichil aliud precipiatur, quam quod Deus uult fieri,
             nichilque uetetur, quam quod Deus prohibet fieri; denique cum in canonica scriptura
             nichil aliud, quam in diuinis legibus inueniatur, diuine uero leges natura consistant:
             patet, quod quecumque diuinae uoluntati, seu canonicae scripturae contraria probantur,

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,19 +53,19 @@
     </front>
     <body>
       <div xml:id="gd-p1d43">
-        <head>DISTINCTIO XLIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Pudicus quoque debet esse sacerdos, ut et moribus, et uerbis pudorem
+        <head xml:id="gd-p1d43-Hd1e103">DISTINCTIO XLIII.</head>
+        <p xml:id="gd-p1d43-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d43-d1e109">I. Pars. Pudicus quoque debet esse sacerdos, ut et moribus, et uerbis pudorem
           indesinenter exhibeat. Unde in Canticis Canticorum genae sponsae, id est predicatores,
           turturi comparantur.§. i. Debet etiam gratiam docendi liabere, quia, ut Ieronimusait: ,,
           Innocens absque sermone conuersatio, quantum exemploprodest, tantum silentio nocet. Nam
           latratu canum et baculo*lupi sunt arcendi.“ In ipsa autem doctrina discretum oportetesse
           rectorem, ne aut tacenda proferat, aut dicenda taceat.</p>
-        <p>Unde Gregorius in XV. cap. [Part. II.] sui Pastoralis [c. 4.] ait;</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. De discretione predicationis, et silentii.</head>
-          <p>Sit rector discretus in silentio, utilis in uerbo, ne aut tacenda proferat, aut
+        <p xml:id="gd-p1d43-d1e112">Unde Gregorius in XV. cap. [Part. II.] sui Pastoralis [c. 4.] ait;</p>
+        <div xml:id="gd-p1d43-Dd1e115">
+          <head xml:id="gd-p1d43-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d43-Hd1e120" type="question-title">. De discretione predicationis, et silentii.</head>
+          <p xml:id="gd-p1d43-d1e123">Sit rector discretus in silentio, utilis in uerbo, ne aut tacenda proferat, aut
             proferenda reticescat. Nam sicutincauta locutio in errorem pertrahit, ita indiscretum
             silentium hos, qui erudiri poterant, in errorem derelinquit.Sepe namque rectores
             inprouidi, humanam amittere gratiamformidantes, loqui libere recta pertimescunt, et
@@ -123,7 +121,7 @@
             sollicita intentione rectoribus, ut ab eis nullomodo non solum praua, sed nec recta
             quidem nimie etinordinate proferantur, quia sepe dictorum62 uirtus perditur,cum apud
             corda audientium loquacitatis incauta inpor*</p>
-          <p>tunitate leuigatur, et auctorem suurii hec eadem loquacitas inquinat, que seruire
+          <p xml:id="gd-p1d43-d1e126">tunitate leuigatur, et auctorem suurii hec eadem loquacitas inquinat, que seruire
             auditoribus ad usum profectus ignorat.Unde bene per Moysen dicitur in Leuitico: „Vir,
             quifluxum seminis patitur, inmundus erit.“ In mente quippeaudientium semen secuturae
             cogitationis est audita equa-litas locutionis, quia, dum per aurem sermo
@@ -139,11 +137,11 @@
             scilicet apud auditoris mentemipse° sua uilitatePP se destruit, si habere
             inportunitasoportunitatem nescit.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Porcis et canibus sacra non sunt committenda.</head>
-          <p>Item Origenes .</p>
-          <p>II. Pars. In mandatis habemus, ut uenientes ad ciuitatem discamus prius, quis in ea
+        <div xml:id="gd-p1d43-Dd1e131">
+          <head xml:id="gd-p1d43-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d43-Hd1e136" type="question-title">. Porcis et canibus sacra non sunt committenda.</head>
+          <p xml:id="gd-p1d43-d1e139">Item Origenes .</p>
+          <p xml:id="gd-p1d43-d1e142">II. Pars. In mandatis habemus, ut uenientes ad ciuitatem discamus prius, quis in ea
             dignus sit, ut apud eum cibumsumamus; quanto magis nosse oportet, quis qualisue sitis,
             cui inmortalitatis uerba credenda sunt? Solliciti enimesse debemus, ne margaritas
             nostras mittamus ante porcos. Sed ob alias causas utile est uiri huius me habere
@@ -160,37 +158,37 @@
             estiment, nos responsionis penuriadeclinare certamen, et fides eorum ledatur non
             intelligen-tium propositum nostrum.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Verba predicationis persecutoribus suis prelati non
+        <div xml:id="gd-p1d43-Dd1e146">
+          <head xml:id="gd-p1d43-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d43-Hd1e151" type="question-title">. Verba predicationis persecutoribus suis prelati non
             subtrahant.</head>
-          <p>Item An a cie tu s, [epist. I. omnibus Episcopis.]</p>
-          <p>III. Pars. Scimus autem, multos ob id infestare docto-res, ut eos perdant, et propriae
+          <p xml:id="gd-p1d43-d1e154">Item An a cie tu s, [epist. I. omnibus Episcopis.]</p>
+          <p xml:id="gd-p1d43-d1e157">III. Pars. Scimus autem, multos ob id infestare docto-res, ut eos perdant, et propriae
             uoluntatis placitaadinpleant. Non propterea tamen doctores (in quantumuires suppetunt) a
             recta emulatione et bona intentionerecedere debent, scientes, quia beati, qui
             persecutionempatiuntur propter iusticiam.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. Non mundus est a sanguine subiectorum, qui Dei consilium
+        <div xml:id="gd-p1d43-Dd1e161">
+          <head xml:id="gd-p1d43-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d43-Hd1e166" type="question-title">. Non mundus est a sanguine subiectorum, qui Dei consilium
             illis non annuntiat.</head>
-          <p>Item Gregorius Venantio, Episcopo, [lib. I. epist. 33.] Ephesiis Paulus dicit: „Mundae
+          <p xml:id="gd-p1d43-d1e169">Item Gregorius Venantio, Episcopo, [lib. I. epist. 33.] Ephesiis Paulus dicit: „Mundae
             sunt manus meaea sanguine omnium uestrum: non enim subterfugi, quominusannunciarem omne
             consilium Dei uobis.“ Mundus ergo asanguine eorum non esset, si eis Dei consilium
             pronun-ciare noluisset, quia, cum increpare delinquentes noluerit,eos proculdubio
             tacendo pastor occidit.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Eternae dampnationis penam incurrit Predicator, qui semen
+        <div xml:id="gd-p1d43-Dd1e173">
+          <head xml:id="gd-p1d43-Hd1e175">C. V</head>
+          <head xml:id="gd-p1d43-Hd1e178" type="question-title">. Eternae dampnationis penam incurrit Predicator, qui semen
             diuini uerbi non spargit.</head>
-          <p>Item Nicolaus Papa [ad Michaelem Imperatorem in epistola, cuius initium est:
+          <p xml:id="gd-p1d43-d1e181">Item Nicolaus Papa [ad Michaelem Imperatorem in epistola, cuius initium est:
             „Proposueramus.“]Dispensatio est nobis celestis seminis iniuncta;jjuae si non
             sparserimus, uae si tacuerimus.“ Quod cumelectionis uas formidet et clamet, quanto magis
             cuilibetexiguo metuendum est? Proinde, sicut non leue discrimenincumbit pontificibus,
             siluisse quod congruit, ita his(quod absit) non mediocre periculum est, qui cum
             debeantparere, despiciunt.</p>
-          <p>IV. Pars. Gratian. Pariter quoque obseruare debet sacerdos, ne indignis et non
+          <p xml:id="gd-p1d43-d1e184">IV. Pars. Gratian. Pariter quoque obseruare debet sacerdos, ne indignis et non
             intelligentibus secreta misteria sua predicatione reserare incipiat. Qui enim ea docet,
             que ab auditoribus intelligi non ualent, non eorum utilitatem, sedsui c ostentationem
             facit. Unde in expositione: ,, Beati inma-culati, dicitur: „ Vicium animi est, indignis

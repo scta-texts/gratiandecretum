@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d13">
-        <head>DISTINCTIO XIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Item aduersus naturale ius nulla dispensatio admittitur; nisi forte duo mala ita
+        <head xml:id="gd-p1d13-Hd1e103">DISTINCTIO XIII.</head>
+        <p xml:id="gd-p1d13-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d13-d1e109">I. Pars. Item aduersus naturale ius nulla dispensatio admittitur; nisi forte duo mala ita
           urgeant ut alterum eorum necesse sit eligi.</p>
-        <p>Unde in Concilio Tollet ano VIII. [c. 2.] legitur.</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Minus malum de duobus est eligendum.</head>
-          <p>Duo* mala, licet cautissime sint precauenda tamen si periculi necessitas unum ex his
+        <p xml:id="gd-p1d13-d1e112">Unde in Concilio Tollet ano VIII. [c. 2.] legitur.</p>
+        <div xml:id="gd-p1d13-Dd1e115">
+          <head xml:id="gd-p1d13-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d13-Hd1e120" type="question-title">Minus malum de duobus est eligendum.</head>
+          <p xml:id="gd-p1d13-d1e123">Duo* mala, licet cautissime sint precauenda tamen si periculi necessitas unum ex his
             temperare compulerit, id debemus resoluere, quod minori nexu noscitur obligari. Quid
             autem leuius ex his, quidue grauius sit, purae rationis acumine inuestigemus. Etenim dum
             peierare compellimur, creatorem quidem offendimus, sed nos tantummodo maculamus. Cum
@@ -71,16 +69,16 @@
             nocemus, et nos ipsos crudeliori mortis gladio trucidamus. Illic enim dupplici culparum
             telo perimimur, hic tripliciter iugula-mur.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Gregorius in Moralibus parte VI. lib. XXXV. c. XIV&gt; [in c. 40. Iob. 1. XXXII.
+        <div xml:id="gd-p1d13-Dd1e128">
+          <head xml:id="gd-p1d13-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d13-Hd1e133" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d13-d1e136">Item Gregorius in Moralibus parte VI. lib. XXXV. c. XIV&gt; [in c. 40. Iob. 1. XXXII.
             c. 17. 18. 19. et 20.]</p>
-          <p>Nerui testiculorum Leuiathan perplexi sunt, quia suggestionum illius argumenta
+          <p xml:id="gd-p1d13-d1e139">Nerui testiculorum Leuiathan perplexi sunt, quia suggestionum illius argumenta
             implicatis inuentisalligantur, ut plerosque ita peccare faciant, quatenus si fortasse
             fugere peccatum appetant, hoc sine alio peccati laqueo non</p>
 
-          <p>euadant, et culpam faciant, dum uitarit, atque nequaquam se ab una ualeant soluere,
+          <p xml:id="gd-p1d13-d1e142">euadant, et culpam faciant, dum uitarit, atque nequaquam se ab una ualeant soluere,
             nisi in alia se consentiant ligare. Quod melius ostendimus, si qua ex conuersa-tione
             hominum alligationis huius exempla proferamus. §. i. Ecce quidam, dum mundi huius
             amicitias appetit, cuilibet alteri similem sibi uitam ducenti, quod secretaillius omni
@@ -110,7 +108,7 @@
             Undique metuit et suspectus latus omne pertimescit, ne aut stans in empto regimine non
             digne, lugeat quod non etiam deserens emendat*, aut certe regimen deserens, dum aliud
             flere nititur, rursus aliud de ipsa gregis destitutione committat p.</p>
-          <p>II. Pars. §.4. Est tamen, quod ad destruendas Be-hemot uersutias subtiliter fiat, ut
+          <p xml:id="gd-p1d13-d1e146">II. Pars. §.4. Est tamen, quod ad destruendas Be-hemot uersutias subtiliter fiat, ut
             cumi mens inter minora et maxima peccata constringitur, si omnino nullus sine peccato
             aditus patet, minora semper eligantur ; quia et qui murorum undique ambitu, ne fugiat,
             clauditur, ibi se in fugam precipitat, ubi breuior murus lingeritur*. Hinc Paulus, cum
@@ -121,7 +119,7 @@
 
 
 
-          <p>fornicationem autem unusquisque suam uxorem habeat.“ Et quia tunc solum coniuges in
+          <p xml:id="gd-p1d13-d1e149">fornicationem autem unusquisque suam uxorem habeat.“ Et quia tunc solum coniuges in
             admixtione sunt sine culpa, cum non pro explenda libidine, sed pro suscipienda prole
             miscentur, ut hoc etiam, quod concesserat, sine culpa (quam-uis minima) non esse
             monstraret, ilico adiunxit: „Hocautem dico secundum indulgentiam, non secundum

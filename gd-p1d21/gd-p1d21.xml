@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p1d21">
-        <head>DISTINCTIO XXI</head>
-        <p>I. Pars. Decretis ergo Romanorum Pontificum et sacris canonibus conciliorum ecclesiastica
+        <head xml:id="gd-p1d21-Hd1e103">DISTINCTIO XXI</head>
+        <p xml:id="gd-p1d21-d1e106">I. Pars. Decretis ergo Romanorum Pontificum et sacris canonibus conciliorum ecclesiastica
           negotia, et supra monstratum</p>
 
 
 
 
 
-        <p>est, terminantur. Ministri uero sacrorum canonum et decretorum Pontificum sunt summi
+        <p xml:id="gd-p1d21-d1e109">est, terminantur. Ministri uero sacrorum canonum et decretorum Pontificum sunt summi
           Pontifices et infra presules atque reliqui sacerdotes, quorum institutio in ueteri
           testamento est inchoata, et in nouo plenius consummata. §. i. Summi enim Pontifices et
           minores sacerdotes a Deo sunt instituti per Moysen, qui ex precepto Domini Aaron in summum
@@ -90,13 +88,13 @@
           apostoli secuti in singulis duitatibus episcopos et presbiteros ordinauerunt. Leuitas
           autem ab apostolis ordinatos legimus, quorum maximus fuit B. Stephanus: subdiaconos et
           acolithos procedente tempore ecclesia sibi constituit.</p>
-        <p>De his etiam scribit B. Ysidorus lib. VII. Ethimol. cap. 12. nomina illorum et nominum
+        <p xml:id="gd-p1d21-d1e112">De his etiam scribit B. Ysidorus lib. VII. Ethimol. cap. 12. nomina illorum et nominum
           causas exponens, ita inquiens:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Unde nomen ecclesiasticorum graduum sumatur.</head>
+        <div xml:id="gd-p1d21-Dd1e115">
+          <head xml:id="gd-p1d21-Hd1e117">C. I.</head>
+          <head xml:id="gd-p1d21-Hd1e120" type="question-title">Unde nomen ecclesiasticorum graduum sumatur.</head>
 
-          <p>Cleros et clericos hinc appellatos credimus, quia Mathias sorte electus est, quem
+          <p xml:id="gd-p1d21-d1e123">Cleros et clericos hinc appellatos credimus, quia Mathias sorte electus est, quem
             primum per apostolos legimus ordinatum. KItjqos enim grece, latine sors uel hereditas
             dicitur. Propterea ergo dicti sunt clerici, quia de sorte sunt Domini, uel quia Domini
             partem habent. Generaliter autem clerici nuncupantur omnes, qui in ecclesia Christi
@@ -146,7 +144,7 @@
 
 
 
-          <p>auctoris uocati. De Leui enim Leuitae exorti sunt, a quibus in templo Dei mistici
+          <p xml:id="gd-p1d21-d1e126">auctoris uocati. De Leui enim Leuitae exorti sunt, a quibus in templo Dei mistici
             sacramenti ministeria explebantur. Hi grece diaconi, latine ministri dicuntur, quia
             sicut in sacerdote consecratio, ita in diacono ministerii dispensatio habetur. §. 14.
             Ypodiacones grece, quos nos subaiaconos dicimus, qui ideo sic appellantur, quia
@@ -175,12 +173,12 @@
             custodiunt, atque inter bonos et malos habentes iudicium, fideles recipiunt et respuunt
             infideles.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Romana ecclesia a Christo primatum accepit.</head>
-          <p>Item An a cie tu s [ad Episcopos Italiae, epist. II.].</p>
+        <div xml:id="gd-p1d21-Dd1e131">
+          <head xml:id="gd-p1d21-Hd1e133">C. II.</head>
+          <head xml:id="gd-p1d21-Hd1e136" type="question-title">Romana ecclesia a Christo primatum accepit.</head>
+          <p xml:id="gd-p1d21-d1e139">Item An a cie tu s [ad Episcopos Italiae, epist. II.].</p>
 
-          <p>In nouo testamento post Christum Dominum a Petro sacerdotalis cepit ordo, quia ipsi
+          <p xml:id="gd-p1d21-d1e142">In nouo testamento post Christum Dominum a Petro sacerdotalis cepit ordo, quia ipsi
             primo pontificatus in ecclesia Christi datus est, Domino dicente ad eum: ,,Tu es,
             inquit, Petrus, et super hanc petram edificabo ecclesiam meam, et portae inferi non
             preualebunt aduersus eam: et tibi dabo claues regni celorum.“ Hic ergo ligandi atque
@@ -195,10 +193,10 @@
             rogauerunt dominum messis, ut mitteret operarios in messem suam: unde ab eis electi sunt
             LXXII. discipuli, quorum tipum gerunt presbiteri atque in eorum loco sunt constituti in
             ecclesia.</p>
-          <p>C. III. Primatum Romanae ecclesiae non aliqua sinodus, <sub>v </sub>sed Christus
+          <p xml:id="gd-p1d21-d1e145">C. III. Primatum Romanae ecclesiae non aliqua sinodus, <sub>v </sub>sed Christus
             instituit.</p>
-          <p>Item Gelasius urbis Romae Episcopus omnibus orthodoxis.</p>
-          <p>Quamuis uniuersae per orbem catholicae ecclesiae unus thalamus sit Christi, tamen
+          <p xml:id="gd-p1d21-d1e152">Item Gelasius urbis Romae Episcopus omnibus orthodoxis.</p>
+          <p xml:id="gd-p1d21-d1e155">Quamuis uniuersae per orbem catholicae ecclesiae unus thalamus sit Christi, tamen
             sancta Romana ecclesia catholica et apostolica nullis sinodicis constitutis ceteris
             ecclesiis prelata est, sed euangelica uoce Domini et salua-toris nostri primatum
             obtinuit: ,,Tu es (inquiens dominus) Petrus et super hanc petram edificabo ecclesiam
@@ -208,15 +206,15 @@
             pariter Christo Domino consecrarunt, eamque omnibus urbibus in uni-uerso mundo sua
             presentia atque uenerando triumpho pretulerunt. Est ergo prima apostoli Petri sedes
             Romana ecclesia, non habens maculam neque rugam, nec aliquid huiusmodi.</p>
-          <p>III. Pars. Gratianus. In his omnibus, quanto celsior gradus, tanto maior auctoritas
+          <p xml:id="gd-p1d21-d1e158">III. Pars. Gratianus. In his omnibus, quanto celsior gradus, tanto maior auctoritas
             inuenitur. In maioribus siquidem est regendi et iubendi potestas, in minoribus
             obsequendi necessitas.</p>
-          <p>Unde Nicolaus Papa [I.] scribit Constantinopolitano episcopo dicens.</p>
+          <p xml:id="gd-p1d21-d1e161">Unde Nicolaus Papa [I.] scribit Constantinopolitano episcopo dicens.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Inferiores a superioribus iudicandi®b sunt.</head>
-          <p>Inferior sedes potiorem absoluere non potest. Sola enim potior inferiorem conuenienter
+        <div xml:id="gd-p1d21-Dd1e165">
+          <head xml:id="gd-p1d21-Hd1e167">C. IV.</head>
+          <head xml:id="gd-p1d21-Hd1e170" type="question-title">Inferiores a superioribus iudicandi®b sunt.</head>
+          <p xml:id="gd-p1d21-d1e173">Inferior sedes potiorem absoluere non potest. Sola enim potior inferiorem conuenienter
             absoluit. Hinc liquido prouidetur, quia quem non potest absoluere, nec potest iudicio
             inferior potiorem ligare. Unde Prophetaait: „Numquid gloriabitur securis contra eum, qui
             secat in ea? aut exaltabitur serra contra eum, qui trahit eam?“ His ita ex diuina
@@ -224,27 +222,27 @@
             auctoritatis est, eum, qui maioris est potestatis, iudiciis suis addicere, aut propriis
             diffinitionibus subiugare.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Idem [eadem epistola.]</p>
-          <p>Nolite nos existimare cuiuscumque proximorum nostrorum, ea que sunt digna
+        <div xml:id="gd-p1d21-Dd1e177">
+          <head xml:id="gd-p1d21-Hd1e179">C. V.</head>
+          <head xml:id="gd-p1d21-Hd1e182" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d21-d1e185">Idem [eadem epistola.]</p>
+          <p xml:id="gd-p1d21-d1e188">Nolite nos existimare cuiuscumque proximorum nostrorum, ea que sunt digna
             reprehensione, uelle</p>
 
 
 
 
 
-          <p>defendere, sed quod ita uelim filios circa patrem spiritualem, et discipulos erga
+          <p xml:id="gd-p1d21-d1e191">defendere, sed quod ita uelim filios circa patrem spiritualem, et discipulos erga
             magistrum deuotos esse ac sobrios, ut nulla penitus temeritate ad eorum uitam, ut non
             dicamus diiudicandam, sed nec saltem tenuiter reprehendendam prosiliant.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Inferiores maioribus nec benedicere, nec maledicere
+        <div xml:id="gd-p1d21-Dd1e195">
+          <head xml:id="gd-p1d21-Hd1e197">C. VI.</head>
+          <head xml:id="gd-p1d21-Hd1e200" type="question-title">Inferiores maioribus nec benedicere, nec maledicere
             possunt.</head>
-          <p>Item Nicolaus Papa [eadem epistola.]</p>
-          <p>Denique si in epistola ad Ebreos legimus, quod minor a maiore benedicitur, restat
+          <p xml:id="gd-p1d21-d1e203">Item Nicolaus Papa [eadem epistola.]</p>
+          <p xml:id="gd-p1d21-d1e206">Denique si in epistola ad Ebreos legimus, quod minor a maiore benedicitur, restat
             profecto, ut exigente ratione etiam maledicatur. Siquidem prenoscentes hec periculosa
             tempora illi, qui ante nos fuerunt, prouidam in ecclesiis consuetudinem tradiderunt,
             hodieque in Romana ecclesia, que magistra est omnium ecclesiarum, impre-termissa
@@ -255,9 +253,9 @@
             Apostolus: „quia regnum Dei non possidebunt; “ sed per hoc innuitur, quantae censurae
             freno inferiores quique a suis prepositis iudicandis cohercendi sunt, si hi s nec etiam
             benedicendi ius ullum penitus obtineant.</p>
-          <p>C. VII.</p>
-          <p>Idem MicJiaeli Imperatori.</p>
-          <p>Nunc autem diuina inspiratione non nos pigebit, nec nobis impossibile erit, ostendere
+          <p xml:id="gd-p1d21-d1e209">C. VII.</p>
+          <p xml:id="gd-p1d21-d1e213">Idem MicJiaeli Imperatori.</p>
+          <p xml:id="gd-p1d21-d1e216">Nunc autem diuina inspiratione non nos pigebit, nec nobis impossibile erit, ostendere
             uobis (si tamen audire uelitis), non posse quemquam rite ab his, qui inferioris
             dignitatis uel ordinis sunt, iudicialibus submitti diffinitionibus. Siquidem tempore
             Diocletiani et Maximiani Augustorum Marcellinus episcopus urbis Romae, qui postea
@@ -275,11 +273,11 @@
             Etenim nullus Pontificum minorum uel inferiorum urbium subactus iudiciis inuenitur.</p>
 
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Maiores a minoribus iudicari non possunt. % Item, Nicolaus
+        <div xml:id="gd-p1d21-Dd1e220">
+          <head xml:id="gd-p1d21-Hd1e222">C. VIII.</head>
+          <head xml:id="gd-p1d21-Hd1e225" type="question-title">Maiores a minoribus iudicari non possunt. % Item, Nicolaus
             [eadem epistola.]</head>
-          <p>Submittitur Ignatius minorum, inferiorum et subiectorum deliberationibus, sacris
+          <p xml:id="gd-p1d21-d1e228">Submittitur Ignatius minorum, inferiorum et subiectorum deliberationibus, sacris
             canonibus precipientibus et exemplis sanctorum Patrum, semper, ubi est maior auctoritas,
             eundum esse, et in omnibus controuersiis ad potioris sedis’ iudicia dirigatur. Quod non
             solum a catholicis, uerum etiam ab ipsis constat obseruatum hereticis. Alioquin
@@ -287,11 +285,11 @@
             sententia, cum nec in causa clericorum inferioris gradus solius episcopi sui iudicium
             tantummodo postulandum sit.</p>
         </div>
-        <div>
-          <head>C. IX.</head>
-          <head type="question-title">Minorum sentencia, maiores dampnarenon ualentK</head>
-          <p>Idem Michaeli Imperatori.</p>
-          <p>In tantum hanc presumptionem sancti Patres apud Calcedonem detestati sunt, ut Dioscorum
+        <div xml:id="gd-p1d21-Dd1e232">
+          <head xml:id="gd-p1d21-Hd1e234">C. IX.</head>
+          <head xml:id="gd-p1d21-Hd1e237" type="question-title">Minorum sentencia, maiores dampnarenon ualentK</head>
+          <p xml:id="gd-p1d21-d1e240">Idem Michaeli Imperatori.</p>
+          <p xml:id="gd-p1d21-d1e243">In tantum hanc presumptionem sancti Patres apud Calcedonem detestati sunt, ut Dioscorum
             Alexandrinum antistitem inter cetera idcirco potissimum sine ulla restitutione
             dampnauerint, quia* ponens in celum os suum, lingua eius transeunte super terram,
             excommunicationem in S. Leonem Papam dictauit; ita ut in sententia contra ipsum prolata

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,21 +53,21 @@
     </front>
     <body>
       <div xml:id="gd-p1d40">
-        <head>DISTINCTIO XL.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Oportet quoque episcopum esse ornatum ethospitalem. Ornamenta episcopalia
+        <head xml:id="gd-p1d40-Hd1e103">DISTINCTIO XL.</head>
+        <p xml:id="gd-p1d40-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d40-d1e109">I. Pars. Oportet quoque episcopum esse ornatum ethospitalem. Ornamenta episcopalia
           uirtutes debent intelligi,que a Domino eis repromittuntur, dum* dicitur: ,,Sacerdotes*eius
           induam salutariUnde in ueteri testamento uariis uesti-bus ex precepto^ Domini sacerdotes
           ornati leguntur, quia multimodis uirtutibus splendere debet uita pontificis, ut gradui
           conferatdecorem, quem ab eo non accepit. Non enim loca, sed uita etmores sanctum faciunt
           sacerdotem. Unde ex offitio suscepto nonlicentiam peccandi, sed necessitatem bene uiuendi
           se nouerintassecutos.</p>
-        <p>Unde Sim acu s* Papa ait.</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Offitium sacerdotii non confert, sed adimit licentiam
+        <p xml:id="gd-p1d40-d1e112">Unde Sim acu s* Papa ait.</p>
+        <div xml:id="gd-p1d40-Dd1e115">
+          <head xml:id="gd-p1d40-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d40-Hd1e120" type="question-title">. Offitium sacerdotii non confert, sed adimit licentiam
             delinquendi.</head>
-          <p>Non nos beatum Petrum (sicut dicitis) a Domino cum sedis priuilegio», uel successores
+          <p xml:id="gd-p1d40-d1e123">Non nos beatum Petrum (sicut dicitis) a Domino cum sedis priuilegio», uel successores
             eius, peccandi iudicamuslicentiam suscepisse. Ille perhennem meritorum dotem
             cumhereditate innocentiae transmisit ad posteros. Quod illiconcessum est per actuum
             lucem, ad illos pertinet, quospar conuersationis splendor illuminat. Quis enim
@@ -77,44 +75,44 @@
             acquisita per meritum, sufficiunt, que aloci predecessore testanturs. Aut enim claros ad
             hecfastigia erigit, aut qui eriguntur, illustrat.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Filii sanctorum sunt, qui exercent opera eorum.</head>
-          <p>Item Ieronimus [ad Heliodorum, epist.' I.]</p>
-          <p>Non est facile stare in loco Petri et Pauli et tenere cathedram regnantium cum Christo,
+        <div xml:id="gd-p1d40-Dd1e128">
+          <head xml:id="gd-p1d40-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d40-Hd1e133" type="question-title">. Filii sanctorum sunt, qui exercent opera eorum.</head>
+          <p xml:id="gd-p1d40-d1e136">Item Ieronimus [ad Heliodorum, epist.' I.]</p>
+          <p xml:id="gd-p1d40-d1e139">Non est facile stare in loco Petri et Pauli et tenere cathedram regnantium cum Christo,
             quia hinc* dicitur:non sanctorum filii sunt, qui tenent loca sanctorum, sed quiexercent
             opera eorum.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Morum nobilitas, non loci uel generis, sacerdotes
+        <div xml:id="gd-p1d40-Dd1e143">
+          <head xml:id="gd-p1d40-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d40-Hd1e148" type="question-title">. Morum nobilitas, non loci uel generis, sacerdotes
             notificet.</head>
-          <p>Item Gregorius.</p>
-          <p>Nos, qui presumus, non ex locorum uel generis digni</p>
-          <div> </div>
-          <div>
-            <head>C. IV</head>
-            <head type="question-title">. Non loca uel ordines, sed merita nos Deo
+          <p xml:id="gd-p1d40-d1e151">Item Gregorius.</p>
+          <p xml:id="gd-p1d40-d1e154">Nos, qui presumus, non ex locorum uel generis digni</p>
+          <div xml:id="gd-p1d40-Dd1e157"> </div>
+          <div xml:id="gd-p1d40-Dd1e161">
+            <head xml:id="gd-p1d40-Hd1e163">C. IV</head>
+            <head xml:id="gd-p1d40-Hd1e166" type="question-title">. Non loca uel ordines, sed merita nos Deo
               coniungunt.</head>
-            <p>Idem Anastasio Presbitero, [lib. VI. epist. 29.]</p>
-            <p>Non loca uel ordines creatori nostro nos proximos faciunt, sed nos aut merita bona
+            <p xml:id="gd-p1d40-d1e169">Idem Anastasio Presbitero, [lib. VI. epist. 29.]</p>
+            <p xml:id="gd-p1d40-d1e172">Non loca uel ordines creatori nostro nos proximos faciunt, sed nos aut merita bona
               coniungunt, autmala disiungunt.</p>
           </div>
-          <div>
-            <head>C. V</head>
-            <head type="question-title">. Magnitudo peccati uel dignitatis quemque fortiter
+          <div xml:id="gd-p1d40-Dd1e176">
+            <head xml:id="gd-p1d40-Hd1e178">C. V</head>
+            <head xml:id="gd-p1d40-Hd1e181" type="question-title">. Magnitudo peccati uel dignitatis quemque fortiter
               deicit.</head>
-            <p>Item I oh anne s Criso st ornus, [id est, auctor operis imperfecti in Matthaeum,
+            <p xml:id="gd-p1d40-d1e184">Item I oh anne s Criso st ornus, [id est, auctor operis imperfecti in Matthaeum,
               homilia 40. ad c. 21.]</p>
-            <p>II. Pars. Homo Christianus fortiter cadit in peccatum^ propter duas causas: aut
+            <p xml:id="gd-p1d40-d1e187">II. Pars. Homo Christianus fortiter cadit in peccatum^ propter duas causas: aut
               propter magnitudinempeccati, aut propter altitudinem dignitatis.</p>
           </div>
-          <div>
-            <head>C. VI</head>
-            <head type="question-title">. Dampnatur Apostolicus, qui suae et fraternae salutis est
+          <div xml:id="gd-p1d40-Dd1e191">
+            <head xml:id="gd-p1d40-Hd1e193">C. VI</head>
+            <head xml:id="gd-p1d40-Hd1e196" type="question-title">. Dampnatur Apostolicus, qui suae et fraternae salutis est
               negligens.</head>
-            <p>Item ex gestis Bonifacii* Martiris*.</p>
-            <p>III. Pars. Si Papa suae et fraternae salutis negligensreprehenditur» inutilis et
+            <p xml:id="gd-p1d40-d1e199">Item ex gestis Bonifacii* Martiris*.</p>
+            <p xml:id="gd-p1d40-d1e202">III. Pars. Si Papa suae et fraternae salutis negligensreprehenditur» inutilis et
               remissus in operibus suis, et insuper a bono taciturnus, quod magis officit sibi et
               omnibus,nichilominus innumerabiles populos cateruatim secum ducit,primo mancipio
               gehennae cum ipso plagis; multis in eternum uapulaturus. Huius culpas istic redarguere
@@ -123,67 +121,67 @@
               instantiusorat, quanto suam salutem post Deum ex illius incolumitateanimaduertunt
               propensius pendere.</p>
           </div>
-          <div>
-            <head>C. VII</head>
-            <head type="question-title">. Non ordines, sed uitae merita nos Deo commendant.</head>
-            <p>Item Augustinus ad Valerium, [epist. CXLVIII.] </p>
-            <p>IV. Pars. Ante omnia peto, ut cogitet religiosa prudentia tua, nichil esse in hac
+          <div xml:id="gd-p1d40-Dd1e206">
+            <head xml:id="gd-p1d40-Hd1e208">C. VII</head>
+            <head xml:id="gd-p1d40-Hd1e211" type="question-title">. Non ordines, sed uitae merita nos Deo commendant.</head>
+            <p xml:id="gd-p1d40-d1e214">Item Augustinus ad Valerium, [epist. CXLVIII.] </p>
+            <p xml:id="gd-p1d40-d1e217">IV. Pars. Ante omnia peto, ut cogitet religiosa prudentia tua, nichil esse in hac
               uita et maxime in hoc temporefacilius et leuius et hominibus acceptabilis episcopi,
               autpresbiteri, aut diaconi offitio, si perfunctorie atque adulatorie res agatur, sed
               nichil apud Deum miserius et tristiuset dampnabilius. §. 1. Item: Nichil est in hac
               uita et</p>
           </div>
-          <p>maxime in* hoc tempore difficilius et laboriosius etpericulosius episcopi, aut
+          <p xml:id="gd-p1d40-d1e221">maxime in* hoc tempore difficilius et laboriosius etpericulosius episcopi, aut
             presbiteri, aut diaconi offitio,sed apud Deum nichil beatius, si eo modo militetur,
             quonoster imperator iubet. Quis autem sits modus, nec apueritia, nec ab adolescentia mea
             didici, et eo tempore,quo discere ceperam, uis mihi facta est merito peccatorummeorum.
             Nam quid aliud existimem nescio, ut secunduslocus gubernaculorum52 mihi traderetur, qui
             remumtenere non noueram.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Corrumpitur et ad terram sacerdotium trahitur, nisi
+        <div xml:id="gd-p1d40-Dd1e225">
+          <head xml:id="gd-p1d40-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p1d40-Hd1e230" type="question-title">. Corrumpitur et ad terram sacerdotium trahitur, nisi
             legaliter et iuste seruetur.</head>
-          <p>Item Ysidorus^.</p>
-          <p>Sicut uiri et mulieris digna coniunctio unum facit matrimonium, et sicut duorum
+          <p xml:id="gd-p1d40-d1e233">Item Ysidorus^.</p>
+          <p xml:id="gd-p1d40-d1e236">Sicut uiri et mulieris digna coniunctio unum facit matrimonium, et sicut duorum
             copulatio unum perficit corpus, ita clericatus et sacerdotium unum faciunt presbiterum,
             etelectio et consecratio unum faciunt episcopum: que omniaunum efficiunt corpus, quod
             citius corrumpitur et ad terramtrahitur, nisi legaliter conseruetur, nisi iuste
             uiuendolaudetur.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Gratia, non locus soluat animam.</head>
-          <p>Item Ambrosius, [lib. de paradiso, c. 4.]</p>
-          <p>V. Pars. Illud autem aduerte, quia extra paradisum uir factus est, mulier intra
+        <div xml:id="gd-p1d40-Dd1e240">
+          <head xml:id="gd-p1d40-Hd1e242">C. IX</head>
+          <head xml:id="gd-p1d40-Hd1e245" type="question-title">. Gratia, non locus soluat animam.</head>
+          <p xml:id="gd-p1d40-d1e248">Item Ambrosius, [lib. de paradiso, c. 4.]</p>
+          <p xml:id="gd-p1d40-d1e251">V. Pars. Illud autem aduerte, quia extra paradisum uir factus est, mulier intra
             paradisum, ut aduertas,quod non loci, non generis nobilitate, sed uirtute unusquisque
             gratiam sibi comparat. Denique extra paradisum,hoc est in inferiori loco, uir factus
             melior inuenitur, et illa,que in meliori loco, hoc est in paradiso, facta est,
             inferiorinuenitur .</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item Gregorius, [lib. VI. Reg. epist. 5.]</p>
-          <p>Quelibet occulta loca sine gratia animam saluare non possunt, quod aliquando in ipsis
+        <div xml:id="gd-p1d40-Dd1e255">
+          <head xml:id="gd-p1d40-Hd1e257">C. X</head>
+          <head xml:id="gd-p1d40-Hd1e260" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d40-d1e263">Item Gregorius, [lib. VI. Reg. epist. 5.]</p>
+          <p xml:id="gd-p1d40-d1e266">Quelibet occulta loca sine gratia animam saluare non possunt, quod aliquando in ipsis
             quoque conspicimuserratibus electorum. Nam Loth in ipsa peruersa ciuitateiustus fuit: in
             monte peccauit. Sed ista cur dicimus, cummaiora nouerimus? Quid enim paradiso iucundius?
             quidcelo securius? et tamen homo ex paradiso, et angelusde celo peccando cecidit.</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. De eodem .</head>
-          <p>Idem.</p>
-          <p>Adam* primus homo de paradiso pro peccato eiectus est: hoc est, qui Dei nobilitatem a
+        <div xml:id="gd-p1d40-Dd1e270">
+          <head xml:id="gd-p1d40-Hd1e272">C. XI</head>
+          <head xml:id="gd-p1d40-Hd1e275" type="question-title">. De eodem .</head>
+          <p xml:id="gd-p1d40-d1e278">Idem.</p>
+          <p xml:id="gd-p1d40-d1e281">Adam* primus homo de paradiso pro peccato eiectus est: hoc est, qui Dei nobilitatem a
             se deiecit, nobili-'tate loci priuatur.</p>
         </div>
-        <div>
-          <head>C. XII</head>
-          <head type="question-title">. Non est uere sacerdos omnis, qui nominatur sacerdos.</head>
-          <p>Item I ob anne s Crisostomus, [id est, auctor operis imperfecti in Matth. hom. 43. ad
+        <div xml:id="gd-p1d40-Dd1e286">
+          <head xml:id="gd-p1d40-Hd1e288">C. XII</head>
+          <head xml:id="gd-p1d40-Hd1e291" type="question-title">. Non est uere sacerdos omnis, qui nominatur sacerdos.</head>
+          <p xml:id="gd-p1d40-d1e294">Item I ob anne s Crisostomus, [id est, auctor operis imperfecti in Matth. hom. 43. ad
             c. 23.]</p>
-          <p>VI. Pars. Multi sacerdotes, et pauci sacerdotes;</p>
-          <p>multi nomine, et pauci in opere. Videte ergo quomodo sedeatis super cathedram, quia non
+          <p xml:id="gd-p1d40-d1e297">VI. Pars. Multi sacerdotes, et pauci sacerdotes;</p>
+          <p xml:id="gd-p1d40-d1e300">multi nomine, et pauci in opere. Videte ergo quomodo sedeatis super cathedram, quia non
             cathedra facit sacerdotem, sed sacerdos cathedram; non locus sanctificat hominem, sed
             homo locum; non omnis sacerdos sanctus, sed omnis sanctus sacerdos est. Qui bene
             sederitsuper cathedram, honorem accipit cathedrae; qui malesederit, iniuriam facit

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,29 +53,29 @@
     </front>
     <body>
       <div xml:id="gd-p1d68">
-        <head>DISTINCTIO LXVIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Queritur de illis, qui ordinantur ab eis*, quosnon constat fuisse episcopos, an
+        <head xml:id="gd-p1d68-Hd1e103">DISTINCTIO LXVIII.</head>
+        <p xml:id="gd-p1d68-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d68-d1e109">I. Pars. Queritur de illis, qui ordinantur ab eis*, quosnon constat fuisse episcopos, an
           sint iterum consecrandi, annon f Quod uero consecrandi non sint, probatur auctoritate
           Gregorii, qui scribens Ioli anni Episcopo Rauennati, [lib. II.epist. 32.] ait:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Semel consecratus iterum consecrari non debet.</head>
-          <p>Sicut semel baptizatus iterum baptizari non debet, sic et semel consecratus iterum
+        <div xml:id="gd-p1d68-Dd1e112">
+          <head xml:id="gd-p1d68-Hd1e114">C. I</head>
+          <head xml:id="gd-p1d68-Hd1e117" type="question-title">. Semel consecratus iterum consecrari non debet.</head>
+          <p xml:id="gd-p1d68-d1e120">Sicut semel baptizatus iterum baptizari non debet, sic et semel consecratus iterum
             consecrari non potest. Sed siquis cum leui culpa ad sacerdotium uenit, pro culpa
             penitencia debet indici, et tamen ordo seruetur </p>
-          <p>Econtra idem Gregorius testatur scribens cuidam episcopo:</p>
+          <p xml:id="gd-p1d68-d1e123">Econtra idem Gregorius testatur scribens cuidam episcopo:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De presbiteris, qui ordinantur ab eis, quos constat non
+        <div xml:id="gd-p1d68-Dd1e127">
+          <head xml:id="gd-p1d68-Hd1e129">C. II</head>
+          <head xml:id="gd-p1d68-Hd1e132" type="question-title">. De presbiteris, qui ordinantur ab eis, quos constat non
             fuisse episcopos.</head>
-          <p>Presbiteri, quos reperisti, si incogniti fuerint uiriilli, qui ordinantur, et dubium
+          <p xml:id="gd-p1d68-d1e135">Presbiteri, quos reperisti, si incogniti fuerint uiriilli, qui ordinantur, et dubium
             est, eos episcoposfuisse, an non, qui eos ordinauerunt, si bonae actionisuirique
             catholici sunt ipsi presbiteri, et in ministerioChristi omni que sancta lege edocti, ab
             ipiscopo suo benedictionem presbiteratus suscipiant et consecrentur, et sicministerio
             sacro fungantur.</p>
-          <p>Gratian. Quod ergo consecratus in eodem ordine iterum consecrari prohibetur, de eo
+          <p xml:id="gd-p1d68-d1e138">Gratian. Quod ergo consecratus in eodem ordine iterum consecrari prohibetur, de eo
             intelligendum est, qui consecratus estab illo, quem certum erat ius consecrandi habere.
             Qui autem abillo consecratur, quem non constat ius consecrandi habuisse^,iterum
             consecrandus est, quia si ille ius consecrandi non habuerit, iste ex olei effusione
@@ -89,61 +87,61 @@
             fuerat, consequitur gratiam baptismi,si autem baptizatus erat, nichil accipit in secunda
             unctione, necpertinet hoc ad reiteracionem baptismi, sed ad cautelam salutis.Hoc etiam
             de ecclesiis consecrandis similiter obseruandum est.</p>
-          <p>Unde in Niceno Concilio;</p>
+          <p xml:id="gd-p1d68-d1e141">Unde in Niceno Concilio;</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Non debet iterum consecrari ecclesia semel
+        <div xml:id="gd-p1d68-Dd1e146">
+          <head xml:id="gd-p1d68-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d68-Hd1e151" type="question-title">. Non debet iterum consecrari ecclesia semel
             consecrata.</head>
-          <p>Ecclesiis semel Deo consecratis non debet iterum consecratio adhiberi, nisi aut ab igne
+          <p xml:id="gd-p1d68-d1e154">Ecclesiis semel Deo consecratis non debet iterum consecratio adhiberi, nisi aut ab igne
             exustae, aut sanguinis effusione, aut cuiuscumque semine pollutae fuerint: quia sicut
             infans a qualicumque sacerdote m nomine Patris et Filii etSpiritus sancti semel
             baptizatus, non debet iterum baptizari,ita nec locus Deo dicatus iterum consecrandus
             est, nisipropter eas causas, quas superius nominauimus, si tamenfidem sanctae Trinitatis
             tenuerunt, qui eum consecrauerunt.</p>
-          <p>II. Pars. Gratian. Inter episcopos autem et corepiscopos hec differentia est, quod
+          <p xml:id="gd-p1d68-d1e157">II. Pars. Gratian. Inter episcopos autem et corepiscopos hec differentia est, quod
             episcopi non nisi in duitatibus, cor episcopi etiam in uicis ordinari possunt. Episcopi
             formatas tribuunt,cor episcopi non nisi commendaticias et pacificas dare ualent.
             Epi-</p>
-          <p>De his ita scribit Leo Episcopus omnibus Episcopis[epist. LXXXVI. al. LXXXVIII.]</p>
+          <p xml:id="gd-p1d68-d1e160">De his ita scribit Leo Episcopus omnibus Episcopis[epist. LXXXVI. al. LXXXVIII.]</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. In quibus corepiscopi ab episcopis differant.</head>
-          <p>Quamuis corepiscopis et presbiteris plurima cum episcopis ministeriorum communis sit
+        <div xml:id="gd-p1d68-Dd1e164">
+          <head xml:id="gd-p1d68-Hd1e166">C. IV</head>
+          <head xml:id="gd-p1d68-Hd1e169" type="question-title">. In quibus corepiscopi ab episcopis differant.</head>
+          <p xml:id="gd-p1d68-d1e172">Quamuis corepiscopis et presbiteris plurima cum episcopis ministeriorum communis sit
             dispensatio, quedam tamen sibi prohibita nouerint, sicut est presbiterorumet diaconorum,
             et uirginum consecratio, constitutioaltaris, ac benedictio uel unctio. Sicpiidem nec
             erigerealtaria, nec consecrare ecclesias eis licitum est s, necper inpositionem manuum
             fidelibus baptizatis uel con-uersis hereticis paracletum Spiritum sanctum tradere,
             neccrisma conficere, nec crismate baptizatorum frontes signare, nec publice quidem in
             missa quemquam penitentemreconciliare, nec formatas cuilibet epistolas mittere.</p>
-          <p>[PALE A.</p>
-          <p>Hec enim omnia illicita sunt corepiscopis, qui ad exemplum et formam LXXII.
+          <p xml:id="gd-p1d68-d1e175">[PALE A.</p>
+          <p xml:id="gd-p1d68-d1e178">Hec enim omnia illicita sunt corepiscopis, qui ad exemplum et formam LXXII.
             discipulorum esse noscuntur, uel presbiteris, qui eandem gestant figuram.]</p>
-          <p>Quoniam, quamquam consectationem habeant, pontificatus tamen apicem non habent.</p>
-          <p>III. Pars. Gratian. Hi uero^ propter insolentiam suam,qua episcoporum offitia sibi
+          <p xml:id="gd-p1d68-d1e182">Quoniam, quamquam consectationem habeant, pontificatus tamen apicem non habent.</p>
+          <p xml:id="gd-p1d68-d1e185">III. Pars. Gratian. Hi uero^ propter insolentiam suam,qua episcoporum offitia sibi
             usurpabant, ab ecclesia hodie prohibitisunt.</p>
-          <p>Unde Dama sus Papa ait [ad Episc. Africae, epist. V.]</p>
+          <p xml:id="gd-p1d68-d1e188">Unde Dama sus Papa ait [ad Episc. Africae, epist. V.]</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Ordo cor episcoporum a sacra sede reprobatur.</head>
-          <p>Corepiscopi tam ab hac sacra sede, quam ab episcopis totius orbis prohibiti sunt. Nimis
+        <div xml:id="gd-p1d68-Dd1e192">
+          <head xml:id="gd-p1d68-Hd1e194">C. V</head>
+          <head xml:id="gd-p1d68-Hd1e197" type="question-title">. Ordo cor episcoporum a sacra sede reprobatur.</head>
+          <p xml:id="gd-p1d68-d1e200">Corepiscopi tam ab hac sacra sede, quam ab episcopis totius orbis prohibiti sunt. Nimis
             enim eorum insti-tucio inproba, nimis est et praua, quia, ut de summosacerdotis
             ministerio aliquid presumant, omni auctoritatecaret* §. i. Nam non amplius, quam duos
             ordinesinter discipulos Domini esse cognouimus, id est duodecimapostolorum, et LXXII.
             discipulorum . Unde iste tertiusprocesserit, ignoramus^ Et quod ratione caret exstirpare
             necesse est.</p>
-          <p>IV. Pars* §. 2* Quod autem episcopi non sint, quiminus quam a tribus episcopis ordinati
+          <p xml:id="gd-p1d68-d1e203">IV. Pars* §. 2* Quod autem episcopi non sint, quiminus quam a tribus episcopis ordinati
             sunt, omnibuspatet. Prohibitum, est enim a sanctis Patribus, ut quiab uno uel a duobus
             sunt ordinati episcopis non nominentur episcopi. Si nomen non habent, qualiter
             offitiumhabebunt?</p>
-          <p>Item Urbanus [Papa II.]</p>
+          <p xml:id="gd-p1d68-d1e206">Item Urbanus [Papa II.]</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Apostolorum in ecclesia locum tenent episcopi.</head>
-          <p>Quorum uices in ecclesia episcopi habeant, et quis eis hanc dignitatem dare debeat, S.
+        <div xml:id="gd-p1d68-Dd1e210">
+          <head xml:id="gd-p1d68-Hd1e212">C. VI</head>
+          <head xml:id="gd-p1d68-Hd1e215" type="question-title">. Apostolorum in ecclesia locum tenent episcopi.</head>
+          <p xml:id="gd-p1d68-d1e218">Quorum uices in ecclesia episcopi habeant, et quis eis hanc dignitatem dare debeat, S.
             Augustinus ostendit, in-quiens: „Pro patribus tuis nati sunt tibi filii* Patresmissi
             sunt apostoli: pro apostolis filii nati sunt, constituti sunt episcopi. Hodie enim
             episcopi, qui sunt pertotum mundum, unde nati sunt? Ipsa ecclesia patres illosappellat,

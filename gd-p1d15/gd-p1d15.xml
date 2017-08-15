@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d15">
-        <head>DISTINCTIO XV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. De naturali iure* et constitutione uel consuetudine hactenus disseruimus,
+        <head xml:id="gd-p1d15-Hd1e103">DISTINCTIO XV.</head>
+        <p xml:id="gd-p1d15-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d15-d1e109">I. Pars. De naturali iure* et constitutione uel consuetudine hactenus disseruimus,
           differentiam, qua ab^ inuicem discernuntur, assignantes: nunc ad ecclesiasticas
           constitutionesstilum uertamus, eorumque originem)et auctoritatem, prout ex libris
           sanctorum Patrum colligere possumus, breuiter assignantes.</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Quo tempore ceperint canones generalium conciliorum.</head>
-          <p>Canones generalium conciliorum {ut Ysidorus ait lib. 6. Etimol. c. 16.)* a temporibus
+        <div xml:id="gd-p1d15-Dd1e112">
+          <head xml:id="gd-p1d15-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d15-Hd1e117" type="question-title">Quo tempore ceperint canones generalium conciliorum.</head>
+          <p xml:id="gd-p1d15-d1e120">Canones generalium conciliorum {ut Ysidorus ait lib. 6. Etimol. c. 16.)* a temporibus
             Constantini ceperunt. Inprecedentibus namque annis persecutione feruente docendarum
             plebium minime dabatur facultas. Inde Christianitas in diuersas hereses scissa est, quia
             non erat episcopis licentia conueniendi in unum, nisi tempore supradicti imperatoris.
@@ -92,14 +90,14 @@
             sunt concilia, que sancti Patres spiritu Dei pleni sanxerunt, post istorum quatuor
             auctoritates omni manent stabilita uigore: quorum gesta in hoc opere condita
             continentur.</p>
-          <p>§. 7. Sinodus autem ex greco interpretatur comitatus uel cetus. Concilii*** uero nomen
+          <p xml:id="gd-p1d15-d1e123">§. 7. Sinodus autem ex greco interpretatur comitatus uel cetus. Concilii*** uero nomen
             tractum est ex more</p>
 
 
 
 
 
-          <p>Romano. Tempore enim, quo causa agebatur, conue-niebant omnes in unum, communique
+          <p xml:id="gd-p1d15-d1e126">Romano. Tempore enim, quo causa agebatur, conue-niebant omnes in unum, communique
             intentione tractabant. Unde et concilium a communi intentione dictum quasi consilium;
             consilium quasi considium, d in 1 literam tran-seunte; uel concilium dictum est exP
             communi intentione, eo quod in unum dirigant omnem mentis obtutum: supercilia «i enim
@@ -107,13 +105,13 @@
             unum. Cetus uero conuentus est uel congregatio, a coeundo, id est a con-ueniendo in
             unum. Hinc et conuentus est nuncupatus, quod ibi homines conueniunt; sicut conuentus
             cetus sic et concilium a societate multorum in unum appellatur.</p>
-          <p>De quatuor quoque^ conciliis scribit B. Gregorius, ita dicens, [lib. I. Regesti Epist.
+          <p xml:id="gd-p1d15-d1e130">De quatuor quoque^ conciliis scribit B. Gregorius, ita dicens, [lib. I. Regesti Epist.
             24.] :</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">De auctoritate quatuor conciliorum.</head>
-          <p>Sicut sancti euangelii quatuor libros, sic quatuor concilia suscipere et uenerari me
+        <div xml:id="gd-p1d15-Dd1e134">
+          <head xml:id="gd-p1d15-Hd1e136">C. II.</head>
+          <head xml:id="gd-p1d15-Hd1e139" type="question-title">De auctoritate quatuor conciliorum.</head>
+          <p xml:id="gd-p1d15-d1e142">Sicut sancti euangelii quatuor libros, sic quatuor concilia suscipere et uenerari me
             fateor. Nicenum scilicet, in quo peruersum Arrii dogma destruitur: Constantinopolita-num
             quoque, in quo Eunomii et Macedonii error conuinci-tur: Ephesinum etiam primum, in quo
             Nestorii impietas iudicatur: Calcedonense uero, in quo Euticetis Dioscori-que prauitas
@@ -128,13 +126,13 @@
             non illa destruit, quisquis presumit aut absoluere quos religant, aut ligarequos
             absoluunt.</p>
 
-          <p>De eisdem scribit etiam Gelasius Papa [in concilio habito Romae cum LXX. Episcopis]
+          <p xml:id="gd-p1d15-d1e145">De eisdem scribit etiam Gelasius Papa [in concilio habito Romae cum LXX. Episcopis]
             dicens ;</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Que concilia sancta Romana ecclesia suscipiat.</head>
-          <p>Sancta Romana ecclesia post illas ueteris et noui testamenti scripturas, quas
+        <div xml:id="gd-p1d15-Dd1e150">
+          <head xml:id="gd-p1d15-Hd1e152">C. III.</head>
+          <head xml:id="gd-p1d15-Hd1e155" type="question-title">Que concilia sancta Romana ecclesia suscipiat.</head>
+          <p xml:id="gd-p1d15-d1e158">Sancta Romana ecclesia post illas ueteris et noui testamenti scripturas, quas
             regulariter suscipimus, etiam has suscipi non prohibet: Sanctam sinodum Nicenam
             CCCXVIII. Patrum, mediante Maximo Constantino Augusto, in qua Arrius hereticus
             condempnatus est; sanctam sinodum Con-stantinopolitanam, mediante Theodosio seniore
@@ -146,7 +144,7 @@
             Dioscoro eiusque complicibus dampnatae sunt; sed et si qua sunt concilia a sanctis
             Patribus hactenus instituta, post istorum quatuor auctoritatem et custodienda, et
             recipienda decernimus *.</p>
-          <p>§. 1. Iam nunc subiciendum est de opusculis sanctorum Patrum, que in ecclesia catholica
+          <p xml:id="gd-p1d15-d1e161">§. 1. Iam nunc subiciendum est de opusculis sanctorum Patrum, que in ecclesia catholica
             recipiuntur. §.2. Opuscula B. Cipriani martiris et Cartaginensis episcopi. §. 3. Item
             opuscula B. Gregorii Nacianceni episcopi. §. 4. Item opusculaB. Athanasii Alexandrini
             episcopi. §. 6. Item opuscula B. Iohannis Constantinopolitani episcopi. §.9. Item
@@ -157,7 +155,7 @@
 
 
 
-          <p>B. Augustini episcopi Ipponensis. §. 12. Item opuscula B. Ieronimi^ presbiteri. §. 13.
+          <p xml:id="gd-p1d15-d1e164">B. Augustini episcopi Ipponensis. §. 12. Item opuscula B. Ieronimi^ presbiteri. §. 13.
             Item opuscula beati Prosperi uiri religiosissimi. §. 14. Item epistolam B. Leonis Papae
             ad Flauianum episcopums destinatam, cuius textum si quisquam usque ad unum iota
             disputauerit, et non eam in omnibus uenerabiliter receperit, anathema sit. §. 15. Item
@@ -167,8 +165,8 @@
             legenda decernimus. §. 16. Item decretales epistolae, quas beatissimi Papae diuersis
             temporibus ab urbe Romana pro diuersorum Patrum consolatione* dederunt, uenerabiliter
             suscipiendae sunt.</p>
-          <p>[PALEA.</p>
-          <p>§. 17. Item gesta** sanctorum martirum, qui multiplicibus tormentorum cruciatibus et
+          <p xml:id="gd-p1d15-d1e168">[PALEA.</p>
+          <p xml:id="gd-p1d15-d1e171">§. 17. Item gesta** sanctorum martirum, qui multiplicibus tormentorum cruciatibus et
             mirabilibus confessionum triumphis irradiant. Quis ita esse catholicorum dubitet, et
             maiora eos in agonibus fuisse perpessos, nec suis uiribus, sed gratia Dei et adiutorio
             uniuersa tolerasse? Sed ideo secundum antiquam consuetudinem singulari cautela in sancta
@@ -201,9 +199,9 @@
             paganorum calumpnias ordinauit historiam, miraque breuitate contexuit. §. 25. Item
             uenerabilis uiri Sedulii</p>
 
-          <p>{jascale opus, quod heroicis descripsit uersibus, insigni aude proferimus. §. 26. Item
+          <p xml:id="gd-p1d15-d1e174">{jascale opus, quod heroicis descripsit uersibus, insigni aude proferimus. §. 26. Item
             Iuuenci*** nichilominus laboriosum opus non spernimus, sed miramur.</p>
-          <p>§. 27. Ceterum, que ab hereticis, siue scismaticisconscripta uel predicata sunt,
+          <p xml:id="gd-p1d15-d1e177">§. 27. Ceterum, que ab hereticis, siue scismaticisconscripta uel predicata sunt,
             nullatenus recipit catho^ lica et apostolica ecclesia Romana. E quibus pauca, que ad
             memoriam uenerunt, et a catholicis uitanda sunt, credimus esse subdenda. §. 28. Imprimis
             Arriminen-sem sinodum, a Constantio Cesare Constantini filio congregatam mediante Tauro
@@ -230,7 +228,7 @@
 
 
 
-          <p>apocrifa. §. 53. Reuelatio, que appellatur Thomae apostoli, apocrifa. §. 54. Reuelatio,
+          <p xml:id="gd-p1d15-d1e180">apocrifa. §. 53. Reuelatio, que appellatur Thomae apostoli, apocrifa. §. 54. Reuelatio,
             que appellatur Stephani, apocrifa. §. 55. Liber, qui appellatur Transitus S. Mariae,
             apocrifus. |. 56. Liber, qui appellatur Penitentia Adae, apocrifus;^ §. 57. Liber Ogiae
             nomine Gigantis, qui ab hereticis cum dracone post diluuium pugnasse perhibetur,
@@ -239,7 +237,7 @@
             Cipriani, apocrifus. §. 61. Liber, qui appellatur Penitentia lamniset Mambrae,
             apocrifus. §. 62. Liber, qui appellatur Sortesapostolorum, apocrifus. §. 63. Liber
             Lusanae, apocrifus.</p>
-          <p>64. Liber canonum® Apostolorum, apocrifus. §. 65. Liber Phisiologus, qui ab hereticis
+          <p xml:id="gd-p1d15-d1e183">64. Liber canonum® Apostolorum, apocrifus. §. 65. Liber Phisiologus, qui ab hereticis
             conscriptus est et B. Ambrosii nomine presignatus, apocrifus. §. 66. Historia Eusebii
             Pamphili, apocrifa. §. 67. Opuscula Tertulliani siue Africam apocrifa. §• 69. Opuscula
             Postumianiet Galli, apocrifa. §. 69. Opuscula Montani, Priscillae et Maximillae,
@@ -263,10 +261,10 @@
             ecclesia eliminata, atque cum suis auctoribus auctorumque sequacibus sub anathematis
             indissolubili uinculo, in eternum confitemur esse dampnata.</p>
 
-          <p>§. 82. Ceterum*****, qui libri in ecclesiasticis offitiis per anni circulum a nonnullis
+          <p xml:id="gd-p1d15-d1e187">§. 82. Ceterum*****, qui libri in ecclesiasticis offitiis per anni circulum a nonnullis
             legantur (quod ritum illum apostolica non reprobat, sed sequitur ecclesia) pro fidelium
             edificatione adnotandum censuimus.</p>
-          <p>Quidam, quod in septuagesima ponunt pentateuchum f usque m XV. diem ante Pascha, XV.
+          <p xml:id="gd-p1d15-d1e190">Quidam, quod in septuagesima ponunt pentateuchum f usque m XV. diem ante Pascha, XV.
             dieponunt Ieremiam usque in cenam Domini. In cena Domini legunt tres lectiones de
             lamentatione Ieremiae: „Quomodo sedet sola ciuitas, etc.“ et tres de tractatu S.
             Augustini in psalm. LIV.++: „ Exaudi Deus orationem meam et ne despexeris,“ et tres de
@@ -290,7 +288,7 @@
 
 
 
-          <p>bris. In dominica prima septembris ponunt Iob,Tobiam, Hester, Esdram usque in calendas
+          <p xml:id="gd-p1d15-d1e193">bris. In dominica prima septembris ponunt Iob,Tobiam, Hester, Esdram usque in calendas
             octobris. In dominica prima mensis octobris ponunt librum Machabeorum usque in calendas
             nouembris. In dominica prima mensis nouembris ponunt Ezechielem et Danielem et minores
             pro^ phetas usque in calendas decembris. In dominica prima mensis decembris ponunt

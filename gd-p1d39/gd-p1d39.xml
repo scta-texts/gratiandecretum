@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p1d39">
-        <head>DISTINCTIO XXXIX.</head>
-        <p>GRATIANUS.</p>
-        <p>Ecce plenarie monstratum est, quod sacerdotes oportet litterarum tam sacrarum quam
+        <head xml:id="gd-p1d39-Hd1e103">DISTINCTIO XXXIX.</head>
+        <p xml:id="gd-p1d39-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d39-d1e109">Ecce plenarie monstratum est, quod sacerdotes oportet litterarum tam sacrarum quam
           secularium esse peritos. Nunc queritur, an secularium negotiorum oporteat eos habere
           peritiam ?Hanc prelatis esse necessariam, multis rationibus probatur.Debent namque prelati
           subditis non solum spiritualia, sed etiamcarnalia subsidia ministrare, exemplo Christi,
@@ -67,12 +65,12 @@
           indempnes, ei cuique necessaria pro suo modo subministrentur . Unde quidam in episcopum
           electus a B. Gregorio pro sua simplicitate repellitur, neeius occasione res ecclesiae
           dilapidarentur.</p>
-        <p>Unde idem scribit nobilibus ciuibus Neapolim [lib. VIII. epist. 40.] </p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Secularium negotiorum inperiti non sunt in episcopos
+        <p xml:id="gd-p1d39-d1e112">Unde idem scribit nobilibus ciuibus Neapolim [lib. VIII. epist. 40.] </p>
+        <div xml:id="gd-p1d39-Dd1e115">
+          <head xml:id="gd-p1d39-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d39-Hd1e120" type="question-title">. Secularium negotiorum inperiti non sunt in episcopos
             ordinandi.</head>
-          <p>Petrus diaconus, quem a uobis electum asseritis, omnino (ut dicitur) simplex est, et
+          <p xml:id="gd-p1d39-d1e123">Petrus diaconus, quem a uobis electum asseritis, omnino (ut dicitur) simplex est, et
             nostis, quia hoc temporetalis in regiminis debet arce constitui, qui non solum desalute
             animarum, uerum etiam de extrinseca utilitate etcautela sciat esse sollicitus.</p>
         </div>

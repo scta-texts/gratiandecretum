@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,30 +53,30 @@
     </front>
     <body>
       <div xml:id="gd-p1d79">
-        <head>DISTINCTIO LXXIX.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Apostolicus autem non nisi a Cardinalibus etreligiosis clericis est
+        <head xml:id="gd-p1d79-Hd1e103">DISTINCTIO LXXIX.</head>
+        <p xml:id="gd-p1d79-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d79-d1e109">I. Pars. Apostolicus autem non nisi a Cardinalibus etreligiosis clericis est
           intronizandus.</p>
-        <p>Unde Nicolaus Papa [II.] ait [in epistola, qua sinodum a se Romae habitam refert, cap.
+        <p xml:id="gd-p1d79-d1e112">Unde Nicolaus Papa [II.] ait [in epistola, qua sinodum a se Romae habitam refert, cap.
           i.]:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. De eo qtii sine concordi electione Cardinalium</head>
-          <p>intronizatur. .</p>
-          <p>Si quis* apostolicae sedi sine concordi et canonica electione Cardinalium eiusdem ac
+        <div xml:id="gd-p1d79-Dd1e115">
+          <head xml:id="gd-p1d79-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d79-Hd1e120" type="question-title">. De eo qtii sine concordi electione Cardinalium</head>
+          <p xml:id="gd-p1d79-d1e123">intronizatur. .</p>
+          <p xml:id="gd-p1d79-d1e126">Si quis* apostolicae sedi sine concordi et canonica electione Cardinalium eiusdem ac
             deinde sequentium clericorum religiosorum intronizatur, non Papa uel Apostolicus, sed
             apostaticus habeatur.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Papa superstite, eo inconsulto de electione futuri
+        <div xml:id="gd-p1d79-Dd1e131">
+          <head xml:id="gd-p1d79-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d79-Hd1e136" type="question-title">. Papa superstite, eo inconsulto de electione futuri
             Pontificis nemo audeat loqui.</head>
-          <p>Item Simacus Papa, [in Sinodo Romana I. cap. 3. et 5.]</p>
-          <p>Si quis superstite Papa* pro Romano Pontificatu cuiquam quolibet modo fauorem prestare
+          <p xml:id="gd-p1d79-d1e139">Item Simacus Papa, [in Sinodo Romana I. cap. 3. et 5.]</p>
+          <p xml:id="gd-p1d79-d1e142">Si quis superstite Papa* pro Romano Pontificatu cuiquam quolibet modo fauorem prestare
             conuincitur, loci sui honore priuetur. Et infra: Si quis presbiter**, autdiaconus, aut
             clericus, Papa incolumi et eo inconsulto, autsubscriptionem pro Romano Pontificatu
             commodare, aut</p>
-          <p>pitacia promittere, aut sacramentum prebere temptauerit, aut aliquod certe suffragium
+          <p xml:id="gd-p1d79-d1e145">pitacia promittere, aut sacramentum prebere temptauerit, aut aliquod certe suffragium
             polliceri, uel de hac causapriuatis conuenticulis factis deliberare aliquid
             atquedecernere presumpserit, loci sui dignitate, uel communione priuetur. Et infra:
             Propter occultas fraudes etconiurationum secretas insidias, quas sententia huius
@@ -87,29 +85,29 @@
             conui-cerit, particeps actionis huiusmodi non solum purgatus abomni culpa sit, sed etiam
             remuneratione, que non indignasit, subleuetur.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. In apostolatus culmen nisi* ex Cardinalibus non
+        <div xml:id="gd-p1d79-Dd1e149">
+          <head xml:id="gd-p1d79-Hd1e151">C. III</head>
+          <head xml:id="gd-p1d79-Hd1e154" type="question-title">. In apostolatus culmen nisi* ex Cardinalibus non
             promoueatur.</head>
-          <p>Item ex Concilio Stephani Papae [III.]Oportebat, ut hec sacrosancta domina nostra
+          <p xml:id="gd-p1d79-d1e157">Item ex Concilio Stephani Papae [III.]Oportebat, ut hec sacrosancta domina nostra
             Romanaecclesia (iuxta quod a B. Petro et eius successoribus institutum est) rite
             ordinaretur, et in apostolatus culmen unusde cardinalibus presbiteris aut diaconibus
             consecraretur.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>X Item ex eodem *.</p>
-          <p>Nullus umquam laicorum neque ex alio ordine presumat nisi per distinctos gradus
+        <div xml:id="gd-p1d79-Dd1e161">
+          <head xml:id="gd-p1d79-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d79-Hd1e166" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d79-d1e169">X Item ex eodem *.</p>
+          <p xml:id="gd-p1d79-d1e172">Nullus umquam laicorum neque ex alio ordine presumat nisi per distinctos gradus
             ascendens diaconus aut presbiter factus fuerit cardinalis, ad sacrum pontificalemhonorem
             promoueri.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Anathematizetur episcopus uel monachus uel laicus Romanam
+        <div xml:id="gd-p1d79-Dd1e176">
+          <head xml:id="gd-p1d79-Hd1e178">C. V</head>
+          <head xml:id="gd-p1d79-Hd1e181" type="question-title">. Anathematizetur episcopus uel monachus uel laicus Romanam
             ecclesiam inuadens, et in gradum filiorum eiusprorumpens.</head>
-          <p>Item ex eodem*.</p>
-          <p>Si quis ex episcopis, uel monachis, uel laicis contra canonum et sanctorum Patrum
+          <p xml:id="gd-p1d79-d1e184">Item ex eodem*.</p>
+          <p xml:id="gd-p1d79-d1e187">Si quis ex episcopis, uel monachis, uel laicis contra canonum et sanctorum Patrum
             instituta prorumpens ingradum filiorum sanctae Romanae ecclesiae, id est presbiterorum
             cardinalium et diaconorum ire presumpserit, ethanc apostolicam sedem inuadere quilibet
             ex supradictistemptauerit, et ad summum pontificalem honorem ascendereuoluerit, ipsi et
@@ -117,78 +115,78 @@
             sacerdotibusatque primatibus ecclesiae, uel cuncto clero ad eligendumsibi Romanum
             Pontificem secundum canonicam tradicio-nem, anathema sit.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Anathema sit, qui canonicae electioni Romani Pontificis
+        <div xml:id="gd-p1d79-Dd1e191">
+          <head xml:id="gd-p1d79-Hd1e193">C. VI</head>
+          <head xml:id="gd-p1d79-Hd1e196" type="question-title">. Anathema sit, qui canonicae electioni Romani Pontificis
             contradicere presumpserit.</head>
-          <p>Item ex Concilio Leonis Papae [IV.]Si quis sacerdotibus, seu primatibus nobilibus,
+          <p xml:id="gd-p1d79-d1e199">Item ex Concilio Leonis Papae [IV.]Si quis sacerdotibus, seu primatibus nobilibus,
             seu</p>
-          <p>cuncto clero huius sanctae Romanae ecclesiae, electio* nem Romani pontificis
+          <p xml:id="gd-p1d79-d1e202">cuncto clero huius sanctae Romanae ecclesiae, electio* nem Romani pontificis
             contradicere presumpserit, sicut inconcilio beatissimi Bonifatii et Stephani Papae
             legiturstatutum, anathema sit.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. Nullius episcopi fiat electio, nisi post diem tercium
+        <div xml:id="gd-p1d79-Dd1e206">
+          <head xml:id="gd-p1d79-Hd1e208">C. VII</head>
+          <head xml:id="gd-p1d79-Hd1e211" type="question-title">. Nullius episcopi fiat electio, nisi post diem tercium
             depositionis alterius .</head>
-          <p>Item ex Concilio Bonifatii [Papae III.]</p>
-          <p>II. Pars. Nullus Pontifice Romano uiuente aut episcopociuitatis suae presumat loqui,
+          <p xml:id="gd-p1d79-d1e214">Item ex Concilio Bonifatii [Papae III.]</p>
+          <p xml:id="gd-p1d79-d1e217">II. Pars. Nullus Pontifice Romano uiuente aut episcopociuitatis suae presumat loqui,
             aut partes sibi facere, nisitercio die depositionis eius, adunato clero et filiis
             ecclesiae,et tunc electio fiat.</p>
-          <p>III. Pars. Gratian. Sed queritur, si duo temeritate concertantium ordinati fuerint,
+          <p xml:id="gd-p1d79-d1e220">III. Pars. Gratian. Sed queritur, si duo temeritate concertantium ordinati fuerint,
             quis eorum alteri sit preferen-dws? De his ita scribit Honorius Augustus ad
             BonifatiumPapam :</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Si temeritate concertantium duo fuerint ordinati.</head>
-          <p>Si duo forte contra fas temeritate concertandum fuerint ordinati, nullum ex eis futurum
+        <div xml:id="gd-p1d79-Dd1e225">
+          <head xml:id="gd-p1d79-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p1d79-Hd1e230" type="question-title">. Si temeritate concertantium duo fuerint ordinati.</head>
+          <p xml:id="gd-p1d79-d1e233">Si duo forte contra fas temeritate concertandum fuerint ordinati, nullum ex eis futurum
             sacerdotem permittimus, sed illum solum in sede apostolica permansurum censemus, quem ex
             numero clericorum noua ordinationediuinum iudicium et uniuersitatis consensus
             elegerit.</p>
-          <p>IV. Pars. Gratian. Hoc autem capitulum non de eointelligendum est, qui uno per
+          <p xml:id="gd-p1d79-d1e236">IV. Pars. Gratian. Hoc autem capitulum non de eointelligendum est, qui uno per
             apostasiam ordinato a Cardinalibuset religiosis clericis apostolicas sedi intronizatur,
             etiamsi illeapostaticus ita cathedram B. Petri uiolenter tenuerit, ut canonicaelectio
             intra Urbem fieri non ualeat.</p>
-          <p>Unde Nicolaus Papa [II. in Concilio Romano] statuit, dicens:</p>
+          <p xml:id="gd-p1d79-d1e239">Unde Nicolaus Papa [II. in Concilio Romano] statuit, dicens:</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. De eo, qui pecunia uel populari tumultu, non canonica
+        <div xml:id="gd-p1d79-Dd1e243">
+          <head xml:id="gd-p1d79-Hd1e245">C. IX</head>
+          <head xml:id="gd-p1d79-Hd1e248" type="question-title">. De eo, qui pecunia uel populari tumultu, non canonica
             electione ordinatur.</head>
-          <p>Si quis pecunia uel gratia humana, aut populari tumultu seu militari, sine canonica et
+          <p xml:id="gd-p1d79-d1e251">Si quis pecunia uel gratia humana, aut populari tumultu seu militari, sine canonica et
             concordi electionecardinalium, et sequentium religiosorum clericorumfuerit apostolicae
             sedi intronizatus, non Apostolicus, sedapostaticus habeatur, liceatque cardinalibuss et
             aliisclericis timentibus Deum et laicis inuasorem anathematizare ethumano auxilio a sede
             apostolica pellere.Quod si intra Urbem perficere nequiuerint, apostolica? auctoritate
             extra urbemq congregati in loco, quoeis placuerit, electionem faciant, concessa
             electoauctoritate regendi et disponendi res et utilitatem sanctae</p>
-          <p>Romanae ecclesiae iuxta qualitatem temporis, quasi in-tronizatus sit. _</p>
-          <p>V. Pars. Gratian. Electio uero Romani Pontificis etiamcum deliberatione predecessoris
+          <p xml:id="gd-p1d79-d1e254">Romanae ecclesiae iuxta qualitatem temporis, quasi in-tronizatus sit. _</p>
+          <p xml:id="gd-p1d79-d1e257">V. Pars. Gratian. Electio uero Romani Pontificis etiamcum deliberatione predecessoris
             fieri debet.</p>
-          <p>Unde Simacus ait [in Sinodo Romana I. cap. 4.]:</p>
+          <p xml:id="gd-p1d79-d1e261">Unde Simacus ait [in Sinodo Romana I. cap. 4.]:</p>
         </div>
-        <div>
-          <head>C. X</head>
-          <head type="question-title">. Si Papa de electione sui successoris decernere*®non
+        <div xml:id="gd-p1d79-Dd1e265">
+          <head xml:id="gd-p1d79-Hd1e267">C. X</head>
+          <head xml:id="gd-p1d79-Hd1e270" type="question-title">. Si Papa de electione sui successoris decernere*®non
             poterit.</head>
-          <p>Si transitus Papae inopinatus euenerit, ut de sui electione successoris, ut supra
+          <p xml:id="gd-p1d79-d1e273">Si transitus Papae inopinatus euenerit, ut de sui electione successoris, ut supra
             placuit, non possit antedecernere, siquidem totius in unum conuenerit ecclesiastici
             ordinis electio, consecretur electus episcopus. Siuero, ut fieri solet, studia ceperint
             esse diuersa eorum,de quibus certamen emerserit, conuincat"g sententia plurimorum : sic
             tamen, ut sacerdotio careat, qui captus promissione non recto iudicio de electione
             decreuerit.</p>
-          <p>VI. Pars. Gratian. Sicut supra monstratum est, electiosummorum sacerdotum a
+          <p xml:id="gd-p1d79-d1e276">VI. Pars. Gratian. Sicut supra monstratum est, electiosummorum sacerdotum a
             Cardinalibus et religiosis clericis debetfieri: eiectio uero eorum diuino iudicio est
             reseruata.</p>
-          <p>Unde Anacletus Papa ait [ad Episcopos Italiae, epist. II.</p>
-          <p>. cap. 2.]:</p>
+          <p xml:id="gd-p1d79-d1e279">Unde Anacletus Papa ait [ad Episcopos Italiae, epist. II.</p>
+          <p xml:id="gd-p1d79-d1e283">. cap. 2.]:</p>
         </div>
-        <div>
-          <head>C. XI</head>
-          <head type="question-title">. Summorum sacerdotum eiectionem sibi Dominus
+        <div xml:id="gd-p1d79-Dd1e287">
+          <head xml:id="gd-p1d79-Hd1e289">C. XI</head>
+          <head xml:id="gd-p1d79-Hd1e292" type="question-title">. Summorum sacerdotum eiectionem sibi Dominus
             reseruauit.</head>
-          <p>Eiectionem summorum* sacerdotum sibi Dominus reseruauit, licet electionem eorum bonis
+          <p xml:id="gd-p1d79-d1e295">Eiectionem summorum* sacerdotum sibi Dominus reseruauit, licet electionem eorum bonis
             sacerdotibus et spiritualibus populis concessisset.</p>
         </div>
       </div>

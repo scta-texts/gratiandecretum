@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,21 +53,21 @@
     </front>
     <body>
       <div xml:id="gd-p1d33">
-        <head>DISTINCTIO XXXIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Ecce, quod in sacris ordinibus constituti uxores habere non possunt, uel si
+        <head xml:id="gd-p1d33-Hd1e103">DISTINCTIO XXXIII.</head>
+        <p xml:id="gd-p1d33-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d33-d1e109">I. Pars. Ecce, quod in sacris ordinibus constituti uxores habere non possunt, uel si
           bigami aliqui inuenti fuerint, ad sacros ordines ascendere non ualent. Sed queritur, si
           quis preter uxorem concubinam habuerit, utrum in sacerdotem promoneri ualeat? Talis a
           sacris ordinibus auctoritate canonum Apostolorum^ prohibetur, in quibus [cap. 17.] sic
           statutum legitur:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="quesiton-title">Secundis nuptiis post baptisma copulatus, aut concubinam
+        <div xml:id="gd-p1d33-Dd1e112">
+          <head xml:id="gd-p1d33-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d33-Hd1e117" type="quesiton-title">Secundis nuptiis post baptisma copulatus, aut concubinam
             habens, ad sacrum ordinem conscendere non ualet</head>
-          <p>Si quis post acceptum sacrum baptisma secundis fuerit nuptiis copulatus aut concubinam
+          <p xml:id="gd-p1d33-d1e120">Si quis post acceptum sacrum baptisma secundis fuerit nuptiis copulatus aut concubinam
             habuerit, non potest fieri episcopus, inec sacerdos, nec diaconus, aut prorsus ex numero
             eorum, qui ministerio* sacro deseruiunt.</p>
-          <p>Gratian. Deseruientes sacro ministerio intelligantur subdiaconi, qui calicem diacono
+          <p xml:id="gd-p1d33-d1e123">Gratian. Deseruientes sacro ministerio intelligantur subdiaconi, qui calicem diacono
             offerunt, et acoliti, qui cum cereis diacones precedunt, unde ceroferarii dicuntur, qui
             etiam uinum et aquam preparando calici subministrant. Concubina intelligenda est preter
             uxorem, ut iste sit sensus capituli: „ Si</p>
@@ -78,15 +76,15 @@
 
 
 
-          <p>quis post acceptum sacrum baptisma secundis fuerit nuptiis copulatus, aut concubinam
+          <p xml:id="gd-p1d33-d1e126">quis post acceptum sacrum baptisma secundis fuerit nuptiis copulatus, aut concubinam
             habuerit: distinguendum est, antequam uxorem duxerit, siue post mortem uxoris.</p>
-          <p>Unde B. Gregorius* a&amp;:</p>
+          <p xml:id="gd-p1d33-d1e130">Unde B. Gregorius* a&amp;:</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Duarum matronarum maritus post baptismum clericus non
+        <div xml:id="gd-p1d33-Dd1e134">
+          <head xml:id="gd-p1d33-Hd1e136">C. II.</head>
+          <head xml:id="gd-p1d33-Hd1e139" type="question-title">Duarum matronarum maritus post baptismum clericus non
             ordinetur.</head>
-          <p>Maritum duarum matronarum post baptismum clericum non ordinandum eensuimus; neque eum,
+          <p xml:id="gd-p1d33-d1e142">Maritum duarum matronarum post baptismum clericum non ordinandum eensuimus; neque eum,
             qui unamquidem concubinam, uel meretricem in matrimonioassumpsit; nec illum , qui
             semetipsum abscidens quodlibet membrums indignatione aliqua uel iusto, uel in-iusto
             tenore superatus truncauerit; nec illos qui usuras accepisse conuincuntur, aut in scena
@@ -94,12 +92,12 @@
             illum, qui in furiam aliquando uersus insaniuit, uel afflictione diabolica uexatus est;
             neque eum, qui per emptionem ad imitationem Simonis Magi pecuniam obtulerit. .</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Arrepticii uel epileptici sacris altaribus non
+        <div xml:id="gd-p1d33-Dd1e147">
+          <head xml:id="gd-p1d33-Hd1e149">C. III.</head>
+          <head xml:id="gd-p1d33-Hd1e152" type="question-title">Arrepticii uel epileptici sacris altaribus non
             ministrent.</head>
-          <p>Item Pius Papa.</p>
-          <p>II. Pars. Communiter diffinimus, ut nullus de his, qui aut in terra arrepti a demonibus
+          <p xml:id="gd-p1d33-d1e155">Item Pius Papa.</p>
+          <p xml:id="gd-p1d33-d1e158">II. Pars. Communiter diffinimus, ut nullus de his, qui aut in terra arrepti a demonibus
             eliduntur aut quolibet modo uexationis incursibus efferuntur, uel sacris
             audeantministrare altaribus, uel indiscusse se ingerant sacramentis diuinis, exceptis
             illis, qui corporum incommoditati dediti sine huiusmodi passionibus in terraprobantur
@@ -107,19 +105,19 @@
             quousque unius anni spatio per discretionem episcopi inueniantur ab incursu demonum
             liberati,</p>
         </div>
-        <div>
-          <head>C. IV, De</head>
-          <head type="question-title">eodem.</head>
-          <p>Item Nicolaus^ Papa *.</p>
-          <p>Clerici, qui in adolescentia a demonibus cognoscuntur obsessi, ad superiorem sacri
+        <div xml:id="gd-p1d33-Dd1e162">
+          <head xml:id="gd-p1d33-Hd1e164">C. IV, De</head>
+          <head xml:id="gd-p1d33-Hd1e167" type="question-title">eodem.</head>
+          <p xml:id="gd-p1d33-d1e170">Item Nicolaus^ Papa *.</p>
+          <p xml:id="gd-p1d33-d1e173">Clerici, qui in adolescentia a demonibus cognoscuntur obsessi, ad superiorem sacri
             regiminis gradum accederenon possunt.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Gelas ius Papa [I. epist. ad uniuersos Episcopos per Lucaniam constitutos, 19.] </p>
+        <div xml:id="gd-p1d33-Dd1e177">
+          <head xml:id="gd-p1d33-Hd1e179">C. V.</head>
+          <head xml:id="gd-p1d33-Hd1e182" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d33-d1e185">Item Gelas ius Papa [I. epist. ad uniuersos Episcopos per Lucaniam constitutos, 19.] </p>
 
-          <p>Usque adeo sane comperimus illicita queque prorumpere, ut demonibus similibus que
+          <p xml:id="gd-p1d33-d1e188">Usque adeo sane comperimus illicita queque prorumpere, ut demonibus similibus que
             passionibus irretitis ministeria sacrosancta tractare tribuatur. Quibus si in hoc opere
             positis aliquid propriae necessitatis occurrat, quis fidelium de sua salute confidit,
             ubi ministros ipsos humanae curationis tanta prospexerit calamitate uexari? Atque ideo
@@ -128,26 +126,26 @@
             sancta contingere lex diuina permisit, quanto magis doni celestis dispensatores esse non
             conuenit (quod est deterius) mente percussos ?</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Qui tempore baptismi uxores habent, si postea religiose
+        <div xml:id="gd-p1d33-Dd1e192">
+          <head xml:id="gd-p1d33-Hd1e194">C. VI.</head>
+          <head xml:id="gd-p1d33-Hd1e197" type="question-title">Qui tempore baptismi uxores habent, si postea religiose
             uixerint, clerici fieri non prohibentur.</head>
-          <p>Item Innocentius Papa [1. Felici Episcopo Nucerino, epist. IV. c. 4.] </p>
-          <p>III. Pars. Laici, qui habentes uxores baptizati sunt, ac sic se instituerunt, ut in
+          <p xml:id="gd-p1d33-d1e200">Item Innocentius Papa [1. Felici Episcopo Nucerino, epist. IV. c. 4.] </p>
+          <p xml:id="gd-p1d33-d1e203">III. Pars. Laici, qui habentes uxores baptizati sunt, ac sic se instituerunt, ut in
             nullo opinio eorum uacillet, aut clericis iuncti sunt, aut monasteriis, ex quo baptizati
             sunt, adheserunt, si non concubinam, si nonpellicem norunt, si in bonis operibus
             uigilauerint, non prohibentur huiusmodi ad clericatus sortem assumi.</p>
-          <p>IV. Pars. Gratian. Ceterum ante susceptum sacrum ordinem quosdam legimus concubinam
+          <p xml:id="gd-p1d33-d1e206">IV. Pars. Gratian. Ceterum ante susceptum sacrum ordinem quosdam legimus concubinam
             habuisse, quos tamen sacri canones non reiciunt, si post sacrum ordinem ab eius
             commixtione se s immaculatos custodiunt.</p>
-          <p>Unde Gregorius Andreae Tarentino Episcopo, [lib. II.</p>
-          <p>epist. 44.] .</p>
+          <p xml:id="gd-p1d33-d1e210">Unde Gregorius Andreae Tarentino Episcopo, [lib. II.</p>
+          <p xml:id="gd-p1d33-d1e213">epist. 44.] .</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">De quodam episcopo, qui ante sui episcopatus apicem concubinam
+        <div xml:id="gd-p1d33-Dd1e217">
+          <head xml:id="gd-p1d33-Hd1e219">C. VII.</head>
+          <head xml:id="gd-p1d33-Hd1e222" type="question-title">De quodam episcopo, qui ante sui episcopatus apicem concubinam
             habuit.</head>
-          <p>Habuisse te concubinam manifesta ueritate comperimus*, et te illius criminis
+          <p xml:id="gd-p1d33-d1e225">Habuisse te concubinam manifesta ueritate comperimus*, et te illius criminis
             participationem habere de qua etiam contraria est quibusdam nata suspicio. Sed quia in
             rebus ambiguis absolutum non debet esse iudicium, hoc tuae conscientiae committendum
             eligimus. Qua de re, si in sacro ordine constitutus eius te recolis permixtione

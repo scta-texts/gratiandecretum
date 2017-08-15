@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,66 +53,66 @@
     </front>
     <body>
       <div xml:id="gd-p1d83">
-        <head>DISTINCTIO LXXXIII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Prouidendum quoque est, ne is, qui ad ordinandum eligitur, etsi a proprio uitio
+        <head xml:id="gd-p1d83-Hd1e103">DISTINCTIO LXXXIII.</head>
+        <p xml:id="gd-p1d83-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d83-d1e109">I. Pars. Prouidendum quoque est, ne is, qui ad ordinandum eligitur, etsi a proprio uitio
           uideatur alienus, consentiendo alienis inquinetur. Ut enim Simacus Papa ait: ,,Non est
           grandis differentia, utrum lethum inferas, uel admittas. Mortemenim languentibus probatur
           infligere, qui hanc, cum possit, nonexcludit. “</p>
-        <p>Hinc Gregorius VII. ait [in Reg. lib. VI. c. 12. Romanae</p>
-        <p>Sinodi, celebratae Anno Domini 1080. al. 1078.] :</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Suspendatur ab offitio, clericorum suorum fornicationi
+        <p xml:id="gd-p1d83-d1e112">Hinc Gregorius VII. ait [in Reg. lib. VI. c. 12. Romanae</p>
+        <p xml:id="gd-p1d83-d1e115">Sinodi, celebratae Anno Domini 1080. al. 1078.] :</p>
+        <div xml:id="gd-p1d83-Dd1e119">
+          <head xml:id="gd-p1d83-Hd1e121">C. I</head>
+          <head xml:id="gd-p1d83-Hd1e124" type="question-title">. Suspendatur ab offitio, clericorum suorum fornicationi
             consentiens episcopus.</head>
-          <p>Si quis episcopus fornicationem presbiterorum, diaconorum*, uel crimen incestus in sua
+          <p xml:id="gd-p1d83-d1e127">Si quis episcopus fornicationem presbiterorum, diaconorum*, uel crimen incestus in sua
             parrochia precio uelprecibus interueniente consenserit, uel commissum auctoritate sui
             offitii non inpugnauerit, ab offitio suspendatur,</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Maxime ecclesiam ledit sub nomine sanctitatis
+        <div xml:id="gd-p1d83-Dd1e131">
+          <head xml:id="gd-p1d83-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d83-Hd1e136" type="question-title">. Maxime ecclesiam ledit sub nomine sanctitatis
             delinquens.</head>
-          <p>Item Augustinus.</p>
-          <p>Nemo quippe in ecclesia amplius nocet, quam qui peruerse agens nomen uel ordinem
+          <p xml:id="gd-p1d83-d1e139">Item Augustinus.</p>
+          <p xml:id="gd-p1d83-d1e142">Nemo quippe in ecclesia amplius nocet, quam qui peruerse agens nomen uel ordinem
             sanctitatis et sacerdotis habet. Delinquentem namque hunc nullus redarguere presumit, et
             in exemplum culpa uehementer extenditur, quoniam pro reuerentia ordinis peccator
             honoratur.Episcopus* itaque, qui talium crimina non corrigit, magisdicendus est canis
             inpudicus quam episcopus.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. Qui non resistit errori, consentit.</head>
-          <p>Item Innocentius.</p>
-          <p>Error, cui non resistitur, approbatur, et ueritas, cum minime defensatur, obprimitur.
+        <div xml:id="gd-p1d83-Dd1e146">
+          <head xml:id="gd-p1d83-Hd1e148">C. III</head>
+          <head xml:id="gd-p1d83-Hd1e151" type="question-title">. Qui non resistit errori, consentit.</head>
+          <p xml:id="gd-p1d83-d1e154">Item Innocentius.</p>
+          <p xml:id="gd-p1d83-d1e157">Error, cui non resistitur, approbatur, et ueritas, cum minime defensatur, obprimitur.
             Negligere quippe, cumpossis perturbare peruersos, nichil est aliud quamfouere.</p>
-          <p>Nec caret scrupulo societatis occultae, qui manifesto facinori desinit obuiare.</p>
+          <p xml:id="gd-p1d83-d1e160">Nec caret scrupulo societatis occultae, qui manifesto facinori desinit obuiare.</p>
         </div>
-        <div>
-          <head>C. IV, Non prodest suo errore non pollui, qui alieno consentit</head>
-          <head type="question-title">.</head>
-          <p>Item Pius Papa, [epist. I. ad omnes Christi fideles].</p>
-          <p>Quid enim prodest illi suo errore non pollui, qui consensum prestat erranti?</p>
+        <div xml:id="gd-p1d83-Dd1e164">
+          <head xml:id="gd-p1d83-Hd1e166">C. IV, Non prodest suo errore non pollui, qui alieno consentit</head>
+          <head xml:id="gd-p1d83-Hd1e169" type="question-title">.</head>
+          <p xml:id="gd-p1d83-d1e172">Item Pius Papa, [epist. I. ad omnes Christi fideles].</p>
+          <p xml:id="gd-p1d83-d1e175">Quid enim prodest illi suo errore non pollui, qui consensum prestat erranti?</p>
         </div>
-        <div>
-          <head>C, V</head>
-          <head type="question-title">. Qui non occurrit, consentit.</head>
-          <p>Item Gregorius*.</p>
-          <p>Consentire uidetur erranti, qui ad resecanda, que corrigi debent, non occurrit.</p>
-          <p>Gratian. Sicut autem aliorum uitia palpare non debet% ita nec malorum laudibus
+        <div xml:id="gd-p1d83-Dd1e179">
+          <head xml:id="gd-p1d83-Hd1e181">C, V</head>
+          <head xml:id="gd-p1d83-Hd1e184" type="question-title">. Qui non occurrit, consentit.</head>
+          <p xml:id="gd-p1d83-d1e187">Item Gregorius*.</p>
+          <p xml:id="gd-p1d83-d1e190">Consentire uidetur erranti, qui ad resecanda, que corrigi debent, non occurrit.</p>
+          <p xml:id="gd-p1d83-d1e193">Gratian. Sicut autem aliorum uitia palpare non debet% ita nec malorum laudibus
             delectari.</p>
-          <p>Unde Anacletus cunctis fidelibus.</p>
+          <p xml:id="gd-p1d83-d1e197">Unde Anacletus cunctis fidelibus.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Miserrimus est episcopus, qui malorum gloriatur
+        <div xml:id="gd-p1d83-Dd1e201">
+          <head xml:id="gd-p1d83-Hd1e203">C. VI</head>
+          <head xml:id="gd-p1d83-Hd1e206" type="question-title">. Miserrimus est episcopus, qui malorum gloriatur
             laudibus.</head>
-          <p>Nichil illo pastore miserius, qui luporum gloriatur laudibus. Quibus si placere
+          <p xml:id="gd-p1d83-d1e209">Nichil illo pastore miserius, qui luporum gloriatur laudibus. Quibus si placere
             uoluerit, atque ab his amaridelegerit, erit hinc ouibus magna pernicies. Nullus
             igiturpastorum placere lupis et gregibus ouium potest. Perditenim memoriam laborum* mens
             terrenis obligata carceribus. Sicut autem artium in suo quoque opere inueniturmater
             instantia, ita nouerca erudicionis est negligentia.</p>
-          <p>II. Pars. Gratian. Quamquam sacerdotem tam a suis, quam a&amp; alienis criminibus
+          <p xml:id="gd-p1d83-d1e212">II. Pars. Gratian. Quamquam sacerdotem tam a suis, quam a&amp; alienis criminibus
             oporteat esse imunem, tamen sialiorsum sese habuerit, non ideo uerba suae predicationis
             debentcontempni. Sicut enim Ieronimus ait; ut lixiuium percinerem humidum fluens lauat,
             et non lauatur, ita bona doctrinaper malum doctorem animas credentium lauat a sordeas

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p1d5">
-        <head>DISTINCTIO V.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Hec, que de priuilegiis et ceteris infra positis scripta sunt, tam secularibus
+        <head xml:id="gd-p1d5-Hd1e103">DISTINCTIO V.</head>
+        <p xml:id="gd-p1d5-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d5-d1e109">I. Pars. Hec, que de priuilegiis et ceteris infra positis scripta sunt, tam secularibus
           quam ecclesiasticis legibus conueniunt. Nunc * ad differentiam naturalis iuris et
           ceterorum reuertamur. §. 1. Naturale ius inter omnia primatum obtinet et* tempore et
           dignitate. Cepit enim ab exordio rationalis creaturae, nec uariatur tempore, sed
@@ -69,48 +67,48 @@
           mulier, que menstrua patitur, e# immunda reputabatur ; nwnc autem nec, ecclesiam intrare
           nec sacrae communionis misteria percipere, illa, que par it, uel illud, quod gignitur,
           nec</p>
-        <p>statim post partum baptizari prohibetur.</p>
-        <p>Unde eidem Augustino Gregorius [I.]scribit, dicens:</p>
-        <div>
-          <head>[C. I. PALEA*.</head>
-          <p>Cum enixa fuerit mulier, post quot dies intrare ecclesiam debeat, testamenti ueteris
+        <p xml:id="gd-p1d5-d1e112">statim post partum baptizari prohibetur.</p>
+        <p xml:id="gd-p1d5-d1e115">Unde eidem Augustino Gregorius [I.]scribit, dicens:</p>
+        <div xml:id="gd-p1d5-Dd1e119">
+          <head xml:id="gd-p1d5-Hd1e121">[C. I. PALEA*.</head>
+          <p xml:id="gd-p1d5-d1e124">Cum enixa fuerit mulier, post quot dies intrare ecclesiam debeat, testamenti ueteris
             preceptione didicisti: quia pro masculo XXXIII., pro femina uero LXVI. diebus debet
             abstinere; quod tamen sciendum, quia in misterio accipitur.]</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Mulier in ipsa qua genuerit hora gratias actura ecclesiam
+        <div xml:id="gd-p1d5-Dd1e128">
+          <head xml:id="gd-p1d5-Hd1e130">C. II.</head>
+          <head xml:id="gd-p1d5-Hd1e133" type="question-title">Mulier in ipsa qua genuerit hora gratias actura ecclesiam
             intrare non prohibetur.</head>
-          <p>[Gregorius ibidem continenter.]</p>
+          <p xml:id="gd-p1d5-d1e136">[Gregorius ibidem continenter.]</p>
 
-          <p>Si mulier eadem hora, qua genuerit, actura gratias intrat ecclesiam, nullo pondere
+          <p xml:id="gd-p1d5-d1e139">Si mulier eadem hora, qua genuerit, actura gratias intrat ecclesiam, nullo pondere
             peccati grauatur; uoluptas etenim carnis, non dolor in culpa est. In carnis autem
             commixtione uoluptas est, in partu uero prolis gemitus. Unde ipsi primae mulieri
             dicitur: ,,In doloribus paries.Si itaque enixam mulierem prohibemus intrare ecclesiam,
             ipsam ei penam in culpam uertimus .</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Mulierem enixam, uel quod ab ea genitum fuerit, eadem hora
+        <div xml:id="gd-p1d5-Dd1e143">
+          <head xml:id="gd-p1d5-Hd1e145">C. III.</head>
+          <head xml:id="gd-p1d5-Hd1e148" type="question-title">Mulierem enixam, uel quod ab ea genitum fuerit, eadem hora
             nihil prohibet baptizari.</head>
-          <p>Item [Idem ad eundem.]Baptizari autem uel enixam mulierem, uel hoc, quod genuerit, si
+          <p xml:id="gd-p1d5-d1e151">Item [Idem ad eundem.]Baptizari autem uel enixam mulierem, uel hoc, quod genuerit, si
             periculo mortis urgetur, uel ipsa hora eadem, qua gignit uel, eadem, qua natum est id
             quod gignitur, nullo modo prohibetur*: ne, dum adhuc tempus ad pre-bendum reaemtionis
             misterium queritur, interueniente paululum mora, inueniri non ualeat, qui redimatur.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Antequam puer ablactetur, uel mater purificetur, ad eius
+        <div xml:id="gd-p1d5-Dd1e155">
+          <head xml:id="gd-p1d5-Hd1e157">C. IV.</head>
+          <head xml:id="gd-p1d5-Hd1e160" type="question-title">Antequam puer ablactetur, uel mater purificetur, ad eius
             concubitum uir non accedat.</head>
-          <p>Item.® [Gregor. ibid. continenter.]</p>
-          <p>Ad eius uero concubitum uir suus accedere non debet, quousque qui gignitur
+          <p xml:id="gd-p1d5-d1e163">Item.® [Gregor. ibid. continenter.]</p>
+          <p xml:id="gd-p1d5-d1e166">Ad eius uero concubitum uir suus accedere non debet, quousque qui gignitur
             ablactetur.</p>
-          <p>[PALEA.</p>
-          <p>Praua autem in coniugatorum moribus consuetudo surrexit, ut mulieres filios quos
+          <p xml:id="gd-p1d5-d1e169">[PALEA.</p>
+          <p xml:id="gd-p1d5-d1e173">Praua autem in coniugatorum moribus consuetudo surrexit, ut mulieres filios quos
             gignunt, nutrire contemnant, eosque aliis mulieribus ad nutriendum tradant; quod
             uidelicet ex sola causa incontinentiae uidetur inuentum, quia dum se continere nolunt,
             despiciunt lactare quos gignunt.]</p>
-          <p>Si autem filios suos ex praua consuetudine aliis ad nutriendum tradunt, nisi
+          <p xml:id="gd-p1d5-d1e176">Si autem filios suos ex praua consuetudine aliis ad nutriendum tradunt, nisi
             purgationis tempus transierit, uiris suis non debent admisceri: quippe et sine partus
             causa cum in menstruis consuetis detinentur, uiris suis misceri prohibentur, ita ut
             morte lex sacra feriat, si quis uir ad menstruam mulierem accedat. §. 1. Que tamen
@@ -129,7 +127,7 @@
 
 
 
-          <p>munionis misterium in eisdem diebus percipere non debet prohiberi. Si autem ex
+          <p xml:id="gd-p1d5-d1e179">munionis misterium in eisdem diebus percipere non debet prohiberi. Si autem ex
             ueneratione magna percipere non presumit, laudanda est; sed si perceperit% non
             estiudicanda. Bonarum quippe mentium est, etiam ibi culpas suas agnoscere, ubi culpa non
             est; quia sepe sine culpa agitur, quod uenit ex culpa. Unde etiam cum esurimus, sine

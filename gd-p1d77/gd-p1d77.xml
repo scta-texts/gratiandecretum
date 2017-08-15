@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,29 +53,29 @@
     </front>
     <body>
       <div xml:id="gd-p1d77">
-        <head>DISTINCTIO LXXVII.</head>
-        <p>GRATIANUS.</p>
-        <p>His temporibus secundum Anacletum, Zepherinum, Gela-sium et Pelagium episcopi, presbiteri
+        <head xml:id="gd-p1d77-Hd1e103">DISTINCTIO LXXVII.</head>
+        <p xml:id="gd-p1d77-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d77-d1e109">His temporibus secundum Anacletum, Zepherinum, Gela-sium et Pelagium episcopi, presbiteri
           et diaconi sunt ordinandi. Metropolitanus autem iuxta Leonem papam ex presbiteris eiusdem
           ecclesiae uel ex diaconibus optimus ordinetur. Ex monachisautem uel laicis nullus nisi per
           gradus ecclesiae ad summumsacerdotium debet peruenire.</p>
-        <p>Unde Gelasius^z- Papa:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Non nisi per distinctos gradus quisquam ad sacerdotium
+        <p xml:id="gd-p1d77-d1e112">Unde Gelasius^z- Papa:</p>
+        <div xml:id="gd-p1d77-Dd1e115">
+          <head xml:id="gd-p1d77-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d77-Hd1e120" type="question-title">. Non nisi per distinctos gradus quisquam ad sacerdotium
             aspiret.</head>
-          <p>Illud nos statuentes uobis et omnibus seruare mandamus, ut ad ordines ecclesiasticos
+          <p xml:id="gd-p1d77-d1e123">Illud nos statuentes uobis et omnibus seruare mandamus, ut ad ordines ecclesiasticos
             sic accedant in ecclesia, qui ordinari merentur: id est, si quis episcopus esse meretur,
             sit primo hostiarius, deinde lector, pretereaexorcista, inde sacretur acolitus, demum
             uero subdiaconus,deinde diaconus, et postea presbiter, exinde, si meretur,episcopus
             ordinetur.</p>
-          <p>Item Zosimus Episc. urbis Romae ait [ad Hesychium, epist. I. cap. 3.]:</p>
+          <p xml:id="gd-p1d77-d1e126">Item Zosimus Episc. urbis Romae ait [ad Hesychium, epist. I. cap. 3.]:</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. Que interualla temporis in singulis gradibus sint
+        <div xml:id="gd-p1d77-Dd1e131">
+          <head xml:id="gd-p1d77-Hd1e133">C. II</head>
+          <head xml:id="gd-p1d77-Hd1e136" type="question-title">. Que interualla temporis in singulis gradibus sint
             obseruanda.</head>
-          <p>In singulis gradibus hec tempora sunt obseruanda, si ab infantia* ecclesiasticis
+          <p xml:id="gd-p1d77-d1e139">In singulis gradibus hec tempora sunt obseruanda, si ab infantia* ecclesiasticis
             ministeriis nomen dederit, ut interlectores et exorcistas quinquennio teneatur, exinde
             acolitusuel subdiaconus quatuordecim annis fiat, et sic ad benedictionem diaconatus, si
             meretur, accedat, in quo ordinequinque annis, si inculpate gesserit, adherere
@@ -87,13 +85,13 @@
             qui ex laicis fiunt, supradicta obserua-tione teneantur, si meruerint s in ordine esse
             clericatus.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item S iri cius Papa [ad H i m e r i u m T arraconensem, epist. I. cap. 9.] </p>
-          <p>Quicumque itaque se ecclesiae uouit obsequiis a sua infantia, ante pubertatis annos
+        <div xml:id="gd-p1d77-Dd1e143">
+          <head xml:id="gd-p1d77-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d77-Hd1e148" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d77-d1e151">Item S iri cius Papa [ad H i m e r i u m T arraconensem, epist. I. cap. 9.] </p>
+          <p xml:id="gd-p1d77-d1e154">Quicumque itaque se ecclesiae uouit obsequiis a sua infantia, ante pubertatis annos
             baptizari et lectorum</p>
-          <p>debet ministerio sociari; qui ab accessu adolescendaeusque ad trigesimum* etatis annum
+          <p xml:id="gd-p1d77-d1e157">debet ministerio sociari; qui ab accessu adolescendaeusque ad trigesimum* etatis annum
             si probabiliteruixerit, una tantum, et ea, quam uirginem communi persacerdotem
             benedictione percepit, uxore contentus, acolituset subdiaconus esse debebit, postquam ad
             diaconii gradum (si se ipsum primitus, continentia preeunte, dignumprobauerit) accedat.
@@ -108,25 +106,25 @@
             hec tempora dignus iudicatus fuerit,prouehatur. Exinde iam accessu temporum presbiterio
             uelepiscopatui, si eum plebis ac cleri euocauerit electio,non inmerito societur.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Sexta Sinodo, [c. 15.].</p>
-          <p>Subdiaconus non minor uiginti annorum ordinetur. §. 1. Si quis uero in aliquo ordine
+        <div xml:id="gd-p1d77-Dd1e161">
+          <head xml:id="gd-p1d77-Hd1e163">C. IV</head>
+          <head xml:id="gd-p1d77-Hd1e166" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d77-d1e169">Item ex Sexta Sinodo, [c. 15.].</p>
+          <p xml:id="gd-p1d77-d1e172">Subdiaconus non minor uiginti annorum ordinetur. §. 1. Si quis uero in aliquo ordine
             sacerdotali preter constitutatempora ordinatus fuerit, deponatur.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Cartaginensi III. [c. 4.]Placuit, ut ante uiginti quinque annos etatis
+        <div xml:id="gd-p1d77-Dd1e176">
+          <head xml:id="gd-p1d77-Hd1e178">C. V</head>
+          <head xml:id="gd-p1d77-Hd1e181" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d77-d1e184">Item ex Concilio Cartaginensi III. [c. 4.]Placuit, ut ante uiginti quinque annos etatis
             nec diaconi ordinentur, nec uirgines consecrentur, et ut lectores populum non
             salutent.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Minoribus XXV. annis leuitica non pre stetur
+        <div xml:id="gd-p1d77-Dd1e188">
+          <head xml:id="gd-p1d77-Hd1e190">C. VI</head>
+          <head xml:id="gd-p1d77-Hd1e193" type="question-title">. Minoribus XXV. annis leuitica non pre stetur
             benedictio.</head>
-          <p>Item ex Concilio Agat en si, [c. 16. et 17.] Episcopus benedictionem diaconatus
+          <p xml:id="gd-p1d77-d1e196">Item ex Concilio Agat en si, [c. 16. et 17.] Episcopus benedictionem diaconatus
             minoribus quamuiginti quinque annorum penitus non committat. §. 1. Sanesi coniugati
             iuuenes consenserint ordinari, etiam uxorumuoluntas ita requirenda est, ut sequestrato
             mansionis cubiculo, religione promissa, posteaquam pariter conuersifuerint, ordinentur.
@@ -134,29 +132,29 @@
             perfectietatem perueniat, nullus metropolitanorum ordinarepresumat, ne per etatem (quod
             aliquociens euenit) aliquoerrore culpetur.</p>
         </div>
-        <div>
-          <head>C. VII</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Item ex Concilio Toletano IV. [c. 20.]</p>
-          <p>In ueteri lege ab anno uicesimo et quinto Leuitae tabernaculo seruire iubentur, cuius
+        <div xml:id="gd-p1d77-Dd1e200">
+          <head xml:id="gd-p1d77-Hd1e202">C. VII</head>
+          <head xml:id="gd-p1d77-Hd1e205" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d77-d1e208">Item ex Concilio Toletano IV. [c. 20.]</p>
+          <p xml:id="gd-p1d77-d1e211">In ueteri lege ab anno uicesimo et quinto Leuitae tabernaculo seruire iubentur, cuius
             auctoritatem incanonibus et sancti Patres secuti sunt. Nos et diuinaelegis, et
             praeceptorum canonum inmemores, infantes etpueros Leuitas facimus ante legitimam etatem,
             aut experientiam uitae; ideoque ne ulterius fiat a nobis, et diuinalege, et canonicis
             ammonemur sententiis, sed a uicesimo quinto annos etatis suae Leuitae consecrentur, eta
             tricesimo presbiteri ordinentur.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. Per que interualla temporum ordinetur qui de monachis in
+        <div xml:id="gd-p1d77-Dd1e216">
+          <head xml:id="gd-p1d77-Hd1e218">C. VIII</head>
+          <head xml:id="gd-p1d77-Hd1e221" type="question-title">. Per que interualla temporum ordinetur qui de monachis in
             clericatum eligitur.</head>
-          <p>Item Gelasius [Papa ad Episcopos per Lucaniam, epist. I. cap. 3.]</p>
-          <p>' Si quis de religioso proposito et disciplinis monasterialibus eruditus ad clericale
+          <p xml:id="gd-p1d77-d1e224">Item Gelasius [Papa ad Episcopos per Lucaniam, epist. I. cap. 3.]</p>
+          <p xml:id="gd-p1d77-d1e227">' Si quis de religioso proposito et disciplinis monasterialibus eruditus ad clericale
             munus accedit, inprimis eius uita acta inquiratur, si nullo graui facinore probatur
             infectus; si secundam fortasse non habuerit uxorem, nec a marito reiectam sortitus
             ostenditur*. ^</p>
-          <p>[C.IX.]</p>
-          <p>Idem [eodem capite et sequenti].</p>
-          <p>Monachus* uero nouitius morum honestate fulcitus, continuo lector, uel notarius, aut
+          <p xml:id="gd-p1d77-d1e230">[C.IX.]</p>
+          <p xml:id="gd-p1d77-d1e234">Idem [eodem capite et sequenti].</p>
+          <p xml:id="gd-p1d77-d1e237">Monachus* uero nouitius morum honestate fulcitus, continuo lector, uel notarius, aut
             certe defensor effectus,post tres menses existat acolitus, maxime si huic etiametas
             suffragatur; sexto mense subdiaconi nomen accipiat, acsi modestae conuersationis
             honestaeque uoluntatis existat,nono mense diaconus, conpletoque anno sit presbiter;cui
@@ -169,7 +167,7 @@
             querendum est institutis, quantum de tempore, quo fuerint assequenda, decerpitur, ut
             morum hoc habere doceatur probitas, quod prolixior consuetudonon contulit, ne per
             occasionem supplendae penuriae cleri-</p>
-          <p>catus * uitia potius diuinis cultibus intulisse, non legitimae familiae Domini
+          <p xml:id="gd-p1d77-d1e240">catus * uitia potius diuinis cultibus intulisse, non legitimae familiae Domini
             conputemur procurasse conpendia. Quorum promotionibus super anni metas sex menses
             nichilominus subrogamus, quoniam, sicut dictum est, distaredebet inter personam diuino
             cultui deditam, et delaicorum conversatione uenientem. Que tamen eatenus in-dulgenda

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,16 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p1d25">
-        <head>DISTINCTIO XXV.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Quod nullus sine examinatione ordinandus sit, breuiter probatum est. Quid autem
+        <head xml:id="gd-p1d25-Hd1e103">DISTINCTIO XXV.</head>
+        <p xml:id="gd-p1d25-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d25-d1e109">I. Pars. Quod nullus sine examinatione ordinandus sit, breuiter probatum est. Quid autem
           ad episcopum, quid ad unumquemque inferiorem pertineat, Ysidorus Ispalensis episcopus in
           epistola ad Ludifredum'* scribit, ita dicens:</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Quod episcopi et ceterorum sit in ecclesia offitium.</head>
+        <div xml:id="gd-p1d25-Dd1e112">
+          <head xml:id="gd-p1d25-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d25-Hd1e117" type="question-title">Quod episcopi et ceterorum sit in ecclesia offitium.</head>
 
-          <p>Perlectis sanctitatis tuae litteris gauisus sum, quod optatam salutem tuam earum relatu
+          <p xml:id="gd-p1d25-d1e120">Perlectis sanctitatis tuae litteris gauisus sum, quod optatam salutem tuam earum relatu
             cognoui. De his autem, que in consequentibus insinuare eloquii tui sermo studuit,
             gratias ago Deo, quod sollicitudinem offitii pastoralis impendis, qualiterque
             ecclesiastica offitia ordinentur, perquiris; et licet omnia prudentiae tuae sint
@@ -102,7 +100,7 @@
 
 
 
-          <p>preces dicat, seu responsoria in dominicis diebus aut solempnitatibus decantet.
+          <p xml:id="gd-p1d25-d1e123">preces dicat, seu responsoria in dominicis diebus aut solempnitatibus decantet.
             Sollicitudo quoque parrochiarum*** et ordinatio et iurgia ad eius pertinent curam, pro
             reparandis diocesanis basilicis ipse suggerit sacerdoti; ipse inquirit parrochias cum
             iussione episcopi et ornamenta uel res basilicarum uel parrochiarum, gesta libertatum
@@ -128,28 +126,28 @@
             est proximus aut eruditioneff. §. 14. Ad thesaurarium pertinent hostiarii basilicarum
             ordinatio, incensi preparatio, cura erismatis conficiendi, cura baptisterii ordinandi,
             preparatio luminariorum in sacrario et sacrificiis .</p>
-          <p>II. Pars. Gratian. Ex hac epistola liquet, quid cuiusque offitii sit. Est etiam alia
+          <p xml:id="gd-p1d25-d1e126">II. Pars. Gratian. Ex hac epistola liquet, quid cuiusque offitii sit. Est etiam alia
             distinctio episcoporum, presbiterorum, diaconorum, quam fecit Clemens in epistola sua
             ita^y dicens:</p>
 
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Quid ab episcopis, quid a presbiteris, quid a diaconibus
+        <div xml:id="gd-p1d25-Dd1e130">
+          <head xml:id="gd-p1d25-Hd1e132">C. II.</head>
+          <head xml:id="gd-p1d25-Hd1e135" type="question-title">Quid ab episcopis, quid a presbiteris, quid a diaconibus
             audire oportet.</head>
-          <p>Audire episcopum attentius oportet, et ab ipso suscipere doctrinam fidei; monita autem
+          <p xml:id="gd-p1d25-d1e138">Audire episcopum attentius oportet, et ab ipso suscipere doctrinam fidei; monita autem
             uitae a presbiteris inquirere, a diaconibus uero ordinem disciplinae.</p>
-          <p>Gratian. Sacerdos quoque utrumque humerum orario ambit; diaconus uero sinistrum tantum,
+          <p xml:id="gd-p1d25-d1e141">Gratian. Sacerdos quoque utrumque humerum orario ambit; diaconus uero sinistrum tantum,
             ut ad, ministerium expeditusdiscurrat.</p>
-          <p>Unde in Tollet ano Concilio IV. c. 40.</p>
+          <p xml:id="gd-p1d25-d1e144">Unde in Tollet ano Concilio IV. c. 40.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Quare Leuita unum tantum humerum orario ambit.</head>
-          <p>Unum orarium oportet Leuitam gestare in sinistro humero, propter quod orat, id est
+        <div xml:id="gd-p1d25-Dd1e149">
+          <head xml:id="gd-p1d25-Hd1e151">C. III.</head>
+          <head xml:id="gd-p1d25-Hd1e154" type="question-title">Quare Leuita unum tantum humerum orario ambit.</head>
+          <p xml:id="gd-p1d25-d1e157">Unum orarium oportet Leuitam gestare in sinistro humero, propter quod orat, id est
             predicat; dexteram autem partem oportet.habere liberam, ut expeditus ad ministerium
             sacerdotale discurrat.</p>
-          <p>III. Pars. Gratian. Nunc autem per singulos gradus ordine recurrentes, qui, ex quibus
+          <p xml:id="gd-p1d25-d1e160">III. Pars. Gratian. Nunc autem per singulos gradus ordine recurrentes, qui, ex quibus
             ordinibus, in quem gradum conscendere possint; qui post lapsum ualeant reparari, uel
             non; quibus culpis a proprio gradu mereantur deici; quo accusante, quibus
             testificantibus possint conuinci; cuius sententia sint soluendi uel dampnandi^, breuiter
@@ -166,7 +164,7 @@
             crimine iubetur esse qui in episcopum eligitur, non ante baptisma, sed post baptismum
             intelligendum est: ut a tempore uidelicet baptismatis nullius criminis conscientia
             mentem eius remordeat***. §. 4. Criminis appellatio alias</p>
-          <p>late patet, complectens omne peccatum, quod ex deliberatione procedit. Unde Beda****
+          <p xml:id="gd-p1d25-d1e163">late patet, complectens omne peccatum, quod ex deliberatione procedit. Unde Beda****
             super epistolam Iacobi: ,, Peccata, que ex ignorantia uel infirmitate humana
             committuntur, dicit et precipit alterutrum confiteri, quia facile dimittuntur: quecumque
             uero fiunt ex deliberatione, non nisi per penitentiam.^ Hinc etiam Augustinus ait: ,,
@@ -176,19 +174,19 @@
 
 
 
-          <p>non fiat criminale, dum placet. “ Alias ea demum significat, que semel commissa ad
+          <p xml:id="gd-p1d25-d1e167">non fiat criminale, dum placet. “ Alias ea demum significat, que semel commissa ad
             dampnationem sufficiunt. §. 5. Multa enim ex deliberatione procedunt, que nisi sepius
             iterata et in consuetudinem fuerint deducta, quamuis grauent post mortem, non tamen
             eternaliter perdunt: quia etsi quadam ratione crimina appellentur, tamen mortifera, et
             capitalia non sunt. Unde Augustinus in omilia de igne purgatorio, exponens uerba
             Apostoli: „Si quis super hoc fundamentum edificauerit, ligna, fenum stipulam. Multi* s
             sunt, lectionem istam male</p>
-          <p>intelligentes falsa securitate decipiuntur, dwm credunt, «2</p>
-          <p>supra fundamentum Christi crimina capitalia edificant, peccata ipsa per ignem
+          <p xml:id="gd-p1d25-d1e170">intelligentes falsa securitate decipiuntur, dwm credunt, «2</p>
+          <p xml:id="gd-p1d25-d1e173">supra fundamentum Christi crimina capitalia edificant, peccata ipsa per ignem
             transitorium possint purgari, et ipsi postea ad uitam peruenire perpetuam. Intellectus
             iste, fratres Jcarissimi, corrigendus est, quia ipsi se seducunt, s?c sibi
             blandiuntur.</p>
-          <p>Illo enim transitorio igne, de quo dicit Apostolus: „ „Ipse saluus erit, sic tamen
+          <p xml:id="gd-p1d25-d1e176">Illo enim transitorio igne, de quo dicit Apostolus: „ „Ipse saluus erit, sic tamen
             quasi per ignem, non capitalia, sedminuta peccata purgantur: de quibus, etsi non omnia,
             uel aliqua commemoranda sunt, ne aliquis inaniter excusare conetur, et dicat nescire se,
             que sunt minuta peccata, que crimina capitalia. §.6. Et quamuis Apostolus plura
@@ -201,7 +199,7 @@
               non1<sub>?</sub> erogauerit, et a peccatis ipsis non abstinuerit, illo transitorio
             igne, de quo Apostolus ait, purgari non poterit, sed eterna illum flamma sine remedio
             ullo trucidabit^. §. 7.</p>
-          <p>Que autem sint minuta peccata, licet omnibus nota sint, tamen quia longum est, ut omnia
+          <p xml:id="gd-p1d25-d1e182">Que autem sint minuta peccata, licet omnibus nota sint, tamen quia longum est, ut omnia
             replicentur, opus est, ut ex eis uel aliqua nominemus. Quotiens aliquis in cibo aut potu
             plus accipit, quam necesse est™, ad minuta peccata nouerit pertinere; quotiens plus
             loquitur, quam oportet, plus tacet, quam expedit; quotiens pauperem importune petentem y
@@ -219,12 +217,12 @@
             regnum Dei possidebunt.^ “</p>
 
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Que sunt uenialia peccata, que post hanc uitam
+        <div xml:id="gd-p1d25-Dd1e186">
+          <head xml:id="gd-p1d25-Hd1e188">C. IV.</head>
+          <head xml:id="gd-p1d25-Hd1e191" type="question-title">Que sunt uenialia peccata, que post hanc uitam
             purgantur.</head>
-          <p>Item Gregorius [Dialog. lib. IV. c. 9.]</p>
-          <p>Qualis hinc quisque egreditur, talis in iudicio presentatur: sed tamen de quibusdam
+          <p xml:id="gd-p1d25-d1e194">Item Gregorius [Dialog. lib. IV. c. 9.]</p>
+          <p xml:id="gd-p1d25-d1e197">Qualis hinc quisque egreditur, talis in iudicio presentatur: sed tamen de quibusdam
             culpis esse ante iudicium purgationis ignis credendus est, pro eo, quod ueritas dicit:
             „Quia si quis in spiritum sanctum bla-sphemiam dixerit, neque in hoc seculo remittetur
             ei, neque in futuro.“ In qua sententia datur intelligi, quasdam culpas in hoc seculo,
@@ -234,37 +232,37 @@
             uel peccatum curae familiaris, (que uix sine culpa uel ab ipsis agitur, qui culpam
             qualiter declinare debeant sciunt,) que etiam post mortem grauant, siadhuc in uita
             positis minime fuerint relaxata.</p>
-          <p>[PALEA.</p>
+          <p xml:id="gd-p1d25-d1e200">[PALEA.</p>
         </div>
-        <div>
-          <head>C. V.</head>
-          <head type="question-title">De eodem.</head>
-          <p>Item Augustinus in libro de uera et falsa penitentia c. 18.</p>
-          <p>Qui in aliud seculum distulit fructum conuersionis, prius purgabitur igne purgationis.
+        <div xml:id="gd-p1d25-Dd1e204">
+          <head xml:id="gd-p1d25-Hd1e206">C. V.</head>
+          <head xml:id="gd-p1d25-Hd1e209" type="question-title">De eodem.</head>
+          <p xml:id="gd-p1d25-d1e212">Item Augustinus in libro de uera et falsa penitentia c. 18.</p>
+          <p xml:id="gd-p1d25-d1e215">Qui in aliud seculum distulit fructum conuersionis, prius purgabitur igne purgationis.
             Hic autem ignis, etsi, eternus non sit, miro tamen modo grauis est. Excellitenim omnem
             penam, quam umquam aliquis passus est in hac uita, uel pati* potest.]</p>
-          <p>Gratian. Alias autem ea tantum delicta significat, quorum est perpetua infamia. Unde
+          <p xml:id="gd-p1d25-d1e218">Gratian. Alias autem ea tantum delicta significat, quorum est perpetua infamia. Unde
             illud leronimi: Primum itaque sine crimine etc..</p>
-          <p>Unde Ieronimus scribit in eadem epistola ad Titum, [cap. 1.]:</p>
+          <p xml:id="gd-p1d25-d1e222">Unde Ieronimus scribit in eadem epistola ad Titum, [cap. 1.]:</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">A die baptismi sine crimine debet inueniri, qui in episcopum
+        <div xml:id="gd-p1d25-Dd1e226">
+          <head xml:id="gd-p1d25-Hd1e228">C. VI.</head>
+          <head xml:id="gd-p1d25-Hd1e231" type="question-title">A die baptismi sine crimine debet inueniri, qui in episcopum
             est ordinandus.</head>
-          <p>Primum itaque sine crimine iubetur esse episcopus, quod alio uerbo ad Timotheum
+          <p xml:id="gd-p1d25-d1e234">Primum itaque sine crimine iubetur esse episcopus, quod alio uerbo ad Timotheum
             inreprehensibilem nominatum puto: non quod eo tantum tempore, quo ordinandus est, sit
             sine crimine ullo, et preteritas maculas noua conuersationem diluerit, sed quod ex eo
             tempore, quo in Christum renatus est, nulla peccati conscientia mordeatur. Quomodo enim
             potest preses ecclesiae auferre malum de medio eius, qui in delictum simile corruerit?
             aut qua libertate peccantem corripere, cum tacitus ipse sibi respondeat, eadem se
             admisisse, que corripit?</p>
-          <p>Gratian. Ecce, quod ordinandus m episcopum, non</p>
+          <p xml:id="gd-p1d25-d1e237">Gratian. Ecce, quod ordinandus m episcopum, non</p>
 
 
 
 
 
-          <p>solum tempore suae ordinationis, sed etiam omni tempore post baptisma a crimine debet
+          <p xml:id="gd-p1d25-d1e240">solum tempore suae ordinationis, sed etiam omni tempore post baptisma a crimine debet
             esse immunis.</p>
         </div>
       </div>

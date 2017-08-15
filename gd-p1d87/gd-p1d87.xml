@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,88 +53,88 @@
     </front>
     <body>
       <div xml:id="gd-p1d87">
-        <head>DISTINCTIO LXXXVII.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Viduis autem et orphanis ecclesiae presidium in-plorantibus episcopi debent
+        <head xml:id="gd-p1d87-Hd1e103">DISTINCTIO LXXXVII.</head>
+        <p xml:id="gd-p1d87-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d87-d1e109">I. Pars. Viduis autem et orphanis ecclesiae presidium in-plorantibus episcopi debent
           adesse, et contra inproborum uiolen-tias protectionis patrocinium eis negare non
           debent.</p>
-        <p>Unde Gelasius Gerontio et Petro Episcopis:</p>
-        <div>
-          <head>C. I</head>
-          <head type="question-title">. Inplorantibus patrocinium ecclesiae episcopi debent
+        <p xml:id="gd-p1d87-d1e112">Unde Gelasius Gerontio et Petro Episcopis:</p>
+        <div xml:id="gd-p1d87-Dd1e115">
+          <head xml:id="gd-p1d87-Hd1e117">C. I</head>
+          <head xml:id="gd-p1d87-Hd1e120" type="question-title">. Inplorantibus patrocinium ecclesiae episcopi debent
             adesse.</head>
-          <p>Licet omnibus de nobis sperantibus non debeamus inquantum possumus nos negare, plus
+          <p xml:id="gd-p1d87-d1e123">Licet omnibus de nobis sperantibus non debeamus inquantum possumus nos negare, plus
             tamen uiduarum causas et inpensius ducimus exequendas, quas tueri a nobisuel ab omnibus
             diuina manifestat assertio.</p>
         </div>
-        <div>
-          <head>C. II</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem Anastasio Episcopo.</p>
-          <p>Desolatis propriae defensionis auxilio, et qui suis actibus prodesse pro etatis
+        <div xml:id="gd-p1d87-Dd1e128">
+          <head xml:id="gd-p1d87-Hd1e130">C. II</head>
+          <head xml:id="gd-p1d87-Hd1e133" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d87-d1e136">Idem Anastasio Episcopo.</p>
+          <p xml:id="gd-p1d87-d1e139">Desolatis propriae defensionis auxilio, et qui suis actibus prodesse pro etatis
             infirmitate non possunt, exoratum decet pontificem subuenire, quia pupillis* tuicionem
             etiamdiuinitas iussit inpendi. Et ideo Maximo et Ianuario clericalis offitii (qui se
             solatiis parentum uel propinquorumasserunt destitutos) auxilium ex nostra delegatione
             prestabis,ut aduersus inprobitates aduersariorum suorum protecti tuaeexecutionis annisu
             noxia commenta non sentiant.</p>
         </div>
-        <div>
-          <head>C. III</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem Leontio et Petro Episcopis.</p>
-          <p>Quisquis in negociis suis nostri nominis intercessione sperat sibi remedia posse
+        <div xml:id="gd-p1d87-Dd1e143">
+          <head xml:id="gd-p1d87-Hd1e145">C. III</head>
+          <head xml:id="gd-p1d87-Hd1e148" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d87-d1e151">Idem Leontio et Petro Episcopis.</p>
+          <p xml:id="gd-p1d87-d1e154">Quisquis in negociis suis nostri nominis intercessione sperat sibi remedia posse
             conferri, prona nos conuenit animositate prestare.</p>
         </div>
-        <div>
-          <head>C. IV</head>
-          <head type="question-title">. De eodem.</head>
-          <p>Idem Honorio Episcopo.</p>
-          <p>Diuinae retributionis memor ad pontificalem conscientiam non ambigas pertinere,
+        <div xml:id="gd-p1d87-Dd1e158">
+          <head xml:id="gd-p1d87-Hd1e160">C. IV</head>
+          <head xml:id="gd-p1d87-Hd1e163" type="question-title">. De eodem.</head>
+          <p xml:id="gd-p1d87-d1e166">Idem Honorio Episcopo.</p>
+          <p xml:id="gd-p1d87-d1e169">Diuinae retributionis memor ad pontificalem conscientiam non ambigas pertinere,
             egentium commodis piam sollicitudinem non negare.</p>
         </div>
-        <div>
-          <head>C. V</head>
-          <head type="question-title">. Tueatur ecclesia, quos in sui defensione suscepit.</head>
-          <p>Idem Fortunato Episcopo.</p>
-          <p>Irreligiosum prorsus et execrabile iudicamus, si quisquam* uel extraneus in sua
+        <div xml:id="gd-p1d87-Dd1e173">
+          <head xml:id="gd-p1d87-Hd1e175">C. V</head>
+          <head xml:id="gd-p1d87-Hd1e178" type="question-title">. Tueatur ecclesia, quos in sui defensione suscepit.</head>
+          <p xml:id="gd-p1d87-d1e181">Idem Fortunato Episcopo.</p>
+          <p xml:id="gd-p1d87-d1e184">Irreligiosum prorsus et execrabile iudicamus, si quisquam* uel extraneus in sua
             tuicione susceptos non omni fide et tota animi sui educauerit sanctitate. Ac cumOlimpius
             diaconus dilectionis tuae Felicis atque Olimpiisuggeratur auunculus, eosque paruulos
             tutelae uice susceperit nutriendos, ultra latrocinium esse iudicamus, quodeos bonusculis
             parentum (sicut asserunt) reliquit extorres, alia retinendo, alia contra leges et iura
             uendendo.</p>
         </div>
-        <div>
-          <head>C. VI</head>
-          <head type="question-title">. Confugientes ad ecclesiam extrahere non licet.</head>
-          <p>Item ex Concilio Auras ico [I. c. 5. et seqq.]</p>
-          <p>Eos, qui ad ecclesiam confugerint, tradi non oportet, sed loci sancti reuerentia et
+        <div xml:id="gd-p1d87-Dd1e188">
+          <head xml:id="gd-p1d87-Hd1e190">C. VI</head>
+          <head xml:id="gd-p1d87-Hd1e193" type="question-title">. Confugientes ad ecclesiam extrahere non licet.</head>
+          <p xml:id="gd-p1d87-d1e196">Item ex Concilio Auras ico [I. c. 5. et seqq.]</p>
+          <p xml:id="gd-p1d87-d1e199">Eos, qui ad ecclesiam confugerint, tradi non oportet, sed loci sancti reuerentia et
             intercessione defendi. §. 1. Si quis autem mancipia clericorum pro suis mancipiisad
             ecclesiam confugientibus crediderit occupanda, peromnes ecclesias districtissima
             dampnatione feriatur. §. 2.In ecclesia quoque manumissos, et per testamentumecclesiae
             commendatos si quis in seruitutem uel obsequium,uel ad colonariam conditionem reuocare
             temptauerit,animaduersione ecclesiastica coherceatur.</p>
-          <p>II. Pars. Libertos legitime a dominis suis factos, ecclesia, si necessitas exegerit,
+          <p xml:id="gd-p1d87-d1e202">II. Pars. Libertos legitime a dominis suis factos, ecclesia, si necessitas exegerit,
             tueatur; quod si quisante audientiam aut peruadere, aut expoliare presumpserit, ab
             ecclesia repellatur.</p>
         </div>
-        <div>
-          <head>C. VIII</head>
-          <head type="question-title">. A sacerdotibus defendantur liberti, qui in seruitutem
+        <div xml:id="gd-p1d87-Dd1e206">
+          <head xml:id="gd-p1d87-Hd1e208">C. VIII</head>
+          <head xml:id="gd-p1d87-Hd1e211" type="question-title">. A sacerdotibus defendantur liberti, qui in seruitutem
             reuocantur.</head>
-          <p>Item ex Concilio Tollet ano IV. [c. 72.]</p>
-          <p>Liberti, qui a quibuscumque manumissi sunt, atque ecclesiae patrocinio commendati
+          <p xml:id="gd-p1d87-d1e214">Item ex Concilio Tollet ano IV. [c. 72.]</p>
+          <p xml:id="gd-p1d87-d1e217">Liberti, qui a quibuscumque manumissi sunt, atque ecclesiae patrocinio commendati
             existunt, sicut regulae antiquorum Patrum constituerunt, sacerdotalidefensione a
             cuiuslibet insolentia protegantur, siue in statulibertatis eorum, seu in peculio, quod
             habere noscuntur.</p>
         </div>
-        <div>
-          <head>C. IX</head>
-          <head type="question-title">. Expositos defendat ecclesia, si quis eorum ca-lumpniator
+        <div xml:id="gd-p1d87-Dd1e222">
+          <head xml:id="gd-p1d87-Hd1e224">C. IX</head>
+          <head xml:id="gd-p1d87-Hd1e227" type="question-title">. Expositos defendat ecclesia, si quis eorum ca-lumpniator
             extiterit.</head>
-          <p>Item ex Concilio Tolletano^.</p>
-          <p>III. Pars. Si expositus ante ecclesiam cuiuscumquesit miseratione collectus,
+          <p xml:id="gd-p1d87-d1e230">Item ex Concilio Tolletano^.</p>
+          <p xml:id="gd-p1d87-d1e233">III. Pars. Si expositus ante ecclesiam cuiuscumquesit miseratione collectus,
             contestationis ponatur epistola, ut si is, qui collectus est, intra decem dies</p>
-          <p>* quesitus agnitusque non fuerit, securus habeat qui collegit. Sane, qui post predictum
+          <p xml:id="gd-p1d87-d1e236">* quesitus agnitusque non fuerit, securus habeat qui collegit. Sane, qui post predictum
             tempus calumpniator extiterit, uthomicida ecclesiastica districtione dampnabitur, sicut
             Patrum sanxit auctoritas.</p>
         </div>

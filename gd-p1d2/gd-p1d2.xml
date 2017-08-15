@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,64 +53,64 @@
     </front>
     <body>
       <div xml:id="gd-p1d2">
-        <head>DISTINCTIO II.</head>
-        <p>GRATIANUS.</p>
-        <p>I. Pars. Constat autem ius Quiritum ex legibus et ple-bisscitis et senatusconsultis et
+        <head xml:id="gd-p1d2-Hd1e103">DISTINCTIO II.</head>
+        <p xml:id="gd-p1d2-d1e106">GRATIANUS.</p>
+        <p xml:id="gd-p1d2-d1e109">I. Pars. Constat autem ius Quiritum ex legibus et ple-bisscitis et senatusconsultis et
           constitutionibus principum et edictis siue prudentum responsis.</p>
-        <div>
-          <head>C. I.</head>
-          <head type="question-title">Quid sit lex.</head>
-          <p>[Isidor. Etym. lib. V. c. 10. et 1. II. c. 10.]</p>
-          <p>Lex est constitutio populi, qua maiores natu simul cum plebibus aliquid sanxerunt.</p>
+        <div xml:id="gd-p1d2-Dd1e112">
+          <head xml:id="gd-p1d2-Hd1e114">C. I.</head>
+          <head xml:id="gd-p1d2-Hd1e117" type="question-title">Quid sit lex.</head>
+          <p xml:id="gd-p1d2-d1e120">[Isidor. Etym. lib. V. c. 10. et 1. II. c. 10.]</p>
+          <p xml:id="gd-p1d2-d1e123">Lex est constitutio populi, qua maiores natu simul cum plebibus aliquid sanxerunt.</p>
         </div>
-        <div>
-          <head>C. II.</head>
-          <head type="question-title">Quid plebisscitum .</head>
-          <p>[Isidor. eod. c. 11.]</p>
-          <p>Plebisscita sunt, quae plebes tantum constituunt: et uocantur plebisscita, quod ea
+        <div xml:id="gd-p1d2-Dd1e127">
+          <head xml:id="gd-p1d2-Hd1e129">C. II.</head>
+          <head xml:id="gd-p1d2-Hd1e132" type="question-title">Quid plebisscitum .</head>
+          <p xml:id="gd-p1d2-d1e135">[Isidor. eod. c. 11.]</p>
+          <p xml:id="gd-p1d2-d1e138">Plebisscita sunt, quae plebes tantum constituunt: et uocantur plebisscita, quod ea
             plebs sciat, uel quod sciscitatur et rogat, ut fiat.</p>
         </div>
-        <div>
-          <head>C. III.</head>
-          <head type="question-title">Quid senatusconsultum.</head>
-          <p>[Isidor. eod. c. 12.]</p>
-          <p>Senatusconsultum est, quod tantum senatores populis consulendo decernunt.</p>
+        <div xml:id="gd-p1d2-Dd1e143">
+          <head xml:id="gd-p1d2-Hd1e145">C. III.</head>
+          <head xml:id="gd-p1d2-Hd1e148" type="question-title">Quid senatusconsultum.</head>
+          <p xml:id="gd-p1d2-d1e151">[Isidor. eod. c. 12.]</p>
+          <p xml:id="gd-p1d2-d1e154">Senatusconsultum est, quod tantum senatores populis consulendo decernunt.</p>
         </div>
-        <div>
-          <head>C. IV.</head>
-          <head type="question-title">Quid constitutio uel edictum.</head>
-          <p>[Isidor. eod. c. 13.]</p>
-          <p>Constitutio uel edictum est, quod rex uel imperator constituit uel edidit.</p>
+        <div xml:id="gd-p1d2-Dd1e158">
+          <head xml:id="gd-p1d2-Hd1e160">C. IV.</head>
+          <head xml:id="gd-p1d2-Hd1e163" type="question-title">Quid constitutio uel edictum.</head>
+          <p xml:id="gd-p1d2-d1e166">[Isidor. eod. c. 13.]</p>
+          <p xml:id="gd-p1d2-d1e169">Constitutio uel edictum est, quod rex uel imperator constituit uel edidit.</p>
 
-          <p>Responsa prudentum sunt, que iurisconsulti respondere dicuntur consulentibus: unde
+          <p xml:id="gd-p1d2-d1e172">Responsa prudentum sunt, que iurisconsulti respondere dicuntur consulentibus: unde
             responsa Pauli dicta suntJj. Fuerunt enim quidam prudentes et arbitri equitatis, qui
             institutiones ciuilis iuris compositas ediderunt, quibus dissidentium lites
             contentionesque sopirent.</p>
         </div>
-        <div>
-          <head>C. VI.</head>
-          <head type="question-title">Que sint tribuniciae leges uel consulares.</head>
-          <p>[Isidor. eod. c. 15.]</p>
-          <p>II. Pars. Quedam etiam leges dicuntur ab his, qui condiderunt, ut consulares,
+        <div xml:id="gd-p1d2-Dd1e176">
+          <head xml:id="gd-p1d2-Hd1e178">C. VI.</head>
+          <head xml:id="gd-p1d2-Hd1e181" type="question-title">Que sint tribuniciae leges uel consulares.</head>
+          <p xml:id="gd-p1d2-d1e184">[Isidor. eod. c. 15.]</p>
+          <p xml:id="gd-p1d2-d1e187">II. Pars. Quedam etiam leges dicuntur ab his, qui condiderunt, ut consulares,
             tribuniciae, Iuliae, Corneliae. Nam et sub Octauiano Cesare suffecti consules Papius* et
             Pompeius legem tulerunt, que a nominibus eorum appellatur Papia Pompeia, continens
             patrum premia pro suscipiendis liberis. Sub eodem quoque imperatore Falci-dius tribunus
             plebis legem fecit, ne quis plus extraneis** testamento legaret, quam ut quarta pars
             superesset heredibus, ex cuius nomine lex Falci dia nominata est.</p>
         </div>
-        <div>
-          <head>C. VII.</head>
-          <head type="question-title">Quid- sit lex satyra.</head>
-          <p>[Isidor. eod. c. 16.]</p>
-          <p>Satyra* uero lex est, que de pluribus simul rebus eloquitur, dicta a copia rerum et
+        <div xml:id="gd-p1d2-Dd1e191">
+          <head xml:id="gd-p1d2-Hd1e193">C. VII.</head>
+          <head xml:id="gd-p1d2-Hd1e196" type="question-title">Quid- sit lex satyra.</head>
+          <p xml:id="gd-p1d2-d1e199">[Isidor. eod. c. 16.]</p>
+          <p xml:id="gd-p1d2-d1e202">Satyra* uero lex est, que de pluribus simul rebus eloquitur, dicta a copia rerum et
             quasi a saturitate: unde et satyram scribere est poemata uaria condere, ut Oratii,
             Iuuenalis et Persii.</p>
         </div>
-        <div>
-          <head>C. VIII.</head>
-          <head type="question-title">Que sint Rodiae leges.</head>
-          <p>[Isidor. eod. c. 17.]</p>
-          <p>Rodiae leges naualium commerciorum sunt, ab insula Rodo cognominatae, in qua antiquitus
+        <div xml:id="gd-p1d2-Dd1e206">
+          <head xml:id="gd-p1d2-Hd1e208">C. VIII.</head>
+          <head xml:id="gd-p1d2-Hd1e211" type="question-title">Que sint Rodiae leges.</head>
+          <p xml:id="gd-p1d2-d1e214">[Isidor. eod. c. 17.]</p>
+          <p xml:id="gd-p1d2-d1e217">Rodiae leges naualium commerciorum sunt, ab insula Rodo cognominatae, in qua antiquitus
             mercatorum usus fuit.</p>
         </div>
       </div>
