@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d70">
+        <head xml:id="gd-p1d70-Hd1e148">DISTINCTIO LXX.</head>
+        <p xml:id="gd-p1d70-d1e151">GRATIANUS.</p>
+        <p xml:id="gd-p1d70-d1e154">Ab episcopis alterius ciuitatis clericus ordinari non poterit, nec etiam a proprio
+          absolute ordinandus est: absoluta autemordinatio Calcedonensi Concilio prohibetur, et
+          uacuam huberemanus inpositionem precipitur; in quo sic statutum est, [can. 6.] :</p>
+        <p xml:id="gd-p1d70-d1e157">Neminem absolute ordinari presbiterum iubemus», uel diaconum, nec quemlibet in
+          ecclesiastica ordinationeconstitutum, nisi* manifeste in ecclesia ciuitatis, siue
+          possessionis, aut in martirio, aut in monasterio, hic quiordinatur, mereatur
+          ordinationis publicae uocabulum.Eorum autem, qui absolute ordinantur, decreuit
+          sanctasinodus uacuam habere manus inpositionem, et nullumtale factum** ualere ad
+          iniuriam ipsius, qui eum ordinauit.
+        </p>
+        <div xml:id="gd-p1d70-Dd1e161">
+          <head xml:id="gd-p1d70-Hd1e163">C. II</head>
+          <head xml:id="gd-p1d70-Hd1e166" type="question-title">Irrita sit ordinatio sine titulo facta.</head>
+          <p xml:id="gd-p1d70-d1e169">Item ex Sinodo Urbani [II.] habita Placentiae [c. I5.]</p>
+          <p xml:id="gd-p1d70-d1e172">Sanctorum canonum statutis consona sanctientes decernimus, ut sine titulo facta
+            ordinatio irrita habeatur, et in qua ecclesia quilibet titulatus est, in ea perpetuo
+            per-seueret. §. i. Omnino autem in duabus aliquem titularinon liceat, sed unusquisque,
+            in qua titulatus est, in ea tantum canonicus habeatur. Licet enim episcopi
+            dispositioneunus diuersis preesse possit ecclesiis, canonicus tamenprebendarius, nisi
+            unius ecclesiae, in qua conscriptus est,esse non debet. §. i. Si que tamen capellae
+            sunt, que suisredditibus clericos sustentare non possunt, ea cura acdispositio preposito
+            maioris ecclesiae, cui capellae subditaeesse uidentur, inmineat, et tam de
+            possessionibus quam deecclesiasticis capellarum offitiis ipse prouideat.</p>
+          <p xml:id="gd-p1d70-d1e175">Gratian. In eodem etiam concilio antiquis nouem prefationi-bus decima addita est, que
+            ita se habet: ,, Equum et salutare, 'que^ et unigenitum tuum S. Spiritus obumbratione
+            concepit, etuirginitatis gloria permanente lumen eternum mundo effudit,Iesum Christum
+            Dominum nostrumP</p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
