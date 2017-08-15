@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO II.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d2">
+        <head>DISTINCTIO II.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Constat autem ius Quiritum ex legibus et ple-bisscitis et senatusconsultis et
+          constitutionibus principum et edictis siue prudentum responsis.</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Quid sit lex.</head>
+          <p>[Isidor. Etym. lib. V. c. 10. et 1. II. c. 10.]</p>
+          <p>Lex est constitutio populi, qua maiores natu simul cum plebibus aliquid sanxerunt.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Quid plebisscitum .</head>
+          <p>[Isidor. eod. c. 11.]</p>
+          <p>Plebisscita sunt, quae plebes tantum constituunt: et uocantur plebisscita, quod ea
+            plebs sciat, uel quod sciscitatur et rogat, ut fiat.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Quid senatusconsultum.</head>
+          <p>[Isidor. eod. c. 12.]</p>
+          <p>Senatusconsultum est, quod tantum senatores populis consulendo decernunt.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Quid constitutio uel edictum.</head>
+          <p>[Isidor. eod. c. 13.]</p>
+          <p>Constitutio uel edictum est, quod rex uel imperator constituit uel edidit.</p>
+
+          <p>Responsa prudentum sunt, que iurisconsulti respondere dicuntur consulentibus: unde
+            responsa Pauli dicta suntJj. Fuerunt enim quidam prudentes et arbitri equitatis, qui
+            institutiones ciuilis iuris compositas ediderunt, quibus dissidentium lites
+            contentionesque sopirent.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Que sint tribuniciae leges uel consulares.</head>
+          <p>[Isidor. eod. c. 15.]</p>
+          <p>II. Pars. Quedam etiam leges dicuntur ab his, qui condiderunt, ut consulares,
+            tribuniciae, Iuliae, Corneliae. Nam et sub Octauiano Cesare suffecti consules Papius* et
+            Pompeius legem tulerunt, que a nominibus eorum appellatur Papia Pompeia, continens
+            patrum premia pro suscipiendis liberis. Sub eodem quoque imperatore Falci-dius tribunus
+            plebis legem fecit, ne quis plus extraneis** testamento legaret, quam ut quarta pars
+            superesset heredibus, ex cuius nomine lex Falci dia nominata est.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Quid- sit lex satyra.</head>
+          <p>[Isidor. eod. c. 16.]</p>
+          <p>Satyra* uero lex est, que de pluribus simul rebus eloquitur, dicta a copia rerum et
+            quasi a saturitate: unde et satyram scribere est poemata uaria condere, ut Oratii,
+            Iuuenalis et Persii.</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Que sint Rodiae leges.</head>
+          <p>[Isidor. eod. c. 17.]</p>
+          <p>Rodiae leges naualium commerciorum sunt, ab insula Rodo cognominatae, in qua antiquitus
+            mercatorum usus fuit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

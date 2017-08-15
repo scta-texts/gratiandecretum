@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO IX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO IX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d9">
+        <head>DISTINCTIO IX.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Quod autem constitutio naturali iuri cedat multiplici auctoritate probatur.</p>
+        <p>Ait enim Augustinus ad Bonifatium [Comitem, epist L.]:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Leges principum naturali iuri preualere non debent.</head>
+          <p>[PALE A*.</p>
+          <p>Imperatores, quando pro falsitate contra ueritatem constituunt malas leges, probantur
+            bene credentes et coronantur perseuerantes; quando autem pro ueritate contra falsitatem
+            constituunt bonas leges, terrentur seuientes et corriguntur intelligentes.]</p>
+          <p>§. 1. Quicumque** legibus imperatorum, que pro Dei ueritate feruntur, obtemperare non
+            uult, acquirit grande supplicium. Quicumque ergo legibus imperatorum, que contra
+            uoluntatem Dei® feruntur, obtemperare non uult, acquirit grande premium.</p>
+          <p>[§. 2. Nam et temporibus prophetarum omnes reges, qui in populo Dei non prohibuerunt,
+            nec euerterunt, que contra Dei precepta fuerant instituta, culpantur, et qui
+            prohibuerunt et euerterunt, super aliorum merita laudantur. Et rex Nabuchodonosor, cum
+            seruus esset idolorum, constituit sacrilegam legem, ut simulacrum adoraretur; sed eius
+            impiae constitutioni qui obedire noluerunt, pie fide-literque fecerunt. Idem tamen rex,
+            diuino correctus miraculo, piam et laudabilem legem pro ueritate constituit, ut
+            quicumque diceret blasphemiam in Deum Sidrac, Misac et Abdenago, cum domo sua penitus
+            interiret.]</p>
+          <p>[PALEA.</p>
+          <p>C. II.* Principes tenentur et ipsi uiuere legibus suis.</p>
+          <p>Item ex uerbis Isi dori lib. III. Sententiarum, de summo bono, c. 53.</p>
+          <p>Iustum est, principem legibus obtemperare suis. Tunc enim iura sua ab omnibus
+            custodienda existimet, quando et ipse illis reuerentiam prebet. Principes legibus teneri
+            suis, nec in se conuenit, posse damnare iura, que in subiectisconstituunt. Iusta est
+            enim uocis eorum auctoritas, si quod populis prohibent, sibi licere non patiantur.]</p>
+
+
+
+
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Scripturis canonicis tractatorum litterae deseruiunt.</head>
+          <p>Idem^* in Prologo libri III. de Trinitate.</p>
+          <p>II. Pars. Noli meis litteris quasi canonicis scripturis inseruire. Sed in illis et quod
+            non credebas cum inue-neris, incunctanter crede: in istis autem, quod certum habebas,
+            nisi certum intellexeris, noli firme tenere.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">In tractatorum opusculis multa corrigenda inueniuntur. Idem ad
+            Vincentium Victorem, lib. II. [lib. IV. de anima et eius origine, cap. i.]</head>
+          <p>Negare non possum, nec debeo, sicut in ipsis maioribus, ita multa esse in tam multis
+            opusculis meis, que possunt iusto iudicio et nulla temeritate culpari.</p>
+          <p>. C. V. In scripturis canonicis mendacia non admittuntur.</p>
+          <p>Idem ad Ieronimum, epist. VIII. [XIX.]</p>
+          <p>Ego solis eis scriptorum, qui iam canonici appellantur, didici hunc timorem honoremque
+            referre, ut nullum eorum scribendo errasse audeam credere, ac si aliquid in eis
+            offendero, quod uideatur contrarium ueritati, nichil aliud quam uel mendosum esse
+            codicem, uel non esse assecutum interpretem, quod dictum est, uel me minime
+            intellexisse, non ambigam. Alios autem ita lego, ut quantalibet sanctitate doctrinaque
+            polleant, non ideo uerum putem, quia ita ipsi senserunt, sed quia mihi* per alios
+            auctores, uel canonicas uel probabiles rationes, quod a uero non abhorreat, persuadere
+            potuerunt.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Libris ueterum ebrea uolumina, nouis greca auctoritatem
+            impendunt.</head>
+          <p>Idem *.</p>
+          <p>Ut ueterum librorum fides de ebreis uoluminibus examinanda est, ita nouorum greci
+            sermonis normam desiderat.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Nichil auctoritatis canonicis remanebit scripturis, si ad eas
+            mendacia fuerint admissa.</head>
+          <p>Idem in Ep. /. ad Ieronimum, [epist. IX.]</p>
+          <p>Si ad scripturas sanctas admissa fixerint uel offitiosa mendacia, quid in eis remanebit
+            auctoritatis? Que tandem de scripturis illis sententia proferetur, cuius pondere
+            contentiosae falsitatis obteretur improbitas?</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Litteris omnium episcoporum sacra scriptura preponatur.</head>
+          <p>Idem de unico baptismo lib. II. [Item de Baptismo contra Donatistas, lib. II. c.
+            3.]</p>
+
+          <p>Quis nesciat sanctam scripturam canonicam, tam uete-ris quam noui testamenti, certis
+            terminis suis contineri, eam-que posterioribus omnibus episcoporum litteris ita preponi,
+            ut de illa omnino dubitari et disceptari non possit, utrum uerum uel utrum rectum sit,
+            quicquid in ea scriptum constiterit esse? Episcoporum autem litteras, que post
+            confirmatum canonem uel scriptae sunt uel scribuntur, et per sermonem forte sapientiorem
+            cuiuslibet in ea re peritioris, et per aliorum episcoporum grauiorem auctoritatem
+            doctio-remque prudentiam, et per concilia licere reprehendi, si quid in eis forte a
+            ueritate deuiatum est?</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Contra diuina mandata calumpniae non colliganturex quorumlibet
+            dictis episcoporum.</head>
+          <p>Idem ad Vincentium [epist. XLVIII. contra Donatistas].</p>
+          <p>Noli frater contra diuina tam multa, tam preclara, tam indubitata testimonia colligere
+            uelle calumpnias ex episcoporum scriptis, siue nostrorum, sicut Ylarii, siue* (antequam
+            pars Donati separetur ,) Cipriani et Agrippini; primo, quia hoc genus litterarum ab
+            auctoritate canonis distinguendum est: non enim sic leguntur, tamquam ita ex eis
+            testimonium proferatur, ut contra sentire non liceat, si-cubi forte aliter sapuerint,
+            quam ueritas postulat. In eo quippe numero sumus, ut non dedignemur etiam nobis dictum
+            ab Apostolo accipere: „Et si quid aliter sapitis, quoque uobis Deus reuelauit^**.</p>
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="question-title">Non debetur par reuerentia canonicis scripturis et
+            expositionibus earum.</head>
+          <p>Idem in Ep. ad Fortunatum [Item ad Fortunatianum, epist. III.]</p>
+          <p>Neque quorumlibet disputationes, quamuis catholicorum et laudatorum hominum, uelut
+            scripturas canonicas habere debemus,'ut nobis non liceat salua honorificentia, que illis
+            debetur hominibus, aliquid in eorum scriptis inprobare atque respuere, si forte
+            inuenerimus, quod aliter senserint quam ueritas habet, diuino adiutorio uel ab aliis
+            intellecta uel a nobis. Talis ego sum in scriptis aliorum, qualesuolo esse intellectores
+            meorum.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="question-title">Exemplis ratio sana prefertur.</head>
+          <p>Idem ad Casulanum [ad Marcellinum de civitate Dei lib. I. c. 22. §. 2.] </p>
+          <p>Sana quippe ratio etiam exemplis anteponenda est: cui quidem et exempla concordant, sed
+            illa, que tantum digniora sunt imitatione, quantum excellentiora pietate.</p>
+          <p>Gratianus. Cum ergo naturali iure nichil aliud precipiatur, quam quod Deus uult fieri,
+            nichilque uetetur, quam quod Deus prohibet fieri; denique cum in canonica scriptura
+            nichil aliud, quam in diuinis legibus inueniatur, diuine uero leges natura consistant:
+            patet, quod quecumque diuinae uoluntati, seu canonicae scripturae contraria probantur,
+            eadem et naturali iuri inueniuntur aduersa. Unde quecumque diuinae uoluntati, seu
+            canonice scripture, seu diuinis legibus postponenda censentur, eisdem naturale ius
+            preferri oportet. Constitutiones ergo uel ecclesiasticae vel seculares, si naturali iuri
+            contrariae probantur, penitus sunt excludendae.</p>
+
+
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

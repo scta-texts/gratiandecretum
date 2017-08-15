@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d55">
+        <head>DISTINCTIO LV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars, Corpore uero uitiati similiter a sacris offitiisprohibentur.</p>
+        <p>Unde GeIasius Papa [Episcopis per Lucaniam etBrutios constitutis, epist. I. c. 2. et 3.]
+          scribit, dicens:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Qui de monasterialibus disciplinis ad clericale munus
+            accedit et de laicis, anteacta eius uita examinetur.</head>
+          <p>Priscis igitur pro sua reuerentia manentibus institutis, (que, ubi nulla rerum uel
+            temporum perurgetangustia, regulariter conuenit custodiri), quia eatenus ecclesiae*, uel
+            cunctis uel sufficientibus priuatae sunt ministeriis, ut plebibus ad se pertinentibus
+            diuina munerasubplere non ualeant, concedimus s, ut, si quis monasterialibus**
+            disciplinis eruditus ad clericale munus accedit, etiam de laicis, anteacta eius uita
+            requiratur,§. i. ne sit aliquo facinore infectus, uel illitteratus, uelbigamus, uel ab
+            adolescentia sortitus, uel corpore uitiatus,uel seruilis uel originariae condicionis,
+            uel curiae uel publicarum nexibus rerum inplicatus, uel publica penitencianotatus, uel
+            nulla congruentis temporis expectatione discussus.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Annuae suspensioni subiaceat, qui preter canonum^ formam
+            aliquem ordinat.</head>
+          <p>Item ex Concilio Ar eia tensi IV. [c. 3.] </p>
+          <p>Nullus penitentem, nullus digamum, nullus uidua-rum maritos in predictis honoribus
+            audeat ordinare. Et licet hec iam prope omnium canonum instituta contineant, tamen ne
+            cuicumque sacerdotum supplicantium (sicut iam diximus) inportunitas uel suggestio
+            iniquasubripiat, necesse fuit, ut nunc seueriorem regulam sibiuelint Domini sacerdotes
+            inponere. Et ideo, quicumque abhac die contra ea, que superius conprehensa sunt,
+            clericumordinare presumpserit, ab ea die, qua hoc ei potueritapprobari, anno integro
+            missas cantare non presumat.Ouam rem si quis obseruare noluerit, et contra
+            constitutumfratrum faciens missas celebrare presumpserit, ecclesiaecommunione priuetur*,
+            et ab omnium fratrum communione se nouerit alienum, quia dignum est, ut seueri-tatem
+            ecclesiasticae disciplinae sentiat, qui salubriter s asanctis Patribus instituta
+            obseruare contempnit.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Non ordinentur penilentes, uel inscii litterarum.</head>
+          <p>Item Ylarius Papa [ex Concilio Romano ab ipso habito, cap. 3.]</p>
+          <p>Penitentes uel inscii litterarum, aut aliqua membrorum dampna perpessi, ad sacros
+            ordines aspirare non audeant. Quisquis autem talium consecrator extiterit,factum suum
+            ipse dissoluet.</p>
+          <p>Gratian. Corpore autem uitiati intelliguntur non casu, sed propria uoluntate
+            abscisi.</p>
+          <p>Unde in canonibus Apostolorum, [c. 22. et 23.] legitur:</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Qui semetipsum abscidit, non ordinetur.</head>
+          <p>Si quis abscidit semetipsum, (id est, si quis amputa-uerit sibi uirilia), non fiat
+            clericus, quia suus est homicida, et Dei condicionis inimicus. §. 1. Si quis, cum
+            clericus fuerit, absciderit semetipsum, omnino dampnetur,quia suus est homicida.•</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Non producantur ad clerum, qui se ipsos abscidunt.</head>
+          <p>Item ex Concilio Arelatensi II. [c. 7.]</p>
+          <p>Hii, qui se carnali uicio repugnare nescientes abscidunt, ad clerum peruenire non
+            possunt.</p>
+          <p>Item Innocentius scribit Felici Nuceriano Episcopo [epist. IV. cap. i.]:</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Non est ordinandus, qui partem digiti sui uolens
+            abscidit.</head>
+          <p>Qui partem cuiuslibet digiti sibi ipsi uolens abscidit, hunc ad clerum canones non
+            admittunt. Cui uero casu aliquo contigerit, dum aut operi rustico curam in-pendit, aut
+            aliquid faciens se non sponte percutit, hoscanones precipiunt et clericos fieri, et, si
+            in clero reperti fuerint, non abici. In illis enim uoluntas estiudicata, que sibi ausa
+            fuerit ferrum inicere*; inistis uero casus ueniam meruit.</p>
+          <p>Gratian. Similiter intelligendum est de his, qui per languorem a medicis secantur, aut
+            a barbaris absciduntur,aut a dominis castrantur.</p>
+          <p>Unde in Ni ceno Concilio, [c. 1.] legitur :</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Qui per languorem a medicis dissecatur, ad clerum ualet
+            admitti.</head>
+          <p>Si quis a medicis propter languorem desectus est aut</p>
+          <p>a barbaris abscisus , hic in clero permaneat. Si quis autem se sanus abscidit, hunc in?
+            clero constitutumabstineri conueniet, et deinceps* nullum taliumdebere promoueri. Sicut
+            autem hoc claret, quod dehis, qui hanc rem affectant audentque semetipsosabscidere
+            dictum sit, sic eos, quos aut barbari, autdomini castrauerunt, inueniuntur autem s
+            aliasdignissimi, tales ad clerum suscipit ecclesia.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Licite ordinetur episcopus, qui per hominum insidias
+            eunuchizatur.</head>
+          <p>Item ex canone Apostolorum [21.]</p>
+          <p>Eunuchus, si per insidias* hominum factus est, uel si in persecutione eius sunt
+            amputata uirilia, uel si ita natusest, et est dignus, fiat episcopus**.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Non excluduntur a clero, qui a medicis, uel a barbaris,.uel
+            a dominis suis exsecantur^.</head>
+          <p>Item ex Concilio Martini Papae.</p>
+          <p>Si quis pro egritudine naturalia a medicis secta habuerit, similiter et qui a barbaris
+            aut a dominis suis castrati fuerint, et moribus digni inueniuntur, hos canonadmittit ad
+            clerum promoueri. Si quis autem sanusnon per disciplinam religionis et abstinentiae sed
+            per abscis-sionem a Deo plasmati corporis, existimat, posse a secarnales concupiscentias
+            amputari, et ideo s se castrauerit,non eum admitti decernimus ad aliquod clericatus
+            offitium.Quod si iam ante fuerit promotus ad clerum, prohibitusa suo ministerio
+            deponatur.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Non prohibetur a sacris ordinibus, qui medicorumincisione
+            claudus efficitur.</head>
+          <p>Item ex Concilio Ilerdensi.</p>
+          <p>Si quis in infirmitate positus clericus in medicorum incisione claudus efficitur,
+            promoueri ad sacros ordines eumnon denegamus.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Non prohibetur a clero, qui digitum casusibi
+            abscidit.</head>
+          <p>Item Stephanus Roberto Metensi Episcopo.</p>
+          <p>Lator presentium, Flauinus scilicet clericus, ad sanctam sedem apostolicam ueniens,
+            detulit a te directamnobis epistolam, qua indagare studuisti, eum a Normannisnuperrime
+            captum sinistrae manus digitum habere abscisum, sciscitaris, si ob hoc ad ecclesiasticum
+            ordinem ualeat promoueri, an non. Quod et nos reperientes,quia sollertia tua, magis
+            super hoc sollicita, a sede apostolica doceri flagitat, normam iusticiae semper sequi
+            desideramus^ studium tuae sanctitatis merito collaudamus,reuerentiam tuam scire
+            uolentes, quoniam si ita est, quod aNormannis digitum ipsum habeat abscisum, aa
+            pro-mouendum (si alias dignus fuerit) nil ei nocebit, eo quodquid de his, qui a dominis,
+            uel a medicis, siue apaganis non sponte tale quid patiuntur, sacri censeantcanones,
+            dilectionem tuam latere non credimus.</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. Tempore sinceritatis dignitas accepta sequenti debilitate
+            non amittatur.</head>
+          <p>Item Gelasius Papa Palladio Episcopo.</p>
+          <p>Precepta canonum, quibus ecclesiastica regitur disciplina, sicut non paciuntur uenire
+            ad sacerdotium debiles corpore,ita si quis in eo fuerit constitutus actu, ac tunc fuerit
+            sauciatus, amittere non potest quod tempore suaesinceritatis accepit. §. 1. Stephanus
+            siquidem presbiterpetitorio nobis defleuit oblato, quod habetur* in subditis,olim sibi
+            et ante annos plurimos collatam presbiteriidignitatem, quam reuera inmaculati corporis
+            iudiciosuscepisset; sed nuper propter prouinciae uastitatem (quamThusciae preomnibus
+            barbarorum diuersa sectantium,et ambiguitas inuexit animorum), dum inminentes
+            gladioseuadere fugae presidio niteretur, acutis sudibus occurrentiasibi septa
+            transsiliens, inferiores partes corporis inseruissesuggessit, que uix adhibita curatione
+            biennio potuissetabstergi. Et ideo, frater karrissime, supradicto locum
+            suumdignitatemque restitue, quatenus sacrosancta misteria, sicutconsueuit, exerceat. Nec
+            enim conuenit ob hoc auferri antesusceptum ordinem, in quo postmodum in
+            inualitudine^corporis casu probatur faciente prolapsus.</p>
+          <p>II. Pars. Gratian. Hoc autem non de omnibus membris intelligendum est. Qui enim oculum
+            casu amiserit, licet desituoluntas, tamen sacerdotium adipisci non potest.</p>
+          <p>Unde Pelagius scribit Rufino Episcopo.</p>
+        </div>
+        <div>
+          <head>C. XIII</head>
+          <head type="question-title">. Non sunt prestanda iura sacerdotii, cui oculus est
+            erutus.</head>
+          <p>Si euangelica admonitio iracundiam nec usque ad uerbum furentem prosilire permittit,
+            ne, si Racha fratri suoquis dixerit, reus sit gehennae ignis: quali putamus</p>
+          <p>pena plectendum esse, qui non solum pugno inpie percussit hominem in Leuitici offitii
+            ministerio seruientem, sedquasi non sufficeret ad cedem manus, ita (instigante
+            sediabolo) raptus ad iracundiam est, Mt fuste non solum percuteret, sed etiam erueret
+            oculum fratris? Et quamuishuiusmodi excessus grauiori esset pena plectendus, benetamen
+            fraternitas tua fecit ab offitio eum presbiterii remo-uere. Hoc tamen sollicitudinis
+            tuae sit, ut locum etiampenitenciae constituas, et in aliquo eum monasterio retrudas,
+            laica sibi tantum communione concessa. In locoautem illius alium te necesse est ordinare
+            presbiterum,nam illi, cui erutus est oculus, non possunt iuxta canones sacerdotii iura
+            concedi. Neque enim aliquid ei prodest,quod oculum inuitus amisit, cum nec uolens
+            quisquamoculum amisisse credendus est, nec sacratissimos canonesaliquem casum in
+            amissione oculi, ei qui ad sacerdotium adipiscendum non inpediret, suis excepisse
+            regulisinuenimus; sed hoc tantummodo ad prohibitionem fecisse uidemus, uts qui caret
+            oculo, sacerdotii offitium adipisci non possit. Sed nec illi ullatenus quasi
+            inconpensatione iniuriae sacratus ordo concedi poterit, quiad tantam sacerdotem proprium
+            potuit iracundiam prouo-care, ut ille et offitium, in quo erat, amitteret, et iste
+            pro-uectus sui perderet facultatem.</p>
+          <p>f</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

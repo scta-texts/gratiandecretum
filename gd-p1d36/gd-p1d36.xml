@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXXVI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXXVI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d36">
+        <head>DISTINCTIO XXXVI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Oportet etiam esse ordinandum prudentem. Quod contra eos notandum est, qui sub
+          nomine simplicitatis excusant stulticiam sacerdotum. Prudentem autem oportet episcopum
+          intelligi non solum litterarum peritia, uerum etiam secularium negotiorum
+          dispensatione.</p>
+        <p>Unde in epistola Gei a sii Papae [ad Episcopos per Lucaniam, cap. 18.J:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Illitterati et corpore uitiati non promoueantur ad
+            clerum.</head>
+          <p>Illitteratos, aut aliqua parte corporis imminutos*, nullus presumat ad clerum
+            promouere, quia litteris carens sacris non potest esse aptus offitiis, et uitiosum
+            nichil Deo prorsus offerri legalia precepta sanxerunt. §. 1. Similiter, qui se ipsos
+            abscidunt.</p>
+
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Ad summum sacerdotium non aspiret, qui diuinis stipendiis non
+            est eruditus.</head>
+          <p>Item Zosimus Papa [epist. ad Hesychium Episcopum Salonitanum].</p>
+          <p>Qui ecclesiasticis disciplinis per ordinem non estinbutus, et temporum approbatione
+            diuinis stipendiis eruditus, nequaquam ad summum ecclesiae sacerdotium aspirare
+            presumat; et non solum in eo ambitio inefficax habeatur, uerum etiam ordinatores eius
+            careant eo ordine, quem contra precepta Patrum crediderant presumendum.</p>
+          <p>Gratian. Ecce, quod sacrarum litterarum oportet episcopum habere peritiam: unde in
+            ueteri testamento inter cetera ornamenta pontifex rationale ferebat in pectore, in quo
+            scribebaturmanifestatio et ueritas, quia in pectore pontificis manifesta debet esse
+            cognitio ueritatis. §. 1. Hinc etiam uectes, quibus archa portabatur, iugiter annulis
+            erant inserti, ut, cum archa esset portanda, nulla fieret mora de intromittendis
+            uectibus, quia predicatores, per quos ecclesia circumfertur, sacris litteris semper
+            debent insistere, ne tunc querant discere, cum ex offitio alios docere debeant. §. 2.
+            Hinc etiam Dauid prius ex gratia Spiritus sancti donum scientiae percepit, et postea
+            regni administrationem assecutus est. §. 3. Salomon quoque non diuitias, non longa
+            tempora huius uitae, sed sapientiam a Deo petiit et inpetrauit. §. 4. Hinc etiam Dominus
+            prius ponit uerba sua in ore prophetae, et postea constituit eum super gentes et regna,
+            dicens ad Iere-miam; „Ecce, dedi uerba mea in ore tuo. Ecce, constituite hodie super
+            gentes et super regna etc." 5. Hinc etiam Malachias ait: ,,Labia sacerdotis custodiunt^
+            scientiam, et legem exquirunt" de ore eius, quia angelus Domini exercituum est. §. 6.
+            Hinc idem" saluator noster prius in medio doctorum sedit, audiens illos et interrogans,
+            et postea predicare cepit, quia prius quisque debet discere, et postea predicandi
+            offitium usurpare. §. 7. Hinc et^s Salomon prius ait: ,, tempus tacendi, et postea:
+            „loquendi, quia ueritas prius tacendo discitur, et postea loquendo predicatur. S. 8.
+            Hinc idem Dominus ait: „ Qui audit, dicat, ueni§. 9. Hinc etiam prius apostolos docuit,
+            deinde eos ad predicandum misit, dicens; ,, Estote prudentes sicut serpentes, et
+            simplices sicut columbae.Sic etiam post resurrectionem prius illis sensum aperuit et
+            scripturas explanauit, et postea dixit eis: „ Euntes in mundum uni-uersum, etc. Unde cum
+            de quinque panibus quinque milia hominum uellet reficere, prius panes accipiens fregit,
+            et postea discipulis dedit, et per eos demum turbis apposuit, quia sacramenta legis et
+            prophetarum prius disserendo exposuit, et postea eorum scientiam discipulis dedit, et
+            tandem per eos illam fidelibus dispensauit. §. 10. Et hinc Petrus cum rectoribus
+            ecclesiae scriberet ait: ,,Parati reddere rationem omni poscenti uos satisfactionem de
+            ea fide et spe, que in uobis est. §. 11. Hinc etiam Paulus scribens ad Timotheum ait:
+            „Attende lectioni ei exhortationi et doctrinae.“ §. 12. Ex quibus omnibus<span/>
+          </p>
+
+
+
+
+
+          <p>liquido colligitur, quod non sufficit prelatis bona conuersatio et morum honestas, nisi
+            addatur scientia doctrinae. §. 13. Unde sacerdotes ingressuri tabernaculum prius
+            lauabantur in labro eneOy quod fecerat Moyses ex speculis mulierum. §. 14. Hinc etiam in
+            Canticis Canticorum oculi, per quos prelati ecclesiae intelligantur assimilantur
+            columbis, que resident iuxta flu&gt;enta plenissima.</p>
+          <p>Hinc etiam Ieronimus* in Leuit. [c. 8.] </p>
+        </div>
+        <div>
+          <head>C. HL</head>
+          <head type="question-title">Sacerdotis est legis scientiam habere, non bellis, sed
+            orationibus operam dare</head>
+          <p>Si quis uult pontifex non tam uocabulo esse cpiam merito, imitetur Moysen, imitetur
+            Aaron.</p>
+          <p> Quid enim dicitur de eis? quia non discedunt de tabernaculo Domini. Erat ergo Moyses
+            indesinenter in tabernaculo Domini. Quodautem ei opus erat? ut aut a Deo aliquid
+            disceret aut ipse populum doceret. Hec duo sunt pontificis opera, ut aDeo discat legendo
+            diuinas scripturas et sepius meditando, aut populum doceat. Sed illa doceat, que ipse a
+            Deodidicerit, non ex proprio corde uel ex humano sensu, sed que Spiritus sanctus docet.
+            §. 1. Est et aliud opus, quod facit Moyses: ad bella non uadit, non pugnat contra
+            inimicos. Sed quid facit? orat, et donec orat, uincit populus eius; si relaxauerit et
+            dimiserit^ manus, populus eius uincitur et fugatur. Oret ergo sacerdos ecclesiae
+            indesinenter, ut uincat populus, qui sub ipso est, hostes in-uisibiles Amalechitas, qui
+            sunt demones inpugnantes eos, qui uolunt pie uiuere in Christo.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

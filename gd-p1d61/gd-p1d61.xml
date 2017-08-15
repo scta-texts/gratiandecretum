@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d61">
+        <head>DISTINCTIO LXI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Item laici non sunt in episcopum eligendi, sed per singulos ordines prius sunt
+          probandi.</p>
+        <p>Unde Gregorius Brunichildae Reginae Francorum, [lib. VII. Reg. epist. 113.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Sacerdotes ex laicis non sunt ordinandi.</head>
+          <p>Sacerdotale offitium uestris in partibus in tanta (sicut didicimus) est ambitione
+            perductum, ut sacerdotes, quodnimis graue est subito, ex laicis ordinentur.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Hormisda Papa omnibus Episcopis [per Hispaniam constitutis, epist. III. c. i.]</p>
+          <p>In sacerdotibus eligendis uel ordinandis curam oportet esse perspicuam.
+            Inreprehensibiles enim esse conuenit,quos preesse necesse est corrigendis. §. i. Longa
+            debetuitam suam probatione monstrare, cui gubernacula committuntur ecclesiae.</p>
+          <p>[C. III. Idem eodem loco continenter.]Non negamus in laicis esse Deo placitos mores,
+            sedmilites suos probatos sibi querunt instituta fidelium.Discere quis debet antequam
+            doceat, et exemplumreligiosae conuersationis de se potius aliis prestare quamsumere.
+            Emendatiorem esse conuenit populo, quem necesseest orare pro populo. Longa obseruatione
+            religiosus cultus tradatur, ut luceat, et clericalibus obsequiis erudiendus inseruiat,
+            ut, ad uenerandi gradus summa perductus,quis sit fructus humilitatis ostendat. §. i. Nec
+            tantumconsecrare de laicis inhibemus* sed nes de peni tentibusquidem quisquam ad
+            huiusmodi gradum profanus temeratoraspiret. Satis illi sit postulanti ueniam concedi;
+            qua conscientia absoluat reum, qui se peccata sua populo scitteste confessum? Quis enim
+            quem paulo ante iacentemuideat ueneretur antistitem? Perferens memorandicriminis labem
+            non habet lucidam sacerdotii dignitatem.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Innocentius Papa [ad Aurelium Cartaginensem Episcopum, epist. XII.]</p>
+          <p>Miserum est, eum fieri magistrum, qui numquam fuit discipulus; eumque summum sacerdotem
+            fieri, qui innullo gradu umquam obsecutus fuerat sacerdoti.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Leo Episcopus [ad Episcopos Africanos, epist.</p>
+          <p>LXXXV. al. LXXXVII. c. i.]Miramur tantum apud uos per occasionem temporisimpacati aut
+            ambientium presumptionem aut tumultumualuisse popularem, ut indignis quibusque et longe
+            extrasacerdotale meritum constitutis pastorale fastigium et gubernatio ecclesiae
+            crederetur. Non est hoc consulere populo, sed nocere, nec prestare regimen, sed
+            augerediscrimen. Integritas enim presidentium salus est subditorum, et ubi est
+            incolumitas obedientiae, ibi sana estforma doctrinae. §. 1. Principatus* autem, etc. et
+            infra.§. 2. Quod si in quibuslibet ecclesiae gradibus prouidenterscienterque curandum
+            est, ut in domo Domini nichil sitinordinatum nichilque preposterum, quanto magis
+            elaborandum est, ut in electione eius, qui supra omnes gradus constituitur, non erretur?
+            Nam totius familiae Dornini statuset ordo nutabit, si quod requiritur in corpore non
+            inueni-tur in Capite. Ubi est illa B. Pauli apostoli per SpiritumDei emissa preceptio?
+            qua in persona Timothei omniumsacerdotum Christi numerus eruditur, et inde unicuique</p>
+          <p>nostrum dicitur: „Manus cito nemini inposueris, neque communices peccatis alienis.“
+            Quid** est cito manusinponere? etc. et infra. §. 3. Sicut enim boni operissibi conparat
+            fructum, qui rectum tenet in eligendo sacerdote iudicium, ita graui semetipsum afficit
+            dampno, quiad suae dignitatis collegium sublimat indignum. Nonenim in cuiusquam persona
+            pretermittendum est quodinstitutis generalibus continetur, nec putandus est honor
+            illelegitimus, qui fuerit contra diuinae legis precepta collatus. §. 4.s Merito Patrum
+            beatorum™ uenerabiles sanctiones, cum de sacerdotum electione loquerentur, eosdemum
+            sacris amministrationibus idoneos censuerunt,quorum omnis etas a puerilibus exordiis
+            usque ad perfectiores annos per disciplinae ecclesiasticae stipendia cucurrisset, ut
+            unicuique testimonium prior uita preberet, necpotest de eius prouectione dubitari, cui
+            pro laboribusmultis, pro moribus castis, pro actibus strenuis celsiorisloci premium
+            debetur. §.5. Si enim ad honores mundisine suffragio temporis, sine merito laboris
+            indignum estperuenire, et notari ambitus solent, quos probitatis documenta non adiuuant,
+            quam diligens et quam prudens habendaest dispensatio diuinorum munerum et celestium
+            dignitatum ?</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Non sunt eligendi ad episcopatum, nisi quos probabilis uita
+            commendat.</head>
+          <p>Item ex Concilio Laudicensi, [c. 12.]Episcopumnon oportet preter iudicium
+            metropolitanorum et finitimorum episcoporum constitui ad ecclesiaeprincipatum. Nec
+            eligantur nisi hi, quos multo ante notaprobabilisque uita commendat, et nichilominus si
+            in sermone fidei et recta ratione per suam conuersationemprobati fuerint.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Celestinus omnibus orthodoxis. [ad Episcopos Apuliae et Calabriae, epist. III.
+            cap. 2.] Quid proderit per singula stipendia clericos militasseet omnem egisse in
+            dominicis castris etatem, si hii, quifuturi sunt sacerdotes, ex laicis requirantur,
+            quiuacantes seculo et omnem ecclesiasticum ordinem nescientes saltu prepropero in
+            alienum honorem ambiunt in-moderata cupiditate transscendere, et in aliud uitae
+            genus(calcata reuerentia ecclesiasticae disciplinae) transire? Talibus itaque, fratres
+            karissimi, necesse est obuiemus,hisque fraternitatem uestram decretis commonemus, nequis
+            laicum ad clericatus ordinem admittat, et sinat fieriunde et illum decipiat, et sibi
+            causas generet, quibus reusconstitutorum decretalium fiat.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Rudibus et inperitis gubernacula ecclesiae non sunt
+            committenda.</head>
+          <p>Item Leo [I., epist. LXXXV. al. LXXXVII. c, 1. ad Episcopos Africanos.]</p>
+          <p>Statuimus* ne in aliquo apostolica et canonica decreta uiolentur, et his regenda
+            ecclesia Domini credatur, quilegitimarum institucionum nescii, et totius
+            humilitatisignari, non ab infimis sumere incrementum, sed a summisuolunt habere
+            principium, cum ualde iniquum sit absurdum-queb, ut inperiti magistris, noui antiquis,
+            rudespreferantur emeritis.</p>
+          <p>Gratian. His omnibus auctoritatibus laici prohibentur in episcopatum eligi.</p>
+          <p>II. Pars. §. 1. Econtra B. Nicolaus ex laico est electus in episcopum, B. Seuerus ex
+            lanificio assumptus est in archiepiscopum, B. Ambrosius, cum nondum esset baptizatus, in
+            archiepiscopum est electus. §. 2. Sed sciendum est, quod ecclesiasticaeprohibitiones
+            proprias habent causas, quibus cessantibus cessantet ipsae. Ut enim laicus in episcopum
+            non eligeretur, hac causafuit, quia uita laicalis ecclesiasticis disciplinis per ordinem
+            nonerudita nescit exempla religionis de se prestare aliis, que in seipsa experimento non
+            didicit. Cum ergo quilibet laicus merito suaeperfectionis clericalem uitam transscendit,
+            exemplo B. Nicolai etSeueri et Ambrosii eius electio potest rata haberi.</p>
+          <p>[C. IX.] Unde idem Ambrosius* in epistola [LXXXII.] ad Vercellenses [ait de se
+            ipso]:</p>
+          <p>„Neophitus prohibetur ordinari, ne extollatur superbia. Sed 5« non deest humilitas
+            competens sacerdotio, ubi causa nonadheret, uicium non inputatur. Ordinationem itaque
+            meamoccidentales episcopi iudicio, orientales etiam exemplo probarunt.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Scolasticus ex foro aut ex administratione potest postulari
+            episcopus.</head>
+          <p>Item obicitur illud Sardicensis Concilii, [c. 13.]</p>
+          <p>Osius episcopus dixit: Et hoc necessarium arbitror, ut diligentissime tractetur, si
+            forte aut diues*, aut scolasticus de foro** aut ex administratore episcopus
+            fueritpostulatus, ut non prius ordinetur, nisi ante lectorismunere, et offitio diaconi
+            aut presbiteri fuerit perfunc-</p>
+          <p>tus, et ita per singulos gradus (si dignus fuerit) ascendat ad culmen episcopatus.</p>
+          <p>III. Pars. Gratian. Sed aliud est postulari, aliud eligi.Postulatur nexibus curiae
+            adstrictus ab inperatore, clericus alterius ciuitatis a suo episcopo ; sed non eligitur
+            aliquis nisi in sacrisordinibus constitutus. Fit enim electio cum solempnitate
+            decretiomnium subscriptionibus roborati: postulatio uero simplici peti-cione. Quam
+            distinctionem B. Gregorius innuit in registro[lib. II. epist. 19.] scribens cuidam
+            Episcopo:</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Electio episcopi debet fieri cum solempnitate decreti omnium
+            subscriptionibus roborati.</head>
+          <p>Episcopus, dum fuerit postulatus, cum solempnitate decreti omnium subscriptionibus
+            roborati, et dilectionis tuaetestimonio litterarum ad nos sacrandus occurrat.</p>
+          <p>Gratian. Sic B. Ambrosius* ante susceptum baptisma ab inperatore postulatus, non
+            electus est.</p>
+          <p>IV. Pars. Gratian. Item clerici unius ecclesiae nonsunt pre ferendi in electione his,
+            qui bene militant in propriaecclesia.</p>
+          <p>Unde Cei e s tinus Papa [ad Episcopos Galliae, epist. II. c. 4.]</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. Extranei emeritis in suis ecclesiis non preponantur.</head>
+          <p>Nec emeritis in suis ecclesiis peregrini et extranei, et qui ante ignorati sunt, ad
+            exclusionem eorum, quibene ciuium suorum merentur testimonium, preponantur.</p>
+        </div>
+        <div>
+          <head>C. XIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item [eadem epist. c. 5.]</p>
+          <p>Nullus inuitis detur episcopus. Tunc* alter de altera ecclesia eligatur, si de
+            ciuitatis ipsius clero,cuius est episcopus ordinandus, nullus (quod euenirenon credimus)
+            dignus poterit reperiri. Primum enim illireprobandi sunt, ut aliqui de alienis ecclesiis
+            merito prefe-rantur. Habeat unusquisque suae fructum miliciae in ecclesia, in qua suam
+            per omnia offitia transegit etatem. Inaliena stipendia minime alter obrepat, nec alii
+            debitamalter audeat sibi uendicare mercedem. Sit facultas clericisrenitendi, si se
+            uiderint pregrauari, et quem sibiingeri ex transuerso uiderint s non timeant
+            refutare.Qui etsi non debitum premium, uel liberum de eo, quieos recturus est, debent
+            habere iudicium.</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XIV</head>
+          <head type="question-title">.</head>
+          <p>In ordinatione prepositi illa semper consideretur ratio, ut hic constituatur, quem sibi
+            omnis concors congregatiosecundum timorem Dei, siue etiam pars congregationis(quamuis
+            parua) saniori consilio elegerit. Vitae autemmerito et sapientia eligatur qui ordinandus
+            est, etiamsiultimus fuerit in ordine congregationis. Quod si etiamomnis congregatio
+            uiciis suis (quod absit) consentientempersonam pari consilio elegerit, et uicia ipsa
+            aliquatenus innotitiam episcopi, ad cuius diocesin pertinet locus ipse,uel ad alios
+            uicinos prepositos uel Christianos claruerint,prohibeant prauorum preualere consensum,
+            et domui Deiconstituant dignum dispensatorem.]</p>
+        </div>
+        <div>
+          <head>C. XV</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Gregorius ciuibus Neapolim** [1. VIII. Reg. epist. 40.] Studii uestri sit, etiam
+            alium, qui aptus sit, prouidereut, si forte Petrus, quem a uobis electum asseritis,
+            huicordini non uideatur ydoneus, sit, in quo uestra declinari possit electio. Nam graue
+            cleri illius erit obpro-brium, ut, si hic fortasse probatus non fuerit, alium sedicant
+            qui eligi debeat non habere.</p>
+        </div>
+        <div>
+          <head>C. XVI</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Gregorius in Registro*, [1. XI. epist. 16.] Obitum Victoris Panormitanae ciuitatis
+            antistitis directarelatio patefecit. Quapropter uisitacionis destitutae
+            ecclesiaefraternitati tuae operam solempniter delegamus. Etideo fraternitas tua ad
+            predictam ecclesiam ire properet, et assiduis adhortationibus clerum plebemqueeiusdem
+            ecclesiae ammonere festinet, ut, remoto studio,uno eodemque consensu talem preficiendum
+            sibi expetantsacerdotem, qui tanto ministerio ualeat dignus reperiri,et a uenerandis
+            canonibus nullatenus respuatur. §. i.Commonemus etiam fraternitatem tuam, ut nullum
+            dealtera eligi permittas ecclesia, nisi forte inter clericosipsius ciuitatis, in qua
+            uisitacionis inpendis offitium,nullus ad episcopatum dignus (quod euenire non
+            credimus)poterit s inueniri, prouisurus ante omnia, ne ad cuiuslibet* conuersationis
+            meritum laicne personae aspirarepresumant, ne et illi suae uoluntatis effectum non
+            inueniant ettu i in periculum ordinis tui (quod absit) incurras. Mona-</p>
+          <p>steria autem, si qua sunt in ipsius constituta parrochia, sub tua cura dispositioneque,
+            quousque illic proprius fueritordinatus episcopus, esse concedimus.</p>
+        </div>
+        <div>
+          <head>C. XVII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Pelagius Papa [II.] Eu carpo Messanensi Episc.</p>
+          <p>Cathenensis ecclesiae uisitacionem tibi iniungimus, cuius episcopum de hac luce
+            transiisse suscepta cleri relationedidicimus. Inpossibile enim est, ut nos in prouincia
+            illadumtaxat in Siracusanis partibus alii cuilibet causas, que adDominum pertinent,
+            committamus, nisi forte talem perte Deus nunc in Cathenensi ecclesia eligere uoluerit,
+            decuius conscientia possimus esse securi, ut a te labores istospaululum remouere
+            possimus. Mox ergo dilectio tua adsupradictam Cathenensem ecclesiam pergat, et hominem
+            declero, qui nec uxorem habeat, nec filios, nec crimen aliquodcanonibus inimicum, eligi
+            cum Dei auxilio conpellat atquesuadeat; et statim eum ad urbem Romam cum decreto
+            ettestificatione relationis tuae transmitte.</p>
+        </div>
+        <div>
+          <head>C. XVIII</head>
+          <head type="question-title">. Qui in episcopum eligitur, non sit reus criminum, que sacra
+            lex morte punit.</head>
+          <p>Item Gregorius Passiuo Episcopo, [lib. X. epist. 13.]</p>
+          <p>Bene nouit fraternitas tua, quam longo tempore Aprutium pastorali sit sollicitudine
+            destitutum; ubi diu que-siuimus, quis ordinari debuisset, et nequaquam potuimus
+            inuenire. Sed quia Opportunus mihi in moribus suis, inpsalmodiae studio, in amore
+            orationis ualde laudatus,religiosam uitam omnimodo dicitur agere, hunc
+            uolumusfraternitas uestra ad se faciat uenire, et de anima sua admoneatur, quatenus in
+            bonis studiis crescat. Et si nullaei crimina, que per legis sacrae regulam morte
+            mulctandasunt, obuiant, tunc hortandus est, ut uel monachus, uel auobis subdiaconus
+            fiat; et post aliquantulum temporis,si Deo placuerit, ipse ad pastoralem curam debeat
+            pro-moueri.</p>
+          <p>Gratian. Cui autem uisitacio iniungitur, nichil de rebus eiusdem ecclesiae a quoquam
+            presumi patiatur.</p>
+          <p>Unde Gregorius [Gaudentio Episc., 1. IV. epist. 12.]</p>
+        </div>
+        <div>
+          <head>C. XIX</head>
+          <head type="question-title">. Non patiatur a quoquam presumi de rebus ecclesiae, cui eius
+            uisitatio fuerit iniuncta.</head>
+          <p>Quoniam Festus Capuanae ecclesiae episcopus in Romana ciuitate positus de hac luce
+            migrauit, curae nobis fuit (que uniuersis ecclesiis inpenditur, fraternitati
+            tuaepresentia scripta dirigere, ut memoratae ecclesiae uisita-tor accedas, sic tamen, ut
+            nichil de prouectionibus clericorum, redditu, ornatu ministeriisque, uel quicquid
+            prefati lociesse poterit, a quoquam presumi patiaris; sed omnemuigilantiam atque
+            cautelam circa clerum plebemque eiusdemecclesiae exhibere te conuenit, ut in uigiliis
+            obsequioqueecclesiastico sedule ac deuote debeant seruire.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

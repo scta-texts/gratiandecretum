@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXVIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXVIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d68">
+        <head>DISTINCTIO LXVIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Queritur de illis, qui ordinantur ab eis*, quosnon constat fuisse episcopos, an
+          sint iterum consecrandi, annon f Quod uero consecrandi non sint, probatur auctoritate
+          Gregorii, qui scribens Ioli anni Episcopo Rauennati, [lib. II.epist. 32.] ait:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Semel consecratus iterum consecrari non debet.</head>
+          <p>Sicut semel baptizatus iterum baptizari non debet, sic et semel consecratus iterum
+            consecrari non potest. Sed siquis cum leui culpa ad sacerdotium uenit, pro culpa
+            penitencia debet indici, et tamen ordo seruetur </p>
+          <p>Econtra idem Gregorius testatur scribens cuidam episcopo:</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De presbiteris, qui ordinantur ab eis, quos constat non
+            fuisse episcopos.</head>
+          <p>Presbiteri, quos reperisti, si incogniti fuerint uiriilli, qui ordinantur, et dubium
+            est, eos episcoposfuisse, an non, qui eos ordinauerunt, si bonae actionisuirique
+            catholici sunt ipsi presbiteri, et in ministerioChristi omni que sancta lege edocti, ab
+            ipiscopo suo benedictionem presbiteratus suscipiant et consecrentur, et sicministerio
+            sacro fungantur.</p>
+          <p>Gratian. Quod ergo consecratus in eodem ordine iterum consecrari prohibetur, de eo
+            intelligendum est, qui consecratus estab illo, quem certum erat ius consecrandi habere.
+            Qui autem abillo consecratur, quem non constat ius consecrandi habuisse^,iterum
+            consecrandus est, quia si ille ius consecrandi non habuerit, iste ex olei effusione
+            nichil consecrationis accepit. Et quiain ipso ordine consecratus non erat, nunc quasi
+            primum ad consecrationem ueniens ab episcopo sacerdotalem benedictionem etconsecrationem
+            consequitur. Si autem ius consecrandi habueritis, in prima unctione consecutus est
+            consecrationem; insecunda uero non reiteratur consecratio, sed sola unctio, sicut dequo
+            dubium est, an sit baptizatus, an non, debet baptizari;qui si prius baptizatus non
+            fuerat, consequitur gratiam baptismi,si autem baptizatus erat, nichil accipit in secunda
+            unctione, necpertinet hoc ad reiteracionem baptismi, sed ad cautelam salutis.Hoc etiam
+            de ecclesiis consecrandis similiter obseruandum est.</p>
+          <p>Unde in Niceno Concilio;</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Non debet iterum consecrari ecclesia semel
+            consecrata.</head>
+          <p>Ecclesiis semel Deo consecratis non debet iterum consecratio adhiberi, nisi aut ab igne
+            exustae, aut sanguinis effusione, aut cuiuscumque semine pollutae fuerint: quia sicut
+            infans a qualicumque sacerdote m nomine Patris et Filii etSpiritus sancti semel
+            baptizatus, non debet iterum baptizari,ita nec locus Deo dicatus iterum consecrandus
+            est, nisipropter eas causas, quas superius nominauimus, si tamenfidem sanctae Trinitatis
+            tenuerunt, qui eum consecrauerunt.</p>
+          <p>II. Pars. Gratian. Inter episcopos autem et corepiscopos hec differentia est, quod
+            episcopi non nisi in duitatibus, cor episcopi etiam in uicis ordinari possunt. Episcopi
+            formatas tribuunt,cor episcopi non nisi commendaticias et pacificas dare ualent.
+            Epi-</p>
+          <p>De his ita scribit Leo Episcopus omnibus Episcopis[epist. LXXXVI. al. LXXXVIII.]</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. In quibus corepiscopi ab episcopis differant.</head>
+          <p>Quamuis corepiscopis et presbiteris plurima cum episcopis ministeriorum communis sit
+            dispensatio, quedam tamen sibi prohibita nouerint, sicut est presbiterorumet diaconorum,
+            et uirginum consecratio, constitutioaltaris, ac benedictio uel unctio. Sicpiidem nec
+            erigerealtaria, nec consecrare ecclesias eis licitum est s, necper inpositionem manuum
+            fidelibus baptizatis uel con-uersis hereticis paracletum Spiritum sanctum tradere,
+            neccrisma conficere, nec crismate baptizatorum frontes signare, nec publice quidem in
+            missa quemquam penitentemreconciliare, nec formatas cuilibet epistolas mittere.</p>
+          <p>[PALE A.</p>
+          <p>Hec enim omnia illicita sunt corepiscopis, qui ad exemplum et formam LXXII.
+            discipulorum esse noscuntur, uel presbiteris, qui eandem gestant figuram.]</p>
+          <p>Quoniam, quamquam consectationem habeant, pontificatus tamen apicem non habent.</p>
+          <p>III. Pars. Gratian. Hi uero^ propter insolentiam suam,qua episcoporum offitia sibi
+            usurpabant, ab ecclesia hodie prohibitisunt.</p>
+          <p>Unde Dama sus Papa ait [ad Episc. Africae, epist. V.]</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Ordo cor episcoporum a sacra sede reprobatur.</head>
+          <p>Corepiscopi tam ab hac sacra sede, quam ab episcopis totius orbis prohibiti sunt. Nimis
+            enim eorum insti-tucio inproba, nimis est et praua, quia, ut de summosacerdotis
+            ministerio aliquid presumant, omni auctoritatecaret* §. i. Nam non amplius, quam duos
+            ordinesinter discipulos Domini esse cognouimus, id est duodecimapostolorum, et LXXII.
+            discipulorum . Unde iste tertiusprocesserit, ignoramus^ Et quod ratione caret exstirpare
+            necesse est.</p>
+          <p>IV. Pars* §. 2* Quod autem episcopi non sint, quiminus quam a tribus episcopis ordinati
+            sunt, omnibuspatet. Prohibitum, est enim a sanctis Patribus, ut quiab uno uel a duobus
+            sunt ordinati episcopis non nominentur episcopi. Si nomen non habent, qualiter
+            offitiumhabebunt?</p>
+          <p>Item Urbanus [Papa II.]</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Apostolorum in ecclesia locum tenent episcopi.</head>
+          <p>Quorum uices in ecclesia episcopi habeant, et quis eis hanc dignitatem dare debeat, S.
+            Augustinus ostendit, in-quiens: „Pro patribus tuis nati sunt tibi filii* Patresmissi
+            sunt apostoli: pro apostolis filii nati sunt, constituti sunt episcopi. Hodie enim
+            episcopi, qui sunt pertotum mundum, unde nati sunt? Ipsa ecclesia patres illosappellat,
+            ipsa illos genuit, et ipsa illos constituit in sedibuspatrum. Non te ergo putes
+            desertam, quia non uides Paulum,quia non uides Petrum, quia non uides illos, per
+            quosnata e$: de prole tua creuit tibi paternitas. Pro patribustuis nati sunt tibi filii:
+            constitues eos principes super omnemterram. Filios genuit ecclesia, constituit eos pro
+            patribus suis principes super omnem terram.“</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

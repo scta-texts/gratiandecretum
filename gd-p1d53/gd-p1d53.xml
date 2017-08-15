@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d53">
+        <head>DISTINCTIO LIII.</head>
+        <p>GRATIANUS.</p>
+        <p>Curiales autem, ut supra scriptum est, ideo ordinari prohibentur, quia frequenter, dum ab
+          ecclesia repetuntur, plurima incommoda ecclesia sequitur {, uel quia Udem curiales non
+          uotoreligionis, sed ut offitiorum suorum ratiocinia fugiant, ad ecclesias se
+          transferunt.</p>
+        <p>Unde Gregorius scribit lib. VIII. Reg. [Indict. I. epist. 11.] omnibus Episcopis de lege
+          Mauritii Augusti:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Quare sit constitutum, ne curiales ordinentur.</head>
+          <p>Legem, quam piissimus inperator dedit, ne forte hi, qui miliciae uel rationibus sunt
+            publicis obligati, dum causarum suarum periculum fugiunt, ad ecclesiasticum
+            habitumueniant uel in monasteriis conuertantur, uestrae studui fraternitati
+            transmittere,maxime ob hanc causam,quod hi,qui seculi actionibus inplicati sunt, in
+            clero ecclesiae prepro-pere suscipiendi non sunt, quia, dum in ecclesiastico habitunon
+            dissimiliter quam prius uixerant uiuunt, nequaquamstudent seculum fugere, sed mutare.
+            Quod si etiam talesquique monasterium petunt, suscipiendi nullo modosunt, nisi prius a
+            negociiss publicis fuerint absoluti. §. 1.Si qui uero ex militaribus uiris* in
+            monasteriis annumerari festinant, non sunt temere suscipiendi, nisi uita eorumsubtiliter
+            ipquisita fuerit. Et iuxta normam regularem in suohabitu per triennium probati, tunc
+            monachicum habitumDeo auctore suscipiant.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

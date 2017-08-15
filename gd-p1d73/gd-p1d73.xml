@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXIII</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXIII</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d73">
+        <head>DISTINCTIO LXXIII</head>
+        <p>Qualiter uero commendaticia, uel dimissoria seu formata epistola facienda sit, uidendum
+          est. Debent namque litterae grecae interponi in ea epistola, et\non sine causa. Greca enim
+          elementalitterarum numeros etiam exprimere, nullus, qui uel tenuiter grecisermonis
+          noticiam habet, ignorat. Ne igitur in faciendis epistoliscanonicis, quas mos latinus „
+          Formatas“ uocat, aliqua frausfalsitatis temere presumeretur, hoc a Patribus CCCXVIII.
+          Niceae congregatis saluberrime inuentum est et constitutum, utformatae epistolae hanc
+          calculationis seu supputationis habeantrationem, id est, ut assumantur in supputationem
+          prima grecaelementa Patris, et Filii, et Spiritus sancti, hoc est, II. T. A. queelementa
+          octogenarium et quadringentesimum et primum significant numerum. Petri quoque apostoli
+          prima littera, id est II.,que numerum octoginta significat; eius quoque, qui
+          scribit,episcopi prima littera ; cui scribitur, secunda littera^; accipientis,tertia
+          littera; ciuitatis quoque, de qua scribitur, quarta, etindictionis, quecumque est illius
+          temporis, numerus assumatur.Atque ita his omnibus grecis litteris, que, ut diximus,
+          numerosexprimunt, in unum ductis, unam, quecumque fuerit collecta,summam epistola teneati;
+          hanc qui suscipit, omni cumcautela requirat expresse'*'*. Addat preterea separatim in
+          epistola etiam nonagenarium et nonum numerum , qui secundumgreca elementa significat
+          Apgv.</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Exemplar formatae epistolae, que in Ni cena Sinodo a
+            CCCXVIII. Patribus facta est.</head>
+          <p>In nomine Patris II., et Filii T., et Spiritus sancti A. II.Walterio Spirensi episcopo
+            ego Burchardus sanctae Vor-maciensis ecclesiae deuotus gregis Christi famulus, in
+            Deouero summae felicitatis beatitudinem. Cum sancta catholica ecclesia prompta sit sequi
+            documenta euangelica, quedicunt: ,,Qui recipit prophetam in nomine prophetae,accipiet
+            mercedem prophetae, et qui recipit iustum innomine iusti, mercedem iusti accipiet, etc.
+            et Apostolusiubeat hospitalitatem sectari, et necessitatibus sanctorumuirorum
+            communicare; tamen propter eos S, qui cauteriatamhabent suam conscientiam, dicentes se
+            esse simplices, cum</p>
+          <p>sint astutia diabolica repleti, et pro opere pietatis dicunt se de loco ad locum
+            transire, cum sint sua malicia facientefugitiui, et dicunt se esse ministerio sacro
+            insertos, cumnon sint: statutum est a sanctis Patribus, neminem clericumalienum et
+            ignotum recipi ab aliquo episcopo, et inthroni-zari in sua ecclesia, nisi habeat a
+            proprio episcopo epistolam, que in canonibus nominatur Formata. Ideo notumfacimus
+            fraternitati uestrae, quod presens frater noster,harum litterarum portitor, nomine
+            Hermannus, non pro suanequicia expulsus est a nobis, sed postulantibus fratribus,eo quod
+            ex familia nostra fuit et noster baptizatus, fecimusei libertatem receptam in cornu
+            altaris canonice, etordinauimus eum ad gradum presbiterii. Cui etiam hasdimissorias siue
+            commendaticias litteras facimus, et eumad uestram dilectam fraternitatem dirigimus, ut
+            in uestraparrochia sub uestro sacro regimine et defensione consistereualeat. Ego,
+            inquam, Burchardus humilis episcopus, innomine Patris, et Filii, et Spiritus sancti, et
+            in unitatesanctae ecclesiae, in qua Petro datum est ius ligandi atquesoluendi, absoluo
+            Hermannum presbiterum de ciuitate Vor-maciensi indictione X., et licentiam do uobis
+            inthroni-zandi eum in quacumque ecclesia uultis uestrae parrochiae.Plane ergo epistolam
+            grecis litteris hinc inde munire de-creuimus, et annulo nostrae ecclesiae firmare
+            censuimus.Fraternitatem uestram Christus nobis incolumem conser-uet*. II. T. A. II. B.
+            E. Z. S. J4pqv. Data VormaciaeIdibus Marcii, anno Dominicae incarnationis MXII.
+            Indictione X.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Incipit epistola formata a CCCXVIII. Episcopis et ab Attico*
+            Constantinopolitanae urbis Episcopo edita:Sanctissimo in Christo fratri summa dulcedine
+            karitatisamplectendo A., illius ciuitatis episcopo, T., illius ecclesiaepresul,
+            perpetuae beatitudinis optat in Christo salutem.S2. T. A. ii. De cetero nouerit sancta
+            fraternitas uestra, quodiste clericus, Hermannus nomine, nostra in parrochia instructus
+            ac detonsus, paruitatem nostram rogauit, quatinusilli commendaticias litteras
+            conscriberemus, quibus uestraecelsitudini commendatus sub tuitione uestri regiminis
+            degereposset; cuius uoluntati consentientes secundum canonicamauctoritatem litteras ei
+            dimissorias dedimus, per quas et ipsiconcedimus, ut sub uestro magisterio diuinae
+            seruituti insistens suae deseruiat utilitati, et uobis licentiam tribuimus,ut, si dignum
+            eum iudicaueritis, ad sacros ordines pro-moueatis. Commendatum ergo eum curae uestrae
+            suscipite,et nostris ex partibus absolutum in uestrarum ouium numerocustodite. Quas
+            litteras, ut uigore ueritatis firmatae indubitanter a uobis suscipiantur, litteris
+            grecis, ut canonica docetauctoritas, confirmare sategimus. Sancta Trinitas
+            uestrambeatitudinem ad regimen sanctae suae ecclesiae perpetualiterbene ualere concedat,
+            kuqv **. (uel sic: Et. 0. (que eandem summam exprimunt) indictione X. Continet hec
+            formataepistola summam numeri MCCCXV. Y. grecam in nomineillius primam ponimus, quia
+            Greci eam in quibusdam locispro Y. consonante ponunt, sicut est david^ et
+            svayyihov)^].</head>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

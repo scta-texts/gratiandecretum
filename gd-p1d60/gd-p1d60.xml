@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d60">
+        <head>DISTINCTIO LX.</head>
+        <p>GRATIANUS.</p>
+        <p>Ecce, ex parte ostensum est, qui possint ad sacerdotii ordinem promoueri, et qui non.
+          Nunc autem considerandum est, ex quibus ordinibus in archipresbiterum, uel prepositum, uel
+          episcopum, uel archiepiscopum sint eligendi.</p>
+        <p>De his ita statutum est in Concilio* Urbani Papae, celebrato Aluerniae:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Archipresbiter, uel decanus, aut archidiaconus nonnisi
+            presbiter aut diaconus ordinetur.</head>
+          <p>Nullus episcopus in ecclesia sua, nisi diaconus sit, archidiaconum instituere, nec
+            archipresbiterum aut decanum, nisi presbiteri sint, ordinare presumat. Quod, ut
+            districtiusteneatur, auctoritate apostolica prohibemus et interdicimus.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Nullus in prepositum, uel archiepiscopum, uel
+            archipresbiterum, uel archidiaconum nisi presbiter, ueUdiaconus ordinetur.</head>
+          <p>Item Calix tu s* Papa [II.] </p>
+          <p>Nullus in prepositum, nullus in archiepiscopum uelarchipresbiterum, nullus in decanum
+            nisi presbiter uel diaconus, nullus in archidiaconum nisi diaconus ordinetur.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Innocentius II. [in Concilio Romano, c. 10.]</p>
+          <p>Innouamus autem et precipimus, ut nullus in archidiaconum uel decanum nisi diaconus uel
+            presbiter ordinetur.</p>
+          <p>Archidiaconi uero, uel decani, uel prepositi, qui infra ordines prenominatos existunt,
+            si inobedientes ordinari contempserint, honore suscepto priuentur. Prohibemus autem, ne
+            adolescentibus, uel infra sacros ordines constitutis, sedqui prudentia et merito uitae
+            clares eant, predicti concedantur honores.</p>
+          <p>Gratian. Horum unum propter procacitatem quorumdam statutum est, qui nomen prepositurae
+            adepti offitium contem-pnunt, nolentes fieri sacerdotes; alias autem inane esset,
+            cumetiam in episcopum eligi possint in subdiaconatu constituti, iuxtaillud Urbani*
+            Papae:</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Non eligatur in episcopum nisi in sacris ordinibus
+            constitutus.</head>
+          <p>Nullus in episcopatum eligatur, nisi in sacris ordinibus religiose uiuens inuentus
+            fuerit. Sacros autem ordines dicimus diaconatum et presbiteratum. Hos siquidem solos
+            primitiua legitur habuisse ecclesia, subdiacones uero,quia et ipsi altaribus ministrant,
+            oportunitate exigenteconcedimus, si tamen spectatae sint religionis et scientiae. Quod
+            ipsum non sine Romani Pontificis uel metropolitani scientia * fieri permittimus.</p>
+          <p>Gratian. Alterum uero, ut in episcopum uel arcliiepiscopum nisi in sacris ordinibus
+            constitutus non eligatur, propter dignitatemordinis statutum est.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

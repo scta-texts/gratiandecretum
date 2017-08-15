@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO VIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO VIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d8">
+        <head>DISTINCTIO VIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Differt etiam ius naturae a consuetudine et constitutione. Nam iure naturae sunt
+          omnia communia omnibus, quod non solum inter eos seruatum creditur, de quibus legitur: „
+          Multitudinis autem credentium erat cor unum et anima una^ £tc.uerum etiam ex precedenti
+          tempore a philosophis traditum inuenitur. Unde apud Platonem illa duitas iustis sime
+          ordinata traditur, in qua quisque proprios nescit affectus. Iure uero consuetudinis uel
+          constitutionis hoc meum est, illud uero alterius.</p>
+        <p>Unde Augustinus ait supra Iohannem [tract. VI. ad c. 1.</p>
+        <p>§. 25. Ioannis]:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Iure diuino omnia sunt communia omnibus: iure uero
+            constitutionis hoc meum, illud alterius est.</head>
+          <p>Quo iure defendis uillas ecclesiae*, diuino, an hu-</p>
+
+
+
+
+
+          <p>mano? Diuinum ius in scripturis diuinis habemus, humanum in legibus regum. Unde quisque
+            possidet, quod possidet? Nonne iure humano? Nam iure diuino ,,Domini est terra et
+            plenitudo eius.“ Pauperes et diuites Deus de uno limo fecit, et pauperes et diuites una
+            terra supportat. Iure ergo humano dicitur: hec uilla mea est, hec domus mea est, hic
+            seruus meus est. Iura autem humana iura imperatorum sunt: quare? Quia ipsa iura humana
+            per imperatores et reges seculi Deus distribuit generi humano. Item. §. i. Tolle** iura
+            imperatoris, et quis audet dicere: hec uilla mea est s, meus est iste seruus, hec domus
+            mea est? Si autem, teneantur ista ab hominibus, regum iura fecerunt, uultis reticeamus
+            leges, ut gaudeatis? etc. Item . §. 2. Relegantur leges, ubi manifeste preceperunt
+            imperatores, eos, qui preter ecclesiae catholicae communionem usurpant sibi nomen
+            Christianum, nec uolunt in pace colere pacis auctorem, nihil nomine ecclesiae audeant
+            possidere. §. 3. Sed dicitis quid nobis et imperatori? Sed ut iam dixi, de iure humano
+            agitur. Apostolus uoluit seruiri regibus, uoluit honorari reges, et dixit: ,,Regem
+            reueremini.“ Nolip dicere, quid mihi et regi? Quid tibi ergo et possessioni? Per iura
+            regum possidentur possessiones. Dixisti, quid mihi et regi? Noli dicere possessiones
+            tuas, quia ipsa iura renuntiasti humana, quibus possidentur possessiones.</p>
+          <p>II. Pars. Gratianus. Dignitate uero ius naturale simpliciter preualet consuetudini et
+            constitutioni. Quecunque enim uel moribus recepta sunt, uel scriptis &lt;i comprehensa,
+            si naturali iuri fuerint aduersa, uana et irrita sunt habenda.</p>
+          <p>Unde Augustinus ait, lib. II. [lib. III. Confessionum c. 8]:</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Aduersus naturale ius nulli quicquam agere licet.</head>
+          <p>Que contra mores hominum sunt flagitia, pro morum diuersitate sunt uitanda, ut pactum
+            gentis inter se aut consuetudine ciuitatis, uel lege firmatum, nulla ciuis aut peregrini
+            libidine uioletur. Turpis est enim omnis pars suo uniuerso non congruens. §. 1. Cum
+            autem Deus aliquid contra morem aut pactum quorumlibet iubet, etsi numquam ibi factum
+            est, faciendum est; et si omissum, instaurandum; et si statutum non erat, instituendum
+            est. §. 2. Si enim regi licet in ciuitate, cui regnat, iubere aliquid, quod neque ante
+            ipsum quisquam, nec ipse umquam iusserat, et non contra societatem ciuitatis eius
+            obtemperatur, immo contra societatem si non obtemperatur: (generale quippe pactum est
+            societatis humanae, obtemperare regibus suis,) quanto magis Deo regnatori uniuer-sae
+            creaturae suae, ad ea, que iusserit, sine dubitatione seruiendum est? Sicut enim in
+            potestatibus societatis humanae maior potestas minori ad obediendum preponitur, ita Deus
+            omnibus.</p>
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Mala^* consuetudo radicitus est euellenda.</head>
+          <p>Item Nicolaus* Papa Ilincmaro Remensi Archiepiscopo.</p>
+          <p>Mala consuetudo, non minus quam pernitiosa corruptela uitanda est, que nisi citius
+            radicitus euellatur, in priuilegiorum ius ab impiis assumitur, et incipiunt
+            preuaricationes et uariae presumtiones, celerrime non compressae, pro legibus uenerari
+            et priuilegiorum more perpetuo celebrari.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Veritati et rationi consuetudo est postponenda.</head>
+          <p>Item Augustinus^ de unico baptismo lib. II.* [lib. III. de Baptismo, contra Donatistas,
+            c. 6.]</p>
+          <p>,,Veritate manifestata cedat consuetudo ueritati “ : plane quis dubitet ueritati
+            manifestatae consuetudinem cedere? Item „Nemo consuetudinem rationi et ueritati
+            preponat, quia consuetudinem ratio et ueritas semper excludit .“</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Quelibet consuetudo ueritati est postponenda.</head>
+          <p>Item Gregorius VII.* Wimundo Auersano Episcopo.</p>
+          <p>Si consuetudinem fortassis opponas, aduertendum est, quod Dominus dicit: ,,Ego sum
+            ueritas.“ Non dixit: ego sum consuetudo, sed ueritas.“ §. 1. Et certe (ut</p>
+          <p>B. Cipriani utamur sententia) quelibet consuetudo, quan-tumuis uetusta, quantumuis
+            uulgata, ueritati est omnino postponenda, et usus, qui ueritati est contrarius,
+            abolendus est.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Veritate reuelata, consuetudinem sibi cedere oportet.</head>
+          <p>Item Augustinus in libro de baptismo paruulorum[lib. III. de Baptismo, contra
+            Donatistas, cap. 5.]</p>
+          <p>Qui contempta ueritate presumit consuetudinem sequi,</p>
+
+
+
+
+
+          <p>aut circa fratres inuidus est et malignus, quibus unitas reue-latur, aut circa Deum
+            ingratus est, inspiratione cuius ecclesia eius instruitur. Nam® Dominus in euangelio: „
+            Ego sum, inquit, „ueritas:“ non dixit: ego sum consuetudo. Itaque ueritate manifestata
+            ueritati cedat consuetudo. Reuelatione ergo® facta ueritatis cedat consuetudo* ueritati,
+            quia et Petrus, qui circumcidebat, cessit Paulo ueritatem predicants. Igitur cum
+            Christus ueritas sit, magis ueritatem, quam consuetudinem sequi debemus, quia**
+            consuetudinem ratio et ueritas semper excludit.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Consuetudo rationi frustra opponitur.</head>
+          <p>Idem in lib. /F. de Baptismo, [contra Donatistas, cap. 5.]</p>
+          <p>„ Frustra," inquit, „quidam, qui ratione uincuntur, consuetudinem nobis obiiciunt,
+            quasi consuetudo maior sit ueritate, aut non sit in spiritualibus sequendum, quod melius
+            est a Spiritu sancto reuelatum." Hoc plane uerum est, quia ratio et ueritas consuetudini
+            preponenda est. Sed si consuetudini ueritas suffragatur, nihil oportet firmius
+            retineri.</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Rationem consuetudo impedire non debet.</head>
+          <p>Item Ciprianus [in epistola ad Pompeium, contra epistolam Stephani.]</p>
+          <p>Consuetudo, que apud quosdam irrepserat, impedire non debet, quo minus ueritas
+            preualeat et uincat. Nam consuetudo sine ueritate uetustas erroris est: propter quod
+            relicto errore sequamur ueritatem, scientes, quia et apud Esdram ueritas uicit, ut
+            scriptum est: „Veritas ualet® et inualescit in eternum, et uiuit et obtinet in secula
+            seculorum."</p>
+          <p>Idem [in epistola ad Iubaianum, circa med.]</p>
+          <p>Ignosci* potest simpliciter erranti, sicut de seipso dicit beatus apostolus Paulus:
+            „Qui primo, fuiblasphemus, et persecutor et iniuriosus; sed misericordiam merui, quia
+            ignorans feci." Post inspirationem uero et reuelationem factam, qui in eo, quod
+            errauerat, perse-uerat, prudens et sciens iam non in uenia ignorantiae peccat:
+            presumtione enim atque obstinatione quadam nititur, cum ratione superetur.</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Dei ueritatem, non hominum consuetudinem sequi oportet.</head>
+          <p>Idem [lib. II. ep. 3. ad Caecilium].</p>
+          <p>Si solus Christus audiendus est, non debemus attendere, quid aliquis ante nos faciendum
+            putauerit, sed quid, qui ante omnes est, Christus prior fecerit. Neque enim hominis
+            consuetudinem sequi oportet, sed Dei ueritatem, cum per Ysaiam prophetam loquatur Deus
+            et dicat: „Sine causa colunt me, mandata et doctrinas hominum docentes."</p>
+
+          <p>Gratianus. Liquido igitur apparet, quod consuetudo naturali iuri postponitur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

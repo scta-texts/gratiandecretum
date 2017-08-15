@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXXIX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXXIX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d89">
+        <head>DISTINCTIO LXXXIX.</head>
+        <p>4 GRATIANUS.</p>
+        <p>I. Pars. Domui quoque suae oportet bene esse prepositum, ut quedam inde quodammodo
+          futurae dispensationisargumenta assumantur. In dispensatione uero ecclesiae hancregulam
+          obseruandam nouerit, ut nulli quantumlibet exercitataepersonae duo simul offitia
+          committat, neque secularibus uiris resecclesiasticas gubernandas committat.</p>
+        <p>Unde Gregorius* scribit omnibus Episcopis:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Uni personae duo non committantur offitia.</head>
+          <p>Singula ecclesiastici iuris offitia singulis quibusque personis singillatim committi
+            iubemus. Sicut enim in uno corpore multa membra habemus, omnia autem membranon eundem
+            actum habent, ita in ecclesiae corpore secundum ueridicam Pauli sententiam in uno
+            eodemquespirituali corpore conferendum est hoc offitium uni,alii committendum est illud,
+            neque enim quantumlibetexercitatae uni personae uno tempore duarum rerum
+            offitiacommittenda sunt: quia si totum corpus oculus, ubi auditus? Sicut enim uarietas
+            membrorum per diuersa offitiaet robur corporis seruat, et pulcritudinem representat,
+            itauarietas personarum diuersa nichilominus distributa offitia et fortitudinem et
+            uenustatem sanctae Dei ecclesiaemanifestat. Et sicut indecorum est, ut in corpore
+            humanoalterius fungatur offitio alterum membrum, ita nimirumnoxium simulque turpissimum,
+            si singula rerum ministeria personis totidem non fuerint distributa.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Quilibet episcopus uicedominum et yconomum habeat.</head>
+          <p>Item Gregorius An ternio Subdiacono, [lib. IX. epist. 66.] </p>
+          <p>II. Pars. Volumus, ut frater noster Pascasius et uicedominum sibi ordinet et maiorem
+            domus, quatinus possituel hospitibus superuenientibus, uel causis, que eueniunt,idoneus
+            et paratus existere. Si uero negligentem eumprospicis, uel ea, que dicimus, inplere
+            differentem,omnis eius clerus adhiberi debet, ut communi consilio ipsieligant, quorum
+            personae ad ea, que prediximus ualeantordinari.</p>
+          <p>Gratian*. Offitium uicedomini est episcopium disponere.</p>
+          <p>Unde Gregorius Clementinae Patriciae, [lib. I. epist. ii.] post alia:</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Quid™ sit offitium uicedomini.</head>
+          <p>Diaconum uero Anatholium, quem ad uos dirigi poposcistis, hoc nos facere non posse,
+            causae magis modus quam rigoris auctoritas facit. Vicedominum enim eum constituimus,
+            cuius arbitrio episcopium commisimus disponendum.</p>
+          <p>Quia in quibusdam ecclesiis, sicut ad nos peruenit, sine yconomo episcopi res
+            ecclesiasticas tractant, placuit,omnes ecclesias habentes episcopos etiam yconomoshabere
+            de proprio clero, qui gubernent res ecclesiae cumarbitrio sui episcopi, ut non sine
+            testimonio sit gubernatioipsarum rerum ecclesiasticarum, neque ex hoc eueniatres eiusdem
+            ecclesiae dispergi, et sacerdotali dignitati obtrectatio generetur. Si uero quis hoc non
+            obseruauerit,diuinis subiaceat regulis.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Secularibus uiris res ecclesiasticae non
+            committantur.</head>
+          <p>Item Gregorius Iohannis Carolitano^ Episcopo, [lib. VII. epist. 66.]</p>
+          <p>Indicatum est nobis, quod laicis quibusdam curam uestri patrimonii commiseritis, qui
+            postmodum in rusticorumuestrorum depredationibus atque ex fatigationibus* fuerunt
+            deprehensi. Quod si ita est, districte a uobisdiscuti conuenit, atque inter eos
+            ecclesiaeque uestrae rusticos causam examinare subtilius. Et quicquid fraudisinuentum
+            fuerit, cum pena legibus statuta reddere conpel-lantur. De cetero uero cauendum est a
+            fraternitate uestra,ne secularibus uiris atque sub regula uestras non degentibus
+            cuiuslibet res ecclesiae committantur, sed probatisde offitio uestro clericis, in
+            quibus, si quid reperiri poteritprauitatis, ut in subditis emendare quod illicite gestum
+            fueritualeatis: quo** uidelicet apud uos habitus sui offitiummagis conuenienter
+            amministrent, quam accusent.</p>
+          <p>III. Pars. Gratian. Propinquis, uel etiam fauore sibi coniunctim, ecclesiastica offitia
+            committere non audeat.</p>
+          <p>Unde in Tolletano Concilio X. [c. 3.]:</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Ecclesiastica episcopus non committat offitia propinquis uel
+            fauore coniunctis.</head>
+          <p>Decenter omnibus placet, in presenti tale rescindere factum, et non esse de cetero
+            faciendum. Quicumque igitur pontificum deinceps aut sanguine propinquis, autfauore
+            personae quibuscumque deuinctis talia lucracommendare temptauerit, ad suum nefandae
+            presumptionis excidium et quod iussum fuerit deuocetur in irritum, et qui ordinauerit
+            annuae excommunicationi subiaceat. Que uero ablata fortasse fuerint, ab eo, qui
+            tulit,reddantur in duplum.</p>
+          <p>Gratian. Porro ipsa offiiia quare ita sint distinguenda necs uni personae omnia
+            committenda, ex auctoritate Gregoriiet ex auctoritate Bonifatii Papae datur intelligi,
+            qui ait :</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Graduum et ordinum distributio ecclesiasticam unitatem
+            conseruat*.</head>
+          <p>Ad hoc dispositionis prouisio gradus diuersos et ordines 'constituit esse distinctos,
+            ut, dum reuerentiamminores potioribus exhiberent, et potiores minoribus dilectionem
+            inpenderent,uera concordia fieret ex diuersitatecontextio, et recte offitiorum gereretur
+            administratio singulorum. Neque uniuersitas alia poterat ratione subsistere,nisi
+            huiusmodi magnus eam differentiae ordo seruaret. Quiauero creaturag in una eademque
+            qualitate gubernari ueluiuere non potest, celestium miliciarum exemplar nos instruit,
+            quia dum sunt angeli, sunt archangeli, liquet,quia non equales sunt, sed in potestate et
+            ordine (sicutnostis) differt alter ab altero.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

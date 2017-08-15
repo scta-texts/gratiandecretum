@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d80">
+        <head>DISTINCTIO LXXX.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Loca uero, in quibus primates, patriarchae, archiepiscopi, episcopi, presbiteri
+          sunt ordinandi, hec sunt secundum Lucium Papam, ac Clementem, atque Anacletum.</p>
+        <p>Ait enim Lucius Papa:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. In quibus locis primates uel patriarchae debeant
+            ordinari.</head>
+          <p>Urbes et loca, in quibus primates presidere debent, non modernis, sed multis ante
+            aduentum Christi suntstatutae temporibus, quarum primates gentiles etiam promaioribus
+            negotiis’ appellabant. §. i. In ipsis uero urbibus post aduentum Christi apostoli et
+            eorum successorespatriarchas et primates posuerunt, ad quos episcoporumnegotia, salua in
+            omnibus apostolica auctoritate, et maiorescausae post apostolicam sedem sunt
+            referendae.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Clemens Papa [ad Iacobum epist. I.]In illis ciuitatibus uero, in quibus olim apud
+            ethnicosprimi flamines eorum atque primi legis doctores erant, episcoporum primates uel
+            patriarchas poni B. Petrus precepit,qui reliquorum episcoporum causas et maiora
+            negotiain fide agitarent. §. i. In illis autem, in quibusdudum apud ethnicos predictos
+            erant eorum archi-flamines, quos tamen minores tenebant quam memoratosprimates,
+            archiepiscopos institui precepit. §. 2. In singulis uero reliquis ciuitatibus singulos,
+            et non plures sepiscopos constitui precepit, qui episcoporum tantumuocabulo potirentur;
+            quoniam nec inter ipsos apostolospar fuit institucio, sed unus prefuit omnibus.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. De eodem.</head>
+          <p>' Item Anacletus [epist. III. cap. 2.]Episcopi non in castellis neque in modicis
+            ciuitatibus debent constitui, sed presbiteri per castella et modicasciuitates atque
+            uillas debent ab episcopis ordinari et poni,singuli tamen per singulos titulos suos.
+            Episcopus nonab imo, sed a pluribus episcopis debet ordinari, et, ut dictumest, non ad
+            modicam ciuitatem, ne uilescat nomen episcopi, sed ad honorabilem titulandus et
+            denominandusest. Presbiter uero ad qualemcumque locum in eo constitutae ecclesiae est
+            preficiendus.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Leo Papa [ad Episc. Africae, epist. LXXXV. c. 2.]Illud sane, quod ad sacerdotalem
+            pertinet dignitatem,inter omnia uolumus canonum statuta seruari, ut non inquibuslibet
+            locis, nec quibuscumque castellis, et ubiante non fuerunt, episcopi consecrentur, cum,
+            ubi minoressunt plebes minoresque conuentus, presbiterorum curasufficiat episcopalia
+            autem gubernacula non nisi in maioribus populis et frequentioribus ciuitatibus oporteat
+            presidere, ne, quod sanctorum Patrum diuinitus inspiratauetuerunt decreta, uiculis et
+            possessionibus, uel obscuriset solitariis municipiis tribuatur sacerdotale
+            fastigium.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Laudicensi, [c. 57.]Non debere in uicis et uillis episcopos ordinari,
+            seduisitatores*, id est qui circumeant, constitui; his autemqui ante hoc ordinati sunt,
+            nichil agere censemus sine</p>
+          <p>conscientia episcopi ciuitatis. Similiter autem presbiteri sine precepto et consilio
+            episcopi nichil agant.</p>
+          <p>II. Pars. Gratian. Sedes autem episcoporum non longo interuallo debent disiungi, ut ad
+            consecrationem sui conprouin-cialis sine difficultate*® possint occurrere.</p>
+          <p>Unde Gregorius Augustino Anglorum Episcopo [resp,8.]:</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Episcopales sedes non longo interuallo a se disiungi
+            debent.</head>
+          <p>Fraternitatem tuam ita uolumus ordinare episcopos, ut sibi ipsi episcopi longo
+            interuallo minime disiungantur,quatinus nulla sit necessitas, ut in ordinatione
+            episcopiconuenire non possint. Nam episcoporum ordinatio sineaggregatis tribus aut
+            quatuor episcopis fieri nullatenus debet.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XVIII</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XVIII</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d18">
+        <head>DISTINCTIO XVIII</head>
+        <p>GRATIaNUS.</p>
+        <p>I. Pars. Episcoporum igitur concilia, 'ut ex premissis apparet, sunt inualida ad
+          diffiniendum et constituendum, non autem ad corrigendum. Sunt enim necessaria episcoporum
+          concilia ad exortationem et correctionem, que etsi non habent uim constituendi, habent
+          tamen auctoritatem imponendi et indicendi, quod alias statutum est et generaliter seu
+          specialiter obseruari preceptum.</p>
+        <p>[PALE A*.</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Ex Cabilonensi Concilio, cap. 6.</head>
+          <p>Placuit} ut conseruato metropolitani primatu ceteri episcopi, secundum suae
+            ordinationis tempus, alius alii deferat locum.]</p>
+
+          <p>Unde Leo I., [epist. LXXXII. c. 7. Anastasio] Thessalonicensi Episcopo:</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Bini conuentus per singulos annos ab
+            episcopiscelebrentur.</head>
+          <p>De conciliis autem episcopalibus non aliud indicimus, quam sancti Patres salubriter
+            ordinauerunt 5 scilicet bini conuentus per annos singulos habeantur, in quibus de
+            omnibus querelis, que inter diuersos ecclesiae ordines. nasci solent, iudicetur. Ac si
+            forte inter ispsos, quipresunt, de maioribus peccatis nascitur (quod absit) causa, que
+            prouinciali examine nequeat diffiniri, fraternitatem tuam de totius negotii qualitate
+            metropolitanus curabit instruere, ut si, coram positis partibus nec tuo fuerit res
+            sopitaiudicio, ad nostram cognitionem, quicquid illud est, transferatur.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Quo tempore concilia episcoporum sunt celebranda.</head>
+          <p>Item ex Niceno Concilio, [cap. 5.]</p>
+          <p>Habeatur semel concilium ante dies quadragesimae, ut omnibus, si que sunt, simultatibus
+            amputatis, mundum* solemprxe Deo. possit offerri; sepundum uero agatur circa tempus
+            autumni.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Ad morum correctionem et controuersiarum dissblu-, tionem bis
+            in anno episcopale concilium fiat.</head>
+          <p>Item ex Antio ceno Concilio, [cap. 20.]</p>
+          <p>Propter ecclesiasticas causas et que existunt controuersias dissoluendas, sufficere
+            uisum est, bis in anno per singulas prouincias episcoporum concilium fieri: semel quidem
+            post tertiam ebdomadam pascalis solempnitatis, ita ut in quarta ebdomada, que
+            consequitur, id est media* pentecoste, concilium compleatur**. Admoneant autem
+            comprouinciales episcopos hi, qui in amplioribus, id est in metropolitanis ciuitatibus.
+            degunt. §. 1. Secundum uero concilium Idib. octotyris habeatur, qui dies apud Grecos
+            yperberiti mensis decimus*** inuenitur. In ipsis autem conciliis et presbiteros et
+            diaconos presentes esse oportet, et omnes, quoquot se lesos existimant, et sinodicam
+            exspectare sententiam. Nec liceat aliquibus apud semetipsos concilia sine
+            metropolitanorum episcoporum conscientiafacere, quibus de omnibus causis constat esse
+            permissum iudicium.</p>
+
+
+
+
+
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Se ipsos accusant, qui uocati ad sinodum uenire
+            contempnunt.</head>
+          <p>Item ex Concilio Laudicensi [cap. 40.]</p>
+          <p>Non oportet uocatos episcopos ad sinodum contemp-nere, sed adire debere, et aut docere,
+            aut doceri, que sunt ad ecclesiae ceterorumque correctionem utilia; quod si
+            contempserint, se ipsos uidentur accusare, nisi ire forte non possint.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Corripiantur episcopi, qui ad concilium uocati uenire
+            recusant.</head>
+          <p>Item ex Concilio Calcedonensi, [cap. 19.]</p>
+          <p>Peruenit ad nostras aures, jquod in prouinciis constituta episcoporum concilia minime
+            celebrentur. Hoc* ex eo probatur, quod multae, que correctione opus habent,
+            ecclesiasticae res negligantur. Statuit ergo hec sancta sinodus, secundum Patrum regulas
+            bis in anno in unum conuenire per singulas prouincias episcopos, ubi singula**, que
+            emerserint, corrigantur. §. 1. Qui uero noluerint conuenire episcopi constituti in suis
+            ciuitatibus, et hoc maxime, cum sui corporis sanitate consistentes, cum etiam ab omnibus
+            aliis urgentibus necessitatibus et inexcusabilibus negotiis liberi sint, licere eos
+            fraternae caritatis admonitionibus corripi.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Canonicis subiaceat penis metropolitanus, qui saltem semel in
+            anno celebrare concilium negligit.</head>
+          <p>Item ex Septima Sinodo, [cap. 6.]</p>
+          <p>II. Pars. Quoniam quidem regula est, que dicit, bis in anno per singulas prouincias
+            oportere fieri per conuen-tum episcoporum regulares inquisitiones, propter fatigationes
+            et ut oportune* habeantur ad iter agendum 'hi, qui congregandi sunt, diffinierunt sextae
+            sinodi sancti Patres, omni excusatione remota, omnibus modis semel in anno fieri, et
+            deprauata corrigi. Hunc ergo canonem et nos renouamus, et si quisquam princeps inuentus
+            fuerit hoc prohibere, communione priuetur. Si quis uero metropolitanorum hoc neglexerit
+            agere absque necessitate, uel ui, seu aliqua rationabili occasione, canonicis penis
+            subiaceat. Dum autem sinodus agitur super canonicis et euangelicis negotiis, oportet
+            congregatos episcopos in meditatione et sollicitudine fieri custodiendorum diuinorum et
+            uiuificorum Domini mandatorum. §. 1. Porro non habeat metropolitanus licentiam ex his,
+            que defert episcopus secum, siue iumentum siue aliquam speciem expetendi. Quod si hoc
+            egisse conuictus fuerit, soluat quadruplum.</p>
+
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Non cogantur presbiteri sacerdotalia eulogia ad concilium
+            deferre.</head>
+          <p>Item Leo IV. [ad Episcopos Britanniae, c. 3.]*</p>
+          <p>De eulogiis ad sacra concilia deferendis nihil inuenimus a maioribus terminatum: sed
+            sicut unicuique presbitero placuerit. Nam si constitutum fuerit, illo in tempore
+            benedictiones afferre, forsitan minus libenter ad sinodos occurrent, et magis uenire
+            obtrectabunt. Que, ut arbitror, non sunt rationabiliter requirendae, nec ultro delatae
+            respuendae.</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Sine graui necessitate episcopus ad sinodum ire non
+            tardet.</head>
+          <p>Item ex Concilio Cartaginensi IV., [c. 21.] Episcopus ad sinodum ire non tardet, si
+            nonsatis graui necessitate inhibeatur: sic tamen, ut in persona sua legatum mittat,
+            suscepturus salua fidei ueritate quicquid sinodus statuerit*.</p>
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="question-title">Excusatorias litteras dirigant, qui grauati ad sinodum ire non
+            possunt.</head>
+          <p>Item ex Concilio Cartaginensi V., [c. 10.] Placuit, ut quotienscumque congregandum est
+            concilium, episcopi, qui neque etate, neque egritudine, neque alia grauiori necessitate
+            impediuntur, competenter occurrant. §. i. Quod si non potuerint occurrere, excusationes
+            suas litteratorie* subscribant; nisi autem** rationem impedi-</p>
+
+
+
+
+
+          <p>menti sui apud primatem suum reddiderint, ecclesiae suae communione debent esse
+            contenti.</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="question-title">Item ex Concilio Turonensi, [cap. 2.]</head>
+          <p>Episcopus non debet abbatem cogere ad sinodum ire, nisi aliqua rationabilis causa
+            existat] .</p>
+        </div>
+        <div>
+          <head>C. XII.</head>
+          <head type="question-title">A communione sit alienus, qui contempsitSinodo adesse.</head>
+          <p>Item ex Concilio Arelatensi II., [c. i9.]</p>
+          <p>Si quis autem adesse neglexerit; uel cetum fratrum, antequam concilium dissoluatur,
+            crediderit deserendum, alienatum se a fratrum communione agnoscat; nec eum recipi
+            liceat, nisi in sequenti Sinodo fuerit absolutus.</p>
+        </div>
+        <div>
+          <head>C. XIII.</head>
+          <head type="question-title">Usque ad proximam sinodum a communione abstineat, qui a
+            metropolitano uocatus absque graui necessitate Sinodo adesse contempsit.</head>
+          <p>Item ex Concilio Agat en si8®, [cap. 35.]</p>
+          <p>Si episcopus metropolitanus ad comprouinciales episcopos epistolas direxerit, in quibus
+            eos aut ad ordinationemsummi pontificis, ut ad sinodum inuitet, postpositis omnibus
+            (excepta graui infirmitate corporis, ac precep-tione regia) ad constitutum diem adesse
+            non differant. Quod si defuerint (sicut prisca canonum precipit auctoritas) usque ad
+            proximam sinodum a caritate fratrum et ecclesiae communione priuentur.</p>
+        </div>
+        <div>
+          <head>C. XIV.</head>
+          <head type="question-title">Communione^ priuetur episcopus, qui a metropolitano uocatus ad
+            sinodum uenire contempnit.</head>
+          <p>Item ex Concilio Tarragonensi, [cap. 6.]</p>
+          <p>Si quis episcoporum commonitus a metropolitano ad sinodum, nulla graui intercedente
+            necessitate corporali, uenire contempserit, sicut statuta Patrum sanxerunt, usque ad
+            futurum concilium cunctorum episcoporum caritatis communione priuetur.</p>
+        </div>
+        <div>
+          <head>C. XV.</head>
+          <head type="question-title">Presbiteri et diaconi, et cuncti, qui se lesos existimant, ad
+            metropolitanam sinodum conueniant.</head>
+          <p>Item ex Concilio Martini* Papae.</p>
+
+          <p>Propter ecclesiasticas causas et altercationum solutiones bene placuit per singulas
+            prouincias bis in anno concilium fieri, conuocante metropolitano episcopo omnes
+            prouinciales episcopos, ita ut ad concilium ueniantomnes presbiteri et diaconi, uel
+            hi**, qui se lesos existimant, ut in concilio causae examinatae ad iustum &lt; iudicium
+            perducantur. Et si qui manifeste episcopi, uel presbiteri, aut diaconi inuenti fuerint
+            in offensa, secundum rationem excommunicentur, quamdiu communi consensude his placuerit
+            dare sententiam. Nulli autem episcopo liceat propria apud semetipsum concilia facere,
+            preter eos, quibus metropoles sunt creditae.</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XVI.</head>
+          <head type="question-title">Item ex Concilio Bylon.</head>
+          <p>Annis singulis episcopus in sua diocesi sinodum faciat de suis clericis, nec non
+            abbatibus, et discutiat alteros clericos et monachos.]</p>
+          <p>Gratian. Singuli uero episcoporum suis ecclesiis notificare studeant, que in conciliis
+            statuuntur.</p>
+          <p>Unde in Concilio Tolletano [XVI., cap. 6.]</p>
+        </div>
+        <div>
+          <head>C. XVII.</head>
+          <head type="question-title">Que in conciliis statuuntur, singuli episcoporum • suis
+            ecclesiis notificent.</head>
+          <p>Decernimus, ut, dum in qualibet prouincia concilium agitatur, unusquisque episcoporum
+            admonitionibus suis intra sex mensium spatia omnes abbates, presbiteros, diaconos atque
+            clericos, seu etiam omnem conuentum ciuitatis ipsius, ubi preesse dignoscitur, nec non
+            etiamcunctam diocesis suae plebem aggregare nequaquam moretur: quatenus* coram eis
+            plenissime omnia reseret, que eodem anno in concilio acta uel diffinita esse noscuntur.
+            §. i. Quod si quispiam hec paruipendenda crediderit, sententia excommunicationis duorum
+            mensium curriculo persistat usquequaque mulctatus.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

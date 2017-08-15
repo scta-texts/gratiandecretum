@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXXV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXXV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d85">
+        <head>DISTINCTIO LXXXV.</head>
+        <p>GRATIANUS.</p>
+        <p>Hospitalitas uero usque adeo episcopis necessaria est, ut, si ab ea inueniantur alieni,
+          iure prohibeantur ordinari.</p>
+        <p>Unde Gregorius scribit Iohanni Episcopo, [lib. XII. epist. 6.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Hospitalitatem nesciens non fiat episcopus.</head>
+          <p>Florentinum archidiaconum ecclesiae Anchonitanae, qui ad episcopatum electus fuerat,
+            scripturae quidem sacraescientiam habere, sed ita etatis senio iam confractumaccepimus,
+            ut ad regiminis offitium non possit assurgere;adicientes etiam, illum ita tenacem
+            existere, ut in domoeius amicus ad karitatem numquam introeat. Rusticus autem diaconus
+            eiusdem ecclesiae, qui similiter electus fuerat,uigilans quidem homo dicitur, sed,
+            quantum asseritur, psalmos ignorat. Florentinum uero diaconum ecclesiae Ra-uennatis, qui
+            electus ab omnibus memoratur, sollicitumesse nouimus, sed qualis sit interius omnino
+            nescimus.Ideoque fraternitas tua una cum fratre nostro et coepi-scopo nostro Armenio,
+            suprascriptae ecclesiae Anchonitanae uisitatore, illuc festinet accedere, et diligenter
+            de uitaac moribus singulorum requirere, si nullos sintcrimine conscii, quod eos ad hoc
+            offitium uetet accedere.Pariter etiam requirendum est, si hoc, quod de prefato
+            archidiacono dictum est, quia numquam amicus domum eiusingressus est, ita se ueritas
+            habet, et utrum ex necessitate, an ex tenacia talis sit; aut si ita senex est, ut
+            adregendum non possit assurgere, uel si tactis sacrosanctiseuangeliis (sicut nobis
+            nunciatum est) iusiurandum pre-buerit, numquam se ad episcopatum accedere. Sed etde
+            Rustico diacono quantos psalmos minus tenet scrutandum est. Florentino autem diacono
+            Rauennati, sinullum, sicut diximus, crimen est, quod obsistat, apud episcopum eius
+            necesse est, agere ut ei debeat concessionem concedere; non tamen ex nostro mandato uel
+            edicto, ne contra suam uoluntatem eum concederep uideatur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

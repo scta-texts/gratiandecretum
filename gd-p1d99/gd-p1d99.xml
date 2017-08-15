@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XCIX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XCIX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d99">
+        <head>DISTINCTIO XCIX.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. De primatibus autem {quorum supra mentionem fecimus) queritur, quem gradum in
+          ecclesia obtineant? an inaliquo a patriarchis differant? quam obedientiam archiepiscopieis
+          debeant ? Primates et patriarchae diuersorum sunt nominum,sed eiusdem offitii. Ab
+          archiepiscopis, quotiens necesse fuerit,episcopi ad primates appellant, sed a primatibus
+          ad archiepiscopos appellari non licet. Debent quoque obedientiam primatibus archiepiscopi
+          in omnibus, que sibi ab eis fuerint iusteinperata.</p>
+        <p>Unde Anacletus Papa ait [ad Episcopos Italiae, epist. II.]*</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Que obedientia sit exhibenda primatibus. Prouintiae multo
+            ante Christi aduentum tempore diui-sae sunt maxima ex parte, et postea ab apostolis et
+            B. Cle-mente predecessore nostro ipsa diuisio est renouata. Et incapite prouintiarum,
+            ubi dudum primates erant legis se-culi ac prima iudiciaria potestas, ad quos, qui per
+            reliquasduitates commorabantur, quando eis necesse erat, quiad aulam inperatorum uel
+            regum confugere non poterant uel quibus permissum non erat, confugiebant
+            proobpressionibus uel iniusticiis suis, ipsosque appellabantquotiens opus erat, sicut in
+            lege eorum preceptum erat,ipsis quoque in ciuitatibus uel locis nostris patriarchasuel
+            primates, qui unam formam tenent, licet diuersa sint nomina, leges diuinae et
+            ecclesiasticae poni et esse iusserunt,ad quos episcopi, si necesse fuerit, confugerent
+            eosqueappellarent, et ipsi primatum nomine fruerentur. Reliquae uero metropolitanae
+            ciuitates, que minores iudiceshabebant (licet maiores comitibus essent) haberent
+            metropolitanos suos, qui predictis iuste obedirent primatibus,sicut et in legibus seculi
+            olim ordinatum erat, qui nonprimatum, sed aut metropolitanorum, aut
+            archiepiscoporumnomine fruerentur.•</head>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Aon uocentur primates, nisi qui primas sedes tenent.</head>
+          <p>Item Ani ce tu s [ad Episcopos Galliae].</p>
+          <p>II. Pars. Nulli archiepiscopi primates uocentur, nisiilli, qui primas sedes tenent,
+            quarum episcopos apostolieorumque successores regulariter patriarchas uel primates esse
+            constituerunt, nisi aliqua gens deinceps adfidem conuertatur, cui necesse sit pre
+            multitudine primatem constitui. Reliqui metropolitani nominentur, quialias metropoles
+            tenent.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Princeps summus sacerdotum non appelletur primae sedis
+            episcopus .</head>
+          <p>Item ex Concilio Affricano, [c. 6.]Primae sedis episcopus non appelletur princeps
+            sacer-</p>
+          <p>dotum, aut summus sacerdos, aut aliquid huiusmodi, sed tantum primae sedis
+            episcopus.</p>
+          <p>II. Pars. Uniuersalis autem nec etiam Romanus Pontifex appelletur.</p>
+          <p>Unde Pelagius Papa omnibus Episcopis :</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Nec etiam Romanus Pontifex uniuersalis est
+            appellandus.</head>
+          <p>Nullus patriarcharum uocabulo uniuersalitatis umquam utatur, quia, si unus patriarcha
+            uniuersalis dicitur, patriarcharum nomen ceteris derogatur. Sed absit hoc a fidelibus,
+            hoc sibi quempiam uelle arripere, unde honoremfratrum suorum imminuere ex quantulacumque
+            parte uideatur. Quapropter karitas uestra neminem umquam suis inepistolis uniuersalem
+            nominet, ne sibi debitum subtrahat,cum alteri honorem offert indebitum.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Gregorius Eu logio Patriarchae Alexandrino,</p>
+          <p>[lib. VII. epist. 30. Indict. i.]*</p>
+          <p>Ecce in prefatione epistolae, quam ad me ipsum, qui prohibui, direxistis, superbae
+            appellationis uerbum, uniuersalem me Papam dicens, inprimere curastis. Quodpeto mihi
+            dulcissima sanctitas uestra ultra non faciat, quiauobis subtrahitur, quod alteri plus
+            quam ratio exigit pre-betur. Ego non uerbis quero prosperari, sed moribus,nec honorem
+            esse deputo, in quo fratres meos honoremsuum perdere cognosco. Meus namque est honor
+            uniuersalis ecclesiae, meus honor est fratrum meorum solidusuigor. Tunc ego honoratus
+            sum, cum singulis quibusque honor debitus non negatur. Si enim uniuersalem mePapam
+            uestra sanctitas dicit, negat se hoc esse, quod mefatetur uniuersum. Sed ‘absit hoc,
+            recedant uerba, queunitatem inflant, karitatem uulnerant.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

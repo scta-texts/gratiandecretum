@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO VII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO VII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d7">
+        <head>DISTINCTIO VII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Ius autem constitutionis cepit a iustificaiioni-bus, quas Dominus tradidit Moisi
+          dicens: „Si emeris seruum ebreum etc.</p>
+        <p>Unde Ysidorus in libro V. Ethim. [c. 1.] ait:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">De conditoribus legum.</head>
+          <p>Moises gentis Hebreae primus omnium diuinas leges sacris literis explicauit. Foroneus
+            rex Grecis primus leges iudiciaque constituit. Mercurius Trismegistus primus leges
+            Egiptiis tradidit. Solon primus leges Atheniensibus edidit. Licurgus primus Lacedemoniis
+            iura ex Apollinis auctoritate confinxit. Numa Pompilius, qui Romulo successit in regno,
+            primus leges Romanis edidit. Deinde cum populus seditiosos magistratus terre non posset,
+            decemuiros legibus scribendis creauit, qui leges ex libris Solonis in latinum sermonem
+            translatas XII. tabulis exposuerunt.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Nomina eorum, qui leges XII. tabularum exposuerunt.</head>
+          <p>[Isidor. ibidem continenter.]</p>
+          <p>Fuerunt autem hi App. Claudius, Genutius, Sextius, Veturius, Iulius, Manlius,
+            Sulpitius, Curiatius, Romilius, Posthumius. Hi decemuiri legum conscribendarum electi
+            sunt. Leges autem redigere in libris primus consul Pompeius instituere uoluit, sed non
+            perseuerauit obtrectatorum metu. Deinde Cesar cepit id facere, sed ante interfectus est.
+            Paulatim autem antiquae leges uetustate atque incuria obsoleuerunt, quarum etsi iam
+            nullus est usus, notitia tamen necessaria uidetur. Novae a Constantino Cesare ceperunt
+            et reliquis succedentibus, erantque permixtae et inordinatae. Postea Theodosius minor
+            Augustus ad similitudinem Gregoriani et Ermogeniani codicem factum constitutionum a
+            Constantini temporibus sub proprio cuiusque imperatoris titulo disposuit, quem a suo
+            nomine Theodosianum uocauit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

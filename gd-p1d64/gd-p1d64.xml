@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXIV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXIV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d64">
+        <head>DISTINCTIO LXIV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars, Hinc considerandum est, a quibus uel quo temporesacri ordines sint distribuendi,
+          uel quibus in locis patriarchae,primates, archiepiscopi, episcopi, corepiscopi et reliqui
+          sacerdotessint ordinandi. A quibus ordinentur episcopi, in Ni ceno Concilio diffinitum
+          est, in quo sic legitur, [c. 4.] </p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Ab omnibus conprouincialibus episcopi ordinentur.</head>
+          <p>Episcopi ab omnibus, qui sunt in sua prouincia, debent ordinari. Si uero hoc difficile
+            fuerit, uel urgentenecessitate, uel itineris longitudine, tres episcopi debentin unum
+            congregari, ita ut ceterorum, qui absentes sunt,consensum litteris teneant. Potestas
+            sane uel confirmatio pertinebit per singulas prouincia ad metropolitanum episcopum.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item AnacletusPapa [ad Episcopos Italiae, epist. II.] Ordinationes episcoporum
+            auctoritate apostolica abomnibus, qui in eadem prouincia sunt, episcopis celebrandae
+            sunt. §. i. Quod si omnes simul minime conuenirepotuerint, assensum tamen suis prebeant
+            precibus*,ut ab ipsa ordinatione animo non desint.</p>
+          <p>[PALE A.'</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Ex Concilio Arausicano I. c, 21.*De * abiectione eius, quem
+            duo presumpserint ordinare</head>
+          <p>episcopi in nostris prouinciis, placuit de presumptoribus, ut sicubi contigerit duos
+            episcopos tertium ordinare, etipse**, et auctores dampnabuntur, quo cautius ea, quesunt
+            antiquitus instituta, seruentur.]</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Ceteris^ assentientibus^* cum&amp; trifms conprouincialibus
+            ordinetur episcopus.</head>
+          <p>Item Anicius Papa [in epistola ad Episcopos Galliae.] Conprouinciales episcopi, si
+            necesse fuerit, ceteris consentientibus a tribus episcopis iussu archiepiscopi
+            consecraripossunt.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Non ordinetur episcopus extra conscientiam
+            metropolitani.,</head>
+          <p>Item Innocentius [Papa ad Victricium Episcopum Rothomagensem epist. II. c. i.]Extra
+            conscientiam metropolitani nullus audeat ordinare episcopum. Integrum enim est iudicium,
+            quod plurimorum sentenciis confirmatur. Nec unus episcopus presumatordinare episcopum,
+            ne furtiuum beneficium prestitumuideatur. Hoc enim et sinodus Nycena constituit
+            atqueconstituendo diffiniuit.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Episcopi a suo metropolitano, et ipse ab
+            eisdemconsecretur.</head>
+          <p>Item Gelasius*^ uniuersis episcopis* per Dardaniam*^ .</p>
+          <p>II. Pars. Quia per ambitiones illicitas non pudet quosdam ecclesiarum iura turbare, ac
+            priuilegia, que metropoli-</p>
+          <p>tanis uel prouincialibus episcopis decreuit antiquitas, temeraria presumptione
+            peruadere, propter quod etiamcommunionis apostolicae desiderant tenere dissidium,quod
+            scilicet ab eius auctoritate diuisi uel inpune proprias usurpationes exerceant, non
+            respicientes, quia eternoiudici rationem tam de catholicae sinceritatis iniuria, quamde
+            traditionum preiudiciis paternarum non sine perpetuaesint dampnationis interitu
+            reddituri, $i in hac obstinationepermanserint, karitatem uestram duximus instruendam,ut
+            uos omnes in commune fratres, per Dardaniam, siueper contiguam quamque prouinciam
+            constituti, qui uos submetropolitanis uestris esse meministis, et ab eisdem substitui
+            decernentes, sicut uetus consuetudo deposcit,unanimiter studeatis antistites, et
+            uicissim, si metropolitanus humanae condicionis sorte recesserit, a conpro-uincialibus
+            episcopis, sicut forma transmisit, sacrari omnibusmodis censeatis, neque &amp; sibi quod
+            uobis antiqua dispositione concessum est patiamini uendicare; quatinus et interipsas
+            aduersantium uoluntatum procellas ueterum regulasnullatenus custodire cessetis, sicut
+            persecutionum temporediuersarum Patres nostros constanter fecisse non dubium est.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Martini Papae.</p>
+          <p>III. Pars. Episcopum oportet maxime quidem abomni concilio constitui. Sed si hoc aut
+            pro necessitate,aut pro longinquitate itineris difficile fuerit, ex omnibus
+            trescolligantur, et omnium presentium uel absentium subscriptiones teneantur, et sic
+            postea ordinatio fiat. §. i. Huiusautem rei potestas in omni prouincia ad
+            metropolitanumpertinet episcopum.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Non erit episcopus, qui preter metropolitani conscientiam
+            fuerit ordinatus.</head>
+          <p>Item ex Concilio Ni ceno [I. cap. 6.] </p>
+          <p>Illud generaliter est clarum, quod, si quis preter sentenciam metropolitani factus
+            fuerit episcopus, hunc magna sinodus diffiniuit episcopum esse non oportere.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

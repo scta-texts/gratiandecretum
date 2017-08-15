@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO CXVI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO CXVI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d96">
+        <head>DISTINCTIO CXVI.</head>
+        <p>GRATIANUS.</p>
+        <p>Illud autem Honorii Augusti, quod de electione summi Pontificis supra constituisse
+          legitur, nullius momenti esse probatur, cum non solum de ordinibus, sed nec etiam de rebus
+          ecclesiasticislaicis legatur aliquando attributa disponendi facultas. Undequecumque a
+          principibus in ordinibus uel in ecclesiasticis rebusdecreta inueniuntur, nullius
+          auctoritatis esse monstrantur.</p>
+        <p>Unde Sim acus Episcopus catholicae ecclesiae urbis Romae in Sinodo residens dixit:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. De rebus ecclesiasticis disponendis laicis nulla ' facultas
+            relinquitur.</head>
+          <p>Bene quidem fraternitas uestra ecclesiasticis legibus assecuta, sub diuini timore
+            iudicii que erant statuenda dif-finiuit, et ad iusticiae cumulum peruenit, cum
+            sufficienteruniuersa conplectitur, nec adiectione indiget plenitudo,maxime de clericis,
+            quos amor dominacionis inuasit, etiugum disciplinae ecclesiasticae fecit respuere. §. i.
+            Quorum excessus enarrare difficile est: unum tamen, quod occurrit, uenerando ordini
+            uestro intimare non differo. Interalia, scripturam quandam illustris memoriae Basilium
+            quasipro ecclesiasticae amore substantiae conscripsisse refero,in qua nullus Romanae
+            ecclesiae interfuit s, uel subscripsit antistes, per quem potuisset sortiri legitimam
+            firmitatem. Ne ' ergo disputem inde, unde potest uestrumiudicare concilium requiratur,
+            et referatur in medium, utex lectione agnoscatis, cuiusmodi possit habere substantiam.
+            Sancta sinodus respondit: „Deferatur in medium, utcuiusmodi sit possit agnosci.“ Hec cum
+            diceret, Or-misda diaconus recitauit: ,,Cum in Mausoleo*, quod estapud B. Petrum
+            apostolum, resedisset sublimis eteminentis simus uir prefectus pretorio atque patricius,
+            agensetiam uices precellentissimi regis Odoacris, Basilius, dixit ;„ Quamquam studii
+            uestri et religionis intersit, ut in electione episcopatus concordia principaliter
+            seruetur ecclesiae, ne per occasionem electionisp status ciuitatisuocetur in dubium,
+            admonitione beatissimi uiri Papae nostri Simaci Simplicii, quam ante oculos semper
+            haberedebemus, hoc nobis meministis sub obtestacione fuisse mandatum, ut propter illum
+            strepitum et detrimentum ecclesiaeuenerabilis, si eum de hac luce contigerit transire,
+            non sineconsultacione nostra cuiuslibet celebretur electio.“ Hec cumlegereti, Cresconius
+            Tudertinae ciuitatis episcopussurgens e consessu dixit: „Hic perpendat sancta sinodus,
+            utrum pretermissis personis religiosis, quibusmaxime cura est de tanto Pontifice,
+            electionem eiusin suam possint redigere potestatem, quod contra canonesesse manifestum
+            est.“ Item Ormisda diaconus legit: „Acne confusionis atque dispendii aliquid
+            uenerabilisecclesia sustineret, miramur, pretermissis quicquam nobisfuissey temptatum,
+            cum sacerdote nostro superstitenichil debuisset assumi. Quare si amplitudini uestraeuel
+            sanctitati placet, incolumia omnia, que ad futuri antisti-stis electionem respiciunt,
+            religiosa ueneratione seruemus,hanc legem specialiter preferentes, quam nobis
+            heredibusquenostris Christianae mentis deuotione sancimus: ne umquampredium, siue
+            rusticum, siue urbanum, uel ornamenta, autministeria que nunc sunt ecclesiarum, uel que
+            ex quibuslibet titulis ecclesiarum iure peruenerint, ab eo, quinunc antistes sub
+            electione communi fuerit ordinandus, etillis, qui futuris seculis sequuntur, quocumque
+            tituloaut commento alienari liceat. Et quicumque hoc</p>
+          <p>facere uoluerit, inefficax atque irritum iudicetur, sitque facienti, consentientise
+            accipientique anathema.“ §. 2.Maximus episcopus Bleranae ecclesiae dixit: „Modo
+            sanctasinodus dignetur edicere, si licuit laico homini anathema inordinem ecclesiasticum
+            dictare, aut si laicus potuit sacerdoti anathema dicere, et contra canones quod ei non
+            con-petebat constituere? Dicite, quid uobis uidetur? De melicuit laico legem dare?“
+            Sancta sinodus dixit: „Non licuit,“et adiecit: „Lege sequentia.“ Ormisda diaconus
+            legit:„Et is, qui predium seu rusticum uel urbanum iurisecclesiastici fuerit consecutus,
+            nouerit se nulla lege uelprescriptione munitum; sed siue is, qui alienauerit, siue
+            quieum sequens", uoluntate contraria predium huiusmodialienatum retinere ** temptauerit,
+            id cum fructibusrestituat, qui illud fuerit consecutus.“ §. 3. Heccum legeret, Stephanus
+            Venusinae ecclesiae episcopus sur-gens e consessu dixit: „Perlegatur/ Hormisda diaconus
+            legit: „Qua etiam pena*** placuit accipientisetiam heredes afficere. In qua re cuilibet
+            clericorum nulla ppcontradicendi libera sit facultas. Iniquum est enim et sacrilegii
+            instar, ut que pro^ salute et requie animarum suarum unusquisque uenerabili ecclesiae
+            pauperumcausa contulerit aut certe reliquerit, ab his, quos maxime “ seruare conuenerat,
+            in alterum transferantur. Planequecumque in gemmis, uel auro siue argento, nec nonet
+            uestibus minus apta usibus uel ornatui uidebuntur ecclesiae, que seruari ac diu manere
+            non possunt, sub iustaestimatione uendantur, et erogatio religioni proficiat.“§. 4.
+            Cumque lecta fuisset, Laurentius episcopus Mediolanensis ecclesiae dixit: ,,Ista
+            scriptura nullum Romanaeciuitatis potuit obligare Pontificem, quia non licuit laicis
+            statuendi in ecclesia preter Romanum Papam haberealiquam potestatem: quos obsequendi
+            manetnecessitas,non auctoritas inperandi, maxime cum nec Papa Romanussubscripserit, nec
+            alicuius secundum canones metropolitanilegatur assensus.“ §. 5. Petrus episcopus
+            Rauennatis ecclesiae dixit: „Scripturam, que in nostra congregationeuulgata est, nullas
+            uires habere yy manifestum est, quia neccanonibus conuenit, et a laica persona concepta
+            uidetur,maxime quia in ea nullus presul sedis apostolicae interfuisse,uel propria
+            subscriptione eam confirmasse monstra-tur. §. 6. Eulalius episcopus Siracusanae
+            ecclesiae dixit:„ Scripturam, que in sacerdotali concilio recitata est, eui-dentissimis
+            documentis constat inualidam: primum,quod contra Patrum regulas a laicis, quamuis
+            religiosis(quibus nulla de ecclesiasticis facultatibus aliquid disponendi legitur umquam
+            attributa facultas), facta uidetur;deinde quod nullius presulis apostolicae sedis
+            subscriptionefirmata docetur. Quod si cuiuslibet prouinciae sacerdotesintra suos
+            terminos concilio habito quicquid sine metropolitani sui auctoritate traq!auerint,
+            irritum esse deberesancti Patres sanxerunt,'quanto magis quod in apostolicasede, nunc
+            extante presule (qui, merito B. Petriapostoli per uniuersum orbem primatum obtinens
+            sacerdotii,statutis sinodalibus consueuit tribuere firmitatem) a laicis(licet
+            consentientibus aliquantis episcopis, qui tamen Pontifici, a quo consecrati probantur,
+            preiudicium inferre nonpotuerunt) presumptum fuisse cognoscitur, uiribus carerenon
+            dubium est, nec posse inter ecclesiastica ullo modostatuta censeri?“ §. 7. Sancta
+            sinodus dixit: „Licetsecundum prosecutionem uenerabilium fratrum nostrorum,Laurentii,
+            Petri, Eulalii, Cresconii, Maximi, uel Stephani,nec apud nos incertum habetur, hanc
+            ipsam scripturamnullius esse momenti, uerumtamen etiamsi aliqua possit i05eee tine
+            subsistere, modis omnibus in sinodali con-uentu prouida beatitudinis uestrae sententia
+            eneruari con-ueniebat et in irritum deduci, ne in exemplo remaneretpresumendi
+            quibuslibet laicis, quamuis religiosis, uel potentibus, in quacumque ciuitate quolibet
+            modo aliquid decernerede ecclesiasticis facultatibus, quarum solis sacerdotibus
+            disponendi indiscusse a Deo cura commissa docetur.“</p>
+          <p>Unde in sexta actione Calcedonensis Concilii Martianus Inperator dixit inter
+            cetera:</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Inperatores ad fidem confirmandam, non potenciam ostendendam
+            Sinodo interesse debent.</head>
+          <p>Nos ad fidem confirmandam, non ad potenciamostendendam exemplo religiosissimi principis
+            Constantini Sinodo interesse uolumus, ut inuenta ueritatenon ultra multitudo prauis
+            doctrinis attracta discordet.</p>
+          <p>[C. III.]</p>
+          <p>Item in eadem, [VI. actione, in fine].</p>
+          <p>Quedam capitula sunt, que ad honorem uestrae re-uerentiae uobis seruauimus, decorum
+            esse iudicantes, a uobis hec regulariter firmari potius per sinodum, quamnostra lege
+            sanciri.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Sinodali conuentui inperatores interesse non conuenit, nisi
+            ubi de fide agitur.</head>
+          <p>Item Nicolaus Papa [in epistola ad Michaelem Imp. que incipit: „Proposueramus."]Ubinam
+            legistis, inperatores antecessores uestrossinodalibus conuentibus interfuisse, nisi
+            forsitan inquibus de fide tractatum est, que uniuersalis est, queomnium communis est,
+            que non solum ad clericos, uerumetiam ad laicos et ad omnes omnino pertinet
+            Christianos?</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. De presulibus diuinarum rerum, qui humanis rebuspresunt
+            iudicare non possunt.</head>
+          <p>Idem [in eadem epistola].</p>
+          <p>Denique hi, quibus tantum humanis rebus, et non diuinis preesse permissum est, quomodo
+            de his, per quos diuinaministrantur, iudicare presumant, penitus ignoramus.</p>
+          <div> </div>
+          <div>
+            <head>C. VI</head>
+            <head type="question-title">. Nec inperator iura Pontificis, nec Pontifex iura regia
+              usurpet.</head>
+            <p>Idem [paulo inferius].</p>
+            <p>Cum ad uerum* uentum est, ultra sibi nec inperator iura Pontificatus arripuit, nec
+              Pontifex nomen inperato-rium usurpauit, quoniam idem mediator Dei et hominum,homo
+              Christus Iesus, actibus propriis et dignitatibusdistinctis offitia potestatis
+              utriusque discreuit, propria uolensmedicinali humilitate sursum efferri, non humana
+              superbiarursum in inferno demergi, ut et Christiani inperatorespro eterna uita
+              Pontificibus indigerent, et Pontifices procursu temporalium tantummodo rerum
+              inperialibus legibusuterentur, quatinus spiritualis actio a carnalibus
+              distaretincursibus, et Deo militans minime se negociis secularibus inplicaret, ac
+              uicissim non ille rebus diuinis presidereuideretur, qui es set negociis secularibus
+              inplicatus.</p>
+          </div>
+          <div>
+            <head>C. VII</head>
+            <head type="question-title">. A seculari potestate Pontifex prorsus nec solui nec ligari
+              ualet.</head>
+            <p>Idem [in eadem, paucis interiectis].</p>
+            <p>Satis euidenter ostenditur, a seculari potestate nec solui prorsus, nec ligari
+              Pontificem, quem constat a pioprincipe Constantino (quem longe superius memoraui-mus)
+              Deum appellatum, cum nec posse Deum abhominibus iudicari manifestum sit. Sed et
+              Theodosiusminor* sanctae Sinodo scribens dixit Ephesinae primae:„Deputatus est igitur
+              Candidianus, magnificentissimuscomes strenuorum domesticorum, transire usque ad
+              sanctissimam sinodum uestram, et in nullo quidem, que faciendae sunt de piis
+              dogmatibus questiones seu potius expositiones, communicare. Illicitum namque est eum,
+              quinon sit in s ordine sanctissimorum episcoporum, ecclesiasticis intermisceri
+              tractatibus/* (Et post pauca:) §. i.His itaque manifestis repertis, aparet
+              conministrumIgnatium per inperialem tantummodo sententiam nullo modopotuisse prorsus
+              expelli. In cuius dampnatione quia pre-sulum quoque assensus est subsecutus, aparet
+              fuissepatratum id causa adulationis, non legitimae sanctionis.</p>
+          </div>
+          <div>
+            <head>C. VIII</head>
+            <head type="question-title">. Facta Pontificum inperator iudicare non debet.</head>
+            <p>Idem Lodouico Inperatori.</p>
+            <p>In scripturis narratur Constantinus inperator dixisse: ,,Vere si propriis oculis
+              uidissem sacerdotem Dei, autaliquem eorum, qui monachico habitu circumamicti
+              sunt,peccantem, clamidem meam explicarem et cooperiremeum, ne ab aliquo uideretur/* In
+              quibus igitur, deside-</p>
+          </div>
+          <p>rantissime fili, necessario commonemini, ut quemadmodum fide et religione ac honoris
+            parilitate ei adequari uidemini, ita quoque humilitate atque deuotione
+            equipararinichilominus anheletis, ita ut in nullo inferior eo, sed potiorinueniamini
+            post exempla, qui talem se exhibuit antetalia prorsus exempla. Sed hec quidem
+            diximus,cautos uos reddere cupientes, ut si de Domini sacerdotibus, qui iure patres
+            dicuntur, aliquid contigerit uos audire,quod confusionem piis mentibus ingerat, non
+            infronitum,sed pudoratos filios Noe imitantes, patriam s de reliquouerecundiam
+            contegatis, ut affluenti, quemadmodum et illi,benedictione repleri moderante Domino
+            mereamini.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Regum et principum patres et magistri sacerdotes
+            censentur.</head>
+          <p>Item ex epistola Gregorii [VII.] ad Hermannum Metensem Episcopum, [lib. VIII. epist.
+            2i.]Quis dubitet sacerdotes Christi regum et principumomniumque fidelium patres et
+            magistros censeri? Nonnemiserabilis insaniae esse cognoscitur, si filius
+            patrem,discipulus magistrum sibi conetur subiugare, et iniquisobligationibus illum suae
+            potestati subicere, a quo creditnon solum in terra, sed etiam in celis se ligari posse
+            et solui?</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Auctoritas sacra Pontificum et regalis potestas huius mundi
+            gubernacula regit™*.</head>
+          <p>Item Gelasius Papa Anastasio Inperatori.</p>
+          <p>Duo sunt* quippe, inperator auguste, quibus principaliter hic mundus regitur:
+            auctoritas sacra Pontificum, et regalis potestas. In quibus tanto grauius est
+            pondussacerdotum, quanto etiam pro ipsis regibus hominum indiuino sunt reddituri examine
+            rationem. Et post pauca :§. i. Nosti itaque inter hec ex illorum te pendereiudicio, non
+            illos ad tuam posse redigi uoluntatem.§. 2. Talibus igitur institutis, talibusque fulti
+            auctoritatibus plerique Pontificum, alii reges, alii inperatores excom-municauerunt °.
+            Nam si speciale aliquod de personisprincipum requiratur exemplum, B. Innocentius Papa
+            Archa-dium inperatorem (quia consensit, ut S. Iohannes Criso-stomus a sua sede
+            pelleretur), excommunicauit**. B.etiam Ambrosius, licet sanctus, non tamen
+            uniuersalisecclesiae episcopus, pro culpa, que aliis sacerdotibus nonadeo grauis
+            uidebatur, Theodosium Magnum inperatoremexcommunicans ab ecclesia exclusit; qui etiam in
+            suisscriptis ostendit, quod aurum non tam pretiosius sit plumbo,quam regia potestate sit
+            altior ordo sacerdotalis, hocmodo circa principium sui pastoralis scribens: „Honor,</p>
+          <p>fratres, et sublimitas episcopalis nullis poterit conparationi-bus adequari. Si regum
+            fulgori conpares et principum diademati, longe erit inferius, quam si plumbi metallum
+            adauri fulgorem conpares, quippe cum uideas regum colla etprincipum submitti genibus
+            sacerdotum, et osculata eorumdextera, orationibus eorum credant se communicari.“</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Inperatores debent Pontificibus subesse, non preesse.</head>
+          <p>Item Iohannes.</p>
+          <p>Si inperator catholicus est (quod salua pace ipsius dixerimus) filius est, non presul
+            ecclesiae; quod ad religionem conpetit discere ei conuenit, inon docere; habet
+            priuilegia potestatis suae, que administrandis legibus publicisdiuinitus consecutus est,
+            et eius beneficiis non ingratuscontra dispositionem celestis ordinis nil usurpet. Ad
+            sacerdotes enim Deus uoluit que ecclesiae sunt disponendapertinere, non ad seculi
+            potestates, quas, si fideles sunt,ecclesiae suae sacerdotibus uoluit esse subiectas.
+            Nonsibi uendicet alienum ius, et ministerium, quod alteri deputatum est, ne contra eum
+            tendat abrumpi, a quo omniaconstituta sunt, et contra illius beneficia pugnare
+            uideatur,a quo propriam consecutus est potestatem. Non a legibus publicis, non a
+            potestatibus seculi, sed a pontificibus etsacerdotibus omnipotens Deus Christianae
+            religionis clericoset sacerdotes uoluit ordinari, et discuti et recipi de
+            erroreremeantes. Inperatores Christiani subdere debent execu-tiones suas ecclesiasticis
+            presulibus, non preferre.</p>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Gelas ius ad Episcopos orientales.</p>
+          <p>Numquam de pontificibus nisi ecclesiam iudicasse;</p>
+          <p>non esse humanarum legum de talibus ferre sententiam absque ecclesiae principaliter
+            constitutis pontificibus; obsequi solere principes Christianos decretis ecclesiae, non
+            suampreponere potestatem; episcopis caput subdere principemsolitum, non de eorum
+            capitibus iudicare.]</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Constantinus inperator coronam, et omnem regiam dignitatem in urbe Romana, et in
+            Italia, et in partibus occidentalibus Apostolico concessit. Nam in gestis B. Siluestri
+            (que B. Papa Gelasius in concilio LXX. episcoporum acatholicis legi commemorat, et pro
+            antiquo usu multashoc imitari dicit ecclesias) ita legitur:]</p>
+          <p>[PALEA*.</p>
+        </div>
+        <div>
+          <head>C. XIV</head>
+          <head type="question-title">. De eodem. '</head>
+          <p>Constantinus** inperator quarta die sui baptismi priuilegium Romanae ecclesiae
+            Pontifici contulit, ut in totoorbe Romano sacerdotes ita hunc caput habeant,
+            sicutiudices regem. In eo priuilegio ita inter cetera legitur:„Utile*** iudicauimus una
+            cum omnibus satrapis nostris,et uniuerso senatu optimatibusque meis, etiam et
+            cunctopopulo Romanae gloriae inperio subiacenti, ut sicut B.Petrus in terris uicarius
+            Filii Dei esse uidetur constitutus,ita et Pontifices, qui ipsius principis apostolorum
+            gerunt uices, principatus potestatem amplius quam terrena inperialis nostrae serenitatis
+            mansuetudo habereuidetur, concessam a nobis nostroque inperio obtineant,eligentes nobis
+            ipsum principem apostolorum uel eiusuicarios firmos apud Deum esse patronos. Et
+            sicut</p>
+          <p>nostram terrenam inperialem potentiam, sic eius sacrosanctam Romanam ecclesiam
+            decreuimus ueneranter honorari, et amplius quam nostrum inperium et terrenumthronum
+            sedem sacratissimam B. Petri gloriose exaltari,tribuentes ei potestatem, et gloriae
+            dignitatem atqueuigorem, et honorificentiam inperialem. Atque decernentessancimus, ut
+            principatum teneat tam super quatuor pre-cipuas sedes, Alexandrinam, Antiocenam,
+            Ierosolimi-tanam, Constantinopolitanam, quam etiam super omnesin uniuerso orbe
+            terrarum*ecclesias Dei, et Pontifex,qui pro tempore ipsius sacrosanctae Romanae
+            ecclesiaeextiterit, celsior et princeps cunctis sacerdotibus totiusmundi existat, et
+            eius iudicio queque ad cultum Dei uelfidei Christianorum stabilitatem procuranda fuerint
+            disponantur. Et infra: §. i. Ecclesiis beatorum apostolorumPetri et Pauli pro
+            continuatione luminariorum possessionum predia contulimus, et rebus diuersis eas
+            aitauimus,et per nostram inperialem iussionem sacram tam in oriente,quam in occidente,
+            uel etiam septentrionali et meridianaplaga, uidelicet in Iudea, Grecia, Asia, Thracia,
+            Affrica etItalia, uel diuersis insulis, nostra largitate ei concessimus,ea prorsus
+            ratione, ut per manus beatissimi patris nostri Siluestri summi Pontificis successorumque
+            eius omnia disponantur. Et infra: §. 2. Beato Siluestro Patri nostro,summo Pontifici et
+            uniuersalis urbis Romae Papae, etomnibus, eius successoribus Pontificibus, qui usque
+            infinem mundi in sede B. Petri erunt sessuri, de presenticontradimus palatium inperii
+            nostri Lateranense,deinde diadema, uidelicet coronam capitis nostri, simulquefrigium,
+            hec non et superhumerale, uidelicet lorum,quod inperiale circumdare assolet collum;
+            uerum etiamet clamidem purpuream, atque tunicam coccineam, etomnia inperialia indumenta;
+            sed et dignitatem inperia-liumpresidentium equitum****, conferentes etiametinperialia
+            sceptra, simulque cuncta signa, atquebanda, et diuersa ornamenta inperialia, et
+            omnemprocessionem inperialis culminis et gloriam potestatisnostrae. §. 3. Viris autem
+            reuerentissimis clericis indiuersis ordinibus eidem sacrosanctae Romanae ecclesiae
+            seruientibus illud culmen singularitate, potentia et pre-cellentia habere sancimus,
+            cuius amplissimus nostersenatus uidetur gloria adornari, id est patricios +
+            atqueconsules effici, nec non et ceteris dignitatibus inperiali-bus eos promulgamus
+            decorari. Et sicut inperialismilicia ornatur, ita et clerum sanctae Romanae ecclesiae
+            ornari decernimus. Et quemadmodum inperalispotentia offitiis diuersis, cubiculariorum
+            nempe, et ostiariorum, atque omnium excubitorum ornatur, ita et sanctamRomanam ecclesiam
+            decorari uolumus. Et ut amplissimepontificale decus prefulgeat, decernimus et hoc,
+            clericorum eiusdem sanctae Romanae ecclesiae manipulis etlinteaminibus, id est
+            candidissimo colore, decorari equos,ita et equitare. Et sicut noster senatus
+            calciamentis utiturcum udonibus ++, id est candido linteamine illustratis,sic utantur et
+            clerici, ut sicut celestia, ita et terrena adlaudem Dei decorentur. §. 4. Pre omnibus
+            autem licentiamtribuimus ipsi sanctissimo Patri nostro Siluestro etsuccessoribus eius ex
+            nostro indicto, ut quem placatus fft proprio consilio clericare uoluerit, et in
+            religiosorum numero clericorum connumerare, nullus ex omnibus presumat superbe agere, j.
+            Decreuimus itaqueet hoc, ut" ipse et successores eius diademate, uidelicetcorona, quam
+            ex capite nostro illi concessimus, ex auropurissimo et gemmis pretiosis uti debeant, et
+            in capite adlaudem Dei pro honore B. Petri gestare. Ipse uerobeatissimus Papa, quia
+            super coronam clericatus , quamgerit ad gloriam B. Petri, omnino ipsa ex auro non
+            estpassus uti corona, nos frigium candido nitore splendidum, resurrectionem dominicam
+            designans, eius sacratissimo uertici manibus nostris inposuimus, et tenentesfrenum equi
+            ipsius pro reuerentia B. Petri stratorisoffitium illi exhibuimus, statuentes eodem
+            frigio omnes eiussuccessores singulariter uti in processionibus ad imitationeminperii
+            nostri. §. 6. Unde ut pontificalis apex nonuilescat, sed magis quam terreni inperii
+            dignitas gloriaet potentia decoretur, ecce tam palatium nostrum, utpredictum est, quam
+            Romanam urbem, et omnesItaliae seu occidentalium regionum prouincias, loca et ciui-</p>
+          <p>tates prefato beatissimo Pontifici nostro Siluestro uniuersali Papae contradimus atque
+            relinquimus, et abeo et a successoribus eius per hanc diualem nostram etpragmaticum
+            constitutum decernimus disponenda, atqueiuri sanctae Romanae ecclesiae concedimus
+            permansura. §. 7. Unde congruum perspeximus nostruminperium et regni potestatem in
+            orientalibus transferriregionibus, et in Bizantiae prouinciae optimo loconomini nostro
+            ciuitatem edificari, et nostrum illic constituiinperium, quoniam ubi principatus
+            sacerdotum et Christianaereligionis caput ab inperatore celesti constitutum est,
+            iustumnon est, ut illic inperator terrenus habeat potestatem.§. 8. Hec uero omnia+tff,
+            que per hanc nostram inperia-lem sacram, et per alia diualia decreta statuimus
+            atqueconfirmauimus, usque in finem mundi illibata et inconcussa permanere decernimus.
+            Unde coram Deouiuo, qui nos regnare precepit, et coram terribili eius iudicioobtestamur
+            per hoc nostrum inperiale constitutumomnes nostros successores inperatores, uel cunctos
+            optimates, satrapas etiam, amplissimum senatum, et uniuer-sum populum in toto orbe
+            terrarum nunc et in posterumcunctis retro temporibus inperio nostro subiacentem,nulli
+            eorum quoquo modo licere hec aut infringere,aut in quoquam conuellere. Si quis autem,
+            quod noncredimus, in hoc temerator aut contemptor extiterit,eternis condempnationibus
+            subiaceat innodatus, et sanctosDei, principes apostolorum Petrum et Paulum sibi in
+            presenti et in futura uita sentiat contrarios, atque in infernoinferiori concrematus cum
+            diabolo et omnibus deficiatinpiis. Huius uero inperialis decreti nostri paginampropriis
+            manibus roborantes, super uenerandum corpus B.Petri principis apostolorum posuimus.
+            Datum Romae3. Calend. Aprilis, Domino nostro Flauio ConstantinoAugusto quater, et
+            Gallicano V. C. Coss.]</p>
+        </div>
+        <div>
+          <head>C. XV</head>
+          <head type="question-title">. Inperialis auctoritas religiosae dispensationis mensuram non
+            mutat^K</head>
+          <p>Item Gelasius [ad Episcopos Dardaniae].</p>
+          <p>Sicut quamuis parua ciuitas prerogatiuam presentis regni non minuit, sic inperialis
+            presentia mensuram dispensationis religiosae non mutat. Et infra: §. 1. Semper*
+            esteffectum sacerdotali concilio de sacerdotibus iudiciaprouenire. Nam qualescumque
+            pontifices, etsi errorehumanitus accidente, non tamen contra religionemullatenus
+            excedentes, nullatenus uidentur a secularipotestate posse percelli.</p>
+        </div>
+        <div>
+          <head>C. XVI</head>
+          <head type="question-title">. Ecclesias restaurare contritas, non pontifices persequi,
+            boni principis est.</head>
+          <p>Item Marcellus Papa Maxentio*.</p>
+          <p>Boni principis est ac religiosi ecclesias contritas atque conscissas restaurare,
+            nouasque edificare, et Deisacerdotes honorare atque tueri. Unde sanctos
+            apostoloseorumque successores sub diuina contestacione constitutosprecepisse legimus,
+            non debere fieri persecutiones, necinferri fluctuaciones, nec inuidere laborantibus in
+            agrodominico, nec expelli eterni regis dispensatores.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

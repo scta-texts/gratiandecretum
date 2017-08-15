@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d71">
+        <head>DISTINCTIO LXXI.</head>
+        <p>GRATIANUS.</p>
+        <p>De clericis uero non ordinandis ab episcopo alterius ciuitatis, in Sardie ensi Concilio,
+          [c. 18. et 19.] statutum est, in quolanuarius Episcopus legitur dixisse:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Clerici ab episcopo alterius ciuitatis non
+            ordinentur.</head>
+          <p>Illud quoque sanctitas uestra statuat, ut nulli episcopo liceat alterius ciuitatis
+            ecclesiasticum* sollicitare et in suadiocesi clericum ordinare. Quia ex his
+            contentionibussolent nasci discordiae, et ideo prohibeat omnium sentencia, ne quis hoc
+            facere audeat. §. 1. Osius episcopus dixit:Et hoc uniuersi constituimus, ut quicumque ex
+            alia parrochiauoluerit alienum ministrum sine consensu ipsius et sineuoluntate ordinare,
+            non sit rata eius ordinatio.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Innocentius [ad Victricium Rothomagensem Episcopum, epist. II. c. 7.]De aliena
+            ecclesia ordinare clericum nullus presumat,nisi eius episcopus precibus exoratus
+            concedere uoluerit.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Qui sine episcopi sui consensu ordinatur, irrita sit eius
+            ordinatio.</head>
+          <p>Item ex Ni ceno Concilio, [c. 16. in fin.]Si quis ausus fuerit aliquem, qui ad alterum
+            pertinet, inecclesia ordinare, cum non habeat consensum illius episcopi, a quo recessit
+            clericus, irrita sit huiusmodi ordinatio.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Clericus unius ecclesiae in alia non ordinetur.</head>
+          <p>Item ex Concilio'C alcedo n ensi, [c. 20.]Clericos in singulis ecclesiis constitutos
+            non liceat,sicut iam diffiniuimus, in alterius ciuitatis ecclesiis ordinari; sed
+            quiescant in ea, in qua ab initio ministraremeruerunt, exceptis illis, qui proprias
+            ciuitates perdiderunt,et ex necessitate ad alias ecclesias migrauerunt. Si ueroquicumque
+            episcopus post diffinitionem istam ad alium episcopum pertinentem clericum susceperit,
+            placuit sanctaeSinodo, et hunc, qui suscepit, et eum, qui susceptus est,tamdiu
+            excommunicatos manere, quamdiu ipse clericus re-uertatur ad propriam ecclesiam.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Apostolica permissione unius ecclesiae clericus in altera
+            ualet ordinari.</head>
+          <p>Item Gregorius Fortunato Episcopo Neapolitano [lib. V. epist. ii.]</p>
+          <p>Fraternitatem tuam a nobis petisse recolimus, ut Gratianum ecclesiae Enafrenae diaconem
+            tuae concederemus ecclesiae ordinandum*. Et quoniam nec episcopum,cui obsecundare
+            debeat, propria habet ecclesia, hostescilicet prohibente, quo suum debeat ministerium
+            exhibere,peticionem tuam non preuidimus differendam. Idcircoscriptis tibi presentibus
+            eum necessario duximus concedendum, habiturus licentiam illum diaconum nostra inter-</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Sine litteris sui episcopi in aliqua ecclesia clericus non
+            suscipiatur.</head>
+          <p>Item ex Concilio Cartaginensi II. [c. 5»]Primatus episcopus Begeselitanus dixit:
+            Suggerosanctitati uestrae, ut statuatis, non licere clericum alienumab aliquo suscipi
+            sine litteris episcopi sui, neque apud seretinere, nec laicum usurpare sibi de plebe
+            aliena, ut eumobtineat sine conscientia eius episcopi, de cuius plebeest. Gratus
+            episcopus dixit: Hec obseruantia pacem custodit; nam et memini in sanctissimo concilio
+            Sardicensisimiliter statutum, ut nemo alterius plebis hominemusurpet: sed si forte erit
+            necessarius, petat a collega suo,et per consensum sui episcopi habeat.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Sine litteris commendaticiis extra suam ecclesiam clericus
+            non ministret.</head>
+          <p>Item ex Concilio Calcedonensi, [c. 13.]Extraneo clerico et lectori extra suam ciuitatem
+            sinecommendaticiis litteris proprii episcopi nusquam penitusliceat ministrare.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex sermone S. Augustini ad populumS®. Hortamur Christianitatem uestram, ut iuxta
+            sanctorumcanonum instituta, in ecclesiis a uobis fundatis aliundeueniens presbiter non
+            suscipiatur, nisi a uestrae fuerit ecclesiae episcopo consecratus, aut ab eo per
+            commendaticiaslitteras suscipiatur.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Absque formata clerici peregrini non suscipiantur.</head>
+          <p>Item ex Concilio Antioceno, [c. 7.]Nullum absque formata*, quam Greci epistolamdicunt,
+            suscipi peregrinorum clericorum oportet.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

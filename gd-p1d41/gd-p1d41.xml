@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d41">
+        <head>DISTINCTIO XLI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Ecce, quibus oporteat sacerdotem esse ornatummoribus. Scilicet preterea oportet
+          illum esse ornatum in exterioribus, habitu uidelicet et incessu: habitu, ut nec fulgidis,
+          necsordidis se uestibus ornet. Ut enim ait leronimus*, nec affectatae sordes, nec
+          exquisitae deliciae laudem pariunt, quod tam deuestibus, quam de cibis intelligendum
+          est.</p>
+        <p>Unde Augustinus ait in lib. [III.] de doctrina Christiana, [cap. 12.] </p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Pro moribus eorum, cum quibus uiuimus, alimentis uti
+            debemus.</head>
+          <p>Quisquis rebus pretereuntibus restrictius utitur quam sese habent mores eorum, cum
+            quibus uiuit, aut intemperans*, aut supersticiosus est. Quisquis uero sic eis utitur,ut
+            metas consuetudinis bonorum, inter quos uersatur, excedat, aut aliquid significat, aut
+            flagitiosus est. In omnibusenim talibus non usus rerum, sed libido in culpa est.§. i.
+            Quid igitur locis, et temporibus, et personisconueniat, diligenter adtendendum est, nec
+            temere flagitiareprehendamus. Fieri enim potest, ut sine aliquo uitiocupidinis uel
+            uoracitatis preciosissimo cibo sapiens utatur,insipiens autem fedissima gulae flamma in
+            uilissimum ardescat, et sanius quisque maluerit more Domini pisceuesci, quam lenticula
+            more Esau, nepotis Abraham, authordeo more iumentorum. Non enim propterea
+            continen-tiores sunt nobis pleraeque bestiae, quia uilioribus escisaluntur. Nam in
+            omnibus huiuscemodi rebus non ex</p>
+          <p>earum rerum natura, quibus utimur, sed ex causa utendi et modo appetendi uel probandum
+            est, uel inprobandumquod facimus.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Non cibus, sed appetitus in culpa est.</head>
+          <p>Item Augustinus super epistolam Iohannis.</p>
+          <p>Deliciae quelibet, si absque desiderio percipiantur, non officiunt, et uiles cibi
+            appetenter accepti inpediunt profectum abstinentiae. Dauid enim aquam concupitameffudit,
+            et Elias carnes comedit*.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Contra suae infirmitatis consuetudinem aliquibus cibis non
+            cogantur diuites uti.</head>
+          <p>Idem in libro de uerbis Domini [secundum Mattheum c. 7. serm. V.].</p>
+          <p>Non cogantur diuites pauperum cibis uesci, utanturconsuetudine infirmitatis suae; sed
+            doleant se aliter nonposse: si consuetudinem mutant3 egrotant. Utantursuperfluis, dent
+            inopibus necessaria; utantur preciosis,dent pauperibus uilia.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Equanimitas tolerandinon usus, uel abstinentia cibi
+            iustitiam facit.</head>
+          <p>Idem in lib. [II.] quest. euang. [c. n.]</p>
+          <p>Quod dicit Dominus in euangelio: „Iustificata est sapientia ab omnibus filiis suis,“
+            ostendit filios sapientiaeintelligere, nec in abstinendo, nec in manducando esse
+            iusticiam, sed in equanimitate tolerandi inopiam, et temperan-cia per abundantiam non se
+            corrumpendi, atque opor-tune sumendi uel non sumendi ea, quorum non usus,
+            sedconcupiscentia reprehendenda est. Non enim interestomnino, quid alimentorum sumas, ut
+            succurras necessitaticorporis, dummodo congruas in generibus alimentorumhis, cum quibus
+            tibi uiuendum est. Neque quantum sumasmultum interest, cum uideamus aliorum stomachum
+            citiussaturari, et eos tamen illi ipsi paruo, quo saciantur, ardenter et intolerabiliter
+            et omnino turpiter inhiare; aliosautem plus paulo poculo saciari quidem, sed
+            tolerabiliter inopiam perpetret uel ante horam positas epulas,si id in tempore aut opus
+            sit aut necesse sit, cum tranquillitate aspicere, neque tangere. Magis ergo interest,
+            nonquid uel quantum alimentorum pro congruentia hominumatque personae suae, et pro suae
+            ualetudinis necessitate quis accipiat, sed quanta facilitate et serenitateanimi careat,
+            cum his uel oportet, uel necesse est carere;ut illud in animo Christiani conpleatur,
+            quod Apostolusdicit: „Scio et minus habere, scio et habundare; ubiqueet in omnibus
+            inbutus sum: et saciari, et esurire, et habun-dare, et penuriam pati, omnia possum in
+            eo, qui me con-fortat.“</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Temperantia ciborum et uestium, non dissolutio eorum
+            laudatur.</head>
+          <p>Item ex Concilio GangrensiS, [c. ultimo.]</p>
+          <p>Parsimoniam cum ueste humili non reprobamus, sicut etiam ornatum preter corporis*
+            diligentiam infucatum laudamus, Dissolutos autem et fractos uestibus* et incessunon
+            recipimus; pietatem in priuatis domibus non concludentes, omnem locum in nomine Domini
+            edificatumhonoramus; et congregationem in ecclesia factam ad utilitatem communem
+            recipimus, et bona opera, que suprauires ** in fratres pauperes exercentur, secundum
+            ecclesiasticas traditiones beatificamus, et omnia, que conueniunttradicionibus
+            apostolicis et sanctarum scripturarum preceptis, in ecclesia fieri exoptamus.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Sub specie uirtutum sepe se uicia ingerunt.</head>
+          <p>Item Gregorius [Iohanni Constantinopolitano, lib. I. Reg. epist. 24.] </p>
+          <p>Sepe uicia esse se uirtutes mentiuntur, ut tenaciaparsimonia, effusio largitas,
+            crudelitas zelus iusticiae, remissio pietas uelit uideri.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Meritis fidei et uitae, non diuitiis episcopalis ,
+            auctoritas queritur.</head>
+          <p>Item ex Concilio Cartagin. IV. [c. 15.]</p>
+          <p>Episcopus uilem supellectilem, et mensam ac uictum pauperem habeat, et dignitatis suae
+            auctoritatem fide etuitae meritis querat. §. i. Hospiciolum quoque nonlonge ab ecclesia
+            habeat.</p>
+        </div>
+        <div>
+          <head>[C. VIII.] .</head>
+          <p>Item ex eodem, [c. 45.] </p>
+          <p>Clericus professionem suam etiam habitu et incessu probet, et ideo nec uestibus, nec
+            calciamentis decorem querat.</p>
+          <p>Gratian. Sicut ergo in cibis mores eorum, cum quibus uiuimus, obseruare monemur, sic et
+            de indumentis intelligendumest. Ut enim alibi dicitur: ,, quisquis contemptis his, cum
+            quibus uiuit, lautiora sibi uel austeriora pre ceteris indumenta uelalimenta querit, aut
+            intemperans sui est, aut supersticiosus.Incessu autem debet esse sacerdos ornatus, ut
+            grauitate itinerismentis maturitatem ostendat. Incompositio enim corporis (utAugustinus
+            ait) qualitatem* indicat mentis. Unde istorio-</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

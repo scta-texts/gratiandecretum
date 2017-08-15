@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO PRIMA.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO PRIMA.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d1">
+        <head>DISTINCTIO PRIMA.</head>
+        <p>Humanum genus duobus regitur, naturali uidelicet iure et moribus. Ius naturae est, quod
+          in lege et euangelio continetur, quo quisque iubetur alii facere, quod sibi uult fieri, et
+          prohibetur alii inferre, quod sibi nolit fieri. Unde Christus in euangelio : „ Omnia
+          quecunque uultis ut faciant uobis homines, et uos eadem facite illis. Haec est enim lex et
+          prophetae.</p>
+        <p>Hinc Ysidorus in V. libro Ethimologiarum [c. 2.] ait:</p>
+        <div>
+          <head>C. 1</head>
+          <head type="question-title">Diuinae leges natura, humanae moribus constant.</head>
+          <p>Omnes leges aut diuinae sunt, aut humanae. Diuinae natura, humanae moribus constant,
+            ideoque he discrepant, quoniam aliae aliis gentibus placent. §. i. *Fas lex diuina est:
+            ius lex humana. Transire per agrum alienum, fas est, ius non est.</p>
+          <p>Gratianus. Ex uerbis huius auctoritatis euidenter datur intelligi, in quo differant
+            inter se lex diuina et humana, cum omne quod fas est, nomine diuinae uel naturalis legis
+            accipiatur, nomine uero legis humanae mores iure conscripti et traditi intelligantur. §.
+            i. Est autem ius generale nomen, multas sub se continens species.</p>
+          <p>Unde in eodem lib. [Etymolog. c. 3.] Ysidorus ait:</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">Ius genus, lex species eius est.</head>
+          <p>Ius generale nomen est; lex autem iuris est species. Ius autem est dictum, quia iustum
+            est. Omne autem ius legibus et moribus constat.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">Quid sit lex.</head>
+          <p>[Is i dor. eod. cap. 3.]</p>
+          <p>Lex est constitutio scripta.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">Quid sit mos.</head>
+          <p>[Is i dor. eod. cap. 3. et lib. II. c. 10.]</p>
+          <p>Mos* autem est longa consuetudo, de moribus tracta tantumdem.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">Quid sit consuetudo</head>
+          <p>Consuetudo autem est ius quoddam moribus institutum, quod pro lege suscipitur, cum
+            deficit lex. §. 1. Nec differt, an scriptura, an ratione consistat, quoniam et legem
+            ratio commendat. §. 2. Porro si ratione lex constat, lex erit omne iam, quod ratione
+            constiterit, dumtaxat quod religioni congruat, quod disciplinae conueniat, quod saluti
+            proficiat. §. 3. Vocatur autem consuetudo, quia in communi est usu.</p>
+          <p>Gratianus. Cum itaque dicitur: „non differt, utrum consuetudo scriptura, uel ratione
+            consistat,“ apparet, quod consuetudo partim est redacta in scriptis, partim moribus
+            tantum utentium est reseruata. Quae in scriptis redacta est, constitutio siue ius
+            uocatur; quae uero in scriptis redacta non est, generali nomine, consuetudo uidelicet,
+            appellatur.</p>
+          <p>§. 1. Est et alia diuisio iuris, ut in eodem libro [V. c. 4.] testatur Ysidorus ita
+            dicens:</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">Que sint species iuris.</head>
+          <p>[Isidor. eod. c. 4.]</p>
+          <p>Ius aut naturale est, aut ciuile, aut gentium.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Quid sit ius naturale.</head>
+          <p>[Isidor. eod. c. 4.]</p>
+          <p>Ius naturale est commune omnium nationum, eo quod ubique instinGtu naturae, non
+            constitutione aliqua habetur, ut uiri et feminae coniunctio, liberorum successio*
+            eteducatio, communis omnium possessio et omnium una libertas, acquisitio eorum, quae
+            celo, terra marique capiuntur; item depositae rei uel commendatae pecuniae restitutio,
+            uiolentiae per uim repulsio. §. 1. Nam hoc, aut si quid huic simile est, numquam
+            iniustum, sed naturale equumque habetur.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title"> Quid sit ius ciuile.</head>
+          <p>[Isidor. eod. c. 5.]</p>
+          <p>Ius ciuile est, quod quisque populus uel duitassibi proprium diuina humanaque causa
+            constituit.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">Quid sit ius gentium.</head>
+          <p>[Isidor. eod. c. 6.]</p>
+          <p>Ius gentium est sedium occupatio, edificatio, munitio, bella, captiuitates, seruitutes,
+            postliminia, federa pacis, induciae, legatorum non uiolandorum religio, conubia inter
+            alienigenas prohibita. §. i. Hoc inde ius gentium appellatur, quia eo iure omnes fere
+            gentes utuntur.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">Quid sit ius militare.</head>
+          <p>[Isidor. eod. c. 7.]</p>
+          <p>Ius militare est belli inferendi solempnitates, federis faciendi nexus, signo dato
+            egressio in hostem uel commissio; item signo dato receptio; item flagitii militaris
+            disciplina, si locus deseratur; item stipendiorum modus, dignitatum gradus, premiorum
+            honor, ueluti cum corona uel torques donantur; item predae decisio, €t pro personarum
+            qualitatibus et laboribus iusta diuisio, ac principis porcio.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">Quid sit ius publicum.</head>
+          <p>[Isidor. eod. c. 8.]</p>
+          <p>Ius publicum est in sacris et sacerdotibus et magistratibus .</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">Quid sit ius Quiritum.</head>
+          <p>[Isidor. eod. c. 9.]</p>
+          <p>Ius Quiritum est proprie Romanorum, quod nulli tenent, nisi Quirites, id est Romani. §.
+            1. In quo agitur de legitimis hereditatibus, de curationibus *, de tutelis, de
+            usucapionibus, quae iura apud nullum alium populum repperiuntur, sed propria sunt
+            Romanorum, et in eos solos constituta.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

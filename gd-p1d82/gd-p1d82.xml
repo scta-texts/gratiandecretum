@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXXII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXXII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d82">
+        <head>DISTINCTIO LXXXII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Generaliter etiam pauperibus et his, qui suis manibus laborare non possunt,
+          episcopus necessaria prouideat.</p>
+        <p>Unde in Aur.elianensi Concilio [I. c. 18.] legitur:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Episcopus pauperibus uel infirmis, qui debilitate faciente suis manibus laborare non
+            possunt, uictum et uestitum (inquantum sibi possibile fuerit) largiatur.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Qui uoluptatem offitio preposuerit, modis omnibus
+            submoueatur</head>
+          <p>Item Innocentius Exsuperio Tolletano Episcopo, [epist. III. c. 1.]</p>
+          <p>II. Pars. Proposuisti, quid de his obseruari debeat,quos in diaconii ministerio aut in
+            offitio presbiterii positos incontinentes esse aut fuisse generati filii prodiderunt.De
+            his etiam manifesta diuinarum legum est disciplina,et beatae recordationis Siricii
+            episcopi monita euiaentiacommearunt, ut incontinentes in offitiis talibus positiomni
+            honore ecclesiastico priuarentur, nec admittantur adtale ministerium, quod sola
+            continentia oportet inpleri.Est enim uetus admodum sacrae legis auctoritas iam indeab
+            initio custodita, quod in templo anno uicis suae habitareprecepti sunt sacerdotes, ut
+            seruientes sacris oblationibuspuros et ab omni labe purgatos sibi uendicent diuina
+            misteria^ neque eos ad sacra offitia fas sit admitti, quiexercent uel cum uxore carnale
+            consortium, quia scriptumest: „ Sancti estote, quia ego sanctus sum DominusDeus uester.“
+            Quibus utique propter sobolis successionempropterea usus&amp; fuerat relaxatus, quia de
+            aliatribu% ad sacerdotium nullus fuerat iussus accedere.Quo magis ipsi sacerdotes uel
+            Leuitae pudicitiam ex dieordinationis suae seruare debent, quibus et sacerdotium,uel
+            ministerium sine successione est, nec preterit dies, quauel a sacrificiis diuinis, uel
+            baptismatis offitio uacent?Nam si Paulus ad Corinthios dicens scribit: „ Abstineteuos ad
+            tempus, ut uacetis orationi,'“ et hoc utique laicisprecepit, multo magis igitur
+            sacerdotes, quibus etsacrificandi et orandi iuge offitium est, semper debebuntab
+            huiusmodi consortio abstinere; qui, si contaminatusfuerit carnali concupiscentia*, quo
+            meritop exaudiri seposseq credit, cum dictum sit: „Omnia munda mundis,coinquinatis autem
+            et infidelibus mundum nichil est; sedcoinquinata est eorum mens uel conscientia? Sed
+            fortasse hoc licere sibi credit, quia scriptum est: „Uniusuxoris uirum.“ Non dixit
+            hoc**, ut permaneat inconcupiscentia generandi, sed propter incontinentiam futuram^ Quod
+            apertius declarat dicens: „Qui autem in carne sunt, Deo placere non possunt. Vos
+            autemiam non estis in carne, sed in spiritu . Sed ea plane dis-par et diuersa sententia
+            est. Nam si ad aliquos forma</p>
+          <p>ecclesiasticae uitae pariter et disciplinae, que ab episcopo Siricio ad omnesy
+            prouincias comeauit, non probatur</p>
+          <p>Seruenisse, his ignorantibus uenia non negabitur, ita ut e cetero penitus incipiant
+            abstinere et ita gradus suos, inquibus fuerint inuenti, retentent, ut eis non liceat
+            adpotiora conscendere; quibus in beneficio esse debet,quod hunc ipsum locum, quem
+            retinent, non amittunt.§. i. Si qui autem scisse formam uiuendi missam a
+            Siriciodeteguntur, neque statim cupiditates libidinis abiecisse,illi sunt modis omnibus
+            submouendj, qui post admonitionem cognitam preponendam arbitrati sunt uoluptatem.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item S iri cius Papa [ad Himerium Tarraconensem Episcopum, epist. I. cap. 7.]Plurimos
+            sacerdotes Christi atque Leuitas post longaconsecrationis suae tempora tam de coniugibus
+            propriis,quam etiam de turpi coitu sobolem didicimus procreasse, etcrimen suum hac
+            prescriptione defendere, quia in ueteritestamento sacerdotibus ac ministris generandi
+            facultaslegitur attributa. Dicat mihi nunc, quisquis ille est sectator libidinum
+            preceptorque uitiorum, si existimat, quodin lege Moysi sacris ordinibus passim a Deo
+            nostrolaxata sunt frena luxuriae, cur eos, quibus committebantursancta sanctorum,
+            premonet, dicens : „ Sancti estote, quiaego sanctus sum Dominus Deus uester?“ Cur
+            etiamprocul a suis domibus anno uicis suae in templo habitareiussi sunt sacerdotes? Hac
+            uidelicet ratione, ne uel cumuxoribus possent carnale exercere commercium,
+            utconscientiae integritate fulgentes acceptabile Deo munusofferrent. Quibus expleto
+            deseruitionis suae temporeuxoris usus solius successionis causa fuerat relaxatus,quia
+            non ex alia tribu, nisi ex Leui, quisquam ad Dei ministerium fuerat preceptus
+            admitti.</p>
+          <p>[C. IV.]*</p>
+          <p>/&lt;em.</p>
+          <p>Quia aliquanti, de quibus loquimur, (ut tua sanctitas retulit), ignorantia lapsos se
+            esse deflent, his hac condicione misericordiam dicimus non negandam, ut sine ullohonoris
+            augmento, in hoc, quo deiecti sunt, quamdiuuixerint, offitio perseuerent: si tamen post
+            hoc continentes se studuerint exhibere. Hi uero, qui illiciti priuilegiiexcusatione
+            nituntur, et sibi asserunt ueteri hoc lege con*cessum, nouerint se ab omni ecclesiastico
+            honore, quo indigne usi sunt, apostolicae sedis auctoritate deiectos, necumquam posse
+            ueneranda attractare misteria, aquibus se ipsi, dum obscenis cupiditatibus inhiant,
+            pri-uauerunt. Et quia exempla presentia cauere nos premonentin futurum, si quilibet
+            episcopus, presbiter atquediaconus (quod non optamus) fuerit talis inuentus, iamnunc
+            sibi omnem per nos indulgentiae aditum intelligatobseratum, quia ferro necesse est ut
+            abscidanturs uulnera,que fomentorum non senserint medicinam.</p>
+          <p>III. Pars. Gratian. Qui autem propter peccatumiubetur deponi, post condignam
+            penitenciam in suo ordine pote-rit i reparari.</p>
+          <p>Unde in Gangrensi Concilio legitur^*.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Que penitentia sit inponenda sacerdoti, qui de fornicatione
+            conuictus fuerit.</head>
+          <p>Presbiter, si fornicationem fecerit, quamquam secundum canones Apostolorum debeat
+            deponi, tamen iuxta auctoritatem B. Siluestri Papae, si non in uitio perdurauerit, sib
+            sponte confessus adierit, ut resurgeret, decemannis in hunc modum peniteat: tribus
+            siquidem mensibus a ceteris remotus pane et aqua a uespera inuesperam utatur, diebus
+            autem dominicis et precipuisfestis modico uino et pisciculis atque leguminibus
+            recreetur,sine carne et sagimine, quis et caseo**; sacco indutushumi adhereat, die ac
+            nocte iugiter misericordiam Deiomnipotentis inploret. Finitis tribus mensibus
+            continuisexeat: tamen in publicum non procedat, ne grex fidelisin eo scandalum patiatur;
+            nec enim debet sacerdos publicepenitere, sicut laicus. Postea aliquantisper resumptis
+            uiri-bus, unum annum et dimidium in pane et aqua expleat,exceptis dominicis diebus s et
+            precipuis festiuitatibus,in quibus uino et sagimine, ouis et caseo iuxta canonicam
+            mensuram uti poterit. Finito primo anno et dimidio,corporis et sanguinis Domini, ne
+            indurescat, particeps fiat,et ad pacem ueniat, psalmos cum fratribus in choro
+            ultimuscanat, ad cornu altaris non accedat, iuxta B. Clementisuocem minora gerat
+            offitia. Deinde uero usque ad expletionem septimi anni omni quidem tempore, exceptis
+            pascalibus diebus, tres legitimas ferias in unaquaque ebdomadain pane et aqua ieiunet.
+            Expleto septimi anni circulo,si 1431 fratres apud quos penituit, eius condignam
+            peni-</p>
+          <p>tentiam laudauerint*, episcopus in pristinum honoremiuxta B. Calixti Papae auctoritatem
+            eum reuocare poterit. Sane sciendum est, quia secundam feriam unumpsalterium canendo,
+            aut unum denarium pauperibusdando, si opus est, redimere poterit. Finitis septem pannis,
+            deinde usque ad finem decimi anni sextam feriam(nulla interueniente redemptione)
+            obseruet in pane etaqua. §. i. Eadem quoque penitentia erit sacerdoti deomnibus aliis
+            peccatis et criminibus, que eum in depositionem adducuntq. Neque hoc cuilibet uideatur
+            onerosum,si sacerdos post lapsum digne, ut supra dictum est, penitensad pristinos redeat
+            honores.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

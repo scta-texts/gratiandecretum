@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO L:</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO L:</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d50">
+        <head>DISTINCTIO L:</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Ex premissis auctoritatibus liquido demonstratum est, quod uariis criminibus
+          irretiti in sacerdotes ordinari non possunt. Nunc autem de Jiisdem queritur, utrum
+          postactam penitenciam, uel in propriis ordinibus remanere, aut admaiores gradus
+          conscendere ualeant ? Multorum auctoritatibusdeiciuntur uariis criminibus irretiti a
+          propriis ordinibus, et abaccessu maiorum prohibentur.</p>
+        <p>Unde Gregorius ait Constantino Mediolanensi Episcopo, [lib. IV. epist. 17.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Lapsi in suum ordinem reparari non possunt.</head>
+          <p>Si lapsis ad suum ordinem reuertendi licentia conceditur, uigor canonicae proculdubio
+            frangitur disciplinae, dum pro reuersionis spe prauae actionis desideria quisconcipere
+            non formidat. Et post pauca: §. 1. Illud preomnibus studete, ut lapsos in sacro ordine
+            nulliusuobis supplicatio aliquo modo reuocare studeat, ne huiusmodi non statuta, sed
+            temporaliter dilata credatur essesuindicta.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Qui post ordinationem labitur, depositus permanebit.</head>
+          <p>Item Martinus Papa [I.] Amando Episcopo.</p>
+          <p>Qui semel post suam ordinationem in lapsum ceciderit, deinceps iam depositus erit,
+            nullumque gradum sacerdotiipoterit adipisci.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Presbiter post lapsum nulla ratione in sacro ordine reparari
+            ualet.</head>
+          <p>Item Gregorius Papa Sabino* Episcopo [lib. VII. epist. 25.]</p>
+          <p>Presbiterum, de quo nos fraternitas tua latoris presentium legatione consuluit, nulla
+            ratione in sacro ordine post lapsum aut permanere, aut reuocari posse cognoscat.Circa
+            quem tamen mitius agendum est, quia commissumfacinus facili dicitur professione
+            confessus.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Post peractum homicidium sacerdotale offitium amministrari
+            non potest.</head>
+          <p>Item I oh anne s VIII. Cenomantico Venet ensi Episcopo.</p>
+          <p>Miror minus doctam scientiam tuam sacerdotem putare et post perpetratum homicidium
+            posse in sacerdotio ministrare, immo (quod est ineptius) nobis suadere uelle, ut ipsi
+            tali presumptioni preberemus assensum. Quisenim tam demens tamque peruersi sensus tale
+            quid existimaret uel post quantamcumque penitenciam concedendum, cum omni sit canonicae
+            disciplinae contrarium?</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Ad maiorem, gradum prouehi non potest clericus, qui paganum
+            occiderit.</head>
+          <p>Item Nicolaus Pupa.</p>
+          <p>Clericum, qui paganum occiderit, non oportet ad maiorem gradum prouehi, qui carere
+            debet etiam acquisito, homicida enim est. Nam cum discreti sint milites seculi
+            amilitibus ecclesiae, non conuenit militem ecclesiae militare seculo, per quod ad
+            effusionem sanguinis necesse sitperuenire.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Qui se defendendo paganum occiderit, sacerdotali careat
+            offitio.</head>
+          <p>Idem Osbaldo Corepiscopo Quadrantino.</p>
+          <p>De his clericis, pro quibus consuluistis, scilicet, qui se defendendo paganum
+            occiderunt, si postea per penitenciamemendati ad pristinum possint gradum redire, aut
+            adaltiorem ascendere, scito, nos nullam occasionem darenec ullam tribuere licentiam eis
+            quemlibet hominumquolibet modo occidendi. Verum si contigerit, ut clericus sacerdotalis
+            ordinis saltim paganum occiderit, multumsibi consulit, si ab offitio sacerdotali
+            recesserit; satiusqueilli est in hac uita Domino sub inferiori habitu
+            inreprehen-sibiliter famulari, quam alta indebite appetendo in profundum dampnabiliter
+            dimergi.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Episcopus, presbiter, aut diaconus capitale crimen
+            committens cadat ab offitio.</head>
+          <p>Item ex Concilio Agat ensi.</p>
+          <p>Si episcopus, presbiter, aut diaconus capitale crimen commiserit, aut cartam
+            falsauerit, aut falsum testimoniumdixerit, ab offitii honore depositus in monasterio
+            detrudatur», et ibi quamdiu uixerit laicam tantummodo communionem accipiat.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Qui homicidii facto aut precepto, aut consilio post
+            baptismum conscius fuerit, clericus non ordinetur.</head>
+          <p>Item ex Concilio Martini Papae, [c. 26.]</p>
+          <p>Si quis uiduam aut ab alio relictam duxerit, nort admittatur ad clerum. Quod si
+            irrepserit, deiciatur. Similiter si homicidii aut facto, aut precepto, aut consilio, aut
+            defensione* post baptismum conscius fuerit, et peraliquam subreptionem ad clericatum
+            uenerit, deiciatur, et infine uitae suae communionem accipiat.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. De sacris ordinibus lapsi reparari non possunt.</head>
+          <p>Item Gregorius lanuario Episcopo Caralitano,</p>
+          <p>[lib. III. epist. 26.]</p>
+          <p>Peruenit ad nos, quosdam de sacris ordinibus lapsos uel post penitenciam, uel ante
+            penitenciam ad ministerii suioffitium reuocari; quod omnino prohibemus, et in hac
+            resacratissimi quoque canones contradicunt. Qui igitur postacceptum sacrum ordinem
+            lapsus in peccatum fueritcarnis, sacro ordine careat, et ad ministerium altarisnon
+            accedat.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idem Venantio Lunensi Episcopo, [lib. IV. epist. 5.]</p>
+          <p>Accedens ad Gorgonam insulam fraternitas uestra discutiat id, quod ad nos de Saturnino
+            expresbitero* est perlatum. Peruenit namque ad nos, quia postquam de sacris ordinibus
+            lapsus a sui sacerdotii ordine deiectus est, adexplendum ministerium presbiterii
+            presumpsit accedere, et omnipotenti Deo hostias immolare. Quod si itafactum uestra
+            fraternitas repererit, eum sacri corporis etsanguinis domini participatione priuatum in
+            penitenciamredigat, ita ut usque ad diem ultimum in eadem excommunicatione permaneat et
+            uiaticum tantummodo exitussui tempore percipiat. Sin autem eum talem penitenciamagere
+            fraternitas uestra£ cognouerit, ut ei mste ad re-cipiendam inter laicos communionem
+            etiam ante exitumdebeat misereri, hoc in tuae fraternitatis ponimus potestate.Et infra:
+            §. 1. Preterea ad fraternitatis tuae consultarespondentes statuimus, diaconem et
+            abbatem, quem deportu Veneris indicas cecidisse, ad sacrum ordinem nondebere uel posse
+            aliquo modo reuocari. Quem quidemsacro ordine priuatum in penitenciam deputare te
+            conuenit; cuius si postea actus conuersatioque meruerit, priorem inter alios monachos,
+            ubi decreueris, standi locumobtineat. Subdiaconi quoque, quos similis culpa constringit,
+            ab offitio suo irreuocabiliter depositi, inter laicoscommunionem accipiant. In portu
+            autem Veneris loco lapsidiaconi alium, qui hoc offitium inplere debeat,
+            ordinabis.Saturninum uero expresbiterum, ut numquam ad sacriordinis ministerium presumat
+            accedere, scriptis cauere de-creuimus; sed eum in insula Gorgona atque
+            Caprariasollicitudinem de monasteriis gerere, et in quo est statusine cuiusquam
+            aduersitate manere permisimus.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Loco lapsi alius ordinandus est.</head>
+          <p>Idem [Mariniano Episcopo Rauennae, lib. VI. epist. 39.]Postquam quemquam criminaliter
+            cadentem inlocum, quod lapsus est, nulla permittit ratio reuocari,et ultra tres menses
+            ecclesiam uacare pontifice statutasacrorum canonum non permittunt, ne cadente
+            pastoredominicum gregem hostis (quod absit) antiquus insidiandodilaniet, fraternitas
+            uestra deprecationi eorum consentire etin lapsi loco debet episcopum ordinare.</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. Qui post ordinationem in lapsum ceciderit, sacra misteria
+            non debet tractare.</head>
+          <p>Item Martinus Papa [I. in epistola ad Amandum.]Si post ordinationem suam quispiam in
+            lapsum ceciderit,et preuaricationis peccato fuerit deprehensus obnoxius,omnimodo
+            prohibendum est, eum manibus lutulentisatque pollutis misteria nostrae salutis
+            tractare.</p>
+          <p>II. Pars. Gratian. Econtra exemplis et auctoritateprobatur, post actam penitenciam
+            proprios gradus liciteposse administrare, et ad maiores conscendere. Maria enim,soror
+            Aaron, postquam lepra percussa est, quia in Moysen murmur auer at, acta penitencia
+            mundata est™, et pristinamgratiam prophetandi recepit. Aaron post conflatum uitu-lum
+            etiam in summum sacerdotem est consecratus. Dauid postadulterium et homicidium spiritum
+            prophetiae recepit, et inproprio gradu permansit. Achab post™ mortem Nabuthaeuiri
+            sanctissimi per penitenciam humiliatus in regia sede remansit™. Et, ut preter eamus
+            multa exempla ueteris testamenti,Petrus negauit Christum, et tamen postea princeps
+            apostolorum factus est; Paulus Stephanum lapidauit, et tamen a Deoin apostolum electus
+            est. Multi quoque ab heresi ad unitatemcatholicae fidei reuertentes in suis ordinibus
+            recepti sunt, alii ueroad episcopalem etiam gradum sunt promoti, utpote Augustinuset
+            alii quam plures S.</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Iohannes Crisostomus a duabus sinodis orthodoxorum episcoporum fuit diiudicatus, sed
+            iterum fuit restitutus.Marcellus episcopus Ancirae Galatiae depositus fuit, sedpostmodum
+            proprium recepit episcopatum. Asclepius diiudicatus a Sinodo ecclesiam suam postea
+            recepit. Luciusepiscopus Adrianopolites dampnatus a Papa Iulio recepitecclesiam sui
+            episcopatus. Cirillus episcopus Ierosolimita-nus depositus fuit, postea reconciliatus
+            est ecclesiae suae.</p>
+          <p>Simili modo Polichronium eiusdem ecclesiae Ierosolimi-tanae pontificem Sixtus Papa
+            dampnauit et iterum ipse eum reconciliauit. Innocentius Papa Fotinum episcopum
+            dampnauit, sed postea eum in proprium locum restituit ecclesiaesuae. Misenum** episcopum
+            a Felice Papa dampnatumGelasius Papa successor illius reconciliauit et ecclesiaesuae
+            restituit. Leontius, dum esset presbiter, depositus fuit, sed postea in Antiochia
+            patriarcha extitit. Gregoriusuero quartus Papa Theodosium, quemEugenius eius antecessor
+            presbiterii honore priuauerat, sanctae ecclesiae Signinae consecrauit episcopum. Ibas
+            namque episcopusdiiudicatus fuit, sed sancta sinodus canonica suam illi
+            restituitecclesiam. Rothadum uero episcopum sanctae Sues-sionensis ecclesiae, a Sinodo,
+            cui Carolus interfuit,condempnatum, et Sophronium Placentinum episcopummerito
+            reprobatum, Nicolaus Papa ambos reconciliauit.]</p>
+          <p>Preterea Calix tus Papa [I.] de huiusmodi ita scribit, [epist. II. ad Episcopos
+            Galliarum]:</p>
+        </div>
+        <div>
+          <head>C. XIV</head>
+          <head type="question-title">. Clerici post lapsum in suis™ ordinibus reparari
+            possunt.</head>
+          <p>Ponderet unusquisque sermones suos, et quod sibi loqui non uult alteri non loquatur.
+            Unde bene sacrascriptura ait: „Quod tibi non uis fieri, alteri ne facias“.Nos enim
+            tempore indigemus, ut aliquid maturius, agamus, ne precipitemus consilia et opera
+            nostra, nequeordinem corrumpamus. §. 1. Sed si aliquis lapsusquo modo fuerit, portemus
+            eum et fraterno corripiamus affectu, sicut ait B. Apostolus: ,,Si preoccupatusfuerit
+            homo in aliquo delicto, uos, qui spirituales estis, instruite huiusmodi in spiritu
+            lenitatis. Alter alterius oneraportate, et sic adinplebitis legem Christi.^ §. 2. Porro
+            S.Dauid de mortiferis criminibus penitenciam egit, et tamenin honore permansit. §.3. B.
+            quoque Petrus amarissimaslacrimas fudit, quando Dominum negasse penituit, sed
+            tamenapostolus permansit. Et Dominus per Prophetampollicetur, dicens: ,,Peccator in
+            quacumque die con-uersus fuerit et ingemuerit, omnium iniquitatum eiusnon recordabor
+            amplius.“ Errant itaques, qui putant,sacerdotes post lapsum, si condignam egerint
+            penitenciam, Domino non posse ministrare, et suis honoribus frui,si bonam uitam deinceps
+            duxerint, et suum sacerdotiumdigne custodierint. Et ipsi, qui hoc putant, non
+            solumerrant, sed etiam traditas ecclesiae claues despicereuidentur, de quibus dicitur:
+            „Quecunque solueritis interra, erunt soluta et in celo.“ Alioquin hec sentencia aut</p>
+          <p>Domini non est, aut uera est. §. 4. Nos uero indubitanter tam Domini sacerdotes quam
+            reliquos fideles post dignam satisfactionem posse redire ad honores credimus, testante
+            Domino per Prophetam: „Numquid* quidormit, non adiciet, ut resurgat ? Et propheta
+            Dauidpenitenciam agens dixit: „Redde mihi leticiam salutaris tui,et spiritu principali
+            confirma me.“ Ipse namque post penitenciam et alios docuit, et sacrificium Deo obtulit,
+            dansexemplum doctoribus sanctae ecclesiae, si lapsi fuerint etcondignam penitenciam Deo
+            gesserint, utrumque facereposse. Docuit enim, quando dixit; „Docebo iniquos uiastuas, et
+            inpii ad te conuertentur. Sacrificium Deoobtulit pro se, dum dicebat: ,, Sacrificium Deo
+            spirituscontribulatus . Videns enim Propheta scelera suamundata per penitenciam, non
+            dubitauit predicando et Domino libando curare aliena. §. 5.20111 Mutatur ergohomo a
+            peccato et gratia Dei resurgit a lapsup, et inpristino manet offitio iuxta predictas
+            auctoritates. Videat,ne amplius iaceat&lt;i, sed euangelica sentencia in eomaneat que
+            ait: ,,Vade et amplius noli peccare. Undeait Apostolus: ,,Non ergo regnet peccatum in
+            uestromortali corpore, ut obediatis concupiscentiis eius.§. 6. Sentenciam, que
+            misericordiam uetat, non solumtenere, fratres, sed etiam audire refugite, quia potiorest
+            misericordia omnibus holocaustomatibus et sacrificiis.</p>
+        </div>
+        <div>
+          <head>C. XV</head>
+          <head type="question-title">. In pristinum gradum post penitenciam sacerdotes reuocari
+            possunt.</head>
+          <p>Item Ieronimus [ad cap. 3. Malachiae.]</p>
+          <p>„Et purgabit filios Leui; tempus est enim, ut iudicium incipiat a domo Dei, et alibi
+            scribitur: ,,A sanctis meis incipite. In filiis autem Leui omnem sacerdotalem intellige
+            dignitatem. Si autem sacerdotes purgandi sunt et colandi, ut purum aurum remaneat et
+            argentum, quid est de ceteris dicendum? Qui cum emundatifuerint et colati, tunc offerent
+            Domino iusta sacrificia,et placebit sacrificium eorum Domino, quod offeruntpro Iuda et
+            Ierusalem, (hoc est, pro his, qui Dominumconfitentur et pacem eius mente conspiciunt,
+            sicut dies seculiet sicut anni antiqui), ut quomodo in principio placuerunt Deo, sic
+            post peccatum et penitenciam placere incipiant, cum omni fuerint peccatorum sorde
+            purgati.</p>
+        </div>
+        <div>
+          <head>C. XVI</head>
+          <head type="question-title">. Lapsi reparari possunt^.</head>
+          <p>Item Gregorius Secundino [lib. VII. epist. 53-]Tua sanctitas» requisiuit,-ut tibi de
+            sacerdotalioffitio post lapsum resurgendi auctoritatem scriberemus, dum dicis de hoc
+            canonum diuersorum telegisse diuersas sentencias, alias resurgendi, aliasnequaquam S:
+            ideo nos* generaliter a NicenaSinodo incipientes, cum reliquis quatuor uenera-mur, quia
+            in cunctis sentenciis unanimiter concordant. Nos uero precedentes Patres sequimuf°,uiaP
+            (auctore Deo) a sacra doctrina illorum noniscordamus. A capite itaque incipientes usque
+            in qquartum altaris ministerium, hanc formam seruandamcognouimus, ut sicut minorem maior
+            precedit honore,ita et crimine, et;quem maior sequitur culpa, maioriinplicetur uindicta,
+            et post penitencia credatur essefructuosa. §. 1. Quid enim prodest triticum seminare,
+            etfructum illius non colligere? aut domum construere,et non illic habitare? Post dignam
+            itaque satisfactionemcredimus posse redire°y ad honorem. §. 2. Ad fontemmisericordiae
+            recurrentes euangelicam proferamus sentenciam: „Gaudeo, inquit, super uno peccatore
+            penitenciam agente quam super nonaginta nouem iustis, quinon indigent penitencia. Et
+            ouem perditam, nonagintanouem non errantibus relictis, humero pii pastoris adouile
+            reportandam Dominus ipse testatur. Si ouisperdita errans post inuentionem ad ouile
+            humero deportatur, predictis nonaginta nouem non errantibus relictisin deserto cur post
+            penitenciam ad ecclesiae ministerium lapsus non reuocetur? Sicut** in Apocalipsi
+            dici-</p>
+          <p>tur de ministro ecclesiae: „Memento unde cecideris , et age penitenciam, et prima opera
+            fac.“ Quid est enimgrauius, aut carnale delictum admittere, sine quopauci inueniuntur,
+            aut Dei filium iureiurando negare?In quo uerbo&amp;g hunc ipsum B. Petrum
+            apostolorumprincipem, ad cuius sacrum corpus indigni sedemus,lapsum esse cognouimus. Sed
+            post negationem penitencia secuta est, et post penitenciam misericordia data,cpiia ab
+            apostolatu eum non distulit, qui anteipsum se negare predixit.</p>
+        </div>
+        <div>
+          <head>C. XVII* Post acerrimam penitenciam lapsi reparantur^</head>
+          <head type="question-title">.</head>
+          <p>Idem [super Ezechielem, hom. IX. ad c. 2.] Quid est hoc, quod Prophetae iacenti
+            dicitur: „Stasupra pedes tuos, et loquar tecum? Qui enim iacenti loquebatur, cur stanti
+            promittit se esse locuturum? sedsciendum est, quia alia sunt, que iacentes, alia
+            questantes audire debemus. Iacenti enim dicitur, ut surgat;stanti autem precipitur, ut
+            ad predicationem proficiscidebeat. Adhuc enim nobis in infirmitatis confusioneiacentibus
+            preberi non debet auctoritas predicationis. Sedcum iam in bono opere surgimus, cum iam
+            recti stareceperimus, dignum est, ut ad lucrandos alios in predica-tione mitti debeamus.
+            Stans ergo Propheta uisionemspiritualem uidit, et cecidit; cadens uero admonitionisuerba
+            suscepit, ut surgeret; surgens autem preceptumaudiuit, ut predicaret. Nam qui adhuc ex
+            superbiae uerticestamus, cum iam de eternitatis timore aliquid sentire ceperimus, dignum
+            est, ut ad penitenciam cadamus. Etdums infirmitatem nostram subtiliter
+            agnoscenteshumiliter iacemus, per diuini uerbi consolationem ad fortiora opera surgamus
+            *.</p>
+        </div>
+        <div>
+          <head>C. XVIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idem [lib. XVIII. Moral. c. 16. ad cap. 28. Iob.]Ferrum de terra tollitur, cum fortis
+            propugnator ecclesiae a terrena, quam prius tenuit, actione separatur. Nonergo in eo
+            debet despici, quod fuit, quia iam incipitesse quod non fuit.</p>
+        </div>
+        <div>
+          <head>C. XIX</head>
+          <head type="question-title">. Post condiqnam penitenciam pristina recipiuntur
+            offitia.</head>
+          <p>Item Augustinus.</p>
+          <p>Cum exaudiero eos, dabo eis uirtutem spiritus mei, et inplebo eos iudicio meo et
+            fortitudine mea. Animad-uertite, in presenti loco posse docere aliquem postpeccatum, si
+            tamen uicia pristina digna penitencia diluerit.Unde Dauid post adulterium et homicidium
+            loquitur in</p>
+          <p>I Psalmo: „Asperges me, Domine, ysopo, et mundabor; lauabis me, et super niuem
+            dealbabor." Nec sua tantumpuritate contentus est, sed infert: „Redde mihi
+            leticiamsalutaris tui, et spiritu principali confirma me,“ cumque hocfeceris, „docebo,
+            ait, iniquos uias tuas, et inpii ad te con-uertentur."</p>
+        </div>
+        <div>
+          <head>C. XX</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Ieronimus [lib. II. contra Iouinianum.]Ihesus filius Iosedech sacerdos magnus
+            quamquamin tipo precesserit aduentum saluatoris, qui nostrapeccata portauit et
+            alienigenam ex gentibus sibi copulauitecclesiam, tamen secundum litteram post
+            sacerdotium sordidatus ipducitur, et stat diabolus a dexteris eius, etcandida illi
+            deinceps uestimenta redduntur.</p>
+        </div>
+        <div>
+          <head>C. XXI</head>
+          <head type="question-title">. Per penitenciam clerici correcti gradum suum et dignitatem
+            recipiant.</head>
+          <p>Item ex Concilio Agat en si, [c. 2.] Contumaces clerici, prout dignitatis ordo
+            permiserit,ab episcopis corrigantur, et si qui prioris gradus elatisuperbia communionem
+            fortasse contempserint, autecclesiam frequentare uel offitium suum inplereneglexerint,
+            peregrina eis communio tribuatur; ita, ut cumeos penitencia correxerit, rescripti in
+            matricula gradum suumdignitatemque recipiant.</p>
+        </div>
+        <div>
+          <head>C. XXII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Martini Papae [c. 17.]Si quis presbiter aut diaconus* inuentus fuerit
+            aliquidde ministeriis ecclesiae uenundasse, quia sacrilegium commisit, placuit eum in
+            ordinatione ecclesiastica non haberi.Iudicio tamen episcopi dimittendus est, si insuo
+            debeat recipi gradu, quia multociens hoc ipsum,quod de sacrosancto altario contaminatum
+            est, in episcopipotestate dimissum est.</p>
+          <p>[PALE A*.</p>
+        </div>
+        <div>
+          <head>C. XXIII</head>
+          <head type="question-title">. Item Augustinus ad Bonifacium. Bene ualet sacerdos restitui
+            ad honorem suum post peractam penitenciam, licet in hoc diuersi diuersa
+            sentiant,dicentes, non posse restitui ad honorem. Sed sic dictum estpropter simulatas
+            penitencias quorundam, et propter affectatas honorum dignitates.]</head>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. XXIV</head>
+          <head type="question-title">.</head>
+          <p>Sacerdos quidem si cadit, ualet, et habet restitutionis</p>
+          <p>locum post dignam peractam penitenciam in honorem suum, Propheta attestante, qui ait:
+            „Numquid qui caditnon adiciet, ut resurgat?“ Et B. Gregorius hoc dicit adSecundinum
+            inclusum, amicum suum: Etiam ab ipso Propheta in hoc argumentum habemus, qui, cum post
+            peractumadulterium et homicidium perpetrauit, tamen posteaperacta digna penitencia per
+            Dei gratiam ad pristinum offitium restituitur.]</p>
+          <p>III. Pars. Gratian. Quomodo igitur huiusmodi auctoritatum dissonantia ad concordiam
+            reuocari ualeat, hreuiter in-spiciamus. Sunt quidam, quos non odium criminis, sed timor
+            uiliiatis, amissio proprii gradus et ambitio celsioris ad penitenciam cogit. Hos sacri
+            canones irrecuperabiliter deiciunt, quiaqui simulatione penitenciae uel affectione^
+            honoris adeonon consequitur ueniam, nec ab ecclesia meretur reparationem.</p>
+          <p>Unde Augustinus scribit ad Bonifacium, [epist. L.]</p>
+        </div>
+        <div>
+          <head>C. XXV</head>
+          <head type="question-title">. Quare constitutum est in ecclesia, ne post penitenciam
+            aliquis ad clericatum redeat.</head>
+          <p>Ut constitueretur in ecclesia, ne quisquam post alicuius criminis penitenciam
+            clericatum accipiat, uel adclericatum redeat, uel in clericatu maneat, non desperatione
+            indulgentiae, sed rigore factum est disciplinae. Alio-uin contra claues datas ecclesiae
+            disputabitur, de quibusictum est: ,,Quecumque solueritis in terra, soluta eruntet in
+            celo. Sed ne forte etiam de ceteris criminibus spehonoris ecclesiastici animus
+            intumescens superbe ageretpenitenciam, seuerissime placuit, ut post actam de
+            criminedampnabili penitenciam nemo sit clericus, ut desperationetemporalis altitudinis
+            medicina maior et uerior essethumilitatis. Nam et S. Dauid de criminibus mortiferisegit
+            penitenciam, et tamen in honore suo perstitit, et B.Petrum, quando amarissimas lacrimas
+            fudit, utique Dominum negasse penituit, et tamen apostolus mansit. Sednon ideo putanda
+            est superuacua posteriorum diligentia,qui, ubi saluti nichil detrahebatur, humilitati
+            aliquidaddiderunt, quo salus tucius muniretur, experti, credo,aliquorum fictas
+            penitencias per affectatas honorum potentias. Cogunt enim multas inuenire medicinas
+            multorumexperimenta morborum. Verum in huiusmodi causis,ubi per graues dissensionum
+            scissuras non huius aut illiushominis periculum, sed populorum strages
+            iacent,detrahendum est aliquid seueritati, ut maioribus malissanandis karitas sincera
+            subueniat.</p>
+        </div>
+        <div>
+          <head>C. XXVI</head>
+          <head type="question-title">. Reparationis beneficium non nisi post penitenciam debet^w*
+            concedi.</head>
+          <p>Item ex epistola Cleri Romani, missa Papae Cipriano*.</p>
+          <p>Absit a Romana ecclesia uigorem suum tam profana facilitate dimittere, et neruos
+            seueritatis euersa fidei maie-state dissoluere, ut, cum adhuc non tantum iaceant,
+            sedetiam cadant euersorum fratrum ruinae, properata nimisremedia communicationum utique
+            non profutura presten-tur®. Ubi enim poterit penitenciae medicina procedere®, si etiam
+            ipse medicus intercepta penitencia indulgetpericulis? Hoc non est curare, sed (si dicere
+            uerum uolumus) occidere.</p>
+        </div>
+        <div>
+          <head>C. XXVII</head>
+          <head type="question-title">. Inpenitentibus uenia concedi non potest.</head>
+          <p>Item Ciprianus de lapsis^.</p>
+          <p>Si quis prepostera festinatione temerarius remissionem peccatorum cunctis putat dare se
+            posse, aut audet Domini precepta rescindere, non tantum nichil prodest, sedobest lapsis.
+            Prouocasse est iram, noii seruasse sentenciam, nec misericordiam piissimi Domini
+            deprecari, sedcontempto Domino de sua facilitate presumere. Et infra:§. i. Mandant
+            martires aliqua fieri, si iusta, si licita, sinon contra ipsum Dominum ac Dei
+            sacerdotemsunt facienda; si obtemperantis facilis et pronaconfessios, si penitentis
+            fuerit religiosa moderatio.Mandant martires aliqua fieri; sed si scripta non sunt
+            inDomini lege, que mandant, ante est, ut sciamus illos deDeo inpetrasse que postulant,
+            tunc facere quod mandant. Neque enim statim uideri potest de diuina maie-state
+            concessum, quod fuerit humana pollicitatione promissum. Nam et Moyses pro peccatis
+            populi petiit, nectamen peccantibus ueniam, cum petisset, accepit.</p>
+        </div>
+        <div>
+          <head>C. XXVIII</head>
+          <head type="question-title">. Qui sunt reparandi post lapsum, uel qui non.</head>
+          <p>Item Ysidorus ad Massanum^ Episcopum.</p>
+          <p>Domino sancto meritisque beato fratri Massanoepiscopo Ysidorus Episcopus. Quod in
+            epistolisuenerabilis fraternitas tua innotuit, uidelicet quod in canoneAnquiritano*,
+            cap. XIX. legitur, post lapsum corporalem restaurandum honoris gradum post penitenciam,
+            alibiuero legitur, post huiusmodi delictum nequaquam reparandum antiqui ordinis meritum:
+            hec diuersitas hoc</p>
+          <p>modo soluitur. Illos enim ad pristinos gradus’redire canones precipiunt, quos
+            penitenciae precessit satisfactiouel condigna peccatorum confessio. At contra hi,
+            quineque a uicio corruptionis emendantur,atquehoc ipsumcarnale delictum, quod admittunt,
+            uendicare quadamsupersticiosa temeritate nituntur, nec gradum utique honoris,nec gratiam
+            recipiunt communionis. Ergo ita est determinanda sentencia, ut necesse sit illos
+            restaurari in locohonoris, qui per penitenciam reconciliationem merenturdiuinae
+            pietatis. Hi non inmerito consequuntur adeptae dignitatis statum, qui per emendationem
+            penitenciae recepisse noscuntur remedium uitae. Id autem,ne forte magis sit ambiguum,
+            diuinae auctoritatis sentenciaconfirmatur. Ezechiel quidem propheta sub
+            tipopreuaricatricis Ierusalem ostendit, post penitenciae satisfactionem pristinum
+            restaurari s honorem: „Confundere,“inquit, „o Iuda, et porta ignominiam tuam.“ Et post
+            paululum: ,,Et tu,“ inquit, ,,et filiae tuae reuertimini ad antiquitatem tuam“.§. i.
+            Quod dixit, „confundere/</p>
+          <p>ostendit, post opus peccati debere quemquam erubescere, et post confessionem pro
+            admissis sceleribus uerecundam frontem humo prostratam demergere, proeo quod dignum
+            confusione perpetrauit opus. Deindeprecepit, ut post ignominiam id est deiectionem
+            suinominis siue dignitatis reuertatur ad suam antiquitatem.Ergo dum quisque post opus
+            confusionis suae confunditur, atque ignominiam portans depositionem suam cumhumilitate
+            luget, reuocari secundum Prophetam adpriorem poterit statum. Item Iohannes
+            euangelistaAngelo Ephesi ecclesiae inter cetera quedam similiascribit: „Memor esto unde
+            cecideris, et age penitenciam, et prima opera fac; alioquin ueniam tibi, et
+            mouebocandelabrum tuum de loco suo “.. Ecce** in quantum</p>
+          <p>ualui concilii Anquiritani antiquam plane et plenam auctoritate sentenciam sacris
+            testimoniis explanaui, ostendens, eum posse restaurari in proprio ordine p, qui per
+            penitenciae Satisfactionem nouiti propria delicta deflere.Qui uero nec luget que gessit,
+            sed lugenda sine ullopudore religionis uel timore diuini iudicii committit, nullomodo
+            eum posse ad pristinum gradum restaurari cognoscas. §.3. In fine*** autem huius
+            epistolae hoc adicien-dum putaui, ut quotiescumque in gestis conciliorum
+            discorssentencia inuenitur, illius concilii magis teneatur sentencia,cuius antiquior et
+            potior extat auctoritas.</p>
+          <p>Gratian. Quicumque igitur pro criminibus suis digne Deo penitenciam obtulerint,
+            auctoritate Gregorii et leronimi etAugustini et Ysidori gradum pristinae dignitatis
+            recipere possunt.Qui autem non odio criminis, sed timore uilitatis ^ uel ambitione
+            honoris falsas Deo penitencias offerunt, in pristini honoris gradum reparari minime
+            poterunt^.</p>
+          <p>Sed obicitur illud Hormisdae Papae, qui scribit omnibus Episcopis per uniuersas
+            prouincias:</p>
+        </div>
+        <div>
+          <head>C. XXIX</head>
+          <head type="question-title">. Diaconus aut presbiter in adulterio deprehensireparari non
+            possunt.</head>
+          <p>Si quis* diaconus aut presbiter post acceptam benedictionem Leuiticam cum uxore sua
+            incontinens inuenitur, ab offitio suo abiciatur. §. 1. Ecce manifesteconstat, quia
+            secundum titulos antiquorum Patrum sanctoSpiritu** suggerente conscriptos, et secundum
+            sentenciasCCCXVIII. episcoporum, (quas etiam Gallicani canones continere uidentur),
+            clerici in adulterio deprehensi, aut ipsiconfessi, aut ab aliis conuicti, ad honorem
+            redire non possunt. Quia forte non desunt, quibus pro nimiapietate suprascripta
+            sanctorum Patrum seueritas minimeplaceat, sciant, se CCCXVIII. episcoporum, qui et
+            reli-uos canones statuerunt, sentencias reprehendere uelampnare. Sed forte maior est in
+            illis pietas* quam insupradictis CCCXVIII. episcopis? maior est iri illismisericordia,
+            quam in S. Iohanne Papa? maior karitas,quam in reliquis sanctis sacerdotibus, qui hoc
+            exemploremedia ecclesiarum suis diffinicionibus deliberauerunt? Etideo aut prona
+            uoluntate preceptis illorum consentiant,aut omnibuss illis contrarios se et inimicos
+            esse cognoscant. Que est ista iusticiae inimica bonitas , palparecriminosos, et uulnera
+            eorum usque ad diem iudicii incurata seruare? §. 2. Quod si eos durissimam penitenciam
+            per plures annos uideremus agere, tunc nos etsaluti eorum possemus consulere, et statuta
+            canonumdeberemus temperare. Cum uero in aliquibus neccompunctio humilitatis, nec
+            instancia orandi apareat, necbeatum Dauid imitentur, qui dicit: „Lauabo per sin-</p>
+          <p>gulas noctes lectum meum; lacrimis meis stratum meum rigaboet illud: „ Cinerem tamquam
+            panem manducabam, et potum meum cum fletu miscebam ;“ nec eosieiuniis uel lectionibus
+            uacare uideamus, possumus agnoscere, si ad pristinos gradus uel honoresredirent, cum
+            quanta negligentia et cum quanto torporeet inimica suae animae securitate permanerent,
+            credentes,quod sic eis non acta digna penitencia dimiserit Deus,quomodo sacerdotes
+            indulsisse uidentur. Vere dico, quiailli ipsi, quibus cum periculosa et falsa
+            misericordia indulgereuidemur, cum ante tribunal Christi pro tantis peccatisdampnandi
+            aduenerint, contra nos causam dicturi sunt,dicentes, quod dum aut asperitatem linguae
+            eorumexpauimus &amp;, aut falsa blandimenta et periculosas adulationes ipsorum libenter
+            accepimus, in eisdem peccatispermanere eis, inutiliter indulgemus, aut ipsa
+            peccataaugere permittimus, non recordantes" illud, quod inueteri testamento scriptum
+            est: quia uno peccantecontra omnes ira Dei deseuit".</p>
+        </div>
+        <div>
+          <head>C. XXX</head>
+          <head type="question-title">. Difficile est post lapsum ad pristinum gradum redire.</head>
+          <p>Item Ieronimusttb*.</p>
+          <p>Quicumque dignitatem diuini gradus non custodiunt, contenti fiant animam saluare.
+            Reuerti enim in pristinumgradum difficile" est.</p>
+        </div>
+        <div>
+          <head>C. XXXI</head>
+          <head type="question-title">. Lapsus post penitenciam altario tantummodo ministret.</head>
+          <p>Item B a silius^*.</p>
+          <p>Qui sub gradu ceciderit post penitenciam, contentus fiat baptizare, communionem
+            infirmis dare, et altario ministrare tantummodo.</p>
+        </div>
+        <div>
+          <head>C. XXXII</head>
+          <head type="question-title">. De sacerdotibus, diaconibus et laicis, qui idolis
+            thurificant.</head>
+          <p>Item ex Concilio Ancirano, [c. i. et seqq.]</p>
+          <p>Presbiteros, qui immolauerunt, et postea certamen iterum inierunt, si ex fide* luctati
+            sunt, et non ex compacto ad ostentacionem ut offerrentur" ipsi fecerunt, hos
+            placuithonorem quidem sedis propriae retinere, offerre autem illiset sermonem ad populum
+            facere, aut aliquibus sacerdotalibusoffitiis fungi non liceat. §. i. Diacones similiter,
+            qui immolauerunt, postea uero iterum reluctati sunt, alias quidem honorem habere
+            oportet; cessare autem debent abomni sacro ministerio, ita ut nec panem, nec calicem
+            offerant, nec pronuntient*, nisi forte aliqui episcoporumconscii laboris eorum et
+            humilitatis et mansuetudinis,uoluerint eis aliquid amplius tribuere uel adhibere.Penes
+            ipsos ergo de his erit potestas. §. 2. Qui autemfugientes comprehensi sunt, uel a
+            domesticis traditi, uelademptis facultatibus sustinuere tormenta, aut in custodia trusi
+            proclamauerunt se Christianos esse, et eousqueastricti sunt, ut manus eorum
+            comprehendentes uiolenteradtraherent et funestis sacrificiis admouerent, ut &amp;
+            aliquidpolluti cibi per necessitatem sumere cogerentur, inomni deiectione et habitu et
+            humilitate uitae confitentes,hos uelud extra delictum constitutos a communionis
+            gratianon prohiberi decernimus. - §. 3. Si uero prohibiti suntab aliquibus propter
+            ampliorem cautelam, uel propter quorundam ignorantiam, statim, recipiantur. §. 4. Hoc
+            autem similiter et de clericis et de laicis ceteris obseruareconuenit. §. 5. Perquisitum
+            est autem et illud, si possuntetiam laici, qui in has necessitatis angustias
+            inciderunt,ad clericatus ordinem promoueri. Placuit ergo et hos tamquam qui nichil
+            peccauerint, si precedens" eorum uitaprobauerit, ad hoc offitium prouehi. §. 6. De
+            hisautem, qui negauerunt preter necessitatem, aut preterablationem facultatum, aut
+            preter periculum, uel aliquidhuiuscemodi (quod factum est sub tirannide Licinii),placuit
+            Sinodop, quamuis humanitate probentur indigni, tamen eis beneuolentiam commodari.</p>
+          <p>Gratian. Sed illud Hormisdae Papae desidiosos et negligentes, non uere penitentes
+            reparari prohibet. §. 1. Illud autem Ieronimi fatetur hoc esse difficile, non
+            inpossibile. §. 2. Basiliusautem circa delinquentes rigorem iusticiae seruandum
+            ostendit,quem circa penitentes alii relaxandum misericorditer affirmant.§. 3. Possunt et
+            aliter distingui premissae auctoritates. Quorumcrimina &lt;1 manifesta sunt ante uel
+            post ordinationem, a sacrisordinibus deiciendi sunt; quorum autem peccata occulta suntet
+            secreta satisfactione secundum sacerdotis edictum purgata,in propriis ordinibus remanere
+            possunt.</p>
+          <p>Unde Nicolaus Papa Car olo Archiepiscopo, et eius suffraganeis.</p>
+        </div>
+        <div>
+          <head>C. XXXIII</head>
+          <head type="question-title">. Non potest restitui in sacerdotem, cuius fuerit manifestum
+            crimen.</head>
+          <p>Sacerdotes, si in fornicationis laqueum ceciderint, et</p>
+          <p>criminis manifestus siue ostensus fuerit actus, sacerdociinon possunt habere honorem
+            secundum canonicae institu-cionis auctoritatem.</p>
+          <p>Item R ab anus Archiepiscopus scribit ad Ileribaldum^:</p>
+        </div>
+        <div>
+          <head>C. XXXIV</head>
+          <head type="question-title">. Qui sint reparandi post lapsum, uel qui06 b non.</head>
+          <p>De his uero uisum nobis est scribendum esse, qui sacros ordines habent et ante uel post
+            ordinationemcontaminatos in capitalibus criminibus se esse profitentur. In quibus, ut
+            mihi uidetur, hec distancia esse debet,ut hi, qui deprehensi uel capti fuerint publice
+            in periurio,furto atque fornicatione et ceteris huiusmodi criminibus,secundum sacrorum
+            canonum instituta a proprio gradudecidant, quia' scandalum est populo Dei tales personas
+            superpositas habere, quas ultra modum uitiosasesse constat. Nempe inde detrahunte
+            homines sacrificio Dei (sicut quondam, filiis Hely peccantibus,fecisse leguntur, et
+            rebelles hinc atque contrarii existentes eorum prauis exemplis cotidie peiores fiunt.
+            Qui autemde predictis peccatis absconse a se admissis per occultam confessionem coram
+            angelis Dei, presente etiamsacerdote, qui eis indicturus est penitenciam, confitentur,et
+            semetipsos grauiter deliquisse queruntur, si se perieiunia* et elemosinas uigiliasque et
+            sacras orationes purgare certauerint, his etiam gradu seruato spes ueniae demisericordia
+            Dei promittenda est.</p>
+          <p>IV. Pars. Gratian. De lapsis etiam in heresim hoc obseruatum est, ut ante sentenciam
+            concilii nullus eis communicet.</p>
+          <p>Unde Ciprianus Papa Antoniano inter cetera*</p>
+          <p>[lib. IV. epist. 2.]</p>
+        </div>
+        <div>
+          <head>C. XXXV</head>
+          <head type="question-title">. A communione abstineat, qui lapsis ante restitutionem
+            communicat.</head>
+          <p>De eo tamen, quod statuendum esset circa causam lapsorum, distuli, ut cum quies et
+            tranquillitas data esset, et episcopos in unum conuenire indulgentiadiuina permitteret,
+            tunc communicato et librato deomnium collatione consilio statuerem quid fieri oporteret.
+            Si quis uero ante consilium nostrum et ante sentenciam de omnium consilio statutam
+            temere lapsis communicare uoluisset, ipse a communione abstinerets.</p>
+          <p>V. Pars. Gratian. Quod uero supra de homicidiis statutum legitur, intelligendum est,
+            quando facultas datur effugiendi,nec necessitate clauduntur obsidionis. Ceterum, cum
+            necessitateangustati effugere non possunt, si tunc homicidium admiserint,purgati per
+            penitenciam et offitio, et communioni reddentur.</p>
+        </div>
+        <div>
+          <head>C. XXXVI</head>
+          <head type="question-title">. Clerici in obsidionibus positi, necessitate si sanguinem
+            fuderunt, post^* duorum annorum penitenciam offitio et communioni restituantur.</head>
+          <p>De his clericis, qui in obsessionibus positi necessitate fuerint, id statutum est, ut
+            qui altario ministrant et Christicorpus et sanguinem tradunt, uel uasa sacro offitio
+            deputata contrectant, ut ab omni humano sanguine, etiam hostili, se abstineant. Quod si
+            in hoc inciderint, tamoffitio quam communione corporis Domini duobus annispriuentur, ita
+            ut duobus annis uigiliis, ieiuniis, orationibuset elemosinis pro uiribus, quas Dominus
+            donauerit, expientur; et ita demum offitio uel communioni reddantur, eatamen ratione, ne
+            ulterius ad offitia potiora promouean-tur. Quod si in diffinito tempore negligentiores
+            circasalutem suam extiterint, protelandi ipsius penitenciaetempus in potestate maneat
+            sacerdotis.</p>
+          <p>Gratian. Casu quoque si clericus homicidium fecerit, in proprio gradu ex dispensatione
+            remanere permittitur.</p>
+          <p>Unde Urbanus II. scribit Guarnerio Merseburgensi Episcopo :</p>
+        </div>
+        <div>
+          <head>C. XXXVII</head>
+          <head type="question-title">. Qui casu homicidium facit, ex dispensatione in suo ordine
+            permaneat.</head>
+          <p>Clerico iaciente lapidem puer interemptus dicitur. Nospro amore tuo in suo ordine eum
+            permanere permittimus,ut tamen semper in penitencia et timore permaneat.</p>
+        </div>
+        <div>
+          <head>C. XXXVIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item Stephanus V. Sichiberto Corsicae Episcopo.</p>
+          <p>Quia te quasi obnoxium iudicas, eo quod a Sarracenis captus homines interfecisse
+            uideris, bene facis. Sedquoniam non tua sponte id fecisse cognosceris, indecanonice
+            nullo modo iudicaris.</p>
+          <p>Gratian. Si uero ira conmotus aliquem presbiter interfecerit, etsi animum occidendi non
+            habuerit, perpetuo tamendepositus erit.</p>
+          <p>Unde Nicolaus Papa scribit Osbaldo Cor episcopo* Quadrantino .</p>
+        </div>
+        <div>
+          <head>C. XXXIX</head>
+          <head type="question-title">. Perpetuo careat offitio presbiter, qui ira conmotus, licet
+            extra animum, aliquem interfecerit.</head>
+          <p>Studeat sanctitas tua persuadere episcopo tuo, sibi canonicum sociare numerum
+            collegarum, id est sex exuicinis prouinciis fratres et coepiscopos suos, quibustecum
+            iunctis et decernentibus diligenter inuestigare</p>
+          <p>et omni annisu scrutari procurate, quatenus inuenire ualeatis, utrum percussione iam
+            nominati presbiteri, anceruicis fractione idem diaconus, ut fertur, extinctus est.Et
+            siquidem a sepe fato presbitero non ad mortempercussus est, sed ex equo cadens ceruice
+            fracta interiit,secundum arbitrium uestrum pro percussione incauteagenti presbitero
+            penitenciam competentem indicite, etaliquanto tempore a missarum solempniis
+            suspendatur,denuo post hec ad sacerdotale rediturus offitium. Quod siueraciter
+            qualicumque percussione presbiteri ille mortuusfuerit diaconus, nulla hunc ratione
+            ministrare moresacerdotis decernimus, quoniam, etsi uoluntatem occidendinon habuit,
+            furor tamen et indignacio, ex quibus motio illamortifera prodiit, in omnibus, et.
+            precipue in Deiministris, multipliciter inhibetur atque dampnatur^.Verum si presbiter
+            adeo uestro studio obnoxius forteclaruerit, precipimus, ut tale beneficium sibi
+            ecclesiae suaeconcedatur, quo et ipse et sui sufficiens possint haberesuae
+            sustentacionis solatium.</p>
+          <p>[PALEA.</p>
+        </div>
+        <div>
+          <head>C. XL</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Matie en si*, c. 6.</p>
+          <p>Qui uero odii meditatione uel propter cupiditatem ludeum uel paganum occiderit, quia
+            imaginem Dei etspem futurae conuersionis exterminat, quadraginta diesin pane et aqua
+            peniteat.]</p>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. XLI</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Si quis homicidium fecerit, si episcopus est, XV. annos peniteat, et deponatur; cunctos
+            quoque dies uitae suaeperegrinando finiat. Presbiter XII. annis peniteat, tresex his in
+            pane et aqua, et deponatur superioris sentencia.Diaconus X. annis peniteat, tres ex his
+            in pane et aqua.Clericus et laicus VII. annis peniteat, tres ex his in pane etaqua, et
+            ad gradum cuiuslibet sacerdocii accedere non presumat.]</p>
+        </div>
+        <div>
+          <head>C. XLII</head>
+          <head type="question-title">. Quinquennio a communione abstineant, qui casu homicidium
+            faciunt.</head>
+          <p>Jtem ex Concilio Neocesariensi.</p>
+          <p>Eos uero, qui non uoluntate, sed casu homicidium fecerint, prior quidem regula post
+            septem tantum annorum penitenciam communioni sociauit secundum gradusconstitutos; hec
+            uero* humana diffinicio quinquenniitempus tribuit.</p>
+        </div>
+        <div>
+          <head>C. XLIII</head>
+          <head type="question-title">. Quibus temporum spaciis a communione abstineat que uoluntate
+            uel casu ancillam suam interfecerit.</head>
+          <p>Item ex Concilio Eliberitano, [c. 4.]</p>
+          <p>Si qua femina furore zeli accensa flagellis uerbe-rauerit ancillam suam, ita ut infra
+            tertium diem animam cum cruciatu emittat, eo quod incertum sit,uoluntate, an casu
+            occiderit: si uoluntate, post septemannos, si casu, post quinque annorum tempora
+            (actalegitima penitencia) ad communionem placuit admitti.Quod si infra tempora
+            constituta fuerit infirmata, accipiatcommunionem.</p>
+        </div>
+        <div>
+          <head>C. XLIV</head>
+          <head type="question-title">. De his, qui sponte homicidium uel casu faciunt.</head>
+          <p>Item ex Concilio Martini Papae.</p>
+          <p>Si quis uoluntarie homicidium fecerit, ad ianuam ecclesiae catholicae semper iaceat, et
+            communionem in exitu uitae suae recipiat. Si autem non uoluntate, sedcasu homicidium
+            aliquod fecerit, prior canon septemannis agere penitenciam iussit, secundus canon
+            quinquemandauit.</p>
+          <p>[C. XLV.] Item Dig. tit. de furtis. [1. Qui saccum.]</p>
+          <p>Qui saccum habentem pecuniam subripuit, furtietiam sacci nomine tenetur, quamuis non
+            sit ei animussacci subripiendi.</p>
+          <p>Contra animum, non opus puniri, lib. IX. Cod. tit. ad leg.</p>
+          <p>Cornei, de sicar. [1. 5.] exemplo sacrarum litterarum Diocletiani et Maximiani
+            colligitur:</p>
+        </div>
+        <div>
+          <head>C. XLVI</head>
+          <head type="question-title">.</head>
+          <p>Eum, qui asseuerat homicidium se non uoluntate, sed casu fortuito fecisse, cum calcis
+            ictu mortis occasio prebitauideatur, si hoc ita est, neque super hoc ambigi poterit,omni
+            metu ac suspicione, quam ex admissae rei discriminesustinet, secundum id, quod
+            annotacione nostra conprehen-sum est, uolumus liberari.</p>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. XLVII</head>
+          <head type="question-title">. Jtem Imperator Antoninus C. ad leg.</head>
+          <p>Cornei, de sicar. 1. i.]</p>
+          <p>Frater uester rectius fecerit, si se presidi prouinciae obtulerit, qui, si probauerit,
+            non occidendi animo hominem a se esse percussum, remissa homicidii pena secundum
+            militarem disciplinam sentenciam proferet. Crimen enimcontrahitur, si et uoluntas
+            nocendi intercedat. Ceterum ea,que ex inprouiso casu potius quam fraude accidunt,
+            fatoplerumque, non noxae inputantur.] </p>
+          <p>Hinc etiam Pelagius Papa :</p>
+        </div>
+        <div>
+          <head>C. XLVIII</head>
+          <head type="question-title">. De eodem</head>
+          <p>Quantum dicit iste Placidus, anno preterito dictum est de uxore ipsius, quia subito
+            inter caballos inuenta,et dum traherentur caballi, collisa est illa, et abortum
+            fecit.Quod si ita est, forte si caballos alienos tulit, inde estculpabilis. Nam de
+            muliere, que casu inter caballos confracta est, ubi uoluntas illius non agnoscitur
+            perniciosafuisse, non potest nec debet addici per leges.</p>
+        </div>
+        <div>
+          <head>C. XLIX</head>
+          <head type="question-title">. De eodem Item Nicolaus Papa™.</head>
+          <p>Hii, qui arborem incidere uidentur, si contigerit, ut cadens arbor occiderit hominem,
+            inculpabiles sunt atqueinnoxii, quia nec uoluntate eorum, nec desiderio homicidium
+            perpetratum est. Si uero aliqua eorum culpa uelneglectu morientis hominis interitus
+            cognoscitur ad-uenisse, abiciendi sunt a gradu, et in sacro ordine nullatenus
+            suscipiendi.</p>
+        </div>
+        <div>
+          <head>C. L</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Guarmatiensp.</p>
+          <p>Sepe contingit, dum quis operi necessario insistens arborem inciderit, ut aliquis
+            subtus ipsam ueniensdeprimatur. Et iccirco, si uoluntate uel negligentia incidentis
+            arborem factum est, ut homicida penitenciae debetomnino submitti. Quod si non uoto, sed
+            incuria illius,non hoc eum sentencia contingit. Si enimdum ille operi necessario
+            fortassis incumberet, iste insperatus occurrit s sub arbore et sub ipsa oppressusest,
+            incisor arboris non tenetur pro homicida.</p>
+        </div>
+        <div>
+          <head>C. LI</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Triburiensi, [cap. 36. Sed ibi copiosius.]</p>
+          <p>Si duo fratres in silua arbores succiderint, et appropinquante casura unius arboris
+            frater fratri dixerit, caue, et ille fugiens in pressuram arboris inciderit, etmortuus
+            fuerit, uiuens frater innocens de sanguinegermani diiudicetur.</p>
+          <p>Gratian. Premissis auctoritatibus, lapsis permittitur, ut post penitenciam in suis
+            ordinibus reparari ualeant; ad maiorem autemconscendere post lapsum nulla eis
+            auctoritate permittitur, immopenitus prohibetur.</p>
+          <p>Unde in lier densi Concilio, [c. 5.] legitur.</p>
+        </div>
+        <div>
+          <head>C. LII</head>
+          <head type="question-title">. Lapsi in suis ordinibus reparari possunt, sed non ad maiora
+            conscendere.</head>
+          <p>Hii, qui altario sancto deseruiunt, si subito</p>
+          <p>fienda carnis fragilitate corruerint, et Domino respiciente digne penituerint, ita ut
+            mortificato corpore cordis contritisacrificium Deo offerant, maneat in potestate
+            pontificis uelueraciter afflictos non diu suspendere, uel desidiosos prolixiori tempore
+            ab ecclesiae corpore segregare; ita tamen,ut sic offitiorum suorum loca recipiant, ne
+            possint ad altioraoffitia ulterius promoueri.•</p>
+          <p>[PALE A.</p>
+          <p>§. 1. Quodsi iterato* uelut canes ad uomitum reuersi fuerint, et ueluti sues in
+            uolutabris luti iacuerint **,non solum dignitate offitii careant, sed etiam sanctam
+            communionem nisi in exitu non percipiant.]</p>
+          <p>Gratian. Sed exemplo B. Petri (qui postquam trinae negationis maculas confessione
+            diluit amoris, non solum in gradu sui apostolatus remansit, uerum etiam in pastorem
+            totius ecclesiae aChristo institui meruit,) probantur lapsi post dignam penitenciam non
+            solum propria offitia retinere, sed etiam ad maiora posseconscendere. Quod autem B.
+            Petrus post negationem pastorecclesiae a Domino sit institutus, probatur auctoritate B.
+            Gregorii, qui in omelia dominicae resurrectionis de eodem principeapostolorum scribit,
+            dicens:</p>
+        </div>
+        <div>
+          <head>C. LIII</head>
+          <head type="question-title">. Petrus post culpam negationis princeps apostolorum a Domino
+            est institutus.</head>
+          <p>Considerandum est nobis, cur omnipotens Deus eum, quem cunctae ecclesiae preferre
+            disposuerat, ancillae uocempertimescere et se ipsum negare permisit. Quod nimirummagnae
+            actum pietatis dispensatione cognoscimus, ut is,qui futurus erat pastor ecclesiae, in
+            sua culpa disceret,qualiter aliis misereri debuisset. Prius itaque eum ostenditsibi, et
+            tunc preposuit ceteris, ut ex sua infirmitate cognosceret, quam misericorditer aliena
+            infirma tolleraret.</p>
+        </div>
+        <div>
+          <head>C. LIV</head>
+          <head type="question-title">. Post negationem in fide et gradu Petrus profecit.</head>
+          <p>Item Ambrosius in omelia L..</p>
+          <p>Fidelior factus est Petrus, postquam fidem se perdidisse defleuit; atque ideo maiorem
+            gratiam reperit quam amisit.Tamquam bonus enim pastor tuendum gregem accepit, utqui sibi
+            ante infirmus fuerat, fieret omnibus firmamentum, et qui se interrogationis temptacione
+            nutauerat,ceteros fidei stabilitate fundaret. Denique pro soliditatedeuotionis
+            ecclesiarum petra dicitur, sicut ait Dominus:,,Tu es Petrus et cet.“ Petra enim dicitur,
+            eo quodprimus in nationibus fidei fundamenta posuerit, et tamquam saxum immobile totius
+            operis Christiani compagem molemque contineat.</p>
+          <p>VI. Pars. Gratian. Item obicitur, penitentes ad sacros ordines promoueri non debent:
+            non ergo lapsi post penitenciamad maiora pertingere possunt.</p>
+        </div>
+        <div>
+          <head>C. LV</head>
+          <head type="question-title">. Non ordinetur clericus ex penitentibus.</head>
+          <p>Ex penitentibus, quamuis sit bonus, tamen clericus non ordinetur. Si per ignorantiam
+            episcopi factumfuerit, deponatur a clero, quia se ordinationis temporenon prodidit
+            fuisse penitentem. Si autem sciens episcopus ordinauerit talem, etiam ipse ab *
+            episcopatu suoordinandi dumtaxat potestate priuetur. Simili sentenciaesubiacebit
+            episcopus, si sciens ordinauerit clericum, quiuiduam aut repudiatam uxorem habuerit, aut
+            secundam.</p>
+        </div>
+        <div>
+          <head>C. LVI</head>
+          <head type="question-title">. Bigamus, penitens, uiduae maritus, sacrae militiae se
+            ingerens, sine spe promotionis in suo ordine permaneat.</head>
+          <p>Item Siricius Papa Himerio Episcopo, [epist. I. c. 15.]</p>
+          <p>Quicumque penitens,quicumque bigamus, quicumque uiduae maritus ad sacram miliciam
+            indebite et incompetenterirrepserit, hac sibi condicione a nobis ueniam
+            intelligatrelaxatam, ut in magno debeat computare beneficio, siadempta sibi omni spe
+            promocionis in hoc quo inueniturordine perpetua stabilitate permaneat.</p>
+        </div>
+        <div>
+          <head>C. LVII</head>
+          <head type="question-title">. Non prohibeatur a clero, qui pressus languoreper communionem
+            penitendae benedictionem accepit.</head>
+          <p>Item ex Concilio Gerondensi, [c. 9.]</p>
+          <p>Is 830 a uero, qui egritudinis languore depressus peniten-ciae benedictionem, quam
+            uiaticum dicimus, per communionem acceperit, postmodum reconualescens caputpenitenciae
+            in ecclesia non subdiderit publice, si prohibitisuiciis non detinetur obnoxius,
+            admittatur ad clerum.</p>
+        </div>
+        <div>
+          <head>C. LVIII</head>
+          <head type="question-title">. Qui ad penitenciam agendam in monasterio recluditur,
+            presbiter non ordinetur.</head>
+          <p>Item Hormisda Papa omnibus Episcopis per uniuersas prouincias.</p>
+          <p>Si ille, qui ultro petit penitenciam, quamuis eam perfecte agat, non potest episcopus
+            aut presbiter ordinari, ita ut,etiamsi per ignoranciam ordinatus fuerit et postea
+            conuin-citur penitenciam accepisse, deiciatur: ille, qui inuitusad penitenciam agendam
+            mittitur in monasterio, (quiutique nichil aliud, quam penitens dicendus est),
+            quaconsciencia ad sacerdocium peruenire permittitur?Nemo mihi alia quelibet contra
+            auctoritatem sedis apostolicae uel CCCXVIII. episcoporum, uel reliquorum canonum
+            constituta obiciat; quia quicquid contra illorumdiffinicionem (in quibus Spiritum
+            sanctum credimus locutum)dictum fuerit, recipere non solum temerarium, sed
+            etiampericulosum esse non dubito.</p>
+        </div>
+        <div>
+          <head>C. LIX</head>
+          <head type="question-title">. Bigami^*, uel quilibet post penitenciam sacris*® non
+            applicentur ministeriis.</head>
+          <p>Item Gelasius Urbis Romae Episc. omnibus Episcopis [per Lucaniam, etc. cap. 5.]</p>
+          <p>Non confidat quisquam pontificum fas esse, digamos aut coniugia sortientes ab aliis
+            derelicta, siue quoslibet post penitenciam, uel sine litteris, uel corporeuiciatos, uel
+            condicionarios, aut curiae publicarumque rerumnexibus inplicatos, aut passim nulla
+            temporis congruentisexpectatione discussos, diuinis seruituros applicare
+            ministeriis.</p>
+        </div>
+        <div>
+          <head>C. LX</head>
+          <head type="question-title">. Penitentes nec etiam clerici fieri possunt®).</head>
+          <p>Item Innocentius [Agapito et ceteris, epist. VI.]</p>
+          <p>Canones apud Niceam constituti penitentes etiam ab infimis offitiis clericorum
+            excludunt.</p>
+          <p>Gratian. Hoc non de quibuslibet penitentibus intelligitur, sed de illis tantum, qui
+            post penitenciam secularis militiaecingulum accipiunt. De quibus Innocentius
+            Episcopusscribit Victorio- Rotomagensi Episcopo, [epist. II. c. 2.]</p>
+        </div>
+        <div>
+          <head>C. LXI</head>
+          <head type="question-title">. Non debet fieri clericus, qui post remissionem peccatorum
+            miliciae cingulum habuit.</head>
+          <p>Si quis post remissionem peccatorum cingulum miliciae secularis habuerit, ad clericatum
+            omnino admitti non debet.</p>
+          <p>Gratian. Potest et aliter intelligi. Est quedam penitencia, que solempnis appellatur,
+            que semel tantum in ecclesia conceditur,de qua Ambrosius ait: ,,Sicut unum est baptisma,
+            ita unicaest penitencia. “ Item : „Non est secundus locus penitenciae. “Item:
+            „Reperiantur quam plurimi*, qui sepius agendampenitenciam putant, qui luxuriantur in
+            Christo. Nam si uerepenitenciam agerent, numquam iterandam postea putarent A</p>
+          <p>[C. LXII.] </p>
+          <p>Item Augustinus ad Macedonium, [epist. LIV.]</p>
+          <p>Quamuis caute et salubriter prouisum sit, ut locus humillimae^ penitenciae semel tantum
+            in ecclesia concedatur, ne medicina* nimis utilis minus uilis haberetur, tamencotidie
+            peccantibus numquam per penitenciam uenia negatur.</p>
+          <p>Gratian. Hec autem penitencia quomodo inponenda sit, in Agate iisi Concilio legitur, in
+            quo sic statutum est [c. 15.]:</p>
+        </div>
+        <div>
+          <head>C. LXIII</head>
+          <head type="question-title">. Quomodo penitentes ad penitenciam accedant*.</head>
+          <p>Penitentes tempore, quo penitenciam petunt, inpositio-nem manuum et cilicium super
+            capita a sacerdote (sicut ubique statutum est) consequantur. Si autemcomas non
+            deposuerint, aut uestimenta non mutauerint,abiciantur, et nisi digne penituerint, non
+            recipiantur.Iuuenibus etiam penitencia propter etatis fragilitatem nonfacile committenda
+            est. Viaticum tamen omnibus in mortepositis non est negandum.</p>
+        </div>
+        <div>
+          <head>C. LXIV</head>
+          <head type="question-title">. Que sint obseruanda in solempni penitencia.</head>
+          <p>Item ex eodem^*:</p>
+          <p>In capite quadragesimae omnes penitentes, qui publicam suscipiunt aut susceperunt
+            penitenciam, ante fores ecclesiaese representent episcopo ciuitatis, sacco induti,
+            nudisedibus, uultibus in terram demissis, reos se esse ipsoabitu et uultu Protestantes.
+            Ibi adesse debentdecani, id est archipresbiteri parrochiarum et presbiteri**
+            penitencium, qui eorum conuersationem diligenterinspicere debent, et secundum modum
+            culpae penitenciamper prefatos gradus iniungere. Post hec eos in ecclesiam introducat,
+            et cum omni clero septem peniten-ciae psalmos in terram prostratus cum lacrimispro eorum
+            absolutione decantet; tunc resurgens aboratione, iuxta quod canones iubent, manus eis
+            inponat,aquam benedictam super eos spargat, cinerem priusmittat, deinde cilicio capita
+            eorum operiat, et cum gemituet crebris suspiriis denunciet eis, quod sicut Adam
+            proiectusest de paradiso, ita et ipsi pro peccatis ab ecclesia abici-untur; postea#
+            iubeat ministris, ut eos extra ianuamecclesiae expellant, clerus uero prosequatur eos
+            cum responsorio: „In sudore uultus tui uesceris pane tuo, etc.“ ut,uidentes sanctam
+            ecclesiam pro facinoribus suis tremefactam atque commotam, non paruipendant penitenciam.
+            Insacra autem Domini cena rursus ab eorum decanis eteorum presbiteris ecclesiae
+            liminibus represententur.</p>
+          <p>Gratian. Hanc penitenciam nulli umquam clericorum agere conceditur, atque ideo
+            huiuscemodi$ penitentes ad clerum admitti prohibentur.</p>
+        </div>
+        <div>
+          <head>C. LXV</head>
+          <head type="question-title">. Clericis non inponatur manus tamquam penitentibus.</head>
+          <p>Confirmandum est, ut, si quando presbiteri uel diaconi in aliqua grauiori culpa
+            conuicti fuerint, qua eos a ministerio necesse sit remoueri, non eis manus tamquam
+            penitentibus uel tamquam fidelibus laicis inponatur, neque umquam permittendum est, ut
+            rebaptizati adclericatus gradum promoueantur.</p>
+          <p>Item Siricius Papa [Himerio, epist. I. c. 14.]:</p>
+        </div>
+        <div>
+          <head>C. LXVI</head>
+          <head type="question-title">. Nec clerico penitenciam agere, nec penitenti ad clericatum
+            accedere permittitur.</head>
+          <p>Illud quoque nos par fuit prouidere, ut sicut penitenciam agere nulli umquam conceditur
+            clericorum, ita post penitudinem ac reconciliationem cuiquamlaicorum non liceat honorem
+            clericatus adipisci,quoniam# quamuis sint omnium peccatorum contagionemundati, nulla
+            tamen debent gerendorum sacramentoruminstrumenta suscipere, qui dudum fuerint
+            uasauiciorum.</p>
+        </div>
+        <div>
+          <head>C. LXVII</head>
+          <head type="question-title">. Presbiteris et diaconibus tamquam penitentibus manus inponi
+            non debent.</head>
+          <p>Item Leo Papa [Rustico Narbonensi, epist. XC. cap. 2.]</p>
+          <p>Alienum est a consuetudine ecclesiastica, ut qui in presbiterali honore aut diaconii
+            gradu fuerint consecrati,hi 943b p crimine aliquo suo per manus inpositionem remedium
+            accipiant penitendi; quod sine dubio ex apostolica tradicione descendit, secundum quod
+            scriptum est:„Sacerdos* si peccauerit, quis orabit pro illo?“ Undehuiusmodi lapsis ad
+            promerendam misericordiam Deipriuata est expetenda secessio**, ubi illis, si
+            satisfactiofuerit digna, sit etiam fructuosa.</p>
+          <p>Gratian. Probantur etiam auctoritate Tollet ani Concilii huiuscemodi penitentes ad
+            clerum non admittendi, in quo [c. 2.]sic statutum est:</p>
+        </div>
+        <div>
+          <head>C. LXVIII</head>
+          <head type="question-title">. Causa necessitatis ad clerum penitentes admittantur.</head>
+          <p>Placuit, ut penitentes non admittantur ad clerum, nisi tantum si necessitas aut usus
+            exegerit; tunc de-</p>
+          <p>putentur inter hostiarios uel inter lectores, ita ut apostolum uel euangelium non
+            legant. §. i. Si qui autem ordinati sunt in diacones?, inter subdiacones habeantur, ita
+            ut manum non inponant, nec sacra contingant.§. 2. Cum uero penitentem dicimus, qui post
+            baptisma,aut pro homicidio, aut pro diuersis criminibus grauissimis-que peccatis
+            publicam penitenciam gerens sub ciliciodiuino fuerit reconciliatus altario.</p>
+          <p>VII. Pars. Gratian. Apostatae quoque ad clericatus offitium, admitti non debent.</p>
+          <p>Unde in Concilio Arei at en si II. [cap. 25.] :</p>
+        </div>
+        <div>
+          <head>C. LXIX</head>
+          <head type="question-title">. Ad clericatus offitium non admittantur apostatae.</head>
+          <p>Hii, qui post sanctam religionis professionem apo-statant et ad seculum redeunt, et
+            postmodum peniten-ciae remedia non requirunt, sine penitencia communionem penitus non
+            accipiant. Quos etiam iubemus ad clericatusoffitium non admitti. Et quicumque ille sit,
+            postpenitenciam habitum secularem accipere non presumat.Quod si presumpserit, ab
+            ecclesia alienus habeatur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXXVIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXXVIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d38">
+        <head>DISTINCTIO XXXVIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Cum itaque uoluntaria ignorantia omnibus sit noxia sacerdotibus est
+          periculosa.</p>
+
+
+
+
+
+        <p>Unde in Tollet ano Concilio [IV., cap. 24.] legitur:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Sacerdotibus maxime ignorantia est uitanda.</head>
+          <p>Ignorantia mater cunctorum errorum maxime in sacerdotibus Dei uitanda est, qui docendi
+            offitium in populo Dei susceperunt. Sacerdotes enim legere sanctas scripturas
+            admonentur, Paulo apostolo dicente ad Timotheum : „ Adtende lectioni, exhortationi,
+            doctrinae ," et: „ semper permane in his." Sciant ergo sacerdotes scripturas sacras et
+            canones, et e omne opus eorum in pre-dicatione et doctrina consistat, atque edificent
+            cunctos tam fidei scientia quam operum disciplina.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Offitialem libellum ab episcopo accipiant presbiteri, cum
+            ordinantur.</head>
+          <p>Jtem ex eodem [Toletano IV. c. 25.]</p>
+          <p>Quando presbiteri in parrochiis ordinantur, libellum offitialem a sacerdote suo
+            accipiant, ut ad ecclesias sibi deputatas instructi succedant, ne per ignorantiam etiam
+            in ipsis diuinis sacramentis offendant. Cum uero ad letanias uel ad concilium uenerint,
+            rationem episcopo suo reddant, qualiter susceptum offitium celebrent, uel baptizent.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Inscientia sacerdotum nec excusatione digna est nec
+            ueniat.</head>
+          <p>Item Leo Episcopis Constantinopolitanis .</p>
+          <p>Si in laicis uidetur intolerabilis inscientia, quanto magis in his qui presunt, nec
+            excusatione est digna, nec uenia?</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Canones non licet sacerdotibus ignorare.</head>
+          <p>Item Cei e s tinus omnibus orthodoxis Episcopis.</p>
+          <p>Nulli sacerdotum liceat canones ignorare, nec quicquam facere, quod possit Patrum
+            regulis obuiare. Que enim a nobis res digna seruabitur, si decretalium norma
+            constitutorum pro aliorum libitu licentia populis permissa frangatur?</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Que sacerdotibus necessaria s?m£ ad discendum.</head>
+          <p>Item ex dictis S. Augustini.</p>
+          <p>Que* ipsis sacerdotibus necessaria sunt ad discendum, id est sacramentorum liber,
+            lectionarius, antiphonarius, baptisterium, computus, canones penitentiales, psalterium,
+            omeliae per circulum anni dominicis diebus et singulis festiuitatibus aptae. Ex quibus
+            omnibus si unum defuerit, sacerdotis nomen uix in eo constabit, quia ualde periculosae
+            sunt euangelicae minae, quibus dicitur: „Si cecus ceco ducatum prestet, ambo in foueam
+            cadunt."</p>
+
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Que oportet scire eum, qui episcopus est ordinandus.</head>
+          <p>Item ex VII. Sinodo, [cap. 2.]Omnes psallentes repromittimus Deo: „In
+            iustifica-tionibus tuis meditabor, non obliuiscar sermones tuos." Quod omnes quidem
+            Christianos obseruare saluberrimum est, sed precipue hos, qui ecclesiasticam consecuti
+            suntdignitatem. Unde diffinimus omnem, qui ad episcopatus prouehendus est gradum, modis
+            omnibus psalterium nosse, ut ex hoc etiam omnis clerus, qui sub eo fuerit, ita moneatur
+            et inbuatur. Inquiratur autem diligenter a metropolitano, si in promtu habeat legere
+            scrutabiliter et non transitorie tam sacros canones et sanctum euangelium, quam diuini
+            Apostoli librum et omnem diuinam scripturam atque secundum mandata conuersari, et docere
+            populum sibi commissum. Substantia enim summi sacerdotii nostri sunt eloquia diuinitus
+            tradita, id est uera diuinarum scripturarum disciplina, quemadmodum magnus perhibet
+            Dionisius. Quod si disceptauerit, et ita libenter facere et docere minime spoponderit,
+            nullatenus consecretur. Ait enim prophetice Deus: „Tu scientiam repulisti, et ego
+            repellam te, ne sacerdotio fungaris michi."</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item ex Concilio Cartaginensi III., [c. 3.]Placuit, ut ordinatis episcopis uel clericis
+            prius ab ordinatoribus suis decreta conciliorum auribus eorum inculcentur, ne se aliquid
+            contra statuta concilii fecisse peni-teat.</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Sacrae scripturae inherentes non obscurantur iniquitate
+            mundana.</head>
+          <p>Item Zepherinus Papa [epist. I. ad Episcopos Siciliae].</p>
+          <p>Sicut stellas celi non extinguit nox, sic mentes fidelium inherentes firmamento sacrae
+            scripturae non obscurat mundana iniquitas.</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Ignorantia scripturarum est ignorantia Christi.</head>
+          <p>Item Ieronimus in Isaia.</p>
+          <p>Si iuxta apostolum Paulum Christus Dei uirtus est et Dei sapientia est, ignoratio
+            scripturarum est ignoratio Christi.</p>
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="quesiton-title">A Domino sciuntur, uel ignorantur, qui ea, que Dei sunt,
+            sapiunt, uel ignorant.</head>
+          <p>Item Gregorius in Moralibus.</p>
+          <p>Qui ea, que Dei sunt*, sapiunt, a Domino sapiuntur, et qui ea, que Dei sunt, nesciunt,
+            a Domino nesciuntur,Paulo testante, qui ait: ,,Si quis ignorat, ignorabitur/*Idems.
+            Quicumque stultus est in culpa, sapiens erit in pena.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="quesiton-title">Non qui aliquid nescit, sed qui putat se scire quod nescit,
+            errare probatur.</head>
+          <p>Item Augustinus [in Enchiridio ad Laurentium, cap. 17.]</p>
+          <p>G. Pars. Quamuis errare quanta possumus cura cauendum sit, non solum in maioribus,
+            uerum etiam in minoribus rebus, nec nisi rerum ignorantia possit errari, nonest tamen
+            consequens, ut continuo erret quisquis aliquidnescit, sed si quis se existimet scire
+            quod nescit. Prouero quippe approbat falsum, quod erroris est proprium.Verumtamen in qua
+            re quisque erret, interest plurimum.Nam in una eademque re et nescienti sciens, et
+            erranti nonerrans recta ratione preponitur. In diuersis autem rebus,id est cum iste scit
+            alia, ille alia, et iste utiliora, ille minusutilia uel etiam noxia: quis non in eis,
+            que ille scit, ei pre-ferat nescientem? Sunt efcim quedam, que nescire meliusest quam
+            scire.</p>
+          <p>III. Pars. Gratian. Sed licet per ignorantiam gramaticae artis aliquid uitiosum
+            proferant episcopi uel presbiteri, non tamenideo a scolasticis sunt despiciendi, quia
+            morum vitia magisquam verborum Sunt precavendo.</p>
+          <p>Unde Augustinus in libro de catezizandis rudibus, [c. 9.]:</p>
+        </div>
+        <div>
+          <head>C. XII.</head>
+          <head type="question-title">Non contempnant scolastici ecclesiasticam
+            simplicitatem.</head>
+          <p>Sedulo monendi sunt scolastici*, ut humilitate indutiChristiana, discant non
+            contempnere quos cognouerintmorum uitia quam uerborum amplius deuitare, sedcordi casto
+            linguam exercitatam nec, conferre audeant,quam etiam preferre consueuerant. His enim
+            maximeutile est nosse, ita esse preponendas uerbis sententias, utpreponitur animus
+            corpori. Ex quo fit, ut ita malle debeant ueriores quam dissertiores audire sermones,
+            sicutmalle debent prudentiores quam formosiores habere amicos.Nouerint etiam, non esse
+            uocem ad aures Dei, nisi animiaffectum. Ita enim non irridebunt, si aliquos antistites
+            etministros ecclesiae forte animaduerterint uel cum barbarismis et soloecismis Deum
+            inuocare, uel eadem uerba, quepronunciant, non intelligere, perturbateque distinguere,
+            nonquia ista minime corrigenda sunt, ut populus ad id, quodplane intelligit, dicat Amen;
+            sed quia pie toleranda suntab eis, qui didicerint ut sono in foro, sic uoto in
+            ecclesiabenedici. Itaque forensis illa nonnumquam forte bona dictionumquam tamen
+            benedictio dici potest.</p>
+        </div>
+        <div>
+          <head>C. XIII.</head>
+          <head type="quesiton-title">De eodem.</head>
+          <p>Item Gregorius ad Leandrum Episcopum Hispalensem, in prefat. Moral. ad fin.*</p>
+          <p>Indignum uehementer existimo, ut uerba celestis oraculi restringam sub regulis
+            Donati.]</p>
+          <h2>
+            <a/>{PALEA.</h2>
+          <p>C. XIV. Item Augustinus de uera religione, cap. 49. et 50.</p>
+          <p>Locutio diuinarum scripturarum secundum cuiusque linguae proprietatem accipienda est.
+            Habet enim omnis lingua sua quedam propria genera locutionum, que cum in aliamlinguam
+            transferuntur, uidentur absurda.]</p>
+          <p>[ P ALE A.</p>
+          <p>C. XV. Item Ieronimus ad Pammachium, epist. LII. cuius initium est: Christiani
+            interdumpudoris est.</p>
+          <p>Ecclesiastica interpretatio etiamsi habet eloquii uenu-statem, dissimulare eam debet et
+            fugere, ut non otiosis philosophorum scolis paucisque discipulis, sed uniuersoloquatur
+            hominum generi.]</p>
+        </div>
+        <div>
+          <head>C. XVI.</head>
+          <head type="question-title">Episcopus propter obprobrium senectutis a paruulis et a
+            minimis discere non erubescat.</head>
+          <p>Item Clemens Papa [epist. III.]</p>
+          <p>Nullus episcopus propter obprobrium senectutis uel nobilitatem generis a paruulis uel
+            minimis eruditis, siquid forte est utilitatis aut salutis, inquirere negligat. Quienim
+            rebelliter uiuit, et discere atque bona agere recusat,magis diaboli quam Christi membrum
+            esse ostenditur, etpotius infidelis quam fidelis monstratur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

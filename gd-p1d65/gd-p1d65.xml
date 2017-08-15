@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d65">
+        <head>DISTINCTIO LXV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Conprouincialium episcoporum uniuersaliter desideratur consensus in ordinatione
+          episcopi. Quod si aliquianimositate ducti contradicere uoluerint, obtineat sentencia
+          plurimorum.</p>
+        <p>Unde in Niceno Concilio, [c. 6.];</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Si ceteris consentientibus ordinationi episcoporum duo uel
+            tres contradicant, obtineat sentencia plurimorum.</head>
+          <p>Sane, si communi omnium consensu* rationabiliter probato secundum ecclesiasticam
+            regulam, dpo uel tres ani</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Martini Papae.</p>
+          <p>Non debet ordinari episcopus absque consilio et presentia metropolitani episcopi.
+            Adesse autem oportet omnes, qui sunt in prouincia sacerdotes, quos per suam debet
+            epistolam conuocare metropolitanus. Et quidem si omnesoccurrant, bene; si hoc autem
+            difficile fuerit, plurioresoportet occurrere. Qui autem non conueniunt, presentiam sui
+            per epistolas suas faciant, et sic omnium factoconsensu ordinationem episcopi fieri
+            oportet. Si autemaliter, preter quod a nobis terminatum est, fuerit factum,talem
+            ordinationem nichil preualere^decernimus.</p>
+          <p>II. Pars. §. i. Si autem secundum canones ordinatioepiscopi fuerit tacta, et aliquis
+            cum sua malicia in aliquocontradixerit, plurimorum consensus obtineat.</p>
+          <p>G. III. De eodem.</p>
+          <p>Item ex Concilio Antio ceno, [c. 19.] *</p>
+          <p>Episcopum non ordinandum sine consilio et presentia metropolitani episcopi, cui melius
+            erit, si ex omni prouincia congregentur episcopi. Quod si fieri non potest, hi, ui
+            adesse non possunt, propriis litteris consensum suume ipso designent, et tunc demum post
+            plurimorumsiue per presentiam siue per litteras consensum sentencia consona ordinetur.
+            Quod si aliter, quam statutum est,fiat, nichil ualere huiusmodi ordinationem, §. 1. Si
+            ueroetiam secundum diffinitas regulas ordinatio celebretur,contradicant autem aliqui
+            propter proprias et domesticassimultates, his contemptis sentencia de eo obtineat
+            plurimorum.</p>
+          <p>Gratian. Si autem prouinciam primatem habere constiterit, nec etiam metropolitano
+            absque eius conscientia episcopumconsecrare licebit.</p>
+          <p>Unde Leo Papa urbis Romae Anastasio Episcopo, [epist. LXXXII. al. LXXXIV. c. 6.]</p>
+        </div>
+        <div>
+          <head>C. IV, Absque primatis comensu metropolitanus episcopum non ordinet</head>
+          <head type="question-title">.</head>
+          <p>De persona autem consecrandi episcopi, et de cleri plebisque consensu metropolitanus
+            episcopus ad fraternitatem tuam referat, quodque in prouincia bene placuit scire
+            tefaciat, ut ordinationem rite celebrandam tua quoque confirmet auctoritas. Que rectis
+            dispositionibus nichil moraeaut difficultatis debebit afferre, ne gregibus Domini
+            diudesit cura pastorum.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Cartaginensi III. [c. I2.]</p>
+          <p>Placet omnibus, ut inconsulto primate cuiuslibet pro-uinciae tam facile nemo presumat,
+            licet cum multis, in</p>
+          <p>quocumque loco sine eius (ut dictum est) precepto episcopum ordinare. §. i. Si autem
+            necessitas fuerit, tres episcopi,in quocumque loco sint, cum primatis precepto
+            ordinaredebebunt episcopum.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Unicuique ecclesiae proprius honor seruetur.</head>
+          <p>Item ex Niceno Concilio, [c. 6.]</p>
+          <p>Mos antiquus perduret in Egipto, uelLibia, et Pentapoli, ut Alexandrinus episcopus
+            horum omnium habeat potestatem, quoniam quidem et Romano episcopoparilis* mos est. §. i.
+            Similiter autem et apud Antiochiamceterasque prouincias honor suus unicuique seruetur
+            ecclesiae.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex eodem, [cap. 7.]</p>
+          <p>Quoniam mos antiquus obtinuit et uetusta traditio, ut Eliae, id est Ierosolimorum
+            episcopo, honor deferatur,habeat consequenter honorem, manente tamen metropolitanae
+            ciuitatis propria dignitate.</p>
+          <p>Gratian. Qui uero a conprouincialibus suis cum metropolitani licentia fuerit ordinatus,
+            infra constituta tempora eius se representet conspectibus .</p>
+          <p>Unde in Tarraconensi Concilio, [c. 5.] legitur:</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. De eodem^\</head>
+          <p>Si quis in metropolitana ciuitate episcopus non fuerit ordinatus, posteaquam suscepta
+            benedictione per metropolitani litteras honorem episcopi fuerit adeptus, id optimum esse
+            decreuimus, ut postmodum statuto tempore, idest inpletis duobus mensibus, se
+            metropolitani sui pre-sentet aspectibus, ut ab illo monitis ecclesiasticis instructus
+            plenius quid obseruare debeat recognoscat. Quodsi forte hoc inplere neglexerit, in
+            Sinodo increpatus afratribus corrigatur. Et si forte infirmitate aliqua ne hocinpleat
+            fuerit inpeditus, hoc suis litteris metropolitanoindicare procuret.</p>
+          <p>III. Pars. Gratian. His auctoritatibus datur intelligi, quod episcopi a
+            conprouincialibus suis debent^ ordinari. Sedqueritur, si in prouincia fuerint^ plurimi
+            episcopi, et contigeritforte unum remanere episcopum, quid fieri debeat? Ille, quiasolus
+            est, non potest ordinare episcopum; conprouinciales nonhabet, cum quibus consecrare
+            episcopum ualeat. Cum ergotalis necessitas fuerit, quid faciendum sit, in Sardicensi
+            Concilio diffinitur, in quo [cap. 5.] sic statutum legitur:</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Si unus tantum in prouincia remanserit episcopus, ad
+            consecrationem episcopi de uicina prouinciaepiscopP conuocentur.</head>
+          <p>Si* forte in prouincia unum tantum remanere episcopum contigerit, superstes episcopus
+            conuocet episcopos uicinaeprouinciae, et cum eis ordinet conprouinciales sibi episcopos.
+            Quod si facere neglexerit, populi conueniant episcoposuicinae prouinciae, et illi prius
+            commoneant episcopum, quiin eadem prouincia commoratur, et ostendant, quod sibipetant
+            populi rectorem, et doceant iustum essej ut ueniatipse**, et cum eis ordinet episcopum.
+            Sed si litterisconuentus tacuerit et dissimulauent, nichil que rescripserit,tunc
+            satisfaciendum est populis, ut ueniant ex uicina prouincia, et episcopum ordinent.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

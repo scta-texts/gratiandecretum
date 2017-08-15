@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO V.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO V.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d5">
+        <head>DISTINCTIO V.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Hec, que de priuilegiis et ceteris infra positis scripta sunt, tam secularibus
+          quam ecclesiasticis legibus conueniunt. Nunc * ad differentiam naturalis iuris et
+          ceterorum reuertamur. §. 1. Naturale ius inter omnia primatum obtinet et* tempore et
+          dignitate. Cepit enim ab exordio rationalis creaturae, nec uariatur tempore, sed
+          immutabile permanet. §. 2. Sed cum naturale ius lege et euangelio supra dicatur esse
+          comprehensum, quedam autem contraria his, que in lege statuta sunt, nunc inueniantur
+          concessa, non uidetur ius naturale immutabile permanere. In lege namque precipiebatur: „ut
+          mulier si masculum pareret, quadraginta, se wero feminam, octuaginta diebus a templi
+          cessaret ingressu ; nunc autem statim post partum ecclesiam ingredi non prohibetur. Item®
+          mulier, que menstrua patitur, e# immunda reputabatur ; nwnc autem nec, ecclesiam intrare
+          nec sacrae communionis misteria percipere, illa, que par it, uel illud, quod gignitur,
+          nec</p>
+        <p>statim post partum baptizari prohibetur.</p>
+        <p>Unde eidem Augustino Gregorius [I.]scribit, dicens:</p>
+        <div>
+          <head>[C. I. PALEA*.</head>
+          <p>Cum enixa fuerit mulier, post quot dies intrare ecclesiam debeat, testamenti ueteris
+            preceptione didicisti: quia pro masculo XXXIII., pro femina uero LXVI. diebus debet
+            abstinere; quod tamen sciendum, quia in misterio accipitur.]</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Mulier in ipsa qua genuerit hora gratias actura ecclesiam
+            intrare non prohibetur.</head>
+          <p>[Gregorius ibidem continenter.]</p>
+
+          <p>Si mulier eadem hora, qua genuerit, actura gratias intrat ecclesiam, nullo pondere
+            peccati grauatur; uoluptas etenim carnis, non dolor in culpa est. In carnis autem
+            commixtione uoluptas est, in partu uero prolis gemitus. Unde ipsi primae mulieri
+            dicitur: ,,In doloribus paries.Si itaque enixam mulierem prohibemus intrare ecclesiam,
+            ipsam ei penam in culpam uertimus .</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Mulierem enixam, uel quod ab ea genitum fuerit, eadem hora
+            nihil prohibet baptizari.</head>
+          <p>Item [Idem ad eundem.]Baptizari autem uel enixam mulierem, uel hoc, quod genuerit, si
+            periculo mortis urgetur, uel ipsa hora eadem, qua gignit uel, eadem, qua natum est id
+            quod gignitur, nullo modo prohibetur*: ne, dum adhuc tempus ad pre-bendum reaemtionis
+            misterium queritur, interueniente paululum mora, inueniri non ualeat, qui redimatur.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Antequam puer ablactetur, uel mater purificetur, ad eius
+            concubitum uir non accedat.</head>
+          <p>Item.® [Gregor. ibid. continenter.]</p>
+          <p>Ad eius uero concubitum uir suus accedere non debet, quousque qui gignitur
+            ablactetur.</p>
+          <p>[PALEA.</p>
+          <p>Praua autem in coniugatorum moribus consuetudo surrexit, ut mulieres filios quos
+            gignunt, nutrire contemnant, eosque aliis mulieribus ad nutriendum tradant; quod
+            uidelicet ex sola causa incontinentiae uidetur inuentum, quia dum se continere nolunt,
+            despiciunt lactare quos gignunt.]</p>
+          <p>Si autem filios suos ex praua consuetudine aliis ad nutriendum tradunt, nisi
+            purgationis tempus transierit, uiris suis non debent admisceri: quippe et sine partus
+            causa cum in menstruis consuetis detinentur, uiris suis misceri prohibentur, ita ut
+            morte lex sacra feriat, si quis uir ad menstruam mulierem accedat. §. 1. Que tamen
+            mulier, dum consuetudinem menstruam patitur, prohiberi ecclesiam intrare non ualet s,
+            quia ei naturae superfluitas in culpam non debet reputari, et per hoc, quod inuita
+            patitur, iniustum est, ut ecclesiae priuetur ingressu. Nouimus namque, quod mulier, que
+            fluxum patiebatur, sanguinis post tergum Domini humiliter ueniens uesti-menti eius
+            fimbriam tetigit, atque ab ea statim infirmitas sua recessit. Si ergo in fluxu sanguinis
+            posita laudabiliter potuit Domini uestimentum tangere, cur, que menstruam patitur
+            sanguinis, ei non liceat ecclesiam intrare? Si enim eaP bene presumsit, que uestimentum
+            Domini in languore posita tetigit, quod uni personae infirmanti conceditur, cur non
+            concedatur cunctis mulieribus, que naturae suae uitio infirmantur? §. 2. Sanctae autem
+            com-</p>
+
+
+
+
+
+          <p>munionis misterium in eisdem diebus percipere non debet prohiberi. Si autem ex
+            ueneratione magna percipere non presumit, laudanda est; sed si perceperit% non
+            estiudicanda. Bonarum quippe mentium est, etiam ibi culpas suas agnoscere, ubi culpa non
+            est; quia sepe sine culpa agitur, quod uenit ex culpa. Unde etiam cum esurimus, sine
+            culpa comedimus, quibus ex culpa primi hominis factum est, ut esuriamus.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

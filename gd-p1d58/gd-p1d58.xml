@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LVIII</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LVIII</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d58">
+        <head>DISTINCTIO LVIII</head>
+        <p>Item ex monachali habitu nullus assumatur ad ecclesiasticum offitium, nisi fuerit oblatus
+          uoluntate proprii abbatis.</p>
+        <p>Unde Gregorius scribit [Mariniano Episcopo Rauennati, lib. VII. epist. 18.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Monachus non ordinetur clericus, nisi uoluntate abbatis •
+            episcopo fuerit oblatus.</head>
+          <p>Ad ecclesiasticum uero offitium nullus ex monasterioproducatur monachus, nisi quem
+            abbas loci admonituspropria uoluntate obtulerit episcopo.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex Concilio Cartaginensi V. [c. 13.]</p>
+          <p>Si quis de alterius monasterio repertum* uel ad clericatum promouere uoluerit, uel in
+            suo monasterio maiorem monasterii constituere**, episcopus, qui hoc fecerit, acommunione
+            ceterorum seiunctus, suae tantummodoplebis communione contentus sit, et ille neque
+            clericus***, neque prepositus perseueret.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

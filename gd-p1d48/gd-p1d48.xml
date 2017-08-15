@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLVIIL</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLVIIL</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d48">
+        <head>DISTINCTIO XLVIIL</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Prohibentur etiam „neophiti in episcopos ordinari, ut qui heri^erat catecuminus,
+          hodie non fiat episcopus, qui heri erat in teatro, hodie non sedeat in ecclesia, qui
+          uespere eratin circo, hodie non ministret altario, qui dudum fuerat fautoristrionum, hodie
+          non sii consecrator uirginum. Causa autemhuius prohibitionis est secundum Apostolum, ne
+          elatus in superbiam tamquam religio Christiana plurimum eo egeret, incidat inruinam
+          diaboli. Momentaneus namque sacerdos nescit humilitatem, modos personarum, uel se
+          contempnere; non ieiunauit,non fleuit, non se correxit, non pauperibus erogauit. In
+          arrogantiam (&lt;que est ruina diabolii) incidunt, qui puncto horae necdumdiscipuli fiunt
+          magistri, et sicut Innocentius ait, ,, miserum est,eum fieri magistrum, qui necdum didicit
+          esse discipulus. “</p>
+        <p>Unde de eisdem in Ni ceno Concilio, [c. 2.] legitur:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Neophitus in episcopum non est ordinandus.</head>
+          <p>Quoniam multa siue per necessitatem, siue ex quacumque* causa, contra regulam gesta
+            sunt, ita ut homines ex uita gentili nuper adhuc cathecumini uel instructi statimad
+            spirituale baptisma uenissent, et continuo, cum baptizati sunt, etiam ad episcopatum uel
+            presbiterium pro-uecti sunt: recte igitur uisum est, de cetero nil talefieri. Nam et
+            tempore opus est, ut sit catecuminus,et post baptismum multa probatione indiget. Euidens
+            namque est preceptum apostolicum, dicens: „Nonneophitum,ne forte elatus in superbiam in
+            iudicium incidat et inslaqueum diaboli.“ Si uero precedente** tempore mortalealiquod***
+            peccatum admiserit, et conuictus duobus ueltribus testibus fuerit, cessabit a clero qui
+            huiusmodi est.Si quis uero preter hec fecerit, tanquam contrariastatuti sancti concilii
+            gerens, etiam ipse periclitabitur de statu sui cleri.</p>
+          <p>Gratian. Neophiti uero hodie appellantur ad propositum sacrae religionis nouiter
+            accedentes .</p>
+          <p>Unde B. Gregorius scribit [lib. VII. epist. no.]'dicens:</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Qui dicantur neophiti.</head>
+          <p>Sicut neophitus dicebatur, qui in initio* sanctae fidei erat erudicione plantatus,sic
+            modo neophitus habendus est, qui repente in religionis habitu plantatus ad ambiendos
+            sacros ordines irrepserit. §, i. Ordinate ergo adordines ascendendum est. Nam casum
+            appetit, qui adsummi loci fastigia postpositis gradibus per abrupta queritascensum.
+            Scimus autem, quod edificati parietes nonprius tignorum pondus accipiant s, nisi a
+            nouitatissuae humore siccentur, ne, si ante pondera, quam solidentur,accipiant, cunctam
+            simul fabricam ad terram deponant.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

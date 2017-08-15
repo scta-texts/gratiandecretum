@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXXXIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXXXIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d83">
+        <head>DISTINCTIO LXXXIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Prouidendum quoque est, ne is, qui ad ordinandum eligitur, etsi a proprio uitio
+          uideatur alienus, consentiendo alienis inquinetur. Ut enim Simacus Papa ait: ,,Non est
+          grandis differentia, utrum lethum inferas, uel admittas. Mortemenim languentibus probatur
+          infligere, qui hanc, cum possit, nonexcludit. “</p>
+        <p>Hinc Gregorius VII. ait [in Reg. lib. VI. c. 12. Romanae</p>
+        <p>Sinodi, celebratae Anno Domini 1080. al. 1078.] :</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Suspendatur ab offitio, clericorum suorum fornicationi
+            consentiens episcopus.</head>
+          <p>Si quis episcopus fornicationem presbiterorum, diaconorum*, uel crimen incestus in sua
+            parrochia precio uelprecibus interueniente consenserit, uel commissum auctoritate sui
+            offitii non inpugnauerit, ab offitio suspendatur,</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Maxime ecclesiam ledit sub nomine sanctitatis
+            delinquens.</head>
+          <p>Item Augustinus.</p>
+          <p>Nemo quippe in ecclesia amplius nocet, quam qui peruerse agens nomen uel ordinem
+            sanctitatis et sacerdotis habet. Delinquentem namque hunc nullus redarguere presumit, et
+            in exemplum culpa uehementer extenditur, quoniam pro reuerentia ordinis peccator
+            honoratur.Episcopus* itaque, qui talium crimina non corrigit, magisdicendus est canis
+            inpudicus quam episcopus.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Qui non resistit errori, consentit.</head>
+          <p>Item Innocentius.</p>
+          <p>Error, cui non resistitur, approbatur, et ueritas, cum minime defensatur, obprimitur.
+            Negligere quippe, cumpossis perturbare peruersos, nichil est aliud quamfouere.</p>
+          <p>Nec caret scrupulo societatis occultae, qui manifesto facinori desinit obuiare.</p>
+        </div>
+        <div>
+          <head>C. IV, Non prodest suo errore non pollui, qui alieno consentit</head>
+          <head type="question-title">.</head>
+          <p>Item Pius Papa, [epist. I. ad omnes Christi fideles].</p>
+          <p>Quid enim prodest illi suo errore non pollui, qui consensum prestat erranti?</p>
+        </div>
+        <div>
+          <head>C, V</head>
+          <head type="question-title">. Qui non occurrit, consentit.</head>
+          <p>Item Gregorius*.</p>
+          <p>Consentire uidetur erranti, qui ad resecanda, que corrigi debent, non occurrit.</p>
+          <p>Gratian. Sicut autem aliorum uitia palpare non debet% ita nec malorum laudibus
+            delectari.</p>
+          <p>Unde Anacletus cunctis fidelibus.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Miserrimus est episcopus, qui malorum gloriatur
+            laudibus.</head>
+          <p>Nichil illo pastore miserius, qui luporum gloriatur laudibus. Quibus si placere
+            uoluerit, atque ab his amaridelegerit, erit hinc ouibus magna pernicies. Nullus
+            igiturpastorum placere lupis et gregibus ouium potest. Perditenim memoriam laborum* mens
+            terrenis obligata carceribus. Sicut autem artium in suo quoque opere inueniturmater
+            instantia, ita nouerca erudicionis est negligentia.</p>
+          <p>II. Pars. Gratian. Quamquam sacerdotem tam a suis, quam a&amp; alienis criminibus
+            oporteat esse imunem, tamen sialiorsum sese habuerit, non ideo uerba suae predicationis
+            debentcontempni. Sicut enim Ieronimus ait; ut lixiuium percinerem humidum fluens lauat,
+            et non lauatur, ita bona doctrinaper malum doctorem animas credentium lauat a sordeas
+            peccatorum.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

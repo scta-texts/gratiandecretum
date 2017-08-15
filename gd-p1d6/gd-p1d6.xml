@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO VI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO VI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d6">
+        <head>DISTINCTIO VI.</head>
+        <p>GRATIANUS.</p>
+        <p>Quia uero de naturae superfluitate sermo cepit haberi, queritur, an post illusionem, que
+          per somnium accidere solet, corpus Domini quilibet accipere ualeat, uel si sacerdos sit,
+          sacra misteria celebrare.</p>
+        <p>Deliis ita scribit B. Gregorius [I.] Augustino An-glorum Episcopo, [resp. n.]</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">De multiplici genere illusionis.</head>
+
+          <p>Testamentum ueteris legis hunc pollutum dicit, nisi aqua lotus fuerit, eique usque ad
+            uesperam intrare ecclesiam non conceditur. Quod tamen aliter populus spiritualis
+            intelligens quasi per somnium eum illudi reputat, qui temptatus immundicia ueris*
+            imaginibus in cogitatione inquinatur. Sed lauandus est aqua, ut culpam cogitationis
+            lacrimis abluat, et nisi prius ignis tentationis recesserit, reum se quasi usque ad
+            uesperum^ cognoscat. §. i. Sed est in eadem illusione necessaria ualde discretio, ua
+            subtiliter pensare debeat, ex qua re accidat menti ormientis. Aliquando enim ex crapula,
+            aliquando ex naturae suae superfluitate aut infirmitate, aliquando excogitatione
+            contingit pollutio. §. 2. Et quidem cum ex naturae superfluitate uel infirmitate
+            euenerit, omnimodohec illusio non est timenda, quia hanc animus nesciens pertulisse
+            magis dolendus est, quam fecisse. §. 3. Cum uero ultra modum appetitus gulae in sumendis
+            alimentis rapitur, atque idcirco humorum receptacula grauantur, habet exinde animus
+            aliquem reatum, non tamen usque ad prohibitionem sacri misterii percipiendi, uel
+            missarum sollempnia celebrandi, cum fortasse aut dies festus exigit, aut exhibere
+            ministerium pro eo, quod sacerdos alius deest, ipsa necessitas compellit. Nam si adsunt
+            alii, qui implere ministerium ualeant, illusio-per crapulam facta a perceptione sacri
+            misterii prohibere non debet, sed ab immolatione sacri misterii, ut arbitror, abstinere
+            debet humiliter, si** tamen dormientem turpi imaginatione nonp concusserit. Nam sunt,
+            quibus ita plerumque illusio nascitur, ut eorum animus etiam in somno corporis positus
+            turpibus imaginationibus non fedetur. Qua in re unum ibi ostenditur, ipsa mens rea non
+            tunc***, uel in suo iudicio libera q cum se etsi in dormientis corpore nihil meminit
+            uidisse, tamen in uigiliis corporis meminit se in ingluuiemcecidisse. §. 4. Sin uero ex
+            turpi cogitatione uigilantis oritur illusio in mente dormientis, patet animo reatus
+            suus. Videt enim, a qua radice inquinatio illa processerit, quiaquod cogitauit sciens,
+            hoc pertulit nesciens.****</p>
+          <p>[PALEA*.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Peccatum non dicitur perpetratum cogitatione solum, sed
+            delectatione et consensu.</head>
+          <p>Sed pensandum est, ipsa cogitatio utrum in suggestione, an delectatione, uel (quod
+            maius est) peccati consensu acciderit. Tribus enim modis impletur omne peccatum,
+            uidelicet suggestione, delectatione, consensu: suggestio quippe fit per diabolum,
+            delectatio per carnem, consensus per spiritum; quia et primo culpam serpens suggessit,
+            Eua uelut caro delectata est, Adam uelut spiritus consensit. §. 1. Et necessaria est
+            magna discretio, ut inter suggestionem** delectationem et consensum iudex sui animus
+            pre-sideat. Cum enim malignus spiritus peccatum suggerit in mente, si nulla peccati
+            delectatio sequatur, peccatumomnimodo perpetratum non est; cum uero caro delectari
+            ceperit, tunc peccatum incipit nasci; si autem etiam ad consensionem ex deliberatione
+            descendit, tunc peccatum cognoscitur perfici. In suggestione igitur peccati semen</p>
+
+
+
+
+
+          <p>est, in delectatione fit nutrimentum, in consensu perfectio. §. 2. Et sepe contingit,
+            ut hoc, quod malignus spiritus seminat in cogitatione, caro in delectationem trahat, nec
+            tamenanimus eidem delectationi consentiat. Et cum caro sine anima delectari nequeat,
+            ipse tamen animus carnis uolu-ptatibus reluctans in delectatione carnali aliquo modo
+            ligatur inuitus, ut ei ex ratione contradicat, nec consentiat, et tamen delectatione
+            ligatus sit, sed ligatum se uehementer ingemiscat. Unde et ille celestis exercitus
+            precipuus miles gemebat dicens: *,Video aliam legem in membris meis repugnantem legi
+            mentis meae, et captiuum me ducentem in lege peccati que est in membris meis.“ Si
+            autem*** captiuus erat, minime repugnabat: quapropter et captiuus erat, et repugnabat.
+            Igitur legi mentis eius lex, que in membris est, repugnabat; si autem repugnabat,
+            captiuus non erat. Ecce itaque homo est (ut ita dixerim) captiuus, et liber: liber ex
+            iustitia, quam diligit; captiuus ex delectatione, quam portat inuitus.J</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Quando sit peccatum nocturnis imaginibus illudi.</head>
+          <p>Item Ysidorus Sententiarum libro, [Lib. III. Sent. de summo bono, cap. 6. (no. 13.
+            14.)] </p>
+          <p>Non est peccatum, quando nolentes imaginibus nocturnis illudimur; sed tunc est
+            peccatum, si, antequam illudamur, cogitationis affectibus preuenimur. Luxuriae quippe
+            imagines, quas in ueritate gessimus, sepe dormientibus in animo apparent, sed innoxiae,
+            si non concupiscendo occurrunt. §. 1. /tem Qui nocturna illusione polluitur, quamuis
+            extra memoriam turpium cogitationum sese persentiat inquinatum, tamen hoc, ut
+            tentaretur, culpae suae tribuat, suamque immunditiam statim fletibus tergat.</p>
+          <p>Gratian. His ita respondetur. In lege et euangelio™naturale ius continetur; non tamen
+            quecunque in lege et euangelio inueniuntur, naturali iuri coherere probantur. Sunt enim
+            in lege quedam moralia, ut: non occides et cetera^, quedam mistica, utpote sacrifitiorum
+            precepta, et alia his similia. Moralia mandata ad naturale ius spectant atque ideo
+            nullam mutabilitatem recepisse monstrantur. Mistica vero, quantum ad superficiem, a
+            naturali iure probantur aliena, quantum ad moralem intelligentiam, inueniuntur sibi
+            annexa; ac per hoc, etsi secundum superficiem uideantur esse mutata, tamen secundum
+            moralem intelligentiam mutabilitatem nescire probantur. §. 1. Naturale ergo ius ab
+            exordio rationalis creaturae incipiens, ul supra dictum est, manet immobile. Ius uero
+            consuetudinis post naturalem legem exordium habuit, ex quo homines conuenientes in unum
+            ceperunt simul habitare; quod ex eo tempore factum creditur, ex quo Cain ciuitatem
+            edificasse legitur, quod cum diluuiopropter hominum raritatem fere uideatur exstinctum,
+            postea postmodum^£ a tempore Nemroth reparatum siue potius immutatum existimatur, cum
+            ipse simul cum aliis alios cepit opprimere; alii swa imbecillitate eorum ditioni
+            ceperunt esse sub-iecti, unde legitur * de eo: „ Cepit Nemroth esse robustus uenator
+            coram Domino, id est * hominum oppressor et exstinctor; quos ad turrim edificandam
+            allexit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

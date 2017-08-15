@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d23">
+        <head>DISTINCTIO XXIII.</head>
+        <p>I. Pars. Breuiter que inter ecclesiastica of/itia siit differentia monstrauimus. Nunc a
+          summo incipientes, et usque ad ultimum gradum descendentes, qualiter quisque eorum debeat
+          ordinari, sanctorum auctoritatibus ostendamus.</p>
+
+
+
+
+
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">* Decretum Nicolai Papae de electione Romani
+            Pontificis.</head>
+          <p>In nomine Domini nostri et saluatoris Iesu Christi. Ab incarnatione eius anno MLIX.
+            mense Aprili, indictione XII., propositis sacrosanctis euangeliis, presidente quoque
+            reuerendissimo ac beatissimo Nicolao Papa, in basilica Lateranensis patriarchii, que
+            cognominatur Constantiniana, considentibus etiam reuerendissimis episcopis,
+            abbatibus,</p>
+
+          <p>Jiresbiteris, diaconibus, idem uenerabilis Pontifex aposto-ica auctoritate decernens de
+            electione summi Pontificis, inquit: §. i. Nouit beatitudo uestra, dilectissimi fratres
+            et coepiscopi, inferiora quoque membra non latuit, defuncto piae memoriae domino
+            Stephano predecessore nostro hec apostolica sedes, cui auctore Deo deseruio, quot
+            aduersa pertulerit, quot denique per simoniacae heresis trapezitas repetitis malleis
+            crebnsque tunsionibussubiacuerit, adeo ut columna Dei uiuentis iam pene uideretur
+            nutare, et sagena summi piscatoris procellis intumescentibus cogeretur in naufragii
+            profunda submergi. Unde, si placet fraternitati uestrae, debemus auxiliante Deo futuris
+            casibus prudenter occurrere, et ecclesiastico statui, ne rediuiuas mala (quod absit)
+            preualeant, in posterum prouidere. §. 2. Quapropter instructi predecessorum nostrorum
+            aliorum que sanctorum Patrum auctoritate, decernimus atque statuimus, ut, obeunte huius
+            Romanae ecclesiae uniuersalis Pontifice, inprimis cardinales episcopi diligentissima
+            simul consideratione tractantes, mox sibi clericos cardinales adhibeant: sicque reliquus
+            clerus et populus ad consensum nouae electionis accedant, nimirum precauentes, ne
+            uenalitatis morbus aliqua occasione subrepat. Religiosissimi uiri preduces sint in
+            promouenda Pontificis electione, reliqui autem sequaces. §. 3. Certus uero atque
+            legitimus hic electionis ordo perpenditur, si, perspectis diuersorum Patrum regulis siue
+            gestis, etiam illa B. predecessoris nostri Leonis sententia recolatur. „Nulla, inquit,
+            „ratio sinit, ut inter episcopos habentur, qui nec a clericis sunt electi, nec a
+            plebibus expetiti, nec a comprouincialibus episcopis cum metropolitani iudicio
+            consecrati/ Quia sedes apostolica cunctis in orbe terrarum prefertur ecclesiis atque
+            ideo super se metropolitanum habere non potest, cardinales episcopiproculdubio
+            metropolitani uice funguntur, qui uidelicet electum antistitem ad apostolici culminis
+            apicem pro-uehant. §. 4. Eligatur autem de ipsius ecclesiae gremio, si reperitur
+            idoneus; uel si de ipsa non inuenitur, ex alia assumatur; saluo debito honore et
+            reuerentia dilecti filii Henrici p, qui in presentiarum rex habetur, et futurus
+            imperator Deo concedente speratur, sicut iam sibi concessimus et successoribus illius,
+            qui ab hac apostolica sede hoc ius personaliter impetrauerint. §. 5. Quod si prauorum
+            atque iniquorum hominum ita peruersitas inualuerit, ut pura, sincera atque gratuita
+            fieri in Urbe non possit electio, cardinales episcopi cum religiosis clericis
+            catholicisque laicis, licet paucis, ius potestatis obtineant, eligere apostolicae sedis
+            Pontificerrt, ubi congruerit &lt;1. §. 6. Plane, postquam electio fuerit facta, si
+            bellica tempestas uel qualiscumque hominum conatus malignitatis studio restiterit, ut
+            is, qui electus est, in apostolica sede iuxta consuetudinem inthroni-zari non ualeat,
+            electus tamen, sicut uere Papa, auctoritatem obtineat regendi Romanam ecclesiam, et
+            disponendi omnes facultates illius; quod beatum Gregorium ante consecrationem suam
+            fecisse cognouimus. §. 7. Quod si quis contra hoc nostrum decretum sinodali sententia
+            promulgatum per seditionem, uel presumptionem, aut quolibet ingenio electus aut etiam
+            ordinatus, seu inthronizatusfuerit, auctoritate diuina et sanctorum apostolorum Petri et
+            Pauli, perpetuo anathemate cum suis auctoribus, fautoribus et sequacibus a liminibus
+            sanctae Dei ecclesiae separatus abiciatur sicut antichristus, et inuasor et destructor
+            totius Christianitatis; nec aliqua super hoc audientia aliquando reseruetur ei: sed ab
+            omni ecclesiastico gradu, in quocumque fuerat prius, sine retractatione deponatur: cui
+            quisquis adheserit, uel qualemcumque tamquam Pontifici reuerentiam exhibuerit, aut in
+            aliquo eum, defendere presumpserit, pari sententia sit mancipatus. §. 8. Quisquis huius
+            nostrae decretalis sententiae temerator extiterit, et Romanam ecclesiam sua presumptione
+            confundere et perturbare contra hoc statutum temptauerit, perpetuo anathemate atque
+            excommunicatione dampnetur, „et cum impiis, qui non resurgent in iudicio, deputetur,
+            omnipotentis contra se sentiat iram, et sanctorum apostolorum Petri et Pauli (quorum
+            presumit ecclesiam confundere), in hac uita et in futura furorem sentiat ,, fiat
+            habitatio eius deserta, et non sit, qui inhabitet in tabernaculis eorum, fiant filii
+            eius orphani et uxor eius uidua, commotus amo-</p>
+
+
+
+
+
+          <p>ueatur ipse et eius filii, et mendicent, et eiciantur de habitationibus suis, scrutetur
+            fenerator omnem substantiam eiuS, et diripiant alieni labores eius, orbis terrarum
+            pugnet contra eum, e.t cuncta elementa sint ei contraria,et omnium sanctorum
+            quiescentium merita illum confundant, et in hac uita super eum apertam uindictam
+            ostendant. §. 9. Obseruatores autem huius nostri .decreti omnipotentis gratiay protegat,
+            et auctoritas beatorum, apostolorum Petri et Pauli ab omnium uinculis peccatorum
+            absoluat.</p>
+          <p>II. Pars. Gratian. Episcopi uero et ceteri ordines infra constituti qualiter ordinari
+            debeant, e# auctoritate Carta-ginensis concilii IV. [cap. 1.], cui interfuit Augustinus
+            tempore Honorii Augusti, ostendamus, ab eorum examinatione incipientes.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Quomodo sit examinandus, qui in episcopum eligitur.</head>
+          <p>Qui episcopus* ordinandus est, antea examinetur, si natura sit prudens, si docibilis,
+            si moribus temperatus si uita castus, si sobrius, si semper suis negociis cauenssi
+            humilis, si affabilis, si misericors, si litteratus, si in lege Domini instructus, si in
+            scripturarum sensibus cautus, si in dogmatibus ecclestiasticis exercitatus; et ante
+            omnia, si fidei documenta uerbis simplicibus asserat, id est Patrem et Filium et
+            Spiritum sanctum unum Deum esse confirmans, totamque trinitatis deitatem coessentialem
+            et consubstantialem et coeternalem et coomnipotentem predicans; si singulas quasque in
+            trinitate personas plenum Deum, et totas tres personas unum Deum, si incarnationem
+            diuinam non in Patre, neque in Spiritu sancto factam, sed in Filio tantum credat, ut, in
+            cliuinitate qui erat Dei Patris Filius, Deus uerus ex Patre esset ethomo uerus ex matre,
+            carnem ex matris uisceribus habens, et animam humanam rationabilem, simul" in eo
+            utriusque naturae, id est s Deus et homo, una persona, unus Filius, unus Christus, unus
+            Dominus, creatoromnium que sunt et auctor. Dominus et rector cum Patre et Spiritu sancto
+            omnium creaturarum; qui passus sit pro salute nostra uera camis passione, mortuus uera
+            corporis sui morte, resurrexit uera carnis suae receptioneet uera animae resumptione, in
+            qua ueniat ^ iudicare uiuos et mortuos. §. 1. Querendum est etiam ab eo, si noui et
+            ueteris testamenti, id est legis et prophetarum et apostolorum unum eundemque credat
+            auctorem Deum, si diabolus non per conditionem, sed per arbitrium factus sit malus. §.
+            2. Querendum etiam ab eo, si credat huius, quam gestamus, et non alterius carnis
+            resurrectionem, si credat iudicium futurum, et recepturos singulos pro his, que in hac
+            carne gesserunt, uel penas, uel premia, si nuptias non prohibeat, si secunda matrimonia
+            non dampnet, si carnium perceptionem non culpet, si peni-tentibus reconciliatis
+            communicet, si in baptismo omnia peccata, id est tam illud originale peccatum
+            contractum, quam illa, que uoluntarie admissa sunt, dimittantur, si extra ecclesiam
+            catholicam nullus saluetur. §. 3. Cum in his omnibus examinatus inuentus fuerit plene
+            instructus, tunc cum consensu clericorum et laicorum et con-uentu totius prouinciae
+            episcoporum, maximeque metropolitani uel auctoritate, uel presentia ordinetur episcopus.
+            Suscepto in nomine Christi episcopatu, non suae delectationi, nec suis moribus p, sed
+            his Patrum diffinitionibus acquiescat**.</p>
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Qualis esse debeat clericorum conuersatio.</head>
+          <p>Item Ysidorus de uita clericorum.</p>
+          <p>III. Pars. His igitur lege Patrum cauetur, ut a uul-gari uita seclusi a mundi
+            uoluptatibus sese abstineant; non spectaculis, non pompis intersint; conuiuia publica
+            fugiant, priuata non tantum pudica, sed et sobria colant; usuris nequaquam incumbant,
+            neque turpium occupationibus lucrorum, non fraudibus cuiusquam studium appetant; amorem
+            pecuniae quasi materiam cunctorum criminum fugiant, secularia offitia negotiaque
+            abnuant; honoris gradus per ambitionem non suscipiant; pro beneficiis medicinae Dei
+            munera non accipiant; dolos et coniurationes caueant; odium, emulationes^,
+            obtrectationem atque inuidiam fugiant; non uagis oculis, non effreni lingua, aut
+            petulantia fluidoque gestu incedant, sed pudorem et uerecundiam mentis simplici habitu
+            incessuque ostendant; obscenitatem etiam membrorum etuerborum, sicut et operum, penitus
+            exsecrentur; uiduarum et uirginum frequentaciones fugiant; contuberniaextranearum
+            feminarum nullatenus appetant; castimoniam quoque inuiolati corporis perpetuo conseruare
+            studeant, aut certe unius matrimonii uinculo federentur; senioribus quoque debitam
+            prebeant obedientiam, neque ullo iactantiae studio semetipsos attollant; postremo
+            doctrinae lectionibus, psalmis, imnis, canticis, exercitio iugi incumbant. Tales enim
+            esse debent, qui diuinis cultibus sese mancipandos studeant”, scilicet ut, dum scientiae
+            operam dant, doctrinae gratiam populis administrent.</p>
+
+
+
+
+
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Qui digne sacramenta tractare non possunt, ad ministerium non
+            eligantur diuinum.</head>
+          <p>Item Clemens [ad Iacobum fratrem Domini, epist. II.].</p>
+          <p>Tales ad ministerium eligantur clerici, qui digne possint dominica sacramenta tractare.
+            Melius est enim Domini sacerdoti paucos habere ministros, qui possint digne opus Dei
+            exercere, quam multos inutiles, qui onus graue ordinatori adducant.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Si electo in episcopum aliqua obiciuntur, quinque uel sex
+            episcopi ad eius purgationem perueniant.</head>
+          <p>Item ex Concilio Cartaginensi IV.</p>
+          <p>Illud statuendum est, ut, quando ad eligendum episcopum conuenerimus, si qua
+            contradictio oborta fuerit (quia talia sunt facta apud nos), non presumant ad purgandum
+            eum, qui ordinandus est, tres tantum, sed postulentur ad numerum supradictorum duo uel
+            tres, et in eadem plebe, cui ordinandus est, discutiantur primo personae
+            contradicentium, postremo etiam illa, que obiciuntur, pertractentur, et, cum purgatus
+            fuerit sub conspectu publico, ita demum ordinetur. Si hoc cumuestrae sanctitatis animo
+            concordat, roboretur uestrae dignitatis responsione. Ab uniuersis episcopis dictum est:
+            „ Satis placet “.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Vota suae promissionis spondeant, quos ecclesiastica promouet
+            disciplina.</head>
+          <p>Item ex Concilio Tolletano XI. [c. io.]</p>
+          <p>Quamquam omnes, qui sacris mancipantur ordinibus, canonicis regulis teneantur astricti,
+            expedibile tamen est, ut promissionis suae uota sub cautione spondeant, quos ad
+            promotionis gradus ecclesiastica probat disciplina. Solet enim plus timeri, quod
+            singulariter pollicetur, quam quod generali sponsione concluditur. §. i. Et ideo placuit
+            huic sancto concilio, ut unusquisque, qui ad ecclesiasticos gradus est accessurus, non
+            ante honoris consecrationem accipiat, quam placiti sui innotacionepromittat, ut fidem
+            catholicam sincera cordis deuotione custodiens iuste et pie uiuere debeat, et in nullis
+            operibus suis canonicis regulis contradicat, atque ut debitum per omnia honorem atque
+            obsequii reuerentiam preminenti sibi unusquisque dependat, iuxta illud Papae
+            Leonisedictum: ,,Qui se scit aliquibus esse prepositum, non moleste ferat aliquem sibi
+            esse prelatum, sed obedientiam, quam exigit, etiam ipse dependat.^ Pena tamen iuxta
+            ecclesiasticae consuetudinis morem et placitis talium inferenda, et ab his, qui
+            transgressores fuerint, persoluenda est.</p>
+
+          <p>Dehinc disponitur, qualiter ecclesiastica offitia ordinentur.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Qualiter ordinetur episcopus.</head>
+          <p>Episcopus cum ordinatur, duo episcopi ponant et teneant euangeliorum codicem super
+            caput et ceruicem eius, et uno super eum fundente benedictionem, reliqui omnes episcopi,
+            qui adsunt, manibus suis caput eius tangant.</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Qualiter ordinetur presbiter. [Ex eodem c. 3.]</head>
+          <p>Presbiter cum ordinatur, episcopo eum benedicente et manum super caput eius tenente,
+            etiam omnes presbiteri, qui presentes sunt, manus suas iuxta manus episcopi super caput
+            illius teneant.</p>
+          <p>Sicuti autem in die ordinationis suae sacerdos orario utroque humero ambitur, ita
+            tempore consecrationis eodem orario instanter uti debet.</p>
+          <p>Unde in Concilio Bracharensi [III. c. 3.] legitur:</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Quod quisque accepit tempore consecrationis, ferat tempore
+            oblationis.</head>
+          <p>Ecclesiastica institucione prefixum nouimus, ut omnis sacerdos, cum ordinatur, orario
+            utroque humero ambiatur: scilicet, ut qui imperturbatus precipitur consistere inter
+            prospera etaduersa uirtutum semper ornamento, utroque circumseptus apareat humero. Qua
+            ergoratione tempore sacrificii non assumit, quod se in sacramento accepisse non dubitat?
+            Proinde modis omnibus conuenit, ut, quod quisque percepit in consecratione honoris, hoc
+            retineat et in oblatione uel perceptione suae salutis; scilicet, ut, cum sacerdos ad
+            solempnia missarum accedit, aut per se Deo sacrificium oblaturus, aut sacramentum
+            corporis et sanguinis Domini nostri Iesu Christi sumpturus, non aliter, quam orario
+            utroque humero circumseptus, sicut et tempore ordinationis suae dignoscitur consecratus,
+            ita ut de uno eodemque orario ceruicem pariter et utrumque humerum premens signum in suo
+            pectore preparet crucis. §. 1. Si quis autem aliter egerit, debitae excommunicationi
+            subiacebit.</p>
+          <p>IV. Pars. Gratianus. Dalmaticis autem nec episcopis, nec diaconibus absque apostolica
+            licentia uti permittitur.</p>
+          <p>Unde Gregorius Aregio Episcopo Francorum, [lib. VII. epist. in.]</p>
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="question-title">Absque apostolica licentia dalmaticis neque episcopis neque
+            diaconibus uti licet.</head>
+          <p>Communis filius diaconus Petrus nobis innotuit, quod fraternitas uestra tempore, quo
+            hic fuit, poposcerit, ut sibi et archidiacono suo utendi dalmaticis licentiam
+            preberemus. Sed quia hominum suorum infirmitate compulsus festinanter abcessit, ut nec
+            ipse meror incumbens diu(ut dignum erat et res desiderata poscebat) sineret manere, et
+            nos in multis inplicatos, ut ecclesiasticae rationis</p>
+
+
+
+
+
+          <p>est consideratio , nouum hoc inconsulte et subito non permitteret indulgere, idcirco
+            postulatae rei prolongatus effectus est. Nunc uero, caritatis tuae bona reuocantes ad
+            animum, huius auctoritatis nostrae serie petita concedimus, atque te et archidiaconum
+            tuum dalmaticarum usu decorandos esse concessimus, easdemque dalmaticas dilectissimo
+            filio nostro Ciriaco abbate deferente transmisimus.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="question-title">Qualiter ordinetur diaconus. [Ex Cone.</head>
+          <p>Carth. IV. c. <sub>4</sub>.].</p>
+          <p>Diaconus cum ordinatur, solus episcopus, qui eum benedicit, manus super caput illius
+            ponat quianon ad sacerdotium, sed ad ministerium consecratur.</p>
+          <p>V. Pars. Gratianus. Queritur autem, an post benedictionem manus presbiterorum et
+            diaconorum erismatis liquore debeant perungi.</p>
+          <p>De his ita scribit Nicolaus Papa [I.] Radulpho Bituricensi Archiepiscopo :</p>
+        </div>
+        <div>
+          <head>C. XII.</head>
+          <head type="question-title">Nec presbiteris, nec diaconibus in consecratione crismate
+            manus perungantur^*.</head>
+          <p>Preterea sciscitaris, utrum solis presbiteris, an et diaconibus debeant, cum
+            ordinantur, manus erismatis liquore perungi. Quod in sancta Romana ecclesia, cui auctore
+            Deo deseruimus, neutris agitur. Sed quia sit a nouae legis ministris actum, nusquam
+            (nisi nos fallat obliuio) legimus. Ergo ad B. Innocentii Papae canonica decreta
+            sanctitatem tuam transmittimus, et que sint tibi in consecrationibus et ordinibus
+            obseruanda, principia paginae ad Decentium Eugubinum episcopum missae te affatim
+            edocebunt.</p>
+          <p>[PALEA.</p>
+          <p>C.XIII. Ex Cone. Hispal. II. c. 5.</p>
+          <p>Ex* epistola Simplicii Papae Seuero et Florentino Episcopis directa. Ad cognitionem
+            nostri examinis Gabrenen-sis diaconi relatu peruenit de quibusdam ipsius ecclesiae
+            clericis, quorum cum unus ad presbiterium, duo ad Leuitarum ministerium consecrarentur,
+            episcopuseorum, oculorum dolore detentus, fertur manum suam super eos tantum posuisse,
+            et presbiter quidam illis contra ecclesiasticum ordinem benedictionem dedisse; qui
+            propter tantam presumptionis audaciam poterat accusatus iudicio presenti dampnari, si
+            adhuc in corpore positus, non fuisset mortis uocatione preuentus. Sed quia iam ille
+            examini diuino relictus humano iudicio accusari non potest, hi, qui supersunt, et ab eo
+            non consecrationis titulum, sed ignominiae potius elogium acceperunt, ne sibi licentiam
+            talis ultra usurpatio faciat, decreuimus, ut a gradu sacerdotalis uel leuitici ordinis,
+            quem peruerse adepti sunt, depositi equo iudicio abiciantur. Tales enim merito iudicati
+            sunt remouendi, quia praue inuenti sunt constituti.] Gratian. Item queritur, an eorum
+            ordinatio sit rata habenda, quibus episcopus, oculorum languore impeditus^* manus,
+            imponit, et presbiter super eos orationem dicit.</p>
+
+          <p>De his ita statutum est in Concilio Tollet ano:</p>
+        </div>
+        <div>
+          <head>C. XIV.</head>
+          <head type="question-title">Et ordinator, et ordinatus dampnationis subeat penam, cum
+            episcopus manum imponit, et alius orationem dicit.</head>
+          <p>Quorumdam clericorum, dum unus ad presbiterium, duo ad Leuitarum ministerium
+            sacrarentur, episcopus, oculorum dolore detentus, fertur super eos manum suam tantum
+            posuisse, et presbiter quidam illis contra ecclesiasticum ordinem benedictionem dedisse.
+            Sed quia ille iam examini diuino relictus humano iudicio accusari non potest, hi, qui
+            supersunt, gradum sacerdotii uel leuitici ordinis, quem peruerse adepti sunt,
+            amittant.</p>
+        </div>
+        <div>
+          <head>C. XV.</head>
+          <head type="question-title">Qualiter ordinetur subdiaconus.</head>
+          <p>VI. Pars. Subdiaconus cum ordinatur, quia manus impositionem non accipit, patenam de
+            manu episcopi accipiat uacuam et calicem uacuum; de manu uero archidiaconi accipiat
+            urceolum cum aqua, manile et manu-tergium.</p>
+        </div>
+        <div>
+          <head>C. XVI.</head>
+          <head type="question-title">Qualiter ordinetur acolitus. Acolitus cum ordinatur, ab
+            episcopo quidem doceatur, qualiter in offitio suo debeat agere: sed ab archidiacono
+            accipiat ceroferarium cum cereo, ut sciat se ad accendenda ecclesiae luminaria
+            mancipari; accipiat et urceolum uacuum ad suggerendum uinum in eucharistiam sanguinis
+            Christi.</head>
+        </div>
+        <div>
+          <head>C. XVII.</head>
+          <head type="question-title">Qualiter ordinetur exorcista.</head>
+          <p>Exorcista cum ordinatur, accipiat de manu episcopi libellum, in quo scripti sunt
+            exorcismi, dicente sibi episcopo: „Accipe, et commenda memoriae, et habeto potestatem
+            inponendi manus super energuminum, siue baptizatum, siue catecuminum.</p>
+        </div>
+        <div>
+          <head>C. XVIII.</head>
+          <head type="question-title">Qualiter ordinetur lector.</head>
+          <p>Lector cum ordinatur, faciat de illo uerbum episcopus ad plebem, indicans eius fidem ac
+            uitam atque ingenium; post hoc spectante plebe tradat ei codicem, in</p>
+
+
+
+
+
+          <p>quo lecturus est, dicens: „Accipe, et esto relatoruerbi Dei, habiturus, si fideliter et
+            utiliter impleueris offitium, partem cum eis, qui uerbum Dei ministrauerint.“</p>
+        </div>
+        <div>
+          <head>C. XIX.</head>
+          <head type="question-title">Qualiter Jiostiarius.</head>
+          <p>Hostiarius cum ordinatur, postquam ab archidiacono instructus fuerit, qualiter in domo
+            Dei debeat conuersari, ad suggestionem archidiaconi tradat ei episcopus claues ecclesiae
+            de altario, dicens ei: „Sic age, quasi redditurus Deo rationem pro his rebus, que his
+            clauibus recluduntur. "</p>
+        </div>
+        <div>
+          <head>C. XX.</head>
+          <head type="question-title">Qualiter psalmista .</head>
+          <p>Psalmista, id est cantor, potest absque scientia episcopi, sola iussione presbiteri
+            offitium suscipere cantandi, dicente sibi presbitero: ,,Vide, ut, quod ore cantas, corde
+            credas, et quod corde credis, operibus comprobes.“</p>
+          <p>Gratian. Clerici comam nutrire prohibentur, quorum caput desuper in modum spherae rasum
+            esse debet.</p>
+          <p>Unde Anicius Papa [Episcopis Galliae.]</p>
+        </div>
+        <div>
+          <head>C. XXI.</head>
+          <head type="question-title">Clerici comam nutrire prohibeantur.</head>
+          <p>Prohibete, fratres, per uniuersas regionum uestrarum ecclesias, ut clerici, iuxta
+            apostolum, comam non nutriant, sed desuper caput in modum spherae radant.</p>
+        </div>
+        <div>
+          <head>C. XXII.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item ex Concilio Agat en si, [c. 20.] </p>
+          <p>Clerici, qui comam nutriunt, ab archidiacono, etiamsi noluerint, inuiti detondeantur.
+            Vestimenta etiam uel calceamenta eis, nisi que religionem deceat, uti aut habere non
+            liceat.</p>
+        </div>
+        <div>
+          <head>C. XXIII.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item Gregorius II. [in Concilio Romae habito in Basilica S. Petri, c. 17.]</p>
+          <p>Si quis ex clericis comam relaxauerit, [anathema sit.</p>
+        </div>
+        <div>
+          <head>C. XXIV.</head>
+          <head type="question-title">Quibus uestibus induta sanctimonialis est consecranda.</head>
+          <p>Sanctimonialis uirgo, cum ad consecrationem suoepiscopo offertur, in talibus uestibus
+            applicetur, qualibus semper usura est, sanctimoniae et professioni aptis.</p>
+          <p>Gratian. Vasa sacrata^ et uestimenta altaris mulieres</p>
+
+          <p>Deo dedicatae contingere, et incensum circa altaria deferre prohibentur.</p>
+          <p>Unde Sother Papa Episcopis Italiae, [epist. II.] </p>
+        </div>
+        <div>
+          <head>C. XXV.</head>
+          <head type="question-title">Vestimenta altaris et uasa sacrata mulieres ' tangere
+            prohibeantur .</head>
+          <p>Sacratas Deo feminas uel monachas sacra uasa uel sacratas pallas penes uos contingere,
+            et incensum circaaltaria deferre, perlatum est ad apostolicam sedem: que omnia
+            uituperatione et reprehensione plena essq, nulli recte sapientum dubium est. Quapropter
+            huius sanctae sedis auctoritate hec omnia uobis resecare funditus, quanto citius
+            poteritis, censemus. Et ne pestis heclatius diuulgetur, per omnes prouincias abstergi
+            citissime mandamus. •</p>
+        </div>
+        <div>
+          <head>C. XXVI.</head>
+          <head type="question-title">Sacrarium subdiaconibus ingredi non licet.</head>
+          <p>Item ex Concilio Laudicensi, [c. 21.]</p>
+          <p>Non oportet, subdiaconos licentiam habere in secretarium siue sacrarium (quod Greci
+            diaconium appellant) ingredi, et contingere uasa dominica.</p>
+          <p>[C. XXVII.]</p>
+          <p>Item.</p>
+          <p>Ministrum non oportet orariis uti, nec ostia* derelinquere.</p>
+          <p>[C. XXVIII.]</p>
+          <p>Item.</p>
+          <p>Non oportet lectores atque psalmistas orariis uti, et sic legere aut psallere.</p>
+        </div>
+        <div>
+          <head>C. XXIX.</head>
+          <head type="question-title">Mulieri in conuentu uiros docere non permittitur.</head>
+          <p>Item ex Concilio Cartagin. IV., [c. 99. et 98.]</p>
+          <p>Mulier, quamuis docta et sancta, uiros in conuentu docere non presumat. Laicus autem
+            presentibus clericis (nisi ipsis rogantibus) docere non audeat.</p>
+        </div>
+        <div>
+          <head>C. XXX.</head>
+          <head type="question-title">Ministris non sacratis uasa dominica contingere non
+            licet.</head>
+          <p>Item ex Concilio Agatensi, [c. 66.]'</p>
+          <p>Non oportet insacratos ministros licentiam habere in secretarium (quod Greci diaconium
+            appellant) ingredi, et contingere uasa dominica.</p>
+
+
+
+
+
+        </div>
+        <div>
+          <head>C. XXXI.</head>
+          <head type="question-title">Cuilibet ex lectoribus uasa sacra portare^* non licet.</head>
+          <p>Item ex Concilio Bracarensi [c. io.]</p>
+          <p>Non liceat cuilibet ex lectoribus sacra altaris uasa portare, nec aliis, nisi his, qui
+            ab episcopo subdiaconi fuerint ordinati.</p>
+        </div>
+        <div>
+          <head>C. XXXII.</head>
+          <head type="question-title">De eodem, et ut clerici comam non nutriant.</head>
+          <p>Item ex Concilio Martini Papae, [c. 41.]. -</p>
+          <p>Non liceat quemlibet ministeria tangere, nisi sub-diacono aut acolito, in secretario
+            uasa dominica. §. 1. Nec oportet clericos comam nutrire, et sic ministrare: sed atonso
+            capite, patentibus auribus, et secundum Aaron talarem uestem induere, ut sint in habitu
+            ornato.</p>
+        </div>
+        <div>
+          <head>C. XXXIII.</head>
+          <head type="question-title">Qualiter sponsus et sponsa sint benedicendi.</head>
+          <p>Sponsus et sponsa cum benedicendi sunt a sacerdote, a parentibus suis uel a paranimphis
+            offerantur, qui cum benedictionem acceperint, eadem nocte pro reuerentia ipsius
+            benedictionis in uirginitate permaneant.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d13">
+        <head>DISTINCTIO XIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Item aduersus naturale ius nulla dispensatio admittitur; nisi forte duo mala ita
+          urgeant ut alterum eorum necesse sit eligi.</p>
+        <p>Unde in Concilio Tollet ano VIII. [c. 2.] legitur.</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Minus malum de duobus est eligendum.</head>
+          <p>Duo* mala, licet cautissime sint precauenda tamen si periculi necessitas unum ex his
+            temperare compulerit, id debemus resoluere, quod minori nexu noscitur obligari. Quid
+            autem leuius ex his, quidue grauius sit, purae rationis acumine inuestigemus. Etenim dum
+            peierare compellimur, creatorem quidem offendimus, sed nos tantummodo maculamus. Cum
+            uero noxia promissa complemus et Dei iussa contempnimus et proximis impia crudelitate
+            nocemus, et nos ipsos crudeliori mortis gladio trucidamus. Illic enim dupplici culparum
+            telo perimimur, hic tripliciter iugula-mur.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item Gregorius in Moralibus parte VI. lib. XXXV. c. XIV&gt; [in c. 40. Iob. 1. XXXII.
+            c. 17. 18. 19. et 20.]</p>
+          <p>Nerui testiculorum Leuiathan perplexi sunt, quia suggestionum illius argumenta
+            implicatis inuentisalligantur, ut plerosque ita peccare faciant, quatenus si fortasse
+            fugere peccatum appetant, hoc sine alio peccati laqueo non</p>
+
+          <p>euadant, et culpam faciant, dum uitarit, atque nequaquam se ab una ualeant soluere,
+            nisi in alia se consentiant ligare. Quod melius ostendimus, si qua ex conuersa-tione
+            hominum alligationis huius exempla proferamus. §. i. Ecce quidam, dum mundi huius
+            amicitias appetit, cuilibet alteri similem sibi uitam ducenti, quod secretaillius omni
+            silentio contegat, se iureiurando constringit. Sed is, cui iuratum est, adulterium
+            perpetrare cognoscitur, ita ut etiam maritum adulterae occidere conetur. Is autem, qui
+            iusiurandum prebuit, ad mentem reuertitur et diuersis hinc inde cogitationibus
+            impugnatur, atque hoc silere formidat, ne silentio adulterii simul et homicidii
+            particeps fiat, prodere s trepidat, ne reatu se periurii obstringat. Perplexis ergo
+            neruis testiculorum ligatus est, qui in quamlibet partem declinet, metuit, ne a
+            transgressionis contagione liber non sit. §. 2. Alius cuncta, que mundi sunt, deserens,
+            ac per omnia frangere proprias uoluntates querens, alieno se subdere regimini appetit,
+            sed eum, qui sibi ad Deum preesse debeat, minus cauta inquisitione discernit:
+            quiafortasse is, qui sine iudicio eligitur, cum preesse iam ceperit,'agere que Dei sunt
+            prohibet, que mundi sunt iubet. Pensans itaque subditus, uel que sit culpa
+            inobedientiae, uel quod contagium secularis uitae, et obedire trepidat, et non obedire
+            formidat, ne aut obediens Deum in suis preceptis deserat, aut rursus non obediens Deum
+            in electo priore contempnat. §. 3. Alius pensare pondus honoris ecclesiastici negligens
+            ad locum regiminis premiis ascendit. Sed quia omne, quod hic eminet, plus meroribus
+            afficitur, quam honoribus gaudet, dum cor tribulatione premitur, ad memoriam culpa
+            reuocatur, doletque se ad laborem cum culpa peruenisse, et quam sit iniquum, quod
+            admiserit, ex ipsa fractus difficultate cognoscit. Reum se igitur cum impensis premiis
+            agnoscens, uult adeptae sublimitatis locum deserere, sed timet, ne grauius delictum sit
+            suscepti gregis custodiam reliquisse; uult suscepti gregis curamgerere, sed formidat, ne
+            deterior culpa sit, regimina pastoralis gregis empta possidere. Per honoris ergo ambitum
+            ligatum culpa hinc inde se conspicit. Esse quippe sine reatu criminis neutrum uidet, si
+            aut susceptus semel grex relinquitur, aut rursum sacra actio seculariter empta teneatur.
+            Undique metuit et suspectus latus omne pertimescit, ne aut stans in empto regimine non
+            digne, lugeat quod non etiam deserens emendat*, aut certe regimen deserens, dum aliud
+            flere nititur, rursus aliud de ipsa gregis destitutione committat p.</p>
+          <p>II. Pars. §.4. Est tamen, quod ad destruendas Be-hemot uersutias subtiliter fiat, ut
+            cumi mens inter minora et maxima peccata constringitur, si omnino nullus sine peccato
+            aditus patet, minora semper eligantur ; quia et qui murorum undique ambitu, ne fugiat,
+            clauditur, ibi se in fugam precipitat, ubi breuior murus lingeritur*. Hinc Paulus, cum
+            quosdam in ecclesia incontinentes aspiceret, concessit minima, ut maiora declinarent,
+            dicens: ,,Propter</p>
+
+
+
+
+
+          <p>fornicationem autem unusquisque suam uxorem habeat.“ Et quia tunc solum coniuges in
+            admixtione sunt sine culpa, cum non pro explenda libidine, sed pro suscipienda prole
+            miscentur, ut hoc etiam, quod concesserat, sine culpa (quam-uis minima) non esse
+            monstraret, ilico adiunxit: „Hocautem dico secundum indulgentiam, non secundum
+            imperium." Non enim est sine uitio, quod ignoscitur, non precipiti. Peccatum profecto
+            uidit, quod posse indulgeri preuidit. Sed cum in dubiis constringimur, utiliter minimis
+            subdimur, ne in magnis sine uenia peccemus. §. 5. Itaque plerumque neruorum Behemot
+            istius perplexitas soluitur, dum ad uirtutes maximas per commissa minora transitur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

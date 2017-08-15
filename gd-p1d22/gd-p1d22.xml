@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d22">
+        <head>DISTINCTIO XXII.</head>
+        <p>I. Pars. Quia ergo maior a minori iudicari non debet uidendum est, que inter ceteras
+          ecclesias primum locum, que secundum, uel tertium obtineat. Romana ecclesia (sicut
+          supra</p>
+
+
+
+
+
+        <p>dictum est) primum locum inter ceteras obtinet, Alexandrina ecclesia** secundum,
+          Antiocena ecclesia tercium ab ea locum accepit.</p>
+        <p>Unde Nicolaus Papa [II.] scribit Mediolanensibus;</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Romana ecclesia ceterarum primatum obtinuit.</head>
+          <p>Omnes siue patriarchae in cuiuslibet apicem , siue metropoleon primatus, aut
+            episcopatuum cathedras, uel ecclesiarum cuiuslibet ordinis dignitatem instituit Romana
+            ecclesia. Illam uero solus ipse s fundauit, etsuper petram fidei mox nascentis erexit,
+            qui beato eternae uitae clauigero terreni simul et celestis imperii iura commisit. Non
+            ergo quelibet terrena sententia, sed illud uer-bum, quo constructum est celum et terra,
+            per quod denique omnia condita sunt elementa, Romanam fundauit ecclesiam. Illius certe
+            priuilegio fungitur, illius auctoritate fulcitur. Unde non dubium est, quia, quisquis
+            cuilibet ecclesiae ius suum detrahit, iniusticiam facit. §. i. Qui autem Romanae
+            ecclesiae priuilegium ab ipso summo omnium ecclesiarum capite traditum auferre conatur,
+            hic proculdubio in heresim labitur; et cum ille notetur in-iustus, hic est dicendus
+            hereticus. Fidem quippe uiolat, qui aduersus illam agit, que est mater fidei: et illi
+            contumax inuenitur, qui eam cunctis ecclesiis pretulisse cognoscitur. Et infra: §. 2.
+            Unde et ipse S. Ambrosius se in omnibus sequi magistram sanctam Romanam profitetur
+            ecclesiam.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Non ab apostolis, sed ab ipso Domino Romana ecclesia primatum
+            obtinuit*</head>
+          <p>Item Anacletus Seruus Christi Iesu [ad omnes episcopos, epistola III. c. 3-].</p>
+
+          <p>Sacrosancta Romana et apostolica ecclesia non ab apostolis, sed ab ipso Domino
+            saluatore nostro primatum obtinuit, sicut B. Petro apostolo dixit: „Tu es Petrus,“ et
+            reliqua usque: „soluta in celo.“ §. i. Adhibita est societas in eadem Romana urbe
+            beatissimi Pauli apostoli, uasis electionis, qui uno die eodemque tempore cum Petro
+            gloriosa morte coronatus est, et ambo sanctam ecclesiam Romanam consecrauerunt, atque
+            aliis s urbibus omnibus in uniuerso mundo tam sua presentia quamuenerando triumpho
+            pretulerunt. Et licet pro omnibus assidua apud Deum omnium sanctorum effundatur oratio,
+            his tamen uerbis Paulus beatissimus Romanis proprio cirographo pollicetur, dicens:
+            „Testis enim mihi est Deus, cui seruio in spiritu meo in euangelio Filii eius, quod sine
+            intermissione memoriam uestri facio semper in orationibus meis.“ §. 2. Prima ergo sedes
+            est celesti beneficio Romana ecclesia, quam (ut memoratum est)beatissimi Petrus et
+            Paulus suo martirio consecrarunt. §. 3. Secunda autem sedes apud Alexandriani B. Petri
+            nomine a Marco, eius discipulo atque euangelista, consecrata est. §. 4. Tercia uero
+            sedes apud Antiochiam eiusdem, B. Petri habetur honorabilis: quia* illic, priusquam
+            Romam ueniret, habuitP, et Ignatium episcopum constituit; et illic primum nomen
+            Christianorum exortum est q. Et post pawca. §. 5. Inter beatos apostolos quedam fuit
+            discretio, et post licet omnes essent apostoli, Petro tamen a Domino concessum est (et
+            ipsi inter se uoluerunt id ipsum), ut reliquis omnibus preesset apostolis, et Cephas**,
+            id est caput et principium teneret apostola-tus; qui et eandem formam suis successoribus
+            et reliquis*** episcopis tenendam tradiderunt. Et non solum hoc in nouo testamento est
+            constitutum, sed etiam in ueteri fuit; unde scriptum est: ,,Moyses et Aron in
+            sacerdotibus eius,“ id est primi inter eos fuerunt. Et post pauca: §. 6. Hec uero
+            apostolica sedes caput et cardo (ut prefatum est) a Domino, et non ab alio constituta
+            est; et sicut cardine ostium regitur, sic huius sanctae apostolicae sedis auctoritate
+            omnes ecclesie (Domino disponente) reguntur.</p>
+
+
+
+
+
+          <p>Gratian. Hac auctoritate Alexandrina ecclesia secundum a prima locum habere censetur.
+            Sed postea in Constantino-politana Sinodo ecclesia Constantinopolitana secundum a sede
+            apostolica locum accepit.</p>
+          <p>Unde in eadem Sinodo [id est Constantinop. I. c. 5.]constitutum est ita:</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Secundum a Romano Pontifice Constantinopoli-tanus obtinet
+            locum.</head>
+          <p>Constantinopolitanae * ciuitatis episcopum habere oportet primatus honorem post Romanum
+            episcopum, propterquod sit noua Roma.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Apostolicae sedi Constantinopolitanam constat esse
+            subiectam.</head>
+          <p>Item Gregorius* Iohanni episcopo Siracusano,</p>
+          <p>[lib. VII. epist. 63.]</p>
+          <p>De Constantinopolitana ecclesia quod dicunt, quis eam dubitet sedi apostolicae esse
+            subiectam! Si tamen quid boni uel ipsa, uel altera ecclesia habet, ego et minores meos,
+            quos ab illicitis prohibeo, in bono imitari paratus sum. Stultus est enim, qui in eo se
+            primum existimat, ut bona, que uiderit, discere contempnat. Idem eidem [epist. 64.]: Nam
+            quod primas Bizanzenus sedi se apostolicae dicit subici si qua culpa in episcopis
+            inuenitur nescio quis ei subiectus non sit; cum uero culpa non exigit, omnes secundum
+            rationem humilitatis equales sumus.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Constantinopolitanus episcopus auctoritate deponitur.</head>
+          <p>Item Gelasius [Papa I. ad Faustum magistrum legationis.] </p>
+          <p>Qua traditione maiorum apostolicam sedem in iudicium uocant? An secundae sedis
+            antistites et terciae, ceterique bene conscii sibi sacerdotes depelli debuerunt, et qui
+            extitit religionis inimicus, depelli non debuit? Viderint ergo, si alios habent canones,
+            quibus suas ineptias exequantur. Ceterum isti, qui sacri, qui ecclesiastici, qui
+            legitimi celebrantur, sedem apostolicam ad iudicium uocare non possunt,
+            Constantinopolitanae uero ciuitatis episcopus, que utique per canones inter sedes nullum
+            nomen accepit, in communionem recidens perfidorum non debuit submo-ueri?</p>
+
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Constantinopolitana ecclesia secundum a</head>
+          <p>Romana obtinet locum. *</p>
+          <p>Item ex VI. Sinodo [cap. 36.]</p>
+          <p>Renouantes* sancti Constantinopolitani concilii decreta, petimus, ut
+            Constantinopolitana sedes similia priuilegia, que superior** Roma habet, accipiat, non
+            tamen*** ecclesiasticis rebus magnificetur,ut illa; uthec secunda post illam existens,
+            prius quam Alexandrina sedes numeretur; deinde Antiocena, et post eam
+            Iero-solimitana.</p>
+          <p>Gratian. Hinc datur intelligi, quod Alexandrina ecclesia de secunda facta sit tercia,
+            et Antiocena de tercia sit facta®*quarta: nisi forte quis duas contendat esse secundas,
+            ut Constantinopolitanam et Alexandrinam®* parem suae dignitatis uelit locum
+            ohtinere.</p>
+          <p>Unde in VIII. Sinodo legitur, [can. 21.]</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Que patriarchalium sedium primum uel deinceps teneat
+            locum.</head>
+          <p>Diffinimus, neminem prorsus mundi potentum quemquam eorum, qui patriarchalibus sedibus
+            presunt, inhonorare, aut mouere a proprio throno temptare °; precipue quidem
+            sanctissimum Papam senioris Romae, deinceps autem Con-stantinopoleos patriarcham, deinde
+            uero Alexandriae, ac Antiociae, ac lerosolimorum.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

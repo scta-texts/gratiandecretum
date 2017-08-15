@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d45">
+        <head>DISTINCTIO XLV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. P a r s. Sequitur: „ non percussorem K Non enim oportet episcopum ita esse irascibilem
+          et perturbati sensus, ut percutiat,qui debet esse patiens: sed sequatur eum, qui dorsum
+          posuit adflagella.</p>
+        <p>Unde Gregorius scribit I oh anni Episcopo Constantinopol. [lib. I. epist. 52.]</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Verborum correctione, non uerberibus timeri debent
+            episcopi.,</head>
+          <p>Quid autem de episcopis, qui uerberibus uolunt timeri, canones dicant, bene fraternitas
+            uestra nouit. Pastoresenim facti sumus, non percussores. Egregius Predicator dicit: „
+            Argue, obsecra, increpa cum omni patientidet doctrina.“ Noua uero atque inaudita est
+            ista predicatio,que uerberibus exigit fidem.</p>
+          <p>[C. IL]</p>
+          <p>Item in quodam Concilio [Romano sub Siluestro, c. 17.]Neminem quisquam peccantem
+            clericum cede attingat, non presbiter diaconum, non episcopus clericum uelseruitorem
+            ecclesiae ad cedem perducat. Quod si itacausa exigit, id est, si incorrigibilis
+            extiterit clericus,triduo priuetur honore, ut penitens redeat ad matrem ecclesiam.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Non asperis, sed blandis uerbis ad fidem sunt aliqui
+            prouocandi</head>
+          <p>Item Pascas io Episcopo Neapolim [lib. XI. epist. I5.]Qui sincera intentione extraneos
+            a Christiana religionead fidem cupiunt rectam adducere, blandimentis debent,non
+            asperitatibus studere, ne quorum mentem reddita aplano ratio poterat prouocare, pellat
+            procul aduersitas.Nam quicumque aliter agunt, et eos sub hoc uelamine aconsueta ritus
+            sui uolunt cultura remouere, suas illicmagis, quam Dei probantur causas attendere. §. 1.
+            Iudeisiquidem Neapolim habitantes s questi nobis sunt asserentes, quod quidam eos a
+            quibusdam feriarum suarumsollempnitatibus irrationabiliter nitantur arcere, ne illis
+            sitlicitum festiuitatum suarum sollempnia colere, sicut eis nuncusque et parentibus
+            eorum longis retro temporibus licuitobseruare. Quod si ita se ueritas habet, superuacuae
+            rei</p>
+          <p>uidentur operam dare. Nam quid utilitatis est, quando, etsi contra longum usum fuerint
+            uetiti, ad fidei illisconuersionem nil proficit? Aut cur Iudeis qualiter ceremonias suas
+            colere debeant regulas ponimus, si per hoceos lucrari non possumus? Agendum est ergo, ut
+            potiusratione et mansuetudine prouocati sequi nos uelint, nonfugere, ut eos, ex eorum
+            codicibus ostendentes que dicimus, ad sinum matris ecclesiae Deo possimus
+            adiuuanteconuertere. Itaque fraternitas tua eos monitis proutpotuerit, Deo adiuuante ad
+            conuertendum accendat, et desuis illos solempnitatibus inquietari denuo non
+            permittat,sed omnes festiuitates feriasque suas, sicut hactenus tamipsi quam parentes
+            eorum per longa colentes retro tempora tenuerunt, liberam habeant obseruandi
+            celebrandiquelicentiam.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Non seueritate, sed beniuolentia subditos prelati
+            corripiant.</head>
+          <p>Idem uniuersis Episcopis per Galliam et Europam et Germaniam constitutis.</p>
+          <p>Licet plerumque accidant sacerdotibus que sunt reprehendenda, plus tamen erga
+            corrigendos agat beniuolentia quam seueritas, plus cohortatio quam commotio, pluskaritas
+            quam potestas, cum nemo nostrum sine reprehensioneaut sine peccato uiuat. Nam si Dominus
+            statim posttrinam negationem B. Petrum preceptorem nostrum apostolum iudicasset, non
+            tantum ex eo fructum, sicut fecit, recepisset. Expectandi ergo atque corrigendi magis
+            suntrectores ecclesiae, quam statim iudicandi. Unde necesse est queque negotia
+            ecclesiastica post multarumexperimenta causarum sollicitius perspici, et
+            diligentiusprecaueri, quatinus per spiritum karitatis et pacis omnismateria scandalorum
+            et presumptio Iudeorum§* atqueoppressio simplicium fratrum de ecclesiis Domini
+            auferantur. Et sicut non uult quisquam fratrum se aliorum iudiciopregrauari, ita non
+            audeat alii inferre quod sibi nonuult fieri.</p>
+          <p>Iudei non sunt cogendi ad fidem, quam tamen si inuiti susceperint , cogendi sunt
+            retinere.</p>
+          <p>Unde in Tollet ano Concilio IV. [c. 56.] statutum est:</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Sicut non sunt Iudei ad fidem cogendi, ita nec conuersis ab
+            ea recedere permittitur .,</head>
+          <p>De Iudeis autem precepit sancta sinodus, nemini deinceps uim ad credendum inferre.
+            ,,Cui enim uultDeus miseretur, et quem uult indurat." Non enim talesinuiti saluandi
+            sunt, sed uolentes, ut integra sit forma iusti-ciae. Sicut enim homo propria arbitrii
+            uoluntate serpenti obediens periit, sic uocante se gratia Dei propriaementis conuersione
+            quisque credendo saluatur. Ergonon ui, sed libera arbitrii facultate ut
+            conuertantursuadendi sunt, non potius inpellendi. Qui autem iampri-dem ad
+            Christianitatem coacti sunt, (sicuts factum esttemporibus religiosissimi principis
+            Sisebuti), quia iam constat eos sacramentis diuinis associatos, et baptismigratiam
+            suscepisse, et crismate unctos esse, et corporisDomini extitisse participes, oportet, ut
+            fidem, quamui uel necessitate susceperint”, tenere cogantur, nenomen Domini
+            blasphemetur, etfides, quam susceperunt,uilis ac contemptibilis, habeatur.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Beniuolentia plus quam seueritas erga corrigendos
+            agat.</head>
+          <p>Item Leo Episcopus, [epist. LXXXII. ad Anastasium Episcopum Thessalonicensem, c.
+            i.]Licet nonnumquam accidant, que in sacerdotalibus suntreprehendenda personis, plus
+            tamen erga corrigendos agatbeniuolentia quam seueritas, plus cohortacio quam commotio,
+            plus karitas quam potestas. Sed ab his, quique sua querunt, non que Iesu Christi, facile
+            ab hac legedisceditur; et dum dominari magis quam consulere subditis placet honor inflat
+            superbiam^, et quod proui-sum est ad concordiam, tendit ad noxam.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Deiciatur ab offitio diaconus presbiter et episcopus
+            uerberibus timeri querens.</head>
+          <p>Item ex canone Apostolorum, [can. 28. (juxta priscam uersionem)].</p>
+          <p>Episcopum, aut presbiterum, aut diaconum percutien-tem fideles delinquentes aut
+            infideles inique agentes, et per huiusmodi uolentem timeri, ab offitio suo deici
+            precipimus, quia numquam nos Dominus hoc docuit. Econtrario uero ipse, ,,cum
+            percuteretur, non repercutiebat, cum malediceretur, non maledicebat, cumpateretur, non
+            comminabatur."</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Non uerberibus, sed uerbis subditos episcopi
+            corripiant.</head>
+          <p>Item ex Concilio Bracarensi [III. c. 7.]Cum beatus Apostolus arguere, obsecrare
+            uelincrepare in omni patientia precipiat, extra hanc doctrinam nouimus quosdam ex
+            fratribus tantis cedibus in honora-</p>
+          <p>tos efferuescere, quanto poterant latrocinantium promereri personae. Et ideo, qui
+            gradus iam ecclesiasticosmeruerunt, id est presbiteri, abbates siue leuitae,
+            qui,exceptis grauioribus et mortalibus culpis, nullis debentuerberibus subiacere, non
+            est dignum, ut passim unusquisque prelatus honorabilia membra sua prout uoluerit etei
+            placuerit uerberibus subiciat et dolori, ne dum incautesubdita percutit membra, ipse
+            quoque debitam sibisubditorum reuerentiam subtrahat, iuxta illud, quod quidamsapiens
+            dicit®: „Leuiter castigatus reuerentiam exhibetcastiganti, asperitatis autem nimiae
+            increpatio nec increpationem recipit, nec salutem." Et ideo, si quis aliter,quam dictum
+            est, predictos honorabiles subditos, licentiaperceptae potestatis elatus, malicia
+            tantum&amp; crediderituerberandos, iuxta uerberum modum, quem
+            intulerit,excommunicationis pariter et exilii sentenciam sustinebit.</p>
+          <p>II. Pars. Gratian. Salomon uero econtra ammonet, dicens: „ Percute filium tuum uirga,
+            et liberabis animam eius amorte. “ Hinc etiam B. Gregorius scribit in Dialogo, B.
+            Benedictum quendam monachum uirga percutiendo sanasse, quemcrebra ammonitione curare non
+            poterat. Hinc etiam Dominusflagello facto de resticulis™^ male uersantesin templo
+            flagellauitet de orationis domo eiecit. Hinc etiam Apostolus fornica-torem illum satanae
+            corporaliter nexandum tradidit, etmagum illum corporali cecitate dampnauit. Hinc etiam
+            incanonibus pueri, qui ante rationales annos irrationabiliteruersantur, uerberibus
+            castigari iubentur. Virgines quoque, sireligionis ueste deposita aliis se copulauerint,
+            ergastulis retrudi™precipiuntur.</p>
+          <p>Hinc etiam Gregorius in Moralibus scribit lib. XX. p. 4. c. 11.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Disciplina non est seruanda sine misericordia, nec
+            misericordia sine disciplina.</head>
+          <p>Disciplina uel misericordia multum destituitur, si una sine altera teneatur. Sed circa
+            subditos inesse debetrectoribus et iuste consulens misericordia, et pie
+            seuiensdisciplina. Hinc est, quod semiuiui illius uulneribus, qui aSamaritano in
+            stabulum ductus est, et uinum adhibeturet oleum, ut per uinum mordeantur uulnera, per
+            oleumfoueantur: quatinus unusquisque, qui sanandis uulneribuspreest, in uino morsum
+            districtionis adhibeat, in oleo molli-ciem pietatis; per uinum mundantur putrida, per
+            oleumsananda fouentur®. Miscenda ergo est lenitas cum se-ueritate, faciendum est quoddam
+            ex utroque temperamentum, ut neque multa asperitate exulcerentur subditi,neque nimia
+            benignitate soluantur. Hoc nimirum illatabernaculi archa significat, in qua cum tabulis
+            uirgasimul et manna est, quia cum scripturae sacrae scientiaest in boni rectoris pectore
+            si est uirga districtionis,sit et manna dulcedinis. Hinc etiam Dauid ait:„ Virga tua et
+            baculus tuus ipsa me consolata sunt." Virgaenim s percutimur, et baculo sustentamur. Si
+            ergo estdistrictio iusticiae, que feriat, sit et consolatio baculi,que sustentet. Sit
+            itaque amor, sed non emolliens; situigor sed non exasperans; sit zelus, sed non
+            inmo-derate seuiens; sit pietas, sed non plus quam expediat parcens. Intueri libet in
+            Moysi pectore misericordiam simulcum seueritate sociatam. Videamus amantem pie et
+            districteseuientem. §. 1. Certe cum Israeliticus populus ante Deioculos pene
+            inueniabilem contraxisset offensam, ita ut eiusrector audisset: „Descende, peccauit
+            populus tuus," acsi ei diuina uox diceret: „qui in tali peccato lapsus est,meus non
+            est," atque subiungeret: „Dimitte me, utirascatur furor meus contra eos, et deleam eos,
+            faciamque tein gentem magnam," ille semel et iterum pro populo, cuipreerat, obicem se ad
+            impetum Dei irascentis opponens ait:,,Aut dimitte eis hanc noxam, aut si non facis, dele
+            me delibro tuo, quem scripsisti." Pensemus ergo, quibusuisceribus eundem populum amauit,
+            pro cuius uita de librouitae deleri se petiit. Sed tamen iste, qui tanto amore
+            eiuspopuli constringitur, contra eius culpas pensemus quanto zelorectitudinis
+            accendatur. Mox enim, ut culpae ueniadelerentur obtinuit zelo rectitudinis succensus
+            ait:„Ponat uir gladium super femur suum, ite et redite deporta usque ad portam per
+            medium castrorum, et occidatunusquisque fratrem et amicum et proximum suum;cecideruntque
+            in die illo quasi uiginti* tria milia hominum." Ecce, qui uitam hominum p etiam cum sua
+            mortepetiit, paucorum uitam gladio extinxit. Intus arsit igne qamoris: foris accensus
+            est zelo seueritatis. Tanta fuitpietas, ut se pro illis coram Domino morti offerre
+            nondubitaret; tanta seueritas, ut eos, quos diuinitus feriritimuerat, ipse iudicii
+            gladio feriret. Sic amauit eos, quibus prefuit, ut pro eis nec sibi parceret, et tamen
+            delinquentes sic persecutus est, quos amauit, ut eos etiam parcenteDomino prosterneret.
+            Utrobique legatus fortis, utrobi-que mediator admirabilis, causam populi apud
+            Deumprecibus, causam Dei apud populum gladiis allegauit. Intusamans diuinae irae
+            suplicando obstitit: foris seuiens culpam feriendo consumpsit. In regimine ergo utrumque
+            Moyses miscuit, ut nec disciplinae deesset misericordia, nec misericordiae disciplina.
+            Unde hicquoque iuxta utramque uirtutem dicitur: ,,Cumque sederemquasi rex circumstante
+            exercitu, eram tamen merentiumconsolator." Sedere quippe circumstante exercitu uigor
+            estdisciplinae regiminis: merentium uero corda consolariministerium pietatis.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Iuste indicans misericordiam cum iusticia seruat.</head>
+          <p>Idem.</p>
+          <p>Omnis, qui iuste iudicat, stateram in manu gestat; in</p>
+          <p>utroque penso iusticiam et misericordiam portat; sed per iusticiam reddit peccatis
+            sententiam, per misericordiampeccati temperat penam, ut iusto libramine quedam
+            perequitatem corrigat, quedam uero per miserationem indulgeat.Qui Dei iudicia oculis
+            suis proponit, semper timens ettremens in omni negotio formidat, ne de iusticiaetramite
+            deuians cadat, et unde non iustificate, inde potiuscondempnetur.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Qui remittit, et qui corripit, uter que miseretur.</head>
+          <p>Item Augustinus in Enchiridion, [c. 72.]</p>
+          <p>Et qui emendat uerbere, in quem potestas datur, uel cohercet aliqua disciplina, et
+            tamen peccatum eius, quo abillo lesus aut offensus est, dimittit ex corde, uel orat ut
+            eidimittatur, non solum in eo, quod dimittit atque orat,uerum etiam in eo, quod corripit
+            et aliqua emendatoria penaplectit, elemosinam dat, quia misericordiam prestat. Multaenim
+            prestantur inuitis bona, quando eorum consulitur utilitati, non uoluntati, quia ipsi
+            sibi inueniuntur esse inimici.Gratian. Sunt enim multa genera elemosinarum, de
+            quibusAlbinus^ ait:</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. De multiplici genere elemosinarum.</head>
+          <p>Tria sunt genera elemosinarum: una corporalis, egenti dare quicquid poteris: altera
+            spiritualis, dimittere a quolesus fueris; tercia, delinquentem corrigere, et errantes in
+            uiam ducere ueritatis.</p>
+        </div>
+        <div>
+          <head>C. XIII</head>
+          <head type="question-title">. Elemosinae corporali® prefertur elemosina cordis.</head>
+          <p>Item Augustinus, [lib. L. homiliarum, hom. 6.]Duae sunt elemosinae, una cordis, alia
+            pecuniae.Elemosina cordis est dimittere, a quo lesus es. Namdare aliquid indigenti
+            aliquando queris, et non habes;indulgere peccanti quantum uolueris redundat tibi.§.
+            1.214 d Elemosina cordis multo maior est quam elemosinacorporis. S. 2. Caritatis
+            elemosina sine terrena substantiasufficit: illa uero, que corporaliter datur, si
+            sinesbenigno corde tribuitur, omnino non sufficit.</p>
+          <p>III. Pars. Gratian. Ex his omnibus apparet, quod nec lenitas mansuetudinis sine
+            rectitudine seueritatis, nec zelus rectitudinis sine mansuetudine in prelatis debet
+            inueniri. Percussoresergo, qui premissis auctoritatibus ab episcopali offitio
+            remouentur,non quilibet corporaliter flagellantes, sed pretermissa mansuetudine ad
+            uerbera sempei' parati intelligendi sunt, qui per flagellanon uicia corrigere, sed
+            timeri appetunt; quibus Petrus scribit:„ Ne sitis dominantes in clero, sed forma facti
+            gregis ex animo.</p>
+          <p>Hinc etiam Gregorius scribit in Moralibus, lib. XIX. p. 4. c. 23.</p>
+        </div>
+        <div>
+          <head>C. XIV</head>
+          <head type="question-title">. Mansuetudo et districtio ab inuicem non separentur.</head>
+          <p>Sunt namque nonnulli ita districti, ut omnem etiammansuetudinem benignitatis amittant;
+            et sunt nonnulli itamansueti, ut perdant districti iura regiminis. Unde
+            cunctisrectoribus utraque summopere sunt tenenda, ut nec indisciplinae uigore
+            benignitatem mansuetudinis, nec rursumin mansuetudine districtionem deserant
+            disciplinae, quatinus nec a conpassione pietatis obdurescant, cumcontumaces corrigunt,
+            nec disciplinae uigorem molliant, cuminfirmorum animos consolantur. Regat ergo
+            disciplinaeuigor mansuetudinem, et mansuetudo ornet sermoneuigorem, et sic alterum
+            commendetur ex altero, ut nec uigorsit rigidus, nec mansuetudo sit dissoluta.</p>
+        </div>
+        <div>
+          <head>C. XV</head>
+          <head type="question-title">. Vere iusius miseris compatitur, delinquentibus
+            indignatur.</head>
+          <p>Idem [homil. XXXIV. in euangel. (circa init.]</p>
+          <p>Vera iusticia compassionem habet, falsa dedignationem, quamuis et iusti soleant recte
+            peccatoribus indi-gnari. Sed aliud est, quod agitur tipo superbiae, aliud, quod zelo
+            disciplinae. Dedignantur etenim, sednon dedignantes. §. i. At contra hi, qui de
+            falsaiusticia superbire solent, ceteros quosque despiciunt, nullainfirmantibus
+            misericordia condescendunt, et quo se peccatores esse non credunt, eo deterius
+            peccatores fiunt.</p>
+        </div>
+        <div>
+          <head>C. XVI</head>
+          <head type="question-title">. Peccantes mansuetudine prouocentur, non austeritate
+            abiciantur.</head>
+          <p>Item leronimus, in Ieremia^-.</p>
+          <p>Recedite (inquiunt) polluti, recedite, abite, nolite nos tangere, nolite nobis
+            communicare. Talis loquelanon illuminat cecum, non sanat egrotum, non curat infirmum,sed
+            magis occidit, atque in desperationem periclitantemmittit. Boni etenim rectores ex sua
+            infirmitate alioruminfirmitates pensantes magis per humilitatis et
+            mansuetudinisleuamentum student peccantes ab erroris laqueo eruere,quam per austeritatem
+            in foueam perditionis nutantes propellere. Unde doctor gentium: „Factus sum,“ inquit,„
+            infirmus infirmis/*</p>
+        </div>
+        <div>
+          <head>C. XVII</head>
+          <head type="question-title">. In populum ira Dei deseuit, cum Predicator delinquentes
+            palpat, non corripit.ldem\</head>
+          <p>■ Sed illud non ociose transcurrendum est, quod uno peccante ira super omnem populum
+            uenit. Hoc quomodo accidit? quando sacerdotes, qui populo presunt,erga delinquentes
+            beniuoli uideri uolunt, et uerentespeccantium linguas, ne forte male de eis loquantur,
+            sacerdotalis seueritatis inmemores nolunt complere quod scriptum est: „Peccantem coram
+            omnibus argue, ut ceterimetum habeant;** et iterum: ,,Auferte malum desuobis ipsis.**
+            Nec zelo Dei succensi imitantur Apostolumdicentem:,,Tradidi huiusmodi hominem satanae in
+            interitum carnis, ut spiritus saluus fiat.** Neque illud euangelicum inplere student, ut
+            si uiderint peccantem, primosecrete conueniant, post etiam duobus uel tribus testibus;
+            quod si contempserit, et post ecclesiae correptionem non fuerit emendatus, de ecclesia
+            expulsum ueludgentilem habeant ac publicanum; et dum uni parcunt,uniuersae ecclesiae
+            moliuntur interitum. Que ista bonitas,que ista misericordia est, uni parcere, et omnes
+            in discrimen adducere? Polluitur enim ex uno peccatore populus.Sicut ex una oue morbida
+            uniuersus grex inficitur, sic</p>
+          <p>etiam uno uel fornicante uel aliud quodcunque sceluscommittente plebs uniuersa
+            polluitur.</p>
+          <p>Gratian. Hinc etiam alibi dicitur: „Hectorem subditis pietas matrem, disciplina uero
+            patrem exhibeat.</p>
+          <p>IV. Pars. Percussor quoque dicitur, qui sermone inutiliinfirmorum conscientiam
+            uulnerat.</p>
+          <p>Unde An a cie tu s Papa [epist. II. ad Episcopos Italiae]:</p>
+        </div>
+        <div>
+          <head>C. XVIII</head>
+          <head type="question-title">. Qui sermone incauto conscientiam percutit infirmorum,
+            percussor uocatur.</head>
+          <p>Sane percussor ille dicitur doctor, qui sermone inutili conscientiam percutit
+            infirmorum. Ideo tenere uos et omnesfideles oportet eum, qui secundum doctrinam est,
+            fidelemsermonem, ut potens sit consolari in doctrina sacra,et contradicentes redarguere,
+            et recte uiuentes atque rectamfidem tenentes consolidare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

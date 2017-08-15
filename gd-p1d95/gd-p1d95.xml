@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XCV. GRATIANUS.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XCV. GRATIANUS.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d95">
+        <head>DISTINCTIO XCV. GRATIANUS.</head>
+        <p>I. Pars. Quod autem sacerdotes supra iubentur episcopis tamquam subditi obedire, non ita
+          intelligendum est, quasi nonliceat eis presentibus episcopis sacra misteria celebrare,
+          (sicutepiscopali supercilio quidam ab his uolebant presbiteros prohibere), sed quia
+          presbiteri pontificibus, tamquam filii parentibus,debent obedire. Baptizatos etiam
+          crismate eis tangere conceditur.</p>
+        <p>Unde Gregorius scribit Ianuario Episcopo Caralitano, [lib. III. epist. 26. Indict.
+          XII.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Ubi episcopi desunt, baptizatos in frontibus presbiteri
+            crismate tangant.</head>
+          <p>Peruenit quoque ad nos, quosdam scandalizatos fuisse, quod presbiteros crismate tangere
+            eos, qui baptizati sunt,prohibuimus. Et nos quidem secundum ueterem usumnostrae
+            ecclesiae fecimus. Sed si omnino hac de re aliquicontristantur, ubi episcopi desunt, ut
+            presbiteri etiam infrontibus baptizatos crismate tangere debeant, concedimus.</p>
+          <p>Gratian. Supra econtra Leo episcopus capitulo„ Quamuis cor episcopis, [Dist.
+            LXVIII.]</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Presbiteri ultra suum modum contendere non presumant.</head>
+          <p>Item Gelasius [Papa Episcopis per Lucaniam, etc. epist. V. c. 8.]</p>
+          <p>Presbiteros ultra suum modum tendere prohibemus, nec episcopali fastigio debita sibimet
+            audacter assumere, non conficiendi erismatis, non consignationis pontificalis adhibendae
+            sibimet arripere facultatem.</p>
+          <p>Gratian. Sed istud Gregorii pro scandalo sedando semel concessum legitur. Illud autem
+            Leonis et Gelasii usu approbante preualuit, nisi forte ubi aliquorum consuetudo hoc
+            admisit,ut in absentia episcopi extrema necessitate cogente ex concessioneGregorii
+            presbiteri baptizatos in frontibus liniant. Prohibitiouero Leonis et Gelasii in eo casu
+            intelligatur, cum episcopi presentes sunt, uel cum non cogit ultima necessitas. Oleo
+            uero sanctificato permittitur eis ungere infirmos. Unde Iacobus ait: „Infirmatur quis in
+            uobisf inducat presbiteros ecclesiae, qui orentsuper eum ungentes eum oleo, et oratio
+            fidei saluabit infirmum. “</p>
+          <p>II. Pars. §. 1. Sed queritur, an episcopis liceat eodemoleo ungere infirmos ? uel si
+            inpenitentibus huiuscemodi unctiosit concedenda f</p>
+          <p>De his uero ita scribit Innocentius Papa [ad Decentium Eugubinum Episcopum, epist. I.
+            c. ult.]:</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Oleo sanctificato non prohibetur episcopus tangere
+            infirmos.</head>
+          <p>Illud superfluum uidemus adiectum, ut de episcopo ambigatur, quod presbiteris licere
+            non dubium est. Namidcirco de presbiteris dictum est, quia episcopi occupationibus aliis
+            inpediti ad omnes languidos ire non possunt.Ceterum si episcopus aut potest, aut dignum
+            ducit aliquema se uisitandum, et benedicere, et tangere crismate sinecunctatione potest,
+            cuius est ipsum crisma conficere.Non * penitentibus istud fundi non potest,' quia
+            genusest sacramenti. Nam quibus reliqua sacramenta negantur,quomodo unum genus putatur
+            posse concedi? Hisigitur, frater karissime, omnibus, que tua dilectio uoluitanobis
+            exponi, prout potuimus respondere curauimus.</p>
+          <p>III. Pars. Gratian. Crusma uero a suis episcopis ad baptismisanctificationem presbiteri
+            petant.</p>
+          <p>Unde in Cartaginensi Concilio IV. [c. 36.]:</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Crisma singulis annis a proprio petatur episcopo *.</head>
+          <p>Presbiteri, qui per dioceses ecclesias regunt, non a quibuslibet episcopis, sed a suis,
+            nec per iunioremclericum, sed omni anno** aut per se ipsos, aut per illum,qui sacrarium
+            tenet, ante pascae solempnitatem crismapetant.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Presbiter idem est qui et* episcopus, ac solaconsuetudine
+            presbiteris episcopi presunt.</head>
+          <p>Item Ieronimus supra epistolam ad Titum.</p>
+          <p>Olim idem presbiter, qui et episcopus, et antequam diaboli instinctu studia in
+            religione fierent, et diceretur in populis: „Ego sum Pauli, ego sum Apollo, ego
+            autemCephae,“ communi presbiterorum consilio ecclesiae gubernabantur. Postquam autem
+            unusquisque eos, quosbaptizauerat, suos esse putabat, non Christi, in toto orbedecretum
+            est, ut unus de presbiteris superponeret&gt; r\ TV/T A XT A</p>
+          <p>turs et scismatum semina tollerentur. Et paulo post: §. i. Sicut ergo presbiteri
+            sciunt, se ex ecclesiae consuetudine ei, qui sibi prepositus fuerit, esse subiectos, ita
+            episcopi nouerint, se magis consuetudine quam dispensationis dominicae ueritate
+            presbiteris esse maiores, et in communi debere ecclesiam regere.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Coram episcopis presbiteris docere licet:</head>
+          <p>Idem ad Rusticum Narbonensem Episcopum, [de septem gradibus ecclesiae]:</p>
+          <p>Ecce ego * dico, presentibus episcopis suis atque astantibus in altario presbiteros
+            posse sacramenta conficere. §. i. Sed quia scriptum est: „Presbiteri duplici
+            honorehonorentur, maxime qui laborant in uerbo Dei,“ predicareeos decet, utile est
+            benedicere, congruum est confirmare, conuenit reddere communionem, necesse est
+            uisitareinfirmos, orare pro inualidis, atque omnia Dei sacramentaconplere. §. 2. Nemo
+            hinc episcoporum inuidia diabolicae temptationis infletur, irascatur sis plebeminterdum
+            presbiteri exhortentur, si in ecclesiis predicent, siplebi, ut dictumi est, benedicant.
+            Etenim abnuentimihi ista sic dicam: qui non uult presbiteros facere queiubentur a Deo,
+            dicat, quid maior est Christo? aut quidpoterit corpori aut sanguini eius anteponi? Si
+            presbiterChristum consecrat, cum in altario Dei sacramenta benedicit, benedicere populum
+            non debet, qui Christumconsecrare non metuit? §. 3. Circa laicos** ac mulieresiubentibus
+            uobis, iniustissimiP sacerdotes, presbiter Deibenedictionis perdit offitia q amittit
+            linguae opus, non habetconfidentiam predicandi, truncatus est omni parte uirtutum,solum
+            presbiteri nomen habet, plenitudinem atque perfectionem, que consecrationi eius
+            conpetit, non retentat. §. 4.Quis hic, rogo, sacerdotes, honor uester est, utdampnum
+            gibbi inferatis? Quoniam cum pastoribus perpotentiam aufertur Deo digna diligentia,
+            contagiumquoddam et calamitas crescit in gregibus, ac dominici***patrimonii dampna
+            conquiritis, dum soli uultis in ecclesia po-tentari. §. 5. Presbiteri negotiorum ab
+            initio, iudicesesse mandati sunt, presbiteri sacerdotum interesse debentconcilio,
+            quoniam et ipsi presbiteri, ut legimus, episcopinominantur, secundum quod dictum est ad
+            episcopum^ ,,Noli negligere gratiam, que tibi data est perinpositionem manuum presbiteri
+            “ y et alibi ad maioresnatu: „Qui uos posuit episcopos regere ecclesiam suam“\§. 6. Sed
+            oderunt hoc superbi sacerdotes in presbiteri!nomine, qui nolunt hoc esse, quod Christus,
+            qui discipulorum pedes lauit, qui baptizatus a Iohanne est licetbaptizandum se esse a
+            Domino proclamaret. Quodpropterea scribo, ut, si preteriti temporis error iam nonpotest
+            reuocari, uel jad presens in ecclesiis faciant,quod Romae fit, quod in Affrica fitss,
+            quod in orientefit 111 hh quod in Ispania, quod in Britannia, quod inGallia\ quod in
+            omnibus locis, ubi humilitas perseuerat,quod in celis (quod maius est), ubi sedes
+            eorumlegitur esse disposita.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Episcopi et clerici inuicem sibi honorem exhibeant.</head>
+          <p>Idem ad Nepotianum, [epist. II.]Esto subiectus pontifici tuo, et quasi animae parentem
+            ama. §. i. Sed et episcopi sacerdotes seesse sciant, non dominos, honorent clericos
+            quasi clericos,ut ipsis episcopiss honor deferatur a clericis.§. 2. Scitum est illud
+            oratoris Domicii: „Cur ego, inquit,te habeam ut principem, cum tu me non habeas ut
+            sena-torem?“ §. 3. Quod Aaron et filios, hoc esse episcopum et presbiteros nouerimus. §.
+            4. Unus Dominus,unum templum, unum sit ministerium. §. 5. Recordemur semper, quod beatus
+            Petrus apostolus precepit sacerdotibus: ,, Pascite eum, qui in uobis est, gregemDomini,
+            prouidentes non coacte, sed spontanee, secundum Deum, neque turpis °p lucri gratia, sed
+            uoluntarie,neque ut dominantes in clero 51, sed forma facti gregiex animo, ut cum
+            apparuerit princeps pastorum, percipiatisinmarcescibilem gloriae coronam.“ §. 6.
+            Pessimae consuetudinis est in quibusdam ecclesiis, tacere presbiteros etpresentibus
+            episcopis non loqui quasi eis inuideant, auteos dedignentur audire. „ Et si alii,“ ut
+            inquitapostolus Paulus, ,,fuerit reuelatum sedenti, prior taceat.“,, Gloria patris est
+            filius sapiens.“ Gaudeat episcopusj 149v iudicio suo, cum tales elegerit sacerdotes.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Presbiteri episcopos non precedant, sed comitentur uel
+            subsequantur.</head>
+          <p>Item ex Concilio Laodicensi, [c. 56.]Non oportet presbiteros ante ingressum episcopi
+            ingredi,et sedere in tribunalibus, sed cum episcopo ingredi, nisi forte</p>
+          <p>aut egrotet episcopus, aut in peregrinationis commodo* eum esse constiterit.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Episcopus non dominum, sed collegam se presbiterorum
+            cognoscat.</head>
+          <p>Item ex Concilio Cartaginensi IV. [c. 34.]</p>
+          <p>Episcopus in quolibet loco sedens stare presbiterum non patiatur.</p>
+          <p>[C. X.]</p>
+          <p>Item ex eodem, [c. 35.] </p>
+          <p>Episcopus in ecclesia in consessu presbiterorum sublimior sedeat. Intra domum uero
+            collegam se presbiterorum esse cognoscat.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Sine precepto episcopi presbiter non signet infantes.</head>
+          <p>Item ex Concilio Martini Papae.</p>
+          <p>Presbiter presente episcopo non signet infantes, nisi ab episcopo fuerit illi
+            preceptum.</p>
+          <p>[PALEA.C. XII. De eodem.</p>
+          <p>Item ex Concilio Neo ces ari ensi, c. i34*</p>
+          <p>Presbiteri ruris in ecclesia ciuitatis, episcopo presente uel presbiteris ipsius urbis,
+            offerre non possunt, nec panemsacrificatum** dare, calicemque porrigere. Si uere
+            absentes hi fuerint, et ad dandam ordinationem*** uocentursoli, dare debebunt].</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

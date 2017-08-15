@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLVII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLVII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d47">
+        <head>DISTINCTIO XLVII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Quod autem in fine huius capituli usurarii ordinari prohibentur, inde est, quia
+          usuram exercentes cupididati deseruire probantur; cupidi autem ab Apostolo ordinari
+          prohibentur, quia tales facile a iusto deuiarent.</p>
+        <p>Unde in canonibus Apostolorum, [c. 44.] legitur:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Diaconus, presbiter eP episcopus exigens usuras, nisi
+            desierit, deponatur.</head>
+          <p>' Episcopus aut presbiter aut diaconus usuras a debitoribus exigens, aut desmat, aut
+            certe deponatur.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Usuras exigens siue clericus, siue regulae subiectus,
+            deiciatur.</head>
+          <p>Item ex Concilio Ni ceno, [c.] 17.</p>
+          <p>Quoniam multi sub regula constituti auaritiam et turpia lucra sectantur, oblitique
+            diuinae scripturae, dicentis:„Qui pecuniam suam non dedit ad usuram,“ mutuumdantes
+            centesimas exigunt: iuste censuit sancta et magnasinodus, ut, si quis inuentus fuerit
+            post hanc diffinitionem usuras accipiens, aut aliquam adinuentionem uelquolibet modo
+            negotia transigens, aut emiolia, id estsescupla* exigens, uel aliquid tale prorsus
+            excogitansturpis lucri gratia, deiciatur a clero et alienus existata regula.</p>
+          <p>Hinc etiam Gregorius in lib. XIX. Moralium, parte IV* c. 35. de dilectoribus seculi
+            scribit, dicens:</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Temporalibus lucris deseruientes Deo nequaquam militare
+            probantur.</head>
+          <p>Omnes huius seculi dilectores in terrenis rebus fortes sunt, in celestibus debiles. Nam
+            pro temporali gloria usquead mortem desudare appetunt, et pro spe perpetua necparum
+            quidem in labore subsistunt; pro terrenis lucris quaslibet iniurias tollerant, et pro
+            celesti mercede uel tenuissimiuerbi ferre contumelias recusant; terreno iudici toto
+            etiamdie assistere fortes sunt, in oratione uero coram Domino uelunius horae momento
+            lassantur; sepe nuditatem, deiectio-nem, famem pro acquirendis diuitiis atque honoribus
+            tollerant,et earum rerum se per abstinentiam cruciant, ad quasadipiscendas festinant;
+            superna autem laboriose quereretanto magis dissimulant, quanto ea tardius putant
+            retribui. §. 1. Hi itaque quasi aliarum arborum more deorsum uasti sunt, sursum augusti,
+            quia fortes in inferiorasubsistunt, sed ad superiora deficiunt. At contra ex
+            qualitatepalmarum designatur proficiens uita iustorum, qui nequa-uam sunt in terrenis
+            desideriis fortes et in celestibusebiles, sed longius atque distantius studiosos se Deo
+            exhibent, quam seculo fuisse meminerint. §. 2. Nam cumquibusdam per predicatorem nostrum
+            dicitur; „Humanumdico propter infirmitatem carnis uestrae. Sicut enim exhibuistis membra
+            uestra seruire inmundiciae et iniquitati adiniquitatem, ita nunc, exhibete membra uestra
+            seruire iusti-ciae in sanctificationemeorum proculdubio infirmitaticondescenditur, ac si
+            eis apertius diceretur: Si nequaquamamplius potestis, saltem tales estote in fructu
+            bonorumoperum, quales fuistis dudum in actione uiciorum, nedebiliores uos habeat sancta
+            libertas aeris*, quos in carneualidos habuit usus terrenae uoluptatis.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Ad sacros ordines usurarii promoueri non debent. Item
+            Gregorius ciuibus Neapolim, [lib. VIII. epist. 40.]De Petro insuper ad nos peruenisse
+            cognoscite, quiasolidos dederit ad usuras. Quod uos oportet cumomni subtilitate
+            perquirere, et si ita constiterit, aliumeligite,et ab huiusmodi persona uos suspendite
+            sine mora.Nam nos amatoribus usurarum nulla ratione manus inponi-mus. Si uero subtili
+            habita inquisitione hoc falsum esseputaueritis, (quia persona eius nobis ignota est, et
+            utrum</head>
+          <p>ita sit de simplicitate s, quod ad nos perlatum est, ignoramus), cum decreto a uobis
+            facto ad nos eum uenire necesse est, ut uitam moresque ipsius sollicitius
+            requirentessensum quoque pariter agnoscamus, ut, si huic iudicioaptus extiterit, uestra
+            in eum (adiuuante Domino) desideria coripleamus.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Degradetur clericus, qui usuras accipere detegitur.</head>
+          <p>Item ex Concilio Elibertano, [c. 20.]</p>
+          <p>Si quis clericorum detectus fuerit usuras accipere, placuit degradari et abstinere.</p>
+        </div>
+        <div>
+          <head>C* VI</head>
+          <head type="question-title">. Afee implicari errore, nec cupiditate sacerdotem uiolari
+            oportet.</head>
+          <p>Item Leo Episcopus [Anatolio Episcopo Constantinopol., epist. LI.] </p>
+          <p>II. Pars. Virum catholicum et precipue Domini sacerdotem sicut nullo errore inplicari,
+            ita nulla oportet cupiditate uiolari, dicente sancta scriptura; „Post concupiscentias
+            tuas non eas.“ Mens etiam potentiae auidanec abstinere nouit uetitis, nec gaudere
+            concessis, nec*pietati adhibere consensum.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. Qui cupiditatem a se non abscidit^, bonorum auctori inherere
+            non ualet.</head>
+          <p>Item Gregorius, [1. VII. epist. 100.]</p>
+          <p>Bonorum auctori inherere aliter non ualemus, nisi cupiditatem a nobis (que omnium
+            malorum radix est)abscidamus.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Auarus omnium bona inuadii, quorum necessitatibus subuenire
+            ualet.</head>
+          <p>Item Ambrosius [Serm. LXXXI.] de eo, quod scriptum est in euangelio: „ Hominis?
+            cuiusdam diuitis fructusuberes agere attulit.</p>
+          <p>Sicut hi, qui per insaniam mente translati sunt, non iam res ipsas, sed passionis suae
+            fantasias uident, ita etiammens auari semel uinculis cupiditatis astricta semper aurum,
+            semper argentum uidet, semper redditus computat,gratius aurum intuetur quam solem; ipsa
+            eius oratio etsupplicatio ad Dominum aurum querit. Et post pauca:§. 1. Interdum etiam
+            usurae arte nequissima ex ipso auroaurum nascitur. Sed nec Sacietas unquam, nec
+            finisaderit cupiditati. Et infra: §. 2. Sed ait: quid inius-tum est, si cum aliena non
+            inuadam, propria diligentiusseruo? O inpudens dictu! Propria dicis? que? ex quibus
+            reconditis in hunc mundum detulisti? Quando in hancingressus es lucem, quando de uentre
+            matris existi, quibusqueso facultatibus quibusque subsidiis stipatus ingressus es?Et
+            post pauca: §. 3. Proprium nemo dicat, qtiod est commune*, plus quam sufficeret sumptum
+            et^ uiolenterobtentum est. Et infra: §.4. Numquid iniquus est Deus,ut nobis non
+            equaliter distribuat uitae subsidia, ut tu quidem esses affluens et habundans, aliis
+            uero deesset etegerent? an idcirco magis, quia et tibi uoluit benignitatissuae
+            experimenta conferre, et alium per uirtutem patientiaecoronare? Tu uero susceptis
+            muneribus Dei, et in sinumtuum redactis, nichil te putas agere iniquum, si tam multorum
+            uitae subsidia solus obtineas? Quis enim tam iniu-stus, tam auarus, quam qui multorum
+            alimenta suumnon usum, sed habundantiam et delicias facit? Neque enimminus est criminis
+            habenti tollere, quam, cum possis ethabundas, indigentibus denegare. Esurientium panis
+            est,uem tu detines; nudorum indumentum est, quod tu reclu-is; miserorum redemptio est et
+            absolutio pecunia, quamtu in terra defodis. Tantorum te ergo scias inuaderebona, quantis
+            possis prestare quod uelis.</p>
+          <p>III. Pars. Gratian. Necesse est etiam, vt ille, quiordinandus est, „suae domui sit bene
+            prepositus, id est, si inlaicali habitu uxorem habuerit^ P uel filios, a uiciis ad
+            uirtutumstudia et uerbo et exemplo prouocet, ut quod postea precepturusest populis,
+            prius exigat a domesticis. Unde Apostolus Ephesiis scribit, ut uxores suas sicut sua
+            corpora diligant, et filios suosnon ad iracundiam prouocent, sed enutriant illos in omni
+            disciplina et correctione Domini. Unde cum adi Timotheum scribens, dixisset: ,,suae
+            domui bene prepositum,“ statim subiunxit:,,habentem sibi subditos filios in omni
+            castitate, non" in accusatione luxuriae. Non enim talium cohabitator frontem habetalios
+            redarguendi Unde de B. Iob legitur, quod pro filiissuis cotidiana Deo offerebat
+            sacrificia, offerrens olocausta persingulos, quos tanta karitatis perfectione in unum
+            constrinxit, utquisque eorum in suo die conuiuium fratribus pararet^, o£ad epulandum
+            secum tres sorores suas pariter inuitaret. Quodquia Heli facere dissimulauit, ac falsa
+            pietate superatus filiosdelinquentes ferire noluit, (sicut in libro Regum legitur)
+            apuddistrictum iudicem semetipsum cum filiis crudeli dampnationepercussit, unde ei
+            diuina uoce dicitur: „ Honorasti filios tuosplus, quam met Hinc etiam Dauid erga filios
+            bonitatem,non disciplinae seueritatem exercens, eorum iuuentutem experimento didicit
+            perniciosam, quorum puericiam uaga licentiapermisit esse uolupiuosam. Unus quippe eorum
+            sororem suamstupro corrumpens, a fratre eius, Absalone uidelicet, interepulas, quas
+            fratribus suis fraudulenter parauerat, obtruncatusest. Absalon uero, postquam ueniam a
+            patre obtinuit, regnoillum expulit; ad concubinas eius ingressus est; demum perinuia
+            deserti patrem persequens, quercui inhesit, atque itasuspensus interiit. Hinc etiam
+            Paulus ad Timotheum scribit,dicens: „ Qui suorum et maxime domesticorum curam non
+            habet,fidem negauit ei est infideli deterior. Iure ergo, qui domui suaepreesse nescit in
+            episcopum ordinari prohibetur, quia qui in reminima, eZ de qua sibi familiarior debet
+            curainesse, fidelisnon est, quomodo in ecclesia Dei (ubi tot sunt et alieni)
+            sollicitamdiligentiam exhibebit? Unde Ieronimus: „Non enimiustus polluitur ex uiciis
+            filiorum, sed libertas ab Apostoloecclesiae principi reseruatur, ut talis fiat, qui non
+            timeat propteruicia liberorum extraneos reprehenderet</p>
+          <p>IV. Pars. §. 1. Quod tunc fiet, si non erit quod sibi in-putetur. Cum enim gressus
+            hominis a Domino dirigantur necsint in homine uiae eius, corripere quidem potest,
+            corrigere</p>
+          <p>autem non ualet; pulsare potest, non aperire, manus conpri-mere, non animum mutare.</p>
+          <p>Unde Augustinus ad Vincentium Donatistam[epist. CXXXVII.]:</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Bonorum disciplina omniummores inmutarenon nafef.</head>
+          <p>Quantumlibet uigilet disciplina domus meae, homo sum et inter homines uiuo; nec mihi
+            arrogare audeo , utdomus mea melior sit quam archa Noe, ubi tamen interocto homines unus
+            reprobus inuentus est, aut melior sitquam domus Abrahae, ubi dictum est: „Eice ancillam
+            etfilium eius,“ aut melior sit quam domus Ysaac, cui deduobus geminis dictum est: „Iacob
+            dilexi, Esau autemodio habui.“ §. i. Simpliciter autem fateor karitatiuestrae coram
+            Domino Deo nostro, qui testis est superanimam meam, ex quo Deo seruire cepi, quoniam
+            difficile sum expertus meliores quam qui in monasteriisprofecerunt ita non sum expertus
+            peiores quam qui inmonasteriis defecerunt.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Conuicia perditorum a uia rectitudinis nos mouerenon
+            debent.</head>
+          <p>Item Cipriano, Cornelius Papa\</p>
+          <p>Quod ad nos adtinet, conscientiae nostrae conuenit, frater, dare operam, ne quis culpa
+            nostra de ecclesia pereat; si autem quis ultro et crimine suo perierit, et penitenciam
+            agere atque ad ecclesiam redire noluerit, nos iniudicii die inculpatos futuros credimus,
+            qui eorum consulimus sanitati; illos solos in penis remansuros, qui noluerint consilii
+            nostri salubritate sanari. Nec mouere nosdebent conuicia perditorum, quo minus a uia
+            recta, et a certaregula non recedamus, quam et Apostolus instruit,dicens: „Si hominibus
+            placerem, Christi seruus nonessem.“</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

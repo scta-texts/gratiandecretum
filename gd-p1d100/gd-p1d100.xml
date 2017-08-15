@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO C.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO C.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d100">
+        <head>DISTINCTIO C.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Episcopos autem ordinare ante pallium acceptum</p>
+        <p>nec archiepiscopo, nec primati, nec patriarchae licet, quod ex auctoritate Pelagii Papae
+          (licet minus euidenter) datur intelligi.</p>
+        <p>Ait enim Pelagius Papa*:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Infra tres menses fidem suam exponere et pallium postulare a
+            Romana ecclesia quisque metropolitanus studeat.</head>
+          <p>Quoniam quidam metropolitanorum fidem suam secundum priscam consuetudinem sanctae sedi
+            apostolicae exponere detrectantes usum pallii neque expetunt, neque percipiunt, ac per
+            hoc episcoporum consecratio uiduatis ecclesiis non sine periculo protelatur, placuit, ut
+            quisquis metropolitanus ultra tres menses consecrationis suae ad fidem suamexponendam
+            palliumque suscipiendum ad apostolicam sedem non miserit, commissa sibi dignitate
+            careat, sitquelicentia metropolitanis aliis, post secundam et tertiam commonitionem
+            uiduatis ecclesiis cum consilio Romani Pontificis ordinando episcopum subuenire. §. 1.
+            Si uero consecrandi episcopi negligentia prouenerit, ut ultra tres mensesecclesia
+            uiduata consistat, communione priuetur, quousqueaut loco cedat, aut se consecrandum
+            offerre non differat.Quod si ultra quinque menses per suam negligentiam retinuerit
+            uiduatam ecclesiam, neque ibi, neque alibi consecrationis donum percipiat, imo
+            metropolitani sui iudiciocedat.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Honor pallii non detur nisi meritis exigentibus et fortiter
+            postulanti.</head>
+          <p>Item Gregorius Papa Brunichildae Reginae,</p>
+          <p>[lib. VII. epist. 5.] '</p>
+          <p>II. Pars. Prisca consuetudo obtinuit, ut honor pallii nisi exigentibus causarum meritis
+            et fortiter postulanti darinon debeat.</p>
+          <p>[PALEA*.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idem Iohanni Corinthiorum Episcopo, lib. 4. epist. 55.</p>
+          <p>Nouit sanctitas tua, quia prius pallium nisi dato commodo non dabatur. Quod quoniam
+            incongruum erat, facto</p>
+          <p>concilio ante corpus B. Petri apostolorum principis, tam de hoc quam de ordinationibus
+            aliquid accipere sub districtainterdictione uetuimus. Oportet ergo, ut neque per
+            commodum, neque per gratiam aut quorumdam suplicationemaliquos ad sacros ordines
+            consentiatis uel permittatis adduci.]</p>
+          <p>III. Pars. Gratian. Causarum uero merita accipiendasunt, ut et is, qui postulat,
+            mereatur accipere, et fidei suae professionem prius iuramento confirmet, et apostolicis
+            decretis atquesinodalibus statutis se obediturum nichilominus caueat. Pallioautem non
+            nisi certis diebus et intra ecclesiam ad missarumsolempnia cuiquam metropolitano uti
+            licebit.</p>
+          <p>Unde I oh anne s Episcopus Williberto Agripinensi Episcopo 22 a * •</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Nisi post consuetam fidei professionem pallium dari non
+            debet.</head>
+          <p>Optatum tibi pallium nunc conferre nequiuimus, quia fidei tuae paginam minus quam
+            oportet continere reperimus,cum uidelicet nullam in ea sanctarum uniuersalium
+            sinodo-rum, in quibus fidei nostrae simbolum continetur, nec decretalium Pontificum
+            Romanorum constitutorum secundummorem feceris mentionem, sed nec illam propria
+            subscriptione munieras, nec aliquem, qui hanc iureiurandofirmaret, miseras .</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Qui pallium desiderat accipere, prius illicita a se amouere
+            promittat.</head>
+          <p>Item Gregorius Aregio Episcopo Francorum,</p>
+          <p>[lib. VII. epist. m.]</p>
+          <p>In ea Sinodo, quam contra symoniacam heresim per fratrem et coepiscopum nostrum
+            Siagrium decreuimus congregari, sanctitatem uestram uolumus interesse, atque eidem
+            fratri ita pallium, quod transmisimus, tribui, si prius sepromiserit illicita, que
+            prohibuimus, per diffinitionem sinodi a sancta ecclesia remouere. De qua Sinodo
+            omnemnobis subtiliter ordinem tuam fraternitatem scriptis discurrentibus uolumus
+            nunciare, ut ipse, cuius nobis sanctitasualde experta est, nos reddat de omnibus
+            certiores.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Nonnisi ad missarum solempnia archiepiscopo uti pallio
+            licet.</head>
+          <p>Idem Vigilio Episc. Arelatensi, [lib. IV. epist. 51.]</p>
+          <p>IV. Pars. Pallium tibi transmisimus, quo fraternitastua intra ecclesiam ad sola
+            missarum solempnia utatur.</p>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idemlohanni Rauennati Episcopo, lib. II. epist. 54. Indict. ii.</p>
+          <p>Non multum temporis interuallum est, quod quedam nobis de tua fraternitate fuerunt
+            nunciata, de quibus uobis,ueniente illuc Castorio, notario sanctae, cui Deo
+            auctorepresidemus, ecclesiae, subtiliter nos indicasse meminimus.Peruenerat namque ad
+            nos quedam in ecclesia uestra contra consuetudinis atque humilitatis* tramitem geri,
+            quesola (ut bene nostis) est offitii sacerdotalis erectio. Que sisapientia uestra
+            mansuete, uel cum episcopali suscepissetstudio, non de illis accendi debuerat, sed
+            oportuerat tehec eadem cum gratiarum actione corrigere.]</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idem^ I oh anni Episcopo Rauennati, [in eadem epistola]</p>
+          <p>Contra morem est ecclesiasticum, si non patientissime toleratur (quod a nobis absit)
+            etiam iniusta correptio. Et infra: §. 1. Illud, frater karrissime, tibi non putamus
+            ignotum, quod prope de nullo metropolitano inquibuslibet mundi patribus sit auditum,
+            extra missarumtempus usum sibi pallii uendicasse. Et quod bene hancconsuetudinem
+            generalis ecclesiae noueritis, uestris nobismanifestissimis epistolis significastis,
+            quibus preceptumbeatae memoriae decessoris nostri Iohannis Papae nobisin subditis
+            transmisistis adnexum, continens omnes consuetudines ex priuilegio decessorum s
+            nostrorum concessasuobis uestraeque ecclesiae debere conseruari». Confitemini igitur
+            aliam esse generalis ecclesiae consuetudinem,postquam ea, que geritis, uobis ex
+            priuilegio uendicatis.Nulla ergo nobis in hac re, ut arbitramur, poterit remanere
+            dubietas. Aut enim mos omnium metropolitanorumet m tua est fraternitate seruandus, aut,
+            si tuae ecclesiaealiquid specialiter dicis esse concessum preceptumue aprioribus Romanae
+            urbis Pontificibus, quod hec Rauennatiecclesiae sunt concessa, a uobis oportet ostendi.
+            Quod sihoc non ostenditur, restat, postquam talia agere neque consuetudine generali
+            neque priuilegio uendicas, usurpassete conprobes quod fecisti. Et infra: §. 2. Decorari
+            palliouolumus forsan moribus indecori, dum nichil in episcopaliceruice splendidius
+            fulget quam humilitas. Oportet ergofraternitatem tuam, si honores suos sibi quibuslibet
+            argumentis stabili proposuit mente defendere, aut generalitatisusum ex non scripto
+            sequi, aut ex scripto p priuilegiisse tueri. Quod si postremo nichil horum est, aliis
+            metropolitanis huius te prebere nolumus presumptionisiexemplum.</p>
+          <p>V. Pars. Gratian. Priuilegia quoque semper cum usupallii debent concedi.</p>
+          <p>Unde idem Gregorius Siagrio Episcopo Augustodunensi, [lib. VII. epist. 112.]:</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. De eodem'.</head>
+          <p>Rationis ordo omnino nos admonet, ut cum usu pallii aliqua largiri priuilegia debeamus.
+            Sed quoniam cumhonoris augmento cura quoque sollicitudinis debet excrescere, ut cultui
+            uestium actionis quoque ornamenta con-</p>
+          <p>ueniant, oportet, ut enixius in cunctis studiis uestra se fraternitas exerceat, et*
+            circa* subiectorum actus situigilans.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Usus pallii conceditur, et antiqua priuilegia innouantur.
+            »</head>
+          <p>Idem I oh an ni Episcopo primae lustinianae Illirici,</p>
+          <p>[lib. IV. epist. 15.] </p>
+          <p>Pallium uobis ex more transmisimus, et uices uos apostolicae sedis agere iterata
+            innouatione decernimus.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Idem Episcopis Epiri, [lib. V. epist. 7. Indict. 14.]</p>
+          <p>Scriptorum uestrorum insinuatio, fatres karissimi, patefecit, Andream Nicomedianae
+            ciuitatis episcopum Deo propitio solempniter ordinatum, cui pallium nos direxisse
+            cognoscite, atque cuncta priuilegia concessisse,que predecessores nostri eius
+            predecessoribus contulerunt.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

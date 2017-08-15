@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXVI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXVI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d26">
+        <head>DISTINCTIO XXVI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Sequitur in utraque epistola: „unius uxoris uirum “ post baptisma uidelicet, non
+          ante baptismum.</p>
+        <p>Unde Ieronimus* scribit ad Oceanum, [epist. 83.]:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Post baptismum debet esse monogamus, qui episcopus est
+            ordinandus.</head>
+          <p>Unius uxoris uirum, id est monogamum, post baptismum. Si enim et ante coniugem
+            habuerit, que obierit, non ei imputatur, cui prorsus nouo nec stupra, nec alia, que ante
+            fuerunt, iam obsunt.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Qui ante baptismum habuerit unam, et post baptismum alteram ,
+            ordinandus non est. .</head>
+          <p>Augustinus uero econtra testatur, scribens in epistolam ad Titum.</p>
+          <p>Acutius intelligunt, qui nec eum, qui catecuminus uel paganus habuerit alteram,
+            ordinandum censue-runt, quia de sacramento agitur, non de peccato*. Propter sacramenti
+            sanctitatem sicut femina, si catecu-mina uitiata est, non potest post baptisma inter Dei
+            uirgines consecrari, ita non absurde uisum est bigamum non peccasse, sed normam
+            sacramenti amisisse non ad uitae meritum, sed ad ordinationis signaculum 's. Unius
+            uxoris uir, episcopus significat ex omnibus gentibus unitatem uni uiro Christo
+            subditam.</p>
+          <p>II. Pars. §. 1. Sicut duobus dominis seruire, sic ab uno Deo apostatare, atque in
+            alterius superstitionem ire non licet.</p>
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Bigamus* probatur, qui ante baptismum habuerit unam, et post
+            baptismum alteram.</head>
+          <p>Item Innocentius [I.] Rufo et Eusebio, et ceteris Episcopis Macedonibus, [epistol.
+            XXII. c. 2.]</p>
+          <p>Deinde ponitur, non dici oportere bigamum eum, qui catecuminus habuerit uxorem atque
+            amiserit, si post baptismum fuerit aliam sortitus, eamque primam uideri, que nouo homini
+            copulata sit, quia illud coniugium perbaptismi sacramentum cum ceteris criminibus sit
+            ablatum . Quod cum de una utique dicitur, certe, si tres habuerit in uetere positus
+            homine uxores**, erit ei, que post baptismum quarta est, sic interpretantibus prima
+            uirginiseque nomen accipiet, que quarto ducta est loco. Quis (oro) istud non uideat
+            contra Apostoli esse preceptum, qui ait: „unius uxoris uirum oportere fieri sacerdotem?“
+            Sed obicitur, quod in baptismo totum, quicquid in ueterihomine gestum est, sit solutum.
+            Dicite mihi (ut cum pace uestra loquar^, crimina tantum dimittuntur in baptismo, an et
+            illa, que secundum Domini precepta ac Dei instituta complentur? Uxorem ducere crimen
+            est, an non est crimen? Si crimen est, ergo (ut prefata uenia dixerim) erit auctor in
+            culpa, qui, ut crimina committerentur, in paradiso precepit***, cum ipse eos benedixit.
+            Si uero non est crimen, quia quod Deus instituit nefas estcrimen appellari, et Salomon
+            addidit: „EtenimaDeo preparata uiro uxor,“ quomodo creditur inter crimina esse dimissum,
+            quod Deo auctore legitur consummatum? Quid de talium filiis percensetur? Numquid non
+            erunt admittendi in hereditatis consortiums, qui ex ea suscepti sunt, que ante baptismum
+            fuit uxor, eruntque appellandi uel naturales, uel spurii, quia non est legitimum
+            matrimonium, nisi illud (ut uobis uidetur), quod post baptismum assumitur? Ipse Dominus,
+            cum interrogaretur a Iudaeis, si liceret dimittere uxorem, atque exponeret fieri non
+            debere, addidit: „Quod ergo Deus coniunxit, homo non separet. Ac ne de his locutus esse
+            credatur, que**** post baptismum sortiuntur, meminerint hoc et a Iudaeis</p>
+
+
+
+
+
+          <p>interrogatum, et Iudeis esse responsum. §. 2. Quero, et sollicitus quero, si una
+            eademque sit uxor eius, qui ante catecuminus, postea fit fidelis, filiosque ex ea, cum
+            esset catecuminus suscepit", ac postea, cum fidelis, alios: utrum sint appellandi
+            fratres, an non* habeant postea defuncto patre herciscundae hereditatis consortium,
+            quibus filiorum nomen regeneratio spiritualis creditur abstulisse? Quod cum ita sentire
+            absurdum" est, que ratio esthoc defendi, et uacua magis opinione iactari, quam aliqua
+            auctoritate roborari, cum non possit inter peccata deputari, quod lex precepit et Deus
+            adiunxit°P? §. 3.Numquidi qui catecuminus uirtutibus studuit humilitatem secutus est,
+            patiendam tenuit, elemosinas fecit, morti destinatos qualibet ratione eripuit, adulteria
+            exhorruit, castitatem tenuit, quero, si hec, cum fuerit factus fidelis, amittit, quia
+            per baptismum totum, quod uetus homo gesserat, putatur auferri? Aspidas gentilem hominem
+            Cornelium orationibus atque elemosinis uacan-tem, angelum audientem per reuelationem
+            ipsumquef Petrum uidentem; numquicl per baptismum hec illi ablata sunt, propter que ei
+            baptisma» uidetur esse concessum? Si ita creditur, mihi credite, non modicum erratur,
+            quia quicquid bene gestum fuerit et secundum precepta legaliacustoditum, non potest
+            facientibus deperire. §. 4. Nuptiarum ergo copula, quia Dei mandato perficitur, non
+            potest dici peccatum, et quod peccatum non est, soluiinter peccata credi non debet,
+            eritque, integrum estimare aboleri non posse nomen prioris uxoris, cum non sit dimissum
+            pro peccato, quod ex Dei uoluntate sit completum.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">In baptismate culpa dimittitur, non lex coniugii
+            aboletur.</head>
+          <p>Item Ambrosius in libro de offitiis [lib. I. c. ult. 80.]</p>
+          <p>Una tantum, nec repetita nobis copula permittitur, et in ipso coniugio lex est, non
+            iterare coniugium, nec secundae coniugis coniunctionem. Quod plerisque mirum uidetur,
+            cur etiam ante baptisma iterata* con-iugia electioni muneris et prerogatiuae
+            ordinationis impedimenta generent, cum etiam delicta obesse non soleant si lauacri
+            remissa fuerint sacramento. Sed intelligere debemus, quia baptismo culpa dimitti potest,
+            lexaboleri non potest. In coniugio non culpa, sed lex est. Quod culpae est igitur, in
+            baptismo relaxatur: quod legis, in coniugio non soluitur. Quomodo autem potest hortator
+            esse uiduitatis, qui ipse coniugia frequentauerit?</p>
+
+          <p>Gratian. lohannes etiam Baptista, dum Herodem ab incestu prohiberet dicens: „ Non licet
+            tibi habere uxorem fratris tui, euidenter ostendit, inter infideles coniugia esse. Unde
+            datur intelligi, quod bigami dicuntur non solum qui post baptismum coniugia frequentant,
+            sed etiam qui ante baptismum unam, et post baptismum alteram habuisse probantur. §. 1.
+            Bigamus uero in sacerdotem ordinari non debet, non quia deliquerit secundam accipiendo
+            uxorem, sed quiaprerogatiua exutus est sacerdotis.</p>
+          <p>Unde Ambrosius in epistola ad Vercellenses, [lib. X. epist. 82. ait:}</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Non peccat bigamus, sed prerogatiua sacerdotis exuitur.</head>
+          <p>Qui sine crimine unius uxoris est uir, tenetur ad legem sacerdotii suscipiendi. Qui
+            autem iterauerit coniugium, culpam quidem non habet coinquinati, sed prerogatiua exuitur
+            sacerdotis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d11">
+        <head>DISTINCTIO XI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Quod uero legibus consuetudo cedat, Ysidorus testatur in Sinonimis, lib. II. [c.
+          16.]:</p>
+
+
+
+
+
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Prauus usus ratione superetur et lege.</head>
+          <p>Usus auctoritati cedat; prauum usum lex et ratio uincat.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Statutis Pontificum consuetudo cuiusquam refragari non
+            potest.</head>
+          <p>Item Nicolaus Papa I. Michaeli Imperatori.</p>
+          <p>Consequens est, ut quod ab huius sedis rectoribus plena auctoritate sancitur, nullius
+            consuetudinis prepediente occasione, proprias sequendo tantum uoluntates remoueatur, sed
+            firmius atque inconcusse teneatur.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">A consuetudine Romanae ecclesiae membris dissentire non
+            licet.</head>
+          <p>Item lulius Papa [I. ad Episcopos orientales, epist. I.].</p>
+          <p>Nolite errare, fratres mei, doctrinis uariis etextraneis nolite abduci. Et, instituta
+            apostolorum et apostolicorum uirorum canonesque habetis: his frui-mini *, ut freti,
+            contra cuncta inimicorum iacula persistere ualeatis. Satis enim indignum est, quemquam
+            uel pontificum uel ordinum subsequentium hanc regulam refutare, quam beati Petri sedem
+            et sequi uiderit, et docere. Multum conuenit s, ut totum corpus ecclesiae in hac
+            sibiobseruatione concordet, que inde auctoritatem habet, ubi Dominus ecclesiae totius
+            posuit principatum.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Usus et consuetudo legem et rationem uincere non
+            potest.</head>
+          <p>Item Cod. lib. VII. iit. II. [Imp. Constantinus A. ad Proculum, lib. VIII. Cod. tit.
+            Quae sit longa consuetudo (t. 53. const. 2.)].</p>
+
+          <p>Consuetudinis ususque longeui non uilis auctoritas est: uerum non usque adeo sui
+            ualitura momento, ut aut rationem uincat, aut legem scriptam.</p>
+          <p>II. Pars. Gratianus. Cum uero nec sacris canonibus, nec humanis legibus consuetudo
+            obuiare monstratur, inconcussa seruanda est.</p>
+          <p>Unde Augustinus ait ueffi* ex dictis* B as ilii:</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Inuiolabilis est consuetudo, que nec humanis legibus nec
+            sacris canonibus obuiare monstratur.</head>
+          <p>Ecclesiasticarum institutionum quasdam scripturis, quasdam uero apostolica traditione
+            per successores in ministerio confirmatas accipimus; quasdam vero consuetudine roborata
+            approbauit usus, quibus par ritus et idem utriusque pietatis debetur affectus; unde quis
+            uel aliquantulum sacrarum expertus scripturarum hesitaverit? Si enim attenderimus*'
+            consuetudines ecclesiae non per scripturas a Patribus traditas nichil estimare, quantum
+            religio detrimenti sit latura, intentiuums despicientibus liquido constabit. §. 1. Que
+            enim (ut inde ordiamur) scriptura salutiferae crucis signaculo fideles docuit insigniri?
+            uel que trifariam digesta super panem et calicem prolixae orationis uel consecrationis
+            uerba com-mendauit? Nam non modo, quod in euangelio continetur uel ab Apostolo insertum*
+            secretis dicimus, sed et alia plura adicimus magnam quasi uim commendantia miste-riis.
+            Que orientem uersus nos orare litterarum forma docuit? Benedicimus fontem baptismatis
+            oleo unctionis. Huc accedit, quod ter oleo inungimus quos baptizamus,</p>
+
+
+
+
+
+          <p>uerbis abrenuntiare satanae angelis eius informamus. tJnde hec et alia in hunc modum
+            non pauca, nisi tacitaac mistica traditione a Patribus ecclesiastico more acreuerentiori
+            diligentia sunt in ministeriis obseruata magis? silentio, quam publicata scripto?</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Laudabilis est consuetudo, que nichil fidei contrarium
+            usurpat.</head>
+          <p>Idem ad Casulanum presbiterum*</p>
+          <p>Consuetudinem laudamus, que tamen contra fidem catholicam nichil usurpare
+            dignoscitur.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Vbi auctoritas deficit, mos populi et maiorum in-. stituta pro
+            lege seruentur .</head>
+          <p>Item ad eundem [B. Augustinus ad Casulanum, epist. LXXXVI.]</p>
+          <p>In his rebus, de quibus nihil certi statuit diuina scriptura, mos populi Dei et
+            instituta maiorum pro lege tenenda sunt. Et sicut* preuaricatores legum diuinarum, ita
+            contemptores consuetudinum ecclesiasticarum cohercendi sunt.</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">Auctoritate et traditione generali uel speciali ecclesia
+            regitur .</head>
+          <p>Idem in libro de christiana fide*.</p>
+          <p>Catholica ecclesia, per orbem diffusa, tribus modis probatur existere. Quicquid in ea
+            tenetur, aut auctoritas est scripturarum, aut traditio uniuersalis, aut certe propria et
+            particularis instructio. Sed auctoritate tota constringitur, uniuersali traditione
+            maiorum nichilominus tota; priua-tis uero constitutionibus et propriis informationibus
+            unaque-que pro locorum uarietate, prout cuique uisum est, subsistit et regitur. .</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Valet ad fidem catholicae auctoritas ecclesiae.</head>
+          <p>Idem in libro contra Manicheos *.</p>
+          <p>Palam est, quod in re dubia ad fidem ualeat auctoritas ecclesiae catholicae, que ab
+            ipsis fundatissimis sedibus apostolorum usque ad hodiernum diem succedentium sibimet
+            episcoporum serie et tot populorum consensione firmatur.</p>
+
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="question-title">Ab apostolicis institutis non licet recedere.</head>
+          <p>Item Leo [Papa ad Episcopos per Siciliam constitutos, epist IV. c. 6.]</p>
+          <p>Hoc uestrae indicimus caritati, ut ab apostolicis institutis nullo ulterius recedatis
+            excessu, quia inultum post hec esse non poterit, si quisquam apostolicas regulas in
+            aliquo crediderit negligendas.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="question-title">Ab omnibus seruari debet, quod Romana seruat Ecclesia.</head>
+          <p>Item Innocentius Decentio Ep. [it. Inn. I. ad Decentium Episcopum Eugubinum, epist.
+            I.]</p>
+          <p>Quis nesciat aut non aduertat, id quod a principe apostolorum Petro Romanae ecclesiae
+            traditum est, ac nunc usque custoditur, ab omnibus debere seruari? nec superduci aut
+            introduci aliquid, quod auctoritatem debeat uel aliunde accipere exemplum? presertim cum
+            sit manifestum, in omnem Italiam, Gallias, Ispanias, Africam atque Siciliam insulasque
+            interiacentes nullum instituisse ecclesias, nisi eos, quos uenerabilis apostolus Petrus
+            aut successores eius constituerunt sacerdotes; legant autem, si in istis prouinciis
+            alius apostolus inuenitur, aut legitur docuisse. Quod si non legunt, quia nusquam
+            inueniunt, oportet eos hoc sequi, quod ecclesia Romana custodit, a qua principium eos
+            accepisse non dubium est: ne dum peregrinis sermonibus student, caput institutionum
+            uideantur amitteres. §. i. Sepe dilectionem tuam ad Urbem ue-nisse ac nobiscum in
+            ecclesia conuenisse non dubium est, et quem morem vel in consecrandis misteriis, uel
+            ceteris agendis arcanis teneat, agnouisse*. Quod sufficere arbitrarer ad informationem
+            ecclesiae tuae uel reformationem, si predecessores tui minus aliquid aut aliter
+            tenuerint, satis certum haberem, nisi de aliquibus consulendos nos esse duxisset; quibus
+            idcirco respondemus, non quod te ignorarep credamus, sed ut maiori auctoritate uel q
+            tuos instituas, uel si qui a Romanae ecclesiae institutionibus errant, aut commoneas,
+            aut indicare non differas, ut scire ualeamus, qui sint, qui aut nouitates inducunt, aut
+            alterius ecclesiae quam Romanae existimant consuetudinem esse seruandam.</p>
+
+
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

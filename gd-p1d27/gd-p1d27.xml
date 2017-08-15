@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXVII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXVII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d27">
+        <head>DISTINCTIO XXVII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Quod autem unius uxoris uir episcopus iubetureligi, queritur, an de tempore
+          ordinationis hoc sit accipiendum, ut tempore suae administrationis eius copula possit
+          fungi, quam unicam et uirginem sibi desponsauit.</p>
+        <p>Hoc Martinus Papa prohibet dicens:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Non ordinetur diaconus, nisi castitatem professus
+            fuerit.</head>
+          <p>Diaconus qui eligitur, si contestatus fuerit pro accipiendo matrimonio, et se dixerit
+            in castitate permanerenon posse, hic non ordinetur. Quod si in ordinatione tacuerit et
+            ordinatus fuerit, et postea matrimonium desidera-uerit, alienus sit a ministerio et
+            uacet a clero.</p>
+          <p>Gratian. Hac auctoritate datur intelligi, quod illi, qui habent uxores uel accipere
+            uolunt, nec diacones, nec sacerdotes fieri possunt, nisi continentiam profiteantur. §.
+            1. Si uero diaconus a ministerio cessare uoluerit, contracto matrimonio licite potest
+            uti. Nam etsi in ordinatione sua castitatis uotum obtulerit, tamen tanta est uis in
+            sacramento coniugii, quod nec ex uiolatione uoti potest dissolui coniugium ipsum.</p>
+          <p>Unde Augustinus* in libro de bono coniugali ad Iulianum, [cap. io.]:</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Nubentes post uotum non sunt abinuicem separandi.</head>
+          <p>II. Pars. Quidam nubentes post uotum adulterosasserunt. Ego autem dico, quod grauiter
+            peccant qui tales diuidunt.</p>
+
+
+
+
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item Theodorus.</p>
+          <p>Si uir* uotum uirginitatis habens adiungituruxori, postea non dimittat uxorem, sed
+            tribus annispeniteat.</p>
+          <p>Ieronimus* uero scribit econtra:</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Dampnabile est uouentibus uelle nubere.</head>
+          <p>Vouentibus uirginitatem non solum nubere, sed etiam uelle dampnabile est.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Dampnationem habebit, si nupserit, que uirginitatem
+            uouit.</head>
+          <p>Idem contra Iouinianum, [lib. I.]</p>
+          <p>Si nupserit uirgo, non peccat: non illa uirgo, que se-met cultui diuino dedicauit.
+            Harum enim si qua nupserit, habebit dampnationem, quia primam fidem irritam fecit.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Que sanctimonialem se esse fingit non ualet nubere.</head>
+          <p>Item Nicolaus [Papa I. ad Albinum Viennens. ecclesiae Archiepiscopum.]</p>
+          <p>Quod interrogasti de femina, que post obitummariti sui sacrum uelamen super caput suum
+            inposuit, et finxit se sub eodem uelamine sanctimonialem esse, postea uero ad nuptias
+            rediit: bonum mihi uidetur, quia per ypocrisim ecclesiasticam regulam conturbare u
+            oluit, et non legitime in uoto suo permansit, ut penitentiam agat de illusione nefanda,
+            et reuertatur ad id, quod spopondit, et in sacro ministerio permaneat, quod
+            inchoauit.</p>
+          <p>[PALE A.</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">Idem ibid.</head>
+          <p>Nam* si consenserimus, quod omnia sacramenta ecclesiastica quisque prout uult fingat et
+            non uere faciatomnis ordo ecclesiasticus turbabitur, nec catholicae fidei iura
+            consistunt, nec canones sacri rite obseruantur. Quid enim profuit Simoni Mago baptismum
+            sacrum ficte suscipere, et in Christianitate permansurum se finxisse, cum per Apostolum,
+            fraude eius detecta, quod sibi futurum esset prenun-ciatum fuit? Ait enim: ,,Pecunia tua
+            tecum sit in erditionem: cor enim tuum non est rectum coram Deo. enitentiam itaque age
+            ab hac nequitia tua, et roga</p>
+
+          <p>Deum, si forte remittatur tibi hec cogitatio cordis tui: in felle enim amaritudinis et
+            obligatione iniquitatis uideo te esse.“ Ideo tales, nisi resipiscant, spirituali gladio
+            percutere censemus. Non enim fas est Spiritui sancto mentiri, sicut Ananias et Saphira
+            mentiti sunt, et statim perierunt.]</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">In sacris ordinibus constituti, non ducant uxores: et si
+            duxerint, separentur.</head>
+          <p>Item Calix tus Papa [II.]</p>
+          <p>Presbiteris*, diaconibus, subdiaconibus et monachis concubinas habere, seu matrimonium
+            contrahere penitus interdicimus; contracta quoque matrimonia ab huiusmodi personis
+            disiungi, et personas ad penitentiam debere redigi, iuxta sacrorum canonum diffinitionem
+            iudicamus.</p>
+          <p>Gratian. Hic distinguendum est, quod uouentium alii sunt simpliciter uouentes, de
+            quibus Augustinus et Theodorus locuti sunt, alii sunt, quibus post uotum accedit
+            benedictio consecrationis, uel propositum religionis, de quibus Ieronimus et Nicolaus et
+            Calixtus scripserunt.</p>
+          <p>Unde contra eundem Iouinianum Ieronimus[lib. I.] scribens, ait:</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Incestae sunt uirgines, que post consecrationem nubunt.</head>
+          <p>Virgines, que post consecrationem nupserint, non tam adulterae sunt, quam incestae.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

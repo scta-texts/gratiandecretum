@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLIX. GRATIANUS.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLIX. GRATIANUS.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d49">
+        <head>DISTINCTIO XLIX. GRATIANUS.</head>
+        <p>Ecce, a quibus uiciis debeant esse inmunes, qui in episcopumsunt ordinandi. Qui enim
+          intercessores pro populo ad Deumparantur, necesse est ut eius gratiam bene uiuendo
+          mereantur. Utenim ait Gregorius in Pastorali*. §. i. „Sollicite formidandum est, ne, qui
+          placare posse iram Dei creditur, hanc ipseex proprio reatu mereatur. Cuncti enim liquido
+          nouimus quiais, qui displicet, cum ad intercedendum mittitur, irati animus addeteriora
+          prouocatur. Qui ergo desideriis terrenis astringitur,caueat, ne districti iram iudicis
+          grauius accendens, dum loco delectatur gloriae, fiat subditis auctor ruinae. Sollerter
+          ergo sequisque metiatur, nec locum regiminis assumere audeat, si adhucin se uicium
+          dampnabiliter regnat; nec is, quem crimen depra-uat proprium, intercessor fieri appetat
+          pro culpis aliorum.</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Qui uiciis maculatus est sacrificium Deo offere non
+            debet.</head>
+          <p>Hinc etenim superna uoce ad Moysen dicitur in Leuitico: ,, Loquere ad Aaron: homo de
+            semine tuo perfamilias, qui habuerit maculam, non offerat panemDeo suo, nec accedat ad
+            ministerium eius.“ Ubi etrepente subiungitur; ,,Si cecus fuerit, si claudus, si uelparuo
+            uel grandi uel torto naso, si fracto pede, si mancus s, si gibbus, si lippus, si
+            albuginem habens in oculo,si iugem scabiem, si impetiginem in corpore, uel pondero-sus.“
+            §. i. Cecus quippe est, qui supernae lumen contemplationis ignorat, qui presentis uitae
+            tenebris pressus, dumlucem uenturam nequaquam diligendo conspicit, quo gressus operis
+            porrigat nescit. Hinc etenim prophetanteAnna dicitur in libro Regum: „ Pedes sanctorum
+            suorumseruabit, et impii in tenebris conticescent.^ §. 2. Claudusuero est, qui quidem
+            quo pergere debeat aspicit, sed perinfirmitatem mentis uitae uiam perfecte» non ualet
+            tenereuam uidet; quia uidelicet quis ad uirtutis statum dumuxa consuetudine non
+            erigitur, quo desiderium innititur, illuc gressus operis efficaciter non sequitur.
+            Hincetenim Paulus dicit ad Ebreos: „ Remissas manus etdissoluta genua erigite, et
+            gressus rectos facite pedibusuestris, ut non claudicans erret °, magis autemp sane-tur“.
+            §. 3. Paruo autem naso est, qui ad tenendam mensuram discretionis idoneus non est. Naso
+            quippe odoresfetoresque discernimus. Recte ergo per nasum discretioexprimitur, per quam
+            uirtutes eligimus, delicta reprobamus.Unde et in laude sponsae dicitur in canticis
+            canticorum q :„Nasus tuus sicut turris, que est in Libano,“ quia nimirumsancta ecclesia
+            que ex causis singulis temptamenta prodeantper discretionem conspicit, et uentura
+            uiciorum bella ex altodeprehendit. Sed sunt nonnulli, qui, dum estimari hebetesnolunt,
+            sepe se in quibusdam inquisitionibus plusquam necesse est exercentes ex nimia
+            subtilitate falluntur.Unde hic quoque subditur: ,,uel grandi uel torto naso.“Nasus
+            etenim grandis et tortus est discretionis subtilitasinmoderata, que, dum plus quam decet
+            excreuerit, actionissuae rectitudinem ipsa confundit. §. 4. Fracto autem pedeuel manu
+            est, qui uiam Domini pergere omnino nonualet, atque a bonis actibus funditus exors
+            uacat, quatenushec non ut claudus saltem cum infirmitate teneat, sed ab hisomnimodo
+            alienus existat. §. 5. Gibbus uero est, quemterrenae sollicitudinis pondus deprimit, ne
+            umquam adsuperna respiciat, sed solis his, que in infimis calcantur,intendat, qui et si
+            quando aliquid ex bono patriae celestisaudierit, ad hoc, nimirum peruersae consuetudinis
+            ponderepregrauatus, cordis faciem non attollit, qui cogitationisstatum erigere non
+            ualet, quem terrenae usus sollicitudiniscuruum tenet. Ex horum quippe specie Psalmista
+            dicit inPsalmo XXXVII.: „Incuruatus sumet humiliatus sumyusquequaque.“ Quorum culpam
+            quoque per semetipsamueritas reprobans ait in Luca: „Semen autem, quod inspinis cecidit,
+            hi sunt, qui audierunt et a sollicitudinibus et diuiciis et uoluptatibus uitae euntes
+            suffocantur,et non referunt fructum.“ §. 6. Lippus uero est, cuiusquidem ingenium ad
+            cognitionem ueritatis emicat, sedtamen hoc carnalia opera obscurant. In lippis
+            quippeoculis pupillae sanae sunt, sed humore defluenti infirmantes palpebrae
+            grossescunt, quorum quia infusionecrebra atteritur, etiam acies pupillae uitiatur. Et
+            suntnonnulli, quorum sensum carnalis uitae operatio sauciat, quiuidere recta subtiliter
+            per ingenium poterant, sed usuprauorum actuum caligant. Lippus itaque est, cuius sensum
+            natura exacuit, sed conuersationis prauitas confundit,cui bene per Angelum dicitur in
+            Apocalypsi: ,,Colirioinunge oculos tuos, ut uideas. Colirio quippe oculos utuideamus
+            inungimus, cum ad cognoscendam ueri luminisclaritatem intellectus nostri aciem
+            medicamine bonae operationis adiuuamus. §. 7. Albuginem uero habet in oculo,
+            quiueritatis lucem uidere non sinitur, quia arrogantia sapientiaeseu iusticiae cecatur.
+            Pupilla namque oculi nigra uidet,albuginem tollerans nichil uidet, quia uidelicet sensus
+            humanae cogitationis, si stultum se peccatoremque intelligit,cognitionem intimae
+            claritatis apprehendit. Si autem candorem sibi iusticiae seu sapientiae tribuit, a luce
+            se supernaecognitionis excludit, et eo claritatem ueri luminis nequaquampenetrat, quo se
+            apud se per arrogantiam exaltat, sicut dequibusdam dicitur ad Romanos^: ,,Dicentes enim
+            seesse sapientes, stulti facti sunt.“ §. 8. Iugem uero habetscabiem, cui carnis
+            petulantia sine cessatione dominatur. Inscabie etenim feruor uiscerum ad cutem trahitur
+            , per quamrecte luxuria designatur, quia si cordis temptatio usque adoperationem
+            prosilit, nimirum feruor intimus usque ad cutisscabiem prorumpit, et foris iam corpus
+            sauciat, quia dum incogitatione uoluptas non reprimitur, etiam in actione dominatur.
+            Quasi enim cutis pruriginem Paulus curabatabstergere, cum dicebat ad
+            Corinthios:,,Temptatio nonapprehendat uos, nisi humana,“ ac si aperte diceret:Humanum
+            quidem est in corde temptationem perpeti, de-moniacum uero est temptationis certamine et
+            operatione superari. §. 9. Impetiginem quoque habet in corporequisquis auaricia uastatur
+            in mente, que si in paruis noncompescitur, nimirum sine mensura dilatatur. Inpetigo</p>
+          <p>quippe sine dolore corpus occupat, et absque occupati tedio excrescens membrorum
+            decorem fedat, quia et auaritiacapti animum, dum quasi delectat, exulcerat, dum
+            adipiscenda queque cogitationi obicit, ad inimicicias accendit,et dolorem in uulnere non
+            facit, quia estuanti animo ex culpahabundantiam promittit. Sed decor membrorum
+            perditur,quia aliarum quoque uirtutum per hanc pulcritudo depraua-tur, et quasi totum
+            corpus exasperat, quia per uniuersaanimum subplantat, Paulo adtestante, qui ait ad
+            Timotheum: „Radix omnium malorum est cupiditas.^ §. io.Ponderosus uero est, qui
+            turpitudinem non exercet opere,sed tamen ab hac cogitacione continua sine
+            moderaminegrauatur in mente; qui nequaquam quidem usque ad opusnefarium rapitur, sed
+            eius animus uoluptate luxuriae sineullo repugnationis stimulo delectatur. Vicium
+            quippeest ponderis, cum humor uiscerum ad uirilia labitur, queprofecto cum molestia
+            dedecoris intumescunt. Ponderosusergo est, qui totis cogitacionibus ad lasciuiam
+            defluens, pondus turpitudinis gestat in corde; et quamuis praua nonexerceat operapp, ab
+            his tamen non eleuatur^ mente,nec ad usum boni operis in aperto ualet assurgere,
+            quiagrauat hunc in abditis pondus turpe. §. ii. Quisquisergo quolibet horum uitio
+            subigitur, panes Dominoofferre prohibetur, ne profecto* aliena delicta ualeatdiluere is,
+            quem adhuc propria deuastant. §. 12. Quiaigitur paucis ad pastorale magisterium dignus
+            qualiterueniat, atque indignus hoc qualiter pertimescat, ostendimus, nunc is, qui ad
+            illud digne peruenerit, in eo qualiteruiuere debeat, demonstremus.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Indoctus, terrena lucra quaerens, uitiosus ordinari non
+            debet.</head>
+          <p>Item leronimus super Malachiam, [ad c. 1. v. 7. 8.]</p>
+          <p>Sacerdotes nomen Domini despiciunt, et, quantum ad se, panem pollutum offerunt, qui ad
+            altare indigne accedunt,quique dato munere sacerdotium presumunt. Panem quoque polluit,
+            qui doctrinam Domini in populo male dispertit, et qui honorat potentem et despicit
+            pauperem. Etinfra: §. 1. ,, Si offeratis cecum ad immolandum, nonnemalum est? etc.
+            Superius accusati de panibus nunc accusantur de uictimis. Cecum animal offert, qui
+            ordinat indoctum in loco docti, magistrumque facit, qui uix discipulusesse poterat.
+            Claudum offert, qui lucra terrena querentemlocat, utpote pedem in diuersa ponentem, unum
+            indiuinis, alterum in carnalibus, cui potest inferri illud delibro Regum: „Usquequo
+            claudicas in duas partes?“Languidum offert, qui uitiosum pro religioso habet, quique
+            tardum et pigrum probat* pacientem, dicens illum ne-gligentiae redarguendum. Indignum
+            est enim dare Deoquod dedignatur homo.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

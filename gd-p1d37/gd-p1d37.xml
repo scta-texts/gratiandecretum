@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXXVII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXXVII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d37">
+        <head>DISTINCTIO XXXVII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Sed queritur, an secularibus litteris oporteat eos esse eruditos f De his ita
+          scribitur in Concilio Cartagin. IV. [cap. 16.}:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Libros gentilium non legat episcopus.</head>
+          <p>Episcopus libros gentilium non legat, hereticorum autem pro necessitate aut
+            tempore.</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Reprehenduntur sacerdotes, qui omissis euangeliis legunt
+            comedias.</head>
+          <p>Item Ieronimus ad Damasum de prodigo filio, [epist. CXLVI.]</p>
+          <p>Sacerdotes Dei omissis euangeliis et prophetiis uide-mus comedias legere, amatoria
+            bucolicorum uersuum uerba cantare, tenere Virgilium, et id, quod in pueris est causa
+            necessitatis^ crimen in se facere uoluptatis.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">In uanitate et obscuritate sensus ambulant, qui secularibus
+            disciplinis occupantur.</head>
+          <p>Idem [ad cap. 4. epist. ad Ephesios, lib. II. comment.)</p>
+          <p>Nonne uobis uidetur in uanitate sensus et obscuritate mentis ingredi, qui diebus ac
+            noctibus in dialectica arte torquetur? qui phisicus perscrutator oculos trans celum
+            leuat, et ultra profundum terrarum et abissi in quoddaminane demergitur? qui iambum
+            feruet*? qui tantam metrorum siluam in suo studiosus corde distinguit et congerit? et
+            (ut ad alteram partem transeam) qui diuitias per fas et nefas querit? qui adulatur
+            regibus, hereditates captat alienas, et congregat opes, quas in momento cui sit
+            relicturus ignorat?</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Qui scripturas sacras male intelligant, uel seculari sapientia
+            abutuntur, uino inebriantur et sicera.</head>
+          <p>Idem in Ysaia.</p>
+          <p>Vino inebriantur, qui scripturas sanctas male intelligant atque peruertunt; sicera, qui
+            abutuntur seculari sapientia et dialecticorum tendiculis, que non tam uincula sunt
+            appellanda quam fantasmata, id est umbrae quedam et imagines, que cito pereunt et
+            soluuntur. Idem: §. 1. Secundum tropologiam pseudoprophetas eos debemus accipere, qui
+            aliter scripturarum uerba accipiunt, quam Spiritus sanctus sonat, et diuinos eos, qui
+            coniectura mentis suae incerta futurorum quasi uera pronuntiant absque diuinorum
+            auctoritate uerborum. Idem: §.2. Quicumque scripturas non ita intelligit, ut rei ueritas
+            habet, uuam acerbam comedit.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Reprehenduntur episcopi, qui filios suos secularibus erudiant
+            litteris.</head>
+          <p>Idem [lib. III. ad cap. 6.] in epist. ad Ephes.</p>
+          <p>Legant episcopi atque presbiteri, qui filios suos secularibus litteris erudiunt, et
+            faciunt comedias legere et mimorum turpia scripta cantare, de ecclesiasticis sumptibus
+            forsitan eruditos. Et quod in corbonam pro peccato uirgo uel uidua, uel substantiam suam
+            totam effundens quilibet pauper obtulerat, hoc calendarum strenam, et Saturnalium
+            sportulam, et mineruale munus grammaticus et orator, aut in sumptus domesticos aut in
+            templi stipes, aut sordidum conuertit in lucrum. Heli sacerdos ipse fuit sanctus; sed
+            quia filios suos non erudiuit in omni disciplina et correctione, supinus cecidit et
+            mortuus est.</p>
+          <p>[PALEA.</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Item ex responsione Adriani* Papae ad Carolum, cap. 49.</head>
+          <p>Omnem uim uenenorum suorum in dialectica disputa-</p>
+
+
+
+
+
+          <p>tione constituunt heretici, que philosophorum sententia definitur non astruendi uim
+            habere, sed studium destruendi. Sed non in dialectica complacuit Deo saluum facere
+            populum suum. Regnum enim Dei in simplicitate fidei est, non in contentione
+            sermonis.]</p>
+        </div>
+        <div>
+          <head>C, VII.</head>
+          <head type="question-title">B. Ieronimus ab angelo uerberatur, quia Ciceronis libros
+            legebat.</head>
+          <p>Item R ab anus depressuris ecclesiasticis4$.</p>
+          <p>Legimus de B. Ieronimo, quod, cum librum legeret Ciceronis, ab angelo correptus est, eo
+            quod uir Christianus paganorum figmentis intenderet,</p>
+          <p>Gratian. Hinc etiam filius prodigus ille in euangelio reprehenditur, qui de siliquis,
+            quas porci manducabant, uentrem suum replere cupiebat. §. i. Hinc etiam Origenes*
+            cinifes et ranas, quibus Egiptii percussi sunt, uanam dialecticorum garrulitatem et
+            sophistica argumenta intelligit. Ex quibus omnibus colligitur, quod non est ab
+            ecclesiasticis secularium litterarum querenda peritia. §. 2. Sed econtra legitur, quod
+            Moyses et Daniel omni scientiaEgiptiorum et Caldeorum eruditi fuerint. Legitur etiam,
+            quod precepit Dominus filiis Israel, ut spoliarent Egiptios auro et argento, moraliter
+            instruens, ut siue aurum sapientiae, siue argentum eloquentiae apud poetas inueni-remus,
+            in usum salutiferae eruditionis uertamus. §.3. In Le-uitico etiam primitias** mellis, id
+            est dulcedinem eloquentiae humanae Domino iubemur offerre. §. 4. Magi quoque tria munera
+            Domino obtulerunt, in quibus nonnulli tres partes philosophiae uolunt intelligi. §. 5.
+            Denique, w* in expositione Psalterii Cas-siodorus*** testatur, omnis splendor rethoricae
+            eloquentiae, omnes modi poeticae locutionis, quelibet uarietas decorae pronuntiationis a
+            diuinis scripturis sumpsit exordium. §. 6. Hinc etiam epistol. Colosensium: „ Omnis
+            ratio supernae scientiae uel terrenae creaturae in eo est, 91« es* capw* earum et
+            auctor, w*, hunc nouit, nichil ultra querat, quia hic est perfecta uirtus et sapientia;
+            quicquid alibi queritur, hic perfecte in-uenitur. In Daniele et Salomone ostendit
+            infidelibus esse se auctorem totius sapientiae. Quod infideles non putant, non legunt in
+            euangeliis et prophetis astrologiam, e*s a&amp;a huiusmodi, que despecta stm*, quia^
+            nichil ualent ad salutem, sed mittunt in errorem, e*, dim fas student, curam animae non
+            habent. Qui uero Christum nouit, thesaurum sapientiae et scientiae inuenit, quia id
+            nouit, ^wod utile est.</p>
+          <p>Hinc etiam B e da ait in [lib. II.J Regum, [c. 9. in Samuelis allegoricis
+            expositionibus]:</p>
+        </div>
+        <div>
+          <head>C. VIII.</head>
+          <head type="question-title">iVon prohibeantur cleriei seculares litteras legere. Turbat
+            acumen legentium et deficere cogit, qui eos a</head>
+
+          <p>legendis secularibus libris omnibus modis existimatprohibendos, in quibus si qua
+            inuenta sunt utilia, quasi sua sumere licet. Alioquin Moyses et Daniel sapientia et
+            litteris Egiptiorum Caldeorumque non paterentur erudiri, quorum tamen supersticiones
+            simul et delicias, horrebant. Nec ipse magister gentium aliquot uersus poetarum suis uel
+            scripturis indidisset, uel dictis.</p>
+          <p>II. Pars. Gratian, Cur ergo legi prohibentur, que tam rationabiliter legenda probantur
+            ? Sed seculares litteras quidam legunt ad uoluptatem, poetarum figmentis et uerborum
+            ornatu delectati; quidam uero ad eruditionem eas addiscunt, ut errores gentilium legendo
+            detestentur, et utilia, que in eis inuenerint, ad usum sacrae eruditionis deuote^
+            inuertantas. Tales laudabiliter seculares litteras addiscunt. Unde B. Gregorius quen-dam
+            episcopum non reprehendit, quia eas didicerat, sed quia contra episcopale offitium pro
+            lectione euangelica grammaticam populo exponebat.</p>
+          <p>Hinc etiam Ambrosius scribit super Lucam, [in explanatione prooemii]:</p>
+        </div>
+        <div>
+          <head>C. IX.</head>
+          <head type="question-title">Seculares litterae legendae sunt, ut non ignorentur.</head>
+          <p>Legimus aliqua, ne legantur*; legimus, ne ignoremus ; legimus, non ut teneamus, sed ut
+            repudiemus.</p>
+        </div>
+        <div>
+          <head>C. X.</head>
+          <head type="question-title">Gramatica legenda est, ut per eam sacrae . scripturae
+            intelligantur .</head>
+          <p>Item Ieronimus super epistolam ad Titum.</p>
+          <p>Si quis gramaticam artem nouit uel dialecticam, ut recte loquendi rationem habeat, et
+            inter falsa et uera diiu-dicet, non inprobamus*. §. 1. Geometria autem et aritmetica et
+            musica habent in sua scientia ueritatem, sed non est scientia illa pietatis . Scientia
+            autem pietatis est legere scripturas et" intelligere prophetas, euangeliocredere,
+            apostolos non ignorare. §. 2. Gramaticorum** autem doctrina potest s proficere ad uitam,
+            dum fuerit in meliores usus assumpta.</p>
+        </div>
+        <div>
+          <head>C. XI.</head>
+          <head type="question-title">Exemplo Danielis probatur, non esse peccatum secularibus
+            litteris erudiri.</head>
+          <p>Item .</p>
+          <p>Qui de mensa et uino regis nolunt comedere, ne polluantur, utique si sapientiam atque
+            doctrinam Babiloniorum scirent esse peccatum, numquam adquiesce-rent discere quod non
+            licebat. Discunt autem, non ut sequantur, sed ut iudicent atque conuincant, quomodo si
+            quispiam aduersus mathematicos uelit scribere inperitus matheseos, risui pateat, et
+            aduersus philosophos dis-</p>
+
+
+
+
+
+          <p>putans, si ignorat dogmata philosophorum. Discuntergo ea mente doctrinam Caldaicam^,
+            qua et Moyses omnem sapientiam Egiptiorum didicerat, /dem: §. i. Si quando cogimur
+            litterarum secularium recordari, et aliqua ex his discere, que olim omisimus, non est
+            nostrae uoluntatis, sed, ut ita dicam, grauissimae necessitatis, ut probemus ea, que a
+            sanctis prophetis ante secula multa predicta sunt, tam Grecorum, quam Latinorum et
+            aliarum gentium litteris contineri.</p>
+        </div>
+        <div>
+          <head>C. XII.</head>
+          <head type="question-title">Magistros et doctores episcopi congruis locis constituant.
+            '</head>
+          <p>Item ex Sinodo Eu genii* Papae [II. c. 34.]De quibusdam locis ad nos refertur, neque
+            magistros, neque curam inueniri pro studio litterarum. Idcirco abuniuersis episcopis
+            subiectis plebibus,et aliis locis, in quibus necessitas occurrerit, omnino cura et
+            diligentia habeatur, ut magistri et doctores constituantur, qui studia litterarum
+            liberaliumque artium dogmata assidue doceant, quia in his maxime diuina manifestantur
+            atquedeclarantur mandata.</p>
+        </div>
+        <div>
+          <head>C. XIII.</head>
+          <head type="question-title">Auctoritatibus gentilium eorum uanitas retunditur atque
+            conuincitur.</head>
+          <p>Item Augustinus contra Manicheos, [lib. XIII. cap. 15.]Si quid ueri de Deo Sibilla, uel
+            Orpheus, aliiue gentium uates aut philosophi predixisse perhibentur, ualet quidem
+            aliquid ad paganorum uanitatem reuincendam, non tamen ad istorum auctoritatem
+            complectendam. Quantumenim de Christi distat aduentu inter predicationem angelorum, et
+            confessionem demonum, tantum inter auctoritatem prophetarum, et curiositatem
+            sacrilegorum.</p>
+        </div>
+        <div>
+          <head>C. XIV.</head>
+          <head type="question-title">Ad intelligentiam sacrarum scripturarum secularium peritia est
+            necessaria.</head>
+          <p>Item Clemens [Papa I. epist. V. ad suos discipulos]. III. Pars. Relatum nobis est, quod
+            quidam in uestris partibus commorantes sanis doctrinis aduersantur, et prout eis uidetur
+            non secundum traditionem patrum, sed iuxta suum sensum docere uidentur. Multas enim
+            quidam, ut audiuimus, uestrarum partium ingeniosi homines ex his, que legunt,
+            uerisimilitudines capiunt. Et ideo diligenter obseruandum est, ut lex Dei cum legitur,
+            non secundum propriam ingenii intelligentiam legatur uel doceatur. Sunt enim multa uerba
+            in diuinis scripturis, que possunt trahi ad eum sensum, quem sibi unusquisque sponte
+            presumit; sednon oportet. Non enim sensum, extrinsecus alienum et extraneum debetis
+            querere utquoquomodo ipsum ex s scripturarum auctoritate confirmetis, sed ex ipsis
+            scripturis sensum capere ueritatis. Et ideo oportet ab eo scientiam discere
+            scripturarum, qui eam a maioribus secundum ueritatem sibi traditam seruat, ut et ipse
+            possit eam, quam recte suscepit, competenter asserere. Cum enim ex diuinis scripturis
+            integram quis et firmam regulam ueritatis susceperit, absurdum non erit, si aliquid
+            etiam ex eruditione communi ac liberalibus studiis, que forte in pueritia attigit, ad
+            assertionem ueri dogmatis conferat, ita tamen, ut, ubi uera didicerit , falsa et
+            simulata declinet.</p>
+
+        </div>
+        <div>
+          <head>C. XV.</head>
+          <head type="question-title">Quare prohibetur Christianus poetica figmenta legere.</head>
+          <p>Item Ysidorus in lib. [III.] Sententiarum, [de summo i bono, cap. 13.]</p>
+          <p>IV. Pars. Ideo prohibetur Christianus legere figmenta poetarum, quia per oblectamenta
+            fabularum nimium mentem excitant ad incentiua libidinum. Non enim solum thura offerendo
+            demonibus immolant, sed etiam eorum dicta libentius capiendo.</p>
+          <p>V. Pars. Gratian. Ut itaque ex premissis auctoritati-bus apparet, inperitia
+            sacerdotibus semper debet esse aduersa, quoniam, cum per ignorantiam cecati aliis
+            ducatum pre-stare ceperint, ambo in foueam cadunt; unde dicitur in Psalmo °; „
+            Obscurentur oculi eorum, ne uideant, et dorsum eorum semper incurua. Cum enim
+            obscurantur illi, qui preeunt, ad ferenda onera peccatorum facile sequentes inclinantur.
+            Elaborandum est itaque sacerdotibus, ut ignorantiam a se quasi quandam pestem abiciant.
+            Licet enim seruus nesciens uoluntatem domini sui, et non faciens, dicatur uapulare
+            paucis, non tamen hoc de omnibus generaliter intelligitur. Ut enim ait Apostolus. „ Qui
+            ignorat, ignorabitur. Quod de eo intelligendum est, ,,qui noluit intelligere, ut bene
+            ageretK</p>
+          <p>Unde Augustinus ait in libro Quest. [ueteris ac noui testamenti, quaest. 67.]</p>
+          <p>[C. XVI.]</p>
+          <p>Non* omnis ignorans est immunis a pena™. Ille enim ignorans potest excusari a pena, qui
+            quod disceret non inuenit. Illis autem hoc ignosci non poterit, qui, habentes a quo
+            discerent, operam non dederunt.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

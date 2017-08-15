@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LXVI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LXVI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d66">
+        <head>DISTINCTIO LXVI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. P a r s. Archiepiscopi autem ab omnibus suae prouinciaeepiscopis debent ordinari.</p>
+        <p>Unde Anicius Papa ait [in epist. ad Episcopos Galliae]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Ab omnibus suffraganeis episcopis archiepiscopus
+            ordinetur.</head>
+          <p>Archiepiscopus* ab omnibus suae prouinciae episcopis</p>
+          <p>ordinetur. §. i.4** Hoc autem , quod de archiepiscopi consecratione preceptum est, ut
+            omnes suffraganei eumordinent, nullatenus licet inmutari, quia ille&amp; qui preestab
+            omnibus episcopis, quibus preest debet constitui, Sinautem aliter presumptum fuerit,
+            uiribus carere non dubium est, quia irrita erit secus acta ordinatio.</p>
+          <p>II. Pars. Gratian. De episcopis non ordinandis a</p>
+          <p>fyancioribus quam a tribus episcopis, scribit Anacletusep. II. ad episcopos Italiae]
+            dicens:</p>
+          <p>[C. II.]</p>
+          <p>Porro et^ Ierosolimitarum primus archiepiscopus B. Ia-cobus, qui Iustus dicebatur, et
+            secundum carnem Domini frater nuncupatus est, a Petro, Iacobo et Iohanne apostolis
+            ordinatus est, successoribus uidelicet dantibus formam eorum , ut minus &amp; quam a
+            tribus episcopis, reliquisque omnibus assensum prebentibus, nullatenus episcopus
+            ordinetur, etcommuni uoto ordinatio celebretur.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

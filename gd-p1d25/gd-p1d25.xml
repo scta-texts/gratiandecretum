@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d25">
+        <head>DISTINCTIO XXV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Quod nullus sine examinatione ordinandus sit, breuiter probatum est. Quid autem
+          ad episcopum, quid ad unumquemque inferiorem pertineat, Ysidorus Ispalensis episcopus in
+          epistola ad Ludifredum'* scribit, ita dicens:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Quod episcopi et ceterorum sit in ecclesia offitium.</head>
+
+          <p>Perlectis sanctitatis tuae litteris gauisus sum, quod optatam salutem tuam earum relatu
+            cognoui. De his autem, que in consequentibus insinuare eloquii tui sermo studuit,
+            gratias ago Deo, quod sollicitudinem offitii pastoralis impendis, qualiterque
+            ecclesiastica offitia ordinentur, perquiris; et licet omnia prudentiae tuae sint
+            cognita, tamen quia affectu fraterno me consulis, ex parte, qua ualeo, expediam, et de
+            omnibus ecclesiae gradibus quid ad quemque pertineat eloquar. §. 1. Ad hostiarium namque
+            pertinent claues ecclesiae, ut aperiat et claudat templum Dei et omnia, que sunt intus
+            extraque, custodiat; fideles recipiat, excommunicatos et infideles excipiat. §. 2. Ad
+            exorcistam pertinet exorcismos memoriter retinere, manus-cpie super energuminos et
+            catecuminos in exorzizando imponere. §. 3. Ad acolitum pertinet preparatio lumina-riorum
+            in sacrario; ipse cereum portat, ipse suggesta pro eucharistia calicis preparat. §. 4.
+            Ad psalmistam pertinet offitium canendi, dicere benedictiones, laudes, sacrificium,
+            responsoria, et quicquid pertinet ad canendi peritiam. §. 5. Ad lectorem pertinet
+            lectiones pronunciare, et ea, que prophetae uaticinauerunt, populis predicare. §. 6. Ad
+            subdiaconum pertinet calicem et patenam ad altare Christi deferre et Leuitis tradere,
+            eisque ministrare; urceolum quoque et aquamanile et manutergium tenere; episcopo et
+            presbiteris et Leuitis pro lauandis ante altare manibus aquam prebere. §. 7. Ad diaconum
+            pertinet assistere sacerdotibus, et ministrare in omnibus, que aguntur in sacramentis
+            Christi: in baptismo scilicet, in crismate in patena et calice; oblationes quoque
+            inferre et disponere in altari; componere etiam mensam Domini atque uestire, crucem
+            ferre, et predicare euangelium et Apostolum. Nam sicut lectoribus uetus testamentum, ita
+            diaconibus nouum predicare preceptum est. Ad ipsum quoque pertinet offitium precum et
+            recitatio nominum; ipse premonet aures haberes ad Deum, ipse hortatur clamare**, ipse
+            donat pacem et ipse annuntiat. §. 8. Ad presbiterum pertinet sacramentum corporis et
+            sanguinis Domini in altario conficere, orationes dicere, et benedicere dona Dei. §. 9.
+            Ad episcopum pertinet basilicarum consecratio, unctio altaris et confectio erismatis.
+            Ipse predicta offitia distribuit et ordines ecclesiasticos, ipse sacras uirgines
+            benedicit, et, dum precessit in singulis unusquisque, iste tamen est preordinator in
+            cunctis. §. 10. Hi sunt ordines et ministeria clericorum, que tamen auctoritate
+            pontificali in archidiaconi cura, et primicerii ac thesaurarii sollicitudine diuiduntur.
+            §. 11. Archidiacono enim imperat subdiaconibus et Leuitis; ad quem pertinent ista
+            ministeria: ordinatio uestiendi altaris a Leuitis, cura incensi et sacrificii necessaria
+            sollicitudo, quis Leuitarum Apostolum et euangelium legat, quis</p>
+
+
+
+
+
+          <p>preces dicat, seu responsoria in dominicis diebus aut solempnitatibus decantet.
+            Sollicitudo quoque parrochiarum*** et ordinatio et iurgia ad eius pertinent curam, pro
+            reparandis diocesanis basilicis ipse suggerit sacerdoti; ipse inquirit parrochias cum
+            iussione episcopi et ornamenta uel res basilicarum uel parrochiarum, gesta libertatum
+            ecclesiasticarum! episcopo idem refert, collectam pecuniam de communione ipse accipit et
+            episcopo defert, et clericis partes proprias idem distribuit. Ab archidiacono nuntiantur
+            episcopo excessus diaconorum, ipse denuntiat sacerdoti in sacrario ieiuniorum dies atque
+            solempnitatum, et ab ipso publice in ecclesia predicatur****; quando uero archidiaconis
+            absens est, uicem eius diaconus sequens adinplet. §. 12. Archipresbiter***** uero se
+            esse sub archidiacono, eiusque preceptis, sicut episcopi sui, obedire sciat, et (quod aa
+            eius specialiter ministerium pertinet), supra omnes presbiteros in ordine positos curam
+            agere, et assidue in ecclesia stare, et, quando episcopi sui absentia contigerit, ipse
+            eius uice missarum solempnia celebret et collectas dicat, uel cui ipse iniunxerit. §.
+            13. Ad primicerium pertinent acoliti, exorcistae, psalmistae atque lectores; signum
+            quoque dandum pro offitio clericorum, pro uitae honestate, et offitium cantandi et
+            peragendi sollicite, lectiones, psalmum, laudes, offertorium responsoria quis clericorum
+            dicere debeat. Ordo quoque et modus psallendi in choro pro solempnitate temporum,
+            ordinatio quoque pro luminaribus deportandis. Si quid etiam necessarium fueritp pro
+            reparatione basilicarum, que sunt in urbe, ipse denuntieti sacerdoti; epistolas episcopi
+            pro diebus ieiuniorum parrochianis per hostiarios ipse dirigat; clericos +, quos
+            delinquere cognoscit, ipse distringat, quos uero emendare non ualet, eorum excessus ad
+            agnitionem episcopi deferat; basilicarios ipse constituat, et matriculas ipse disponat.
+            Quando autem primicerius absens est, ea, que dicta sunt, ipse exquirat, qui ei aut lege
+            est proximus aut eruditioneff. §. 14. Ad thesaurarium pertinent hostiarii basilicarum
+            ordinatio, incensi preparatio, cura erismatis conficiendi, cura baptisterii ordinandi,
+            preparatio luminariorum in sacrario et sacrificiis .</p>
+          <p>II. Pars. Gratian. Ex hac epistola liquet, quid cuiusque offitii sit. Est etiam alia
+            distinctio episcoporum, presbiterorum, diaconorum, quam fecit Clemens in epistola sua
+            ita^y dicens:</p>
+
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Quid ab episcopis, quid a presbiteris, quid a diaconibus
+            audire oportet.</head>
+          <p>Audire episcopum attentius oportet, et ab ipso suscipere doctrinam fidei; monita autem
+            uitae a presbiteris inquirere, a diaconibus uero ordinem disciplinae.</p>
+          <p>Gratian. Sacerdos quoque utrumque humerum orario ambit; diaconus uero sinistrum tantum,
+            ut ad, ministerium expeditusdiscurrat.</p>
+          <p>Unde in Tollet ano Concilio IV. c. 40.</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Quare Leuita unum tantum humerum orario ambit.</head>
+          <p>Unum orarium oportet Leuitam gestare in sinistro humero, propter quod orat, id est
+            predicat; dexteram autem partem oportet.habere liberam, ut expeditus ad ministerium
+            sacerdotale discurrat.</p>
+          <p>III. Pars. Gratian. Nunc autem per singulos gradus ordine recurrentes, qui, ex quibus
+            ordinibus, in quem gradum conscendere possint; qui post lapsum ualeant reparari, uel
+            non; quibus culpis a proprio gradu mereantur deici; quo accusante, quibus
+            testificantibus possint conuinci; cuius sententia sint soluendi uel dampnandi^, breuiter
+            consideremus. §. 1. Ac primum a pontificali gradu incipientes, qualem oporteat eum esse,
+            qui in episcopum ordinandus est, diligenter inuestigemus, Apostoli regulam secuti, quam
+            in huiusmodi re Timotheo et Tito scribit dicens: „ Oportet^ episcopum esse
+            inreprehensibilem:“ zd est, non obnoxium reprehensioni. Hoc ad Timotheum. Ad Titum
+            autem: „ Oportet episcopum esse sine crimine: quod (ut Ieronimus scribit ad Oceanum)
+            idem est. §. 2. Nomine autem criminis quodlibet peccatum intelligitur; unde in eadem
+            epistola Ieronimus dicit: ,, Res* pene contra naturam est, ut sine peccato aliquis sit:
+            sed talis eligatur, cuius comparatione ceteri grex dicantur. In epistola uero ad Titum
+            crimen uocatur criminale peccatum uel criminalis infamia: unde ibi** legitur: ,, Crimen
+            est querela, id est peccatum accusatione et dampnatione dignum.§. 3. Quod autem sine
+            crimine iubetur esse qui in episcopum eligitur, non ante baptisma, sed post baptismum
+            intelligendum est: ut a tempore uidelicet baptismatis nullius criminis conscientia
+            mentem eius remordeat***. §. 4. Criminis appellatio alias</p>
+          <p>late patet, complectens omne peccatum, quod ex deliberatione procedit. Unde Beda****
+            super epistolam Iacobi: ,, Peccata, que ex ignorantia uel infirmitate humana
+            committuntur, dicit et precipit alterutrum confiteri, quia facile dimittuntur: quecumque
+            uero fiunt ex deliberatione, non nisi per penitentiam.^ Hinc etiam Augustinus ait: ,,
+            Nullum peccatum+ est adeo ueniale, quod</p>
+
+
+
+
+
+          <p>non fiat criminale, dum placet. “ Alias ea demum significat, que semel commissa ad
+            dampnationem sufficiunt. §. 5. Multa enim ex deliberatione procedunt, que nisi sepius
+            iterata et in consuetudinem fuerint deducta, quamuis grauent post mortem, non tamen
+            eternaliter perdunt: quia etsi quadam ratione crimina appellentur, tamen mortifera, et
+            capitalia non sunt. Unde Augustinus in omilia de igne purgatorio, exponens uerba
+            Apostoli: „Si quis super hoc fundamentum edificauerit, ligna, fenum stipulam. Multi* s
+            sunt, lectionem istam male</p>
+          <p>intelligentes falsa securitate decipiuntur, dwm credunt, «2</p>
+          <p>supra fundamentum Christi crimina capitalia edificant, peccata ipsa per ignem
+            transitorium possint purgari, et ipsi postea ad uitam peruenire perpetuam. Intellectus
+            iste, fratres Jcarissimi, corrigendus est, quia ipsi se seducunt, s?c sibi
+            blandiuntur.</p>
+          <p>Illo enim transitorio igne, de quo dicit Apostolus: „ „Ipse saluus erit, sic tamen
+            quasi per ignem, non capitalia, sedminuta peccata purgantur: de quibus, etsi non omnia,
+            uel aliqua commemoranda sunt, ne aliquis inaniter excusare conetur, et dicat nescire se,
+            que sunt minuta peccata, que crimina capitalia. §.6. Et quamuis Apostolus plura
+            capitalia com-memorauerit, nos tamen {ne desperationem facere uideamur) breuiter
+            dicemus, que illa sunt: sacrilegium, homicidium, adulterium, fornicatio, falsum
+            testimonium, rapina, furtum, superbia, inuidia, auaritia; et si longo tempore teneatur,
+            iracundia, et ebrietas, si assidua sit, in eorum numeroP computaturq. Quicumque enim
+            aliquod de istis peccatis in se dominari cognouerit, nisi digne emendauerit, et si
+            habuerit spatium, longo tempore penitentiam non egerit, et largas elemosinas
+              non1<sub>?</sub> erogauerit, et a peccatis ipsis non abstinuerit, illo transitorio
+            igne, de quo Apostolus ait, purgari non poterit, sed eterna illum flamma sine remedio
+            ullo trucidabit^. §. 7.</p>
+          <p>Que autem sint minuta peccata, licet omnibus nota sint, tamen quia longum est, ut omnia
+            replicentur, opus est, ut ex eis uel aliqua nominemus. Quotiens aliquis in cibo aut potu
+            plus accipit, quam necesse est™, ad minuta peccata nouerit pertinere; quotiens plus
+            loquitur, quam oportet, plus tacet, quam expedit; quotiens pauperem importune petentem y
+            exasperat; quotiens cum sit corpore sanus, aliis ieiunantibus prandere uoluerit, aut
+            somno deditus tardius ad ecclesiam surgit; quotiens, excepto filiorum desiderio, uxorem
+            suam cognouerit; quotiens in carcere positos tardius requisierit, infirmos tardius
+            uisitauerit; si dicor des ad concordiam r euocare neglexerit; si plus aut proximum, aut
+            uxorem, aut filium, aut ser-uum exasperauerit, quam oportet; si amplius fuerit
+            blanditus, quam oportet; si cuicumque maiori personae aut ex uoluntate, aut ex
+            necessitate adulari uoluerit; si, pauperibus^ esurientibus, nimium deliciosa uel
+            sumptuosa conuiuia prepara-uerit; si se aut in ecclesia aut extra ecclesiam fabulis
+            otiosis {de quibus in die iudicii ratio reddenda est) occupauerit; si dum incaute
+            iuramus, et cum hoc per aliquam necessitatemimplere non poterimus, utique periuremus*,
+            et cum omni facilitate uel temeritate maledicimus, cum scriptum est: „ „ Neque maledici
+            regnum Dei possidebunt.^ “</p>
+
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Que sunt uenialia peccata, que post hanc uitam
+            purgantur.</head>
+          <p>Item Gregorius [Dialog. lib. IV. c. 9.]</p>
+          <p>Qualis hinc quisque egreditur, talis in iudicio presentatur: sed tamen de quibusdam
+            culpis esse ante iudicium purgationis ignis credendus est, pro eo, quod ueritas dicit:
+            „Quia si quis in spiritum sanctum bla-sphemiam dixerit, neque in hoc seculo remittetur
+            ei, neque in futuro.“ In qua sententia datur intelligi, quasdam culpas in hoc seculo,
+            quasdam in futuro posse relaxari. Quod enim de uno negatur, consequens intellectus
+            patet, quia de quibusdam conceditur. Sed tamen, ut predixi, hoc de paruis minimisque
+            peccatis fieri posse credendum est, sicut est assiduus otiosus sermo, immoderatus risus,
+            uel peccatum curae familiaris, (que uix sine culpa uel ab ipsis agitur, qui culpam
+            qualiter declinare debeant sciunt,) que etiam post mortem grauant, siadhuc in uita
+            positis minime fuerint relaxata.</p>
+          <p>[PALEA.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Item Augustinus in libro de uera et falsa penitentia c. 18.</p>
+          <p>Qui in aliud seculum distulit fructum conuersionis, prius purgabitur igne purgationis.
+            Hic autem ignis, etsi, eternus non sit, miro tamen modo grauis est. Excellitenim omnem
+            penam, quam umquam aliquis passus est in hac uita, uel pati* potest.]</p>
+          <p>Gratian. Alias autem ea tantum delicta significat, quorum est perpetua infamia. Unde
+            illud leronimi: Primum itaque sine crimine etc..</p>
+          <p>Unde Ieronimus scribit in eadem epistola ad Titum, [cap. 1.]:</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">A die baptismi sine crimine debet inueniri, qui in episcopum
+            est ordinandus.</head>
+          <p>Primum itaque sine crimine iubetur esse episcopus, quod alio uerbo ad Timotheum
+            inreprehensibilem nominatum puto: non quod eo tantum tempore, quo ordinandus est, sit
+            sine crimine ullo, et preteritas maculas noua conuersationem diluerit, sed quod ex eo
+            tempore, quo in Christum renatus est, nulla peccati conscientia mordeatur. Quomodo enim
+            potest preses ecclesiae auferre malum de medio eius, qui in delictum simile corruerit?
+            aut qua libertate peccantem corripere, cum tacitus ipse sibi respondeat, eadem se
+            admisisse, que corripit?</p>
+          <p>Gratian. Ecce, quod ordinandus m episcopum, non</p>
+
+
+
+
+
+          <p>solum tempore suae ordinationis, sed etiam omni tempore post baptisma a crimine debet
+            esse immunis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

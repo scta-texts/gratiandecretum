@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XC.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XC.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d90">
+        <head>DISTINCTIO XC.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Litigiosus quoque prohibetur ordinari, quia qui sua potestate discordantes ad
+          concordiam debet attrahere, quioblationes dissidentium prohibetur recipere, nequaquam
+          litigandifacilitate alios ad discidium debet prouocare.</p>
+        <p>Unde in Cartaginensi Concilio IV. [c. 59.] legitur:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Clerici discordantes reuocentur ad concordiam uel deiciantur
+            ad concordiam.</head>
+          <p>Discordantes clericos episcopus uel ratione, uel potestate ad concordiam trahat;
+            inobedientes sinodus per audientiam dampnet.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Dissidentium fratrum oblationes in ecclesia non recipiantur
+            .</head>
+          <p>Item ex eodem, [c. 93. et 94.]</p>
+          <p>Oblationes dissidentium fratrum neque in sacrario, neque in gazophilacio recipiantur.
+            Similiter: §. 1. Dona eorum, qui pauperes obprimunt, a sacerdotibus refutanda sunt.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Extra ecclesiam esse probatur, qui pacem cum proximo non
+            habet.</head>
+          <p>Item Ciprianus [de unitate ecclesiae].</p>
+          <p>Neque ad Cainneque ad munera eius respexit Deus;</p>
+          <p>neque enim habere paccatum Deum poterat, qui cum fratre non pacem sed zeli discordiam
+            habebat. Quam sibi igitur pacem promittunt inimici fratrum? que sacrificia celebrare se
+            credunt emuli sacerdotum? Secum esse Christum, cum collecti fuerint, opinantur hii, qui
+            extra Christiecclesiam colliguntur? Tales etiamsi occisi in confessionenominis Christi
+            fuerint, macula ista nec sanguine abluitur. Inexpiabilis et grauis culpa discordiae nec
+            passione purgatur.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Murmurantes a fratrum unitate alieni efficiantur.</head>
+          <p>Item ex Octaua Sinodo *.</p>
+          <p>Alienus sit a fratrum unitate, qui murmurat, et opus eius abiciatur, qui murmurans**
+            extiterit, ne penammurmurantium incurrat, de qua dicit Apostolus: „Nequemurmuraueritis,
+            sicut quidam murmurauerunt, et perieruntab exterminatore/ Iuxta*** mensuram itaque
+            operispeccator (qui in hac sententia Apostoli pleniter declaratur) sacerdotis iudicio
+            peniteat.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Corripiantur, qui rixas et contenciones amant.</head>
+          <p>Item ex eodem.</p>
+          <p>Si quis monachus* contenciones uel rixas amaue-rit, uel manifestum conuitium intulerit
+            fratri, iuxta arbitrium rectoris modumque peccati diuturna expietur penitentia.Item: §.
+            1. Qui contentiosus aut murmurans extiterit, secundum arbitrium prioris tamdiu **
+            peniteat, quamdiu qualitas culpae extat.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. Dissidentes episcopi ad concordiam redire cogantur.</head>
+          <p>Item ex Concilio Cartaginensi IV. [c. 25.]</p>
+          <p>Dissidentes episcopos, si non timor Dei, sinodus reconciliet.</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item ex eodem, [c. 26.]</p>
+          <p>Studendum est episcopis, ut dissidentes fratres, siue clericos, siue laicos, ad pacem
+            magis quam ad iudiciumcohortentur ..</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Non recipiantur dona eorum, qui pauperes obprimunt.</head>
+          <p>Item ex eodem, [c. 94.]</p>
+          <p>Eorum, qui pauperes obprimunt, dona a sacerdotibus sunt refutanda.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. A cetu alienentur fidelium, qui ad concordiam redire
+            contempnunt.</head>
+          <p>Item ex Concilio Agat en si, [c. 31.]</p>
+          <p>Placuit etiam, ut (sicut plerumque fit) quicumque odio aut longinqua inter se lite
+            dissenserint, et ad pacem reuo-cari diuturna nequiuerint obstinatione, a
+            sacerdotibusciuitatis primitus arguantur. Qui si inimicitias deponerepernitiosa
+            intentione noluerint, de ecclesiae cetu iustissimaexcommunicatione pellantur.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Inediis maceretur acerrimis, qui fratri suo reconciliari non
+            uult.</head>
+          <p>Item Fabianus Papa.</p>
+          <p>Si quis contristatus noluerit reconciliari fratri suo, satisfaciente eo qui
+            contristauerit, acerrimis macereturinediis, usque dum gratanti animo satisfactionem
+            recipiat.</p>
+        </div>
+        <div>
+          <head>C. XI</head>
+          <head type="question-title">. Episcopi ad pacem firmiter tenendam uicissim sibi consilium
+            et auxilium prestent S.</head>
+          <p>Item Innocentius 17.</p>
+          <p>II. Pars. Precipimus, ut episcopi, ad solum Deum et salutem populi habentes respeGtum,
+            omni tepiditate seposita^ ad pacem firmiter tenendam mutuum sibi consiliumet auxilium
+            prebeant, neque hoc alicuius amore uel odiopretermittant. Quod si quis in hoc Dei opere
+            tepidusfuerit inuentus, dampnum propriae dignitatis incurrat.</p>
+        </div>
+        <div>
+          <head>C. XII</head>
+          <head type="question-title">. Pellendi sunt a communione fidelium, qui sibi inuicem
+            reconciliari nolunt.</head>
+          <p>Item Victor Papa [ad Afros, epist. II.]</p>
+          <p>Perlatum est ad sedem apostolicam, aliquos uestrum nocere fratribus uelle, et ut cadant
+            decertare, similiter insacramentis discrepare, et ob id contentiones et emulationesinter
+            uos fieri, a quibus dissensionibus uos auertere, et inhis omnibus concordare, et opem
+            ferre uicissim mandamus.Nam si hoc agere cito neglexeritis, et uicissim reconciliarinon
+            studueritis, ab apostolicae sedis et totius ecclesiaecommunione uos pelli non
+            dubitetis.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

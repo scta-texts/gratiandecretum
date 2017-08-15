@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXIX.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXIX.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d29">
+        <head>DISTINCTIO XXIX.</head>
+        <p>GRATIANUS.</p>
+        <p>Sed notandum est, quod secundum Ysidorum pleraque capitula ex causa, et loco, et tempore,
+          consideranda sunt*.</p>
+        <p>Ait enim*:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Ex tempore, et* loco et persona et causa$ regulae canonum
+            intelligantur .</head>
+          <p>Sciendum est, quod pleraque capitula ex causa, ex persona, ex loco, ex tempore
+            consideranda sunt, quorum modi, quia medullitus non indagantur, in erroris laborinthum
+            nonnulli intricando impinguntur, cum ante iudicant, quam intelligant; ante inculpant,
+            quam iterando lecta perquirant.</p>
+          <p>Hinc etiam Gregorius ait:</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Pro uarietate rerum temperantur regulae sanctorum.</head>
+          <p>Regulae sanctorum Patrum pro tempore, loco et persona negotio instante necessitate
+            traditae sunt.</p>
+
+
+
+
+
+          <p>[C. III.] Pro diuersilate locorum, temporum et hominum scripturae intelligendae
+            sunt.</p>
+          <p>Item Ieronimus in epistola ad Ephesios.</p>
+          <p>Necesse est, ut iuxta diuersitates temporum et locorum et hominum, quibus* scriptae
+            sunt, diuersas et causas et argumenta et origines habeant. Et quomodo B. Iohannes in
+            apocalipsi sua septem scribens ecclesiis in unaquaque earum specialia uel uitia
+            reprehendit, uel uirtutes probat, ita et S. apostolus Paulus per singulas ecclesias
+            uulneribus medetur illatis, nec ad instar imperiti medici uno colirio omnium oculos uult
+            curare.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

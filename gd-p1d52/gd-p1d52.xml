@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO LII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO LII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d52">
+        <head>DISTINCTIO LII.</head>
+        <p>GRATIANUS.</p>
+        <p>Qui uero pretermissis aliquibus gradibus non superbia, sed negligentia ad maiores
+          conscenderit, tamdiu a maioribus abstineat, quousque congruo tempore pretermissos
+          accipiat.</p>
+        <p>Unde Alexander* II. scribit Grimaldo Constantiensi Episcopo:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. De eo, qui subdiaconatus ordine postposito diaconus et
+            presbiter est ordinatus.</head>
+          <p>Sollicitudo dilectionis tuae studuit consulere, utrum portitor istarum litterarum
+            diaconatus et presbiteratus offitium idoneus sit peragere nec ne, cum ad id
+            preproperocursu, subdiaconatus ordine postposito, negligentia potiusquam superbia
+            cognoscatur ascendisse. Unde nos consulendo caritati tuae mandamus, ut ab offitio
+            sacerdotali eumprohibeas, donec proximo quatuor temporum ieiunio sub</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

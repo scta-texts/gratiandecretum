@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLIII.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d43">
+        <head>DISTINCTIO XLIII.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Pudicus quoque debet esse sacerdos, ut et moribus, et uerbis pudorem
+          indesinenter exhibeat. Unde in Canticis Canticorum genae sponsae, id est predicatores,
+          turturi comparantur.§. i. Debet etiam gratiam docendi liabere, quia, ut Ieronimusait: ,,
+          Innocens absque sermone conuersatio, quantum exemploprodest, tantum silentio nocet. Nam
+          latratu canum et baculo*lupi sunt arcendi.“ In ipsa autem doctrina discretum oportetesse
+          rectorem, ne aut tacenda proferat, aut dicenda taceat.</p>
+        <p>Unde Gregorius in XV. cap. [Part. II.] sui Pastoralis [c. 4.] ait;</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. De discretione predicationis, et silentii.</head>
+          <p>Sit rector discretus in silentio, utilis in uerbo, ne aut tacenda proferat, aut
+            proferenda reticescat. Nam sicutincauta locutio in errorem pertrahit, ita indiscretum
+            silentium hos, qui erudiri poterant, in errorem derelinquit.Sepe namque rectores
+            inprouidi, humanam amittere gratiamformidantes, loqui libere recta pertimescunt, et
+            iuxta ueri-tatis uocem nequaquam iam gregis custodiae pastorumstudio, sed mercenariorum
+            uice deseruiunt, quia uenientelupo fugiunt, dum se sub silentio abscondunt. Hincnamque
+            eos per Prophetam Dominus increpans ait inYsaia: ,,Canes muti, non ualentes latrare.
+            Hinc rursum queritur dicens in Ezechiele: „Non ascendistis exaduerso, neque opposuistis
+            murum pro domo Israel, utstaretis in prelio in die Domini.** Ex aduerso quippe ascendere
+            est pro defensione gregis uoce libera huius mundipotestatibus contraire. Et in die
+            Domini in prelio stareest prauis decertantibus ex iustitiae amore resistere.Pastori enim
+            recta timuisse dicere, quid est aliud quamtacendo terga prebuisse? qui nimirum, si pro
+            grege se obicit,murum pro domo Israel hostibus opponit. Hinc rursusdelinquenti populo
+            dicitur in Hieremia £: „Prophetae tuiuiderunt tibi falsa et stulta, nec aperiebant
+            iniquitatemtuam, ut te ad penitentiam prouocarent.** Prophetae quippein sacro eloquio
+            nonnunquam doctores uocantur, qui dumfugitiua esse presentia indicant, que sunt uentura
+            manifestant; quos diuinus sermo falsa uidere redarguit, quia,dum culpas corripere
+            metuunt, incassum delinquentibuspromissa securitate blandiuntur, qui iniquitatem
+            peccantiumnequaquam aperiunt, quia ab increpationis uoce conticescunt.Clauis quippe
+            apertionis est sermo correctionis quia increpando culpam detegit, quam sepe nescit ipse
+            etiamqui perpetrauit. Hinc Paulus ait ad Titum: „Ut potenssit ad exhortandum in doctrina
+            sana et eos qui contradicunt, redarguere.^ Hinc per Malachiam dicitur: „Labiasacerdotis
+            custodiunt scientiam, et legem requirunt ex oreeius, quia angelus Domini exercituum
+            est.** Hinc perYsaiam Dominus ammonet dicens: „Clama, ne cesses,sicut tuba exalta uocem
+            tuam.** Preconis quippe offitiumsuscipit, quisquis ad sacerdotium accedit, ut ante
+            aduentumiudicis, qui terribiliter sequitur, ipse scilicet clamandogradiatur. Sacerdos
+            ergo, si predicationis est nescius,quam clamoris uocem daturus est preco mutus? In
+            Actibus Apostolorum: hinc est enim, quod super pastoresprimos in linguarum specie
+            Spiritus sanctus insedit, quianimirum, quos repleuerit, de se protinus loquentes
+            facit.Hinc Moysi precipitur in Exodo , ut tabernaculum sacerdosingrediens tintinnabulis
+            ambiatur, ut uidelicet predicationisuoces habeat, ne superni inspectoris iudicium ex
+            silentiooffendat. Scriptum quippe est: „Ut audiatur sonitus, quandoingreditur
+            sanctuarium in conspectu Domini, et nonmoriatur.** Sacerdos namque ingrediens uel
+            egrediens moritur, si de eo sonitus non audiatur P, quia iram contra seocculti iudicis
+            exigit, si sine predicationis sonitu incedit.Apte autem tintinnabula uestimentis illius
+            describuntur inserta. Vestimenta etenim sacerdotis quid aliud quam rectaopera debemus
+            accipere? Propheta attestanteq, qui ait inPsalmo CXXXVI.: „Sacerdotes tui induantur
+            iusticia/*Vestimentis itaque illius tintinnabula inherent, ut uitae uiamcum linguae
+            sonitu ipsa quoque opera sacerdotis clament.Sed cum rector se ad loquendum preparat, sub
+            quantocautelae studio loquatur, attendat, ne, si inordinate adloquendum rapitur, erroris
+            uulnere audientium corda feriantur, et cum fortasse sapientem se uideri desiderat,
+            unitatis compagem insipienter abscidat. Hinc namqueueritas dicit in Marco : „Sal in
+            uobis, et pacem habeteinter uos/* Per sal quippe uerbi sapientia designatur. Quiergo
+            sapienter loqui nititur, magnopere metuat, ne eiuseloquio audientium unitas confundatur.
+            Hinc Paulus aitad Romanos*: “Non plus sapere, quam oportet sapere,sed sapere ad
+            sobrietatem/* In Exodo y in sacerdotis uesteiuxta diuinam uocem tintinnabulis mala
+            Punica coniunguntur.Quid enim per mala Punica nisi fidei unitas designatur?Nam sicut in
+            malo Punico uno exterius cortice multa interiusgrana muniuntur, sic innumeros sanctae
+            ecclesiae populosunitas fidei contegit, quos intus diuersitas meritorum tenet.Ne igitur
+            rector incautus ad loquendum proruat, hoc, quodiam premisimus, per semetipsam discipulis
+            clamat ueritasin Marco: „Habete sal in uobis, et pacem habete interuos**: ac si figurate
+            per habitum sacerdotis dicat: MalaPunica tintinnabulis iungite, ut per omne, quod
+            dicitis, unitatem fidei cauta obseruatione teneatis. §. 1. Prouidendumquoque est
+            sollicita intentione rectoribus, ut ab eis nullomodo non solum praua, sed nec recta
+            quidem nimie etinordinate proferantur, quia sepe dictorum62 uirtus perditur,cum apud
+            corda audientium loquacitatis incauta inpor*</p>
+          <p>tunitate leuigatur, et auctorem suurii hec eadem loquacitas inquinat, que seruire
+            auditoribus ad usum profectus ignorat.Unde bene per Moysen dicitur in Leuitico: „Vir,
+            quifluxum seminis patitur, inmundus erit.“ In mente quippeaudientium semen secuturae
+            cogitationis est audita equa-litas locutionis, quia, dum per aurem sermo
+            concipitur,cogitatio in mente generatur. Unde ab huius mundisapientibus in Actibus
+            Apostolorum Predicator egregiussemiuerbiusss uocatus est. Qui ergo fluxum
+            seminissustinet, inmundus asseritur, quia multiloquio subditus ex eo se inquinat; quod
+            si ordinate promeret, prolemrectae cogitationis edere in audientium corde
+            potuisset,dumque incautus per loquacitatem diffluit, non ad usumgeneris, sed aa
+            inmundiciam semen fundit. UndePaulus quoque, cum de instancia predicationis
+            discipulumadmoneret, dixit ad Timotheum Ep. II.:,, Testificor coram Deo et Christo Iesu,
+            qui iudicaturus est uiuos et mortuoset°nn aduentum ipsius et regnum eius, predica
+            uerbum,insta oportune, inportune.“ Dicturus: „inportune,“ pre-misit: „ oportune,“ quia
+            scilicet apud auditoris mentemipse° sua uilitatePP se destruit, si habere
+            inportunitasoportunitatem nescit.</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. Porcis et canibus sacra non sunt committenda.</head>
+          <p>Item Origenes .</p>
+          <p>II. Pars. In mandatis habemus, ut uenientes ad ciuitatem discamus prius, quis in ea
+            dignus sit, ut apud eum cibumsumamus; quanto magis nosse oportet, quis qualisue sitis,
+            cui inmortalitatis uerba credenda sunt? Solliciti enimesse debemus, ne margaritas
+            nostras mittamus ante porcos. Sed ob alias causas utile est uiri huius me habere
+            noticiam. Si enim sciam, quia in his, de quibus nonpotest dubitari quod bona sint,
+            emendatus est et inculpabilis,(hoc est, si sobrius, si misericors, si iustus, si mitis,
+            ethumanus est, que utique bona nullus ambigit,) tuncconsequens uidebitur, ut ei, qui
+            obtinet bona uirtutum,etiam quod deest fidei et scientiae conferatur, et in
+            quibusmaculari eius uita uidebatur^, que est in reliquis probabilis, emendetur. Si uero
+            in his, que palam sunt, peccatisinuolutus permanet et inquinatur, non me oportet aliquid
+            de secretioribus et remotis diuinae sententiaeproloqui, sed magis protestari, et
+            conuenire eum, ut peccaredesinat et actus suos a uiciis emendet. Quod si ingesseritse,
+            et prouocabit nos dicere, que eum minus recte agentem non oporteat audire, prudenter eum
+            debemus eludere.Nam nichil omnino respondere auditorum causa utile nonuidetur, ne forte
+            estiment, nos responsionis penuriadeclinare certamen, et fides eorum ledatur non
+            intelligen-tium propositum nostrum.</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Verba predicationis persecutoribus suis prelati non
+            subtrahant.</head>
+          <p>Item An a cie tu s, [epist. I. omnibus Episcopis.]</p>
+          <p>III. Pars. Scimus autem, multos ob id infestare docto-res, ut eos perdant, et propriae
+            uoluntatis placitaadinpleant. Non propterea tamen doctores (in quantumuires suppetunt) a
+            recta emulatione et bona intentionerecedere debent, scientes, quia beati, qui
+            persecutionempatiuntur propter iusticiam.</p>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Non mundus est a sanguine subiectorum, qui Dei consilium
+            illis non annuntiat.</head>
+          <p>Item Gregorius Venantio, Episcopo, [lib. I. epist. 33.] Ephesiis Paulus dicit: „Mundae
+            sunt manus meaea sanguine omnium uestrum: non enim subterfugi, quominusannunciarem omne
+            consilium Dei uobis.“ Mundus ergo asanguine eorum non esset, si eis Dei consilium
+            pronun-ciare noluisset, quia, cum increpare delinquentes noluerit,eos proculdubio
+            tacendo pastor occidit.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Eternae dampnationis penam incurrit Predicator, qui semen
+            diuini uerbi non spargit.</head>
+          <p>Item Nicolaus Papa [ad Michaelem Imperatorem in epistola, cuius initium est:
+            „Proposueramus.“]Dispensatio est nobis celestis seminis iniuncta;jjuae si non
+            sparserimus, uae si tacuerimus.“ Quod cumelectionis uas formidet et clamet, quanto magis
+            cuilibetexiguo metuendum est? Proinde, sicut non leue discrimenincumbit pontificibus,
+            siluisse quod congruit, ita his(quod absit) non mediocre periculum est, qui cum
+            debeantparere, despiciunt.</p>
+          <p>IV. Pars. Gratian. Pariter quoque obseruare debet sacerdos, ne indignis et non
+            intelligentibus secreta misteria sua predicatione reserare incipiat. Qui enim ea docet,
+            que ab auditoribus intelligi non ualent, non eorum utilitatem, sedsui c ostentationem
+            facit. Unde in expositione: ,, Beati inma-culati, dicitur: „ Vicium animi est, indignis
+            secreta uul-gare, quod fit uel loquacitate incauta, dum sine iudicio uolatirreuocabile
+            uerbum, uel adulatione, ut ei placeat, cui secretareuelat, uel iactatione scientiae, ut
+            plura scire uideatur.“ Inquibus omnibus profecto datur intelligi, quanta debeat esse
+            discretio in predicatione sacerdotis, qua si forte caruerit, tanquamtorto naso,
+            sacerdotalis offitii iudicatur indignus.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

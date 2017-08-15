@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO IV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO IV.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d4">
+        <head>DISTINCTIO IV.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Causa uero constitutionis legum est humanam cohercere audaciam et nocendi
+          facultatem refrenare, sicut in eod. lib. [V. c. 20.] Ysidorus testatur dicens:</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">Quare leges sint factae.</head>
+          <p>Factae sunt autem leges, ut earum metu humana coher-ceatur audacia, tutaque sit inter
+            improbos inocentia, et in ipsis improbis formidato supplicio refrenetur
+            nocendifacultas.</p>
+          <p>II. Pars. Gratianus. Preterea in ipsa constitutione legum maxime qualitas
+            constituendarum est obseruanda, ut contineant in se honestatem, iustitiam,
+            possibilitatem, conuenientiam etcetera, quae in eod. lib. Ysidorus[c.21.] enumerat
+            dicens:</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Qualis debeat esse lex.</head>
+          <p>Erit autem lex honesta, iusta, possibilis, secundum naturam, secundum consuetudinem
+            patriae, loco temporique conueniens, necessaria, utilis, manifesta quoque, ne aliquid
+            per obscuritatem inconueniens* contineat, nullo priuato commodo, sed pro communi
+            utilitate ciuium conscripta.</p>
+          <p>III. P ars. Gratian. Ideo autem in ipsa constitutione ista consideranda sunt, quia cum
+            leges institutae fuerint, non erit liberum iudicare de ipsis, sed oportebit iudicare
+            secundum ipsas.</p>
+          <p>Unde Augustinus ait in libro de uera religione, [c. 31.]:</p>
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">De legibus tunc est indicandum, cum instituuntur,</head>
+          <p>non cum institutae fuerint.</p>
+          <p>In istis temporalibus legibus, quamquam de his homines iudicent, cum eas instituunt,
+            tamen cum fuerint institu-</p>
+
+          <p>1 <sub>(</sub>
+          </p>
+          <p>tae et firmatae, non licebit iudici de ipsis iudicare, sed secundum ipsas.</p>
+          <p>Gratianus. Leges instituuntur, cum promulgantur, firmantur, cum moribus utentium
+            approbantur. Sicut enim moribus utentium in contrarium nonnullae leges hodie abrogatae
+            sunt, ita moribus utentium ipsae leges confirmantur. Unde illud The-lesphori Papae {quo
+            decreuit, ut clerici generaliter a quinquagesima* a carnibus et deliciis ieiunent) quia
+            moribus utentium approbatum non est, aliter agentes transgressionis reos non arguit.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Septem ebdomadibus a carne et deliciis ante pascha clerici
+            abstineant.</head>
+          <p>Thelesphorus Romae urbis Archiepiscopus omnibus Episcopis, [epist. un.]</p>
+          <p>Statuimus, ut septem ebdomadas ante sanctum pascha omnes clerici in sortem Domini
+            uocati a cameieiunent: quia sicut discreta debet esse uita clericorum a laicorum
+            conuersatione, ita et in ieiunio debet fieri discretio. Has ergo septem ebdomadas omnes
+            clerici a carne et deliciis ieiunent, et ymnis et uigiliis atque orationibus inherere
+            die noctuque studeant.</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Septimam ebdomadam Thelesphorus quadragesimae addit.</head>
+          <p>Item Ambrosius in libro sermonum*.</p>
+          <p>Quadragesima sex septimanas habet, cui addidit Thelesphorus Pontifex septimam
+            ebdomadam, et uocatum est hoc tempus quinquagesima.</p>
+          <p>Gratian. Quod similiter de eo capitulo est intelligendum, quod B. Gregorius [I.]
+            Augustino Anglorum Episcopo scribit dicens:</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">A quinquagesima ieiunandi propositum sumant, quos
+            ecclesiastici gradus dignitas exornat.</head>
+          <p>Denique sacerdotes et diaconi et reliqui, quos dignitas ecclesiastici gradus exornat, a
+            quinquagesima propositum ieiunandi suscipiant, quo et aliquid ad pensum sanctae
+            institutionis adiiciant, et eorum, qui in laicali ordine consistunt, obseruantiam sicut
+            loco, ita religione precellant. §. 1. De ipsa uero die dominica hesitamus, quidnam
+            dicendum sit, cum omnes laici et seculares illa die plus solito ceteris diebus
+            accuratius cibos carnium appetant, et nisi noua quadam auiditate usque ad medias noctes
+            se ingurgitent, non aliter se huius sacri temporis obseruationem suscipere putant; quod
+            utique non rationi, sed uoluptati, imo cuidam mentis cecitati asscribendum est, unde nec
+            a tali consuetudine auerti possunt; et ideo cum uenia suo ingenio relinquendi sunt, ne
+            forte peiores existant, si a tali consuetudine prohibeantur. Ut enim ait Salomon: „Qui
+            multum emungit, elicit sanguinem.^ Et post pauca. §. 2. Par autem est, ut quibus diebus
+            a carne animalium abstinemus, ab omnibus quoque, quae sementiuam trahunt originem
+            carnis, ieiu-nemus, a lacte uidelicet, caseo et ouis. Et post pauca. §.3. Ceterum
+            piscium esus ita Christiano relinquitur, ut ei infir-</p>
+
+
+
+
+
+          <p>mitatis solatium, non luxuriae pariat incendium. Denique qui a carne abstinet,
+            nequaquam sumptuosiora marinarum beluarum conuiuia preparet. §. 4. Vinum quoqueita
+            bibere permittimur, ut ebrietates omnino fugiamus; alioquin restat, ut omnia, quae
+            corpori libent, similiter faciamus.</p>
+          <p>IV. Pars. Gratianus. Hec etsi legibus constituta sunt, tamen quia communi usu approbata
+            non sunt, se non observantes transgressionis reos non arguunt; alioquin Ms non
+            obedientes proprio prinarentur honore, cum illi, qui sacris nesciunt obedire canonibus,
+            penitus officio iubeantur carere suscepto; nisi forte quis dicat, hec non decernendo
+            esse statuta, sed exhortando conscripta. Decretum uero necessitatem facit, exhortatio
+            autem liberam uoluntatem excitat.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XLVI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XLVI.</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d46">
+        <head>DISTINCTIO XLVI.</head>
+        <p>GRATIANUS.</p>
+        <p>I. Pars. Sequitur: „ Non litigio sum. Nichil est enimimpudentius arroganda rusticorum,
+          qui garrulitatem auctoritatemputant, et parati ad lites in subiectos tumide intonant,
+          quodex arroganda superbiae prouenire manifestum est.</p>
+        <p>Unde Gregorius scribit in Moralibus, lib. XXIII. p. 5. cap. 12. [c. 13. §. 23. et 24. ad
+          c. 33. Iob.]:</p>
+        <div>
+          <head>C. I</head>
+          <head type="question-title">. Arrogantes nesciunt humiliter inferre que docent.</head>
+          <p>Hoc habet proprium doctrina arrogantium, ut humiliter nesciant inferre quod docent, et
+            recta, que sapiunt, recteministrare non possunt. In uerbis enim eorum proditur,quod, cum
+            docent, quasi in quodam sibi uidentur summitatis» culmine residere, eosque, quos docent,
+            ut longeinfra se positos uelut in imo respiciunt, quibus non consulendo , sed uix
+            dominando dignantur loqui. Recte autemhis per Prophetam Dominus dicit: ,,Vos autem cum
+            austeritate inperabatis eis et cum potentia/ Cum austeritateenim et potentia inperant,
+            qui subditos suos non tranquillecorrigere ratiocinando, sed aspere inflectere
+            dominandofestinant. At contra doctrina uera tanto uehementius hocelationis uicium fugit
+            per cogitationem, quanto ardentiussuorum uerborum iaculis ipsum magistrum elationis
+            insequitur. Cauet enim, ne eum moribus elatis predicet, quemin cordibus audientium
+            sacris sermonibus insectatur.</p>
+          <p>II. Pars. Gratian. Ecce, quare litigiosi prohibentur inepiscopos ordinari. Est et alia
+            causa huius prohibitionis. Litigiosi namque uel adulationibus animos principum sibi
+            conciliant,uel fratribus suis detrahendo infamiae notam ingerunt, uel interfratres
+            discordiam seminando seditiones numquam facere cessant; que omnia in prelatis
+            dampnabilia esse probantur.</p>
+          <p>Unde Gregorius scribit in Moralibus, in lib. XVIII. p. 4. c. 3. [ad cap. 27. Iob.]:</p>
+        </div>
+        <div>
+          <head>C. II</head>
+          <head type="question-title">. De his, qui peccantibus* adulantur.</head>
+          <p>Sunt nonnulli, qui, dum malefacta hominum laudibus efferunt, augent que increpare
+            debuerant. Hinc enimper Prophetam dicitur: „Vae qui consuunt puluillos subomni cubito
+            manus, et faciunt ceruicalia sub capite uniuersaeetatis. Ad hoc quippe sub cubito
+            puluillus uel ceruical subcapite iacentis ponitur, ut molliter quiescatur. Quisquis ergo
+            male agentibus adulatur, puluillum uel ceruicalsub capite uel cubito iacentis ponit, ut
+            qui corripi ex culpadebuerat, in ea fultus laudibus molliter quiescat. §. 1. Hincrursum
+            scriptum est: „Ipse edificabat parietem, illi autemliniebant eum/ Parietis quippe nomine
+            peccati duriciadesignatur. Edificare ergo parietem est contra se quempiam obstacula
+            peccati construere. Sed parietem liniunt,qui peccata perpetrantibus adulantur, ut, quod
+            illi peruerseagentes edificant, ipsi adulantes quasi nitidum reddant.§. 2. Sed sanctus
+            uir sicut mala de bonis non estimat, itaiudicare bona de malis recusat, dicens: „Absit a
+            me, utiustos uos iudicem: donec deficiam, non recedam ab innocentia mea/</p>
+          <p>Hinc etiam in Concilio Cartaginensi IV. [c. 56.] legitur:</p>
+        </div>
+        <div>
+          <head>C. III</head>
+          <head type="question-title">. Adulator uel proditor clericus ab offitio degradetur.
+            Clericus, qui adulationibus et prodicionibus uacaredeprehenditur, degradetur ab
+            offitio.</head>
+        </div>
+        <div>
+          <head>C. IV</head>
+          <head type="question-title">. Excommunicentur ab episcopo, qui fratribus non probanda
+            obiciunt.</head>
+          <p>Item [ex eodem Concilio, c. 55.]Accusatores fratrum episcopus excommunicet*,et si
+            emendauerint uicium, recipiat eos ad communionem,non ad clerum.</p>
+        </div>
+        <div>
+          <head>C. V</head>
+          <head type="question-title">. Remoneatur * ab offitio clericus maledicus; scurra fratrum**
+            profectibus inuidens non promoneatur.</head>
+          <p>Item ex eodem [Concilio, c. 57.]Clericus maledicus (maxime in sacerdotibus) cogaturad
+            postulandam ueniam. Si noluerit, degradetur, necumquam ad offitium absque satisfactione
+            reuocetur.</p>
+        </div>
+        <div>
+          <head>C. VI</head>
+          <head type="question-title">. De eodem.</head>
+          <p>Item [ex eodem Concilio, c. 60.]Clericum scurrilem et uerbis turpibus ioculatorem
+            aboffitio retrahendum .</p>
+        </div>
+        <div>
+          <head>C. VII</head>
+          <head type="question-title">.</head>
+          <p>Item [ex eodem, c. 54.]</p>
+          <p>Clericus inuidens fratrum profectibus, donec in uicio est, non promoueatur.</p>
+        </div>
+        <div>
+          <head>C. VIII</head>
+          <head type="question-title">. Non sunt ordinandi, qui sedicionibus uacant.</head>
+          <p>Item [ex eodem, c. 67.]</p>
+          <p>Sedicionarios statuimus numquam ordinandos clericos, sicut nec usurarios, uel
+            iniuriarum suarum ultores.</p>
+        </div>
+        <div>
+          <head>C. IX</head>
+          <head type="question-title">. Usuras exigere clericis minime licet.</head>
+          <p>Item ex Concilio Laudi censi, [c. 5.]</p>
+          <p>III. Pars. Non licet fenerari ministris altaris, uel insacerdotali ordine constitutis
+            uel usuras, uel lucra, quesescupla dicuntur, accipere.</p>
+        </div>
+        <div>
+          <head>C. X</head>
+          <head type="question-title">. Nec suo nomine, nec alieno clericus fenerator
+            existat.</head>
+          <p>Item Leo Papa [Episcopis per Campaniam, epist. I. c. 4.]</p>
+          <p>Sicut non suo, ita nec alieno nomine aliquis clericorum exercere fenus attemptet.
+            Indecens enim est crimen suum commodis alienis inpendere et exercere. Fenusautem hoc
+            solum aspicere et exercere debemus, ut quodhic misericorditer tribuimus, a Domino, (qui
+            multipliciteret in perpetuum mansura tribuit), recipere ualeamus.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

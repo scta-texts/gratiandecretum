@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO XXIV</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO XXIV</title>
+          <date when="2017-08-15">August 15, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Friedberg 1879 Volume 2</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p1d24">
+        <head>DISTINCTIO XXIV</head>
+        <p>I. Pars. Qualiter episcopus sit examinandus, qualiter ipse simul cum reliquis infra ipsum
+          constitutis sit ordinandus, breuiter monstratum est. Nunc autem uidendum est de
+          sacerdotibus et reliquis, an sine examinatione sint promonendi. De bis ita scribit Paulus
+          Apostolus ad Timotheum: „ Manus cito nemini imposueris, et nichil sine preiudicio facias
+          in alteram partem declinando^</p>
+        <p>[PALE A.</p>
+        <div>
+          <head>C. I.</head>
+          <head type="question-title">De eodem.</head>
+          <p>Ex decretis Siluestri Papae in Sinodo Rom. c. 9.</p>
+          <p>Nullus acolitorum uel subdiaconorum* rem consecratam a presbitero aliis porrigat, (quia
+            aliud est minister, aliud assistens), nisi tantum supportet, quod ei sacerdos imposuerit
+            suo ore benedictum.]</p>
+        </div>
+        <div>
+          <head>C. II.</head>
+          <head type="question-title">Ante probationem nullus ordinetur clericus.</head>
+          <p>Item ex Concilio Cartagin. IIIA, c. 22.</p>
+          <p>Nullus ordinetur clericus, nisi probatus uel episcoporum examine, uel populi
+            testimonio.</p>
+
+        </div>
+        <div>
+          <head>C. III.</head>
+          <head type="question-title">Ad ministerium alicuius ecclesiae clerici eiusdem
+            promoueantur.</head>
+          <p>Item Gelasius Papa Celestino episcopo.</p>
+          <p>Presbiteri, diacones et uniuersi clerici Stoniensiumciuitatis petitorio nobis
+            suggessere porrecto, in ecclesia beati [martiris Eleuterii episcopi (que in supradicatae
+            ciuitatis parrochia* probatur esse constructa) presbiterum, qui constitutus fuerat,
+            defecisse, atque in eius locum Iulianum, diaconem ipsius ecclesiae pro celebritate
+            ipsius loci quam-tocius debere ordinari. Et ideo, frater karrissime, si de eius uita uel
+            moribus nichil est, quod contra canonum ueniat constituta, suprascriptum presbiterii
+            honore decorabis, sciturus, uisitatoris, nomine te, non cardinalis creasse pontificis.
+            Pariter etiam Felicissimum diaconem in eius ecclesiae ministerio, si conuersatio eius
+            patitur, subrogabis, ut locus processionis celeberrimus ad misterio-rum consecrationem
+            nec sacerdote indigeat, hec ministro.</p>
+        </div>
+        <div>
+          <head>C. IV.</head>
+          <head type="question-title">Metropolitanorum et episcoporum examine promoueantur ceteri
+            episcopi.</head>
+          <p>Item ex Concilio Laudicensi [c. 12.]</p>
+          <p>Episcopi iudicio metropolitanorum et eorum episcoporum, qui circumcirca sunt,
+            prouehantur ad ecclesiasticam dignitatem, hi uidelicet, qui plurimo tempore probantur
+            tam uerbo fidei quam rectae conuersationis exemplo.</p>
+          <p>II. Pars. Gratianus. Cum itaque sine examinatione nullus sit ordinandus, quemadmodum,
+            et quo tempore sacerdotum et ceterorum infra positorum examinatio fieri debeat,
+            considerandum est.</p>
+          <p>De his in Concilio Nannetensi, [c. 11.] sic statutum legitur;</p>
+        </div>
+        <div>
+          <head>C. V.</head>
+          <head type="question-title">Qui ordinandi sunt, feria quarta ad examinationem
+            conueniant.</head>
+          <p>Quando episcopus ordinationes facere disponit, omnes, qui ad sacrum ministerium
+            accedere uolunt, feria quarta ante ipsam ordinationem euocandi sunt ad ciuitatem, una
+            cum presbiteris, qui eos representare debent; et tunc episcopus a latere suo eligere
+            debet sacerdotes et alios prudentes uiros, gnaros diuinae legis et exercitatos in
+            ecclesiasticis sanctionibus, qui ordinandorum genus, uitam, patriam, etatem,
+            institucionem, locum, ubi educati sunt, si sint bene litterati, si in lege Domini
+            instructi, ante omnia diligenter inuestigent; si fidem catholicam firmiter</p>
+
+
+
+
+
+          <p>teneant et uerbis simplicibus asserere queant. §. i. Ipsi autem, quibus cura^
+            committitur, cauere debent, ne aut fauoris gratia, aut cuiuscumque muneris cupiditate
+            illecti a uero deuient, ut indignum et minus idoneum ad sacros gradus suscipiendos
+            episcopi manibus applicent. Quod si fecerint, et ille, qui indigne accesserit, ab altari
+            remouebi-tur, et illi, qui donum sancti Spiritus uendere conati sunt, coram Deo iam
+            condempnati, ecclesiastica dignitate care-bunt. §. 2. Igitur per tres dies continuos
+            diligenter examinentur, et sic sabbato qui probati sunt episcopo represententur.</p>
+          <p>Gratian. Alias autem, sme, clericorum consilio s uidelicet et populi testimonio, nullum
+            episcopus ordinare presumat.</p>
+          <p>Unde in Concilio Cartagin. IV. [c. 22.] legitur:</p>
+        </div>
+        <div>
+          <head>C. VI.</head>
+          <head type="question-title">Sine clericorum suorum consilio episcopus clericos non
+            ordinet.</head>
+          <p>Episcopus sine consilio clericorum suorum clericos non ordinet, ita ut ciuium
+            conniuentiam et testimonium querat.</p>
+          <p>III. Pars. Gratian. Queritur, quid fieri debeat de bis, qui sine examinatione prouecti
+            sunt.</p>
+          <p>De liis ita legitur in Concilio Martini Papae:</p>
+        </div>
+        <div>
+          <head>C. VII.</head>
+          <head type="question-title">De his, qui sine examinatione ordinantur, et postea , peccata
+            sua confitentur.</head>
+          <p>Si quis presbiter aut diaconus sine aliqua examinatione ordinati sunt, aut certe, cum
+            discuterentur, criminosa peccata sua confessi sunt*, aut post ordinationem ab aliis
+            detecti, abiciantur ex clero. §. 1. Similiter uero et de uniuerso clericorum ordine
+            seruetur; nam hoc sibi, quod irreprehensibile est, sancta ecclesia catholica
+            defendit.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
