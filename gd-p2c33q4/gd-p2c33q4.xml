@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO IV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO IV.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c33q4">
+        <head xml:id="gd-p2c33q4-Hd1e103">QUESTIO IV.</head>
+        <p xml:id="gd-p2c33q4-d1e106"> I. Pars. Quod autem orationis tempore coniugali operi alicui
+          uacare non liceat, B. Ieronimus, scribit in quodamsermone, ita dicens *: </p>
+        <div xml:id="gd-p2c33q4-Dd1e109">
+          <head xml:id="gd-p2c33q4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c33q4-Hd1e114" type="question-title"> Tempore, quo uxori debitum
+            redditur, a carnibus agni abstinere oportet. </head>
+          <p xml:id="gd-p2c33q4-d1e117"> Sciatis, fratres karissimi, quoniam quicumque uxori debitum
+            reddit uacare non potest orationi, nec de carnibus agni comedere. Item: §. 1. Si panes
+            propositionis abhis, qui uxores suas tetigerant, comedi non poterant,quanto magis panis
+            ille, qui de celo descendit, non potest abhis, qui coniugalibus paulo ante conplexibus
+            hesere, uiolariatque contingi? non quod nuptias condempnemus, sedquod eo tempore, quo
+            carnes agni manducaturi sumus,uacare a carnalibus s operibus debeamus. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e121">
+          <head xml:id="gd-p2c33q4-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c33q4-Hd1e126" type="question-title"> A coniugali concubitu in
+            sanctorum solempnitatem est abstinendum.</head>
+          <p xml:id="gd-p2c33q4-d1e129"> Item Augustinus [serm. II. de tempore, id est, de 2.
+            dominica Aduentus]. </p>
+          <p xml:id="gd-p2c33q4-d1e132"> Quotienscumque aut dies natalis Domini, aut reliquae
+            festiuitates aduenerint, non solum ab infideliumconcubinarum consortio, sed etiam a
+            propriis uxoribusabstinere debemus. </p>
+
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e136">
+          <head xml:id="gd-p2c33q4-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c33q4-Hd1e141" type="question-title"> Diebus ieiuniorum a propriis
+            etiam uxoribus abstinere oportet. </head>
+          <p xml:id="gd-p2c33q4-d1e144"> Item Ambrosius in sermone de aduentu Domini . </p>
+          <p xml:id="gd-p2c33q4-d1e147"> Fratres, non solum debetis ab omni inmundicia abstinere,
+            sed etiam ab uxoribus propriis studiosissime contineatis. Nullus* omnino uxori suae
+            iungatur. </p>
+          <p xml:id="gd-p2c33q4-d1e150"> C. IV. </p>
+          <p xml:id="gd-p2c33q4-d1e154"> Idem super epist. I. ad Chorinth., [in c. 7.] </p>
+          <p xml:id="gd-p2c33q4-d1e157"> Si causa procreandorum filiorum ducitur uxor, non multum
+            tempus concessum uidetur ad ipsum usum, quia etdies festi, et dies processionis, et ipsa
+            ratio conceptus etpartus iuxta legem cessare usum carnis debere histemporibus
+            demonstrant. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e162">
+          <head xml:id="gd-p2c33q4-Hd1e164">C. V</head>
+          <head xml:id="gd-p2c33q4-Hd1e167" type="question-title"> Uxoris usus certis diebus cessare
+            iubetur.</head>
+          <p xml:id="gd-p2c33q4-d1e170"> Item Augustinus libro questionum Veteris et Noui
+            Testamenti, [quest. CXXVII.] </p>
+          <p xml:id="gd-p2c33q4-d1e173"> Christiano cum uxore sua conuenire aliquando licet,
+            aliquando non licet. Propter processionis enim dies etieiuniorum aliquando non licet
+            conuenire, quia etiam alicitis abstinendum est, ut facilius inpetrari possit
+            quodpostulatur. Unde Apostolus ex consensu, ait, abstinendumest ad tempus, ut uacetis
+            orationi. Nam etiamsecundum legem in ieiunio cedere et iurgari non licet,post uero licet
+            s. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e177">
+          <head xml:id="gd-p2c33q4-Hd1e179">C. VI</head>
+          <head xml:id="gd-p2c33q4-Hd1e182" type="question-title"> Non uere agit penitenciam qui
+            continentiam non seruat.</head>
+          <p xml:id="gd-p2c33q4-d1e185"> Item Iohannes Crisostomus *. </p>
+          <p xml:id="gd-p2c33q4-d1e188"> Qui in castigatione uictus se dicit agere penitenciam,
+            frustra hoc sermone promittit, nisi egrediatur de cubili suo,et ieiunio continentiam
+            addat. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e192">
+          <head xml:id="gd-p2c33q4-Hd1e194">C. VII</head>
+          <head xml:id="gd-p2c33q4-Hd1e197" type="question-title"> Ab ingressu ecclesiae temperare^*
+            debet uir cum propria uxore dormiens.</head>
+          <p xml:id="gd-p2c33q4-d1e200"> Item Gregorius [in responsione X. ad interrogationes
+            Augustini] . </p>
+          <p xml:id="gd-p2c33q4-d1e203"> II. Pars. Vir cum propria coniuge dormiens, nisi lotusaqua,
+            ecclesiam intrare non debet: §. i. Quamuisde hac re diuersae hominum nationes diuersa
+            sentiant,atque alia custodire uideantur, Romanorum tamensemper ab antiquioribus usus
+            fuit, post ammixtionem propriae coniugis et lauacri purificationem querere, et ab
+            ingressu ecclesiae paululum temperare s. Nec hocdicentes culpam deputamus esse
+            coniugium; sed quiaipsa licita ammixtio coniugis sine uoluptate carnis fierinon potest,
+            a sacri loci ingressu est abstinendum, quiauoluptas ipsa sine culpa esse nullatenus
+            potest. Nonenim de adulterio uel fornicatione, sed de legitimo matrimonio susceptus erat
+            qui dicebat: „Ecce enim in iniquitatibus conceptus sum. “ §. 2. Oportet itaque </p>
+          <p xml:id="gd-p2c33q4-d1e206"> legitimam* carnis copulam ut causa prolis sit, non
+            uolu-ptatis, et carnis conmixtio creandorum liberorum sit gratia, non satisfactio
+            uiciorum. Si quis uero sua confuge non cupidine uoluptatis raptus p, sed
+            solummodocreandorum liberorum gratia utitur, iste &lt;i profecto siuede ingressu
+            ecclesiae, seu de sumendo dominici corporis sanguinisque misterio, suo est iudicio
+            relinquendus, quia anobis prohiberi non debet accipere qui in igne positus nescitardere.
+            Cum uero non amor procreandae sobolis, sed uoluptas dominatur in opere conmixtionis,
+            habent coniugesetiam de conmixtione sua quod defleant. §. 3* Tuncautem uir, qui post
+            ammixtionem coniugis lotus aquafuerit, etiam sacram communionem ualet accipere, cumei
+            secundum prefinitam sentenciam ecclesiam licuerit intrare. </p>
+          <p xml:id="gd-p2c33q4-d1e210"> III. Pars. Gratian. Hinc etiam in diebus abstinentiae
+            nuptiae celebrari prohibentur. </p>
+          <p xml:id="gd-p2c33q4-d1e213"> Unde in Laodicensi Concilio [c. 52.] </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e217">
+          <head xml:id="gd-p2c33q4-Hd1e219">C. VIII</head>
+          <head xml:id="gd-p2c33q4-Hd1e222" type="question-title"> In diebus Quadragesimae nuptiae
+            celebrare non licet.</head>
+          <p xml:id="gd-p2c33q4-d1e225"> Non oportet in Quadragesima aut nuptias uel quelibet
+            natalicia celebrari. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e229">
+          <head xml:id="gd-p2c33q4-Hd1e231">C. IX</head>
+          <head xml:id="gd-p2c33q4-Hd1e234" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c33q4-d1e237"> Item ex Concilio Martini Papae , [c. 48.] </p>
+          <p xml:id="gd-p2c33q4-d1e240"> Non licet in Quadragesima natales martirum celebrare, sed
+            tantum in sabbato et dominica proconme-moratione eorum oblationes offerre. Sed nec
+            natalicia, nec nuptias liceat in Quadragesima celebrari. </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e244">
+          <head xml:id="gd-p2c33q4-Hd1e246">C. X</head>
+          <head xml:id="gd-p2c33q4-Hd1e249" type="question-title"> De eodem ". </head>
+          <p xml:id="gd-p2c33q4-d1e252"> Item ex Concilio Ylerdensi °. </p>
+          <p xml:id="gd-p2c33q4-d1e255"> Non oportet a Septuagesima usque in octauamPascae,et tribus
+            ebdomadibus ante festiuitatem sancti Iohannis, et ab Aduentu domini usque post
+            Epiphaniam nuptias celebrare. Quod si factum fuerit, separentur. </p>
+
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e260">
+          <head xml:id="gd-p2c33q4-Hd1e262">C. XI</head>
+          <head xml:id="gd-p2c33q4-Hd1e265" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c33q4-d1e268"> Item Nycolaus ad consulta Bulgarorum , [c. 48.] </p>
+          <p xml:id="gd-p2c33q4-d1e271"> Nec uxorem ducere, nec conuiuia facere in quadragesi-mali
+            tempore conuenire posse, nullo modo arbitror. </p>
+          <p xml:id="gd-p2c33q4-d1e274"> IV. Pars. Gratian. Hec autem seruanda sunt , si uxor
+            consensum adhibere uoluerit; ceterum sine eius consensu nec causaorationis continentia
+            seruari debet . </p>
+          <p xml:id="gd-p2c33q4-d1e278"> Unde Augustinus in lib. [I.] de adulterinis con-iugiis ,
+            [c. 2.] </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e282">
+          <head xml:id="gd-p2c33q4-Hd1e284">C. XII</head>
+          <head xml:id="gd-p2c33q4-Hd1e287" type="question-title"> Nisi ex consensu communi orationi
+            coniuges uacare non possunt.</head>
+          <p xml:id="gd-p2c33q4-d1e290"> Apostolus nec ad tempus, ut uacent orationi, nisi ex
+            consensu uoluit coniuges inuicem carnali fraudaridebito. </p>
+          <p xml:id="gd-p2c33q4-d1e293"> Hinc etiam in II. Concilio Arelatensi [c. 22.] legitur :
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q4-Dd1e297">
+          <head xml:id="gd-p2c33q4-Hd1e299">C. XIII</head>
+          <head xml:id="gd-p2c33q4-Hd1e302" type="question-title"> Nisi ex consensu coniugatis
+            penitencia non detur , </head>
+          <p xml:id="gd-p2c33q4-d1e305"> Penitenciam coniugatis non nisi ex consensu dandam esse
+            precipimus. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

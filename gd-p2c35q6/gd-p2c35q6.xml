@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VI.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c35q6">
+        <head xml:id="gd-p2c35q6-Hd1e103">QUESTIO VI.</head>
+
+
+        <p xml:id="gd-p2c35q6-d1e106"> I. Pars. Nunc queritur , quibus accusantibus uel
+          testifi-cantibus consanguineorum coniunciio dirimenda sit? </p>
+        <p xml:id="gd-p2c35q6-d1e109"> De his ita decreuit Fabianus Papa: </p>
+        <div xml:id="gd-p2c35q6-Dd1e112">
+          <head xml:id="gd-p2c35q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c35q6-Hd1e117" type="question-title"> Consanguinei tantum , uel , si
+            progenies defecerit , antiqui et ueraces propinquitatem in Sinodo conputent. </head>
+          <p xml:id="gd-p2c35q6-d1e120"> Consanguineos extraneorum nullus accuset, uel
+            consanguinitatem in Sinodo conputet; sed propinqui, ad quorum noticiam pertinet, id est
+            pater et mater, soror, frater, patruus, auunculus, amita, matertera, et eorum
+            procreatio. Si autem progenies tota defecerit, ab antiquioribuset ueracioribus, quibus
+            eadem propinquitas nota sit,episcopus canonice perquirat, et, si inuenta fuerit
+            propinquitas, separentur. </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e124">
+          <head xml:id="gd-p2c35q6-Hd1e126">C. II.</head>
+
+          <p xml:id="gd-p2c35q6-d1e129"> Celes tini Papae Decretum Ecclesiae Florentinae missum*. </p>
+          <p xml:id="gd-p2c35q6-d1e132"> Videtur nobis, quod secunda, quam contra prohibitionem
+            ecclesiae duxit, non sit uxor, etiamsi primam non haberet desponsatam. Nam quod contra
+            interdictum etordinem ecclesiae factum est, tamquam inordinatum ratumnon haberi, tam
+            diuinae quam humanae legis proclamatauctoritas. Quia igitur ea, quam inordinate
+            superduxit,prohibitione renitente uxor non est, cogendus est eamrecipere, quam iurauit
+            et desponsauit, et ex ea prolemgenuit, ut iuramenti religio non uilipendatur, et fides
+            adinuicem promissa seruetur, et proles in cultu Dei nutriaturet educetur, et alii exinde
+            occasionem peierandi et aliosdecipiendi assumere non ualeant. §. 1. Quod autem parentes,
+            fratres et cognati utriusque sexus in testificationemsuorum ad matrimonium coniungendum
+            uel dirimendumadmittantur, tam antiqua consuetudine quam legibus approbatur. Ideo enim
+            maxime parentes, et, si defuerint </p>
+
+          <p xml:id="gd-p2c35q6-d1e135"> parentes, proximiores admittuntur, quoniam unusquisque suam
+            genealogiam cum testibus et chartis, tum etiam exrecitatione maiorum scire laborat. Qui
+            enim meliusrecipi debent, quam illi, qui melius sciunt, et quorum estinteresse, ita ut,
+            si non interfuerint, et consensum non adhibuerint, secundum leges nullum fiat
+            matrimonium? §. 2.Quod uero legitur: „Pater non recipiatur in causa filii,nec filius in
+            causa patris,“ in criminalibus causis et contractibus uerum est; in matrimonio uero
+            coniungendo etdisiungendo ex ipsius coniugii prerogatiua, et quia fauo-rabilis res est,
+            congrue recipiuntur.] </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e140">
+          <head xml:id="gd-p2c35q6-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c35q6-Hd1e145" type="question-title"> Qui iurando propinquitatem
+            firmare debeant. </head>
+          <p xml:id="gd-p2c35q6-d1e148"> Item Urbanus Richario^b Genuensi Episcopo. </p>
+          <p xml:id="gd-p2c35q6-d1e151"> Notificamus tibi, ut post, quam duo aut tres ex
+            propinquioribus iam defunctae uxoris uel uiuae eius, qui accusatur, hanc propinquitatem
+            iureiurando firmauerint, uelsi tres aut duo ex antiquioribus Genuensibus, quibushec
+            propinquitas nota sit, qui bonae famae et ueracistestimonii sint, remoto amore, timore,
+            precio et omnimalo studio, supradicto modo consanguinitatem firmauerint, sine omni mora
+            coniugia dissoluantur. Quod si propinqui uel extranei uerbis tantum propinquitatem
+            testantur, et iuramento probare noluerint s, uel nequiuerint,coniugium nullatenus
+            dissoluatur; sed conpetens eis penitencia propter infamiam uel peccati maculam (si forte
+            inhoc contraxerint aliquam) iniungatur. </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e155">
+          <head xml:id="gd-p2c35q6-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c35q6-Hd1e160" type="question-title"> Suae confessioni relinquitur
+            quorum incestum nullus iurando affirmat. </head>
+          <p xml:id="gd-p2c35q6-d1e163"> Item ex Concilio Urbani Papae habito in Apulia . </p>
+          <p xml:id="gd-p2c35q6-d1e166"> Si duo uiri uel tres consanguinitatem iureiurando
+            firmauerint, uel ipsi forte confessi fuerint, coniugia dissoluantur. Si uero neutrum
+            contigerit, episcopi eos per baptismum, per fidem Christi, per Christi iudicium in uera
+            obedientia obtestentur, quatinus palam faciant, utrum sesicut fama est, recognoscant
+            consanguineos. Si negaue-rint, sibi ipsis relinquendi sunt; ita tamen, ut, si aliud
+            inconscientia habeant, se a liminibus ecclesiae, a corpore etsanguine Domini, a fidelium
+            conmunione nouerint segregatos, atque infames effectos, donec ab incesti facinore
+            desinant. Si se episcoporum iudicio segregauerint, quiiuuenes sunt, alia matrimonia
+            contrahere non prohibeantur. </p>
+          <p xml:id="gd-p2c35q6-d1e169"> II. Pars. Gratian. Ecce , quibus accusantibus uel
+            testi-ficantibus consanguineorum coniunctiones sunt dirimendae. Cuius-modi uero
+            iuramentum ab accusatore sit exigendum , ex RomanoOrdine * habetur. Est autem huiusmodi
+            : </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e173">
+          <head xml:id="gd-p2c35q6-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c35q6-Hd1e178" type="question-title"> Iuramentum accusatoris. </head>
+          <p xml:id="gd-p2c35q6-d1e181"> De parentela illa, quam dicunt esse inter N. et </p>
+
+
+
+          <p xml:id="gd-p2c35q6-d1e184"> istam eius coniugem N., quicquid inde scis aut audistia
+            tuis uicinis, aut a tuis propinquis antiquioribus, tu per nullum ingenium, nec propter
+            timorem aut propteramorem, aut propter premium, aut propter consanguinitatem celabis tuo
+            episcopo , aut eius misso, cui hoc requirere^ iusserit, quandocumque te ex hoc
+            interroga-uerit. Sic te Deus adiuuet, et istorum sanctorumreliquiae. </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e188">
+          <head xml:id="gd-p2c35q6-Hd1e190">C. VI</head>
+          <head xml:id="gd-p2c35q6-Hd1e193" type="question-title"> Iuramentum testium . </head>
+          <p xml:id="gd-p2c35q6-d1e196"> Illud sacramentum, quod iste iurauit de parentela illa, que
+            inter filium et eius coniugem N. conputa-tur, quod tu illud obseruabis, in quantum sapis
+            °* Sicte Deus adiuuet. </p>
+          <p xml:id="gd-p2c35q6-d1e199"> III. Pars. Gratian. Hoc iuramentum separationis nonest ,
+            sed sinodale , institutum ab Euticiano Papa. Ait enim : </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e203">
+          <head xml:id="gd-p2c35q6-Hd1e205">C. VII</head>
+          <head xml:id="gd-p2c35q6-Hd1e208" type="question-title"> Sinodale iuramentum.</head>
+          <p xml:id="gd-p2c35q6-d1e211"> Episcopus in Sinodo residens, post congruam allocutionem
+            septem ex plebe eius parrochiae, uel eo amplius, prout uiderit expedire, maturiores,
+            honestiores atque uera-ciores uiros in medium debet aduocare, et allatis sanctorum
+            pignoribus unumquemque illorum tali sacramentoconstringere: Amodo in antea quicquid
+            nosti, autaudisti, aut postmodum inquisiturus es, quod contra uolun-tatem Dei, et rectam
+            Christianitatem in ista parrochiafactum sit aut futurum erit, si in diebus tuis
+            euenerit,tantum ad cognitionem tuam modo quocumque perueniat,si scis, aut indicatum tibi
+            fuerit sinodalem causam esse, administerium episcopi pertinere, quod tu nec propter
+            amorem, nec propter timorem, nec propter precium, nec propter parentelam ullatenus celes
+            episcopum, aut eiusmissum, cui hoc inquirere iusserit, quandocumque te exhoc
+            interrogauerit. Sic te Deus adiuuet, et illae sanctorum reliquiae. Istuds* sacramentum,
+            quod iste iUra-uit de sinodali causa, quod tu illud ex te ita obseruabis,in quantum
+            sapis, aut audisti, aut in antea ab hac die inquisiturus es. Sic te Deus adiuuet. </p>
+          <p xml:id="gd-p2c35q6-d1e214"> IV. Pars. Gratian. Ab hoc iuramento illud sumptum
+            est,principio paululum deriuato. Porro iuramentum separationisInnocentius Papa II.
+            prescribit Ottoni Lucensi Episcopo , dicens : </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e218">
+          <head xml:id="gd-p2c35q6-Hd1e220">C. VIII</head>
+          <head xml:id="gd-p2c35q6-Hd1e223" type="question-title"> Iuramentum^ illorum, qui
+            consanguinitatem probant.</head>
+
+          <p xml:id="gd-p2c35q6-d1e226"> De parentela illa, unde nos consulere uoluisti, pro qua
+            etiam ad nostram audientiam est appellatum, aliorum fratrum scripta suscepimus, qui
+            utique causam ipsam diuersomodo narrabant. Et primo quidem tam in gradibus quamin
+            nominibus personarum discordasse, postmodum uero inaltero eorum conputatores eiusdem
+            parentelae dicunturconuenisse. Ceterum in huiusmodi casibus summopere consideranda est
+            qualitas personarum, que aliquid contra quoslibet astruere uelint, que etiam iusiurandum
+            prestare debent,quod neque gratia, neque precio, uel odio alicuius hocdicunt contra eos,
+            de quibus agitur; sed potius, quia credantita uerum esse, et ita se a suis
+            antecessoribus audiuisse. Inquibus omnibus non debet aliqua uarietas uel
+            contrarietasinueniri. </p>
+          <p xml:id="gd-p2c35q6-d1e229"> V. Pars. Gratian. Qui uero separantur ab inuicem ,
+            huiusmodi iuramentum prestabunt . </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e234">
+          <head xml:id="gd-p2c35q6-Hd1e236">C. IX</head>
+          <head xml:id="gd-p2c35q6-Hd1e239" type="question-title"> Iuramentum separationis.</head>
+          <p xml:id="gd-p2c35q6-d1e242"> Ab isto die in antea tu per nullum ingenium sociabis te
+            huic tuae consanguineae*, nec in coniugio, nec inadulterio, nec cum illa ad unam mensam
+            manducabiset bibes, aut sub uno tecto manebis, nisi in ecclesia, aut in alio publico
+            loco, ubi nulla mala suspiciopossit esse, ut ibi coram testibus idoneis pro
+            certanecessitate pariter colloquamini; nec aliam coniugem accipies, nisi forte post
+            actam penitenciam tibi licentiadata fuerit ab episcopo tuo, aut eius misso. Sic te
+            Deusadiuuet s. </p>
+          <p xml:id="gd-p2c35q6-d1e245"> VI. Pars. Gratian. Occasione uero consanguinitatis uxorem
+            suam dimittere , et aliam ducere non licet alicui , nisi causaprimum fuerit probata. </p>
+          <p xml:id="gd-p2c35q6-d1e248"> Unde Alexander II. Guilielmo de Mostorico. </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e252">
+          <head xml:id="gd-p2c35q6-Hd1e254">C. X</head>
+          <head xml:id="gd-p2c35q6-Hd1e257" type="question-title"> Nisi coram ecclesia
+            consanguinitate probata uxorem dimittere non licet.</head>
+          <p xml:id="gd-p2c35q6-d1e260"> Multorum relatione cognouimus, te propriam uelle abi-cere
+            uxorem, et adherere alteri, pretendentem consanguinitatis occasionem. Unde apostolica
+            auctoritate interdicendo mandamus tibi, ut hanc, quam nunc habes uxorem, nullatenus
+            presumas dimittere, uel aliam ducere, donec apudepiscoporum religiosorum concilium
+            causam iustamexaminaueris. </p>
+          <p xml:id="gd-p2c35q6-d1e263"> VII. Pars. Gratian. Recepturus uero eam, , quam
+            iniustedimisit , hoc modo iurabit: </p>
+        </div>
+        <div xml:id="gd-p2c35q6-Dd1e267">
+          <head xml:id="gd-p2c35q6-Hd1e269">C. XI</head>
+          <head xml:id="gd-p2c35q6-Hd1e272" type="question-title"> Reconciliationis
+            iuramentum^.</head>
+          <p xml:id="gd-p2c35q6-d1e275"> Ab isto die in antea istam coniugem N., quam iniuste
+            dimiseras, ita tenebis, sicut maritus suam coniugem debet habere in dilectione et debita
+            disciplina; neceam per ullum malum ingenium a te separabis, nec eauiuente aliam
+            accipies. Sic te Deus adiuuet. </p>
+          <p xml:id="gd-p2c35q6-d1e278"> Gratian. Quod autem unius testimonio coniugia apud quosdam
+            dirimuntur , nulla ratione ratum habetur. Cum enim Dominus dixerit : Omne uerbum stabit
+            in ore duorum uel trium testium ; item cum in concilio Ylerdensi [c. 20.] dicatur ; „
+            Omnis Controuersias que de ecclesiasticis rebus fit, secundum diuinam legem sub duobus
+            uel tribus testibus terminetur, Dominodicente : „Non imus contra alium*, sed m ore
+            duorum uel trium testium stet omne uerbum; item cum alibi dicatur: ,, Nullius personae
+            ** quantumlibet exercitatae testimonioaliquid credatur :“ euidentissime apparet, unius
+            assertione con-iugia non esse dirimenda. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

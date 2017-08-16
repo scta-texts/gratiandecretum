@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c36q2">
+        <head xml:id="gd-p2c36q2-Hd1e103">QUESTIO II.</head>
+
+        <p xml:id="gd-p2c36q2-d1e106"> I. Pars, Nunc queritur, an purgato uicio rapinoie raptor in
+          uxorem possit raptam accipere ? Quorum coniunctio auctoritatesanctorum canonum penitus
+          prohibetur. </p>
+        <p xml:id="gd-p2c36q2-d1e109"> Legitur namque in Concilio Calcedonensi c. 27. ; </p>
+        <div xml:id="gd-p2c36q2-Dd1e112">
+          <head xml:id="gd-p2c36q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c36q2-Hd1e117" type="question-title"> Raptores puellarum et
+            consentientes excommunicentur . </head>
+          <p xml:id="gd-p2c36q2-d1e120"> Eos, qui rapiunt puellas siue mulieres sub nomine simul
+            habitandi, cooperantes, aut conniuentes raptoribus,decreuit sancta sinodus, ut, si
+            quidem clerici sunt, decidantgradu proprio; si uero laici, anathematizentur. </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e124">
+          <head xml:id="gd-p2c36q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c36q2-Hd1e129" type="question-title"> Ob inmanitatem sceleris
+            abiciantur raptores uiduarum uel uirginum.</head>
+          <p xml:id="gd-p2c36q2-d1e132"> Item Sim acus [epistola ad Cesarium, c. 3.] </p>
+          <p xml:id="gd-p2c36q2-d1e135"> Raptores igitur uiduarum uel uirginum ob inmanitatem tanti
+            facinoris detestamur; illos uehementius persequendo, qui sacras uirgines, uel uolentes
+            uel inuitas, matrimonio suo sociare temptauerint. Quos pro tamnefandissimi criminis
+            atrocitate a communione suspendiprecipimus. </p>
+          <p xml:id="gd-p2c36q2-d1e138"> [C. III.] </p>
+          <p xml:id="gd-p2c36q2-d1e142"> Item louinianus Inp. Codicis lib. I. tit. de Episcopis et
+            Clericis . </p>
+          <p xml:id="gd-p2c36q2-d1e145"> Si quis non dicam rapere, sed attemptare
+            tantummodomatrimonii iungendi causa sacratissimas uirgines aususfuerit, capitali pena
+            feriatur. </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e150">
+          <head xml:id="gd-p2c36q2-Hd1e152">C. IV</head>
+          <head xml:id="gd-p2c36q2-Hd1e155" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c36q2-d1e158"> Item ex Concilio Cabilonensi . </p>
+          <p xml:id="gd-p2c36q2-d1e161"> De puellis raptis, necdum desponsatis, in Calcedonensi
+            concilio scriptum est, eos, qui rapiunt puellas sub nomine simul habitandi, cooperantes
+            et conniuentesraptoribus, decreuit sancta sinodus, ut, si quidem clericisunt, decidant a
+            proprio gradu; si uero laici, excommuni-zentur. Quibus uerbis datur intelligi, qualiter
+            huiusmali auctores dampnandi sunt, quando participes consilii et conniuentes tanto
+            anathemate feriuntur, etiuxta canonicam auctoritatem ad coniugia legitima raptam sibi
+            iure uendicare nullatenus possunts. </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e165">
+          <head xml:id="gd-p2c36q2-Hd1e167">C. V</head>
+          <head xml:id="gd-p2c36q2-Hd1e170" type="question-title"> Excommunicentur raptores uiduae
+            uel uirginis , cum sibi fauentibus. </head>
+          <p xml:id="gd-p2c36q2-d1e173"> Item Gregorius [Papa II. in Sinodo Romana]*. </p>
+          <p xml:id="gd-p2c36q2-d1e176"> Si quis uirginem uel uiduam, nisi desponsauerit, rapuerit,
+            uel furatus fuerit in uxorem, cum sibi fauentibus anathema sit. </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e180">
+          <head xml:id="gd-p2c36q2-Hd1e182">C. VI</head>
+          <head xml:id="gd-p2c36q2-Hd1e185" type="question-title"> Excommunicetur qui uiduam uel
+            filiam alterius extra uoluntatem parentum rapit, aut regis beneficio postulat. </head>
+          <p xml:id="gd-p2c36q2-d1e188"> Item ex Concilio Parisiacensi [I., c. 6.]Nullus aut uiduam,
+            aut filiam alterius extra parentum uoluntatem aut rapere presumat, aut regis
+            beneficioestimet postulandam. Quod si fecerit, ab ecclesiae communione remotus
+            anathematis gladio feriatur. </p>
+          <p xml:id="gd-p2c36q2-d1e191"> II. Pars. Gratian. His auctoritatibus euidenter datur
+            intelligi, quod raptor in uxorem raptam ducere non ualet. Sed raptor et rapta nomina
+            sunt uiciorum, non personarum. Vicia autemcum per penitenciam purgata fuerint, nomina
+            eorum abolentur. </p>
+          <p xml:id="gd-p2c36q2-d1e194"> Unde in quadam omelia Gregorius ait : </p>
+          <p xml:id="gd-p2c36q2-d1e198"> [C. VII.] </p>
+          <p xml:id="gd-p2c36q2-d1e201"> „ Apud omnipotentem quippe Dominum nec ille fallax
+            habebitur , qui culpam mendacii per penitenciam delet. </p>
+          <p xml:id="gd-p2c36q2-d1e204"> [Gratian.J Prohibetur ergo premissis auctoritatibus rapta
+            copulari raptori ante, quam uicium rapinae aboleatur, donec illeraptor, et illa iure
+            rapta appellatur^ . Ceterum, cum illa patriaepotestati restituta fuerit, et raptor suae
+            rapinae penitenciam,egerit, cum uoluntas parentum utriusque in unum conuenerit,
+            nonprohibentur ad inuicem copulari. </p>
+          <p xml:id="gd-p2c36q2-d1e207"> Unde leronimus m 7 *: </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e211">
+          <head xml:id="gd-p2c36q2-Hd1e213">C. VIII</head>
+          <head xml:id="gd-p2c36q2-Hd1e216" type="question-title"> Quot sint legitima coniugia , et
+            quod uoluntate patris rapta raptori nubere potest. </head>
+          <p xml:id="gd-p2c36q2-d1e219"> Tria legitima coniugia in scripturis leguntur. Primum
+            legitimum est, uirgo casta in uirginitate data uiro legitime, et reliqua, que secuntur
+            in predictis. Secundum,uirgo in ciuitate deprehensa a uiro, et illi per uim copulata.Si
+            uoluerit pater eius, dotabit eam iste uir, quantum iudi-cauerit pater, et dabit precium
+            pudicitiae eius. Tertium,filia predicta deprehensa. Si non fuerit uoluntas patris,trahet
+            eam a predicto uiro, et tradet eam alii, et dotabiteam, et legitima erit ei. Sed primum
+            his duobus prefertur. </p>
+          <p xml:id="gd-p2c36q2-d1e222"> C. IX. Cwm uoluntate parentum raptas in coniugium habere
+            permittitur. </p>
+          <p xml:id="gd-p2c36q2-d1e225"> Item Ambrosius in Apologia Dauid, [c. 8.]Denique et puellae
+            illius pater, que uim concubitus nullidesponsata pertulerit, quinquaginta drachmas
+            argenteasaccipiet; ipsa autem in coniugio permanebit. </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e229">
+          <head xml:id="gd-p2c36q2-Hd1e231">C. X</head>
+          <head xml:id="gd-p2c36q2-Hd1e234" type="question-title"> Post penitenciam raptori uel
+            raptae licitaconiugia concedantur.</head>
+
+          <p xml:id="gd-p2c36q2-d1e237"> Item ex Concilio Meldensi, [c. 65.]Si autem necdum eas,
+            quas rapuerant, cum uoluntateparentum sub desponsationis uel dotalitii nomine
+            inconiugium duxerunt, quando hec constitutio omnibusfuerit promulgata, ab eorum
+            coniunctione separentur, etpublicae penitenciae subigantur; raptae autem
+            parentibuslegaliter restituantur. Peracta uero penitencia publica,si etas incontinentiam
+            exegerit, ex utrisque partibus placito coniugio socientur. Non in his
+            regulamconstituimus, sed (ut uerbis magni Leonis utamur) quid sittollerabilius
+            estimamus. Quod si unus ex coniugatis obierit,et is, qui publicam penitenciam exegerit s
+            et superstesextiterit, iterare coniugium non presumat, nisi episcopusaliquam concesserit
+            indulgentiam, ut grauiorem possitamouere offensam. </p>
+          <p xml:id="gd-p2c36q2-d1e240"> Gratian. Hac auctoritate Meldensis concilii non permittitur
+            raptae raptori post penitenciam copulari, sed permittitur utrique post penitenciam
+            legitimo coniugio copulari, ut rapta uidelicet^ non raptori, sed alii post penitenciam
+            nubat. Similiterraptor post penitenciam non eam, quam rapuit, sed aliam permittitur
+            habere uxorem. Cum enim raptor et rapta penitenciaesubici precipiantur si utriusque
+            copulam auctoritas illapermitteret, frustra circa finem capituli diceretur: „ Quod si
+            unusex coniugatis obierit, et is, qui publicam penitenciam exegerit, superstes
+            extiterit, iterare coniugium non presumat. Eorumnamque quolibet decedente, qui
+            penitenciam exegit superstesremanebit. Non ergo hac auctoritate raptor probatur in
+            coniugium raptam posse accipere. Potius inuenitur in Concilio apudAquasgrani *, quod nec
+            etiam uoluntate parentum possuntadinuicem copulari. Sic enim in prefato concilio legitur
+            *: </p>
+        </div>
+        <div xml:id="gd-p2c36q2-Dd1e244">
+          <head xml:id="gd-p2c36q2-Hd1e246">C. XI</head>
+          <head xml:id="gd-p2c36q2-Hd1e249" type="question-title"> Nec etiam uoluntate parentum ^
+            raptores raptas possunt habere coniuges. </head>
+          <p xml:id="gd-p2c36q2-d1e252"> Placuit, ut hi, qui, rapiunt feminas uel furantur,
+            autseducunt, eas nullatenus habeant uxores, quamuis eispostmodum conueniant, aut eas
+            dotauerint, uel nuptialiter cum consensu parentum suorum acceperint. </p>
+          <p xml:id="gd-p2c36q2-d1e255"> Gratian. Hec auctoritas non preiudicat auctoritati Ieronimi
+            , maxime cum illa testimonio diuinae legis nitatur. Legitime igiturpost peractam
+            penitenciam raptor poterit sibi copulare quamrapuit , nisi pater puellae illam raptori
+            detrahere uoluerit. [PALE A. </p>
+          <p xml:id="gd-p2c36q2-d1e258"> Item Cod. lib. 5. tit. de nuptiis : Nec filium quidem
+            familias inuitum ad ducendam uxorem cogi legum disciplinapermittit. Igitur, sicut
+            desideras, obseruatis iuris preceptis, sociare coniugio tuo quam uolueris, non
+            inpediris; itatamen, ut in contrahendis nuptiis patris tui consensus accedat. Item in
+            eodem, [leg. 20.]: In coniunctione filiarum insacris positarum patris expectetur
+            arbitrium. Item Dig.de rit. nupi. [leg. 2.]: Consistere non possunt nuptiae,
+            nisiconsentiant omnes, id est qui coeunt, quorumque in potestate sunt. Item Instit. lib.
+            1. tit. de nuptiis : Iustas autemnuptias inter se ciues Romani contrahunt, qui
+            secundumprecepta legum coeunt; masculi quidem puberes, feminaeautem uiripotentes, siue
+            patresfamilias sint siue filii-familias, dum tamen filiifamilias consensum
+            habeantparentum, quorum in potestate sunt. Nam hoc fieri debereet ciuilis et naturalis
+            ratio persuadet in tantum, utiussus parentis precedere debeat.] </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

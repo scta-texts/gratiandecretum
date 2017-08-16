@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IX. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IX. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c35q9">
+        <head xml:id="gd-p2c35q9-Hd1e103"> QUESTIO IX. </head>
+
+        <p xml:id="gd-p2c35q9-d1e106"> I. Pars. Unde queritur, si ecclesia fraude testium aut
+          ignorantia eorum decepta aliquos separauerit, qui post separationem alia coniugia
+          contraxerint, si postea deprehensa fueritcalliditas uel falsa opinio testium, an priora
+          coniugia sint redintegranda? Quod fieri non posse argumentis et auctoritate
+          probatur.Sentencia namque, nisi per appellationem infra* terminum legeconstitutum releuata
+          fuerit, irreuocabile robur obtinebit. Hincetiam B. Gregorius scribit, dicens *: </p>
+        <div xml:id="gd-p2c35q9-Dd1e109">
+          <head xml:id="gd-p2c35q9-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c35q9-Hd1e114" type="question-title"> Que rationabiliter decisa sunt
+            mutari non expedit.</head>
+          <p xml:id="gd-p2c35q9-d1e117"> Omnibus modis ecclesiasticae disciplinae uel moderationi
+            conueniens est, ut que rationabiliter ordinata fuerint uel decisa nulla in posterum
+            debeant refragatione turbari. </p>
+        </div>
+        <div xml:id="gd-p2c35q9-Dd1e121">
+          <head xml:id="gd-p2c35q9-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c35q9-Hd1e126" type="question-title"> Que utiliter decisa sunt a
+            successoribus roborentur, a temerariis presumpta resecentur. </head>
+          <p xml:id="gd-p2c35q9-d1e129"> Item Stephanus V. Paulo, Episcopo Placentino *. </p>
+          <p xml:id="gd-p2c35q9-d1e132"> Loci nostri consideratio nos ammonet rationis auctoritate,
+            que a decessoribus nostris utiliter decisa fuerint roborare, et que a temerariis
+            presumpta fuerint in promptu nichilominus ulcisci. Reum quippe ante conspectum
+            diuiniiudicis se nouerit esse qui nititur utiliter finita rescindere,ac roborata
+            quolibet ausu uiolare. Ecclesiastici quippeuigoris ordo confunditur, si aut temere
+            illicita presumantur,aut non concessa inpune temptentur. Proinde si negligenterea, que
+            male usurpantur, omittimus, excessus uiam procul-dubio aliis aperimus. </p>
+
+          <p xml:id="gd-p2c35q9-d1e135"> Gratian. Quia ergo hec sentencia rationabiliter data est,
+            nec per appellationem infra% certum terminum releuata , apparet, quod nequaquam priora
+            coniugia sunt redintegranda. Hisita respondetur: Aliud est sentenciam rescindere et
+            rationabiliterdecisa turbare, atque aliud que per surreptionem eueniunt^ deprehensa
+            corrigere; suum namque errorem cuique corrigere licet,atque ideo que a quolibet illicite
+            conmittuntur, siue a decessori-bus admissa inueniuntur, in melius reuocari oportet.
+            Porroillicite uxor a uiro suo separata est, et illo uiuente alii copulata,cum Dominus
+            solius fornicationis causa uxorem a uiro suo separari iubeat. Sicut ergo, si aliqua,
+            cuius uir putaretur defunctus, alicui copularetur, et qualibet occasione interueniente
+            ab eiusconsortio discederet, quamuis iudicio ecclesiae cogatur redire adeum, quem
+            reliquerat, tamen, si post triennium uirum, quimortuus putabatur, redire contigerit,
+            priora coniugia redintegrabuntur: sic, cum deprehenduntur non fuisse consanguinei
+            quicausa consanguinitatis ab inuicem separati sunt, prioris consortiifedera sunt
+            reparanda. </p>
+          <p xml:id="gd-p2c35q9-d1e139"> II. Pars. §. i. Quod autem que illicite admittuntur, uel
+            admissa inueniuntur, corrigenda sint, uel quod sentencia etiamRomanae sedis in melius
+            conmutari ualeat, auctoritate HilariiPapae, et Nykolai monstratur. </p>
+          <p xml:id="gd-p2c35q9-d1e142"> Ait namque Hilarius Episcopus Urbis Romae Sinodo presidens,
+            [c. 4.]: </p>
+        </div>
+        <div xml:id="gd-p2c35q9-Dd1e146">
+          <head xml:id="gd-p2c35q9-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c35q9-Hd1e151" type="question-title"> Corrigendum est quod illicite
+            admittitur, aut a predecessoribus admissum inuenitur.</head>
+          <p xml:id="gd-p2c35q9-d1e154"> Quod quis conmisit illicite, aut a predecessoribussuis
+            inuenit admissum, si proprium periculum uult uitare,dampnabit. Nos enim in nullo uolumus
+            seueritatem exercere ultionis; sed qui in causis Dei uel contumacia, uelaliquo exessu
+            deliquerit, aut ipse qui perperamfacit abolere noluerit, in se quicquid in alio non
+            rese-cauerit inueniet. Quod ut deinceps tenacius possitcustodiri, si placet, omnes
+            sentencias, et subscriptiones proprias commodate, ut sinodali iudicio aditus claudatur
+            illicitus s. </p>
+        </div>
+        <div xml:id="gd-p2c35q9-Dd1e159">
+          <head xml:id="gd-p2c35q9-Hd1e161">C. IV</head>
+          <head xml:id="gd-p2c35q9-Hd1e164" type="question-title"> Secundum suae condicionis tenorem
+            apostolica ualet mutari sentencia. </head>
+          <p xml:id="gd-p2c35q9-d1e167"> Item Gregorius *. </p>
+          <p xml:id="gd-p2c35q9-d1e170"> Apostolicae sedis sentencia tanta semper consilii
+            moderatione concipitur, tanta pacientiae maturitate decoquitur, tantaque deliberationis
+            grauitate profertur, ut, nec inmutari necessarium ducat, nisi forte sic prolatasit, ut
+            retractari possit, uel inmutanda secundum tenorem premissae condicionis existat. </p>
+        </div>
+        <div xml:id="gd-p2c35q9-Dd1e174">
+          <head xml:id="gd-p2c35q9-Hd1e176">C. V</head>
+          <head xml:id="gd-p2c35q9-Hd1e179" type="question-title"> A predecessoribus dampnatos
+            aliorum supplicationibus in pristinum statum apostolica reformat ecclesia. </head>
+          <p xml:id="gd-p2c35q9-d1e182"> Item Innocentius, [epist. XXII. ad Episcopos Macedoniae. </p>
+          <p xml:id="gd-p2c35q9-d1e185"> Veniam nunc ad Maximum*, quasi ad quoddam thema Fotinum, et
+            (quod michi anxium est ac difficillimum) maiorum meorum reuoluam sentencias. Fuerat de
+            illoquoquo pacto (ut etiam ipsi conmeministis) aliquid utiquegrauius constitutum. Verum,
+            quoniam id per rumoremfalsum, ut asseritis, subreptum huic sedi et elicitum per insidias
+            demonstratur, quia res ad salutem rediit, ueniamhinc tantum uobis annitentibus post
+            condempnationemmore apostolico subrogamus, tantisque uestris assertionibus, uobisque tam
+            bonis, tam karis non dare consensum,omnibus duris rebus durius arbitramur. Pro uestra
+            ergoapprobatione (fratres karissimi), et sentencia, ac postulatione, episcopum Fotinum
+            habetote, (licitum est, constituere ita, ut deprecamini), et nostram in melius
+            conuersamsentenciam, labore uel testimonio uestro conpotem,uobis** suscipite. Eustasium
+            uero a me sepissimeconprobatum nolite expectare, ut diaconii^ gratia expolietur.
+            Sollicitos enim uos pro salute libenter audio:contra», etiam si faciendum est, non
+            libenter admitto.Cui manum porrigitis uobiscum porrigo, cui porrigo mecumporrigite. </p>
+        </div>
+        <div xml:id="gd-p2c35q9-Dd1e189">
+          <head xml:id="gd-p2c35q9-Hd1e191">C. VI</head>
+          <head xml:id="gd-p2c35q9-Hd1e194" type="question-title"> Sentenciam Romanae sedis in
+            melius conmutari potest . </head>
+          <p xml:id="gd-p2c35q9-d1e197"> Item Nykolaus Papa [ad Michaelem Imp. in epist. VII.] </p>
+          <p xml:id="gd-p2c35q9-d1e200"> Sentenciam Romanae sedis non negamus posse in melius
+            conmutari, cum aut surreptum fuerit aliquid, autipsa pro consideratione etatum, et
+            temporum, seu gra-uium necessitatum dispensatorie quiddam ordinare de-creuit, (quoniam
+            et egregium apostolum Paulum quedamfecisse dispensatorie legimus, que postea reprobasse
+            legitur); quod tamen obseruandum est quando illa, Romana uidelicet ecclesia,
+            disertissimas consideratione hocfieri delegerit, non quando ipsa que bene sunt
+            diffinitaretractare uoluerit*. </p>
+          <p xml:id="gd-p2c35q9-d1e203"> C. VII. (VIII.) A predecessoribus depositi a successoribus
+            restituuntur . </p>
+          <p xml:id="gd-p2c35q9-d1e207"> Item ex Libro Pontificali *. </p>
+          <p xml:id="gd-p2c35q9-d1e210"> Gregorius quartus Theodosium, quem Eugenius antecessor eius
+            presbiterii honore priuauerat, ecclesiae Segni-nae consecrauit episcopum. Leontius, dum
+            esset presbiter, depositus fuit; et postea in Antiochia patriarcha fuit. Misenum
+            episcopum a Felice Papa dampnatum Gelasiussuccessor illius et communioni reddidit, et
+            ecclesiaesuae restituit. </p>
+
+          <p xml:id="gd-p2c35q9-d1e213"> C, VIII. (VII.) Cuiusque iudicium apostolicae sedis
+            auctoritas retractare ualet. </p>
+          <p xml:id="gd-p2c35q9-d1e216"> Item Innocentius Episcopis per Macedoniam constitutis,
+            [epist. VII.] </p>
+          <p xml:id="gd-p2c35q9-d1e219"> Graue non oportuit uideri piissimis mentibus
+            uestriscuiuscumque retractare iudicium, quia ueritas sepiusexagitata magis splendescit
+            in lucem, et pernicies reuocata in iudicium grauius et sine penitencia condempnatur.Nam
+            fructus diuinus est iusticiam sepius recenseri. </p>
+          <p xml:id="gd-p2c35q9-d1e222"> [C. IX.] </p>
+          <p xml:id="gd-p2c35q9-d1e226"> Gratian. Sicut ergo sentencia Romanae sedis in melius
+            conmutari ualet, sic cuiuslibet ecclesiae sentencia, cum per sur - reptionem data
+            cognoscitur, rationabiliter reuocari poterit. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

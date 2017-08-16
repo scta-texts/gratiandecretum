@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO V,</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO V,</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c35q5">
+        <head xml:id="gd-p2c35q5-Hd1e103">QUESTIO V,</head>
+
+
+        <p xml:id="gd-p2c35q5-d1e106"> De gradibus uero consanguinitatis , quomodo confutandi sini,
+          &amp;. Ysidorus sic loquitur *: </p>
+        <div xml:id="gd-p2c35q5-Dd1e109">
+          <head xml:id="gd-p2c35q5-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c35q5-Hd1e114" type="question-title"> Quomodo dirimuntur gradus
+            consanguinitatis. </head>
+          <p xml:id="gd-p2c35q5-d1e117"> Series consanguinitatis sex gradibus hoc modo dirimitur:
+            filius et filia, quod est frater et soror, sit ipse truncus; illis seorsum seiunctis ex
+            radice illius trunci egrediuntur istiramusculi: nepos et neptis: primus; pronepos et
+            proneptis: secundus; abnepos et abneptis: tertius; atnepos etatneptis: quartus; trinepos
+            et trineptis: quintus; trinepotis nepos s et trineptis neptis: sextus. </p>
+        </div>
+        <div xml:id="gd-p2c35q5-Dd1e121">
+          <head xml:id="gd-p2c35q5-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c35q5-Hd1e126" type="question-title"> Quomodo sint confutandi gradus
+            consanguinitatis</head>
+          <p xml:id="gd-p2c35q5-d1e129"> Item Alexander II. Neafolitanis clericis et omnibus E fisco
+            fisatque Iudicibus fer Italiam constitutis scribit de huiusmodi itadicens </p>
+          <p xml:id="gd-p2c35q5-d1e132"> Ad sedem apostolicam perlata est questio nouiter exorta de
+            gradibus consanguinitatis, quam quidam legum et canonum inperiti excitantes, eosdem
+            propinquitatis gradus contrasacros canones et morem ecclesiasticum numerare
+            nituntur,nouo et inaudito errore affirmantes, quod germani fratresuel sorores inter se
+            sint in secunda generatione, filii eorumuel filiae in quarta, nepotes uel neptes eorum
+            in sexta.Tali que modo progeniem conputantes, et in huiusmodisexto gradu eam
+            terminantes, dicunt, deinceps uiros acmulieres inter se nuptialia iura posse contrahere.
+            Et adhuiusmodi profanum errorem confirmandum in argumentoassumunt seculares leges, quas
+            Iustinianus inperator pro-mulgauit de successionibus consanguineorum. Quibusconfisi
+            ostendere moliuntur, fratres in secundo gradu essenumeratos, filios eorum in quarto,
+            nepotes et neptes insexto. Sic seriem genealogiae terminantes, numerationemsanctorum
+            Patrum et antiquam ecclesiae conputationem adnos usque perductam peruersa quadam
+            calliditate disturbarenituntur. Nos uero Deo annuente hanc questionem discutere
+            curauimus in Sinodo habita in Lateranensi consistorio,conuocatis ad hoc opus episcopis,
+            et clericis, atque iudicibusdiuersarum prouinciarum. §. i. Denique diu uentilatis
+            legibuset sacris canonibus distincte inuenimus, ob aliam atque aliamcausam alteram fieri
+            legum, alteram canonum conputationem.In legibus siquidem ob nichil aliud ipsa graduum
+            mentiofacta est, nisi ut hereditas uel successio ad alteram ab unapersonam inter
+            consanguineos deferatur. In canonibusuero ob hoc progenies conputatur, ut aperte
+            monstretur,usque ad quotam generationem a consanguineorum sit nuptiis abstinendum. Ibi
+            prescribitur, ut hereditas propinquismodo legitimo conferatur; hic uero, ut rite et
+            canonice interfideles nuptiae celebrentur. In legibus distincte non numerantur gradus,
+            nisi usque ad sextum; in canonibus autemusque ad septimam distinguuntur generationem.
+            Hacigitur de causa, quia hereditates nequeunt deferri nisi deuna ad alteram personam,
+            idcirco curauit secularis inperatorin singulis personis singulos preficere gradus. Quia
+            ueronuptiae sine duabus non ualent fieri personis, ideo sacricanones duas in uno gradu
+            constituere personas. §.2. Utramque tamen conputationem, si attente ac subtiliter
+            perspecta fuerit, idem sensisse, et eandem in eis sentenciam esse, atque ad eundem
+            terminum conueniremanifestissimum erit. Iustinianus namque usque ad quemgradum
+            consanguinitas ipsa perduret, in suis legibus nondiffiniuit. Canones uero ultra septimam
+            nullam numerantgenerationem. Sexto quippe gradu determinato, in ipsislegibus subintulit
+            inperator: „Hactenus ostendisse sufficiat, quemadmodum gradus cognationis numerentur.
+            Namque ex his palam est intelligere, quemadmodum ulteriores gradus s numerare debeamus.
+            Generata quippe personagradum adicit.^ Ecce in his uerbis aperte ostenditur,tales
+            gradus, quales isti conputant, non tantum usque adsextum, uerum etiam ultra numerari
+            debere, quippe cumultra sextum ulteriores gradus numerandos esse decernat.Ubi enim
+            ulteriores nominat gradus, aperte indicat, non sextantummodo esse gradus, sed sex
+            finitis adhuc alios numerandos. Nec mirum, cum in precedentibus ipse
+            firmaueritinperator, decimo etiam gradu, quod dicendo, non essetantummodo sex, luce
+            clarius confitetur. §. 3. Hi ergoeuigilent, et aciem mentis, si possunt, intendant,
+            quoshactenus istiusmodi perculit error. Enimuero, ubi secundum leges inter agnatos uel
+            cognatos defertur successio,consanguineos esse non dubium est. Neque enim
+            sibisuccederent, nisi inter se, teste Iustiniano, in decimogradu sibi attinerent;
+            consanguinei igitur sibi sunt quisic sibi succedunt. Quod si in decimo gradu
+            consanguineisibi existunt, non est terminata consanguinitas (ut isti fatentur) in sexto
+            tantummodo gradu. Quid igitur dicent?Conputatis namque gradibus, sicut isti numerant,
+            aut finitur consanguinitas in sexto gradu, aut non. Si autemfinitur, fallaces erunt
+            leges, quibus isti nituntur, que indecimo gradu sibi succedere consanguineos iubent.
+            Quodsi non finitur consanguinitas in huiusmodi? sexto gradu, falsidici erunt isti, qui
+            ultra illum sextum gradum nolunt conputare consanguinitatem. Igitur aut leges erunt
+            falsae,aut isti, qui sic finiunt generationem. §. 4. Sed, ut ueridicaeleges et ueraces
+            sint canones, dicamus idi, quod ueritashabet, scilicet, quod non terminatur
+            consanguinitas in huiusmodi sexto gradu, et terminatur in septimo secundumcanones gradu.
+            Utraque enim conputatio, sicut superiusdiximus, uno fine concluditur. Namque duo gradus
+            legalesunum gradum canonicum efficiunt. Fratres itaque, quisecundum leges seculares
+            dicuntur in secundo gradu, iuxtacanones numerantur in primo. Filii fratrum, qui
+            illicnumerantur in quarto, hic conputantur in secundo; nepotesuero, qui ibi in sexto,
+            istic numerantur in tertio; sicdeinceps, qui legibus scribuntur in octauo et decimo,in
+            canonibus diffiniuntur in quarto et quinto. Atque hocmodo de reliquis sciendum est, ut
+            qui secundum canonesdicuntur in sexto uel in septimo, secundum leges accipiantur in
+            duodecimo uel in quartodecimo. §. 5. Hancconputationem intelligens prudentissimus Papa
+            Gregorius,dum quereretur, in quota generatione fideles coniungi debeant, ipsas seculares
+            leges in testimonium adducens, Augustino Anglorum episcopo sic rescripsit: ,,Quedam
+            terrena lex in Romana republica permittit, ut siue fratris etsororis, seu duorum fratrum
+            germanorum, uel duarumsororum filius et filia misceantur. Sed experimento didicimus, ex
+            tali coniugio sobolem non posse succrescere.Unde necesse est, ut iam in tertia uely
+            quarta generatione copulatio fidelium licenter sibi coniungi debeat.Nam a secunda, quam
+            prediximus, omnimodo debetabstinere.“ Ecce hic aperte monstratur, filios et
+            filiasfratrum in secunda generatione numerari. Et si fratrumfilii uel filiae numerantur
+            in secunda, fieri non potest, utipsi fratres non sint in prima. Quod si fratres
+            conputanturin prima, filii eorum in secunda, dubium non est, quin eorumnepotes sint in
+            tertia, pronepotes in quarta, et sic de reliquisusque ad septimam. §. 6. Sed sunt
+            quidam, qui ex hissancti Gregorii uerbis, quibus ait, ut in tertia uelin quarta
+            generatione copulentur fideles, occasionemaccipiunt illicita matrimonia contrahendi,
+            dicentes, se hociuste facere posse, quod tam prudentissimus doctorsua sentencia
+            diffiniuit. Isti itaque, qui se hoc uelamentodefendere nituntur, aduertant in eiusdem
+            Patris sentenciis,non hoc generaliter cunctis, sed specialiter Anglorum gentimandasse.
+            Nam postmodum a Felice Messanae Siciliaepresule requisitus, si hoc, quod Augustino
+            mandauerat,generaliter cunctae ecclesiae tenendum esset, apertissimemonstrauit, non
+            aliis hoc, quam illi genti mandasse, nebonum, quod ceperant, metuendo austeriora
+            desererent;sedsg illis, postquam in fide essent firma radice solidati,et uniuersali
+            ecclesiae censuit semper esse tenendum, utnullam de propria consanguinitate uel
+            affinitate infraseptimam generationem aliquis sibi audeat coniugio copulare. §. 7. Ecce
+            aperte monstratum est et ex uerbis ipsiuslegis et auctoritate prudentissimi Papae
+            Gregorii, quid degradibus consanguinitatis numerandis sentire debeamus.Quamuis alia
+            quoque ratio pari modo ipsos reuincat aduersarios. Nam si, ut ipsi fatentur, in illo
+            sexto graduconsanguinitas finiretur, omnes personarum ramusculos, quiultra gradum illum
+            in pictura arboris continentur, uelutsuperfluos oporteret detruncari. Sed quia omnes,
+            qui inpictura arboris predictae numerantur, ex una parentelaconsistunt, numquam sine
+            diminutione consanguinitatis a sepoterunt separari, ueluti non sine dampno cuiusque
+            personaeualent a proprio corpore manus, brachia et pedes truncari.§. 8. Illa quoque
+            sacrorum preceptio canonum, que iubet apropria abstineri consanguinitate, quamdiu
+            generatio recordatur aut in memoria retinetur, nec a predictaparentelae discrepat
+            conputatione. Nam si in septemgradibus, canonice et usualiter numeretur ultra quosnec
+            consanguinitas inuenitur, nec nomina graduum reperiun-tur, nec successio potest amplius
+            prerogari, nec memoriter ab aliquo generatio recordari. §. 9. Ne uero in
+            haq-consanguinitatis conputatione aliqua dehinc ambiguitasualeat remanere, aliam, quam
+            quidam faciunt, numerationemin hac etiam disputatione duximus discutiendam.Sunt enim
+            quidam, qui non a fratribus, sed a filiis eorum, idest patruelibus uel consobrinis,
+            genealogiam numerare incipiunt, dicentes, filios fratrum in prima generatione con-putari
+            debere, quia fratres quasi quidam truncus, ex quoceteri ramusculi oriantur, existunt.
+            Sed nec ista graduum conputatio, si bene intellecta fuerit, ab ea, quamsuperius
+            exposuimus, in sentencia poterit esse diuersa. Istienim, qui numerandi inicium sumunt a
+            filiis fratrum, nonprogrediuntur ultra sextam generationem; sed sicuttotius mundi sex
+            etates existunt, et humanae uitae itidemsex, ita et in consanguinitate sex tantummodo
+            autumantconputandas esse generationes, quibus finitis nouae con-iunctionis dicunt posse
+            fieri inicium, ut quasi fugientempossint reuocare consanguinitatem. §. 10. Hec itaque
+            conputatio, que incipit a fratrum filiis, et numeratur usquead sextam, tantumdem ualet,
+            quantumpp, que incipita fratribus, et conputat usque ad septimam. Nec ulla insensu
+            consistit^ diuersitas, quamuis in numero graduumuideatur uarietas. Ultima enim
+            generatio, si a fratribussumat inicium numerandi, septima inuenitur; si a filiisfratrum,
+            sexta repperitur. Taliter igitur determinatis gradibus consanguinitatis, apostolica
+            auctoritate monemus uos,fratres et filii, ut omnibus sic seriem genealogiae conpu-tandam
+            esse intimetis, quemadmodum sancti Patres numerandam esse sanxerunt, et antiquus mos
+            sanctae etuniuersalis ecclesiae per longa tempora olim conputassemonstratur. Nam, si
+            quis peruersa et obstinata mente arecto tramite apostolicae sedis deuiare uoluerit, et
+            aliter,quam nos, in nuptiis celebrandis gradus parentelae numerarecontenderit, primum
+            pro sua temeritate celesti penaplectetur, postmodum uero gladio perpetui
+            anathematisnouerit se iugulandum. </p>
+        </div>
+        <div xml:id="gd-p2c35q5-Dd1e136">
+          <head xml:id="gd-p2c35q5-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c35q5-Hd1e141" type="question-title"> Quare consanguinei uxoris ad
+            uirum pertinere dicantur , et quomodo affinitates sint conputandae. </head>
+          <p xml:id="gd-p2c35q5-d1e144"> Item Gregorius *. </p>
+          <p xml:id="gd-p2c35q5-d1e147"> Porro autem de affinitate, quam dicitis parente- Iam esse,
+            que ad uirum ex parte uxoris, seu que ex parte uiri ad uxorem pertinet, manifestissima
+            ratio est, quia, sisecundum diuinam sentenciam ego et uxor mea sumus unacaro, profecto
+            michi et illi mea suaque parentela propinquitas una efficitur. Quocirca ego et soror
+            uxoris meae inuno et primo gradu erimus, filius uero eius secundogradu erit a me, neptis
+            uero tertio; idque utrinque inceteris agendum est successionibus. §. i. Uxorem
+            ueropropinqui, cuiuscumque gradus sit, ita oportet meattendere, quemadmodum ipsius
+            quoque gradus aliquafemina propriae propinquitatis sit. Quod nimirum uxorimeae s de
+            propinquitate sui uiri in cunctis cognationisgradibus conuenit obseruari. Qui uero
+            aliorsum sentiuntantichristi sunt, a quibus tanto uos sollicitius oportetcauere, quanto
+            apertius deprehenditis illos diuinis legibusoppugnare. </p>
+        </div>
+        <div xml:id="gd-p2c35q5-Dd1e152">
+          <head xml:id="gd-p2c35q5-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c35q5-Hd1e157" type="question-title"> Qualiter gradus parentelae
+            conputantur.</head>
+          <p xml:id="gd-p2c35q5-d1e160"> Item Zacharias Papa. </p>
+          <p xml:id="gd-p2c35q5-d1e163"> Parentelae gradus taliter conputamus: Siquidem ego et
+            frater meus una generatio sumus, primumque gradumefficimus, nullo gradu distamus. Rursum
+            filius meusfratrisque mei filius secunda generatio sunt, ac secundumgradum faciunt, nec
+            a se aliquo gradu separantur. Atquead hunc modum ceterae successiones. Porro
+            deaffinitate, quam dicitis parentelam etc. ut supra cap.Gregorii. </p>
+        </div>
+        <div xml:id="gd-p2c35q5-Dd1e167">
+          <head xml:id="gd-p2c35q5-Hd1e169">C. V</head>
+          <head xml:id="gd-p2c35q5-Hd1e172" type="question-title"> Equiuocatio est, cum soror uxoris
+            cognata uocatur.</head>
+          <p xml:id="gd-p2c35q5-d1e175"> Item Alexander Papa//.* </p>
+          <p xml:id="gd-p2c35q5-d1e178"> Quod autem frater sororue uxoris tuae dicuntur cognati ,
+            equiuocationis iure fit, et necessitate uulgaris appellationis potius quam ulla causa
+            cognationis. Uxorenim fratris fratrissa pocius quam cognata uocatur. Maritifrater leuir
+            dicitur. Duorum autem fratrum uxores ianitri-ces** uocantur, quasi eandem ianuam
+            terentes, uel pereandem ianuam intrantes. Viri soror glos appellatur.Sororis autem uir
+            non habet speciale nomen, nec frateruxoris. </p>
+        </div>
+        <div xml:id="gd-p2c35q5-Dd1e182">
+          <head xml:id="gd-p2c35q5-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c35q5-Hd1e187" type="question-title"> Nomina graduum superiorum, siue
+            inferiorum, siue ex latere uenientium.</head>
+          <p xml:id="gd-p2c35q5-d1e190"> Item Ysidorus *. </p>
+
+          <p xml:id="gd-p2c35q5-d1e193"> Primo gradu superiori linea continentur pater etmater:
+            inferiori filius et filia; quibus nullae aliae personae iunguntur. §. i. Secundo gradu
+            continentur superiori linea auus, auia; inferiori neptis; in transuersafrater, soror;
+            que personae duplicantur. Auus enim etauia tam ex patre quam ex matre accipiuntur. Que
+            personae sequentibus quoque gradibus similiter pro substantia eorum, que in quo gradu
+            consistunt, ipsoordine duplicantur. (Istae personae in secundo graduideo duplices
+            appellantur, quia duo aui sunt, et paternuset maternus. Item duo sunt genera nepotum,
+            siue ex filiosiue ex filia procreati. Frater et soror ex transuersosueniunt, id est, aut
+            frater** patris, aut frater matris, quiaut patruus, aut auunculus nominatur; qui et ipsi
+            hocordine duplicantur.) §. 2. Tertio gradu ueniunt supra pro-auus, proauia; infra
+            pronepos, proneptis. Ex obliquofratris sororisque filius uel filia, patruus, amita, id
+            estpatris frater et soror, aunculus, matertera, id est matrisfrater et soror. §. 3.
+            Quarto gradu ueniunt supra abauus,abauia; infra abnepos, abneptis. Ex obliquo fratris
+            etsororis nepos, neptis, patruelis frater, soror patruelis, idest patrui filius uel
+            filia; consobrinus, consobrina, id estauunculi et materterae filius uel filia; amitinus,
+            amitina,id est amitae filius uel filia; itemque consobrini, quiex duabus sororibus
+            nascuntur; quibus accrescit patruusmagnus, amita magna, id est aui paterni frater et
+            soror,auunculus magnus, matertera magna, id est auiae tampaternae quam maternae frater
+            et soror. §. 4. Quinto gradu,ueniunt, supra quidem atauus, atauia, infra atnepos
+            atne-ptis. Ex obliquo fratris et sororis pronepos, proneptis,fratris patruelis, sororis
+            patruelis, amitini, amitinae, consobrini, consobrinae filius uel filia, propius
+            sobrinus, proprius P sobrina % id est patrui magni,amitae magnae, auunculi magni,
+            materterae magnae filiusuel filia; quibus accrescunt propatruus et proamita. Hii sunt
+            proaui paterni frater et soror, proauun-culus, promatertera. Hii sunt proauiae paternae,
+            maternae-que frater, et soror, proauique materni. (Hec species necaliis gradibus, quam
+            scripta est, nec aliis declarari uocabulispotest.) §. 5. Sexto gradu ueniunt supra
+            tritauus tritauia;infra trinepos, trineptis. Ex obliquo fratris et sororis abnepos,
+            abneptis, fratris patruelis et sororis patruelis amitini, amitinae, consobrini,
+            consobrinae,patrui magni, amitae magnae, auunculi magni, materteraemagnae nepos, neptis,
+            propioris consobrini filiusuel 7 filia, abpatruus, abamita. Hi sunt abauipaterni frater
+            et soror; abauunculus, abmatertera. Hi suntabauiae paternae maternaeque frater et soror,
+            abauiquematerni. (Hec quoque explanari amplius non possunt,quam ipse auctor disseruit.)
+            §. 6. Septimo gradu quisunt cognati recta linea supra infraque propriis nominibusnon
+            appellantur; sed ex transuersa linea continentur fratris sororis atnepos, atneptis,
+            consobrini filii filiaeque. §. 7. Successionis idcirco gradus sex constituti sunt,
+            quiaulterius per rerum naturam nec nomina inueniri, necultra successio potest prorogari.
+            (In hissex ss gradibus omnium propinquitatum omnia nominacontinentur, ultra quos nec
+            affinitas inueniri, nec successio potest amplius propagari.) </p>
+          <p xml:id="gd-p2c35q5-d1e196"> Gratian. De gradibus consanguinitatis uel affinitatis ,
+            quot sint , eC quomodo conputandi, quibus etiam nominibus appellentur , auctoritate b .
+            Ysidor i, atque Gregorii , et Alexandrisufficienter monstratum est . </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

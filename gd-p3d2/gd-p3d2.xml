@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p3d2">
+        <head xml:id="gd-p3d2-Hd1e103">DISTINCTIO II.</head>
+        <div xml:id="gd-p3d2-Dd1e106">
+          <head xml:id="gd-p3d2-Hd1e108">C. I</head>
+          <head xml:id="gd-p3d2-Hd1e111" type="question-title"> Panis , et uinum , et aqua in
+            sacramentis sunt offerenda. </head>
+          <p xml:id="gd-p3d2-d1e114"> Alexander*, Urbis Romae Episcopus , omnibus orthodoxis ,
+            [epist. I. c. 4.]* </p>
+          <p xml:id="gd-p3d2-d1e117"> I. Pars. In sacramentorum oblationibus, que intermissarum
+            solempnia Domino offeruntur, panis tantumet uinum aqua permixtum in sacrificium
+            offerantur. Nonenim debet in calice Domini aut uinum solum, aut aquasola offerri, sed
+            utrumque permixtum, quia utrumque exlatere eius in passione sua profluxisse legitur.
+          </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e121">
+          <head xml:id="gd-p3d2-Hd1e123">C. II</head>
+          <head xml:id="gd-p3d2-Hd1e126" type="question-title"> Vinum sine aqua , uel e conuerso in
+            sacramentis offerri non licet. </head>
+          <p xml:id="gd-p3d2-d1e129"> Item Ciprianus [lib. II. epist. 2.] Cecilio fratri salutem. </p>
+          <p xml:id="gd-p3d2-d1e132"> Sic in sanctificando calicem Domini offerri sola aqua non
+            potest, quomodo nec uinum solum potest. Namsi uinum tantum quis offerat, sanguis Christi
+            incipit essesine Christo*. Quando enim utrumque miscetur, et adu-natione confusa sibi
+            inuicem copulantur, tunc sacramentum spirituale et celeste efficitur. Sic uero calix
+            Domini non est aqua sola, et uinum solum, nisi utrumque misceatur, quomodo nec corpus
+            Domini potest esse farina solas, nisi utrumque adunatum fuerit et copulatum, et panis
+            unius conpage solidatum. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e136">
+          <head xml:id="gd-p3d2-Hd1e138">C. III</head>
+          <head xml:id="gd-p3d2-Hd1e141" type="question-title"> Idem de eodem . </head>
+          <p xml:id="gd-p3d2-d1e144"> Scriptura dicit: ut quotiescumque calicem in conmemorationem
+            Domini et passionis eius offerimus, idquod constat Dominum fecisse, faciamus. Sed uide,
+            fraterkarissime, si quis de antecessoribus nostris uel ignoranteruel simpliciter non hoc
+            obseruauit et tenuit, quod nosDominus facere exemplo et magisterio docuit,
+            potestsimplicitati eius de indulgentia Domini uenia concedi;nobis uero non potest s
+            ignosci, qui nunc a Domino am-moniti et instructi sumus, ut calicem Domini cum
+            uinomixtum, secundum quod Dominus obtulit, offeramus. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e148">
+          <head xml:id="gd-p3d2-Hd1e150">C. IV</head>
+          <head xml:id="gd-p3d2-Hd1e153" type="question-title"> Preter uinum et aquam et panem in
+            sacramento nichil debet offerri. </head>
+          <p xml:id="gd-p3d2-d1e156"> Item ex Concilio Martini Papae , [c. 45.] </p>
+          <p xml:id="gd-p3d2-d1e159"> Non oportet aliquid aliud in sanctuario offerri preter uinum
+            et aquam, que in tipo Christi benedicuntur, quia,dum in cruce penderet, de corpore eius
+            effluxit sanguis et,aqua. Hec tria unum sunt in Christo Iesu; hec hostia etoblatio Dei
+            in odorem suauitatis. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e164">
+          <head xml:id="gd-p3d2-Hd1e166">C. V</head>
+          <head xml:id="gd-p3d2-Hd1e169" type="question-title"> De eodem</head>
+          <p xml:id="gd-p3d2-d1e172"> Item ex Concilio Cartaginensi III., [c. 24.]In sacramento
+            corporis et sanguinis Domini nichil amplius offeratur, quam quod ipse Dominus tradidit,
+            hocest panis et uinum aqua mixtum. §. i. Nec ampliusin sacrificiis offeratur, quam de
+            uuis et frumentis. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e176">
+          <head xml:id="gd-p3d2-Hd1e178">C. VI</head>
+          <head xml:id="gd-p3d2-Hd1e181" type="question-title"> Oblationis^ sacrificio uuas nemo
+            coniungat.</head>
+          <p xml:id="gd-p3d2-d1e184"> Item ex VI. Sinodo , [c. 28.] * </p>
+          <p xml:id="gd-p3d2-d1e187"> Didicimus, quod in quibusdam ecclesiis sacerdotes sacrificio
+            oblationis coniungant uuas, que secundum usum inaltario offeruntur, et sic simul utraque
+            populo dispensent.Precipimus igitur, ut nullus sacerdos hoc ulterius faciat, sedin
+            remissionem peccatorum populo oblationem solam distribuat, et uuas seorsum benedictas
+            populus, pui petierit, accipiat, et fructuum** gratias agat. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e191">
+          <head xml:id="gd-p3d2-Hd1e193">C. VII</head>
+          <head xml:id="gd-p3d2-Hd1e196" type="question-title"> De his, qui sacrificando uarie
+            errabant.</head>
+          <p xml:id="gd-p3d2-d1e199"> Iulius Papa Episcopis per Egiptum *. </p>
+          <p xml:id="gd-p3d2-d1e202"> Cum omne crimen atque peccatum oblatis Deo sacrificiis
+            deleatur, quid de cetero pro delictorum expiatione Domino dabitur, quando in ipsa
+            sacrificii, oblatione erratur? Audiuimus enim, quosdam scismatica ambitione detentos
+            contra diuinos ordines et apostolicas institutiones lacpro uino in diuinis sacrificiis
+            dedicare; alios quoque intinctam eucharistiam populis pro conplemento
+            communionisporrigere; quosdam etiam expressum uinum** in sacramento dominici calicis
+            offerre, alios uero pannum*** lineummusto intinctum per totum annum reseruare, et in
+            temporesacrificii aqua partem eius lauare, et sic offerre. Quodquam sit euangelicae
+            atque apostolicae doctrinae contrarium, et consuetudini ecclesiasticae aduersum, non
+            difficile ab ipso fonte ueritatis probabitur, a quo ordinata ipsasacramentorum misteria
+            processerunt. Cum enim magisterueritatis uerum salutis nostrae sacrificium suis
+            conmendaretdiscipulis, nulli lac, sed panem tantum et calicem sub hocsacramento
+            cognoscimus dedisse. Legitur enim ineuangelica ueritate: „ Accepit Iesus panem et
+            calicem, etbenedicens dedit discipulis suis.“ Cesset ergo lac sacrificando offerri, quia
+            manifestum et euidens exemplumeuangelicae ueritatis illuxit, quod preter panem et
+            uinumaliud offerri non liceat. §. 1. Illud uero, quod proconplemento conmunionis
+            intinctam tradunt eucharistiampopulis, nec hoc prolatum ex euangelio testimonium
+            receperunt^ ubi Apostolis corpus suum et sanguinem con-mendauit. Seorsum enim panis, et
+            seorsum calicis conmen-datio memoratur. Nam intinctum panem aliis Christumprebuisse non
+            legimus, excepto illo tantum discipulo, quemintincta buccella magistri proditorem
+            ostenderet, nonque sacramenti huius institutionem signaret. Nam quodde expresso botro,
+            id est de uuarum granis, populus communicat s, ualde est omnino confusum; sed si
+            necessefuerit, botrus in calice conprimatur, et aqua misceatur,quia calix dominicus
+            iuxta canonum f preceptum uinoet aqua permixtus debet offerri, quia uidemus in aqua
+            populum intelligi, in uino uero ostendi sanguinem Christi. Ergo,cum in calice uino aqua
+            miscetur, Christo populusadunatur, et credentium plebs ei, in quem credit, copulatur et
+            iungitur. Que copulatio et coniunctio aquae et uini sicmiscetur in calice Domini, ut
+            illa mixtio non possit separari. Nam si uinum tantum quis offerat, sanguis
+            Christiincipit esse sine nobis. Si uero aqua sit sola, plebs incipitesse sine Christo.
+            Ergo, quando botrus solus offertur, inquo uini efficientia tantum designatur, salutis
+            nostrae sacramentum negligitur, quod aqua significatur. Non enimpotest calix Domini esse
+            aqua sola, aut uinum solum, nisiutrumque misceatur. §. 2. Et ideo, quia ex hoc iam
+            plurima et multiplex maiorum manauit" sentencia f+, deinceps omnis talis error atque
+            presumptio cessaredebet, ne peruersorum inordinata conpago statum ueritatiseneruet. Et
+            ideo nulli deinceps licitum erit aliud indiuinis sacrificiis offerre, nisi iuxta
+            antiquorum sentenciam conciliorum panem tantum et calicem uino etaqua permixtum. De
+            cetero aliter quam preceptum estfaciens tamdiu a sacrificando cessabit, quamdiu legitima
+            penitenciae satisfactione correptus ad gradus suioffitium redeat, quod amisit. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e206">
+          <head xml:id="gd-p3d2-Hd1e208">C. VIII</head>
+          <head xml:id="gd-p3d2-Hd1e211" type="question-title"> Nulla oblatio corpori et sanguini
+            Christi conparari ualet.</head>
+          <p xml:id="gd-p3d2-d1e214"> Item Alexander Papa V. a Petro, [epist. I.] </p>
+          <p xml:id="gd-p3d2-d1e217"> II. Pars. Nichil in sacrificiis maius esse potest,quam corpus
+            et sanguis Christi, nec ulla oblatio hacpotior est, sed hec omnes precellit, que pura
+            conscientiaDomino offerenda est, et pura mente sumenda, atqueab omnibus ueneranda, et
+            sicut potior est ceteris, itapotius excoli et uenerari debet. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e221">
+          <head xml:id="gd-p3d2-Hd1e223">C. IX</head>
+          <head xml:id="gd-p3d2-Hd1e226" type="question-title"> Ante confecta misteria pacem non
+            debemus offerre. </head>
+          <p xml:id="gd-p3d2-d1e229"> Item Innocentius Papa Decentio, Eugubino Episcopo, salutem,
+            [epist. I. c. i.] </p>
+          <p xml:id="gd-p3d2-d1e232"> III. Pars. Pacem igitur asseris ante confecta misteriaquosdam
+            populis inperare, uel sibi sacerdotes inter setradere, cum post omnia (que aperire non
+            debeo) pax sitnecessario indicenda, per quam constet populum ad omnia,que in misteriis
+            aguntur atque in ecclesia celebrantur,prebuisse consensum, ac finita esse pacis
+            concludentis signaculo demonstrentur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e236">
+          <head xml:id="gd-p3d2-Hd1e238">C. X</head>
+          <head xml:id="gd-p3d2-Hd1e241" type="question-title"> Ecclesiasticis liminibus careat
+            minister, qui post consecrationem conmunicare contempnit. </head>
+          <p xml:id="gd-p3d2-d1e244"> Item Anacletus Papa [epist. I.]** </p>
+          <p xml:id="gd-p3d2-d1e247"> Peracta consecratione omnes communicent, qui noluerint
+            ecclesiasticis carere liminibus. Sic enim et Apostoli statuerunt, et sancta Romana tenet
+            ecclesia. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e252">
+          <head xml:id="gd-p3d2-Hd1e254">C. XI</head>
+          <head xml:id="gd-p3d2-Hd1e257" type="question-title"> Quisque sacerdos, quociens missam
+            celebrat , tociens sacram communionem percipiat. </head>
+          <p xml:id="gd-p3d2-d1e260"> Item ex Concilio Tolletano XII., [c. 5.] </p>
+          <p xml:id="gd-p3d2-d1e263"> IV. Pars. Relatum est nobis, quosdam de sacerdo tibus non tot
+            uicibus communionis sanctae gratiam sumere, quot sacrificia in uno die uidentur offerre;
+            sed si in uno dieplurima deo offerant sacrificia, in omnibus se oblationibus a
+            communione suspendunt, et in sola tantumextremi sacrificii oblatione communionis sanctae
+            gratiamsumunt, quasi non sit tociens illi uero et singularisacrificio participandum,
+            quociens corporis et sanguinis Domini nostri Iesu Christi inmolatio facta
+            constiterit.Nam ecce Apostolus dicit: „Nonne qui edunt hostiasparticipes sunt altaris ?“
+            Certum est, quod hi, qui sacrificantes non edunt, rei sunt dominici sacramenti.
+            Quicumque ergo sacerdotum deinceps diuino altario sacrificiumoblaturus accesserit, et se
+            a communione suspenderit, abipsa, qua se indecenter priuauit, gratia communionis announo
+            repulsum se nouerit. Nam quale erit sacrificium,cui nec ipse sacrificans particeps esse
+            dinosciturs?Ergo modis omnibus tenendum est, ut, quotienscumquesacrificans corpus et
+            sanguinem Iesu Christi Domini nostriin altario inmolat, tociens perceptionis corporis et
+            sanguinis Christi participem se prebeat. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e267">
+          <head xml:id="gd-p3d2-Hd1e269">C. XII</head>
+          <head xml:id="gd-p3d2-Hd1e272" type="question-title"> Corpus Christi sine eius sanguine
+            sacerdos non debet accipere . </head>
+          <p xml:id="gd-p3d2-d1e275"> Item Gelasius Papa Maiorico et Iohanni Episcopis *. Conperimus
+            autem, quod quidam sumpta tantummodo sacri corporis portione a calice sacraticruoris
+            abstineant. Qui proculdubio (quoniam nescio quasuperstitione docentur astringi) aut
+            integra ^aeramentapercipiant, aut ab integris arceantur, quia diuisio uniuseiusdemque
+            misterii sine grandi sacrilegio non potestprouenire. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e279">
+          <head xml:id="gd-p3d2-Hd1e281">C. XIII</head>
+          <head xml:id="gd-p3d2-Hd1e284" type="question-title"> Eucharistiae communionem qui
+            cottidie accipit, nec reprehenditur, nec laudatur . </head>
+          <p xml:id="gd-p3d2-d1e287"> Item Augustinus [de ecclesiasticis dogmatibus, c. 53.J* </p>
+          <p xml:id="gd-p3d2-d1e290"> V. Pars. Cottidie eucharistiae communionem accipere nec laudo,
+            nec uitupero, omnibus tamen dominicis diebus communicandum hortor; si tamen mensin
+            affectu peccandi est. Grauari magis dicoeucharistiae perceptione, quam purificari. Et
+            ideo, quamuisquis peccato mordeatur, peccandi tamen de cetero nonhabeat uoluntatem, et
+            communicaturus satisfaciat lacrimis et orationibus, et confidens de Domini miseratione* </p>
+
+
+
+          <p xml:id="gd-p3d2-d1e293"> accedat s ad eucharistiam intrepidus et securus. Sed hoc de
+            illo dico, quem mortalia peccata non grauant. Idem [epist. 118. c. 3.]: §. 1. Dixerit
+            quispiam, noncottidie accipiendam eucharistiam, alius affirmat cottidie:faciat
+            unusquisque quod secundum fidem suam pie creditesse faciendum. Neque enim litigauerunt
+            inter se, autquisquam eorum alteri se preposuit, Zacheus et illecenturio, cum alter
+            eorum gaudens in domo sua susceperit Dominum, alter dixerit: „ Domine non sumdignus ut
+            intres sub tectum meum.“ Ambo Saluatoremhonorificantes quamuisP non uno modo, ambo
+            peccatismiseri, ambo misericordiam consecuti. Ad hoc ualet**quod manna secundum propriam
+            uoluntatem in ore cuiusque sapiebat. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e297">
+          <head xml:id="gd-p3d2-Hd1e299">C. XIV</head>
+          <head xml:id="gd-p3d2-Hd1e302" type="question-title"> Qui semper peccat celestis
+            sacramenti medicinam semper accipiat.</head>
+          <p xml:id="gd-p3d2-d1e305"> Item Ambrosius [lib. IV. de sacramentis, c. ult.] </p>
+          <p xml:id="gd-p3d2-d1e308"> Si, quocienscumque effunditur sanguis Christi, in remissionem
+            peccatorum effunditur, debeo semperaccipere. Qui semper pecco, debeo semper
+            haberemedicinam. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e312">
+          <head xml:id="gd-p3d2-Hd1e314">C. XV</head>
+          <head xml:id="gd-p3d2-Hd1e317" type="question-title"> Non abstineat a corpore Domini, nisi
+            qui excommunicari meretur. </head>
+          <p xml:id="gd-p3d2-d1e320"> Item Hylarius Episcopus *. </p>
+          <p xml:id="gd-p3d2-d1e323"> Si non sunt tanta peccata, ut excommunicetur quis, non se
+            debet a medicina corporis Domini separare. </p>
+          <p xml:id="gd-p3d2-d1e326"> Item Fabianus Papa ait *: </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e330">
+          <head xml:id="gd-p3d2-Hd1e332">C. XVI</head>
+          <head xml:id="gd-p3d2-Hd1e335" type="question-title"> Ter in anno quisque fidelium
+            communicet.</head>
+          <p xml:id="gd-p3d2-d1e338"> Etsi non frequentius, saltim ter in anno communicent homines,
+            nisi forte quis maioribus criminibus quibuslibet inpediatur; in Pasca uidelicet, et
+            Pentecosten», et Natale Domini. </p>
+          <p xml:id="gd-p3d2-d1e341"> Item Sotlier Papa: </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e346">
+          <head xml:id="gd-p3d2-Hd1e348">C. XVII</head>
+          <head xml:id="gd-p3d2-Hd1e351" type="question-title"> Etiam in cena Domini sacram
+            communionem debemus accipere.</head>
+          <p xml:id="gd-p3d2-d1e354"> In cena Domini perceptio eucharistiae a quibusdam ne-gligitur,
+            que quoniam in eadem die ab omnibus fidelibus (exceptis his, quibus pro grauibus
+            criminibus inhibitumest) percipienda sit, ecclesiasticus usus demonstrat, cumetiam
+            penitentes eadem die ad percipienda corporis et sanguinis dominici sacramenta
+            reconcilientur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e358">
+          <head xml:id="gd-p3d2-Hd1e360">C. XVIII</head>
+          <head xml:id="gd-p3d2-Hd1e363" type="question-title"> Proiciaiur ab ecclesia qui a
+            communione sacramenti se pro luxuria auertit . </head>
+          <p xml:id="gd-p3d2-d1e366"> Item ex Concilio Martini Papae , c. 83. </p>
+          <p xml:id="gd-p3d2-d1e369"> Si quis intrat in ecclesiam Dei, et sacras scripturas audit,
+            et pro luxuria sua auertit se a communione sacramenti, et in obseruandis misteriis
+            declinat constitutamregulam disciplinae, istum talem proiciendum esse deecclesia
+            catholica decernimus, donec penitenciam agat, etostendat fructum penitenciae suae, ut
+            possit communionepercepta* indulgentiam promereri. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e373">
+          <head xml:id="gd-p3d2-Hd1e375">C. XIX</head>
+          <head xml:id="gd-p3d2-Hd1e378" type="question-title"> Non habeantur catholici qui his*
+            tribus temporibus communicare despiciunt . </head>
+          <p xml:id="gd-p3d2-d1e381"> Item ex Concilio Agat en si , [c. 18.] </p>
+          <p xml:id="gd-p3d2-d1e384"> Seculares,qui in Natale Domini,Pasca, Pentecosten non
+            communicauerint, catholici non credantur, nec inter catholicos habeantur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e388">
+          <head xml:id="gd-p3d2-Hd1e390">C. XX</head>
+          <head xml:id="gd-p3d2-Hd1e393" type="question-title"> Corripiantur qui in ecclesia
+            communicare contempnunt. </head>
+          <p xml:id="gd-p3d2-d1e396"> Ex Concilio Tollet ano [I., c. 13.] </p>
+          <p xml:id="gd-p3d2-d1e399"> Hii, qui intrant ecclesiam, et deprehenduntur numquam
+            communicare, ammoneantur. Ut si non communicant, ad penitenciam accedant. Si
+            communicant, nonsemper abstineant*; si non fecerint, abstineant. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e403">
+          <head xml:id="gd-p3d2-Hd1e405">C. XXI</head>
+          <head xml:id="gd-p3d2-Hd1e408" type="question-title"> Ante sanctam communionem a propria
+            uxore quisque contineat . </head>
+          <p xml:id="gd-p3d2-d1e411"> Item ex Concilio Elibertano . </p>
+          <p xml:id="gd-p3d2-d1e414"> Omnis homo ante sacram communionem a propria uxore abstinere
+            debet tribus, aut quatuor, aut septemdiebus, nec inter* catholicos connumerabitur qui
+            inistis uidelicet temporibus, Pasca, Pentecosten, NataleDomini non communicauerit. </p>
+          <p xml:id="gd-p3d2-d1e417"> Item Sergius Papa : </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e421">
+          <head xml:id="gd-p3d2-Hd1e423">C. XXII</head>
+          <head xml:id="gd-p3d2-Hd1e426" type="question-title"> Quare tres partes fiant ex corpore
+            Christi. </head>
+          <p xml:id="gd-p3d2-d1e429"> VI. Pars. Triforme est corpus Domini. Pars oblatae*, in
+            calicem missa, corpus Christi, quod iam resurrexit, monstrat. Pars comesta, ambulans
+            adhuc superterram. Pars in altari usque ad finem missae remanens,corpus in sepulchro,
+            quia usque in finem seculi corpora sanctorum in sepulchris erunt. </p>
+          <p xml:id="gd-p3d2-d1e432"> Clemens [epist. II.]: </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e437">
+          <head xml:id="gd-p3d2-Hd1e439">C. XXIII</head>
+          <head xml:id="gd-p3d2-Hd1e442" type="question-title"> A quibus sunt contrectanda
+            sacramenta dominica.</head>
+          <p xml:id="gd-p3d2-d1e445"> VII. Pars. Tribus gradibus conmissa sunt sacramentadiuinorum
+            secretorum, id est presbitero, diacono, et ministro, qui cum tremore et timore
+            clericorum reliquias corporis domini custodire debent fragmentorum. Idem :f. i. Tanta in
+            altario certe holocausta offerantur, quantapopulo sufficere debeant. Quod si
+            remanserint, incrastinum non reseruentur, sed cum timore et tremore clericorum et
+            diligentia consumantur. Qui autem residuacorporis Domini, que in sacrario relicta sunt,
+            consumunt,non statim ad accipiendos communes cibos conueniant,ne putent sanctae portioni
+            miscere cibum, qui per aqualiculos digestus in secessum diffunditur . Si ergo mane
+            dominica portio editur, usque ad sextam ieiunentministri, qui eam consumpserunt, et, si
+            tertia uel quartahora acceperint, ieiunent usque ad uesperum s. Sic
+            secretasanctificatione eterna custodienda sunt sacramenta.§. 2. Precipimus etiam, ne
+            umquam extero clerico ecclesiae siue laico de fragmentis oblationum Domini * ad mensam
+            ponatur. Unde scis tu, qui passimsanctuarii panes indignis inpendis, unde nosti, si
+            mundisunt a mulieribus? Hinc et Dauid ab Abimelech sacerdote interrogatus, cum panem
+            sibi ad comedendumposceret, cum se mundum ante triduum profiteretur,panes propositionis
+            manducauit. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e449">
+          <head xml:id="gd-p3d2-Hd1e451">C. XXIV</head>
+          <head xml:id="gd-p3d2-Hd1e454" type="question-title"> Inficiuntur , non mundantur
+            scelerosi , qui communicare non desinunt. </head>
+          <p xml:id="gd-p3d2-d1e457"> Item Ysidorus [lib. I. de summo bono, c. 24.] </p>
+          <p xml:id="gd-p3d2-d1e460"> VIII. Pars. Qui scelerate uiuunt in ecclesia, et commu </p>
+
+          <p xml:id="gd-p3d2-d1e463"> nicare non desinunt, putantes se tali communione mundari,
+            discant nil ad emundationem proficere sibi, dicente Propheta: „Quid est, quod dilectus
+            meus in domo mea fecitscelera multa? Numquid carnes sanctae auferent a te malicias
+            tuas?“ et Apostolus: „Probet ,“ inquit,,,se homo,et sic de pane illo edat, et de calice
+            bibat.“ </p>
+          <p xml:id="gd-p3d2-d1e467"> Item ex VIII. Sinodo. B a silius Episcopus dixit *: </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e471">
+          <head xml:id="gd-p3d2-Hd1e473">C. XXV</head>
+          <head xml:id="gd-p3d2-Hd1e476" type="question-title"> Dampnationem , non salutem acquirit
+            qui indigne sacramentis Christi communicat. </head>
+          <p xml:id="gd-p3d2-d1e479"> Timorem quidem docet nos Apostolus, dicens: „ Qui manducat et
+            bibit indigne, iudicium sibi manducat etbibit. Fidem uero edocet nos sermo Domini,
+            dicens:„Hoc est, quod pro multis datur, corpus meum.Hoc facite in meam conmemorationem.“
+            §. i. Et Apostolus de unigenito Dei filio: „Humiliauit semetipsumfactus obediens usque
+            ad mortem, mortem autem crucis.“Cum ergo anima fidem habet his dictis, et
+            consideratmagnificentiam gloriae ipsius, et admiratur nimietatem humilitatis, quomodo
+            tantus ac talis obediens patri fuitusque ad mortem pro uita nostra: puto, quia possit
+            prouo-cari ad affectum, et dilectionem ipsius, et Dei patris,qui unico filio non
+            pepercit, sed pro nobis omnibus tradidit illum. §. 2. Talem ergo fidem uel s
+            affectumpreparare debet in animo suo is, qui panem et calicemDomini percipit. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e483">
+          <head xml:id="gd-p3d2-Hd1e485">C. XXVI</head>
+          <head xml:id="gd-p3d2-Hd1e488" type="question-title"> Non a quo , sed ante quem offeratur
+            , considerandum est. </head>
+          <p xml:id="gd-p3d2-d1e491"> Item Augustinus in lib . questionum Numeri [quest. XXX.]Et
+            dixit Dominus ad Moysem, et ad Eleazarum filiumAaron sacerdotem: „Tollite thuribula erea
+            e medioexustorum, et ignem alienum hunc semina ibi, quia san-ctificauerunt thuribula
+            peccatorum horum inanimabus suis*;et facies laminas ductiles, circumpositionem
+            altari,quoniam oblata sunt ante Dominum, et sanctificata sunt, etfacta sunt in signum
+            filiis Israel.“ Sed notandum, nouomodo dicta sanctificata pena eorum, a quibus hoc
+            peccatumfuerat perpetratum, quia per eos exemplum datum est ceteris, quo timerent.
+            Circumpositionem autem altari curex eis fieri uoluit, addidit dicens: „ quoniam oblata
+            sunt anteDominum, et sanctificata facta sunt in signum filiisIsrael.“ Non ergo in eis
+            reprobari uoluit, quod a talibus oblatasunt, sed potius hoc cogitare et attendi, ante
+            quemoblata sint, id est, quia ante Dominum, ut plus in eis ualeret nomen Domini, ante
+            quem oblata sunt, quam pessimum meritum eorum, a quibus oblata sunt. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e495">
+          <head xml:id="gd-p3d2-Hd1e497">C. XXVII</head>
+          <head xml:id="gd-p3d2-Hd1e500" type="question-title"> Penitencia eius, cuius negligentia
+            de Christi sanguine aliquid stillat. </head>
+          <p xml:id="gd-p3d2-d1e503"> Item ex Decreto Papae Pie'. </p>
+          <p xml:id="gd-p3d2-d1e506"> IX. Pars. Si per negligentiam aliquid de sanguine stillauerit
+            in terram, linguabitur, tabularadetur. Si non fuerit tabula, ut non conculcetur, locus
+            corradetur, et igne consumetur, et cinis intra altarecondetur, et sacerdos XL. diebus
+            peniteat. Sisuper altare stillauerit calix, sorbeat minister stillam, et III.diebus
+            peniteat. Si super linteum altaris, et adaliud stilla peruenerit, IV. diebus peniteat.
+            Si usquead tercium, IX. diebus peniteat. Si usque ad quartum, XX. diebus peniteat, et
+            lintheamina, que tetigerint stillam, tribus uicibus minister abluat calicesubterposito
+            s, et aqua ablutionis sumatur, et iuxta altarerecondatur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e510">
+          <head xml:id="gd-p3d2-Hd1e512">C. XXVIII</head>
+          <head xml:id="gd-p3d2-Hd1e515" type="question-title"> Que penitencia sit inponenda ei qui
+            sacrificium ^ euomit. </head>
+          <p xml:id="gd-p3d2-d1e518"> Item ex Penitenciali B e da e Presbiteri, [c. de ebrietate]*. </p>
+          <p xml:id="gd-p3d2-d1e521"> Si quis per ebrietatem uel uoracitatem eucharistiam euomuerit,
+            XL. diebus peniteat; clerici, uel monachi,seu diaconi, presbiteri LXX. diebus
+            peniteant;episcopi XC. Si pro infirmitatis causa euomuerit, </p>
+          <p xml:id="gd-p3d2-d1e524"> VII. diebus peniteant. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e529">
+          <head xml:id="gd-p3d2-Hd1e531">C. XXIX</head>
+          <head xml:id="gd-p3d2-Hd1e534" type="question-title"> Sacerdotes non nisi per se diuina
+            sacramenta ministrent.</head>
+          <p xml:id="gd-p3d2-d1e537"> Item ex Concilio Remensi, c, 2. </p>
+          <p xml:id="gd-p3d2-d1e540"> X. Pars. Peruenit ad notitiam nostram, quod quidampresbiteri
+            in tantum paruipendant diuina misteria, utlaico aut feminae sacrum corpus Domini tradant
+            ad deferendum infirmis, et quibus prohibetur, ne sacrariumingrediantur, nec ad altare
+            appropinquent, illis sancta sanctorum conmittuntur. Quod quam sit horribile quamque
+            detestabile, omnium religiosorum animaduertitprudentia. Igitur interdicit per omnia
+            sinodus, ne talistemeraria presumptio ulterius fiat; sed omnimodis presbiter per
+            semetipsum infirmum communicet. Quod si aliterfecerit, gradus sui periculo subiacebit. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e544">
+          <head xml:id="gd-p3d2-Hd1e546">C. XXX</head>
+          <head xml:id="gd-p3d2-Hd1e549" type="question-title"> Quando celebratur missa,
+            presbiterium laicis* ingredi non presumant . </head>
+          <p xml:id="gd-p3d2-d1e552"> Item Clemens Papa*. </p>
+          <p xml:id="gd-p3d2-d1e555"> XI. Pars. Sacerdotum aliorumque clericorum
+            ecclesiisseruientium honores a laicorum discrete apparereconueniunt. Quamobrem nulli
+            laicorum liceat in eo loco,ubi sacerdotes et reliqui clerici consistunt
+            (quodpresbiterium nuncupatur), quando missa celebratur, consistere, ut libere ac
+            honorifice possint sacra offitia exerceri . </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e559">
+          <head xml:id="gd-p3d2-Hd1e561">C. XXXI</head>
+          <head xml:id="gd-p3d2-Hd1e564" type="question-title"> Sicut in metropolitana ecclesia, ita
+            ubique missarum solempnia celebrentur.</head>
+          <p xml:id="gd-p3d2-d1e567"> Item ex Concilio Gerundensi, [c. i.] </p>
+          <p xml:id="gd-p3d2-d1e570"> XII. Pars. Institutio missarum, sicut in metropolitana
+            ecclesia agitur, ita in Dei nomine in omnibus prouin-ciis* tam ipsius missae ordo, quam
+            psallendi uel ministrandiconsuetudo seruetur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e574">
+          <head xml:id="gd-p3d2-Hd1e576">C. XXXII</head>
+          <head xml:id="gd-p3d2-Hd1e579" type="question-title"> Quid sit sacrificium, quid
+            sacramentum^*.</head>
+          <p xml:id="gd-p3d2-d1e582"> Item Augustinus in lib. X. de ciuit. Dei, [c. 5.]. </p>
+          <p xml:id="gd-p3d2-d1e585"> XIII. Pars. Sacrificium* est uisibile inuisibile sacramentum,
+            id est sacrum signum. Item alibi: §. i. Sacramentum** est inuisibilis gratiae uisibilis
+            forma. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e589">
+          <head xml:id="gd-p3d2-Hd1e591">C. XXXIII</head>
+          <head xml:id="gd-p3d2-Hd1e594" type="question-title"> Quid sit signum.</head>
+          <p xml:id="gd-p3d2-d1e597"> Idem in lib. II. de doctrina Christiana, [c. i.] </p>
+          <p xml:id="gd-p3d2-d1e600"> Signum est res preter speciem, quam ingerit sensibus, aliud
+            aliquid ex se faciens in cognitionem uenire. </p>
+          <p xml:id="gd-p3d2-d1e603"> Item Gregorius in omelia pascali^**\ </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e607">
+          <head xml:id="gd-p3d2-Hd1e609">C. XXXIV</head>
+          <head xml:id="gd-p3d2-Hd1e612" type="question-title"> Post consecrationem non substantia,
+            sed species remanet.</head>
+          <p xml:id="gd-p3d2-d1e615"> Species et similitudo illarum rerum uocabula sunt, que ante
+            fuerunt, scilicet panis et uini. Unde in finecuiusdam missae oratur et dicitur:
+            ,,Perficiant in nobis,quesumus Domine, tua sacramenta quod continent, utque nunc specie
+            gerimus rerum ueritate capiamus. Postulat quippe sacerdos, ut corpus Christi, quod sub
+            specie panis et uini nunc geritur, manifesta uisione, sicuti reueraest, quandoque
+            capiatur. De qua uisione Dominus in euangelio secundum Iohannem: „Qui diligit me
+            diligetura patre meo, et ego diligam eum, et manifestabo ei meipsum.“ Quamuis non
+            inprobabiliter quidam exponanthoc loco carnis et sanguinis ueritatem ipsam
+            eorundemefficientiam, id est peccatorum remissionem. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e620">
+          <head xml:id="gd-p3d2-Hd1e622">C. XXXV</head>
+          <head xml:id="gd-p3d2-Hd1e625" type="question-title"> Visibiles creaturae in Christi
+            corpus et sanguinem inuisibiliter conuertuntur . </head>
+          <p xml:id="gd-p3d2-d1e628"> Item Eusebius Emisenus . </p>
+          <p xml:id="gd-p3d2-d1e631"> XIV. Pars. Quia corpus assumptum ablaturus erat aboculis, et
+            illaturus sideribus, necessarium erat, ut diecenae sacramentum nobis corporis et
+            sanguinis consecraret, ut coleretur iugiter per misterium, quod semelofferebatur in
+            precium, ut quia cottidiana, et indefessa currebat pro hominum salute redemptio,
+            perpetua essetredemptionis oblatio, et perhennis uictima fffci uiueret inmemoria, et
+            semper presens esset in gratia uere unica etperfecta hostia, fide estimanda, non specie,
+            nec exterioricensenda uisu, sed interiori affectu. Unde celestis confirmat auctoritas,
+            quia „caro mea uere est cibus, et sanguis meus uere est potus.“ §. i. Recedat ergo
+            omneinfidelitatis ambiguum, quandoquidem qui auctor estmuneris ipse etiam est testis
+            ueritatis. Nam et inuisi=bilis sacerdos uisibiles creaturas in substantiam corporiset
+            sanguinis sui uerbo suo secreta potestate conuertit, itadicens: „Accipite et
+            comedite,hoc est corpus meum;“et sanctificatione repetita: „Accipite, et bibite, hic
+            estsanguis meus.“ Ergo s ad nutum precipientis Dominirepente ex nichilo substiterunt
+            excelsa celorum, profundafluctuum, uasta terrarum: pari potestate in spiritualibus
+            sacramentis, ubi precipit* uirtus, seruit effectus.§. 2. Quanta itaque et quam
+            celebranda beneficia uis diuinaebenedictionis operetur, et, quomodo tibi nouum
+            etinpossibile esse non debeat, quod in Christi substantiamterrena et mortalia
+            conuertuntur, te ipsum, qui in Christoes regeneratus, interroga. Dudum alienus a uita,
+            peregrinus a misericordia, a salutis uia intrinsecus mortuusexulabas; subito initiatus
+            Christi legibus, et salutaribusmisteriis innouatus, in corpus ecclesiae non uidendo,
+            sedcredendo transsiluisti, et de filio perditionis adoptiuusDei fieri occulta puritate
+            meruisti; in mensura uisibilipermanens maior factus es te ipso inuisibiliter sine
+            quantitatis augmento; cum idem atque ipse esses, multo alterfidei processibus extitisti;
+            in exteriori nichil additum est, ettotum in interiori mutatum est, ac sic homo Christi
+            filiuseffectus, et Christus in mente hominis est formatus. Sicutergo sine corporali
+            sensu, uilitate preterita deposita, subitoindutus es dignitatem nouam, et sicut hoc,
+            quod Deuslesa in te curauit, infecta diluit, maculata detersit, nonoculisP, sed&lt;i
+            sensibus tuis sunt credita: etcum reuerendum altare cibis spiritualibus
+            satiandusascendis, sacrum Dei tui corpus et sanguinem fide respice,honora, mirare, mente
+            continge, cordis manu suscipe, etmaxime totum haustu interioris hominis assume. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e635">
+          <head xml:id="gd-p3d2-Hd1e637">C. XXXVI</head>
+          <head xml:id="gd-p3d2-Hd1e640" type="question-title"> Quare in specie panis et uini
+            sacramentum suum Christus nobis ministrauit^K</head>
+          <p xml:id="gd-p3d2-d1e643"> Item Augustinus^*, </p>
+          <p xml:id="gd-p3d2-d1e646"> Quia passus est pro nobis Dominus, conmendauit nobis in isto
+            sacramento sanguinem suum et corpus, quod etiamfecit nosmetipsos. Nam et nos corpus
+            ipsius facti sumus,et per misericordiam ipsius quod accepimus nossumus. Recordamini: et
+            uos non fuistis, et creati estis;ad aream dominicam conportati estis; laboribus boum,id
+            est annunciantium euangelium, triturati estis; quandocatecumini deferebamini, in horreo
+            seruabamini, nomina uestra dedistis, cepistis moli ieiuniis exorcismi;postea ad aquam
+            uenistis, et conspersi estis, et panis dominicus facti estis. Ecce, quod accepistis.
+            Quomodo ergounum uidetis esse quod factum est, sic unum estote uos,diligentes s uos,
+            tenendo unam fidem, unam spem, indiui-duam karitatem. Heretici, quando hoc accipiunt,
+            testimonium contra se accipiunt, quia illi querunt diuisionem,cum panis iste indicet
+            unitatem. Sic et uinum in multisracemis fuit, et modo unum est, unum est** in sua
+            natiuitate calix post pressuram torcularis. Et uos post illaieiunia, post labores, post
+            humilitatem et contritionem,iam in nomine Christi tamquam ad calicem uenistis, etibi uos
+            estis in mensa, et in calice, nobiscum uos estis.Simul enim hoc sumimus, simul bibimus,
+            quia simul uiuimus. Item in sermone de infantibus: §. i. Ita Dominus nosterIesus
+            Christus nos significauit, nos ad se pertinere uoluit,misterium pacis et unitatis
+            nostrae in mensa conse-crauit. Qui accepit misterium unitatis, et non tenetuinculum
+            pacis, non misterium accepit p pro se, sed testimonium contra se. Nulli est***
+            aliquatenus ambigendum, unumquemque fidelium corporis et sanguinis dominicitunc essei
+            participem, quando in baptismate membrumefficitur Christi, nec alienari ab illius panis
+            calicisque consortio, etiamsi ante, quam panem illum comedat, calicemque bibat, de hoc
+            seculo migrauerit in unitate corporis Christi constitutus. Sacramenti quippe illius
+            participatione ac beneficio non priuatur, quando in sehoc, quod illud sacramentum
+            significat, inuenitur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e650">
+          <head xml:id="gd-p3d2-Hd1e652">C. XXXVII</head>
+          <head xml:id="gd-p3d2-Hd1e655" type="question-title"> Dum hostia frangitur, passio Christi
+            ad memoriam reuocatur . </head>
+          <p xml:id="gd-p3d2-d1e658"> Idem in libro sentenciarum Prosperi *. </p>
+          <p xml:id="gd-p3d2-d1e661"> Dum hostia frangitur, dum sanguis de calice in ora fidelium
+            funditur, quid aliud, quam dominici corporis incruce inmolatio, eiusque sanguinis de
+            latere effusio designatur? </p>
+          <p xml:id="gd-p3d2-d1e664"> Item Leo Episcopus, et sancta sinodus, que in urbe Romana
+            conuenit, Clero, honoratis, et plebi consistentiConstantinopolim : </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e668">
+          <head xml:id="gd-p3d2-Hd1e670">C. XXXVIII</head>
+          <head xml:id="gd-p3d2-Hd1e673" type="question-title"> De ueritate corporis et sanguinis
+            Christi nw//i ambigere licet . </head>
+          <p xml:id="gd-p3d2-d1e676"> XV. Pars. In quibus isti ignorantiae tenebris, in quohactenus
+            desidiae torpore iacuerunt, ut nec auditu discerent, uel lectione cognoscerent, quod in
+            ecclesia inomnium ore tam consonum est, ut nec ab infantiumlinguis ueritas corporis et
+            sanguinis Christi inter communionis sacramenta doceatur s, quia in illa
+            misticadistributione spiritualis alimoniae hoc inpertitur, hoc sumitur, ut accipientes
+            uirtutem celestis cibi in carnem ipsius,qui caro nostra factus est, transeamus? Idem est
+            cibus*refectionis, est cibus sanguinis. Sicut enim caro Domini uere est cibus, ita
+            sanguis uere noster est potus. Idem: §. i. Est corpus, de quo dictum est: „Caromea uere
+            est esca, et sanguis meus uere est potus.“Circa hoc corpus aquilae sunt, que alis
+            circumuolantspiritualibus. §. 2. Unde et idem corpus Christiedimus, ut uitae eternae
+            possimus esse participes . Idem: §. 3. Cuius clare** argumentis utimur, suis
+            utamurexemplis, incarnationis quoque, exemplo astruamusmisterii ueritatem. §. 4. Quid
+            hic queris naturaeordinem in Christi corpore, cum preter naturam sit ipse p Christus
+            partus ex Virgine? </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e680">
+          <head xml:id="gd-p3d2-Hd1e682">C. XXXIX</head>
+          <head xml:id="gd-p3d2-Hd1e685" type="question-title"> Non natura nascitur, sed
+            consecratione nobis conficitur corpus et sanguis Christi.</head>
+          <p xml:id="gd-p3d2-d1e688"> Item Ambrosius in libro de catecizandis rudibus *. </p>
+          <p xml:id="gd-p3d2-d1e691"> Panis et calix non quilibet, sed certa consecratione misticus
+            fit nobis, non nascitur. Proinde, quod ita fitnobis, quamuis sit panis et calix,
+            alimentum est resurrectionis, non sacramentum religionis; non quod benedicimus,
+            gratiasque agimus Domino in omni eius munere, nontantum spirituali, uerum etiam
+            corporali. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e695">
+          <head xml:id="gd-p3d2-Hd1e697">C. XL</head>
+          <head xml:id="gd-p3d2-Hd1e700" type="question-title"> Quod ante benedictionem panis et
+            uinum est post benedictionem est corpus et sanguis Christi. </head>
+          <p xml:id="gd-p3d2-d1e703"> Idem in lib. de offitiis . </p>
+          <p xml:id="gd-p3d2-d1e706"> Ante benedictionem alia species nominatur, post benedictionem
+            corpus significatur. /fem: §. 1. Inillo sacramento Christus est. Item [lib. 4. de
+            sacramentis,c. 5 . 1 : §. 2. Qui manducauerit hoc corpus, fiet ei remissiopeccatorum.
+          </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e711">
+          <head xml:id="gd-p3d2-Hd1e713">C. XLI</head>
+          <head xml:id="gd-p3d2-Hd1e716" type="question-title"> Sub specie panis et uini inuisibilem
+            Christi carnem et sanguinem honoramus. </head>
+          <p xml:id="gd-p3d2-d1e719"> Item Augustinus in lib. sentenciarum Prosperi °. </p>
+          <p xml:id="gd-p3d2-d1e722"> Nos autem in specie panis et uini, quam uidemus, res
+            inuisibiles, id est carnem et sanguinem, honoramus, necsimiliter pendimus has duas
+            species?, quemadmodum ante consecrationem pendebamus, cum fideliterfateamur, ante
+            consecrationem panem esse et uinum*, quodnatura formauit; post consecrationem uero
+            Christi carnemesse et sanguinem, quod benedictio consecrauit. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e726">
+          <head xml:id="gd-p3d2-Hd1e728">C. XLII</head>
+          <head xml:id="gd-p3d2-Hd1e731" type="question-title"> Confessio Berengarii *. </head>
+          <p xml:id="gd-p3d2-d1e734"> XVI. Pars. Ego Berengarius, indignus ecclesiae S.Mauritii
+            Andegauensis diaconus, cognoscens ueram, catholicam et apostolicam fidem, anathematizo
+            omnemheresim, precipue eam, de qua hactenus infamatus sum,que astruere conatur, panem et
+            uinum, que in altari ponuntur, post consecrationem solummodo sacramentum, et nonuerum
+            corpus et sanguinem Domini nostri Iesu Christi esse, nec posse sensualiter, nisi in solo
+            sacramento manibus sacerdotum tractari, uel frangi, aut fidelium dentibus atteri.
+            Consentio autem sanctae Romanae ecclesiae etapostolicae sedi, et ore et corde profiteor,
+            de sacramentis dominicae mensae eandem fidem me tenere,quam dominus et uenerabilis Papa
+            Nykolaus, et hec sanctasinodus auctoritate euangelica et apostolica tenendam tradidit
+            michique firmauit; scilicet panem et uinum, que inaltari ponuntur, post consecrationem
+            non solum sacramentum, sed etiam uerum corpus et sanguinem Domini nostriIesu Christi
+            esse, et sensualiter non solum sacramentum,sed in ueritate manibus sacerdotum tractari,
+            frangi, etfidelium dentibus atteri; iurans per sanctam, et homousionTrinitatem, et per
+            hec sacrosancta Christi euangelia.Eos, qui contra hanc fidem uenerint, cum dogmatibus
+            etsectatoribus suis eterno anathemate dignos esse pro-nuncio. Quod si ego ipse aliquando
+            contra hec aliquidsentire presumpsero aut predicare, canonum seueritatisubiaceam. Lecto
+            et perlecto sponte subscripsi. §. i.Hanc confessionem suae fidei de corpore et
+            sanguineDomini nostri Iesu Christi a Berengario Romae coramCXIII. episcopis factam misit
+            Nykolaus Papa per urbesItaliae, Germaniae, Galliae, et ad quecumque loca famaprauitatis
+            eius peruenire ante potuit, ut ecclesiae, queprius doluerant de auerso atque aduerso**,
+            posteagaudeant de reuerso atque conuerso. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e738">
+          <head xml:id="gd-p3d2-Hd1e740">C. XLIII</head>
+          <head xml:id="gd-p3d2-Hd1e743" type="question-title"> Quare elementorum species
+            reseruentur , cum uere sit Christi corpus et sanguis. </head>
+          <p xml:id="gd-p3d2-d1e746"> Ambrosius in libro de offitiis . </p>
+          <p xml:id="gd-p3d2-d1e749"> Forte dicas, quomodo uera caro, quomodo uerus sanguis, qui
+            similitudinem non uideo* carnis, non uideo sanguinis ueritatem? Primo omnium dixi tibi
+            de sermone Christi, qui operatur, ut possit mutare et conuertere generaet instituta
+            naturae. Deinde, ubi non tulerunt sermonemChristi discipuli eius, sed audientes, quod
+            carnem suamdaret manducare, et sanguinem suum ad bibendum,recedebant, solus tamen°
+            Petrus dixit: „Verba uitaeeternae habes, et ego a te quomodo recedam?“ Ne igitur plures
+            hoc dicerent, et ne ueluti quidam esset horrorcruoris, sed maneret gratia redemptionis,
+            ideo insimilitudine quidem accipis sacramentum, sed uere s naturae gloriam uirtutemque
+            consequeris.„ Ego </p>
+          <p xml:id="gd-p3d2-d1e752"> sum,“ inquit, „ panis uiuus, qui de celo descendi.“ </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e756">
+          <head xml:id="gd-p3d2-Hd1e758">C. XLIV</head>
+          <head xml:id="gd-p3d2-Hd1e761" type="question-title"> Non carnaliter , sed spiritualiter
+            Christi corpus et sanguinem debemus accipere. </head>
+          <p xml:id="gd-p3d2-d1e764"> Item Augustinus in expositione Psal. Z/F. </p>
+          <p xml:id="gd-p3d2-d1e767"> Prima quidem, inquit, heresis in discipulis Christi, uelut a
+            duricia sermonis eius facta est. Cum enim diceret: „Nisi quis manducauerit carnem meam,
+            et biberitsanguinem meum, non habebit uitam eternam ,“ illi nonintelligentes dixerunt ad
+            inuicem: „Durus est hic sermo,quis eum potest manducare.“ Dicentes, quia durusest hic
+            sermo, separauerunt se ab illo; et remansitcum duodecim. Discedentibus illis instruxit
+            eos, quiremanserant. Spiritus est, inquit, qui uiuificat; caronichil prodest. Verba, que
+            locutus sum ad uos, spirituset uita sunt. Intellexistis spiritualiter? Spiritus et
+            uitasunt. Intellexistis carnaliter? Etiam sic illa spiritus et uitasunt, sed tibi non
+            sunt. Spiritualiter intelligite quelocutus sum. Non hoc corpus, quod uidetis,
+            manducaturiestis, et bibituri illum sanguinem, quem fusuri sunt quime crucifigent.
+            Sacramentum, aliquod uobis conmendaui:spiritualiter intellectum uiuificabit uos; caro
+            autem nonprodest quicquam. Sed quomodo illi intellexerunt?Carnem quippe sic
+            intellexerunt, quomodo in cadauereuenditur*, aut in macello dilaniatur.„Sciens autem </p>
+          <p xml:id="gd-p3d2-d1e770"> Iesus ait: hoc uos scandalizat, quia dixi: do uobis carnem
+            meam manducare, et sanguinem meum bibere? Si ergouideritis filium hominis ascendentem,
+            ubi erat prius ?“ Quidest hoc? Hinc soluit, quod illos mouerat; hinc aperuit, unde
+            fuerant scandalizati: hinc plane, siintelligerent. Illi autem putabant s, erogaturum
+            corpussuum. Ille dixit, se ascensurum in celum, utique integrum. Cum uideritis filium
+            hominis ascendentem, ubi eratprius? certe uel tunc uidebitis, quia non eo modo,
+            quoputatis, erogat corpus suum, uel tunc intelligetis, quiagratia eius non sumitur*
+            morsibus. Item [tractatu 30. inIohannem: §. 1.] Donec seculum finiatur, sursum
+            estDominus; sed tamen etiam hic nobiscum est ueritas Dominus. Corpus enim, in quo
+            resurrexit, uno loco esseoportet; ueritas autem eius ubique diffusa est. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e774">
+          <head xml:id="gd-p3d2-Hd1e776">C. XLV</head>
+          <head xml:id="gd-p3d2-Hd1e779" type="question-title"> Quomodo Christi corpus , quod in
+            cruce pependit, accipitur , et quomodo non. </head>
+          <p xml:id="gd-p3d2-d1e782"> Item Augustinus in epistola ad Ireneum*. </p>
+          <p xml:id="gd-p3d2-d1e785"> Non hoc corpus, quod uidetis, manducaturi estis, et bibituri
+            illum sanguinem, quem effusuri sunt illi, qui me crucifigent; ipsum quidem, et non
+            ipsum, ipsum in-uisibiliter, non ipsum uisibiliter. Unde et subditur:Si 634 c necesse
+            est, illud celebrari uisibiliter, necessetamen est, inuisibiliter intelligi. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e789">
+          <head xml:id="gd-p3d2-Hd1e791">C. XLVI</head>
+          <head xml:id="gd-p3d2-Hd1e794" type="question-title"> Quid sit corpus Christi manducare ,
+            et sanguinem eius bibere. </head>
+          <p xml:id="gd-p3d2-d1e797"> Item Augustinus in sermone de uerbis euangelii . </p>
+          <p xml:id="gd-p3d2-d1e800"> Quid est Christum manducare? non est hoc solum, in sacramento
+            corpus eius accipere. Multi enim indigne accipiunt, de quibus Apostolus ait: „Qui
+            manducat, etbibit calicem Domini indigne, iudicium sibi manducat etbibit.“ Sed quomodo
+            manducandus est Christus? Quomodoipse dicit: „Qui manducat carnem meam, et
+            bibitsanguinem meum, in me manet, et ego in illo. Etsi*accipit sacramentum, acquirit
+            magnum tormentum. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e805">
+          <head xml:id="gd-p3d2-Hd1e807">C. XLVII</head>
+          <head xml:id="gd-p3d2-Hd1e810" type="question-title"> Credere in Christum est manducare
+            ipsum . </head>
+          <p xml:id="gd-p3d2-d1e813"> Item Augustinus in libro de remedio penitenciae *. </p>
+          <p xml:id="gd-p3d2-d1e816"> Ut quid paras dentem et uentrem? Crede, et manducasti. Credere
+            enim in eum, hoc est panem ui-uum** manducare. Qui credit in eum manducat eum . </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e820">
+          <head xml:id="gd-p3d2-Hd1e822">C. XLVIII</head>
+          <head xml:id="gd-p3d2-Hd1e825" type="question-title"> Sacramentum ^, et res sacramenti
+            sacrificium ecclesiae conficitur . </head>
+          <p xml:id="gd-p3d2-d1e828"> Item Augustinus in libro sentenciarum Prosperi 659 *. </p>
+
+          <p xml:id="gd-p3d2-d1e831"> Hoc est, quod dicimus, quod omnibus modis approbare
+            contendimus, sacrificium ecclesiae conficiduobus, duobus constare: uisibili elementorum
+            specie,et inuisibili Domini nostri Iesu Christi carne et sanguine;etC 67 d to, et re
+            sacramenti, id est corpore Christi,sicut persona Christi constat et conficitur ex Deo
+            ethomine, cum ipse Christus uerus Deus sit, et uerus homo,quia omnis res illarum rerum
+            naturam et ueritatem ;in secontinet, ex quibus conficitur. Conficitur autem sacrificium
+            ecclesiae duobus, sacramento, et re sacramenti, idest corpore Christi. Est igitur
+            sacramentum, et ressacramenti, id est corpus Christi, Item : §. i. Caroeius est, quam
+            forma panis opertam in sacramento accipimus, et sanguis eius, quem sub uini specie ac s
+            saporepotamus. Caro uidelicet carnis, et sanguis sacramentumsanguinis; carne et
+            sanguine, utroque inuisibili, spirituali,intelligibili, significatur corpus uisibile
+            Domini nostriIesu Christi, et palpabile, plenum gratia omnium uirtu-tum, et diuina
+            maiestate. Item: §. 2. Sicut ergo celestispanis, qui uere caro Christi est, suo modo
+            uocatur corpusChristi, cum reuera sit sacramentum corporis Christi, illiusuidelicet,
+            quod uisibile, quod palpabile, mortale incruce est positum, uocaturque ipsa carnis
+            inmolatio, quesacerdotis manibus fit, Christi passio, mors, crucifixio, nonrei ueritate,
+            sed significanti misterio: sic sacramentumfidei, quod baptismus intelligitur, fides est.
+          </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e835">
+          <head xml:id="gd-p3d2-Hd1e837">C. XLIX</head>
+          <head xml:id="gd-p3d2-Hd1e840" type="question-title"> Quot modis caro Christi intelligatur
+            . </head>
+          <p xml:id="gd-p3d2-d1e843"> Ieronimus in epist. ad Ephes. [ad cap. i.] </p>
+          <p xml:id="gd-p3d2-d1e846"> Dupliciter inquit intelligitur caro Christi et sanguis: uel
+            spiritualis illa atque diuina, de qua ipse ait: ,, Caro mea uere est cibus, et sanguis
+            meus uere est potus,“et: „Nisi manducaueritis carnem meam, et meum sanguinem biberitis,
+            non habebitis uitam eternam;“ uel caromea, que crucifixa est, et sanguis, qui militis
+            effususest lancea. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e850">
+          <head xml:id="gd-p3d2-Hd1e852">C. L</head>
+          <head xml:id="gd-p3d2-Hd1e855" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p3d2-d1e858"> Item Augustinus in libro de trinitate ad Chorinthios *. </p>
+          <p xml:id="gd-p3d2-d1e861"> Quia morte Domini sumus liberati, huius rei memores in edendo
+            et potando carnem et sanguinem, que pronobis oblata sunt, significamus. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e865">
+          <head xml:id="gd-p3d2-Hd1e867">C. LI</head>
+          <head xml:id="gd-p3d2-Hd1e870" type="question-title"> Quomodo Christus semel sit inmolatus
+            , et quomodo cottidie inmoletur . </head>
+          <p xml:id="gd-p3d2-d1e873"> Item in Psalmo XX . </p>
+          <p xml:id="gd-p3d2-d1e876"> XVII. Pars. Semel Christus mortuus est, iustus proiniustis, et
+            scimus, et certum habemus, et spe inmobiliretinemus, quia, Christus resurgens a mortuis
+            iam nonmoritur, mors illi ultra non dominabitur. Verba istaApostoli sunt; tamen, ne
+            obliuiscamur, quod semelfactum est in memoria nostra omni anno fit. Quociens Pasca
+            celebratur, numquid tociens Christus occiditur? sed tamen anniuersaria recordatio
+            representat quodolim factum est, et sic nos facit moueri, tamquam uidea-mus in cruce
+            presentem Dominum s. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e880">
+          <head xml:id="gd-p3d2-Hd1e882">C. LII</head>
+          <head xml:id="gd-p3d2-Hd1e885" type="question-title"> Item in libro sentenciarum Prosperi
+            *. </head>
+          <p xml:id="gd-p3d2-d1e888"> Semel inmolatus est in semetipso Christus, et tamen cottidie
+            inmolatur in sacramento. Quod ita intelligendumest, quia in manifestatione sui corporis,
+            in distinctionemembrorum suorum omnium uerus Deus et uerus homosemel tantum in cruce
+            pependit, offerens patri se ipsumhostiam uiuam et passibilem, mortalem, uiuorum
+            acmortuorum redemptionis efficacem, eorum scilicet, quosaltitudo diuini consilii
+            redimendos iudicauit, presciuit,predestinauit, uocauit, modis atque temporibus, quibus
+            idfieri congruebat**. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e893">
+          <head xml:id="gd-p3d2-Hd1e895">C. LIII</head>
+          <head xml:id="gd-p3d2-Hd1e898" type="question-title"> Hostia, que semel oblata est, in
+            recordationem suae mortis cottidie offertur . </head>
+          <p xml:id="gd-p3d2-d1e901"> Item Ambrosius in epist. ad Ebr. [c. io.] </p>
+          <p xml:id="gd-p3d2-d1e904"> In Christo semel oblata est hostia ad salutem sempiternam
+            potens. Quid ergo nos? nonne per singulos diesofferrimus? Offerimus, sed ad
+            recordationem mortiseius, et una est hostia, non multae. Quomodo una, etnon multae? quia
+            semel oblatus est Christus. Hoc autemsacrificium exemplum est illius, id ipsum semper*
+            idipsum. Proinde hoc est sacrificium, alioquin dicetur,quoniam in multis locis offertur,
+            multi sunt Christi? Nequaquam, sed unus ubique Christus, et hic plenus existens,et illic
+            plenus. Sicut enim** quod ubique offertur unumest corpus, et non multa corpora: ita et
+            unum sacrificium.Pontifex autem ille est, qui hostiam obtulit nos mundantem. Ipsam
+            offerimus etiam nunc, que tunc oblataconsumi non potest. Quod nos facimus, in
+            conmemora-tionem fit eius, quod factum est: „Hoc enim facite,'“ait, „in meam
+            conmemorationem.“ </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e908">
+          <head xml:id="gd-p3d2-Hd1e910">C. LIV</head>
+          <head xml:id="gd-p3d2-Hd1e913" type="question-title"> Sacramentum corporis Christi non
+            nisi ieiuni debemus accipere.</head>
+          <p xml:id="gd-p3d2-d1e916"> Item Augustinus in libro responsionum ad lanuarium, [c. 6.] </p>
+
+          <p xml:id="gd-p3d2-d1e919"> XVIII. Pars. Liquido apparet, quando primo acceperunt
+            discipuli corpus et sanguinem Domini, non eosaccepisse ieiunos. Numquid tamen propterea
+            calum-pniandum est uniuersae ecclesiae, quod a ieiunis semper accipitur? Ex hoc enim
+            placuit Spiritui sancto, ut in honoretanti sacramenti prius in os Christiani dominicum
+            corpusintraret, quam exteri cibi. Nam ideo per uniuersumorbem mos iste seruatur. Neque
+            enim, quia post cibosDominus dedit, propterea pransi aut cenati fratres ad
+            illudsacramentum accipiendum conuenire debent, aut, sicutfaciebant quos Apostolus arguit
+            et emendat, mensis suisista miscere. Namque Saluator, quo uehementius con-mendaret
+            misterii illius altitudinem, ultimum hoc uoluitinfigere cordibus et memoriae
+            discipulorum, a quibus adpassionem disgressurus erat, et ideo non precepit, quodeinceps
+            ordine sumeretur, ut Apostolis, per quos ecclesiasdispositurus erat, seruaret hunc
+            locum. Nam si hoc illemonuisset, ut post cibos alios semper acciperetur,credo, quod eum
+            morem nemo mutasset. Cum ueroait Apostolus, de hoc sacramento loquens:,,Propter
+            quod,fratres, cum conuenitis ad manducandum, inuicem expe-ctate, si quis esurit, domi
+            manducet, ut non ad iudiciumconueniatis,“ statim subtexuit*: „cetera autem, cum
+            uenero,ordinabo.“ Ubi intelligi datur, quia multum erat, utin epistola totum illis
+            agendi ordinem insinuaret,quod uniuersa per orbem seruat ecclesia, ab ipso ordinatum
+            esse, quod nulla horarum diuersitate uariatur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e923">
+          <head xml:id="gd-p3d2-Hd1e925">C. LV</head>
+          <head xml:id="gd-p3d2-Hd1e928" type="question-title"> Ante consecrationem est panis, sed
+            uerbis Christi in eius corpus conueriitur . </head>
+          <p xml:id="gd-p3d2-d1e931"> Item Ambrosius in lib. [IV.] de sacramentis, [c. 4.] </p>
+          <p xml:id="gd-p3d2-d1e934"> XIX. Pars. Panis est in altari usitatus ante
+            uerbasacramentorum; ubi accessit consecratio, de pane fit caroChristi. Quomodo autem
+            potest qui panis estcorpus esse Christi? Consecratio autem quibus uerbis,et cuius
+            sermonibus est? Domini Iesu. Nam reliqua omnia, que dicuntur, laus Deo defertur,
+            orationepetitur pro propulo, pro regibus, pro ceteris. Ubiautem sacramentum conficitur,
+            iam non suis sermonibussacerdos, sed utitur sermonibus Christi. Ergo sermoChristi hoc
+            conficit sacramentum. Quis sermo Christi s? hic, quo facta sunt omnia. Iussit Dominus,
+            et facta sunt celum et terra mare. Videsergo, quam operatorius sit sermo Christi. Si
+            ergo uis tantaest in sermone Domini Iesu, ut inciperet" esse quod"non erat: quanto magis
+            operatorius est, ut sint que erant*,et in aliud conmutentur? Et sic quod erat panis ante
+            consecrationem iam corpus Christi est post consecrationem,quia sermo Christi creaturam
+            mutat, et sic ex pane fit corpusChristi, et uinum cum aqua in calice missum fit
+            sanguisconsecratione uerbi celestis. §. i. Sed forte dicis: Speciemsanguinis non uideo;
+            sed habet similitudinem. Sicut enimmortis similitudinem sumpsisti, ita etiam
+            similitudinem sanguinis bibis, ut nullus horror cruoris sit, et precium tamen operetur
+            redemptionis. Didicistip, quia accipis corpus Christi. [Et c. 5.]: §. 2. Vis scire, quia
+            uerbiscelestibus consecratur? Accipite, que sunt uerba. Dicit sacerdos: „Fac nobis,“
+            inquit, „hanc oblationem scriptam % rationabilem, etc.“** Inde : omnia illaEuangelistae
+            sunt usque ad „ Accipite “ siue corpus, siuesanguinem. Inde uerba sunt Christi: Accipite
+            et bibiteex hoc omnes; hic est enim sanguis meus. Vide singula. Qui pridie, inquit, quam
+            pateretur, in sanctis manibus accepit panem. Ante, quam consecretur, panisest: ubi autem
+            uerba Christi accesserint, corpus Christiest. Deinde audi dicentem: Accipite, et edite
+            ex eoomnes; hoc est enim corpus meum. Et ante uerba Christicalix est uini et aquae
+            plenus. Ubi uerba Christi operatafuerint, ibi sanguis efficitur, qui plebem redemit. §.
+            3.Ergo uide, quam y potens est sermo Christi uniuersaconuertere. Deinde ipse Iesus
+            testificatur, quodcorpus suum, et sanguinem suum accipiamus. De cuiusfide et
+            testificatione dubitare non debemus. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e938">
+          <head xml:id="gd-p3d2-Hd1e940">C. LVI</head>
+          <head xml:id="gd-p3d2-Hd1e943" type="question-title"> Non corpus, sed animam* fulcitpanis
+            uitae eternae.</head>
+          <p xml:id="gd-p3d2-d1e946"> Item, </p>
+          <p xml:id="gd-p3d2-d1e949"> Non iste panis est, qui uadit in corpus, sed panis uitae
+            eternae, qui animae nostrae substantiam fulcit. §. i.Iste panis cottidianus est; accipe
+            cottidie quod cottidie tibiprosit; sic uiue, ut cottidie merearis accipere. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e953">
+          <head xml:id="gd-p3d2-Hd1e955">C. LVII</head>
+          <head xml:id="gd-p3d2-Hd1e958" type="question-title"> Etiam secundum carnem Christus est
+            panis uiuus.</head>
+          <p xml:id="gd-p3d2-d1e961"> Item Augustinus in epistola ad Ireneum^K Christus panis est,
+            de quo qui manducat uiuit in eternum, de quo ipsemet dixit: „Et panis, quem ego
+            dabo,caro mea est, pro mundi uita etc.“ Determinat, quomodosit panis, non solum secundum
+            uerbum, quo uiuunt omnia,sed secundum carnem assumptam pro mundi uita.Humana enim caro,
+            que erat peccato" mortua, carnimundae unita, incorporata, unum cum illa effecta, uiuit
+            de spiritu eius, sicut unum corpus de suo spiritu.Qui uero non est de corpore Christi,
+            non uiuit de spirituChristi. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e965">
+          <head xml:id="gd-p3d2-Hd1e967">C. LVIII</head>
+          <head xml:id="gd-p3d2-Hd1e970" type="question-title"> Quod Christus uisibiliter in
+            sacramento^spiritualiter in ueritate manducatur et bibitur . i7em*. </head>
+          <p xml:id="gd-p3d2-d1e973"> Qui manducant et bibunt Christum, uitam manducant et bibunt.
+            Illud manducare est refici; illud bibere estuiuere. Quod in sacramento uisibiliter
+            sumitur, in ipsa ueritate spiritualiter manducatur et bibitur. ManducaturChristus: uiuit
+            manducatus, quia surrexit occisus. Necquando manducamus, partes de illo facimus. Et
+            quiasin sacramento sic fit, et norunt fideles, quomodomanducent carnem Christi;
+            unusquisque accipit partemsuam, unde et ipsa gratia partes uocantur. Per
+            partesmanducatur et manet integer totus in corde tuo. Totuserat apud Patrem, quando
+            uenit in Virginem; inpleuit illam,nec recessit ab illo. §. i. Quod uidetur panis est
+            etcalix, quod etiam oculi renunciant. Quod autem fidespostulat instruenda, panis est
+            corpus Christi, calix sanguis. §. 2. Ista ideo dicuntur sacramenta, quia in eisaliud
+            uidetur, et aliud intelligitur. Quod uideturspeciem habet corporalem; quod intelligitur
+            fructum habetspiritualem. §. 3.86811 Qi accipit misterium unitatis, et nontenet uinculum
+            pacis, non misterium accipit pro se, sed testimonium contra se. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e978">
+          <head xml:id="gd-p3d2-Hd1e980">C. LIX</head>
+          <head xml:id="gd-p3d2-Hd1e983" type="question-title"> Quomodo spiritualiter corpus Christi
+            sit accipiendum.</head>
+          <p xml:id="gd-p3d2-d1e986">Idem super Iohannem, [ad c. 6. tract. XXVI. et XXVII.]*Credere
+            in Iesum Christum, hoc est manducare panem uiuum. Qui credit manducat. Inuisibiliter
+            saginatur, quia inuisibiliter renascitur. „ Et qui manducat carnem meam, et bibit
+            sanguinem meum uitam habet eternam/ Participatione enim filii (quod est per unitatem
+            corporis eius et sanguinis) homo manducans uiuit, nonsumens tantum in sacramento (quod
+            et mali faciunt), sedusque ad Spiritus participationem, ut in corpore Dominitamquam
+            membrum maneat, et eius Spiritu uegetetur, quodest, dum eius mandata seruat. §. i. Ad
+            altare Dei inui-sibile (quo non accedit iniustus) ille peruenit, qui ad hocpresens
+            iustificatus accedit. Inueniet illic uitam, qui hicdiscernit causam suam. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e990">
+          <head xml:id="gd-p3d2-Hd1e992">C. LX</head>
+          <head xml:id="gd-p3d2-Hd1e995" type="question-title"> Spiritus sanctus inuisibilitei'
+            corpus et sanguinem Christi sanctificat.</head>
+          <p xml:id="gd-p3d2-d1e998"> Idem in lib. III. de Trinitate , [c. 4.] </p>
+          <p xml:id="gd-p3d2-d1e1001"> Corpus* et sanguinem Christi dicimus illud, quod ex fructibus
+            terrae acceptum, et prece mistica consecratum,recte sumimus ad salutem spiritualem in
+            memoriamdominicae passionis. Quod cum per manus hominis adillam uisibilem speciem
+            perducatur, non sanctificatur, utsit tam magnum sacramentum, nisi operante
+            inuisibiliterspiritu Dei, cum hec omnia, que per corporales motus inillo opere fiunt,
+            Deus operetur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1005">
+          <head xml:id="gd-p3d2-Hd1e1007">C. LXI</head>
+          <head xml:id="gd-p3d2-Hd1e1010" type="question-title"> Per benedictionem panis efficitur
+            corpus Christi.</head>
+          <p xml:id="gd-p3d2-d1e1013"> Item . </p>
+          <p xml:id="gd-p3d2-d1e1016"> Non omnis panis, sed accipiens benedictionem Christi, fit
+            corpus Christi. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1020">
+          <head xml:id="gd-p3d2-Hd1e1022">C. LXII</head>
+          <head xml:id="gd-p3d2-Hd1e1025" type="question-title"> Dupliciter corpus Christi
+            intelligitur.</head>
+          <p xml:id="gd-p3d2-d1e1028"> Item . </p>
+          <p xml:id="gd-p3d2-d1e1031"> Commendauit enim Christus in hoc sacramento corpus et
+            sanguinem suum, quod etiam fecit et nos ipsos.Nam et nos ipsius corpus facti sumus. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1035">
+          <head xml:id="gd-p3d2-Hd1e1037">C. LXIII</head>
+          <head xml:id="gd-p3d2-Hd1e1040" type="question-title"> Sacrificium altaris sacramentum est
+            unitatis.</head>
+          <p xml:id="gd-p3d2-d1e1043"> Item [tractatu XXVI. ad c. 6. Iohannis]. </p>
+          <p xml:id="gd-p3d2-d1e1046"> Hoc sacramentum* pietatis est, signum unitatis, uincu-lum
+            karitatis. Qui uult uiuere, accedat et credat, incorporetur. §. i. Hunc cibum et potum
+            societatem uult intelligi corporis et membrorum suorum, quod estecclesiae s in
+            predestinatis. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1050">
+          <head xml:id="gd-p3d2-Hd1e1052">C. LXIV</head>
+          <head xml:id="gd-p3d2-Hd1e1055" type="question-title"> Spiritualiter magis quam
+            corporaliter corpus Christi debemus accipere. i7em. </head>
+          <p xml:id="gd-p3d2-d1e1058"> XX. Pars. Panem de altari* spiritualiter manducare est
+            innocentiam ad altare portare. Peccataetsi sint cottidiana, uel non sint mortifera.
+            Ante,quam accedatis : ,, dimittite s debitoribus uestris.Si dimittis, dimittetur tibi:
+            securus accede, panisest et, non uenenum. Sed uide, si dimittis, nementiaris Deo, quem
+            non fallis. Mentiri Deo potes :fallere ipsum non potes. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1063">
+          <head xml:id="gd-p3d2-Hd1e1065">C. LXV</head>
+          <head xml:id="gd-p3d2-Hd1e1068" type="question-title"> Sacramentum , non ueritatem Christi
+            corporis accipit , qui ab eo discordat. </head>
+          <p xml:id="gd-p3d2-d1e1071"> Item\m libro Sentenciarum, c. 139.] </p>
+          <p xml:id="gd-p3d2-d1e1074"> Qui discordat a Christo, nec manducat eius carnem, nec
+            sanguinem bibit, et si tantae rei sacramentum ad iudicium suae perditionis cottidie
+            accipit. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1078">
+          <head xml:id="gd-p3d2-Hd1e1080">C. LXVI</head>
+          <head xml:id="gd-p3d2-Hd1e1083" type="question-title"> Sancta nocent malis , et mala
+            prosunt bonis. </head>
+          <p xml:id="gd-p3d2-d1e1086"> Item [tractatu VI. et LXII. in Iohannem]*. </p>
+          <p xml:id="gd-p3d2-d1e1089"> Et sancta malis possunt obesse; bonis sunt ad salutem, malis
+            ad iudicium. Unde Apostolus: ,,Qui manducat etbibit indigne, iudicium sibi manducat et
+            bibit, non quiailla res mala est, sed quia malus male accipit quod bonumest. Non enim
+            mala erat buccella, que Iudae data est aDomino. Salutem medicus dedit; sed quia ille,
+            quiindignus erat, accipit, ad perniciem sui accepit. Etmala prosunt bonis, sicut angelus
+            sathanae Paulo. Permalum enim fit bonum, cum bene accipitur malum. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1093">
+          <head xml:id="gd-p3d2-Hd1e1095">C. LXVII</head>
+          <head xml:id="gd-p3d2-Hd1e1098" type="question-title"> Non prohibeantur mali de mensa
+            Domini manducare. </head>
+          <p xml:id="gd-p3d2-d1e1101"> Idem . </p>
+          <p xml:id="gd-p3d2-d1e1104"> Non prohibeat dispensator manducare pingues terrae mensam
+            Domini, sed exactorem moneat timere. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1108">
+          <head xml:id="gd-p3d2-Hd1e1110">C. LXVIII</head>
+          <head xml:id="gd-p3d2-Hd1e1113" type="question-title"> Et qui indigne accedit tamen corpus
+            Christi accipit. </head>
+          <p xml:id="gd-p3d2-d1e1116"> Idem [in lib. V. de baptismo, c. 8.] </p>
+          <p xml:id="gd-p3d2-d1e1119"> Sicut ludas, cum buccellam Christus tradidit, non malum
+            accipiendo, sed male accipiendo locum prebuit diabolo, sic indigne quisque sumens
+            corpusChristi, non efficit, ut, quia malus est, malum sit, aut,quia ad salutem non
+            accipit, nichil accipits. Corpusenim et sanguis Domini nichilominus erat inillis, quibus
+            dicebat Apostolus: „Qui manducat indigne, iudicium sibi manducat et bibit.“ </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1123">
+          <head xml:id="gd-p3d2-Hd1e1125">C. LXIX</head>
+          <head xml:id="gd-p3d2-Hd1e1128" type="question-title"> Quibus exemplis preter naturam
+            substantia panis et uini in corpus et sanguinem Christi conuerti probetur. </head>
+          <p xml:id="gd-p3d2-d1e1131"> Item Ambrosius de sacramentis . </p>
+          <p xml:id="gd-p3d2-d1e1134"> XXI. Pars. Reuera mirabile est, quod manna Deuspluerit
+            patribus, et cottidiano celi pascebantur alimento.Unde dictum est: „Panem angelorum
+            manducauit homo.“Sed tamen panem illum qui manducauerunt, omnes indeserto mortui sunt.
+            Ista autem esca, quam accipitis,iste panis uiuus, qui de celo descendit, uitae eternae
+            substantiam ministrat, et quicumque hunc manduca-uerit, non morietur in eternum, et
+            corpus est Christi.Considera nunc, utrum prestantior sit panis angelorum, ancaro
+            Christi, que utique corpus est uitae. Manna illud decelo, hoc super celum; illud celi,
+            hoc Domini celorum;illud corruptioni obnoxium, si in diem alterum seruaretur,hoc alienum
+            ab omni corruptione, quicumque s religiosegustauerit, corruptionem sentire non poterit.
+            Illis aqua depetra fluxit, tibi sanguis e Christo; illos ad horam satiauitaqua, te
+            sanguis diluit in eternum. Iudeus bibit et sitit; tu,cum biberis, sitire non poteris; et
+            illud in umbra, hoc inueritate. Si illud, quod miraris, umbra est, quantum istudest,
+            cuius umbram miraris? Audi, quia umbra est,que apud patres est facta: „Bibebant,'“
+            inquit, „deconsequenti eos petra; petra autem erat Christus. Sed nonin pluribus eorum
+            conplacitum est Deo. Nam prostratisunt in deserto. Hec autem facta sunt in figura
+            nostri.Cognouisti potiora: potior enim est lux quam umbra,ueritas quam figura, corpus
+            auctoris quam manna decelo. §. i. Forte dicas: aliud uideo; quomodo tu michiasseris,
+            quod Christi corpus accipiam? Et hoc nobis adhucsuperest ut probemus. Quantis igitur
+            utimur exemplis,ut probemus, hoc non esse, quod natura formauit, sedquod benedictio
+            consecrauit, maioremque uim esse benedictionis, quam naturae, quia benedictione etiam
+            natura ipsamutatur? Virgam tenebat Moyses; proiecit eam, etfacta est serpens. Rursus
+            apprehendit caudam serpentis,et in uirgae naturam reuertit. Vides ergo, prophetica
+            gratia bis mutatam esse naturam, et serpentis etuirgae. Currebant Egypti flumina puro
+            meatu aquarum;subito de fontium uenis sanguis cepit erumpere; non eratpotus in fluuiis;
+            rursus ad Prophetae preces eruor cessauitfluminum, aquarum natura remeauit. Circumclusus
+            eratundique populus Ebreorum, hinc Egyptiis uallatus, indemari clausus. Virgam leuauit
+            Moyses; separauit se aqua,et in murorum speciem congelauit, atque inter undas
+            uiapedestris apparuit. Iordanis retrorsum conuersus contranaturam in sui fontis
+            reuertitur exordium. Nonne claret,naturam uel maritimorum fluctuum, uel fluuialis
+            cursusesse mutatam? Sitiebat populus patrum, tetigit Moysespetram, et aqua de petra
+            fluxit. Numquid non preter naturam operata est gratia, ut aquam uomeret petra, quamnon
+            habebat natura? Marath fluuius amarissimus erat, utsitiens populus bibere non posset;
+            misit Moyses lignum inaquam, et amaritudinem suam aquarum natura deposuit,quam infusa
+            subito gratia temperauit. Sub Heliseopropheta uni ex filiis prophetarum excussum est
+            ferrumde securi, et statim mersum est; rogauit Heliseum qui amiserat ferrum; misit etiam
+            Heliseus lignum in aquam, etferrum natauit. Utique et hoc preter naturam factum?
+            cognouimus^. Grauior est enim ferri species,quam aquarum liquor. §. 2. Aduertimus
+            igitur, maiorisesse gratiam quam naturam, et adhuc tamenpropheticae benedictionis
+            numeramus gratiam. Quodsi tantum ualuit humana benedictio, ut naturam conuer-teret, quid
+            dicimus de ipsa consecratione diuina, ubiuerba ipsa Domini saluatoris operantur? Nam
+            sacramentum istud, quod accipis, Christi sermone conficitur. Quodsi tantum ualuit sermo
+            Helyae, ut ignem de celo deponeret, non ualebit Christi sermo, ut species elementorum
+            mutet? De totius mundi operibus legisti: „quiaipse dixit, et facta sunt: ipse mandauit,
+            et creata sunt.“Sermo igitur Christi, qui potuit ex nichilo facerequod non erat, non
+            potest ea, que sunt, in id mutare, quodnon erant? Non enim minus est darequam
+            mutarenouas naturas rebus. §. 3. Sed quid argumentis utimur?suis utamur exemplis,
+            incarnationisque misterii astruamus ueritatem. Numquid naturae usus presensit,cum Iesus
+            Dominus ex Maria nasceretur? Si ordinem queri-mus, uiro mixta femina generare
+            consueuerat. Liquetigitur, quod preter naturae ordinem uirgo generauit. Ethoc, quod
+            conficimus, corpus ex Virgine est. Quid hicnaturae ordinem queris in Christi corpore,
+            cum preter naturam sit ipse Dominus Iesus partus ex Virgine? Verautique caro Christi,
+            que crucifixa est, que sepulta est.Vere ergo illius carnis sacramentum est. Ipse
+            DominusIesus clamat: ,,Hoc est corpus meum. Ante benedictionem uerborum celestium alia
+            species nominatur; postconsecrationem corpus significatur. Ipse dicit sanguinem suum.
+            Ante consecrationem aliud dicitur; postconsecrationem sanguis nuncupatur, tu dicis:
+            Amen,hoc est: uerum esty. Quod sermo sonat affectus sentiat. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1138">
+          <head xml:id="gd-p3d2-Hd1e1140">C. LXX</head>
+          <head xml:id="gd-p3d2-Hd1e1143" type="question-title"> Quomodo per partes Christus
+            manducatur, et integer permanet . </head>
+          <p xml:id="gd-p3d2-d1e1146"> Augustinus in quodam sermone de uerbis Euangelii . </p>
+          <p xml:id="gd-p3d2-d1e1149"> Inuitat Dominus seruos, et preparat eiscibum se ipsum. Quis
+            audeat manducare Dominum suum?et tamen ait: „Qui mauducat me, uiuit propter me.“Quando
+            manducatur, uita manducatur, nec occiditur, utmanducetur, sed mortuos uiuificat. Quando
+            manducatur,reficit, sed non deficit. Manducatur Christus: uiuitmanducatus, quia surrexit
+            occisus, nec, quando manducatur, partes de illo facimus. Et quidem in sacramento sic
+            fit, norunt fideles, quemadmodum manducentcarnem Christi; unusquisque suam partem
+            accipitS; perpartes manducatur, et manet integer totus; per partes manducatur in
+            sacramento, manet integer totus in celo,manet integer totus in corde tuo. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1154">
+          <head xml:id="gd-p3d2-Hd1e1156">C. LXXI</head>
+          <head xml:id="gd-p3d2-Hd1e1159" type="question-title"> Cottidianum sacrificium non
+            reiteratio est passionis , sed conmemoratio. </head>
+          <p xml:id="gd-p3d2-d1e1162"> Item Pascasius de corpore et sanguine Christi, [c. 9.] </p>
+          <p xml:id="gd-p3d2-d1e1165"> XXII. Pars. Iteratur cottidie hec oblatio, licet Christus,
+            semel passus in carne, per unam eandemque mortispassionem semel saluauerit mundum, ex
+            qua morteresurgens ad uitam, mors ei ultra non dominabitur,quiioeod profecto sapientia
+            Dei patris necessarium pro multis causis hoc prouidit. Primo quidem, quia cottidie
+            peccamus, saltim in peccatis, sine quibus mortalis infirmitasuiuere non potest, quia,
+            licet omnia peccata donata sintin baptismo, infirmitas tamen peccati adhuc in
+            carnemanet. Unde Psalmista*; „Benedic anima mea Domino, qui propitiatur omnibus
+            iniquitatibus tuis, qui sanatomnes infirmitates tuas." Et ideo, quia labimur
+            cottidie,Christus cottidie pro nobis mistice inmolatur, et passio Christi in misterio
+            traditur, ut qui semel moriendo mortemuicerat, cottidie recidiua delictorum per hec
+            sacramentacorporis et sanguinis peccata relaxet. Unde oramus:,, Dimitte nobis debita
+            nostra," quia, si dixerimus,quia peccatum non habemus, ipsi nos seducimus, etueritas in
+            nobis non est. itera: §. 1. Iteratur hocmisterium ets ob conmemorationem passionis
+            Christi,sicut ipse ait: „ Hoc quociescumque agitis, in meamconmemorationem facite.
+            Quotiescumque ergo hunc panemsumitis, et bibitis hunc calicem, mortem Domini
+            annun-ciabitis, donec ueniat." Non itaque sic accipiendumest, donec mors Christi ueniat,
+            quia iam ultra non moritur, sed donec ipse Dominus ad iudicium ueniet. Interdum autem
+            semper mors est Christi per seculi uitamposteris nuncianda, ut discant, qua karitate
+            dilexitsuos, qui pro eis mori dignatus est, cui omnes uicem debemus rependere karitatis,
+            quia ad hoc nos prior dilexit,cum essemus gehennae filii, ut diligeremus eum a morteiam
+            liberati. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1169">
+          <head xml:id="gd-p3d2-Hd1e1171">C. LXXII</head>
+          <head xml:id="gd-p3d2-Hd1e1174" type="question-title"> Non solum sub figura, sed etiam in
+            ueritate </head>
+          <p xml:id="gd-p3d2-d1e1177"> dominici corporis et sanguinis sacramentum celebratur. </p>
+          <p xml:id="gd-p3d2-d1e1180"> Item Augustinus . </p>
+          <p xml:id="gd-p3d2-d1e1183"> Utrum sub figura*, an sub ueritate hoc misticum calicis
+            sacramentum fiat. Veritas ait: „Caro mea uereest cibus, et sanguis meus uere est potus."
+            Alioquin quomodo erit magnum: „Panis, quem ego dabo, caro meaest pro mundi uita," nisi
+            uera sit caro? Sed quia Christumfas uorari dentibus non est, uoluit hunc panem et
+            uinumin misterio uere carnem suam et sanguinem consecrationem sancti Spiritus
+            potentialiter creari, et cottidie promundi uita mistice inmolari, ut, sicut de Virgine
+            perSpiritum uera caro sine coitu creatur, ita per eundemex substantia panis et uini
+            mistice idem Christi corpus consecretur. Corpus Christi et ueritas et figura est:
+            ueritas,dum corpus Christi et sanguis uirtute Spiritus in uirtuteipsius ex panis
+            uinique^ substantia efficitur; figura ueroest id, quod exterius sentitur. §. 1. Iteratur
+            autem cottidie hec oblatio, licet Christus semel passus sit, quia cottidie peccamus,
+            peccatis, sine quibus mortalis infirmitasuiuere non potest. Et ideo, quia cottidie
+            labimur, cottidie Christus inmolatur mistice pro nobis. §. 2*Intra catholicam ecclesiam
+            in misterio corporis Christi nichil a bono maius, nichil a malo minus perficitur
+            sacerdote, quia non in merito consecrantis, sed in uerboefficitur Creatoris, et uirtute
+            Spiritus sancti. Si enimin merito esset sacerdotis, nequaquam ad Christum pertineret.
+            Nunc autem, sicut ipse est, qui baptizat^ ita ipseest, qui per Spiritum sanctum hanc
+            suam efficit carnem, ettransit** in sanguinem. Unde et sacerdos:„Iube," inquit, „ hoc
+            perferri per munus sanctiangeli tui in sublime altare tuum in conspectu diuinae
+            maiestatis tuae." Ut quid deferenda in lucem deposcit,nisi ut intelligatur, quod ista
+            fiant in eo p sacerdotio?Hanc igitur f oblationem benedictam, per quam &lt;i bene-
+            dicimur; asscriptam, per quam homines in celo asscribi-mur; ratam, per quam uisceribus
+            Christi censeamur; rationabilem, per quam a bestiali sensu exuamur; acceptabilem, ut qui
+            nobis ipsis displicemus per hancacceptabiles eius unico filio simus. Nichil
+            rationabilius, ut,quia nos iam similitudinem mortis eius in baptismo accepimus,
+            similitudinem quoque et sanguinis sumamus,ita, et y ueritas non desit in sacramento, et
+            ridiculum nullum fiat a paganis, quod cruorem occisi hominis bibamus. Si enim discipuli
+            patienter ferre nequiuerunt, quodDominus dixerat: ,,Qui non manducat meam carnemetc.“ si
+            dixerunt; „ durus est hic sermo,“ quomodo ferrent ista increduli? Credendum est, quod
+            inuerbis Christi sacramenta conficiantur. Cuius enimpotentia creantur, eius utique uerbo
+            ad melius procreantur. §. 3. Reliqua omnia, que sacerdos dicit, autclerus chori canit,
+            nichil aliud quam laudes et gratiarum actiones sunt, aut certe obsecrationes et fidelium
+            petitiones. Unde et sacerdos dicit prius Euangelistarumuerba assumens: ,,Qui pridie,
+            quam pateretur etc.“++In hoc ergo creatur illud corpus. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1187">
+          <head xml:id="gd-p3d2-Hd1e1189">C. LXXIII</head>
+          <head xml:id="gd-p3d2-Hd1e1192" type="question-title"> In sanguine agni Christi sanguis ,
+            qui uere nunc sumitur , olim •prefigurabatur. </head>
+          <p xml:id="gd-p3d2-d1e1195"> Gregorius in omelia Pascali ™ a. </p>
+
+          <p xml:id="gd-p3d2-d1e1198"> Quid sit sanguis agni, non iam audiendo, sed bibendo
+            didicistis. Qui sanguis super utrumque postem ponitur,quando non solum ore corporis, sed
+            etiam ore cordis hauritur. Item [Dial. 1 . 4. c. 58.J: §. 1. Hec salutaris uictimaillam
+            nobis mortem unigeniti per misterium reparat, qui,licet surgens a mortuis iam non
+            moritur, morsilli 1142 d itra non dominabitur, tamen in se ipso inmor-taliter et
+            incorruptibiliter uiuens, iterum in hoc misteriomoritur*. Eius quoque S ubique corpus
+            sumitur, eiuscaro in salutem populi partitur, eius sanguis noniam in manus infidelium,
+            sed in ora fidelium funditur. Hinc ergo pensemus, quale sit hoc sacrificium , quod pro
+            absolutione nostra passionem unigenitifilii semper imitatur. Quis enim fidelium habere
+            dubiumpossit, in ipsa inmolationis hora ad sacerdotis uocem celosaperiri? in illo Iesu
+            Christi misterio angelorum chorosadesse? summa et ima sociari, unum quid exinuisibilibus
+            atque uisibilibus fieri? Idem? §. 2. Uno, inquit** eodemque tempore ac momento et in
+            celo rapitur ministerio angelorum consociandum corpori Christi,et ante oculos sacerdotis
+            in altari uidetur. Et infra: §. 3.Tanta est ecclesiae unitas in Christo, ut unus ubique
+            sitpanis corporis Christi, et unus sit calix sanguinis eius. Calixenim, quem sacerdos
+            catholicus sacrificat, non est alius,nisi ipse, quem Dominus Apostolis tradidit, quia,
+            sicut diui-nitas uerbi Dei una est, que totum inplet mundum, ita,licet multis locis et
+            innumerabilibus diebus illud corpusconsecretur, non sunt tamen multa corpora Christi,
+            nequemulti calices, sed unum corpus Christi, et unus sanguis cumillo, quod sumpsit in
+            utero Virginis, et quod dedit Apostolis. Diuinitas enim uerbi replet illud, quod ubique
+            est,et coniungit, ac facit, ut, sicut ipsa una est, itacorpori Christi, et unum eius
+            corpus sit in ueritate.Unde animaduertendum est, quia, siue plus siue minus quisinde
+            percipiat, omnes equaliter corpus Christi integerrimesumunt, et generaliter omnes, et
+            specialiter unusquisque. Item: §. 4. Misterium fidei dicitur, quia credere debes,quod
+            ibi salus nostra consistat p. Prouidens enimnobis dedit hoc sacramentum salutis, ut,
+            quia nos cotti-die peccamus, et ille iam mori non potest, per istud sacramentum
+            remissionem consequamur peccatorum. Cotti-die enim ipse comeditur et bibitur in
+            ueritate, sed integer,et uiuus, atque inmaculatus manet***, et ideo magnum etpauendum
+            misterium est, quia aliud uidetur, et aliud intelligitur. Sed cum misterium sit, unde
+            corpus et sanguisdicitur? Figuram panis et uini habet faciente Domino, quianon habemus
+            in usu carnem crudam comedere, et biberesanguinem. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1202">
+          <head xml:id="gd-p3d2-Hd1e1204">C. LXXIV</head>
+          <head xml:id="gd-p3d2-Hd1e1207" type="question-title"> Post consecrationem licet figura
+            panis et uini remaneat , tamen nichil est ibi , nisi corpus etsanguis Christi. </head>
+          <p xml:id="gd-p3d2-d1e1210"> Item Ambrosius . </p>
+          <p xml:id="gd-p3d2-d1e1213"> ,, Omnia, quecumque uoluit Dominus, fecit in celo et in
+            terra.“ Et quia uoluit sic factum est ita licetfigura panis et uini uideatur nichil
+            tamen aliud, quamcaro Christi et sanguis post consecrationem sunt. Undeipsa ueritas ad
+            discipulos: ,,Hec,“ inquit, ,,caro meaest, pro mundi uita.“ Et, ut mirabilius loquar,
+            non aliaplane, quam que nata est de Maria, et passa in cruce, etresurrexit de sepulcro;
+            hec, inquam, ipsa est. Et ideoChristi est caro, que pro mundi uita adhuc hodie
+            offertur,et, cum digne percipitur, uita utique eternam nobisreparatur. Panem quidem*
+            istum, quem sumimus inmisterio, illum utique intelligo panem, qui manu S. Spiritus
+            formatus est in utero Virginis, et igne passionis decoctus in ara crucis. Panis enim
+            angelorum factus est cibus hominum, unde ipse ait: ,,Ego sum panis uiuus, qui de
+            celodescendi,'“ et item: „Panis, quem ego dabo, caro meaest, pro mundi uita.“ Ex his
+            namque duabus sentenciisaperte datur intelligi, quia panis iste et ille non duo, sedunus
+            panis et una caro, proculdubio unum corpus efficitur;illud uere, illud sane, quod
+            sumptum est de Virgine, quodpassum est, et sepultum, quodque resurrexit s, et incelum
+            ascendit, et sedet ad dexteram Dei patris, et quoduenturum est iudicare uiuos et
+            mortuos. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1217">
+          <head xml:id="gd-p3d2-Hd1e1219">C. LXXV</head>
+          <head xml:id="gd-p3d2-Hd1e1222" type="question-title"> Qucimuis cottidie manducatur
+            Christus, integer tamen permanet uiuus . </head>
+          <p xml:id="gd-p3d2-d1e1225"> Item Augustinus ex sermone de uerbis Domini *. </p>
+          <p xml:id="gd-p3d2-d1e1228"> „ Qui manducat me, uiuit propter me.“ Non ergo, fratres,
+            timeamus manducare panem istum, ne forte finiamus illum, et postea quod manducemus non
+            inueniamus.Manducetur Christus: uiuit manducatus, quia surrexit occisus ; nec, quando
+            manducamus, partes de illo facimus. Etquidem in sacramento sic fit, et norunt fideles,
+            quemadmodum manducent carnem Christi. Unusquisque accipitpartem suam, unde et ipsa
+            gratia partes uocantur. Perpartes manducatur, et manet integer totus; per partes
+            manducatur in sacramento, et manet integer totus in celo;manet integer totus in corde
+            tuo. Totus enim erat apudpatrem, quando uenit in Virginem; inpleuit iMam, nec recessit
+            ab illo. Veniebat in carnem, ut homines eummanducarent, et manebat integer apud patrem,
+            ut angelos pasceret. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1232">
+          <head xml:id="gd-p3d2-Hd1e1234">C. LXXVI</head>
+          <head xml:id="gd-p3d2-Hd1e1237" type="question-title"> Corpus et sanguinem Christi
+            secundum se nulli accipere licet. </head>
+          <p xml:id="gd-p3d2-d1e1240"> Item Ieronimus in Leuitico. </p>
+          <p xml:id="gd-p3d2-d1e1243"> De hac quidem hostia, que in Christi conmemora-tione
+            mirabiliter fit, edere licet; de illa uero, quam Christus in ara crucis obtulit,
+            secundum se nulli edere licet. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1248">
+          <head xml:id="gd-p3d2-Hd1e1250">C. LXXVII</head>
+          <head xml:id="gd-p3d2-Hd1e1253" type="question-title"> Corpus Christi in singulis
+            portionibus singuli totum accipiunt.</head>
+          <p xml:id="gd-p3d2-d1e1256"> Idem in serm. dominicae V. post Theophaniam *. </p>
+          <p xml:id="gd-p3d2-d1e1259"> Singuli autem accipiunt Dominum Christum, et in singulis
+            portionibus totus est, nec per singulos minuitur,sed integrum se prebet in singulis. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1263">
+          <head xml:id="gd-p3d2-Hd1e1265">C. LXXVIII</head>
+          <head xml:id="gd-p3d2-Hd1e1268" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p3d2-d1e1271"> Item Hylarius . </p>
+          <p xml:id="gd-p3d2-d1e1274"> Ubi pars est corporis, est et totum. Eadem ratio est in
+            corpore Domini, que in manna, quod in eius figura precessit,de quo dicitur: „Qui plus
+            collegerat non habuit amplius,neque qui minus parauerat habuit minus.“ Nonest quantitas
+            uisibilis in hoc estimanda misterio,sed uirtus spiritualis sacramenti. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1278">
+          <head xml:id="gd-p3d2-Hd1e1280">C. LXXIX</head>
+          <head xml:id="gd-p3d2-Hd1e1283" type="question-title"> Corpus Christi, quod sumitur, et
+            figura est in specie, et ueritas in substantia.</head>
+          <p xml:id="gd-p3d2-d1e1286"> Jdg1220*. </p>
+          <p xml:id="gd-p3d2-d1e1289"> Corpus Christi, quod sumitur de altari, figura est, dum panis
+            et uinum extra uidetur; ueritas autem, dum corpus etsanguis Christi in ueritate interius
+            creditur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1293">
+          <head xml:id="gd-p3d2-Hd1e1295">C. LXXX</head>
+          <head xml:id="gd-p3d2-Hd1e1298" type="question-title"> Carnem uiuificatricem, et ipsius
+            uerbi propriam factam in altari accipimus . </head>
+          <p xml:id="gd-p3d2-d1e1301"> Item ex Simbolo Eph e sino*. </p>
+          <p xml:id="gd-p3d2-d1e1304"> Necessarie igitur et hoc adicimus. Incruentam celebramus in
+            ecclesiis sacrificii seruitutem. Et sanctificamur participes corporis et preciosi
+            sanguinisChristi, non ut communem carnem percipientes,nec s uiri sanctificata et uerbo
+            coniuncti secundum dignitatis unitatem, sed uere uiuificatricem, et ipsiusuerbi propriam
+            factam. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1308">
+          <head xml:id="gd-p3d2-Hd1e1310">C. LXXXI</head>
+          <head xml:id="gd-p3d2-Hd1e1313" type="question-title"> Quomodo manna et aqua de petra sint
+            idem cum nostro cibo et potu. </head>
+          <p xml:id="gd-p3d2-d1e1316"> Item Augustinus [tractatu XXVI. ad c. 6. Iohannis]*. </p>
+          <p xml:id="gd-p3d2-d1e1319"> Inquit Apostolus: „Omnes eandem escam spiritualem
+            manducauerunt.“ Spiritualem utique eandem: nam corporalem aliam, quia illi manna
+            manducauerunt, nosaliud, ,,et omnes eundem potum spiritualem biberunt.^Aliud illi, aliud
+            nos: sed specie uisibili. Quod tamenidem est uirtute spirituali. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1323">
+          <head xml:id="gd-p3d2-Hd1e1325">C. LXXXII</head>
+          <head xml:id="gd-p3d2-Hd1e1328" type="question-title"> Quod ueritatem dominici corporis et
+            sanguinis sumimus.</head>
+          <p xml:id="gd-p3d2-d1e1331"> Item Hylarius de Trinitate, lib. F/Z 7 . </p>
+          <p xml:id="gd-p3d2-d1e1334"> XXIII. Pars. In Christo pater, et Christus innobis unum in
+            his esse nos faciunt. Si uere carnemcorporis nostri Christus assumpsit, et uere homo
+            ille.Christus est, nosque uere sub misterio carnem corporissui 1251 c sumimus, et per
+            hoc unum erimus , quia pater in eo est, et ille in nobis, quomodo uoluntatis unitas
+            asseritur, cum naturalis per sacramentum proprietas perfectum sacramentum sit unitatis?
+            Non est humano autseculi sensu de his rebus loquendum, neque peruiolentam atque
+            inprudentem predicationem dictorum celestium sanitati alienae atque inpiae
+            intelligentiaeperuersitas est extorquenda s*. De naturali enim innobis Christi ueritate
+            que dicimus, nisi ab eo didicimus, stulte atque inpie dicemus. Ipse enim ait:„Caro mea
+            uere est esca, et sanguis meus uere est potus.Qui edit carnem meam, et bibit sanguinem
+            meum, in memanet, et ego in eo.“ De ueritate carnis et sanguinis nonest relictus
+            ambigendi locus. Nunc enim et ipsius Domini professione et fide nostra uere caro est, et
+            ueresanguis est, et hec accepta atque hausta efficiunt, ut etnos in Christo, et Christus
+            in nobis sit. Est ergo innobis ipse per carnem. §. i. Quod autem in eoper sacramentum
+            conmunicatae carnis et sanguinis simus,ipse testatur, dicens: „Vos autem uidebitis
+            me,quia° ego uiuo, et uos uiuetis, quoniam ego in patremeo °, et uos in me, et ego in
+            uobis.“ Si uoluntatis tantum intelligi unitatem uellet, cur gradum quendam atqueordinem
+            consummandae unitatis exposuit, nisi, ut ille p in patre per naturam diuinitatis % nos
+            contra in eo percorporalem eius natiuitatem, et ille rursus in nobis persacramentorum
+            inesse misterium crederetur, ac sic perfectaper mediatorem unitas doceretur, cum nobis
+            in semanentibus ipse maneret in patre, et in patre manens,maneret in nobis, et ita ad
+            unitatem proficisceremur,cum qui in eo naturaliter secundum natiuitatem inest,nos quoque
+            in eo naturaliter inessemus, ipso in nobis naturaliter permanente? §. 2. Quod autem in
+            nobis naturaliter hec unitas sit, ipse ita testatus est: „Qui editcarnem meam, et bibit
+            sanguinem meum, in me manet, etego in eo.“ Non enim in eo erit, nisi in quo ipse
+            fuerit,eius tamen assumptam in se habens carnem, qui suamsumpserat. /temY: „ Sicut misit
+            me uiuens pater,et ego uiuo per patrem, et qui manducauerit meam carnem, et ipse uiuet
+            per me.“ Quomodo perpatrem uiuit, eodem modo nos per carnem eius uiui-i 299 aa, 3, Hec
+            ergo uitae nostrae causa est, quod innobis manentem per carnem Christum habemus, uicturi
+            per eum ea condicione, qua uiuit illeper patrem. Si ergo nos naturaliter secundum
+            carnemper eum uiuimus, id est naturam suae carnis adepti, quomodo non naturaliter
+            secundum spiritum in se patremhabeat, cum uiuat ipse per patrem? Item : §. 4.Hec autem
+            idcirco conmemorata sunt a nobis, quia, uoluntatis tantum inter patrem et filium
+            unitatem heretici men-tientes unitatis nostrae ad Deum utebantur exemplo,tamquam nobis
+            ad filium, et per filium ad patrem obsequiotantum et uoluntate religionis unitis, nulla
+            per sacramentum carnis et sanguinis conmunionis naturalisproprietas indulgeretur, cum et
+            per honorem nobis datum filii, et permanentem m nobis carnaliter^,et nos in eo nobis
+            corporaliter et inseparabiliter unitismisterium uerae ac naturalis unitatis sit
+            predicandum./dem**: §. 4. Corpus Christi, quod sumitur de altari,figura est, dum panis
+            et uinum extra uidetur; ueritasautem, dum corpus et sanguis Christi in ueritate
+            interiuscreditur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1339">
+          <head xml:id="gd-p3d2-Hd1e1341">C. LXXXIII</head>
+          <head xml:id="gd-p3d2-Hd1e1344" type="question-title"> Quare in sacrificio aqua uino
+            miscetur . </head>
+          <p xml:id="gd-p3d2-d1e1347"> Item Ambrosius in lib. [V.] de sacramentis , [c. i.]20* </p>
+          <p xml:id="gd-p3d2-d1e1350"> XXIV. Pars. In calice mittitur uinum, etaqua. Sed dicis:
+            quomodo ergo Melchisedechpanem et uinum obtulit? Quid sibi uult admixtio aquae?„Bibebant
+            autem de consequenti eos petra: petraautem erat Christus.^ Non inmobilis petra, que
+            populumsequebatur. Et tu bibe, ut te Christus sequatur. Vide misterium. Moyses, hoc est
+            Propheta; uirga, hoc est uerbumDei. Sacerdos uerbo Dei tangit petram, et fluit aqua,
+            etbibit populus Dei. Redundat aqua in calice, salit inuitam eternam. /tem&amp;: Accipe
+            et illud. §.2.De latere eius fluxit aqua et sanguis. Aqua, utmundaret; sanguis, ut
+            redimeret. Quare de latere? quiaunde culpa, inde gratia; culpa per feminam, gratia
+            perChristum. Item [c. 3.]: §. 3. Audi Psalmum. Vide,quam, aptus sit celestibus
+            sacramentis: ,,Dominuspascit me, et nichil michi deerit etc. Virga tua, et baculus tuus
+            et cet. Virga inperium, baculus passio est p, eterna deitas &lt;1 Christi, passio
+            temporalis. Illacreauit, hec redemit. „ Parasti in conspectu meo mensam et poculum meum
+            inebrians, quam predarum est. /tem: §. 4. Quocienscumque bibis, remissionem accipis
+            peccatorum, et inebriaris spiritu.Unde et Apostolus: „ Nolite inebriari uino in quoest
+            luxuria y, sed inplemini Spiritu sancto. 7 /m:Preclara ebrietas, que sobrietatem mentis
+            operatur. Item [c. 4.]; §. 5. „Fiat uoluntas tua; sicut in celo et interra. Panem
+            nostrum cottidianum da nobis hodie.Sanguine Christi pacificata sunt omnia uel in celo,et
+            i*? bb j terra. Sanctificatum est celum, deiectus est diabolus, ubi uersatur homo, quem
+            ille decepit. §. 6.Dixi uobis, quod ante uerba Christi quod offertur panisdicatur. Ubi
+            uerba Christi deprompta fuerint, non iampanis sed corpus dicitur.Quare ergo in oratione </p>
+          <p xml:id="gd-p3d2-d1e1353"> dominica ait: „Panem nostrum? Panem dixit quippe, sed
+            ijtiovoiov^ss, hoc est supersubstantialem. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1357">
+          <head xml:id="gd-p3d2-Hd1e1359">C. LXXXIV</head>
+          <head xml:id="gd-p3d2-Hd1e1362" type="question-title"> Veram Christi carnem , et uerum
+            Christi sanguinem manducamus et bibimus. </head>
+          <p xml:id="gd-p3d2-d1e1365"> Idem in lib. F//. </p>
+          <p xml:id="gd-p3d2-d1e1368"> XXV. Pars. Sicut est uerus Dei filius DominusIesus Christus,
+            non quemadmodum homines per gratiam,sed quasi filius ex substantia patris: ita uera
+            Christicaro, sicut ipse dixit, quam accipimus, et uerus sanguiseius est potus*. Jtem: §.
+            1. ,,Ego sum, inquit,„ panis uiuus, qui de celo descendi. Sed caro non descendit de
+            celo. Quomodo ergo descendit s decelo panis uiuus? quia idem Dominus Iesus concors est
+            diuinitatis, et corporis. Et tu, qui accipiscarnem, diuinae eius substantiae in illo
+            participas? alimento. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1372">
+          <head xml:id="gd-p3d2-Hd1e1374">C. LXXXV</head>
+          <head xml:id="gd-p3d2-Hd1e1377" type="question-title"> In sacrificio non corporalem , sed
+            spiritualem escam accipimus. </head>
+          <p xml:id="gd-p3d2-d1e1380"> Item in lib. de misteriis , [cap. 9.] </p>
+          <p xml:id="gd-p3d2-d1e1383"> In illo sacramento Christus est, quia Christi corpus est. Non
+            ergo corporalis esca, sed spiritualis. Unde et Apostolus de tipo eius ait, quia patres
+            nostri eandemescam spiritalem manducauerunt. Corpus enim Deicorpus est spirituale;
+            corpus Christi corpus est diuinispiritus. </p>
+
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1387">
+          <head xml:id="gd-p3d2-Hd1e1389">C. LXXXVI</head>
+          <head xml:id="gd-p3d2-Hd1e1392" type="question-title"> Carnem a Christo susceptam , et
+            corpus transfiguratum in altari offerimus. </head>
+          <p xml:id="gd-p3d2-d1e1395"> Idem in sermone de Abel et Ctoyn. </p>
+          <p xml:id="gd-p3d2-d1e1398"> Si credis, a Christo, carnem esse susceptam, et offeras
+            transfiguratum corpus in altari, nec tamendistinguis naturam uerbi et corporis, dicitur
+            tibi:„ Si recte offeras, recte autem non diuidas, peccasti. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1402">
+          <head xml:id="gd-p3d2-Hd1e1404">C. LXXXVII</head>
+          <head xml:id="gd-p3d2-Hd1e1407" type="question-title"> In*cena Christus fuit conuiua et
+            conuiuium.</head>
+          <p xml:id="gd-p3d2-d1e1410"> Item Ieronimus ad Heldibiam, [quaest. II.] </p>
+          <p xml:id="gd-p3d2-d1e1413"> Nec Moyses dedit uobis panem uerum, sed Dominus Iesus ipse
+            conuiua et conuiuium, ipse comedens, et qui comeditur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1417">
+          <head xml:id="gd-p3d2-Hd1e1419">C. LXXXVIII</head>
+          <head xml:id="gd-p3d2-Hd1e1422" type="question-title"> In ueritate sui corporis et
+            sanguinis Christus suis discipulispresentauit quod Melchisedechsacramentaliter obtulit. </head>
+          <p xml:id="gd-p3d2-d1e1425"> Item super Mattheum , [lib. IV. ad c. 26.] </p>
+          <p xml:id="gd-p3d2-d1e1428"> ,, Accipite et comedite. Hoc est corpus meum. Postquam
+            tipicum fuerat pasca conpletum, et agni carnes cum Apostolis comederat, assumpsit panem,
+            qui confortator est hominis, et ad uerum Pascae transitsacramentum, ut, quomodo in
+            prefiguratione eius Melchisedech panem et uinum offerens fecerat, ipse quoque inueritate
+            sui corporis et sanguinis representaret. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1433">
+          <head xml:id="gd-p3d2-Hd1e1435">C. LXXXIX</head>
+          <head xml:id="gd-p3d2-Hd1e1438" type="question-title"> Christus idem est sacerdos et
+            sacrificium.</head>
+          <p xml:id="gd-p3d2-d1e1441"> Idem in lib. de membris Domini ^. </p>
+          <p xml:id="gd-p3d2-d1e1444"> Sacerdos Dei patris dicitur filius Dei °, secundum
+            humanitatem, in qua se pro nobis acceptabile sacrificium Deo obtulit, ut ipse sit s
+            sacerdos, quit 1426 h sacrificium. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1448">
+          <head xml:id="gd-p3d2-Hd1e1450">C. XC</head>
+          <head xml:id="gd-p3d2-Hd1e1453" type="question-title"> Iudei credentes biberunt sanguinem
+            , quem in cruce fuderunt. </head>
+          <p xml:id="gd-p3d2-d1e1456"> Item Augustinus de utilitate agendaepenitenciae . </p>
+          <p xml:id="gd-p3d2-d1e1459"> Tunc eis Petrus annunciauit eum colendum, quem crucifixerunt,
+            ut eius iam sanguinem biberent credentes,quem fuderant seuientes. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1463">
+          <head xml:id="gd-p3d2-Hd1e1465">C. XCI</head>
+          <head xml:id="gd-p3d2-Hd1e1468" type="question-title"> Corpus, quod ex Virgine sumptum
+            est, a fidelibus accipitur.</head>
+          <p xml:id="gd-p3d2-d1e1471"> Idem in epist. ad I ren eum . </p>
+          <p xml:id="gd-p3d2-d1e1474"> Corporeum illud manna nunc est* tanti res miraculi, quia
+            uenit quod perfectum est; perfectum autem panisde celo corpus ex Virgine* </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1478">
+          <head xml:id="gd-p3d2-Hd1e1480">C. XCII</head>
+          <head xml:id="gd-p3d2-Hd1e1483" type="question-title"> Verum Christi corpus, uerumque eius
+            sanguinem cottidie manducamus et bibimus. </head>
+          <p xml:id="gd-p3d2-d1e1486"> Idem in Psalm. XXXIII. omelia 7 /. </p>
+          <p xml:id="gd-p3d2-d1e1489"> Accesserunt Iudei ad Jesum, ut crucifigerent; nos accedamus,
+            ut corpus eius et sanguinem accipiamus. 7 tem: §. i. Vere magnus Deus, etmagna
+            misericordia eius, qui nobis dedit corpussuum manducare, in quo tanta perpessus est, et
+            sanguinem suum bibere. Item in Psal. 27. s ad Iudeos: §. 2. Iam et securi bibite
+            sanguinem, quem fudistis. Psal. 75.: §.3. Ipsum sanguinem, quem per insaniamfuderunt,
+            per gratiam biberunt. Psal. 28.: §. 4. Decarne Mariae carnem accepit, et ipsam carnemad
+            m manducandum ad salutem dedit. Nemo autem carnem illam manducat, nisi prius adorauerit.
+            Psal. 33.:§. 5. „Dauid ferebatur* manibus suis.“ Manibus suisnemo portatur. Quomodo
+            intelligatur in ipso Dauid, secundum literam non inuenimus: in Christo autem
+            inuenimus.Ferebatur enim Christus manibus suis, quando conmendansipsum corpus suum ait:
+            ,,Hoc est corpus meum.“Ferebatur enim illud corpus in manibus suis. Idem superIohannem
+            tract. 35.°: §. 6. Quousque biberent sanguinem, quem fuderant, desperaueruntP. Idem
+            inPsal. 54.: §. 7. Iudei pascebantur tamquam de penaDomini, etq nos de cruce Domini
+            pascimur, quia corpusipsius manducamus. Habent ergo inpii epulas suas,habent pii suas.
+            „Beati, qui esuriunt et sitiuntiusticiam/ </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1493">
+          <head xml:id="gd-p3d2-Hd1e1495">C. XCIII</head>
+          <head xml:id="gd-p3d2-Hd1e1498" type="question-title"> Pro infirmantibus eucharistia
+            semper debet esse parata . </head>
+          <p xml:id="gd-p3d2-d1e1501"> Item ex Concilio Wormaciensi^K </p>
+
+          <p xml:id="gd-p3d2-d1e1504"> XXVI. Pars. Presbiter eucharistiam semper habeatparatam, ut,
+            quando quis infirmatus fuerit*, statim eumconmunicet, ne sine conmunione moriatur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1508">
+          <head xml:id="gd-p3d2-Hd1e1510">C. XCIV</head>
+          <head xml:id="gd-p3d2-Hd1e1513" type="question-title"> Penitencia eius, qui non bene
+            sacrificium custodit. </head>
+          <p xml:id="gd-p3d2-d1e1516"> Item ex Concilio Aurelianensi . </p>
+          <p xml:id="gd-p3d2-d1e1519"> XXVII. Pars. Qui bene non custodierit sacrificium, etmus uel
+            aliud aliquod animal illud comederit, XL.dies peniteat. Qui autem perdiderit illud in
+            ecclesia,aut pars eius ceciderit, et inuenta non fuerit, XXX. diespeniteat. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1524">
+          <head xml:id="gd-p3d2-Hd1e1526">C. XCV</head>
+          <head xml:id="gd-p3d2-Hd1e1529" type="question-title"> Ystrionibus sacra non conmittantur
+            misteria . </head>
+          <p xml:id="gd-p3d2-d1e1532"> Ciprianus Euricacio confratri salutem, [lib. I. ep. io.] </p>
+          <p xml:id="gd-p3d2-d1e1535"> XXVIII. Pars. Pro dilectione tua consulendumme existimasti,
+            frater karissime, quid michi uideatur deystrione et mago illo, qui apud uos
+            constitutusadhuc in suae artis dedecore perseuerat, et magister etdoctor non
+            erudiendorum, sed perdendorum puerorum,id, quod male didicit, ceteris quoque insinuat:
+            antalibus debeat sacra conmunio cum ceteris Christianis s dari aut debeat conmunicare
+            uobiscum?Puto nec maiestati diuinae, nec euangelicae disciplinaecongruere, ut pudor et
+            honor ecclesiae tam turpi et infamicontagione fedetur. </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1539">
+          <head xml:id="gd-p3d2-Hd1e1541">C. XCVI</head>
+          <head xml:id="gd-p3d2-Hd1e1544" type="question-title"> Post conuersionem non est deneganda
+            gratia conmunionis.</head>
+          <p xml:id="gd-p3d2-d1e1547"> Item ex Concilio Cartaginensi III., [c. 35.] </p>
+          <p xml:id="gd-p3d2-d1e1550"> Scenicis atque ystrionibus, ceterisque huiusmodi personis,
+            uel apostaticisconuersis, uel reuersis ad Deum,gratia uel reconciliatio non negetur.
+          </p>
+        </div>
+        <div xml:id="gd-p3d2-Dd1e1554">
+          <head xml:id="gd-p3d2-Hd1e1556">C. XCVII</head>
+          <head xml:id="gd-p3d2-Hd1e1559" type="question-title"> Presbiter in altari missam non
+            celebret, in quo eadem die episcopus celebrauit. </head>
+          <p xml:id="gd-p3d2-d1e1562"> Item ex Concilio Urbico . </p>
+          <p xml:id="gd-p3d2-d1e1565"> In altari, quo missam episcopus cantauit, presbiter eo die
+            aliam celebrare non presumat. </p>
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

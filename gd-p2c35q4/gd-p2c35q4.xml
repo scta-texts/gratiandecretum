@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c35q4">
+        <head xml:id="gd-p2c35q4-Hd1e103"> QUESTIO IV. </head>
+
+        <p xml:id="gd-p2c35q4-d1e106"> Modo queritur, quare usque ad sextum gradum consanguinitatis
+          coniunctio prohibeatur? De his ita scribit Ysidorus Ethi-mologiarum lib. XI. c. 6.*: </p>
+
+
+
+
+        <div xml:id="gd-p2c35q4-Dd1e109">
+          <head xml:id="gd-p2c35q4-Hd1e111">C. UN</head>
+          <head xml:id="gd-p2c35q4-Hd1e114" type="question-title"> Quare usque ad sextum gradum
+            consanguinitas obseruetur. </head>
+          <p xml:id="gd-p2c35q4-d1e117"> Consanguinitas dum se paulatim propaginum ordinibus
+            dirimens usque ad ultimum gradum se subtraxerit, et propinquitas esse desierit, tunc
+            primum lex in matrimonii uinculum eam recipiet e, et quodammodo reuocabitfugientem. Ideo
+            autem usque ad sextum gradum generis sconsanguinitas constituta est, ut sicut sex
+            etatibus mundigeneratio, et hominis status finitur, ita propinquitas generistot gradibus
+            terminetur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

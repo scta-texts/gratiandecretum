@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO X. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO X. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c35q10">
+        <head xml:id="gd-p2c35q10-Hd1e103"> QUESTIO X. </head>
+
+        <p xml:id="gd-p2c35q10-d1e106"> De ea autem*, que ad secundas nuptias transit, utrum in
+          eadem affinitate consanguineorum prioris uiri remaneat , an sobo-les ex secundis nuptiis
+          suscepta consanguineis prioris uiri copularipossit, merito queritur. </p>
+        <p xml:id="gd-p2c35q10-d1e109"> De his ita scribit Gregorius Venerio, Caralitano Episcopo : </p>
+        <div xml:id="gd-p2c35q10-Dd1e112">
+          <head xml:id="gd-p2c35q10-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c35q10-Hd1e117" type="question-title"> Affinitas in superstite non
+            deletur . </head>
+          <p xml:id="gd-p2c35q10-d1e120"> Fraternitatis uestrae studiosae sagacitati, frater amande,
+            quas debeo refero grates. Quoniam quesisti quedebuisti, iocundum me reddidisti. Unde
+            placide ad inquisita respondeo. Sedem apostolicam consulere decreuisti, simulier copula
+            nuptiali extraneo uiro coniuncta cognationieius pertineat, si eo defuncto cognatio
+            maneat, uel si subaltero uiro cognationis uocabula dissoluantur, uel si susceptae
+            soboles possunt legitime ad prioris uiri cognationistransire copulam. Est enim uerbum
+            Dei ualidum etforte, et durabile, et perseuerabile, et inmutabile, nonmomentaneum, non
+            transitorium. Ait enim per se ipsaueritas, que Deus est et uerbum Dei est: ,,Celum et
+            terratransibunt, uerba autem mea non transibunt." Ante,quam Deus in carne appareret
+            inter homines, eo inspirantedixit Adam: „Quamobrem relinquet homo patrem suumet matrem,
+            et adherebit uxori suae, et erunt duo in carneuna." Deinde cum ueritas oriretur de terra
+            in terram, etuisibilis appareret in humanitate, interrogatus est, silicitum esset homini
+            uxorem relinquere. Quod prohibens s uetuit, nisi forte fornicatio excluderet mari- </p>
+          <p xml:id="gd-p2c35q10-d1e123"> talem copulam. Unde statim protulit in medium eandem ipsam
+            sentenciam, quam ante secula manens cum Patreuerbum inspirauerat Adae, ipse confirmans
+            quodipse primus protulit homo: „ Quamobrem relinquethomo patrem et matrem, et adherebit
+            uxori suae, eterunt duo in carne una.** Si una caro fiunt, quomodopotest aliquis eorum
+            propinquus uni pertinere, nisi </p>
+          <p xml:id="gd-p2c35q10-d1e126"> ? ertineat alteri? Hoc minime fieri posse credendum est. </p>
+          <p xml:id="gd-p2c35q10-d1e130"> 'orro uno defuncto in superstite affinitas non deletur,
+            nec alia copula coniugalis affinitatem prioris copulae soluereualet. Sed neque alterius
+            coniunctionis soboles placetad affinitatis prioris uiri consortium transire, pro eo,quod
+            uerbum Domini ualidum est et forte, et, ut inquiensdixit Propheta: „Verbum Domini stabit
+            in eternum.**Et alius Propheta: „Quoniam ipse dixit, et facta sunt, ipsemandauit, et
+            creata sunt; statuit ea in eternum, et in secu-lum seculi; preceptum posuit, et non
+            preteribit.** Nampost uerbum atque preceptum effecit duocarnem unam (id est masculum et
+            feminam), qui innumeram multitudinem utriusque sexus non destitit unum faceresecum,
+            sicut per se ueritas dixit: ,,Non pro his rogo tantum, sed etiam pro hisp, qui credituri
+            sunt per uerbumeorum in me, ut i unum sint, sicut tu Pater in me, et egoin te, ut et
+            ipsi in nobis unum sint.** Si quis ergo sacrilego et temerario ausu in defuncto querit
+            propinquitatemexstinguere, uel sub altero affinitatis uocabulo dissipare,uel susceptam
+            sobolem alterius copulae propinquitatiprioris credit legitime sociari, hic negat Dei
+            uerbum uali-dum esse et forte, et qui tam facile uel tam uelociterquerit dissoluere, hic
+            non credit uerbum Dei in eternummanere. Confice terram ex quatuor locis magna
+            intercapedine a se distantibus, confecta et conglutinatamfinge cuiuscumque figurae uel
+            inmensitatis corpus uolueris,numquid erit humanum ingenium, quod ipsas quatuor partesab
+            inuicem ualeat segregare, ut unaqueque per se possitagnosci? Sic a quatuor auis duo
+            conficiuntur in unum, etde duobus fit una concreatio. Hanc similitudinem de quatuor
+            elementis, unde homo concreatus est, colligere potes, sieorum unamquamque speciem, que
+            in multis diuisioni-bus partita est, per discretas inter se assignaueris partes.Fit idem
+            in metallis; hoc etiam in liquoribus probaturin coloribus pictor prosequitur, arte
+            colores admiscendo*, ex uisibilibus fucis corpora fingens. </p>
+        </div>
+        <div xml:id="gd-p2c35q10-Dd1e134">
+          <head xml:id="gd-p2c35q10-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c35q10-Hd1e139" type="question-title"> Soboles ex secundis nuptiis
+            genita consanguineis prioris uiri copulari non debet.</head>
+          <p xml:id="gd-p2c35q10-d1e142"> Item Innocentius . </p>
+          <p xml:id="gd-p2c35q10-d1e145"> Si cuius patruus uel auunculus uxoratus obierit, et illa
+            uirum alium postea duxerit, filios filiasue ex illo genuerit,cum his modis omnibus
+            conmisceri prohibemus, quia uir etmulier una caro est. </p>
+
+          <p xml:id="gd-p2c35q10-d1e148"> [C. III.] ^ </p>
+          <p xml:id="gd-p2c35q10-d1e152"> Item ex Romana Sinodo °. </p>
+          <p xml:id="gd-p2c35q10-d1e155"> Si qua mulier ad secundas nuptias transierit, et ex eis
+            sobolem genuerit, nullo modo potest ad consortium cognationis prioris uiri pertingere. </p>
+          <p xml:id="gd-p2c35q10-d1e158"> [PALE A. </p>
+          <p xml:id="gd-p2c35q10-d1e161"> C. IV. De eodem. </p>
+          <p xml:id="gd-p2c35q10-d1e164"> Item Higinus Papa. </p>
+          <p xml:id="gd-p2c35q10-d1e167"> Si qua mulier transierit ad secundas nuptias, et ex eis
+            prolem habuerit, ipsa proles non potest se copulare cognationi prioris uiri usque ad
+            quartam generationem.] </p>
+        </div>
+        <div xml:id="gd-p2c35q10-Dd1e172">
+          <head xml:id="gd-p2c35q10-Hd1e174">[PALEA.</head>
+          <p xml:id="gd-p2c35q10-d1e177"> Unde Innocentius Papa: </p>
+          <p xml:id="gd-p2c35q10-d1e180"> C. V. De eodem. </p>
+          <p xml:id="gd-p2c35q10-d1e183"> Si qua mulier ad secundas transierit nuptias, et filios et
+            filias ad secundum maritum genuerit, debere easnepotibus prioris mariti coniungi, sancta
+            Romana sinodusprorsus inhibuit.] </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO V.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO V.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c33q3d5">
+        <head xml:id="gd-p2c33q3d5-Hd1e103">DISTINCTIO V.</head>
+        <p xml:id="gd-p2c33q3d5-d1e106"> I. Pars. In penitencia autem, que peccatorem
+          considerareoportet, Augustinus in libro de penitencia docet, dicens: </p>
+        <div xml:id="gd-p2c33q3d5-Dd1e109">
+          <head xml:id="gd-p2c33q3d5-Hd1e111">[C. I.]</head>
+          <p xml:id="gd-p2c33q3d5-d1e114"> ,, Consideret qualitatem criminis in loco, in tempore, in
+            perseuerantia, in uarietate personae, et quali hoc fecerit temptatione, et in ipsius
+            uicii multiplici executione. Oportet enim peni-tere fornicantem secundum exellentiam sui
+            status aut offitii, aut 'secundum modum meretricis, et in modo operis sui, et
+            qualiterturpitudinem suam peregit^, si in loco sacrato , aut cui debuitexellentiam fidei
+            (ut sunt domus dominorum, et aliorum multorum), si in tempore orationi constituto, ut
+            festiuitates sanctorumet tempora ieiuniis Consideret, quantum perseuerauerit, et
+            defleatquod perseueranter peccauit , et quanta fuerit nictus* in-pugnatione. Sunt qui
+            non solum non uincuntur, sed ultro sepeccato offerunt, nec expectant temptationem, sed
+            preueniuntuoluptatem, et pertractet s secum, quam multiplici actioneuicii delectabiliter
+            peccauit . Omnis ista uarietas cpnfitendaest et deflenda, ut, cum cognouerit quod
+            peccatum est multum,cito inueniat Deum propitium. §. 1. In cognoscendo augmentum peccati
+            inueniat se, cuius etalis fuerit, cuius sapientiae, et ordinis, et statum omnem alterius
+            non peccantis. Inmoretur insingulis istis, et sentiat modum criminis, purgans lacrimis
+            omnemqualitatem uicii. §. 2. Defleat uirtutem, qua inierim caruit.Dolendum enim est, et
+            dolore purgandum , non solum quiapeccauit, sed i quod se uirtute priuauit. Nam, licet
+            speret seconsecuturum ueniam, dolere tamen potest, quia non promeruitunde remunerari
+            confidat. §. 3. Anxietur et doleat, quod modo effugiens de preteritis penam, miser non
+            inde exspectet gloriam, cuius omne tempus , quoniam breuissimum est,debuit decertauisse
+            ad consequendum premium. §.4. Defleat etiam,quoniam offendens in uno factus est omnium
+            reus. Ingratusenim extitit qui plenus uirtutibus Deum non omnino timuit. Inhoc enim
+            quisque peccator fit culpabilior, quo est Deo acceptior.Ideo enim Adam plus peccauit,
+            quia omni bono habundauit.Etiam alio modo offendens in uno est omnium reus, quiaomnis
+            uirtus patitur detrimentum ab uno uicio. Nam si quiscadit in auariciam, largitatem
+            destruit, et etiam™ castitatemminorauit. Amore enim pecuniae uel uiolaret castitatem,
+            uelsaltim minus amaret. Si enim tanta propter Deum adhuc castitasinest, ut nolit eandem
+            perdere, tamen saltim minori gaudio, minori affectione ™ tuetur eam, ubi uidet inde
+            procedere dampnum pecuniae, sicque e£ m a&amp;Ys, que, etiamsi non expellantur, tamen
+            perceptione ° unius uicii uel satis uel parum minuuntur, uel intentione deteriorantur.
+            Unde omnis uirtus cuicumque crimini est deflenda, et de omnibus indulgentia estpetenda.
+            §. 5. Animaduertere etiam oportet, et animaduertendodeflere animam proximi, quam
+            fornicator Deo eripuit, uel ereptam in malo confirmauit; etiam quod exemplum extitit
+            mali inoperatione sui criminis; cui magis profuisset, si aliis causa
+            fuissetconuersionis. Gemat itaque aliorum uitam in sua corruptam,uel incorruptam
+            conseruatam^v, et commodum proximi, quoddedisset exemplo boni. Doleat de tristicia, quam
+            bonis peccandointulit, et de leticia, quam eis non adhibuit. Et non solum cogitetquid et
+            qualiter fecerit, sed quam iniuste Deum, ut diximus,peccando offenderit. Timeat illam
+            sentenciam ueritatis: „Nonpotestis duobus dominis seruire^ Immeat ergo, ne omnia
+            bona,que fecit, dum in uno peccato perseuerauerit, excommunica-tione &lt;1 mali
+            perdiderit, ut qui seruiuit diabolo per crimen,Deo , quas obtulit, uirtutes amiserit.
+            Pium tamen est credere,ut recepta gratia Dei, que in eo destruit mala priora, etiam
+            remuneret bona, ut, cum destruxerit quod suum non inuenit , amet et diligat bonum, quod
+            etiam in peccante plantauit. §. 6. In omnibus dolens aut seculum derelinquat , aut
+            saltim illa,que sine ammixtione mali non sunt amministrata, ut mercatura,et milicia, et
+            alia, que utentibus sunt nociua, ut amministrationessecularium potestatum, nisi his
+            utatur ex obedientiae licentia.Ponat se omnino in potestate iudicis, in iudicio
+            sacerdotis, nichilsibi reseruans sui, ut omnia eo iubente paratus sit facere
+            prorecipienda uita animae, quecumque faceret pro euitanda corporis morte, e£ hoc cum
+            desiderio, quia uitam recuperat infinitam, ut Deus . Cum gaudio enim facere debet
+            inmortalisfuturus que faceret pro differenda morte moriturus. Semperdeprecetur Deum,
+            certus de uenia, qui omnibus modis et sine tedio dubius rogaret potestatem terrenam.
+            Abstineat a multislicitis qui in libertate arbitrii conmisit illicita. Semper offeratDeo
+            mentem, et cordis contritionem, deinde e/ quod potest depossessione; tunc quod o
+            fferat^™ securus offerat. „Respexit^enim Dominus ad Abel, et ad munera eiusSed
+            priusdicit ad Abel, quam ad munera Sumens enim mentem,quam cognouit humilem e/ puram,
+            remunerauit eius largitatismunera. Ad Cayn uero non respexit, neque ad munera
+            eius.Mentem enim eius, quam uiderat, quoniam non cognouit , eiusmunera non recepit, /n
+            iudicio itaque y cordis considerandaest elemosina tribuentis, nec iam considerandum est
+            quantum, sedqua mente, qua affectione dat quod potest. Vidua enim duobus,que habueraU,
+            minutis larga, plus omnibus posuiU . Quiigitur peccata sua redimere uult temporalium
+            oblatione,caueaD* prius offerat mentem. §. 7. Cautus sit , ne uere-cundia ductus diuidat
+            apud se confessionem, ut diuersa diuersisuelit sacerdotibus manifestare. Quedam™ dd enim
+            uni celantVque alii manifestanda conseruant ™, quod est se laudare, etad ypocrisim
+            tendere, et semper uenia carere, ad quam per frusta totam putat per uenire. §.8.
+            Paueat^ift preter eass quemuera delectat penitencia; non prius ad corpus Domini accedat
+            , quam confortet ^** bona^ conscientia. Sed in hac separationetremendum “ iudicium
+            cogitet, ubi kk maius** et terribiliusinpenitentes separabit in ignem. Doleat N, quod
+            nondum audet sumere, quem multum desiderat , cibum salutarem. Isti suntdigni fructus
+            penitenciae, animam captiuam elaqueantes et inlibertate seruantes. §. 9. Cohibeat se
+            preterea a ludis , aspectaculis seculi, qui perfectam uult consequi gratiam remissionis.
+            Nam Dina , si se cohibuisset, si™ inter suos remansisset, ab extraneo raptore corrupta
+            non essef. Tanto ita-que magis sibi anima caueat et cohibeat se, que sepe uelsemel rapta
+            est et corrupta; timeat iam docta experimento, quodignorauit uirgo; eligat quem
+            imitetur; non sequatur quem animus suus dampnat. Se enim iudicat qui penitenciae fructus
+            non habentem a se non elongat. Laudat pp enim et amat quosdigne fructificare non
+            ignorat; querat fructus dignos etsi nondignos penitenciae. Sunt enim digni fructus
+            uirtutum fructus,qui non sufficiunt penitentibus. Penitencia enim grauioresexpostulat^,
+            ut sic pacetur ecclesia, ut, pacata dolore etgemitibus, mortuis uitam qq inpetret. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e118">
+          <head xml:id="gd-p2c33q3d5-Hd1e120">C. II</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e123" type="question-title"> Penitens negotiationis lucra
+            abiciat . </head>
+          <p xml:id="gd-p2c33q3d5-d1e126"> Item Leo Papa [epist. XC. al. XCII. ad Rusticum
+            Episcopum, c. 9.] </p>
+          <p xml:id="gd-p2c33q3d5-d1e129"> II. Pars. Qualitas lucri negotiantem aut accusat*, aut
+            arguit, quia et est honestus questus, et turpis. Verumtamen penitenti utilius est
+            dispendia pati,quam periculis negotiationis astringi, quia difficile estinter ementis
+            uendentisque commercium non interuenirepeccatum. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e133">
+          <head xml:id="gd-p2c33q3d5-Hd1e135">C. III</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e138" type="question-title"> Post penitenciam ad miliciam
+            secularem redire non licet.</head>
+          <p xml:id="gd-p2c33q3d5-d1e141"> Idem [ibidem, c. io.] </p>
+          <p xml:id="gd-p2c33q3d5-d1e144"> Contrarium omnino est ecclesiasticis regulis, post
+            penitenciae actionem redire ad miliciam secularem, cumApostolus dicat: ,,Nemo militans
+            Deo inplicat se negociis secularibus." Unde non est liber a laqueis diaboliqui se
+            miliciae mundanae uoluerit implicare. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e149">
+          <head xml:id="gd-p2c33q3d5-Hd1e151">C. IV</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e154" type="question-title"> Decennio peniteant qui post
+            penitenciam ad secularem miliciam redeunt. </head>
+          <p xml:id="gd-p2c33q3d5-d1e157"> Item ex Ni ceno Concilio, [c. ii.]* </p>
+          <p xml:id="gd-p2c33q3d5-d1e160"> Si qui uero per Dei gratiam uocati primo quidem
+            ostenderunt fidem suam deposito miliciae cingulo, post hec autem ad proprium uomitum
+            reuersi sunt, ut et pecunias darent, et ambirent rursus ad miliciam, isti decem annis
+            sint inter penitentes post primum triennium, quofuerint inter audientes. Ab omnibus uero
+            illud precipueobseruetur, ut animus eorum et fructus penitenciae attendatur. Quicumque
+            enim cum omni timore, et lacrimisperseuerantibus, et operibus bonis conuersationem
+            suamnon uerbis solis, sed opere et ueritate demonstrant, cumtempus statutum a his fuerit
+            inpletum, et orationibusiam ceperint conmunicare, licebit episcopo etiam humaniuscirca
+            eos aliquid cogitare. Qui uero indifferentem habuerint lapsum, et sufficere sibi, quod
+            ecclesiamintroierint, arbitrantur, isti omnimodo tempora statutaconplebunt. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e164">
+          <head xml:id="gd-p2c33q3d5-Hd1e166">C. V</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e169" type="question-title"> A conmunione suspendantur qui
+            post penitenciam ad secularia redeunt.</head>
+          <p xml:id="gd-p2c33q3d5-d1e172"> Item ex Concilio Aur elianensi [I., c. 13.]De his, qui
+            suscepta penitencia religionem suae professionis obliti ad secularia relabuntur, placuit
+            eos et a conmunione suspendi, et ab omnium catholicorum conuiuiisseparari. Quod si post
+            interdictum cum eis quisquepresumpserit manducare, et ipse conmunione priuetur. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e176">
+          <head xml:id="gd-p2c33q3d5-Hd1e178">C. VI</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e181" type="question-title"> Que sit falsa penitencia. </head>
+          <p xml:id="gd-p2c33q3d5-d1e184"> Item Gregorius [VII. in Sinodo Romana, celebrata anno
+            1078., c. 6.] </p>
+          <p xml:id="gd-p2c33q3d5-d1e187"> III. Pars. Falsas penitencias dicimus, que non secundum
+            auctoritatem sanctorum Patrum pro qualitate criminuminponuntur. Ideoque miles, uel
+            negotiator, uel alicuioffitio deditus, quod sine peccato exerceri non possit, siculpis
+            grauioribus irretitus ad penitenciam uenerit, uel quibona alterius iniuste detinet, uel
+            qui odium in cordegerit, recognoscat, se ueram penitenciam non posseperagere, per quam
+            ad eternam uitam ualeat peruenire, nisinegotium relinquat, uel offitium deserat, et
+            odium excorde dimittat, bona quidem que iniuste abstulit, restituat, arma* deponat,
+            ulteriusque non ferat, nisi consilioreligiosorum episcoporum pro defendenda iusticia.
+            Netamen desperet, interim quicquid boni facere poterit hortamur ut faciat, ut omnipotens
+            Deus cor illius illustret adpenitenciam. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e191">
+          <head xml:id="gd-p2c33q3d5-Hd1e193">C. VII</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e196" type="question-title"> Post conuersionem ad negotium
+            redire non licet, quod sine peccato agi non potest. </head>
+          <p xml:id="gd-p2c33q3d5-d1e199"> Item Gregorius in omel. XXIV. [Euangel.]Negotium, quod
+            ante conuersionem sine peccato extitit,hoc etiam post conuersionem repetere culpa non
+            fuit.Sunt enim pleraque negotia, que sine peccatis exhiberiaut uix, aut nullatenus
+            possunt. Que ergo ad peccatum </p>
+
+          <p xml:id="gd-p2c33q3d5-d1e202"> inplicant, ad hec necesse est ut post conuersionem animus
+            non recurrat. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d5-Dd1e206">
+          <head xml:id="gd-p2c33q3d5-Hd1e208">C. VIII</head>
+          <head xml:id="gd-p2c33q3d5-Hd1e211" type="question-title"> De eodem</head>
+          <p xml:id="gd-p2c33q3d5-d1e214"> Item Innocentius II. [in Concilio Romano, c. 22.] </p>
+          <p xml:id="gd-p2c33q3d5-d1e217"> IV. Pars. Fratres nostros et presbiteros ammo-nemus, ne
+            falsis penitenciis laicorum animas decipi et ininfernum pertrahi patiantur. Falsam autem
+            penitenciamesse constat, cum spretis pluribus de uno solo penitenciaagitur, aut cum sic
+            de uno agitur, ut ab alio non discedatur.Unde scriptum est: „Qui totam legem
+            obseruauerit,offendat autem in uno, factus est omnium reus;“ scilicetquantum ad uitam
+            eternam; sicut enim si peccatis omnibus esset inuolutus, ita si in uno tantum maneat,
+            eternaeuitae ianuam non intrabit. Falsa est etiam penitencia,cum penitens ab offitio uel
+            curiali uel negotiali non recedit, quod sine peccatis nullatenus agi preualet;aut si
+            odium in corde gesserit, aut si offenso cuilibet nonsatisfaciat s, aut si offendenti
+            offensus non indulgeat, autsi arma quis contra iusticiam gerat. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

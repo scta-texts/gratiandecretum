@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DISTINCTIO III.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>DISTINCTIO III.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p3d3">
+        <head xml:id="gd-p3d3-Hd1e103">DISTINCTIO III.</head>
+
+        <div xml:id="gd-p3d3-Dd1e106">
+          <head xml:id="gd-p3d3-Hd1e108">C. I</head>
+          <head xml:id="gd-p3d3-Hd1e111" type="question-title"> Tempora feriandi in missa sunt
+            laicis annuntianda*.</head>
+          <p xml:id="gd-p3d3-d1e114"> Item ex Concilio Lugdunensi . </p>
+          <p xml:id="gd-p3d3-d1e117"> I. Pars. Pronunciandum est*, ut sciant temporaferiandi per
+            annum, id est: omnen dominicam a uesperausque ad uesperam, ne a Iudaismo capiantur.
+            Feriandiuero per annum isti sunt dies: Natalis Domini, S. Stephani,S. Iohannis
+            Euangelistae, Innocentium, S. Siluestri, OctauaeDomini** Theophaniae, Purificatio S.
+            Mariae, sanctumPasca cum tota hebdomada, Rogationes tribus diebus,Ascensio Domini,
+            sancti dies Pentecostes, S. IohannisBaptistae, duodecim Apostolorum, et maxime sanctorum
+            Petri et Pauli, qui mundum sua predicatione illumina-uerunt, S. Laurentii, Asumptio S.
+            Mariae, Natiuitas S.Mariae, Dedicatio s, S. Michaelis Archangeli, Dedicatiocuiuscumque
+            oratorii, et omnium sanctorum, et S. Martini, et illae festiuitates, quas singuli
+            episcopi in suis episcopiis cum populo collaudauerint, que uicinis
+            tantumcircummorantibus indicendae sunt, non generaliter omnibus. Reliquae uero
+            festiuitates per annum non suntcogendae ad feriandum, nec prohibendae. Indictumuero
+            ieiunium quando fuerit denuntiatum, ab omnibusobseruetur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e121">
+          <head xml:id="gd-p3d3-Hd1e123">C. II</head>
+          <head xml:id="gd-p3d3-Hd1e126" type="question-title"> In sanctorum solempnitatem diuinis
+            offitiis, non saltationibus uel cantilenis, populi debent uacare. </head>
+          <p xml:id="gd-p3d3-d1e129"> Item ex Concilia Tollet ano IV., [c. 23.] </p>
+          <p xml:id="gd-p3d3-d1e132"> Irreligiosa consuetudo est, quam uulgus per sanctorum
+            solempnitates agere consueuit. Populi, qui debent diuinaoffitia attendere, saltationibus
+            turpibus inuigilant cantica, non solum mala canentes, sed et religiosorumoffitiis
+            perstrepunt. Hoc etenim, ut ab omnibus pro-uinciis depellatur, sacerdotum et iudicum a
+            concilio sanctocurae conmittitur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e136">
+          <head xml:id="gd-p3d3-Hd1e138">C. III</head>
+          <head xml:id="gd-p3d3-Hd1e141" type="question-title"> Ante Ascensionem Domini tribus
+            diebus litaniae celebrentur.</head>
+          <p xml:id="gd-p3d3-d1e144"> Item ex Concilio Aurelianensi [I., c. 29.]" </p>
+
+          <p xml:id="gd-p3d3-d1e147"> Rogationes, id est letanias, ante Ascensionem Domini placuit
+            celebrari ita, ut premissum triduanum ieiuniumin dominicae Ascensionis solempnitate
+            soluatur. Per quodtriduum serui et ancillae ab opere relaxentur, quo magisplebs uniuersa
+            conueniat. Quo triduo omnes abstineant, etquadragesimalibus cibis utantur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e151">
+          <head xml:id="gd-p3d3-Hd1e153">C. IV</head>
+          <head xml:id="gd-p3d3-Hd1e156" type="question-title"> Episcopus die dominico non desit
+            ecclesiae.</head>
+          <p xml:id="gd-p3d3-d1e159"> Item ex eodem , [c. 33.] </p>
+          <p xml:id="gd-p3d3-d1e162"> Episcopus, si infirmitate non fuerit inpeditus, ecclesiae, cui
+            proximus fuerit, die dominico deesse non debet. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e167">
+          <head xml:id="gd-p3d3-Hd1e169">C. V</head>
+          <head xml:id="gd-p3d3-Hd1e172" type="question-title"> Hos dies ciuibus in uilla celebrare
+            non licet.</head>
+          <p xml:id="gd-p3d3-d1e175"> Item ex eodem, [c. 27.] </p>
+          <p xml:id="gd-p3d3-d1e178"> Nulli ciuium umquam Pascae, Natalis Domini, uel Quadragesimae*
+            solempnitatem in uilla liceatcelebrare, nisi quem infirmitas probabitur tenuisse. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e182">
+          <head xml:id="gd-p3d3-Hd1e184">C. VI</head>
+          <head xml:id="gd-p3d3-Hd1e187" type="question-title"> Ante solempnitatem Pascae
+            Quadragesima est celebranda.</head>
+          <p xml:id="gd-p3d3-d1e190"> Item ex eodem, [c. 26.] </p>
+          <p xml:id="gd-p3d3-d1e193"> Sacerdotibus omnibus decretum est, ut ante Pascae
+            solempnitatem non Quinquagesima, sed Quadragesimateneatur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e197">
+          <head xml:id="gd-p3d3-Hd1e199">C. VII</head>
+          <head xml:id="gd-p3d3-Hd1e202" type="question-title"> Quinta feria ultimae septimanae
+            Quadragesimae ieiunium solui non licet . </head>
+          <p xml:id="gd-p3d3-d1e205"> Item ex Concilio Martini Papae [c. 5o.] </p>
+          <p xml:id="gd-p3d3-d1e208"> Non liceat quinta feria, fratres, nouissimae septimanae
+            ieiuium soluere, et omnem Quadragesimam exhonorare, sed sincere abstinentes totam
+            Quadragesimam perexire. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e212">
+          <head xml:id="gd-p3d3-Hd1e214">C. VIII</head>
+          <head xml:id="gd-p3d3-Hd1e217" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p3d3-d1e220"> Item ex Concilio Laudicensi, [c. 50.] </p>
+          <p xml:id="gd-p3d3-d1e223"> Non oportet in Quadragesima quinta feria ultimae hebdomadae
+            ieiunium dissolui, et totam Quadragesimam inhonorari; sed per totos dies ieiunare, et
+            escis abstinentiae conuenientibus, id est aridioribus, uti. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e227">
+          <head xml:id="gd-p3d3-Hd1e229">C. IX</head>
+          <head xml:id="gd-p3d3-Hd1e232" type="question-title"> Exceptis diebus dominicis in
+            Quadragesima non soluatur ieiunium.</head>
+          <p xml:id="gd-p3d3-d1e235"> Item ex Concilio Agat en si, [c. 12.] </p>
+          <p xml:id="gd-p3d3-d1e238"> Placuit, ut omnes ecclesiae, exceptis diebus domiilicis, in
+            quadragesima etiam die sabbati sacerdotali oratione* et discretionis conmunione
+            ieiunent. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e242">
+          <head xml:id="gd-p3d3-Hd1e244">C. X</head>
+          <head xml:id="gd-p3d3-Hd1e247" type="question-title"> Nec in die dominica , nec in diebus
+            Pentecostes in oratione genua flectantur. </head>
+          <p xml:id="gd-p3d3-d1e250"> Item ex Concilio Ni ceno , [c. 20.] </p>
+          <p xml:id="gd-p3d3-d1e253"> Quoniam sunt in die dominica quidam ad orationem genua
+            flectentes, et in diebus Petecostes, propterea itaque statutum est a sancta Sinodo,
+            (quoniam consona,et conueniens consuetudo per omnes ecclesias custodiendaest), ut
+            stantes ad orationem Domino uota reddamus, </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e258">
+          <head xml:id="gd-p3d3-Hd1e260">C. XI</head>
+          <head xml:id="gd-p3d3-Hd1e263" type="question-title"> Quo tempore ab esu carnium sit
+            abstinendum. Item Leo IV . </head>
+          <p xml:id="gd-p3d3-d1e266"> II. Pars. De esu carnium apud nos uetustissima, etnon
+            inprobanda traditio semper tenenda est, ut a cenaetermino, que fit in principio noctis
+            quartae feriae, quelucescit in quarta feria, usque in diluculum quintae feriae,et
+            similiter a cena noctis sextae feriae, que lucescit in sextaferia, non inperite
+            ieiunatio usque ad sabbati lucem, quantum de diei parte aliquis ieiunare maluerit uel
+            debuerit,protendatur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e270">
+          <head xml:id="gd-p3d3-Hd1e272">C. XII</head>
+          <head xml:id="gd-p3d3-Hd1e275" type="question-title"> Nec die sabbati feriandum$\ nec die
+            dominico lauacrum est prohibendum.</head>
+          <p xml:id="gd-p3d3-d1e278"> Item Gregorius dilectissimis ciuibus Romae , </p>
+          <p xml:id="gd-p3d3-d1e281"> [lib. XI. epist. 3.] </p>
+          <p xml:id="gd-p3d3-d1e284"> III. Pars. Peruenit ad me, quosdam peruersi spiritushomines
+            praua inter uos aliqua et sanctae fidei aduersaseminasse, ita ut in die sabbati aliquid
+            operari prohiberent. Quos quid aliud nisi antichristi predicatores dixerimus? qui
+            ueniens" diem sabbatum atque dominicum abomni faciet opere custodiri. Quia enim mori se
+            et resurgere simulat, haberi uult in ueneratione dominicum diem;et quia populum
+            iudaizare conpellit, ut exteriorem ritumlegis reuocet, et sibi Iudeorum perfidiam
+            subdat, coli uultsabbatum. §. i. Aliud quoque ad me perlatum est,uobis a peruersis
+            hominibus esse predicatum, ut dominicodie nullus debeat lauari. Et quidem si pro luxuria
+            et prouoluptate lauari quis appetit, hoc fieri nec reliquo die quolibet concedimus. Si
+            autem pro necessitate corporis, hocnec die dominico prohibemus. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e288">
+          <head xml:id="gd-p3d3-Hd1e290">C. XIII</head>
+          <head xml:id="gd-p3d3-Hd1e293" type="question-title"> Ob reuerentiam sepulturae dominicae
+            sabbato ieiunare debemus.</head>
+          <p xml:id="gd-p3d3-d1e296"> Item Innocentius Papa , [ep. I. ad Decentium, c. 4.] </p>
+          <p xml:id="gd-p3d3-d1e299"> IV. Pars. Sabbato uero ieiunandum esse, ratio eui- </p>
+
+          <p xml:id="gd-p3d3-d1e302"> dentissima demonstrat. Nam, si diem dominicam ob uenerabilem
+            resurrectionem Domini nostri Iesu Christi nonsolum in Pasca celebramus, uerum etiam per
+            singulashebdomadas ipsius diei imaginem frequentamus, ac sicutsexta feria propter
+            passionem Domini ieiunamus, sabbatum pretermittere non debemus, quoniam inter
+            tristi-ciam et leticiam temporis illius uidetur inclusum.Nam utique constat, Apostolos
+            biduo isto et in merorefuisse, et propter metum Iudeorum se occuluisse. Quodutique non
+            dubium est in tantum eos ieiunasse biduomemorato, ut traditio ecclesiae habeat isto
+            biduo sacramenta penitus non celebrari. Que etiam forma persingulas tenenda est
+            hebdomadas propter id, auod con-memoratio diei illius semper est celebranda. Quoa si
+            putantsemel atque uno sabbato ieiunandum, ergo et dominica,et sexta feria semel in Pasca
+            erit utique celebranda. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e306">
+          <head xml:id="gd-p3d3-Hd1e308">C. XIV</head>
+          <head xml:id="gd-p3d3-Hd1e311" type="question-title"> Die dominica et quinta feria non est
+            celebrandum ieiunium.</head>
+          <p xml:id="gd-p3d3-d1e314"> Item Melciades Papa [ad Episcopos Hispaniarum, cap. 3.] </p>
+          <p xml:id="gd-p3d3-d1e317"> V. Pars. Ieiunium dominici diei, et quintae feriaenemo
+            celebrare debet, ut inter ieiunium Christianorumet gentilium et ueraciter credentium et
+            infideliumatque hereticorum, uera et non falsa discretio habeatur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e321">
+          <head xml:id="gd-p3d3-Hd1e323">C. XV</head>
+          <head xml:id="gd-p3d3-Hd1e326" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p3d3-d1e329"> Item ex Concilio Cesaraugustano , [c. 2.] </p>
+          <p xml:id="gd-p3d3-d1e332"> Ne quis ieiunet die dominica causa timoris*, aut persuasionis,
+            nec Quadragesimarum diebus ab ecclesiis fideles desint, nec habitent in cubiculorum
+            latibulis,ac montium, qui in suspicionibus perseuerant; sed exemplum ac preceptum
+            custodiant sacerdotum, et ad alienasuillas agendorum conuentuum causa non conueniant.
+            Abuniuersis episcopis dictum est; Anathema sit qui hocconmiserit. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e336">
+          <head xml:id="gd-p3d3-Hd1e338">C. XVI</head>
+          <head xml:id="gd-p3d3-Hd1e341" type="question-title"> Quarta et sexta feria sunt soluenda
+            ieiunia. </head>
+          <p xml:id="gd-p3d3-d1e344"> Item ex dictis S. Apollonii *. </p>
+          <p xml:id="gd-p3d3-d1e347"> VI. Pars. Ieiunia sane legitima, id est quarta etsexta feria,
+            non sunt soluenda, nisi grandis aliqua necessitas fuerit, quia quarta feria ludas
+            traditionem Dominicogitauit, et sexta feria crucifixus est Saluator. Videbitur ergo, qui
+            in his diebus sine necessitate solueritstatuta ieiunia, uel cum tradente tradere
+            Saluatorem, uelcum crucifigentibus crucifigere. Die autem dominicanichil aliud agendum
+            est, nisi Deo uacandum. Nulla operatio in illa die sancta agatur, nisi tantum ymnis, et
+            psalmis, et canticis spiritualibus dies illa transigatur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e352">
+          <head xml:id="gd-p3d3-Hd1e354">C. XVII</head>
+          <head xml:id="gd-p3d3-Hd1e357" type="question-title"> Quinta feria ultimae hebdomadae
+            quadragesimae penitentes remissionem accipiant.</head>
+          <p xml:id="gd-p3d3-d1e360"> Item Innocentius , [ep. I. ad Decentium, c. 7.] </p>
+          <p xml:id="gd-p3d3-d1e363"> VII. Pars. De penitentibus uero, qui siue ex gra-uioribus
+            conmissis, siue ex leuioribus penitenciam gerunt, sinulla interueniat egritudo, quinta
+            feria ante Pasca eisremittendum °, Romanae ecclesiae consuetudo demonstrat.§. i. Ceterum
+            de pondere estimando delictorum sacerdotis est iudicare, ut attendat ad confessionem
+            penitentis,et ad fletus atque lacrimas corrigentis. §. 2. Sane siquis in egritudinem
+            inciderit, atque usque ad desperationem deuenerit, est ei ante tempus Pascae relaxandum,
+            ne de seculo absque conmunione discedat. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e367">
+          <head xml:id="gd-p3d3-Hd1e369">C. XVIII</head>
+          <head xml:id="gd-p3d3-Hd1e372" type="question-title"> Singulis annis quinta feria ultimae
+            hebdomadae quinquagesimae nouum crisma conficiatur , </head>
+          <p xml:id="gd-p3d3-d1e375"> Item Fabianus Papa orientalibus Episcopis , </p>
+          <p xml:id="gd-p3d3-d1e378"> [epist. II.]* </p>
+          <p xml:id="gd-p3d3-d1e381"> VIII. Pars. Litteris uestris inter cetera insertum in-uenimus,
+            quosdam religionis uestrae episcopos auestro nostroque ordine discrepare, et non per
+            singulosannos in cena Domini crisma conficere. Errant ueroqui talia excogitant, et mente
+            uesana potius, quam rectasentientes hec facere audent. §. i. Sicutenim ipsius diei
+            solempnitas per singulos annos estcelebranda, ita ipsius sancti erismatis confectio
+            persingulos annos est agenda, et de anno in annum renouanda,et fidelibus tradendum, quia
+            nouum sacramentum estet per singulos annos, ins iam dicta die innouan-dum, et uetus in
+            sanctis ecclesiis cremandum. Ista a sanctisApostolis et successoribus eorum accepimus,
+            uobisquetenenda mandamus, </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e385">
+          <head xml:id="gd-p3d3-Hd1e387">C. XIX</head>
+          <head xml:id="gd-p3d3-Hd1e390" type="question-title"> Seruetur ab omnibus festiuitas
+            inuentionis dominicae crucis.</head>
+          <p xml:id="gd-p3d3-d1e393"> Item Eusebius Papa , [epist. III.] </p>
+          <p xml:id="gd-p3d3-d1e396"> IX. Pars. Crucis Domini nostri Iesu Christi, quenuper, nobis
+            gubernacula sanctae Romanae ecclesiaetenentibus, quinto nonas Maii inuenta est, in
+            predicto Kalen-darum die inuentionis festum uobis solempniter celebraremandamus. </p>
+
+        </div>
+        <div xml:id="gd-p3d3-Dd1e400">
+          <head xml:id="gd-p3d3-Hd1e402">C. XX</head>
+          <head xml:id="gd-p3d3-Hd1e405" type="question-title"> Quare sit institutum , ut aqua sale
+            conspersa sanctificetur . </head>
+          <p xml:id="gd-p3d3-d1e408"> Item Alexander Papa V. a Petro , [epist. I. c. 5.] </p>
+          <p xml:id="gd-p3d3-d1e411"> X. Pars. Aquam sale conspersam populis benedicimus, ut ea
+            cuncti aspersi sanctificentur et purificentur.Quod et omnibus sacerdotibus faciendum
+            esse mandamus.Nam si cinis uitulae aspersus populum sanctificabatatque mundabat: multo
+            magis aqua sale aspersa, diuinis-que precibus sacrata, populum sanctificat atque
+            mundat.Et, si sale asperso per Heliseum prophetam sterilitasaquae sanata est: quanto
+            magis diuinis precibus sacratussterilitatem rerum aufert humanarum, et
+            coinquinatossanctificat, et purgat, et cetera bona multiplicat, et insidias diaboli
+            auertit, et a fantasmatis uersutiis homines defendit? </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e415">
+          <head xml:id="gd-p3d3-Hd1e417">C. XXI</head>
+          <head xml:id="gd-p3d3-Hd1e420" type="question-title"> Non nisi die dominico sanctum Pasca
+            celebretur. </head>
+          <p xml:id="gd-p3d3-d1e423"> Item Pius Papa IX. a Petro Apostolo, in primo suorum
+            decretalium . </p>
+          <p xml:id="gd-p3d3-d1e426"> Nosse uos uolumus, quod Pasca Domini die dominico annuis
+            temporibus sit celebrandum. Istis enimtemporibus Hermes doctor fidei et scripturae inter
+            noseffulsit. Et licet nos idem Pasca predicto die celebraremus, tamen quia quidam inde
+            dubitabant, ad corroborandas animas eorum eidem Hermae angelus Dominiin habitu pastoris
+            apparuit, et precepit ei, ut Pasca Dominidie dominico ab omnibus celebraretur. Unde et
+            nosapostolica auctoritate instituimus, omnes eadem seruaredebere, quia et nos eadem
+            seruamus, nec debetis a capitequoquo modo discedere . </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e430">
+          <head xml:id="gd-p3d3-Hd1e432">C. XXII</head>
+          <head xml:id="gd-p3d3-Hd1e435" type="question-title"> Non nm dominico^ sanctum Pasca
+            celebretur. </head>
+          <p xml:id="gd-p3d3-d1e438"> Item Victor Papa XIII. a Petro , in primo decretali suo . </p>
+          <p xml:id="gd-p3d3-d1e441"> Celebritatem sancti Pascae die dominica agi debere, et
+            predecessores nostri iam statuerunt, et nosillud eadem die solempniter celebrare
+            mandamus,quia non decet, ut membra a capite discrepent, autaliter s gerant. A XIV. uero
+            luna primi mensis usquead XXI. diem eiusdem mensis eadem celebretur festiuitas.§. 1.
+            Eodem quoque tempore baptisma celebrandum est catholicum. Sed tamen, si necesse fuerit,
+            aut mortis periculum ingruerit, gentiles ad fidem uenientes quocumque loco uel momento,
+            ubicumque euenerit, siuein flumine, siue in mari, siue in fontibus, tantum Christianae
+            credulitatis confessione clarificati baptizentur.Ipsis etiam quod in baptismo polliciti
+            sunt summopereattendendum est, ne non8i infideles, sed fideles inuenian-tur. Ipsi uero,
+            qui infidelitatis nota asperguntur, infamesefficiuntur, atque inter fideles minime
+            reputantur.§. 2. Hec uero statuta nulla debent inprobitate conuelli, nullanouitate
+            mutari, quia alia ratio est causarum secularium,alia diuinarum. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e446">
+          <head xml:id="gd-p3d3-Hd1e448">C. XXIII</head>
+          <head xml:id="gd-p3d3-Hd1e451" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p3d3-d1e454"> Item ex Concilio Cartaginensi IV., [c. 65.]Pascae solempnitas
+            uno die et tempore celebrandaest. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e458">
+          <head xml:id="gd-p3d3-Hd1e460">C. XXIV</head>
+          <head xml:id="gd-p3d3-Hd1e463" type="question-title"> Dies Pascae, eZ concilii, formatarum
+            * subscriptione omnibus intimetur. </head>
+          <p xml:id="gd-p3d3-d1e466"> Item ex Concilio Cartaginensi V., [c. 7.]Placuit, ut dies
+            uenerabilis Pascae formatarum subscriptione omnibus intimetur; dies uero concilii XI.
+            Kal.**Nouembris seruetur. Scribendum est etiam ad singularum quarumque prouinciarum
+            primates, ut, quando apud se concilia congregant, istum diem non inpediant. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e470">
+          <head xml:id="gd-p3d3-Hd1e472">C. XXV</head>
+          <head xml:id="gd-p3d3-Hd1e475" type="question-title"> Cum in concilio omnia statuta
+            fuerint, uenturum Pasca annuncietur. </head>
+          <p xml:id="gd-p3d3-d1e478"> Item ex Concilio Bracarensi II., [c. 9.]Placuit, ut post, quam
+            omnia in concilio sacerdotumfuerint ordinata, illud omnimodis obseruetur, ut
+            super-uenturum ipsius anni Pasca quo Kalendarum dieuel quota luna debeat suscipi, a
+            metropolitano episcopointimetur. Quod ceteri episcopi uel clerus reliquus breui-culo
+            subnotantes, unusquisque in sua ecclesia aduenienteNatalis Domini die post euangelicam
+            lectionem populoannuncient. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e482">
+          <head xml:id="gd-p3d3-Hd1e484">C. XXVI</head>
+          <head xml:id="gd-p3d3-Hd1e487" type="question-title"> Per orbem uniuersum uno die, et
+            eodem tempore Pasca celebretur . </head>
+          <p xml:id="gd-p3d3-d1e490"> Item ex Concilio Arei at en si I., quod confirmauit Papa
+            Siluester, [c. i.] </p>
+          <p xml:id="gd-p3d3-d1e493"> De obseruatione Pascae Dominicae statuimus, </p>
+
+          <p xml:id="gd-p3d3-d1e496"> ut uno die et tempore per omnem orbem obseruetur, et iuxta
+            consuetudinem litterae ad omnes dirigantur. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e500">
+          <head xml:id="gd-p3d3-Hd1e502">C. XXVII</head>
+          <head xml:id="gd-p3d3-Hd1e505" type="question-title"> De imaginibus sanctorum non
+            uiolandis Item Gregorius Sereno, Episcopo Massiliensi, [lib. IX.epist. 9.] </head>
+          <p xml:id="gd-p3d3-d1e508"> XII. Pars. Perlatum ad nos fuerat, quod inconsiderato zelo
+            succensus sanctorum imagines sub hac quasi excusatione, ne adorari debuissent,
+            confregeris. Et quidem,quia eas adorari uetuisses", omnino laudauimus,fregisse uero
+            reprehendimus. Dic, frater, a quo factumsacerdote aliquando auditum quod fecisti*?
+            Aliudenim est picturam adorare: aliud per picturae historiamquid sit adorandum
+            addiscere. Nam quod legentibusscriptura, hoc idiotis prestat pictura cernentibus,quia in
+            ipsa ignorantes uident quod sequi debeant,in ipsa legunt qui litteras nesciunt. Unde et
+            precipue gentibus pro lectione pictura est. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e512">
+          <head xml:id="gd-p3d3-Hd1e514">C. XXVIII</head>
+          <head xml:id="gd-p3d3-Hd1e517" type="question-title"> Imagines sanctorum memoria sunt et
+            recordatio preteritorum. </head>
+          <p xml:id="gd-p3d3-d1e520"> Item ex VII. Sinodo, [actione 6.] </p>
+          <p xml:id="gd-p3d3-d1e523"> Venerabiles imagines Christiani non deos appellant, neque
+            seruiunt eis, ut diis, neque spem salutis ponunt ineis, neque ab eis expectant futurum
+            iudicium: sed ad memoriam et recordationem primitiuorum uenerantur eas et adorant, sed
+            non seruiunt eis cultu diuino, nec alicui Creaturae. </p>
+          <p xml:id="gd-p3d3-d1e526"> C. XXIX. iVon in agni, sed in hominis specie Christus esi
+            figurandus. </p>
+          <p xml:id="gd-p3d3-d1e530"> Item Adrianus Papa Tharasio Patriarchae, </p>
+          <p xml:id="gd-p3d3-d1e533"> [in actione II. eiusdem VII. Synodi]*. </p>
+          <p xml:id="gd-p3d3-d1e536"> XIII. Pars. Sextam sanctam sinodum recipio cumomnibus
+            canonibus suis, in quibus dicitur: In quibusscripturis sanctarum imaginum agnus
+            precursoris digitoostensus depingitur, qui in figuram transit** gratiae, uerumnobis per
+            legem Moysi premonstrans agnum IesumChristum Dominum nostrum. Antiquis ergo figuris
+            etumbris, ad ueritatis prefigurationem ecclesiae sanctaetraditis, uale dicentes***,
+            gratiam et ueritatem preferimus,et sicut plenitudinem legis recipimus. Verum igituragnum
+            Dominum nostrum Iesum Christum secundumimaginem humanam amodo etiam in imaginibus
+            proueteri agno depingi iubemus. </p>
+        </div>
+        <div xml:id="gd-p3d3-Dd1e541">
+          <head xml:id="gd-p3d3-Hd1e543">C. XXX</head>
+          <head xml:id="gd-p3d3-Hd1e546" type="question-title"> De fide Trinitatis et Unitatis
+            inuiolabiliter seruanda. </head>
+          <p xml:id="gd-p3d3-d1e549"> Item Augustinus in lib. [I.] de Trinitate, [c. 4.]Omnes, quos
+            legere potui, qui ante me scripseruntde Trinitate, que Deus est, diuinorum librorum
+            ueterum etnouorum catholici tractatores, hoc intenderunt secundumscripturas docere, quod
+            Pater, et Filius, et Spiritus sanctusunius eiusdemque substantiae inseparabili
+            equalitatediuinam insinuant unitatem, ideoque non sint tresDii, sed unus Deus, quamuis
+            Pater Filium genuerit, et ideoFilius non sit qui Pater est, Filiusque a Patre sit
+            genitus,et ideo Pater non sit qui Filius est, Spiritusque sanctusnec Pater sit, nec
+            Filius, sed tantummodo Patris et FiliiSpiritus, et Patri et Filio etiam ipse coequalis,
+            et adTrinitatis pertinens unitatem; non tamen eandem Trinitatemnatam de Virgine Maria,
+            et sub Pontio Pilato crucifixamet sepultam et tercia die resurrexisse, et in celum
+            ascendisse, sed tantummodo Filium; nec eandem Trinitatemdescendisse in specie columbae
+            super Iesum baptizatum,aut die Pentecostes post ascensionem Domini sonitufacto de celo,
+            quasi ferretur flatus uehemens, et linguisdiuisis, uelut ignis, sed tantummodo Spiritum
+            sanctum; nec eandem Trinitatem dixisse de celo: „Tu esfilius meus, siue cum baptizatus
+            est a Iohanne, siue inmonte, quando cum illo erant tres discipuli, aut quandosonuit uox
+            dicens: „Et clarificaui, et iterum clarificabo : sed tantummodo Patris uocem fuisse
+            factam adFilium, quamuis Pater et s Filius, et Spiritus sanctus, sicutinseparabiles
+            sunt, ita inseparabiliter operentur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

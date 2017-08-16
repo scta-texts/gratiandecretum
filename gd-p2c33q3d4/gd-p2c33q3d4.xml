@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> DISTINCTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> DISTINCTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c33q3d4">
+        <head xml:id="gd-p2c33q3d4-Hd1e103"> DISTINCTIO IV. </head>
+        <p xml:id="gd-p2c33q3d4-d1e106"> I. Pars. Quia uero multorum auctoritatibus supra monstratum
+          est, penitenciam uere celebrari, et peccata uere dimitti ei, </p>
+
+
+
+
+        <p xml:id="gd-p2c33q3d4-d1e109"> qui aliquando in crimen recasurus est: queritur, an peccata
+          dimissa redeant ? Huius questionis diuersorum uaria est sentencia,aliis asserentibus,
+          aliis econtra negantibus, peccata dimissaulterius replicari ad penam. §. i. Quod autem
+          peccata semeldimissa redeant, multorum probatur auctoritatibus; quarum primaest illa
+          Prophetae: „In memoriam redeat iniquitas patrumeius etc .;* secunda illa euangelii: „Serue
+          nequam, omnedebitum dimisi tibi, etc. ° </p>
+        <p xml:id="gd-p2c33q3d4-d1e112"> Deinde Augustinus in libro Psalmorum ait [ad </p>
+        <p xml:id="gd-p2c33q3d4-d1e115"> Psalmum CVIII.]: </p>
+        <p xml:id="gd-p2c33q3d4-d1e119"> [C. I.] </p>
+        <p xml:id="gd-p2c33q3d4-d1e122"> „ Si ludas teneret illud, ad quod uocatus est, nullo modo
+          ad eum uel sua preterito, uel parentum iniquitas pertineret. Quiaergo non tenuit
+          adoptionem in familia Dei, sed iniquitatemuetusti generis potius elegit, rediit iniquitas
+          patrum in conspectu Domini, ut in eo etiam ipsa puniretur .“ Item Raba-nus: §. i. „
+          „Tradidit eum tortoribus etc.“ Considerandumest, quod dicit: „„uniuersum debitum ,““ quia
+          non solum peccata,que post baptismum homo egit, reputabuntur ei ad penam,uerum etiam
+          peccata originalia, que in baptismo ei dimissa sunt. </p>
+        <p xml:id="gd-p2c33q3d4-d1e125"> [C. II.] Item Gregorius [lib. IV. Dialog., c. 6o.]: </p>
+        <p xml:id="gd-p2c33q3d4-d1e128"> „Ex dictis euangelicis constat, quia , si in nos quod
+          delinquitur, ex corde non dimittimus, et illud rursus exigitur,quod nobis iam per
+          penitenciam dimissum fuisse gaudebamus .“ </p>
+        <p xml:id="gd-p2c33q3d4-d1e131"> [C. III.] Item Augustinus in omel. Z.: </p>
+        <p xml:id="gd-p2c33q3d4-d1e134"> „Dicit Dominus: „„Dimitte et dimittetur*° tibi :sed ego
+          prius dimisi, dimitte uel postea. Nam si non dimiseris, reuocabo te, et quicquid dimiseram
+          replicabo tibiP </p>
+        <p xml:id="gd-p2c33q3d4-d1e138"> [C. IV.] Item </p>
+        <p xml:id="gd-p2c33q3d4-d1e141"> ,,Qui diuini beneficii oblitus suas uult uindicare
+          iniurias, non solum de futuris peccatis ueniam non merebitur, sed etiampreterito, que iam
+          sibi dimissa credebat, ad uindictam ei replicabuntur .“ </p>
+        <p xml:id="gd-p2c33q3d4-d1e144"> [C. V.] Item Beda super Lucam, [lib. IV. c. 48.] : </p>
+        <p xml:id="gd-p2c33q3d4-d1e147"> „ „ Reuertar in domum meam. “ Timendus est uersicu-lus
+          iste, non exponendus, ne culpa, quam in nobis exstinctam credebamus, per incuriam nos
+          uacantes opprimat .“ </p>
+        <p xml:id="gd-p2c33q3d4-d1e150"> [C. VI.] Item: </p>
+        <p xml:id="gd-p2c33q3d4-d1e153"> „ Quecumque enim post baptisma siue prauitas heretica, seu
+          mundana cupiditas arripuerit, mox prosternet in ima omniumuiciorum. </p>
+        <p xml:id="gd-p2c33q3d4-d1e157"> [C. VII.] Item Augustinus in libro questionum Deuteronomii,
+          [quest. XLII.]: </p>
+        <p xml:id="gd-p2c33q3d4-d1e160"> ,, Peccatum, quod ex Adam trahitur , temporaliter redditur,
+          quia omnes propter hoc moriuntur, non autem in eternum eis, qui fuerint per gratiam *
+          regenerati, si* in ea usque infinem per manserint .“ </p>
+
+        <p xml:id="gd-p2c33q3d4-d1e163"> II. Pars. [Gratian.] Eorum uero, qui hanc
+          sentenciamsecuntur, alii dicunt, quod peccata reditura dimittuntur secundumiusticiam, sed
+          non secundum pr es dentiam, sicut nomina disci-pulorum, qui retro abierunt, erant scripta
+          in libro uitae propteriusticiam, cui deseruiebant, non secundum prescientiam, que innumero
+          saluandorum eos non habebat. Sic a latere** Dei dicun-tur mille casuri, et decem millia a
+          dextris eius, quos tamen diuinaprescientia numquam suis annumerauerat . Hinc etiam Dominus
+          ait Moysi : „Si quis peccauerit ante me, delebo eum delibro uitae ,“ ut secundum iusticiam
+          iudicis ille peccando dicatur deleri, qui secundum prescientiam numquam fuerat ascriptus.
+          §. 1. Hinc Augustinus in epistola ad Chorinthios *: „Sed non in pluribus eorum
+          beneplacitum est Deo, etsi inaliquibus. Communia omnia sacramenta, sed non communisgratia;
+          ita et nunc baptismus communis est, sed non uirtusbaptismi. </p>
+        <p xml:id="gd-p2c33q3d4-d1e166"> III. Pars. §.2. Verum hoc de ficte accedentibus, uel dehis,
+          qui extra ecclesiam baptizantur, intelligitur, qui sacramentiquidem integritatem
+          accipiunt, uirtutem uero eius minime assecun-tur. Paruulis uero, uel adultis plena fide
+          accedentibus omnino peccata remittuntur, etsi aliquando a bono recessuri in malo fuitam
+          sint finituri. </p>
+        <p xml:id="gd-p2c33q3d4-d1e169"> Unde*- Augustinus in libro de correctione et gratia, </p>
+        <p xml:id="gd-p2c33q3d4-d1e172"> [c. 8. et 9.]: </p>
+        <div xml:id="gd-p2c33q3d4-Dd1e176">
+          <head xml:id="gd-p2c33q3d4-Hd1e178">[C. VIII.]</head>
+          <p xml:id="gd-p2c33q3d4-d1e181"> „Si ex bono in malum deficientes ° bona uoluntate
+            moriuntur, respondeant, si possunt, cur illos Deus, cum fideliter et pie uiuerent, non
+            tunc de uitae huius periculis rapuit, ne maliciamutaret intellectum eorum, et ne fictio
+            deciperet animaseorum? Utrum hoc in potestate non habuit, an eorum malafutura nesciuit?
+            Nempe nichil horum nisi peruersissime atqueinsanissime dicitur. Cur ergo non fecit?
+            Respondeant qui nosirrident, quando in rebus talibus exclamamus : „ „ Quam inscrutabilia
+            sunt iudicia eius, et inuestigabiles uiae eiusP “ Neque enimhoc non donat Deus quibus
+            noluerit, aut uero illa scripturamentitur, que de morte uelut inmatura hominis iusti
+            ait:„„ Raptus est, ne malicia mutaret intellectum eius, et° ne fictiodeciperet animam
+            eius. Cur igitur hoc tam magnum beneficium aliis dat, aliis non dat Deus, apud quem non
+            est iniquitas,nec acceptio personarum, et in cuius potestate est, quamdiu quisque in hac
+            uita maneat, que temptatio dicta est super terram?Sicut ergo coguntur fateri, donum Dei
+            esse ut finiat homo uitamistam ante, quam ex bono mutetur in malum, cur autem idaliis
+            donetur, aliis non donetur, ignorant : id tamen S donumDei esse in bono perseuerantiam
+            secundum scripturas {de quibus testimonia multa iam posui), fateantur nobiscum, et cur
+            aliisdetur, aliis non detur, sine murmure aduersus Deum dignenturignorare nobiscum. §.
+            1. Nec nos moueat, quod filiis suis Deusquibusdam non dat istam perseuerantiam. Absit
+            enim, ut itasit , si de illis predestinatis essent, et secundum propositumuocatis*, qui
+            uere sunt filii promissionis. Nam isti, cum pieuiuunt, dicuntur filii Dei; sed quia
+            uicturi sunt inpie, et ineadem inpietate morituri, non eos dicit filios^ prescientia
+            Dei. Sunt enim filii Dei, gwz nondum sunt nobis, et sunt iam Deo, de quibus euangelista
+            Iohannes ad: „,,quia Iesus moriturus eratpro gente, nec tantum pro gente, sed etiam, ut
+            filios Dei dispersos congregaret in unum, quod utique credendo futuri erantper euangelii
+            predicationem, e£ tamen ante, quam factum esset,iam filii Dei erant in memoriali patris
+            sui inconcussa stabilitateconscripti sunt. Et sunt rursus quidam, qui filii Dei
+            proptersusceptam uel temporaliter gratiam dicuntur a nobis, wec tamensunt Dei, de quibus
+            ait idem Iohannes : „ no&amp;zs exierunt,sed non erant ex nobis; quod si fuissent ex
+            nobis, mansissent utique nobiscum. Non ait: ex nobis exierunt, sed quia nonmanserunt
+            nobiscum, iam non sunt ex nobis; uerum ait: „ „exnobis exierunt, sed non erant ex nobis;
+            hoc est: et quando uidebantur in P nobis, non erant ex nobis. Et tamquam eidiceretur,
+            unde id ostendisf „„ Quod si fuissent, inquit, „„exnobis, permansissent utique nobiscum.
+            Filiorum Dei uox est: Iohannes loquitur in filiis Dei loco precipuo constitutus. Cum
+            ergofilii Dei dicunt de his, qui perseuerantiam non habuerunt: „ „ exnobis exierunt, sed
+            non erant ex nobis ; et addunt : „ „quod si ex nobis fuissent, permansissent utique
+            nobiscum; quid, aliuddicunt , nisi non erant filii Dei"% etiam quando erant in
+            professione et nomine filiorum ? non quia iusticiam simulauerunt,sed quia in ea non
+            permanserunt. Neque enim ait: nam, sifuissent ex nobis, ueram, non fictam, iusticiam
+            tenuissent utiquenobiscum; sed: „ ,, si fuissent , inquit, „ „ ex nobis,
+            permansissentutique nobis cum . In bono illos uolebat proculdubio permanere,erant itaque
+            in bono, sed quia in eo non permanserunt, id estusque in finem non perseuerauerunt, non
+            erant, inquit, ex nobis,et quando erant nobiscum; hoc est: non erant ex numero
+            filiorum,et quando erant in fide filiorum, quoniam qui uere filii suntpresciti et
+            predestinati *sunt conformes imaginis filii Dei, etsecundum propositum uocati sunt, ut
+            electi essent. Non enimperit filius promissionis, sed filius perditionis. Fuerunt ergo
+            istiex multitudine uocatorum; ex electorum autem paucitate non fuerunt. Non igitur
+            filiis suis predestinatis non dedit Deus perseuerantiam. Haberent enim eam, si in eo
+            filiorum numero essent,et quid haberent, quod non accepissent secundum apostolicam
+            ueramque sentenciam f Ac per hoc tales filii filio Christo dati essent, quemadmodum ipse
+            dicit ad patrem: ,„,Ut omne, quoddedisti michi, non pereat, sed habeat uitam eternam. Hi
+            ergointelliguntur Christo dari, qui ordinati sunt in uitam eternam..Ipsi sunt illi
+            predestinati et secundum propositum uocati,quorum nullus perit, ac per hoc nullus eorum
+            ex bono inmalum mutatus finit hanc uitam, quoniam sic et ordinatus, et ideoChristo
+            datus, ut non pereat, sed habeat uitam eternam. Et rursus, quos dicimus inimicos eius,
+            uel paruulos filios inimicorumeius, quoscumque eorum sic regeneraturus est, ut in ea
+            fide,que per dilectionem operatur, hanc uitam finiant, iam et ante, quamhoc fiat, in
+            illa predestinatione filii sunt eius, et dati sunt Christofilio eius, ut non pereant,
+            sed habeant uitam eternam. §. 2. Denique ipse Saluator: ,,,,Si manseritis , inquit, „„in
+            uerbomeo, uere discipuli mei estis.? Numquid in his conputandisunt illi, de quibus
+            euangelium sic loquitur f ubi Dominus, cumconmendasset manducandam carnem suam, et
+            bibendum sanguinem suum, ait Euangelista : „ „ Hec dixit in synagoga docensin
+            Capharnaum. Multi ergo audientes ex discipulis eius, dixerunt:Durus est hic sermo, quis
+            eum potest audire f Sciens autem Iesusapud semetipsum, quia murmurabant de hoc discipuli
+            eius, </p>
+          <p xml:id="gd-p2c33q3d4-d1e184"> dixit eis: Hoc uos scandalizat f Si ergo uideritis filium
+            hominis ascendentem, ubi erat prius? Spiritus est qui uiuificat:caro autem non prodest
+            quicquam. Verba, que ego locutus sumuobis, spiritus et uita sunt. Sed sunt quidam ex
+            uobis, qui noncredunt. Sciebat enim Iesus ab inicio, qui essent credentes, etquis esset
+            eum traditurus, et dicebat: Propterea dixi uobis, quianemo uenit ad me, nisi fuerit ei
+            datum a patre meo. Ex hoc multidiscipxdorum eius abierunt retro, et iam cum illo non
+            ambulabant. Numquid non et isti discipuli appellati sunt, loquenteeuangelio ? et tamen
+            non erant uere discipuli, quia non manserunt in uerbo eius, secundum id, quod ait: „„Si
+            manseritisin uerbo meo, uere discipuli mei er itis . Quia ergo nonhabuerunt
+            perseuerantiam, sicut non uere discipuli Christi, itanec filii Dei uere fuerunt, etiam
+            quando esse uidebantur, et itauocabantur. Appellamus ergo nos electos et
+            Christidiscipulos, et Dei filios, quia appellandi sunt quos regeneratos pie uiuere
+            cernimus. Sed tunc uere sunt quod appellantur, si manserint in eo, propter quod sic
+            appellantur. Si autemperseuerantiam non habent, id est in eo, quod ceperunt esse,
+            nonmanent, non uere appellantur propter quod, appellantur, etnon sunt. Apud eum enim hoc
+            non sunt, cui notum est quodfuturi sunt, id est ex bonis mali. </p>
+          <p xml:id="gd-p2c33q3d4-d1e187"> IV. Pars. [Gratian.] Finis huius auctoritatis eorum
+            sen-tenciae concordat, qui peccata dicunt remitti secundum iusticiam, et non secundum
+            prescientiam. Alii uero, quamuis fateanturpeccata redire, tamen seu per baptisma, seu
+            per penitenciamasserunt omnino remitti peccata, et plena fide accedentem adlauacrum
+            renasci non aqua tantum, sed etiam Spiritu sancto, et,si postea peccaturus sit, deinde
+            penitentem, etsi aliquandorecasurus sit, tamen tempore suae penitenciae ita perfecte
+            expiatum affirmant, ut, si tunc moreretur, salutem inueniret eternam.Quorum sentenciae
+            eiusdem auctoritatis principium consentit.Cum enim questionem proponat, quare prescitos
+            ad mortem,cum fideliter ac pie uiuerent, non tunc de uitae huius periculisDeus rapuit,
+            ne malicia mutaret intellectum eorum, et y nefictio deciperet animas eorum, cum de
+            inmatura morte predestinati scriptura dicit : „ Raptus est, ne malicia mutaret
+            intellectum eius, et ?* ne fictio deciperet animam illius ,euidenter ostendit, illos
+            tales fuisse, qui, si fatali necessitate huiusuitae subducti essent periculis, profecto
+            uitam consecuti essenteternam. Ut ergo finis principio conueniat, et ne sibi ipsi
+            contraire uideatur, diffiniendum est, quid sit scribi in libro uitae,uel" de eodem
+            deleri secundum iusticiam, quid secundumprescientiam. Secundum prescientiam scribi est
+            ad uitam pre-ordinari; quod ab eterno factum est. </p>
+          <p xml:id="gd-p2c33q3d4-d1e190"> Unde Apostolus in epistola ad Ephesios, [c. i.]: * </p>
+          <p xml:id="gd-p2c33q3d4-d1e194"> [C. IX.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e197"> „ Benedictus Deus et pater Domini nostri Iesu Christi,
+            qui benedixit nos in omni benedictione spirituali in celestibus inChristo Iesu, sicut
+            elegit nos in ipso ante mundi constitutionem,ut essemus sancti et inmaculati in
+            conspectu eius in karitate; cuipredestinauit nos in adoptionem filiorum per Iesum
+            Christum. </p>
+          <p xml:id="gd-p2c33q3d4-d1e200"> [Gratian.] Similiter secundum prescientiam deleri est ad
+            mortem, non ad uitam presciri, quod et ipsum ab eterno factumest. Unde Dominus in
+            euangelio : „ Qui credit in me, habetuitam eternam; qui autem non credit, iam iudicatus
+            est. </p>
+          <p xml:id="gd-p2c33q3d4-d1e203"> Hinc etiam Augustinus ait *: </p>
+        </div>
+        <div xml:id="gd-p2c33q3d4-Dd1e207">
+          <head xml:id="gd-p2c33q3d4-Hd1e209"> [C. X.] </head>
+          <p xml:id="gd-p2c33q3d4-d1e212"> „ „ Nouit Dominus qui sunt eius. Ex his nemo seducitur.
+            Nondum apparuit iudicium, sed iam factum est. </p>
+          <p xml:id="gd-p2c33q3d4-d1e215"> [Gratian.] Porro secundum iusticiam scribi est Deo
+            auctore ea operari, quorum merito sit dignus eterna salute. Hunc duplicem modum
+            scribendi in euangelio Deus assignauit, discipulis^ dicens: ,,In domo patris mei
+            mansiones multae sunt; siquo minus, dixissem uobis, quia uado parare uobis locum; et
+            siabiero, et preparauero** uobis locum, iterum uenio, et accipiamuos ad me ipsum, ut ubi
+            sum ego et uos sitis : Dicens: „In domopatris mei mansiones multae sunt; si quo minus,
+            dixissem uobis,quia uado parare uobis locum ,“ ostendit, eos, quibus loquebatur,scriptos
+            in libro uitae predestinatione. Subiciens: ,, si abiero, etpreparauero ™* uobis locum
+            etc., ostendit, illos adhuc essescribendos operatione. </p>
+          <p xml:id="gd-p2c33q3d4-d1e218"> Hinc etiam Augustinus in eiusdem loci explanatione ait*:
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d4-Dd1e222">
+          <head xml:id="gd-p2c33q3d4-Hd1e224"> [C. XI. ] </head>
+          <p xml:id="gd-p2c33q3d4-d1e227"> „„In domo patris mei mansiones multae sunt. Domus Dei,
+            templum Dei , regnum celorum sunt homines iusti, inquibus sunt multae differentiae , et
+            hae sunt mansiones ipsiusdomus. Hae autem iam paratae sunt in predestinatione, sicut
+            aitapostolus : „„ Qui elegit nos ante mundi constitutionem, “ “ predestinando, parando
+            autem in operatione. Unde : „„Quospredestinauit, hos et uocauit ,™* secundum hoc dicitur
+            : „„ Fecit Deus que futura sunt, id est que facturus est*. Etinfra: §. i. „„Si quo minus
+            ,““ esse confirmat, quia, si nonessent , dixisset: ibo et parabo, id est predestinabo.
+            Sedquia ibi sunt, non est opus aliqua parare. Quia uero nondumsunt in operatione, addit:
+            „„Et si abiero, et preparauero.**Abiens, sed non relinquens, parat, quia subtrahit se et
+            latet, ut sitfides, que non est de uisa re, et inde est meritum fidei . §. 2. Exhac
+            uiuit iustus, et mundatur ei cor, dum peregrinatur, et in eadesideratur quod nondum
+            habetur. Hec preparatio mansionis est, quia sic parat nos sibi, et se nobis, ut maneat
+            innobis, et nos in eo, quantum quisque erit particeps eius plus uelminus pro diuersitate
+            meritorum. Et hec est** multitudo mansionum. </p>
+          <p xml:id="gd-p2c33q3d4-d1e230"> [Gratian.] Secundum iusticiam deletur quia*s gratia
+            subtracta ea operari permittitur, quibus eternam dampnationemmeretur. Hinc Propheta
+            loquens ex persona Christi ait : „ Deleantur de libro uiuentium, hoc est: subtrahatur
+            eis gratia,qua subtracta hi in profundum uiciorum, deinde in eternamdampnationem
+            precipitentur , „et cum iustis non scribantur,id est: non apponatur eis gratia, qua
+            fiant digni eterna salute.Sic itaque peccata secundum prescientiam remittuntur, cum
+            abeterno gratia preparatur, qua uocatus iustificetur, iustificatetandem eternaliter
+            glorificetur. Secundum iusticiam uero peccataremittuntur, cum uel baptisma plena fide
+            accipitur, uel penitenciatoto corde celebratur, que remissio et ipsa secundum
+            prescientiamnon inconuenienter fieri dicitur .§. i. Ut enim ex premissa </p>
+
+          <p xml:id="gd-p2c33q3d4-d1e233"> auctoritate Apostoli datur intelligi, duae sunt
+            preordinationes; una, qua quisque preordinatur hic ad iusticiam et remissionempeccatorum
+            percipiendam; altera, qua aliquis predestinatur aduitam eternam in futuro obtinendam.
+            Harum effectus sunt presens iustificatio, et futura glorificatio, que omnia in
+            premissaauctoritate conuenienter distinguuntur. Prima enim predestinatio,qua
+            preordinantur ad presentem iusticiam, designatur, dumdicitur: ,, Sicut elegit nos in
+            ipso ante mundi constitutionemetc.,“M cuius effectus infra supponitur : ,,in qua
+            gratificauitnos in dilecto filio suo etc. Secunda preordinatio ibi ostenditur™: „qui
+            predestinauit nos in adoptionem filiorum etc.Eius effectus premittitur, dum dicitur*: ,,
+            qui benedixit nos inomni benedictione etc. §. 2. Hae duae preordinationes et
+            earumeffectus ita se habent, ut prima et eius effectus natura prece-dant*, lege *
+            consequendi inferantur. Si enim est aliquispreordinatus ad uitam, consequenter infertur
+            , ergo predesti-natus est ad iusticiam, et, si consequitur uitam eternam, est
+            ergoconsecutus iusticiam; sed non conuertitur. Unde multi suntparticipes primae
+            preordinationis et eius effectus, ad quossecunda uel eius effectus minime pertinere
+            probantur**. §. 3. Iuxta hanc distinctionem intelligenda est auctoritas illa Iohannis :
+            ,,Ex nobis exierunt; sed non erant ex nobis. Nam sifuissent ex nobis, mansissent utique
+            nobiscum. „ Ex nobis, inquit,„ exierunt ,“ id est: a nostra societate recesserunt, qua
+            primae preordinationis** et eius effectus nobiscum participes erant; ,,sednon erant ex
+            nobis, id est secundae preordinationis et eius effectus societatem nobiscum non
+            inierant. Quod ex eo uideri potest,quia, si fuissent ex nobis, id est, si illius
+            preordinationis nobiscumparticipes essent, mansissent utique nobiscum, id est, a
+            societateeffectus eius preordinationis, quam nobiscum contraxerant °, non recessissent.
+            Si enim ad secundam preordinationem utrumque referretur™, non conuenienter illud
+            inferretur: ,,mansissent ; immo cepissent utique esse nobiscum. Si uero ad primam,falsa
+            esset propositio: ,,si fuissent ex nobis etc. Multi enimpresentis iusticiae et
+            sanctitatis participes fiunt, qui tamen in eanon perseuerant. Unde Dominus in euangelio
+            ait: ,,Nonqui ceperit, sed qui perseuerauerit usque in finem, hic saluuserit. </p>
+        </div>
+        <div xml:id="gd-p2c33q3d4-Dd1e237">
+          <head xml:id="gd-p2c33q3d4-Hd1e239">[C. XII.]*</head>
+          <p xml:id="gd-p2c33q3d4-d1e242"> Hanc societatem si quis solo nomine et professione, non
+            autem rei ueritate a dampnandis dicat contrahi, eiusdem auctoritatis testimonio
+            conuincitur. De his enim, qui primae, nonsecundae preordinationis sunt participes, ait :
+            „Nec nos mo-ueat, quod filiis suis quibusdam Deus non dat istam perseue-rantiam. Absit
+            enim, ut ita sit , si de™** predestinatis essent ,“ et cetera, que in eadem auctoritate
+            supra continentur.Oues namque, de quibus in euangelio ait Dominus : „Et aliasoues habeo,
+            que non sunt ex hoc ouili, et filii, de quibus Iohannesait : „ut filios Dei, qui erant
+            dispersi, congregaret in unum,ita pr es cientia erant oues et filii, ut qualitate
+            presentium**, nonspecie*** tantum, sed etiam ante Dei oculos essent filii irae
+            etperditionis eternae. Unde Apostolus * non ait: uidebamur esse,sed: „eramus, inquit,
+            „et nos natura filii irae. Nec ait: reputabimini ab hominibus, sed**: ,,fuistis
+            aliquando tenebrae,nunc autem lux in Domino. De se quoque scribens ad Tymo-theum non
+            ait*: uidebar, sed: ,, fui blasphemus, et persecutor,et contumeliosus; nunc autem sum**
+            misericordiam consecutus .“ Omnes quoque, qui in Christo renascuntur, et qui eius
+            sanguinea diabolo redimuntur, prius ex Adam peccatores nascuntur, etdiabolicae seruituti
+            obnoxii. Sicut ergo isti, quamuis sint futurifilii Dei, tamen prius sunt filii diaboli:
+            sic hi^ He quibus sermohabetur, quamuis recedendo a iusticia sint filii futuri
+            perditioniseternae, tamen cum pie et fideliter uiuunt, uere sunt filii Dei, et iusti, et
+            eterna beatitudine digni. Unde auctoritas non ait : cum uiderentur pie et fideliter
+            uiuere, sed: ,, cum pie et fideliteruiuerentP Ne " ueraciter a bono in malum
+            conmutareniurqui numquam ueraciter boni fuerunt. Dominus quoque non aitper Ezechielem :
+            si auerterit se iustus a iusticia , quamuidebatur habere, sed: „sua, scilicet quam
+            ueraciter habet. §. i. Quod autem in eadem auctoritate sequitur : ,,Non erant innumero
+            filiorum, quando erant in professione filiorum, itaintelligendum est: Filii Dei duobus
+            modis appellantur +. Dicuntur filii Dei participatione hereditatis eternae, sicut
+            Iohannesait in euangelio : „ Quotquot crediderunt in eum, dedit eispotestatem filios Dei
+            fieriP Et Apostolus in epistola adRomanos: „Expectatio creaturae reuelationem filiorum
+            Deiexpectato Et infra: „Ipsa creatura liberabitur a seruitute corruptionis in libertatem
+            gloriae filiorum Dei. Et infra: ,, Ipsiintra nos gemimus, adoptionem filiorum Dei
+            expectantes. Hincetiam Augustinus, eadem uerba Apostoli exponens, ait: „Modotantum
+            creatura\\, cum nondum filiorum forma perfecta. Hocergo modo non sunt filii , nisi
+            participes beatitudinis eternae. §. 2. Ivi presenti etiam dicuntur filii tribus modis,
+            uel pre-destinatione tantum {sicut hi, de quibus Iohannes ait : „utfilios Dei, «/m erant
+            dispersi etc.; uel predestinatione, ei spe eternae beatitudinis (sicut illi, quibus
+            Dominus ait : ,, Filioli,adhuc modicum uobiscum sum), uel merito fidei et presentis
+            iusticiae, non autem predestinatione, claritatis eternae, (s/cni fa‘,de quibus Dominus
+            ait : „*SY dereliquerint /?/» ems legemmeam, ei in iudiciis meis non ambulauerint etc.)
+            Hi ergo, de quibus in presenti agitur, filii sunt merito fidei et presentis iusticiae,
+            non autem sunt filii adoptionis eternae. Qui ergo peccatadimissa redire fatentur,
+            secundum iusticiam, non etiams secundum prescientiam ea dimitti necesse est ut
+            confiteantur, stcwi saluandis peccata secundum iusticiam ad eternam
+            dampnationeminputantur, non secundum prescientiam, quia et illis a bono inmalum
+            deficientibus singula replicabuntur ad supplicium, ei fas usque in finem in bono
+            perseuerantibus nulla inputabuntur adpenam h. </p>
+          <p xml:id="gd-p2c33q3d4-d1e245"> V. Pars. [Gratian.] Qid autem dicunt, peccata </p>
+          <p xml:id="gd-p2c33q3d4-d1e248"> dimissa non redeant auctoritate Gregorii et Prosperi
+            sentenciam suam affirmare conantur. </p>
+          <p xml:id="gd-p2c33q3d4-d1e251"> Ait enim Gregorius in Moralibus, #&amp;. AF. [c. 22.]*: </p>
+          <p xml:id="gd-p2c33q3d4-d1e255"> [C. XIII.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e258"> ,,Quid est quod dicitur : ,, Qm reddis iniquitatem </p>
+          <p xml:id="gd-p2c33q3d4-d1e261"> /?/iYs ac nepotibus f “ Peccatum scilicet originale a
+            patribus trahimus, ei nm per baptismi gratiam saluamur, eifara parentum culpam portamus,
+            &lt;?ma unum eam sumus.Reddet iniquitatem patrum in /?&amp;Ys, dum pro culpaparentis ex
+            originali peccato anima polluitur prolis. Et rursusnon reddit iniquitatem patrum ® in
+            filiis, gwuz, cwm a&amp; originaliculpa per baptismum liberamur, non iam parentum
+            culpas, sed^aas tjps* conmittimus habemus . </p>
+          <p xml:id="gd-p2c33q3d4-d1e264"> Item in responsionibus Prosperi [ad secundam obiectionem
+            Gallorum]: </p>
+          <p xml:id="gd-p2c33q3d4-d1e267"> [C. XIV.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e270"> „ Qid recedit a Christo, ei alienus a gratia finit hanc
+            uitam, </p>
+          <p xml:id="gd-p2c33q3d4-d1e274"> quid nisi in perditionem uadit*! sed non m id, quod
+            remissum est, recidit, nec m originali peccato dampnabitur; qui tamen 244 b* morte
+            afficitur®, que ei propter dimissa, </p>
+          <p xml:id="gd-p2c33q3d4-d1e277"> debebatur. </p>
+          <p xml:id="gd-p2c33q3d4-d1e280"> [Gratian.] JFYms iWns auctoritatis principio contraire
+            ui-detur. Neque enim est aliud peccata dimissa redire, uel in originali peccato
+            dampnari, ^uam penam peccato debitam posteiusdem remissionem excipere. Auctoritates uero
+            sibi contrariasassertores huius sentenciae ita determinant: peccata dimissa
+            rediredicuntur, quia quisquis post acceptam remissionem ad uomi-tum redierit tanto
+            grauius punietur, quanto magis benignitate Deiabusus singulorum remissionis acceptae
+            ingratus extitit. </p>
+          <p xml:id="gd-p2c33q3d4-d1e283"> VI. Pars. §. i. Verum illa sentencia fauorabilior
+            uideiur, quia pluribus roboratur auctoritatibus, et euidentiori rationefirmatur. Ut enim
+            Dominus ait per Ezechielem, [c. i8.]: </p>
+          <p xml:id="gd-p2c33q3d4-d1e286"> [C. XV.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e289"> ,, *SY auerterit se iustus a iusticia sua, et fecerit
+            iniquitatem secundum omnes abhominationes , ^nas operari solet inpius,numquid uiuet?
+            omnes iusticiae eius, quas fecerat, non recordabuntur; ivi peccato sao morietur, et non
+            erunt in memoriaiusticiae eius, quas fecit®. </p>
+          <p xml:id="gd-p2c33q3d4-d1e293"> [C. XVI.] Item Gregorius in eiusdem loci explanatione . </p>
+          <p xml:id="gd-p2c33q3d4-d1e296"> „ZZdc no fas maxime considerandum est, quia, cum mala
+            conmittimus, sine causa ftona nostra transacta reuocamus, quoniam in perpetratione
+            malorum nulla debet esse fiducia bonorum preteritorumP </p>
+          <p xml:id="gd-p2c33q3d4-d1e299"> [C. XVII.] Idem [in homil. IV. ad c. i. Ezech.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e302"> „ De pertuso quippe sacculo aliunde exit quod aliunde in
+            - mittitur, quia indiscretae mentes mercedem, que ex bono opere acquiritur, non
+            aspiciunt, quomodo ex malo opereperdatur. </p>
+          <p xml:id="gd-p2c33q3d4-d1e305"> [C. XVIII.] Item Petrus in epist. II, [c. 2.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e308"> ,, *$Y refugientes coinquinationes mundi in cognitione
+            Domini nostri ei saluatoris Iesu Christi, his rursus inplicati superantur,facta sunt eis
+            posteriora deteriora prioribus. Melius enimerat illis non cognoscere uiam iusticiae,
+            quam post cognitionem* retrorsum conuerti ab eo, quod illis traditum est sanctomandato.“ </p>
+          <p xml:id="gd-p2c33q3d4-d1e312"> Paulus quoque scribens ad Ebreos ait, [c. 6.]: </p>
+          <p xml:id="gd-p2c33q3d4-d1e315"> [C. XIX.] </p>
+          <p xml:id="gd-p2c33q3d4-d1e318"> ,, Intermittentes sermonem inchoationis Christi feramur
+            ad eius* perfectionem, non rursus iacientes fundavnentum peni-tenciae ab operibus
+            mortuis .“ </p>
+          <p xml:id="gd-p2c33q3d4-d1e321"> [Gratian.] Dicens opera mortua, priora bona significat,
+            que per sequens peccatum erant mortua, quia hi peccando priorabona irrita fecerunt. Hec,
+            sicut peccando fiunt irrita, ita perpenitenciam reuiuiscunt, et ad meritum eternae
+            beatitudinis singulaprodesse incipiunt etiam illa, que peccatis inueniuntur admixta.Unde
+            Augustinus : „Pium est credere etc. et leronimus:„Non est iniustus Deus etc.“ Apostolus
+            etiam scribens adEbreos, cum fidem, et dilectionem, et bona opera eorum breuiter
+            conmemorasset, horum omnium mercedem, quam peccando amiserant, post penitenciam a Domino
+            eos recepturos ostendit . Porro, qui per Prophetam dixit : „Si auerterit se iustus a
+            iusticiasua etc.“ 2 Mc jp p eundem Prophetam promisit dicens:„Si inpius egerit
+            penitenciam ah omnibus peccatis suis, queoperatus est, et custodierit uniuersa precepta
+            mea, et fecerit iudicium et iusticiam, uita uiuet, et non morietur; omnium
+            iniquitatumeius non recordabor, quas operatus est; in iusticia sua, quamoperatus est,
+            uiuet. Filiis quoque Israel per Assyrios captiuandisueteris ydolatriae peccatum per Osee
+            Dominus inproperat,et peccatum, quod Moyse supplicante patribus fuerat dimissum,hoc in
+            filiis reuixisse ostendit, dicens: </p>
+          <p xml:id="gd-p2c33q3d4-d1e324"> [C. XX.] 273 </p>
+          <p xml:id="gd-p2c33q3d4-d1e327"> „ Ve eis, quoniam recesserunt a me; uastabuntur, quia
+            preuaricati sunt in me. Ego tamen redemi eos, et ipsilocuti sunt contra me mendacia, et
+            nonclamauerunt ad me in cordesuo, sed ululabant 277 { cubilibus suis; super triticum et
+            uinumruminabant, et™ recesserunt a me, et ego erudiui eos™, et con-fortaui brachia
+            eorum, et in me cogitauerunt maliciam; reuersisunt, ut essent absque iugo; facti sunt
+            quasi arcus dolosus; cadentin gladio principes eorum a furore linguae suae. </p>
+          <p xml:id="gd-p2c33q3d4-d1e331"> VII. Pars. [Gratian.] Antiqua peccata parentum
+            filiisinproperat sermo diuinus, et propterea principes eorum in gladiocasuros predicit.
+            Sed per eundem Prophetam contra se Dominusfacere ostendit, dicens: </p>
+          <p xml:id="gd-p2c33q3d4-d1e334"> [C. XXI.] 280 </p>
+          <p xml:id="gd-p2c33q3d4-d1e337"> „ Ne forte dicant in cordibus suis, omnem maliciam eorum
+            me recordatum, nunc circumdederunt eos adinuentiones suae;coram facie mea factae sunt. </p>
+          <p xml:id="gd-p2c33q3d4-d1e340"> [C. XXII.] Ieronimus [ad c. 7. Oseae] 28 ia* </p>
+          <p xml:id="gd-p2c33q3d4-d1e343"> „ Cum ita puniantur, ne cogitent, quod pro ueteribus
+            peccatis patrum puniam eos, quia nunc, id est in presenti, pro maliciissuis, quas
+            inuenerunt, circumdati sunt pena, et mala eorum, sicutputant, non possunt me latere; sed
+            potius ipsae adinuentionesapertae sunt coram facie mea, que omnia clare uidet. </p>
+          <p xml:id="gd-p2c33q3d4-d1e346"> [C. XXIII.] Idem 282 a* </p>
+          <p xml:id="gd-p2c33q3d4-d1e350"> „ Heretici non possunt uetera peccata contra Deum
+            causari, cum antiquis operibus nouam addant impietatem, et suis ligenturpeccatis, et,
+            cum Deum celare se putant 283 , oculos eius uitare nonpossunt, quia uultus Domini super
+            facientes mala. </p>
+          <p xml:id="gd-p2c33q3d4-d1e353"> [C. XXIV.] Item Gelasius 85 *. </p>
+          <p xml:id="gd-p2c33q3d4-d1e356"> „ Diuina clementia dimissa peccata in ultionem ulterius
+            redire non patitur. </p>
+          <p xml:id="gd-p2c33q3d4-d1e359"> [Gratian.] Sed his auctoritatibus docentur filii, ab
+            originali peccato expiati, non ideo puniendi, quia patres peccauerunt, sedideo peccata
+            patrum in eos redire, quia eorum culpam secuntur.Sic et bona, que peccato 286 moriuntur,
+            non proficient ™ ad premium, quia facta sunt, sed quia per penitenciam reuiuiscunt.Tale
+            est et illud Augustini 288 in libro Psalmorum: ,,Si ludasteneret adoptionem etc. Sic
+            etiam 289 b Md Gregorii in Moralibus intelligitur 200 „ Quid est quod dicitur: „Reddis
+            iniquitatempatrum ™ etcP Hiis namque parentum iniquitas redditur, quipropterea
+            puniuntur, quia in radice traxerunt amaritudinempeccati. Illis autem non reddi dicitur
+            203 [ quibus meritosuae iniquitatis non reuiuiscunt parentis peccata. Sicut ergobona,
+            que peccato moriuntur, per penitenciam reuiuiscunt adpremium: sic et mala, que per
+            penitenciam delentur, reuiuiscuntad supplicium. Unde Propheta ex persona penitentis
+            deplorat,dicens 295 „ Putruerunt et corruptae sunt cicatrices meae,id est plagae per
+            baptismum sanatae. Hinc etiam idem Propheta,quamuis fide et sacramento circumcisionis ab
+            originali peccatose mundatum cognosceret, tamen adulterio et homicidio, quodconmiserat,
+            illud reuixisse intelligens, non sine causa inter ceteraipsum confitetur, et dicit ;
+            ,,Ecce enim in iniquitatibus conceptus sum etc </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
