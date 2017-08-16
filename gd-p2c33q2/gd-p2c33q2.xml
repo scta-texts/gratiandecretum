@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c33q2">
+        <head xml:id="gd-p2c33q2-Hd1e103"> QUESTIO II. </head>
+        <p xml:id="gd-p2c33q2-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c33q2-d1e109"> I. Pars. Quod autem ei, cum quo prius fornicata fuerat , post
+          separationem nubere possit, superius probatum est. Mortuusest enim sibi uir eius. Ex quo,
+          iudicio ecclesiae ab eo separata, ab eius lege soluta est. Unde iuxta Apostolum nubat cui
+          uult, tantum in Domino. §. i. Sed queritur, si sine ecclesiastico iudicio nulla causa
+          discidii rationabiliter probata ab ea discessisset, an esset cogendus redire ad eam. De
+          hoc ita statutum est inConcilio Cartaginensi, cui interfuit Augustinus, c. 30.*: </p>
+        <div xml:id="gd-p2c33q2-Dd1e112">
+          <head xml:id="gd-p2c33q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c33q2-Hd1e117" type="question-title"> Non licet alicui uxorem
+            dimittere, nisi causa discidii primum ecclesiae probetur. </head>
+          <p xml:id="gd-p2c33q2-d1e120"> Seculares, qui coniugale consortium nulla** grauiori </p>
+
+
+
+
+          <p xml:id="gd-p2c33q2-d1e123"> culpa dimittunt uel etiam dimiserunt, et, nullas causas
+            discidii probabiliter proponentes, propterea sua matrimonia dimittunt, ut aut illicita
+            aut aliena presumant: si ante, quam apud episcopos conprouinciales discidii
+            causasdixerint, et prius, quam iudicio dampnentur, uxoressuas abiecerint, a conmunione
+            ecclesiae et sanctopopuli cetu pro eo, quod fidem et coniugia maculant, excludantur,
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e127">
+          <head xml:id="gd-p2c33q2-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c33q2-Hd1e132" type="question-title"> Lex diuina prohibet uirum uxorem
+            dimittere, nisi causa fornicationis.</head>
+          <p xml:id="gd-p2c33q2-d1e135"> Item Ambrosius super Lucam, [ad c. i6.] </p>
+          <p xml:id="gd-p2c33q2-d1e138"> An quod in subditos nefas est in conparem fas est? dimittis
+            ergo uxorem juasi iure*, sine crimine, et putas, hoc tibi licere, quia lex humana non
+            prohibet? Sed prohibet lex diuina. Qui hominibus obsequeris, Deum uerere;audi legem
+            Domini, cui obsecuntur etiam qui leges ferunt:„ Quos Deus coniunxit homo non separet.“
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e143">
+          <head xml:id="gd-p2c33q2-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c33q2-Hd1e148" type="question-title"> Absque causae cognitione a uiro
+            suo dimissa ad omnia restituatur . </head>
+          <p xml:id="gd-p2c33q2-d1e151"> Item Nykolaus Papa Karolo Inperatori 26a**. </p>
+          <p xml:id="gd-p2c33q2-d1e154"> Istoria ecclesiastica, ab Eusebio Cesariensi episcopo
+            confecta, de muliere quadam, que de castitate a maritoaccusabatur, ait: „Preceptum est
+            ab inperatore lege lata, ut primo permitteretur ei libere rem familiarem
+            diutiusordinare; tunc deinde responderet obiectis. Hoc omnesleges tam ecclesiasticae
+            quam uulgares publicaeque precipiunt/* §. i. Si autem de mulieribus et secularibus
+            uirishec constituta sunt, multo magis ecclesiasticis hominibuset sacerdotibus sunt
+            concessa. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e158">
+          <head xml:id="gd-p2c33q2-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c33q2-Hd1e163" type="question-title"> Nisi post restitutionem, neque de
+            coniugii federe, neque de adulterii crimine inter uirum et uxoremiudicium est agitandum. </head>
+          <p xml:id="gd-p2c33q2-d1e166"> Item Nykolaus Papa [in epistola Karolo Regi]*. </p>
+          <p xml:id="gd-p2c33q2-d1e169"> II. Pars. Siue de coniugii federe, siue de adulteriicrimine
+            iudicium sit agitandum, nulla ratio patitur, Theber-gam cum Lothario posse inire
+            certamen, nisi prius adtempus suae fuerit reddita potestati, et consanguineis propriis
+            libere sociata. Inter que etiam locus prouiden-dus est, in quo nulla uis multitudinis
+            formidetur, nec sit difficile testes producere uel ceteras personas, que tam a sanctis
+            canonibus, quam a uenerandis Romanislegibus in huiusmodi controuersiis requiruntur. </p>
+
+          <p xml:id="gd-p2c33q2-d1e172"> III. Pars. Gratian. In hoc capitulo quamuis causauideatur
+            exposita, quare sua auctoritate non licet alicui uxoremdimittere, qua cessante ipsa
+            quoque prohibitio cessare uidetur:tamen quia ipsa separatio pena est, et pena nulli est
+            inferendanisi per iudicem, generaliter hoc intelligendum est, ut siue ob causam
+            premissam, siue nulla causa existente, non liceat alicui suaauctoritate uxorem
+            dimittere. Quod etiam de pena homicidii uelqualibet alia intelligendum est. </p>
+          <p xml:id="gd-p2c33q2-d1e176"> Unde Nykolaus Papa scribit Rodulpho, Bituricensi
+            Archiepiscopo : </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e180">
+          <head xml:id="gd-p2c33q2-Hd1e182">C. V</head>
+          <head xml:id="gd-p2c33q2-Hd1e185" type="question-title"> Coniugia penitus interdicantur
+            his, qui suas uxores occidunt. </head>
+          <p xml:id="gd-p2c33q2-d1e188"> Interfectores suarum coniugum sine iudicio, cum non addis,
+            adulterarum, uel aliquid huiusmodi, quid aliud habendi sunt quam homicidae, ac per hoc
+            ad penitenciamredigendi? Quibus penitus coniugium denegatur, exceptisadolescentibus, de
+            quibus est B. Leonis Papae XXV.* reguladecretalium, imo indulgentia obseruanda. </p>
+          <p xml:id="gd-p2c33q2-d1e191"> Gratian. In hoc capitulo uidetur Nykolaus permittere
+            maritis causa adulterii, uel alterius eiusmodi criminis, uxoressuas interficere. Sed
+            ecclesiastica disciplina spirituali gladio , non materiali criminosos feriri iubet; illo
+            uidelicet gladio, quoPetrus iubetur mactare et manducare. De quo etiam gladio Christus
+            ait in euangelio : „ Non ueni pacem mittere in terram, sed gladium .“ </p>
+          <p xml:id="gd-p2c33q2-d1e194"> Hinc idem Nykolaus scribit Albino Archiepiscopo : </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e198">
+          <head xml:id="gd-p2c33q2-Hd1e200">C. VI</head>
+          <head xml:id="gd-p2c33q2-Hd1e203" type="question-title"> Non licet alicui uxorem adulteram
+            occidere. </head>
+          <p xml:id="gd-p2c33q2-d1e206"> Inter hec uestra sanctitas addere studuit, si Cuius uxor
+            adulterium perpetrauerit, utrum marito illius liceat secundum mundanam legem eam
+            interficere. Sed sancta Deiecclesia numquam mundanis constringitur legibus; gladiumnon
+            habet, nisi spiritualem; non occidit, sed uiuificat. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e210">
+          <head xml:id="gd-p2c33q2-Hd1e212">C. VII</head>
+          <head xml:id="gd-p2c33q2-Hd1e215" type="question-title"> Penitencia eius, qui propriam
+            uxorem absque causa perimit . </head>
+          <p xml:id="gd-p2c33q2-d1e218"> Item Pius Papa . </p>
+          <p xml:id="gd-p2c33q2-d1e221"> Quicumque propriam uxorem absque lege, uel sine causa et
+            certa probatione interfecerit, aliamque duxerituxorem, armis depositis publicam agat
+            penitenciam, et, sicontumax fuerit, et episcopo suo inobediens extiterit,
+            anathematizetur, quousque consentiat. Eadem lex erit illi, qui seniorem suum
+            interfecerit. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e225">
+          <head xml:id="gd-p2c33q2-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p2c33q2-Hd1e230" type="question-title"> Penitencia Astulphi, qui uxorem
+            suam inter fecerat'*.</head>
+          <p xml:id="gd-p2c33q2-d1e233"> Item Stephanus V. Astulpho™. </p>
+          <p xml:id="gd-p2c33q2-d1e236"> Admonere te cum lacrimis et multo gemitu cordiscuramus,
+            fili Astulphe; sed non filius dici debes, qui </p>
+
+
+
+
+          <p xml:id="gd-p2c33q2-d1e239"> tam crudeliter infelix homicidium perpetrasti. Nam
+            occidisti uxorem tuam, partem corporis tui, legitimo matrimonio tibi sociatam, sine
+            causa mortis, non tibi resistentem, non insidiantem quocumque modo uitae tuae.
+            Noninuenisti eam cum alio uiro nefariam rem facientem, sedconcitatus a diabolo, inpio
+            furore flammatus, morelatronum atrocius eam gladio tuo, crudelior omni bestia,
+            interemisti, et nunc post mortem eius addis iniquitatemsuper iniquitatem, filiorum
+            tuorum inprobe predo. Quimatri non pepercisti, filios tuos orphanos fecisti, inducere
+            super eam uis mortis causam post mortem, perunum hominem homicidam et reprobum testem s.
+            Quoniam nec euangelium, nec ulla diuina humanaque lexunius testimonio etiam idoneo
+            quempiam condempnat ueliustificat: quanto magis per istum scelestum et flagitiosissimum
+            nec illa uiua debuit condempnari, nec a te*post mortem eius accusari? Prius causa
+            criminis subtiliter erat inuestiganda, et tunc, si ita fuisset inuenta, secundum legis
+            tramitem debuit excipere ultionis uindi-ctam. Nam si uerum (quod absit) fuisset, sicut
+            adultermentitus est, post septem annos peracta penitenciadimittere eam per approbatam
+            causam poteras, si uoluisses;occidere tamen eam nullatenus debuisti. Non enimuult Deus
+            mortem peccatoris, sed ut conuertatur ad penitenciam, et uiuat. Idcirco placeat tibi
+            consilium nostrum, et facias hoc, quod melius tibi et leuius uideripotest: miserere
+            animae tuae, ut non sis tuus tibimetipsi homicida. Relinque quapropter, te rogamus,
+            hocmalum seculum, quod te traxit ad tam inmanissimumpeccati facinus; ingredere
+            monasterium, humiliare submanu abbatis, multorum fratrum precibus adiutusobserua cuncta
+            supplici animo, que tibi fuerint inpe-rata, si forte ignoscat infinita Dei bonitas
+            peccatis tuiset refrigeret animam tuam prius, quam crucieris perpetuis flammis. Hoc
+            leuius et melius tibi esse certissime scias. Sin autem publicam penitenciam, permanens
+            in domo tua uel in hoc mundo, uis agere (quod tibipeius, et durius, et grauius esse non
+            dubites) ita, ut ageredebeas p, exhortamur, omnibus diebus, quibus peniteredebes, uinum
+            et omnem i siceram non bibas, carnemnumquam ullo tempore comedas, preterquam in Pasca,
+            et in die Natalis Domini; in pane, et aqua, et sale penitenciam age; in ieiuniis, in
+            uigiliis, orationibus, et elemosinis omni tempore perseuera; armis numquamcingere, nec
+            in quolibet loco litigare presumas. Uxoremnumquam ducere, concubinam non habere, nec
+            adulteriumcommittere audeas; in balneo numquam laueris, in con-uiuiis letantium numquam
+            te misceas; in ecclesia segregatus ab aliis Christianis post hostium et postes humiliter
+            terepone; ingredi entium et egredientium suppliciter orationibus conmendare, conmunione
+            corporis et sanguinis Domini cunctis diebus uitae tuae indignum te existimes; in ultimo
+            tamen exitus uitae tuae die, si merueris, pro uiatico, si sit qui tribuat, tantummodo
+            uenialiter tibiut accipias concedimus. Sunt et alia multa, que tibidurius et satis
+            acrius erant iuxta magnum pondus peccati, infelix, adicienda. Sed si hec omnia, que tibi
+            misericorditer supra dicta sunt, perfecto corde Domino auxi-liante feceris et
+            custodieris, confidimus de inmensa clementiaDei, remissionem te tuorum habiturum
+            peccatorum, et secundum dictum iusti bonique pastoris resoluet te sanctaecclesia ab hoc
+            uinculo peccati in terris, ut per ipsius gratiam, qui eam suo sanguine acquisiuit, .
+            solutus sis in celis.Si autem aliter feceris, et sanctae matris ecclesiae tam salubrem
+            admonitionem despexeris, ipse tibi sis iudex, et inlaqueo diaboli, quo irretitus
+            teneris, permanebis; sanguis tuus super caput tuum; nos alieni a consortio tuo
+            proaliorum filiorum Dei salute, ipso opitulante, omni sollicitudine nitimur desudare, et
+            Domini misericordiam attentius cottidie inplorare. </p>
+
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e244">
+          <head xml:id="gd-p2c33q2-Hd1e246">C. IX</head>
+          <head xml:id="gd-p2c33q2-Hd1e249" type="question-title"> Potius uxore uiuente quis aliam
+            ducat, quam humanum sanguinem fundat.</head>
+          <p xml:id="gd-p2c33q2-d1e252"> Item Augustinus de adulterinis coniugiis, [lib. II. c.
+            15.]Si (quod uerius dicitur) non licet homini Christianoadulteram coniugem occidere, sed
+            tantum dimittere: quisest tam demens, qui dicat ei: fac quod non licet, utliceat tibi
+            quod non licet? Cum enim utrumque secundum legem Christi illicitum sit, siue adulteram
+            occidere, siue alteram ducere illa uiuente, ab utroque est abstinendum, non illicitum
+            pro illicito faciendum. Si enimfacturus est quod non licet, iam faciat adulterium, et
+            nonfaciat homicidium, ut uiuente uxore aliam ducat, non humanum sanguinem fundat. </p>
+          <p xml:id="gd-p2c33q2-d1e255"> IV. Pars. Gratian. In premissis auctoritatibus quique
+            prohibentur adulteras coniuges suas occidere; sed post septemannorum penitenciam
+            permittitur eis illas dimittere. Si autemillas interfecerint, iubentur sine spe coniugii
+            perpetuo manere, nisi forte propter lapsum iuuenilis incontinentiae ad matrimonia
+            contrahenda eis misericordia inpendatur. Clericis autemconceditur, si uxores eorum
+            peccauerint, sine mortis acerbitatehabere eas in custodia , et ad ieiunia eas cogere,
+            non tamen usquead necem affligere. </p>
+          <p xml:id="gd-p2c33q2-d1e258"> Unde in Tollet ano Concilio I. [c. 7.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e262">
+          <head xml:id="gd-p2c33q2-Hd1e264">C. X</head>
+          <head xml:id="gd-p2c33q2-Hd1e267" type="question-title"> Clerici, si uxores eorum
+            peccauerint, preter necem eas domi custodiant, et ad salutaria eas ieiunia cogant
+            .Placuit, ut, si quorumcumque clericorum uxores peccauerint, ne forte licentiam peccandi
+            plus habeant, accipiant </head>
+
+
+
+
+          <p xml:id="gd-p2c33q2-d1e270"> mariti earum hanc potestatem, preter necem custodiendi,
+            ligandi in domo sua, ad ieiunia salutaria, non mortiferaeas cogentes, ita, ut inuicem
+            sibi clerici pauperes auxilium ferant, si seruicia2b habeant. Cum uxoribusautem ipsis,
+            que peccauerant, non cibos sumant, nisi forte ad timorem Dei acta penitencia
+            reuertantur. </p>
+          <p xml:id="gd-p2c33q2-d1e273"> V. Pars. Gratian. Nunc autem queritur, quare sacris
+            canonibus sit institutum, ut post septem annos penitentes in pristinum statum reuocentur
+            ^ </p>
+          <p xml:id="gd-p2c33q2-d1e276"> De his ita scribit Ysidorus ad Masonem^ Episcopum, </p>
+          <p xml:id="gd-p2c33q2-d1e280"> [in prefatione ad librum de summo bono]: </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e284">
+          <head xml:id="gd-p2c33q2-Hd1e286">C. XI</head>
+          <head xml:id="gd-p2c33q2-Hd1e289" type="question-title"> Quare sit institutum post septem
+            annos in pristinum statum penitentem redire. </head>
+          <p xml:id="gd-p2c33q2-d1e292"> Hoc ipsum, quod canonum censura post septem annos remeare
+            penitentem in pristinum statum precepit*, non electione proprii arbitrii sancti Patres,
+            sed potiusex sentencia diuini iudicii sanxerunt. Nam legitur, quodMaria soror Aaron
+            prophetissa, dum detractionisaduersum Moysen incurrisset delictum, illico stigmate
+            leprae perfusa est, cumque peteret Moyses, ut emundaretur, precepit eam Dominus extra
+            castra septem diebusegredi, et post emundationem rursus eam in castraadmitti. Maria ergo
+            soror Aaron caro intelligitur sacerdotis, que, dum superbiae dedita sordidissimis
+            cogitationummaculatur contagiis, extra castra septem diebus, hocest extra collegium
+            sanctae ecclesiae septem annis proi-ciaturs, ut post emundationem uiciorum loci
+            uelpristinae dignitatis recipiat meritum. Et post pauca: §. i. In fine autem** epistolae
+            hoc adiciendum putaui, ut, quotiescumque in gestis conciliorum discors sentencia
+            in-uenitur, illius magis teneatur sentencia, cuius antiquioraut potior extat auctoritas. </p>
+          <p xml:id="gd-p2c33q2-d1e295"> Gratian. i 7 oc quamquam de sacerdotibus uideatur
+            specialiter dictum, generaliter tamen de omnibus penitentibus oportet intelligi.Ad
+            imitationem namque illius dominicae sentenciae </p>
+          <p xml:id="gd-p2c33q2-d1e298"> Dauid de adulterio et homicidio reprehensus unius ebdomadae
+            ieiunium in satisfactionem admissi sceleris Deo legitur obtulisse. Hinc etiam
+            ecclesiastica consuetudine est usurpatum, utmaiorum criminum penitencia septem annorum
+            spacio concludatur, nisi uel offitii exellentia, uel criminum magnitudo
+            uulgaremconsuetudinem excedens {ueluti dum contra naturam humanaesocietatis parentibus,
+            uel liberis, uel aliis huiusmodi personisinpudice adheremus, uel dum relicto naturali
+            usu contra naturammore Sodomitico fornicamur, uel usque ad coitum brutorum animalium
+            prolabimur), premissum spacium transcendere cogat. </p>
+          <p xml:id="gd-p2c33q2-d1e302"> VI. Pars. §. i. De penitentibus quoque queritur, an eis
+            generaliter post penitenciam peractam coniugia concedanturfGeneraliter enim canonica
+            auctoritate penitentes prohibentur adsecularem miliciam redire, uel matrimonia
+            contrahere. </p>
+          <p xml:id="gd-p2c33q2-d1e305"> Unde S iri cius Papa [epist. I. ad Himerium Episcopum, c.
+            5.]; </p>
+
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e309">
+          <head xml:id="gd-p2c33q2-Hd1e311">C. XII</head>
+          <head xml:id="gd-p2c33q2-Hd1e314" type="question-title"> Penitentes matrimonia contrahere
+            prohibentur.</head>
+          <p xml:id="gd-p2c33q2-d1e317"> De his uero non incongrue dilectio tua sedem apostolicam
+            credidit consulendam, qui acta penitenciatamquam canes et sues ad uomitus pristinos et
+            uolu-tabra redeuntes, et miliciae cingulum, et ludicras uoluptates, et noua coniugia, et
+            inhibitos denuo appetiuere concubitus, quorum inprofessam continentiam generati post
+            absolutionem filii prodiderunt. De quibus, quia iam suffragium non habent penitendi, id
+            duximus decernendum, ut sola intra ecclesiam fidelibus oratione iungantur, sacris
+            misteriorum celebritatibus (quamuis non mereantur) intersint, a dominicae autem mensae
+            conuiuio segregentur, ut hac saltim districtione correcti et ipsiin se sua errata
+            castigent, et aliis exemplum tribuant, quatenus ab obscenis cupiditatibus retrahantur.
+            Quibus tamen, quoniam carnali fragilitate ceciderunt, uiaticomunere, cum ad Dominum
+            ceperint proficisci, per conmu-nionis gratiam uolumus subueniri, quam formam et
+            circamulieres, que se post penitenciam talibus pollutionibus de-uinxerunt, seruandam
+            esse censemus. </p>
+          <p xml:id="gd-p2c33q2-d1e320"> Gratian. Sed quia timore soluendi coniugii nonnulli ad
+            penitenciam accedere differunt, uel propter lapsum adolescentiae, quem formidant,
+            penitenciae remedium suscipere negligunt, aucto-ritate^* canonica permittitur eis uel
+            contracta matrimoniaretinere, uel alia contrahere. </p>
+          <p xml:id="gd-p2c33q2-d1e323"> Unde Leo Papa scribit Galerio Episcopo Tripolitano : </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e327">
+          <head xml:id="gd-p2c33q2-Hd1e329">C. XIII</head>
+          <head xml:id="gd-p2c33q2-Hd1e332" type="question-title"> Ex indulgentia post penitenciam
+            legitima *non negentur matrimonia . </head>
+          <p xml:id="gd-p2c33q2-d1e335"> Audiuimus a quibusdam, quod in uestris diocesibus et
+            finibus Christianorum cetus leui occasione se subtrahunt penitenciae iugo, dicentes,
+            quia, si penitenciamagimus, coniugii debemus relinquere copulam; in quo errantet de
+            ueritatis calle discedunt, quia pro omnibus illicitispenitenciam unusquisque Christi
+            nominis cultor sustinereatque peragere summopere debet, dicente Domino:, , Penitenciam
+            agite, appropinquabit enim regnum celorum.“Coniugium uero legitimum nulli orthodoxorum
+            penitenciamsustinenti soluere licet. Et infra: §. 1. Sacris uos expediteos alloquiis
+            edocere, ut erroris eripiantur caligine, et licitis copulationibus iuncti de omnibus
+            illicitis penitenciam agere procurent. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e339">
+          <head xml:id="gd-p2c33q2-Hd1e341">C. XIV</head>
+          <head xml:id="gd-p2c33q2-Hd1e344" type="question-title"> Propter lapsum iuenilis
+            incontinentiae non negentur penitentibus licita coniugia.</head>
+          <p xml:id="gd-p2c33q2-d1e347"> Item Leo IV . </p>
+          <p xml:id="gd-p2c33q2-d1e350"> In adolescentia constitutus si urgente aut metu mortis, aut
+            captiuitatis periculo penitenciam gesserit, etpostea timens lapsum incontinentiae
+            iuuenilis copulam uxoris elegerit, ne crimen fornicationis incurreret, rem
+            uideturfecisse uenialem, si preter coniugem nullam omnino cogno-uerit. In quo tamen non
+            regulam constituimus, sed quidsit tollerabilius estimamus. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e355">
+          <head xml:id="gd-p2c33q2-Hd1e357">C. XV</head>
+          <head xml:id="gd-p2c33q2-Hd1e360" type="question-title"> Hec penitencia est inponenda ei ,
+            qui matrem occiderit . </head>
+          <p xml:id="gd-p2c33q2-d1e363"> Item Nykolaus Papa Rhatoldo , Episcopo sanctae Argenteae
+            Retensis *. </p>
+          <p xml:id="gd-p2c33q2-d1e366"> VII. Pars. Latorem presentium matricidam esse co-gnouimus.
+            Cui precipimus, ut sub penitenciae iugo permaneat ita, ut per annum unum ecclesiam non
+            ingrediatur, sed ante fores basilicae stans orans, et deprecansDeum perseueret, qualiter
+            tanto eripiatur piaculo. Conpletouero anni circulo introeundi licentiam in ecclesiam»
+            habeat; tantum inter audientes stet, et nondum con-municet. Conpletis autem trium
+            annorum curriculis sacraeconmunionis illi gratia concedatur, oblationes uero nonofferat,
+            nisi prius aliorum septem annorum curricula expleantur. §. i. In s his autem omnibus
+            annis atque temporibus carnem non manducet, nec uinum bibere presumat, exceptis festis
+            diebus atque dominicis, et a Pasca usquead Pentecosten. Et, quocumque ire uoluerit,
+            nullo uehi-culo deducatur, sed pedibus proficiscatur; arma non sumat, nisi contra
+            paganos; ieiunet autem tribus diebus perebdomadam usque ad uesperam. A propria ac
+            legitima coniuge non separetur, ne in fornicationis uoraginemcorruat, quod ne fiat
+            optamus. Si autem ante annorumtrium cursum finis uitae illius appropinquauerit,
+            corporiset sanguinis Domini nostri Iesu Christi particeps fiat;sin autem, ut supra
+            statui efficiatur. Tamen, si illiusconuersationem et lacrimarum fontem in
+            omnibusuideritis floridis actionibus et optimis operibus pullulare, humanius circa eum
+            sollicitudo peruigil appareat, mitis-que omnibus demonstretur. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e370">
+          <head xml:id="gd-p2c33q2-Hd1e372">C. XVI</head>
+          <head xml:id="gd-p2c33q2-Hd1e375" type="question-title"> Post penitenciam legitimam *
+            adolescentibus permittuntur licita coniugia. </head>
+          <p xml:id="gd-p2c33q2-d1e378"> Item®**. </p>
+          <p xml:id="gd-p2c33q2-d1e381"> VIII. Pars. Si quis cum duabus fuerit sororibus fornicatus,
+            aut cum his personis, de quibus sancta scripturaprohibet, si dignam egerit penitenciam,
+            et castitatis nonualuerit sustinere continentiam, liceat ei legitimam inconiugio uxorem
+            accipere. Similiter et mulier, que talifuerit scelere lapsa, ut fornicationis non
+            perducatur adchaos. Sed hoc de laicis uiris ac mulieribus solummodostatuimus. </p>
+
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e385">
+          <head xml:id="gd-p2c33q2-Hd1e387">C. XVII</head>
+          <head xml:id="gd-p2c33q2-Hd1e390" type="question-title"> Puniatur qui hec crimina
+            conmittit , non tamen legitimam dimittat uxorem. </head>
+          <p xml:id="gd-p2c33q2-d1e393"> Idem . </p>
+          <p xml:id="gd-p2c33q2-d1e396"> Si quis cum matre* spirituali fuerit fornicatus,
+            anathematis (ut scitis) percutitur ictibus. Similiterautem et illum percutere
+            promulgamus, qui cum ea, quam de sacro fonte baptismatis susceperit, autcum illa, quam
+            ante episcopum tenuerit, cum sacrocrismate fuerit uncta, fornicationis perpetrauerit
+            scelus; legitimam tamen, si habuerit, non dimittatuxorem. </p>
+          <p xml:id="gd-p2c33q2-d1e399"> IX. Pars. Gratian. §. i. Quos enim** Deus coniunxitiudex
+            sua auctoritate separare non debet. </p>
+          <p xml:id="gd-p2c33q2-d1e403"> Quamquam Ysidorus hoc aliter intelligat , dicens: </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e407">
+          <head xml:id="gd-p2c33q2-Hd1e409">C. XVIII</head>
+          <head xml:id="gd-p2c33q2-Hd1e412" type="question-title"> Non homo separat quos pena
+            condempnat.</head>
+          <p xml:id="gd-p2c33q2-d1e415"> „ Quos Deus coniunxit homo non separet.“ Queris quomodo?
+            subaudis uiolenter, sine lege, absque rationequos Deus coniunxit homo non separet. Non
+            enim homoseparat quos pena dampnat, quos reatus accusat, quosmaleficium coartat. </p>
+          <p xml:id="gd-p2c33q2-d1e418"> Gratian. Verum hoc pro his dictum intelligitur , quos
+            iudices seculi pro suis sceleribus legum seueritate percellunt , quosuel morte puniunt ,
+            uel deportari iubent. </p>
+        </div>
+        <div xml:id="gd-p2c33q2-Dd1e422">
+          <head xml:id="gd-p2c33q2-Hd1e424">C. XIX</head>
+          <head xml:id="gd-p2c33q2-Hd1e427" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c33q2-d1e430"> Item ex Concilio Tollet ano VI. [c. 8.] </p>
+          <p xml:id="gd-p2c33q2-d1e433"> X. Pars. Antiqui et sanctissimi est patris sentencia Papae
+            Leonis, ut is, qui in etatis adolescentia positus, dum mortis formidat casum, si
+            peruenerit ad penitenciae remedium, si coniugatus forte fuerit incontinens, ne postea
+            adulterii lapsum incurrat, redeat ad pristinumconiugium, quousque possit adipisci
+            temporis maturitatecontinentiae statum, quod nos ut de uiris, ita et defeminis equo modo
+            censemus. Non quidem hocgeneraliter et canonice preceptum, sed constatuobis pro humana
+            fragilitate indultum ea dumtaxatratione, ut si is, qui penitenciae non est legibus
+            deditus, ante ab hac uita discesserits, quam ex consensu adcontinentiam unus eorum*
+            fuerit regressus, superstiti nonliceat denuo ad uxoris transire amplexus. Si autem
+            illiusuita extiterit superstes, qui non accepit absolutionempenitentis, nubat, si se
+            continere non potest, et alteriusconsortio fruatur uxoris. Quod in utroque sexu pari </p>
+
+
+
+
+          <p xml:id="gd-p2c33q2-d1e436"> modo a nobis manifestum est esse decretum, ita uidelicet,
+            ut in his omnibus sacerdotis expecteturordinatio, ut, iuxta quod etatem aptam
+            prospexerit, penitenciae absolutionis tribuat legem. </p>
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c21q4">
+        <head xml:id="gd-p2c21q4-Hd1e103"> QUESTIO IV. </head>
+        <p xml:id="gd-p2c21q4-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c21q4-d1e109"> Quod uero fulgidis et claris uestibus eis ornari non liceat ,
+          in septima Sinodo iubetur , in qua sic statutum est [c. i6.]: </p>
+        <div xml:id="gd-p2c21q4-Dd1e112">
+          <head xml:id="gd-p2c21q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c21q4-Hd1e117" type="question-title"> Corripiantur clerici , qui in
+            unguentis et claris uestibus et fulgidis lasciuiunt. </head>
+
+          <p xml:id="gd-p2c21q4-d1e120"> Omnis iactantia et ornatura corporalis aliena est a sacrato
+            ordine. Eos ergo episcopos uel clericos, qui sefulgidis et claris uestibus ornant,
+            emendari oportet. Quodsi in hoc permanserint, epithimio contradantur. Similiteret eos,
+            qui unguentis unguntur. §. i. Quoniam ueroradice amaritudinis exorta contaminatio facta
+            est in ecclesiacatholica, Christianos calumpniantium hereticorum*, hii, qui han$
+            receperunt, non solum imaginarias scripturas abhominati sunt, sed ets omnem
+            reuerentiamrepulerunt, eos, qui religiose ac pie uiuunt, offendentes, acper hoc
+            conpletur in eis quod scriptum est: „Abhominatioest peccatoris Dei cultus/* igitur si
+            inuenti fuerint deridentes eos, qui uilibus et religiosis uestimentis amictisunt, per
+            epithimium corrigantur. §. 2. Priscis enimtemporibus omnis sacratus uir cum mediocri ac
+            uili uesteconuersabatur. Omne quippe, quod non propter necessitatem suam, sed propter
+            uenustatem accipitur, elationis habetcalumpniam, quemadmodum magnus ait Basilius.
+            Sedneque ex sericis texturis uestem quis uariatam induebat, neque apponebant uarioruin
+            colorum ornamenta in summitate uestimentorum. Audierant enim p, quia , , quimollibus
+            uestiuntur in domibus regum sunt.** </p>
+        </div>
+        <div xml:id="gd-p2c21q4-Dd1e124">
+          <head xml:id="gd-p2c21q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c21q4-Hd1e129" type="question-title"> Clerici siue in itinere
+            ambulantes , Siue alibi degentes , congruis sibi uestibus utantur. </head>
+          <p xml:id="gd-p2c21q4-d1e132"> Item ex VI. Sinodo , [c. 27.] </p>
+          <p xml:id="gd-p2c21q4-d1e135"> Nullus eorum, qui connumerantur in clero, uestimentum
+            indecens habeat, siue in ciuitate degens siue jn itinere ambulans, sed stolis utatur,
+            que concessae sunt clericis.Si uero quis tale quid fecerit, per unam ebdomadam
+            suspendatur. </p>
+          <p xml:id="gd-p2c21q4-d1e138"> i </p>
+        </div>
+        <div xml:id="gd-p2c21q4-Dd1e143">
+          <head xml:id="gd-p2c21q4-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c21q4-Hd1e148" type="question-title"> Non secularibus uestibus , sed
+            ordini suo conuenientibus clerici utantur. </head>
+          <p xml:id="gd-p2c21q4-d1e151"> Item Zacharias Papa [in Sinodo Romana, c. 3.]* </p>
+          <p xml:id="gd-p2c21q4-d1e154"> Episcopi, presbiteri, diaconi, secularibus indumentis non
+            utantur, nisi, ut condecet, tunica sacerdotali; sed neque dum ambulauerint in ciuitate,
+            aut in uia, aut inplateis, sine operimento presumant ambulare, preterquam si in itinere
+            longo ambulauerint, quia sicut mulier orans in ecclesiis non uelato capite deturpat
+            caputsuum, iuxta Apostolicam uocem, ita sacerdos sine operimento deturpat sacerdotium
+            suum. Quod si temere presumpserit contra statuta agere, communione priuetur, donecque
+            statuta sunt adinplere maturet. </p>
+        </div>
+        <div xml:id="gd-p2c21q4-Dd1e158">
+          <head xml:id="gd-p2c21q4-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c21q4-Hd1e163" type="question-title"> Extra domos sine proprio ornatu
+            sacerdotes non appareant. </head>
+          <p xml:id="gd-p2c21q4-d1e166"> Item Leo Papa [IV. in Sinodo Romana, c. 12.] </p>
+          <p xml:id="gd-p2c21q4-d1e169"> Sine ornatu sacerdotali extra domos sacerdotes apparere
+            nullo modo conuenit, ne, ut aliquis secularium, iniuriaspatiantur. Contrarius denique
+            inuentus aut desinat, aut canonicae subiaceat disciplinae. </p>
+
+        </div>
+        <div xml:id="gd-p2c21q4-Dd1e173">
+          <head xml:id="gd-p2c21q4-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c21q4-Hd1e178" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c21q4-d1e181"> Item, Innocentius II. [in Concilio Lateranensi, cap. 4]53b* </p>
+          <p xml:id="gd-p2c21q4-d1e184"> Precipimus, ut tam episcopi quam clerici in statu mentis,
+            in habitu corporis, Deo et hominibus placere studeant, et nec in superfluitate,
+            fissurae**, aut coloreuestium, nec in tonsura intuentium (quorum forma et exemplum esse
+            debent) offendant aspectum, sed potius quodeorum deceat sanctitatem. Quod si moniti ab
+            episcopis emendare noluerint, ecclesiasticis careant beneficiis. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

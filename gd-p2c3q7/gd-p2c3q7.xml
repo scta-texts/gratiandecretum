@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VII.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3q7">
+        <head xml:id="gd-p2c3q7-Hd1e103">QUESTIO VII.</head>
+        <p xml:id="gd-p2c3q7-d1e106"> I. Pars. Quod iudex esse non possit quem cum reo par aut maior
+          macula inficit*, multis auctoritatibus probatur. </p>
+        <p xml:id="gd-p2c3q7-d1e109"> Dicit enim sancta Romana Sinodus *: </p>
+        <div xml:id="gd-p2c3q7-Dd1e112">
+          <head xml:id="gd-p2c3q7-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c3q7-Hd1e117" type="question-title"> Infames iudices esse non
+            possunt.</head>
+          <p xml:id="gd-p2c3q7-d1e120"> Infamis persona nec procurator potest esse, nec cognitor. </p>
+          <p xml:id="gd-p2c3q7-d1e123"> Gratian. Tria sunt , quibus aliqui inpediuntur ne iudices
+            fiant: Natura, uO surdus, mutus et perpetuo furiosus , etinpubes, quia iudicio carent .
+            Lege, qui senatu motus est.Moribus, feminae et serui, non quia non habent iudicium,
+            sedquia receptum est ut ciuilibus non fungantur offitiis. Verum , si seruus, dum
+            putaretur liber, ex ddegatione sententiam dixit, quamuis postea in seruitutem depulsus
+            sit, sententia ab eo dictarei iudicatae firmitatem tenet. </p>
+
+
+
+
+          <p xml:id="gd-p2c3q7-d1e126"> [C. II.] </p>
+          <p xml:id="gd-p2c3q7-d1e130"> In Digestis tit. de postulando*. </p>
+          <p xml:id="gd-p2c3q7-d1e133"> Infames non possunt esse procuratores uel patroni causarum.
+            Sunt autem tres ordines eorum, qui postulare prohibentur. §. i. Est autem postulare
+            desiderium suum uel amici sui in iure apud eum, qui iurisdictioni preest, exponere, uel
+            alteriusdesiderio contradicere. §. 2. Non postulantium , ut premisimus, tres ordines
+            sunt. Quidam prohibentur omnino postulareuel propter etatem, ut minores decem et septem
+            annis, uelpropter casum, ut surdus, qui prorsus non audit . Alii pro </p>
+          <p xml:id="gd-p2c3q7-d1e136"> hibentur ne pro aliis postulent uel propter sexum, ut
+            feminae, uel propter casum, ut utroque lumine orbati, uel propternotam turpitudinis, ut
+            hii, qui corpore suo muliebria passisunt, nisi forte ui predonum uel hostium stuprati
+            probentur.Similiter qui capitali crimine uel calumpniae* publici iudicii sunt dampnati,
+            uel qui operas suas locauerunt ut cum bestiisdepugnarent in arena, pro aliis postulare
+            prohibentur. His personis pro se allegare permittitur, pro alio* prohibetur , nisi forte
+            tutelam inpuberum uel curam adolescentium non affectatam, sed necessariam administrent.
+            Pro his enim, quorum curamgerunt, eis postulare conceditur. Alii enim omnes, qui ut
+            infames notantur, nisi pro se et pro* certis personis postularenon possunt, nisi in
+            integrum restitutionem acceperint. §. 3. Permittitur autem eis postulare pro parente,
+            pro patrono*, patrona* liberis et** s parentibus patroni * et patronae ; proliberis
+            etiam** suis S, fratre, sorore socero , socru, genero, nuru, uitrico, nouerca, priuigno,
+            priuigna, pupillo, pupilla, furiosa, furiosa, fatuo*, fatua, surdo**, prodigo, et
+            adolescente. §.4. Item**pro his , quibus propter infirmitatem curatores darisolent, et
+            qui negotiis suis aliquo perpetuo morbo super esse nonpossunt. §. 5. Omnes autem, qui
+            non sponte, sed necessariofunguntur offitio, sine offensa** postulare possunt, etiamsi
+            hiisunt, quibus non nisi pro se**° postulare permittitur. §. 6. Affinitates** uero non
+            eas accipere debemus, que quondam fuerunt, sed presentes. §. 7. Nurus et generi
+            appellatione et soceri, etsocrus, et ulteriores, quibus pro** prepositio solet accedere,
+            continentur. </p>
+          <p xml:id="gd-p2c3q7-d1e139"> II. Pars. §. 8. Arcentur etiam a professione
+            aduocatorum(sicut in secundo libro Codicis, titulo de postulando inuenitur)qui sub
+            nomine honorariorum ex ipsis negotiis, que tuenda susceperint*, emolumentum sibi certae
+            partis cum graui dampno litigatoris et depredatione poscentes inueniuntur. §. 9. Item**,
+            siquis adeo procax fuerit, ut non ratione, sed probris** putet essecertandum, opinionis
+            suae inminutionem patietur p.§. 10. </p>
+
+          <p xml:id="gd-p2c3q7-d1e142"> Preterea non licet aduocato ullum contractum inire, ullam
+            pactionem conferre cum eo litigatore, quem in propriam recepit fidem, nec ex industria
+            iurgium protrahere. §. 11. Apud urbemRomam etiam honoratis**, qui hoc** putauerint
+            eligendum, eous-que liceat** orare, quousque maluerint, uidelicet ut non ad
+            turpeconpendium et **1 stipem * deformem hec arripiatur occasio.Nam si lucro pecuniaque
+            capiantur, ueluti abiecti atque ** degeneres inter uilissimos numerabuntur. §. 12. Si**
+            uero in unocCuditorio duo tantum uel plures pre ceteris fuerint, quorum famasit
+            hilarior, in iudicantis offitio sit ut par causidicorum distributiofiat, et** exequetur
+            pro * partibus auxilium singulorum. §. 13. Si quis uero monitus a iudice ea
+            excusatione*, que nequeat con-probari, cuicumque parti patrocinium denegauerit, careat
+            foro ;sciat etiam sibi numquam agendi copiam posse restitui. §. 14. Si quis autem ex
+            litigatoribus detectus fuerit separatim tractassecum pluribus**, et aduersario suo
+            subtraxisse paris defensionis copiam, ostendet** proculdubio iniquam a se litem foueri,
+            et auctoritatem iudiciariam a se elusam * experietur , §.15. Item**, quamuis illi, qui
+            causam fisci egissent, prohibeantur aduersusfiscum patrocinium prestare, tamen hodie
+            etiam** aduersus fiscumpatrocinium possunt exhibere priuatis, dum eam causam
+            declinentsuscipere, quam tractauerant, dum fisci aduocati fuerunt*. §. 16. Item, si
+            contra patrem pupilli causam egisti, tutor uelcurator datus eandem causam defendere non
+            prohiberis. §. 17. Cognitores* uero ex offitio intelligantur, non ex arbitrio.
+            Nichil*enim refert**, eum*™, qui arbitrium suscipit, an sit integraefamae, an
+            ignominiosus. §. 18. Filius* etiam in re patris arbiteresse potest. Nam et iudicem eum
+            esse posse plerisque placet. §. 19. Si quis uero iudex sit, arbitrium recipere eiusdem
+            *rei, de qua iudex est, et in se conpromitti iubere prohibetur y, et si sententiam
+            dixerit, non est danda penae persecutio. Seruus**arbiter esse non ualet, libertinus
+            potest. §. 20. Porro infamiamultipliciter irrogatur. Aliquando enim contrahitur genere
+            delicti declarati per sententiam, ueluti cum iudex pronunciat: iniuriam * fecisti,
+            hereditatem expilasti, calumpniatus es. Aliquandogenere penae, sicut illi, qui *
+            dampnantur in opus publicum, quipristinum quidem statum obtinent, sed dampno infamiae
+            etiam postinpletum tempus subiciantur. Aliquando genere penae, et delictideclarati per
+            sententiam, ueluti dum fustibus** ceso per pre-conem dicitur: sicophantis, id est:
+            „calumpniator.** Aliquandoipso genere facti, ut exercentes inprobum** fenus et
+            illiciteexigentes usuras usurarum, et que intra tempus, quo morisest lugere maritum,
+            matrimonium contrahit, et qui sciens eamuxorem * duxit **. </p>
+          <p xml:id="gd-p2c3q7-d1e145"> [Gratian.] Idem testatur Felix Papa, et eisdem** uerbis. §.
+            1. Item in euangelio ille* qui trabem gestat in oculo probatur non posse educere
+            festucam de oculo fratris sui*. §. 2. Item Dauidin lib. Psalmorum**: „Peccatori autem
+            dixit Deus:quare tu enarras iusticias meas? etc.** §. 3. Item Gregorius**: „ Cuius uita
+            despicitur, restat, ut eius predicatio con-tempnaturP </p>
+        </div>
+        <div xml:id="gd-p2c3q7-Dd1e149">
+          <head xml:id="gd-p2c3q7-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c3q7-Hd1e154" type="question-title"> Qui aliorum uicia puniunt sua
+            prius corrigere studeant. </head>
+          <p xml:id="gd-p2c3q7-d1e157"> Idem in Moralibus [lib. XIV., in Iob. cap. 15.] </p>
+          <p xml:id="gd-p2c3q7-d1e160"> III. Pars. „ Qui sine peccato est uestrum, primus"in illam
+            lapidem mittat.“ Ad aliena quippe peccatapunienda ibant, et sua reliquerant. Reuocentur
+            itaqueintus ad conscientiam, ut prius propria corrigant, et tuncaliena reprehendant.
+            Hinc est, quod cum tribus Benia-min in carnis scelere fuisset obruta, collectus omnis
+            Israel </p>
+
+
+
+
+          <p xml:id="gd-p2c3q7-d1e163"> ulcisci iniquitatem uoluit, sed tamen semel et iterum in
+            belli certamine ipse prostratus est. Consulto enimDomino, si ad ulciscendum ire
+            debuissent, iussum estut irent, qui iuxta diuinae uocis inperium perrexit, etsemel et
+            secundo perdidit, et tunc demum peccatricemtribum ualde feriens pene funditus extinxit.
+            Quid est, quod in ultione sceleris inflammatur, et tamen ipse priusprosternitur, nisi
+            quod prius ipsi purgandi sunt, per quosaliorum culpae feriuntur, ut ipsi iam mundi per
+            ultionem ueniant, qui aliorum uicia corrigere festinant? </p>
+        </div>
+        <div xml:id="gd-p2c3q7-Dd1e168">
+          <head xml:id="gd-p2c3q7-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c3q7-Hd1e173" type="question-title"> Ille de uita alterius iudicet, qui
+            non habet in se ipso quod puniat.</head>
+          <p xml:id="gd-p2c3q7-d1e176"> Item Ambrosius super: „Beati inmaculati, [sermone XX. ad
+            uers. Miserationes tuae, Domine]. </p>
+          <p xml:id="gd-p2c3q7-d1e179"> Iudicet ille de alterius errore, qui non habet quod in se
+            ipso condempnet. Iudicet ille, qui non agat eadem, quein alio putauerit punienda, ne,
+            cum de alio iudicat, in seferat sententiam. Iudicet ille, qui ad pronunciandumnullo
+            odio, nulla offensione, nulla leuitate ducatur. Etpost pauca: §. i. Bonus iudex nichil
+            ex arbitrio suo facit etdomesticae proposito uoluntatis, sed iuxta leges et
+            iurapronunciat, scitis iuris obtemperat, non indulget propriae uoluntati, nichil paratum
+            et meditatum de domodefert, sed sicut audit, ita iudicat, et sicut se habet natura,
+            decernit; obsequitur legibus, non aduersatur, examinat causae merita, non mutat. Discite
+            iudices seculi, quem in iudicando tenere debeatis affectum, quam sobrietatem, quam
+            sinceritatem. Et paulo post : §. 2. Qui iudicat, non uoluntati suae obtemperare debet,
+            sed tenere quodlegum est. Et post pauca: §. 3. In iudicando cordi magisest custodia
+            ueritatis, quam obedientia uoluntatis. </p>
+        </div>
+        <div xml:id="gd-p2c3q7-Dd1e183">
+          <head xml:id="gd-p2c3q7-Hd1e185">C. V</head>
+          <head xml:id="gd-p2c3q7-Hd1e188" type="question-title"> Grauatus criminibus aliena
+            iudicare non ualet . </head>
+          <p xml:id="gd-p2c3q7-d1e191"> Item Gregorius [praefationis in Iob c. 3. al. 6.] </p>
+          <p xml:id="gd-p2c3q7-d1e194"> In grauibus peccatis quis positus, dum suis premitur, aliena
+            non diluit. §. 1. Cunctis enim liquet, quia, cum is displicet, qui ad intercedendum
+            mittitur, irati animus proculdubio ad deteriora prouocatur. §. 2. Scriptum quippe est: ,
+            , Victimae inpiorum abhominabilessunt Deo, uota iustorum placabilia. Neque enim
+            inomnipotentis Dei iudicio quid, sed a quo datur, inspicitur. §. 3. Hinc est enim quod
+            scriptum est: „RespexitDeus ad Abel et ad munera eius, ad Cain uero et admunera eius non
+            respexit.“ Dicturus quippe, quia Dominusrespexit ad munera, premisit sollicite, quia
+            respexit ad Abel.Ex qua re patenter ostenditur, quia non offerens a muneribus, sed
+            munera ab offerente placuerunt. §. 4. „Dona*quippe iniquorum non probat altissimus, nec
+            respicit inoblationibus eorum, nec in multitudine sacrificiorum seorum propitiabitur
+            peccatis. §. 5. Item: Longe estDominus ab inpiis, et orationes iustorum exaudiet. </p>
+
+        </div>
+        <div xml:id="gd-p2c3q7-Dd1e198">
+          <head xml:id="gd-p2c3q7-Hd1e200">C. VI</head>
+          <head xml:id="gd-p2c3q7-Hd1e203" type="question-title"> Primum nosmetipsos , deinde
+            proximos debemus corrigere . </head>
+          <p xml:id="gd-p2c3q7-d1e206"> Idem . </p>
+          <p xml:id="gd-p2c3q7-d1e209"> Postulatus Dominus de peccatrice iudicare non statim dat
+            iudicium, sed prius se inclinans deorsum digito scribebatin terra, ac sic demum quod
+            obnixe rogatur iudicat, nos uidelicet typice instituens, ut, cum quelibet
+            proximorumerrata conspicimus, non hec antea errata reprehendendo iudicemus, quam ad
+            conscientiam nostram humiliterreuersi digito eam discretionis solerter exculpemus,
+            etquid in ea conditori placeat, quidue displiceat, examinatione dirimemuss, iuxta illud
+            Apostoli: „Fratres, etsi preoccupatus fuerit homo in aliquo delicto etc.§. i. , , Qui
+            sine peccato est uestrum:“ id est, primouos ipsi iustitiam legis inplete, et sic
+            innocentes manibusad i k lapidandam ream concurrite. </p>
+        </div>
+        <div xml:id="gd-p2c3q7-Dd1e213">
+          <head xml:id="gd-p2c3q7-Hd1e215">C. VII</head>
+          <head xml:id="gd-p2c3q7-Hd1e218" type="question-title"> Sacerdos prius sua peccata ,
+            deinde aliena detergat . </head>
+          <p xml:id="gd-p2c3q7-d1e221"> Item Augustinus ad quemdam Comitem *. </p>
+          <p xml:id="gd-p2c3q7-d1e224"> Sacerdos ut sapiens medicus et perfectus primum sua peccata
+            diluere sciat, et postea aliena detergereet sanare, et non publicare. </p>
+          <p xml:id="gd-p2c3q7-d1e227"> Gratian. Item, in euangelio sal infatuatum ad nichilum utile
+            esse dicitur, nisi ut proiciatur foras et ab hominibus conculcetur. Ex quibus omnibus
+            datur intelligi, quod criminosusalterius criminis iudex esse non potest, et se ipsum
+            condempnat, dum in alterius crimen sententiam profert. §. 1. Sed obicitur:Saul cum a
+            Domino esset reprobatus, populum Dei iudicabat, et eius iudicium uniuersus populus
+            expetebat . Item, Dauid, cum esset adulter et homicida interrogatus a propheta,
+            sententiamin diuitem dedit, qui ouem pauperis rapuit, dicens : „ Iudicium mortis est
+            uiro huic. Item, Salomon , cum amore muliercularum deos gentium coleret, tamen uniuersa
+            plebs Israeliticaad eius iudicium confluebat. Sic et Achab, quamuis coleretBaal, tamen
+            decem tribus iudicabat. Multi etiam alii tam inueteri testamento quam in nouo
+            inueniuntur, quorum uita cumesset blasphemabitis, tamen eorum sententia, quia ex
+            offitiosuo seruata iudiciarii ordinis integritate processit, inueniturseruata. Unde et
+            Dominus ait in euangelio . „ Super </p>
+          <p xml:id="gd-p2c3q7-d1e231"> cathedram Moysi sederunt scribae et Pharisei etc. Hinc
+            liquido constat, quod mali pastores, dum sententia iusti examinisaliorum crimina
+            feriunt, sibi ipsis nocent, dum sine exemplosuae emendationis aliorum uicia corrigere
+            curant; subditis ueroprosunt, si, eorum increpatione correcti uel sententia coherciti,
+            uitarn suam in melius commutare didicerint. Ac per hoc, dumab ecclesia tollerati
+            fuerint, eorum iudicium subterfugerenon licet. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

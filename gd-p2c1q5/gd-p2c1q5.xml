@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO V.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO V.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q5">
+        <head xml:id="gd-p2c1q5-Hd1e103">QUESTIO V.</head>
+
+
+        <p xml:id="gd-p2c1q5-d1e106"> I. Pars. Quod uero quinto loco queritur, an liceat ei essein
+          ecclesia, uel fungi ordinatione, quam paterna pecunia est assecutus, auctoritate
+          diffinitur Urbani, qui scribens de symo-niacis ait inter cetera [in Concilio Placentino,
+          c. 5. et sequentibus, itemque in Concilio Romano]: </p>
+        <div xml:id="gd-p2c1q5-Dd1e109">
+          <head xml:id="gd-p2c1q5-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c1q5-Hd1e114" type="question-title"> De paruulis, qui cupiditate
+            parentum ecclesias emunt.</head>
+          <p xml:id="gd-p2c1q5-d1e117"> Quicumque sane cupiditate parentum, cum adhuc par-uuli
+            essent, ecclesias uel ecclesiarum partes* per pecunias adepti sunt, postquam eas omnino
+            dimiserint, si canonice ineis uiuere uoluerint, pro misericordia eos ibidem
+            esseconcedimus, neque pro hoc facto a sacris ordinibus illosremouemus, si alias digni
+            inueniantur. §. 1. Illi uero, qui perse ipsos, cum maioris etatis essent, nefanda
+            cupiditate ductieas emerunt, si in aliis ecclesiis canonice uiuere uoluerint, seruatis
+            propriis ordinibus pro magna misericordia ibi eosministrare permittimus. Quod si ad
+            alias fortassis transferrinon poterint, et in eis canonice uiuere promiserint, minoribus
+            ordinibus contenti ad sacros ordines non accedant, salua tamen in omnibus apostolicae
+            sedis auctoritate. §. 2.Si qui tamen ante emptionem catholice ordinati sunt, cumea, que
+            emerunt, dimiserint, et uitam canonicam egerint, insuis gradibus permittantur, nisi
+            forte eiusmodi ecclesia sit, ut ibi primum locum debeant obtinere. Primum enim,
+            uelsingularem, uel prepositurae** locum in ^emptis ecclesiiseos habere non patimur. </p>
+          <p xml:id="gd-p2c1q5-d1e120"> II. Pars. Gratian. Hoc autem eum non in preiudicium canonum,
+            sed ex misericordiae dispensatione dixisse, ex epistolaeiusdem colligitur, missa Vitali
+            Presbitero * in hec uerba: </p>
+        </div>
+        <div xml:id="gd-p2c1q5-Dd1e124">
+          <head xml:id="gd-p2c1q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c1q5-Hd1e129" type="question-title"> In dignitate seruanda symoniacis
+            misericordia potest inpendi, si eos uita commendat . </head>
+
+          <p xml:id="gd-p2c1q5-d1e132"> Eos, qui ecclesiam emerunt, si persona talis fuerit, quam
+            uita commendet, uidelicet ut in monasteriis uel canonicisregulariter uiuat, in sui
+            honoris offitio misericorditer condescendendo ministrare concedimus, absque tamen
+            sanctorum canonum preiudicio. </p>
+          <p xml:id="gd-p2c1q5-d1e135"> III. Pars. Gratian. Ex hac itaque auctoritate colligitur,
+            quod ignorantia tales excusat a reatu criminis, ut supra dictumest, non a fructu
+            emptionis, cum in ecclesiis, quas parentumpecunia adepti sunt, non nisi postquam eas
+            omnino dimiserintet ex misericordia ibidem eis esse conceditur. In quo patet, quod etsi
+            illis ignorantibus symoniae peccatum sit admissumfructum tamen paternae emptionis
+            reportare non possunt. Quoduero a crimine excusentur, hinc patet, quia pro hoc facto a
+            sacrisordinibus non remouentur. Si enim illius criminis participesessent, ad sacros
+            ordines conscendere non possent. Illud idemintelligendum est de eo, qui per pecuniam est
+            adeptus sacerdotiidignitatem, non episcopo, sed cuidam ex principibus eius datam;utroque
+            tamen, ordinatore uidelicet et ordinato, hoc ignorante. </p>
+          <p xml:id="gd-p2c1q5-d1e138"> Urbanus II. scribit Alberto Metensi Episcopo : </p>
+        </div>
+        <div xml:id="gd-p2c1q5-Dd1e142">
+          <head xml:id="gd-p2c1q5-Hd1e144">C. III</head>
+          <head xml:id="gd-p2c1q5-Hd1e147" type="question-title"> De quodam, pro quo incuria
+            parentum pecuniam dedit non episcopo, sed uni principum eius. </head>
+          <p xml:id="gd-p2c1q5-d1e150"> Presentium portitorem, quem parentum incuria, per pecuniam
+            non episcopo, sed cuidam principum eius datam, inuitum sacerdotii dignitatem obtinuisse
+            significasti, licetsancti canones deponendum esse testentur, quia tamen, culpam istam
+            nesciens et coactus commisit, et quia abeodem ordine ut deponeretur suplicauit
+            ultroneus, exconsideratione discretionis (que mater est omnium uirtu-tum) magis quam ex
+            rigore canonum, misericordiae uisceraadhibendo, ipsum in eodem ordine esse fraternitati
+            tuaeconsulimus; ita tamen, ut, si ecclesia illa, cui deseruit, sacerdotum penuriam non
+            patitur, suspensus a sacerdotalioffitio permaneat. Quod si fortasse ecclesiae
+            utilitasexegerit, ut curam regiminis assumat, liceat ei ex concessione episcopi sui
+            fratrumque obedientia sacerdotali offitiofungi. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

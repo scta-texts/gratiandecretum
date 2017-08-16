@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title/>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c14q1">
+        <p xml:id="gd-p2c14q1-d1e101"> QUESTIO I. </p>
+        <p xml:id="gd-p2c14q1-d1e104"> GRATIANUS. </p>
+        <p xml:id="gd-p2c14q1-d1e107"> Quod* sua repetere non possint*, facile posse
+          probariuide-tur. Ait enim Dominus in euangelio : „ Si uis perfectus esse, uade, et uende
+          omnia, que habes, et da pauperibus . Quia ergoisti iter perfectionis arripiunt, non licet
+          eis sua habere. Multoergo minus licet eis repetere, quia non debet repeti quod possideri
+          non licet. §. 1. Item : „Si quis noluerit tunicam tuamtollere, et in iudicio tecum
+          contendere, dimitte ei et pallium .§. 2. Item Apostolus in epist. ad Corinthios : , ,
+          Secularia, igituriudicia si habueritis, omnino peccatum est in uobis. §. 3. ItemGregorius
+          exponens: „ Omnia mihi licent, sed ego sub nulliusredigar potestate, inquit: „Cum mens
+          concepta desideria sequitur , seruire rebus conuincitur, quarum amore superatur </p>
+        <div xml:id="gd-p2c14q1-Dd1e110">
+          <head xml:id="gd-p2c14q1-Hd1e112">C. I</head>
+          <head xml:id="gd-p2c14q1-Hd1e115" type="question-title"> Pro rebus transitoriis episcopus
+            prouocatus non litiget . </head>
+          <p xml:id="gd-p2c14q1-d1e118"> Item ex Concilio Cartaginensi IV. [c. 19.] </p>
+          <p xml:id="gd-p2c14q1-d1e121"> Episcopus nec prouocatus pro rebus transitoriis litiget. </p>
+          <p xml:id="gd-p2c14q1-d1e124"> Gratian. Quia ergo generaliter perfectis prohibetur in
+            iudicio contendere, patet, quod istis non licet stare coram iudice. §. 1. His ita
+            respondetur: Prohibetur perfecto in iudicio stare captandolucrum, sed non euitando
+            dampnum. Vel aliter: Aliud est sua </p>
+
+
+
+
+          <p xml:id="gd-p2c14q1-d1e128"> possidere, aliud est communium procuratorem esse. Canonici
+            non possident sua, quia res Deo oblatae non sunt alicuius.Utuntur enim rebus ecclesiae,
+            non ut suis, sed tamquam ad dispensandum sibi creditis. Unde Prosper in lib . de uita
+            con-templatiua: „ Sacerdos, cui dispensationis cura conmissa est, etc. require in causa
+            eius, a quo pro ingressu monasterii pecuniaexigebatur. Sicut &amp;go isti non sua
+            possident, ita nec sua repetunt, sed res ecclesiae, quarum procurationem gerunt.
+            Similiterquod in iudicio prohibentur contendere sic intelligendum est, uidelicet, ut non
+            sibi stent coram iudice, sed aliis. Aliis autemcoram iudice astitisse, et pro eis
+            iudicem interpellasse nonnullossanctorum legimus. Hi autem non sibi stant, sed
+            pauperibus, quorum necessitatibus profutura repetunt, et ita non prohibenturstare coram
+            iudice. §. 2. Illud uero euangelii: „Si quis abstulerit tibi tunicam, etc. non
+            precipientis est, sed exhortantis. </p>
+          <p xml:id="gd-p2c14q1-d1e131"> Unde Augustinus ait [lib. XIX. contra Faustum, c. 25.]*:
+          </p>
+        </div>
+        <div xml:id="gd-p2c14q1-Dd1e135">
+          <head xml:id="gd-p2c14q1-Hd1e137">C. II</head>
+          <head xml:id="gd-p2c14q1-Hd1e140" type="question-title"> Peccat, qui ultra debitum exigit,
+            non qui sibi debita reposcit . </head>
+          <p xml:id="gd-p2c14q1-d1e143"> Quod debetur, etsi benigne remittitur, non tamen inique
+            repetitur. Peccat autem qui exigit ultra debitum, ideoque lex modum figens penam
+            talionis instituit. Sedtu eo longe es a peccato iniusti exactoris, quo omnino nonexigis
+            debitum, ideoque bonus magister ait: „Qui te percutit in maxillam, prebe ei et alteram/
+            presertim necogamur et ipsi reddere debitum ab eo, qui nullum habetdebitum. </p>
+          <p xml:id="gd-p2c14q1-d1e146"> [Gratian.] Sic et cetera accipies . </p>
+          <p xml:id="gd-p2c14q1-d1e149"> [C. III.] 29 </p>
+          <p xml:id="gd-p2c14q1-d1e153"> Idem de sermone domini in monte *. </p>
+          <p xml:id="gd-p2c14q1-d1e156"> Quisquis preceptis non obtemperat, reus est et debitor
+            penae. Et paulo post: §. 1. Precepto Domini non obedirepeccatum est; et consilio si uti
+            nolueris, minus boniadipisceris. Item Gregorius in epistola ad louinianum :§. 2. Quod
+            precipitur inperatur; quod inperatur necesseest fieri; si non fiat, penam habet. §. 3.
+            Ubi consiliumdatur, offerentis arbitrium est; ubi preceptum, necessitas s seruientis **.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

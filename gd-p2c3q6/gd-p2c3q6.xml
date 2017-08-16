@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VI</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VI</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3q6">
+        <head xml:id="gd-p2c3q6-Hd1e103">QUESTIO VI</head>
+        <p xml:id="gd-p2c3q6-d1e106"> I. Pars. Extra prouinciam autem reus nullatenus
+          estproducendus. </p>
+        <p xml:id="gd-p2c3q6-d1e109"> Unde I abi anu s Papa scribit Y lar io Episcopo , [ep. III.
+          cap. 4.] </p>
+        <div xml:id="gd-p2c3q6-Dd1e112">
+          <head xml:id="gd-p2c3q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c3q6-Hd1e117" type="question-title"> Ubi crimen admittitur , ibi causa
+            uentiletur , </head>
+          <p xml:id="gd-p2c3q6-d1e120"> Ibi semper causa agatur, ubi crimen admittitur, etqui non
+            probauerit quod obicit, penam, quam intulerit, ipse patiatur. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e124">
+          <head xml:id="gd-p2c3q6-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c3q6-Hd1e129" type="question-title"> Accusatus nonnisi in foro suo
+            audiatur.</head>
+          <p xml:id="gd-p2c3q6-d1e132"> Idem [eadem epist. c. 2.]Si quis episcoporum super certis
+            accusatur criminibus, ab omnibus audiatur, qui sunt in prouincia sua, episcopis, quia
+            non oportet accusatum alibi quam in foro suoaudiri. </p>
+          <p xml:id="gd-p2c3q6-d1e135"> Gratian. Exceptio fori dilatoria est , atque ideo in inicio
+            litis debet opponi et probari. Peremptorias autem exceptiones(ut sunt prescriptiones
+            longi temporis) sufficit in inicio litiscontestari. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e140">
+          <head xml:id="gd-p2c3q6-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c3q6-Hd1e145" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q6-d1e148"> Idem [Fabianus ibidem]. </p>
+          <p xml:id="gd-p2c3q6-d1e151"> Pulsatus ante suum iudicem causam dicat, nonante suum
+            iudicem pulsatus, si uoluerit, taceat. Pulsatisuero, quociens appellauerint, induciae
+            dentur. </p>
+          <p xml:id="gd-p2c3q6-d1e154"> Gratian. Hoc autem , quod de loco dictum est , tunc
+            in-telligendum est , cum ueritas causae nonnisi in loco admissi criminis deprehendi
+            potest , aut nisi altera pars iudicium maiorispersonae interpellauerit , siue declinando
+            iudicium , siue releuandosententiam. </p>
+          <p xml:id="gd-p2c3q6-d1e158"> Unde Stephanus , sanctae et apostolicae atque uniuersalis
+            ecclesiae Romanae Episcopus , scribit omnibus Episcopis , [epist. II. cap. 7.]: </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e162">
+          <head xml:id="gd-p2c3q6-Hd1e164">C. IV</head>
+          <head xml:id="gd-p2c3q6-Hd1e167" type="question-title"> Intra prouinciam , et a
+            conprouincialibus tantum causa est audienda. </head>
+          <p xml:id="gd-p2c3q6-d1e170"> Ultra prouinciarum terminos accusandi licentia non
+            progrediatur, sed omnis accusatio intra prouinciam audiatur, et a conprouincialibus
+            terminetur, nisi tantum ad apostolicam sedem fuerit appellatum. </p>
+
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e174">
+          <head xml:id="gd-p2c3q6-Hd1e176">C. V</head>
+          <head xml:id="gd-p2c3q6-Hd1e179" type="question-title"> A conprouincialibus accusatus uel
+            indicatus apostolicam sedem appellet. </head>
+          <p xml:id="gd-p2c3q6-d1e182"> Item Sixtus Papa [II. ep. I. ad Gratum Episcopum]. </p>
+          <p xml:id="gd-p2c3q6-d1e185"> Accusatus uel iudicatus a conprouincialibus in aliqua causa
+            episcopus licenter appellet, et adeat apostolicaesedis Pontificem, qui aut per se, aut
+            per uicarios suos retractare eius negotium procuret. Et dum iteratoiudicio Pontifex
+            causam suam agit, alius in eius loco nonponatur aut ordinetur episcopus, quoniam,
+            quamquamconprouincialibus episcopis accusati causam episcopiscrutari liceat, non tamen
+            diffinire inconsulto RomanoPontifice permissum est. </p>
+          <p xml:id="gd-p2c3q6-d1e188"> [PALE A. </p>
+          <p xml:id="gd-p2c3q6-d1e192"> C. VI. De eodem. </p>
+          <p xml:id="gd-p2c3q6-d1e195"> Item Dama sus Papa Stephano Archiepiscopo, epist. II. c. 2.* </p>
+          <p xml:id="gd-p2c3q6-d1e198"> Discutere episcopos et summas ecclesiasticorum negotiorum
+            causas metropolitano una cum omnibus suisconprouincialibus, ita ut nemo ex eis desit, et
+            omnes insingulorum concordent negotiis, licet; sed diffinire eorumatque ecclesiasticarum
+            summas querelas causarum, ueldampnare episcopos absque huius sanctae sedis
+            auctoritateminime licet, quam omnes appellare, si necesse fuerit, eteius fulciri auxilio
+            oportet.] </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e202">
+          <head xml:id="gd-p2c3q6-Hd1e204">C. VII</head>
+          <head xml:id="gd-p2c3q6-Hd1e207" type="question-title"> Conprouinciales et metropolitani
+            episcoporum causam audire , sed diffinire non possunt. </head>
+          <p xml:id="gd-p2c3q6-d1e210"> Item Eleuterius Papa [scribens ad Galliae prouincias, cap.
+            2.] </p>
+          <p xml:id="gd-p2c3q6-d1e213"> Quamuis liceat apud prouinciales, et metropolitanos, atque
+            primates episcoporum uentilare accusationes uelcriminationes, tamen non licet diffinire*
+            sine huius sanctae sedis auctoritate, sicut ab apostolis eorumque successoribus multorum
+            consensu episcoporum iam diffinitum est.Nec in eorum ecclesiis alii aut preponantur, aut
+            ordinentur, antequam hic eorum iuste terminentur negotia. Reliquorum uero clericorum
+            causas apud conprouinciales, etmetropolitanos, et primates et uentilare, et iustefinire
+            licet. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e217">
+          <head xml:id="gd-p2c3q6-Hd1e219">C. VIII</head>
+          <head xml:id="gd-p2c3q6-Hd1e222" type="question-title"> Ante apostolicam censuram in
+            causis episcoporum non est diffnitiua sententia ferenda. </head>
+          <p xml:id="gd-p2c3q6-d1e225"> Item Leo Episcopus urbis Romae Anastasio Episc.
+            Tes-salonicensi, [ep. LXXXII. al. LXXXIV. c. i.] </p>
+          <p xml:id="gd-p2c3q6-d1e228"> Multum stupeo, frater karrissime, sed plurimum </p>
+
+
+
+
+          <p xml:id="gd-p2c3q6-d1e231"> doleo, quod in eum, de quo nichil amplius iudicaueras, quam
+            quod euocatus adesse differret et excusationem infirmitatisobtenderet, tam atrociter et
+            tam uehementer potuerisconmoueri, presertim cum, etiam si tale aliquid mereretur,
+            expectandum tibi fuerat quid ad tua consulta rescriberemus. Sed etiam si quid graue
+            intolerandumqueconmitteret, nostra erat expectanda censura, ut nichilprius ipse
+            decerneres quam quid nobis placeret agnosceres.Vices enim nostras ita tuae credidimus
+            karitati, ut inpartem sis uocatus sollicitudinis, non in plenitudinem potestatis. Unde,
+            sicut multum nos ea, que a te pie sunt curata, letificant, ita nimium ea, que perperam
+            sunt gesta, contristant. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e235">
+          <head xml:id="gd-p2c3q6-Hd1e237">C. IX</head>
+          <head xml:id="gd-p2c3q6-Hd1e240" type="question-title"> Preter conscientiam- Romani
+            Pontificis nec concilia celebrari, nec episcopum dampnari oportet. </head>
+          <p xml:id="gd-p2c3q6-d1e243"> Item Iulius Papa orientalibus Episcopis, [ep. I.] </p>
+          <p xml:id="gd-p2c3q6-d1e246"> Dudum a sanctis apostolis successoribusque eorumin antiquis
+            decretum est statutis, que hactenus sanctaet urriuersalis apostolica tenet ecclesia, non
+            oporterepreter sententiam Romani Pontificis concilia celebrariuel episcopum dampnari,
+            quoniam sanctam Romanamecclesiam primatum omnium ecclesiarum esse uoluerunt;et sicut B.
+            Petrus apostolus primus fuit omnium apostolorum, ita et hec ecclesia suo nomine
+            consecrata (Domino instituente) prima sit et caput ceterarum, et ad eam quasiad matrem
+            atque apicem omnes maiores ecclesiae causaeet iudicia episcoporum recurrant, et iuxta
+            eius sententiamterminum sumant, nec extra Romanum quicquam ex hisdecerni Pontificem
+            debere. </p>
+          <p xml:id="gd-p2c3q6-d1e249"> II. Pars. Gratian. Aliquando inconsulto Romano Pontifice
+            plerique episcoporum dampnati inueniuntur, et alii in eorum subrogati locum, quorum
+            dampnationem et subrogationem probono pacis ex dispensatione tollerasse legitur
+            ecclessia. </p>
+          <p xml:id="gd-p2c3q6-d1e253"> Vnde Nicolaus Papa Salomoni RegiBrittorum ; </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e258">
+          <head xml:id="gd-p2c3q6-Hd1e260">C. X</head>
+          <head xml:id="gd-p2c3q6-Hd1e263" type="question-title"> Quorumdam depositionem, extra
+            conscientiam Romani Pontificis factam, pro pace tollerauit ecclesia. </head>
+
+          <p xml:id="gd-p2c3q6-d1e266"> Hec quippe est ordinatio Dei patris tui, et hec est lex
+            ecclesiae matris tuae, uidelicet ut omnes episcopos regni tuiad Turonensem
+            archiepiscopum mittere non detrectes, ipsiusque iudicium postulare non dedigneris. Ipse
+            enim estmetropolitanus , omnesque episcopi tui regni eius suffraganeis sunt, sicut
+            conscriptiones predecessorum meorumeuidenter ostendunt, qui predecessores tuos, quia
+            illos abipsius cura subtraxerant, forti inuectione corriperestuduerunt, quamuis nec
+            nostra scripta super hac re missadeesse uideantur. Cumque coram designato
+            Turonicaeecclesiae presule et integro numero collegarum, id est duo-*decim episcoporum,
+            celebrato conuentu fuerint eiecti, episcopi regulariter examinati, aparueritque quod
+            canonicefuerint eiecti, ipsis in sua deiectione manentibus, quiin locis eorum consecrati
+            sunt poterunts utique episcopatus honore potiri. Quod si eiecti episcopi insontes
+            fuerintdeclarati, his amotis, qui illis subrogati sunt, ecclesiassuas ipsi recipiant.
+            Nam cum antecessores mei presuleseiectiones eorum episcoporum, qui ab ecclesiis
+            suisexpulsi sunt, nec admiserunt, nec approbauerunt, necipsos, qui eis subrogati sunti*,
+            uiuentibus illis legitimos episcopos dixerunt. Sane si ad Turonensem fortearchiepiscopum
+            mittere prefatos episcopos dedignaris, stude duos episcopos de expulsis et duos de
+            subrogatis unacum ecclesiae tuae legato ad apostolicam B. Petri sedemtransmittere, ubi,
+            digna examinatione premissa, qui legitimiepiscopi sunt apareat, et suas ecclesias
+            inregulariternon amittant. Nichil enim queo aliud in presentinegotio diffinire. Quia
+            uero magna quis sit metropolitanus apud Brittannos est contentio, licet nullius
+            memoriateneat uos in uestra regione ullam habuisse metropolita-nam ecclesiam, tamen si
+            libet (postquam Deus omnipotens pacem inter uos et dilectum filium nostrum, Karo-lum
+            regem gloriosum, constituet) facile hoc poteritisaduertere. Quod si adeo contentiosius"
+            agere creditis, ad nostrum apostolatum destinare contendite, quatinus nostro libramine
+            que fuerit apud uos antiquitus archiepisco-palis ecclesia luce clarius innotescat, et
+            deinceps omniambiguitate recisa quem sequi episcopi uestri debeantincunctanter
+            agnoscant. Neque enim ecclesias Dominiper discordias regum diuisionis aliqua pati
+            dampnanecesse est, cum (quantum ex se est) pacem, quam predicant, seruare studeant
+            inuicem et in omnes. </p>
+          <p xml:id="gd-p2c3q6-d1e269"> III. Pars. Gratian. Alias autem irrita erit episcoporum
+            sententia et a Sinodo retractanda. </p>
+          <p xml:id="gd-p2c3q6-d1e272"> Unde Felix Papa [I. epist. I. ad Paternum]: </p>
+          <p xml:id="gd-p2c3q6-d1e276"> C. XI. J Dampnatio iniusta inrita est et in Sinodo
+            retractanda. </p>
+          <p xml:id="gd-p2c3q6-d1e279"> Inritam esse episcoporum dampnationem et iniustam* censemus
+            et idcirco a Sinodo retractandam, ita ut ob-pressis ab omnibus in cunctis subueniatur
+            causis. </p>
+          <p xml:id="gd-p2c3q6-d1e282"> Gratian. Quod autem metropolitanum suum contem-pnere, et
+            aliorum iudicium alicui expetere non liceat, Sixtus Papa [III.] testatur [in epist. ad
+            orientales Episcopos, c. 3.] dicens: </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e286">
+          <head xml:id="gd-p2c3q6-Hd1e288">C. XII</head>
+          <head xml:id="gd-p2c3q6-Hd1e291" type="question-title"> Peregrina iudicia sunt
+            submouenda.</head>
+          <p xml:id="gd-p2c3q6-d1e294"> Peregrina iudicia, salua in omnibus apostolicaauctoritate,
+            generali sanctione prohibemus, quia indignum </p>
+
+
+
+
+          <p xml:id="gd-p2c3q6-d1e297"> est ut ab extraneis iudicentur qui conprouinciales et a se
+            electos debent habere iudices. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e301">
+          <head xml:id="gd-p2c3q6-Hd1e303">C. XIII</head>
+          <head xml:id="gd-p2c3q6-Hd1e306" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q6-d1e309"> Item Anacletus [Papa, epist. I. c. 3.]Leges ecclesiae
+            apostolica auctoritate firmamus, et peregrina iudicia submouemus. Unde et Dominus,
+            mentionem faciens Loth, per Moisen loquitur, dicens: „Ingressuses quidem ut aduena,
+            numquid ut iudices ?“ </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e313">
+          <head xml:id="gd-p2c3q6-Hd1e315">C. XIV</head>
+          <head xml:id="gd-p2c3q6-Hd1e318" type="question-title"> Nulli liceat aliarum prouinciarum
+            iudicium expetere. Item Innocentius [Papa ad Victricium RothomagensemEpiscopum, epist.
+            II. c. 3.]Non liceat cuiquam, sine preiudicio tamen Romanae ecclesiae, cui* in omnibus
+            causis reuerentia debetur, relictis his sacerdotibus, qui in eadem prouincia
+            Deiecclesias nutu diuino gubernant, ad alias conuolare prouin-cias uel aliarum
+            prouinciarum episcoporum iudiciaexpeti uel pati. Quod si quis presumpserit, ab offitio
+            cleri submotus et iniuriae reus ab omnibusiudicetur. </head>
+          <p xml:id="gd-p2c3q6-d1e321"> Gratian. Reuerentia autem, que apostolicae debetur
+            ecclesiae, et eius auctoritas intelligenda est, cum uel ad ipsam appellatum fuerit, uel
+            ab ea iudices electi conceduntur . Unde Sixtus Papa, cum diceret: „ Conprouinciales et a
+            se electos debent habere iudices, statim subiungit : „nisi fuerit appellatum </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e325">
+          <head xml:id="gd-p2c3q6-Hd1e327">C. XV</head>
+          <head xml:id="gd-p2c3q6-Hd1e330" type="question-title"> Absque apostolicae sedis decreto
+            extraneos iudices adire non possumus . </head>
+          <p xml:id="gd-p2c3q6-d1e333"> Item Anacletus [Papa, epist. I. c. 3.]Unaqueque prouincia
+            tam iuxta ecclesiasticasquam iuxta seculi leges suos debet iustos et non iniquoshabere
+            iudices, et non extraneos, nisi apostolicae huiussedis decreuerit auctoritas. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e337">
+          <head xml:id="gd-p2c3q6-Hd1e339">C. XVI</head>
+          <head xml:id="gd-p2c3q6-Hd1e342" type="question-title"> Super™* appellationem
+            alteriusprouinciae iudices adire non oportet.</head>
+          <p xml:id="gd-p2c3q6-d1e345"> Item ex Romana Sinodo . </p>
+          <p xml:id="gd-p2c3q6-d1e348"> Neminem exhiberi de prouincia ad prouinciam uel de </p>
+
+          <p xml:id="gd-p2c3q6-d1e351"> comitatu ad comitatum oportet, nisi ad relationem iudicis
+            179 ita ut actor rei forum sequatur. Et infra : </p>
+          <p xml:id="gd-p2c3q6-d1e355"> §. 1. Illa, que** sunt per unamquamque prouinciam, ipsius
+            prouinciae sinodus dispenset, sicut in Niceno constat essedecretum concilio. §. 2. Ultra
+            prouinciae terminos accusandi licentia non progrediatur. Omnis accusatio intra
+            prouinciam audiatur et a conprouincialibus terminetur***. </p>
+          <p xml:id="gd-p2c3q6-d1e358"> [C. XVII.] </p>
+          <p xml:id="gd-p2c3q6-d1e361"> Item *. </p>
+          <p xml:id="gd-p2c3q6-d1e364"> Si quis clericus super quibuslibet criminibus accusatus
+            fuerit, in prouincia, in qua consistit ille, qui pulsatur, suas exerat actiones, nec
+            estimet eum accu-tor suus alibi aut longius ad iudicium pertrahendum. </p>
+        </div>
+        <div xml:id="gd-p2c3q6-Dd1e369">
+          <head xml:id="gd-p2c3q6-Hd1e371">C. XVIII</head>
+          <head xml:id="gd-p2c3q6-Hd1e374" type="question-title"> Ubi crimen admittitur, ibi causa
+            uentiletur.</head>
+          <p xml:id="gd-p2c3q6-d1e377"> Item ex decreto Adriani Papae . </p>
+          <p xml:id="gd-p2c3q6-d1e380"> Qui 195 crimen obicit sciat se probaturum. Reuera ibi causa
+            agatur ubi crimen admittitur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

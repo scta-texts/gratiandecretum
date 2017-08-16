@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IX. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IX. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3q9">
+        <head xml:id="gd-p2c3q9-Hd1e103"> QUESTIO IX. </head>
+        <p xml:id="gd-p2c3q9-d1e106"> I. Pars. De accusatoribus uero uel testibus , quod in absentem
+          uocem accusationis uel testificationis exhibere non ualeant , multorum auctoritatibus
+          liquet. </p>
+        <p xml:id="gd-p2c3q9-d1e109"> Ait enim Tei es forus Papa , [epistola unica]: </p>
+        <div xml:id="gd-p2c3q9-Dd1e112">
+          <head xml:id="gd-p2c3q9-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c3q9-Hd1e117" type="question-title"> Nisi reo presente accusator non
+            audiatur.</head>
+
+          <p xml:id="gd-p2c3q9-d1e120"> Accusatori omnino non credi decernimus, qui absente
+            aduersario causam suggerit, ante utriusque partis iustamdiscussionem. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e124">
+          <head xml:id="gd-p2c3q9-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c3q9-Hd1e129" type="question-title"> Absente aduersario sententiam
+            ferri^* non licet Item Eleuterius Papa [in epistola ad Episcopos Galliae]. </head>
+          <p xml:id="gd-p2c3q9-d1e132"> Caueant iudices ecclesiae, ne absente eo, cuius causa
+            uentilatur, sententiam proferant, quia irrita erit; imo etcausam in Sinodo pro facto
+            dabunt. Proditoris ueronec calumpnia, nec uox audiatur. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e137">
+          <head xml:id="gd-p2c3q9-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c3q9-Hd1e142" type="question-title"> Absente reo accusator non
+            audiatur.</head>
+          <p xml:id="gd-p2c3q9-d1e145"> Item Calixtus Papa , [epist. II. ad Episcopos Galliae]. </p>
+          <p xml:id="gd-p2c3q9-d1e148"> Absente eo, quem accusare uoluerit, quicquam accusatori non
+            credatur, qui sine scripto difficile, per scriptum autem numquam recipiatur; quia per
+            scripturam nullus accusari potest, sed propria uoce, et presente eo, quem accusare
+            uoluerit, suam quisque agat accusationem. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e152">
+          <head xml:id="gd-p2c3q9-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c3q9-Hd1e157" type="question-title"> Que in absentes geruntur omnino
+            euacuentur. </head>
+          <p xml:id="gd-p2c3q9-d1e160"> Item Cornelius Papa [ad Rufum, ep. II. c. 2.] </p>
+          <p xml:id="gd-p2c3q9-d1e163"> Omnia, que aduersus absentes in omni negotio aut loco
+            aguntur aut iudicantur, omnino uacuentur, quoniamabsentem nullus addicit nec ulla lex
+            dampnat. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e167">
+          <head xml:id="gd-p2c3q9-Hd1e169">C. V</head>
+          <head xml:id="gd-p2c3q9-Hd1e172" type="question-title"> Non iudicetur qui presentialiter
+            non accusatur uel conuincitur.</head>
+          <p xml:id="gd-p2c3q9-d1e175"> Item Marcellus Papa [ad Maxentium, epist. II.] </p>
+          <p xml:id="gd-p2c3q9-d1e178"> Non oportet quemquam iudicari uel dampnari prius, quam
+            legitimos habeat presentes accusatores, locum quedefendendi accipiat ad abluenda
+            crimina. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e182">
+          <head xml:id="gd-p2c3q9-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c3q9-Hd1e187" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q9-d1e190"> Item Dama sus Papa [ad Stephanum Archiepiscopum, ep. III.
+            cap. 8.] </p>
+          <p xml:id="gd-p2c3q9-d1e193"> Habetur quoque in decretis sanctorum Patrum sancitum, non
+            fore canonicum quemquam sacerdotum iudicareuel dampnare ante, quam accusatores canonice
+            examinatospresentes habeat locumque defendendi accipiat, id est inducias ecclesiasticas
+            ad abluenda crimina etc. </p>
+          <p xml:id="gd-p2c3q9-d1e196"> [PALEA. </p>
+          <p xml:id="gd-p2c3q9-d1e200"> C. VII. Idem Damasus ibidem continenter* </p>
+          <p xml:id="gd-p2c3q9-d1e203"> Nec extra propriam* fiat prouinciam primo discus- </p>
+
+          <p xml:id="gd-p2c3q9-d1e206"> EDITIO ROMANA* </p>
+          <p xml:id="gd-p2c3q9-d1e209"> Causa III. Que st. VIII. c. 1. a) praecipiunt, ut Codice*
+            libro septimo, titulo de sententiis et interlocutionibus omnium iudicum, lege penultima:
+            §. 2. Cuius in agendo quis observat arbitrium, eum habere etiam contra se iudicemin
+            eodem negotio non dedignetur. b) Nec antea finiatur (sicut ab apostolis vel
+            successoribus eorum olim statutum est)quam eius auctoritate fulciatur. Et paulo
+            superius: §. 4. c) iudicetur, nisi ex contumacia absens fuerit, ** —c. 2. a) Carthag.
+            II. b) incurrerit c) et — Que st. IX. c. 2. a) ferre b) imo etiam et — c. 3. a) quispiam
+            b) quiac) nullus accusare vel — c. 4. a) evacuentur — c. 6. a) Papa: deest b) etc.:
+            deest </p>
+
+
+          <div xml:id="gd-p2c3q9-Dd1e212">
+            <p xml:id="gd-p2c3q9-d1e214"> NOTATIONES CORRECTORUM. </p>
+          </div>
+          <br/>
+          <p xml:id="gd-p2c3q9-d1e221"> Que st. VIII. C. I. * Ut Codice: Hinc usque ad vers.
+            Iudices, non sunt in epistola Zephyrini, neque in vetustis Gratiani codicibus. </p>
+          <p xml:id="gd-p2c3q9-d1e224"> ** Nisi ex contumacia absens fuerit: Haec absunt a plerisque
+            manuscriptis, et epistola ipsa, et Anselmo et Ivone. Infra vero ead. q. 9. c. Absens ,
+            habentur tanquam Gratiani verba. </p>
+
+          <p xml:id="gd-p2c3q9-d1e227"> C. II. * Episcopis: Quae hoc loco in capite decimo
+            conciliiCartha-ginensis II. adduntur, referuntur infra 15. q. 7. c. Felix, et ibi
+            notabitur varietas. </p>
+          <p xml:id="gd-p2c3q9-d1e230"> Que st. IX. C. VII. * Propriam: Sic emendatum ex epistola
+            ipsa, Anselmo et Ivone. Antea legebatur: Nec extra patriam jiat provinciam. Addita autem
+            et nonnulla sunt ex epistola. </p>
+
+
+
+
+          <p xml:id="gd-p2c3q9-d1e233"> sionis accusatio, sine apostolica preceptione, cui in
+            omnibus causis debet reuerentia custodiri, quoniam et antiquadocet hoc Patrum regula, in
+            qua et inperialiter pariterstatuta concinunt. „ Criminum, “ inquiunt, „discussioibi
+            agenda est, ubi crimen admissum est. Nam alibicriminum reus prohibetur audiri.“ Et alibi
+            in canonibus precipitur: „ Quecumque negotia in suis locis, ubiorta sunt, finienda sunt,
+            “ et reliqua talia, et his similia, salua tamen in omnibus apostolica auctoritate, ut
+            nichil inhis diffiniatur prius, quam ei placere cognoscatur, qua omnessuffultos esse
+            oportet.] </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e237">
+          <head xml:id="gd-p2c3q9-Hd1e239">C. VIII</head>
+          <head xml:id="gd-p2c3q9-Hd1e242" type="question-title"> De eodem &amp;</head>
+          <p xml:id="gd-p2c3q9-d1e245"> Idem [ad Episcopos Italiae, epist. VI.]Qui accusare alium
+            elegerit, presens per se, et non peralium accuset, inscriptione uidelicet premissa.
+            Neque ullusumquam iudicetur ante, quam legitimos accusatores presentes habeat, locumque
+            defendendi accipiat ad abluendacrimina. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e249">
+          <head xml:id="gd-p2c3q9-Hd1e251">C. IX</head>
+          <head xml:id="gd-p2c3q9-Hd1e254" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q9-d1e257"> Item ex Concilio Tollet ano$° VI. [c. n.] </p>
+          <p xml:id="gd-p2c3q9-d1e260"> Dignum est, ut uita innocentis nulla maculetur pernicie
+            accusatoris; ideo quisquis a quolibet criminatur, non ante accusatus suplicio detur,
+            quam accusator presentetur, atque legum et canonum sententia exquiratur. Quod si indigna
+            ad accusandum persona inue-nitur, ad eius accusationem non iudicetur*. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e265">
+          <head xml:id="gd-p2c3q9-Hd1e267">C. X</head>
+          <head xml:id="gd-p2c3q9-Hd1e270" type="question-title"> Sententia feriatur qui causae suae
+            negligit adesse. </head>
+          <p xml:id="gd-p2c3q9-d1e273"> Item Bonifacius Papa ad Gallos [epist. II.]Decreuimus
+            uestram debere intra prouinciam esseiudicium, et congregare sinodum ante kalendarum
+            diemnouembrium, ut, si adesse uoluerit, presens, si confidit, adobiecta respondeat; si
+            uero adesse neglexerit, dilationemsententiae de absentia non lucretur. Nam manifestum
+            est, confiteri eum de crimine, qui induito et totiens delegatoiudicio purgandi se
+            occasione non utitur. Nichil eniminterest, utrum in presenti examine non omnia*,
+            quedicta sunt, conprobentur, cum ipsa quoque professioex procurata totiens constet
+            absentia. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e277">
+          <head xml:id="gd-p2c3q9-Hd1e279">C. XI</head>
+          <head xml:id="gd-p2c3q9-Hd1e282" type="question-title"> Absens nec accusari, nec
+            iudicaripotest™*.</head>
+          <p xml:id="gd-p2c3q9-d1e285"> Item Felix Papa [ad Episcopos Galliae, epist. II.]Absente
+            aduersario non audiatur accusator, nec sententia absente parte alia a iudice dicta ullam
+            obtinebitfirmitatem. </p>
+
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e289">
+          <head xml:id="gd-p2c3q9-Hd1e291">C. XII</head>
+          <head xml:id="gd-p2c3q9-Hd1e294" type="question-title"> Altera parte absente diffinitiua
+            sententia non feratur™.</head>
+          <p xml:id="gd-p2c3q9-d1e297"> Item Nicolaus Papa G allino ni Senensi Archiepiscopo . </p>
+          <p xml:id="gd-p2c3q9-d1e300"> Reuera iustus mediator non est, qui uno litigante et altero
+            absente amborum emergentes lites decidere non formidat. His ita premissis, uolumus et
+            auctoritate apostolicamonemus, ut, si presbiter, de quo agitur, post excommunicationem
+            suam apostolicam sedem adire uoluerit, nullus itereius inpedire presumat. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e304">
+          <head xml:id="gd-p2c3q9-Hd1e306">C. XIII</head>
+          <head xml:id="gd-p2c3q9-Hd1e309" type="question-title"> In absentem non est ferenda
+            sententia.</head>
+          <p xml:id="gd-p2c3q9-d1e312"> Item Zepherinus Papa [ad Episcopos Siciliae, epist. I.] </p>
+          <p xml:id="gd-p2c3q9-d1e315"> Absens nemo iudicetur, quia et diuinae et humanae leges hoc
+            prohibent. </p>
+          <p xml:id="gd-p2c3q9-d1e318"> Gratian. Nisi fuerit absens ex$ contumacia. Pro presenti
+            namque contumacia eum haberi facit. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e322">
+          <head xml:id="gd-p2c3q9-Hd1e324">C. XIV</head>
+          <head xml:id="gd-p2c3q9-Hd1e327" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q9-d1e330"> Item Nicolaus Papa Gallinoni Senensi Archiepiscopo . </p>
+          <p xml:id="gd-p2c3q9-d1e333"> Indicas Hermannum episcopum super quibusdamfrequenter fuisse
+            accusatum, pro quibus (quia ex parte ipsiuspersona deest) nos uni parti ad discrimen
+            alterius credereproculdubio non possumus, quamuis nec usque adhuc quifuerint illi
+            excessus dixeris, nec utrum sanae mentis eratidem antistes, nec ne, cum ipsos excessus
+            perpetrabat, euidenter ostenderis, satiusque arbitramur, quamlibetinterim infirmitatem
+            ad penam peccati, quam ad ipsum pertinere peccatum, cui magis consulendum et
+            conpatiendumsit, quam puniendum uel etiam aliquo modo feriendum. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e337">
+          <head xml:id="gd-p2c3q9-Hd1e339">C. XV</head>
+          <head xml:id="gd-p2c3q9-Hd1e342" type="question-title"> Testes non dicant testimonium ,
+            nisi de his , que presentialiter nouerunt. </head>
+          <p xml:id="gd-p2c3q9-d1e345"> Item Calix tu s [Papa ad Episcopos Galliae, ep. II.] </p>
+          <p xml:id="gd-p2c3q9-d1e348"> Testes per quamcumque scripturam testimonium non proferant,
+            sed presentes de his, que uiderunt et nouerunt, ueraciter testimonium dicant. Nec de
+            aliis causisuel negotiis testimonium dicant, nisi de his, que sub eorumpresentia acta
+            esse noscuntur. </p>
+          <p xml:id="gd-p2c3q9-d1e351"> II. Pars. Gratian. De his etiam , que audierunt , si ad hoc
+            conuocati sunt , in ciuili causa testimonium dicere possunt , unde in coli . VII. tit.
+            de testibus , legitur: §. i. „Sidebitum scriptum sit , et probatio solutionis proferatur
+            a litigantibus per testes sine scriptura , tunc susceptibilem eam apud iudicem esse
+            uolumus , dum ad hoc ipsum testes assumantur , utperhibeant testimonium pro facienda
+            solutione , aut pro memoriafacta alicui iam solutionis factae , et pro confessione eius
+            , quipecunias accepit. Hec autem testimonia inania et ex transitu </p>
+
+
+
+
+          <p xml:id="gd-p2c3q9-d1e355"> perhibita (aut ab eo qui ® propter aliud opus adueniens
+            audiuit aliquo dicente , se accepisse ab aliquo aurum, aut deberealicui ) nulla ratione
+            ualere censemus . </p>
+          <p xml:id="gd-p2c3q9-d1e358"> III. Pars. §.2. Simul autem necesse est, uideant. Quodsi
+            alius uno tempore et &amp; aZms alio uiderit, diuersitas temporumeorum testimonium non
+            admittit. </p>
+          <p xml:id="gd-p2c3q9-d1e361"> Unde Leo Papa: </p>
+          <p xml:id="gd-p2c3q9-d1e364"> C. XVI. iVon admittuntur ad testimonium quos non eidem
+            negotio adfuisse constiterit. </p>
+          <p xml:id="gd-p2c3q9-d1e367"> Nichilominus quoque puniendi sunt testes, qui ad ca-lumpniam
+            aliquid testificantur, nec eorum uoces tamquam plurium admittuntur, quos temporum quidem
+            diuersitassimul interfuisse prohibuit. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e372">
+          <head xml:id="gd-p2c3q9-Hd1e374">C. XVII</head>
+          <head xml:id="gd-p2c3q9-Hd1e377" type="question-title"> Ad seriem gestorum testis ex suo
+            nichil adiciat.</head>
+          <p xml:id="gd-p2c3q9-d1e380"> Item Ambrosius in libro de Paradyso, [c. I2.] </p>
+          <p xml:id="gd-p2c3q9-d1e383"> Pura et simplex* testimonii series intimanda est. Plerumque
+            testis, dum ad seriem gestorum aliquid ex suo adicit, totam testimonii fidem partis
+            mendacio decolorat.Nichil igitur, quod bonum uidetur, addendum est. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e387">
+          <head xml:id="gd-p2c3q9-Hd1e389">C. XVIII</head>
+          <head xml:id="gd-p2c3q9-Hd1e392" type="question-title"> Absens* nec accusare, nec accusari
+            potest.</head>
+          <p xml:id="gd-p2c3q9-d1e395"> Item Felix Papa [ad Episcopos Galliae, epist. II.] </p>
+          <p xml:id="gd-p2c3q9-d1e398"> Absens per alium accusare aut accusari non potest, nec
+            affinis testis admittatur. </p>
+          <p xml:id="gd-p2c3q9-d1e401"> IV. Pars. Gratian. Nisi in crimine iniuriarum, in
+            quoillustris persona etiam per procuratorem intendere et exciperepotest, seruatis
+            ceteris solempnibus , ut Cod. tit. de iniuriis, l. ult. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e405">
+          <head xml:id="gd-p2c3q9-Hd1e407">C. XIX</head>
+          <head xml:id="gd-p2c3q9-Hd1e410" type="question-title"> Reo absente libellus accusationis
+            frustra offertur. Item Pelagius Papa S in duae** Magistro militum . </head>
+          <p xml:id="gd-p2c3q9-d1e413"> Cartae, quas dedit nobis Lucidius, si illo tempore
+            aduersarius ipsius illic presens fuisset, ualidae erant. Sedquia aduersario absente
+            gesta, que nobis recensuit, factaleguntur, talia leges non recipiunt. </p>
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e417">
+          <head xml:id="gd-p2c3q9-Hd1e419">C. XX</head>
+          <head xml:id="gd-p2c3q9-Hd1e422" type="question-title"> Testes corporaliter prestito
+            sacramento™* testimonium dicant.</head>
+          <p xml:id="gd-p2c3q9-d1e425"> Idem Decorato Patricio. </p>
+          <p xml:id="gd-p2c3q9-d1e428"> Hortamur, ut, sub timore Domini consuetam conscientiae
+            uestrae sinceritatem in hoc quoque negotio conseruan-tes, omnem personis, que ueritatem
+            causae istius scire possunt, faciatis amputari formidinem, et uestris presentati
+            conspectibus, tactis sacrosanctis euangeliis, pre-bito etiam legaliter sacramento, que
+            in rerum ueritatenorunt professione suae testificationis aperiant, ut,
+            patefactisomnibus, que secundum leges et iustitiam censendasint cognoscatis, et
+            conuenientem legibus et ueritatiterminum detis. </p>
+
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e432">
+          <head xml:id="gd-p2c3q9-Hd1e434">C. XXI</head>
+          <head xml:id="gd-p2c3q9-Hd1e437" type="question-title"> Accusator et accusatus simul
+            debent adesse.</head>
+          <p xml:id="gd-p2c3q9-d1e440"> Item Nicolaus Papa Igmaro Remorum Archiepiscopo. </p>
+          <p xml:id="gd-p2c3q9-d1e443"> Necesse est secundum sacrarum scripturarum documenta ac
+            secundum iustitiae trutinam, et accusatum et accusatorem simul adesse, et unam partem,
+            quanta-cumque et qualicumque predita sit auctoritate, sic prorsusaudiri, ut alteri parti
+            nullum preiudicium inrogetur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

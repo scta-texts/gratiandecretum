@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c2q2">
+        <head xml:id="gd-p2c2q2-Hd1e103">QUESTIO II.</head>
+
+        <p xml:id="gd-p2c2q2-d1e106"> Quod autem expoliatus ante iudicem stare non possit, multis
+          auctoritatibus probatur. </p>
+        <p xml:id="gd-p2c2q2-d1e109"> Ait enim Iohannes Papa [I. ad Zachariam Archiepisc.]: </p>
+
+        <div xml:id="gd-p2c2q2-Dd1e112">
+          <head xml:id="gd-p2c2q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c2q2-Hd1e117" type="question-title"> Ante litem contestatam possessori
+            cuncta sunt restituenda.</head>
+          <p xml:id="gd-p2c2q2-d1e120"> Antiquitus decretum est, ut omnes possessiones, et omnia
+            sibi sublata, atque cunctos fructus ante litem contestatam preceptor* episcopus uel
+            primas possessori restituat. </p>
+        </div>
+        <div xml:id="gd-p2c2q2-Dd1e124">
+          <head xml:id="gd-p2c2q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c2q2-Hd1e129" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q2-d1e132"> Item Nicolaus [Papa]. </p>
+          <p xml:id="gd-p2c2q2-d1e135"> Omnes leges tam ecclesiasticae, quam uulgares et publice
+            precipiunt, ut omnia sibi ablata restituantur ei, qui suis est rebus expoliatus. </p>
+        </div>
+        <div xml:id="gd-p2c2q2-Dd1e140">
+          <head xml:id="gd-p2c2q2-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c2q2-Hd1e145" type="question-title"> Nullus debet accusari, dum suis
+            rebus fuerit expoliatus . </head>
+          <p xml:id="gd-p2c2q2-d1e148"> Item Stephanus Papa, [epistola II.]* </p>
+          <p xml:id="gd-p2c2q2-d1e151"> Nullus episcoporum, dum suis fuerit rebus expoliatus, debet
+            accusari, priusquam omnia, que eiablata sunt quocumque ingenio, legibus redintegrentur
+            s: ita ut omnes possessiones, atque omnes fructusante acceptam accusationem primates et
+            sinodus episcopo, de quo agitur, funditus restituant. </p>
+        </div>
+        <div xml:id="gd-p2c2q2-Dd1e155">
+          <head xml:id="gd-p2c2q2-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c2q2-Hd1e160" type="question-title"> Nec conuocari ad sinodum, nec in
+            aliquo iudicari debet expoliatus . </head>
+          <p xml:id="gd-p2c2q2-d1e163"> Item Eusebius fratribus constitutis per Alexandriam et
+            Egiptum, [epist. II.] </p>
+          <p xml:id="gd-p2c2q2-d1e166"> In scripturis uestris reperimus, quosdam episcopos ue-stris
+            in partibus a propriis ouibus accusatos, aliquos uidelicet ex suspicione, et aliquos ex
+            certa ratione, et idcirco quosdam suis esse rebus expoliatos, quosdam uero a propria
+            sede depulsos. Quos sciatis nec ad sinodum con-provincialem, nec ad generalem posse
+            conuocari necin aliquo iudicari, antequam cuncta, que eis sublatasunt, legibus potestati
+            eorum redintegrentur. </p>
+        </div>
+        <div xml:id="gd-p2c2q2-Dd1e170">
+          <head xml:id="gd-p2c2q2-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c2q2-Hd1e175" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q2-d1e178"> Item Iulius Papa, [in epistola ad Orientales, c. 35. et 8.]*
+            Nullus potest uocari aut iudicari, antequam omniasibi ablata et omnia iura ei in
+            integrum restituantur, quianon habet priuilegium, quo possit exui iam nudatus. </p>
+        </div>
+        <div xml:id="gd-p2c2q2-Dd1e182">
+          <head xml:id="gd-p2c2q2-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c2q2-Hd1e187" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q2-d1e190"> Item Zepherinus [Papa ad Episcopos Aegypti, ep.
+            II.]Preceptum est ergo in antiquis statutis, eiectos atque </p>
+
+
+
+
+          <p xml:id="gd-p2c2q2-d1e193"> suis rebus expoliatos ecclesias proprias recipere, et primo
+            sua omnia eis reddi, et demum, si quis eos iuste accusareuoluerit, equo periculo facere;
+            iudices esse decernentesepiscopos recta sapientes, et in ecclesia conuenientes,
+            ubitestes essent singulorum, qui oppressi uidebantur, necprius eos respondere, quam
+            omnia sua eis et ecclesiiseorum legibus integerrime restituantur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

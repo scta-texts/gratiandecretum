@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c8q1">
+        <head xml:id="gd-p2c8q1-Hd1e103">QUESTIO I.</head>
+        <p xml:id="gd-p2c8q1-d1e106"> I. Pars. Quod autem episcopo successorem sibi instituere
+          liceat, ex uerbis Zachariae Papae conicitur, quibus Maguntino </p>
+
+        <p xml:id="gd-p2c8q1-d1e109"> archiepiscopo permisit adiutorem sibi statuere, qui ei
+          defuncto in plenitudinem succederet potestatis. §. i. Item ex uerbis SymachiPapae
+          dicentis: „Si transitus Papae inopinatus euenerit, ut desui electione successoris non
+          possit ante decernere apparet, quod episcopi successores sibi instituere possunt. §. 2.
+          Itemexemplo B. Petri illud idem probatur, qui B. Clementem sibi successorem instituit. </p>
+        <p xml:id="gd-p2c8q1-d1e112"> Unde I oh anne s III. scribit Episcopis Germaniae et Galliae,
+          [epistola unica, c. 2.]: </p>
+        <div xml:id="gd-p2c8q1-Dd1e115">
+          <head xml:id="gd-p2c8q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c8q1-Hd1e120" type="question-title"> Quod Petrus sibi adiutores asciuit
+            Linum et Cletum . </head>
+          <p xml:id="gd-p2c8q1-d1e123"> Si Petrus princeps apostolorum adiutores sibi asciuit Linum
+            et Cletum, non tamen potestatem pontificii, autligandi aut soluendi normam eis tradidit,
+            sed successori suoClementi, qui sedem apostolicam post eum et potestatempontificalem
+            tradente sibi B. Petro tenere promeruit. Linusuero et Cletus ministrabant exteriora;
+            princeps autemapostolorum Petrus uerbo et orationi instabat. </p>
+          <p xml:id="gd-p2c8q1-d1e126"> [PALEA. C. II. </p>
+          <p xml:id="gd-p2c8q1-d1e129"> Unde ipse Clemens in epistola ad Iacobum Iero-solomitanum
+            missa inter cetera scribit, quod Petrus adhuc uiuens Clementem in episcopum elegit: </p>
+          <p xml:id="gd-p2c8q1-d1e133"> „ Simon Petrus in ipsis diebus, quibus uitae finem sibi
+            presensit, apprehensa manu mea repente consurgens, inauribus totius ecclesiae hec
+            protulit uerba: Clementem huncepiscopum uobis ordino, cui soli meae predicationis et
+            doctrinae cathedram trado, quem pre ceteris expertus sumDeum colentem, homines
+            diligentem, castum, discendistudiis deditum, sobrium, benignum, iustum, patientem,
+            etscientem ferre nonnullorum etiam ex his, qui in uerbo Deiinstituuntur, iniurias.] </p>
+          <p xml:id="gd-p2c8q1-d1e136"> Gratian. Sed in Antioceno Concilio hoc omnino fieri
+            prohibetur , in quo [c. 23.] sic statutum legitur : </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e141">
+          <head xml:id="gd-p2c8q1-Hd1e143">C. III</head>
+          <head xml:id="gd-p2c8q1-Hd1e146" type="question-title"> Episcopus successorem sibi
+            constituere non debet . </head>
+          <p xml:id="gd-p2c8q1-d1e149"> Episcopo non licere decernimus pro se alterumsibi
+            successorem constituere, licet ad exitum uitae per-ueniat. Quod si tale aliquid factum
+            fuerit, irritum sithuiusmodi constitutum. Seruetur autem ius ecclesiasticum, id
+            continens, non aliter oportere fieri, nisi cum Sinodo etiudicio episcoporum* et
+            electione clericorum, qui postobitum quiescentis potestatem habent eum, qui dignus
+            extiterit, eligere et promouere. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e153">
+          <head xml:id="gd-p2c8q1-Hd1e155">C. IV</head>
+          <head xml:id="gd-p2c8q1-Hd1e158" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c8q1-d1e161"> Item ex Concilio Martini Papae, [c. 8.] </p>
+          <p xml:id="gd-p2c8q1-d1e164"> Episcopo non liceat ante finem uitae alium in loco suo
+            constituere successorem. Si quis autem hoc usurparetemptauerit, talis constitutio irrita
+            erit. Non ergo aliter </p>
+
+
+
+          <div xml:id="gd-p2c8q1-Dd1e167">
+            <p xml:id="gd-p2c8q1-d1e169"> uelit suscitare , non sibi diuitias congregare. Quod qui
+              facere contempserit iure ab ecclesia repudiatur . </p>
+            <p xml:id="gd-p2c8q1-d1e172"> Unde Augustinus in libro contra Manicheos , </p>
+            <p xml:id="gd-p2c8q1-d1e175"> [lib. XXXII. c. io.]*: </p>
+          </div>
+          <div xml:id="gd-p2c8q1-Dd1e180">
+            <head xml:id="gd-p2c8q1-Hd1e182">C. VIII</head>
+            <head xml:id="gd-p2c8q1-Hd1e185" type="question-title"> Qui sibi et ecclesiae prodest
+              utroque pede cal-ciatus intelligitur. </head>
+            <p xml:id="gd-p2c8q1-d1e188"> II. Pars. Olim iussus est frater premortui fratris uxorem
+              ducere, ut non sibi, sed illi suscitaret sobolem, eiusque nomine uocaret quod inde
+              nasceretur. Quod si recusaret, discalciatus uno pede conspui solebat in facie.
+              Nunceuangelii quisque Predicator ita debet in ecclesia laborare, ut defuncto fratri,
+              id est Christo, suscitet semen, qui pronobis mortuus est, et quod suscitatum fuerit
+              eius nomen accipiat. At uero qui electus ab ecclesia ministerium euangeli-zandi**
+              rennuerit, ab ipsa ecclesia digne meritoquecontempnitur. Qui enim et sibi prodest, et
+              ecclesiae, beneintelligitur utroque pede calciatus. ‘Unde illud: „Quamspeciosi pedes
+              euangelizantium bona.“ Qui autemlucrandorum curam refugit aliorum, discalciati illius
+              nonfiguratum significauit, sed in se inpletum portauitobprobrium. </p>
+          </div>
+          <div xml:id="gd-p2c8q1-Dd1e192">
+            <head xml:id="gd-p2c8q1-Hd1e194">C. IX</head>
+            <head xml:id="gd-p2c8q1-Hd1e197" type="question-title"> Locus regiminis sicut
+              desiderantibus est negandus , ita fugientibus est offerendus. </head>
+            <p xml:id="gd-p2c8q1-d1e200"> Item Gregorius in Registro , [lib. VI. epist. 5. Cyriaco
+              Episcopo. </p>
+            <p xml:id="gd-p2c8q1-d1e203"> In scriptis uestris uos magnopere requiem quesisse
+              narratis, sed per hoc ad pastoralem sollicitudinem uoscongrue uenisse ostenditis,
+              quia, sicut locus regiminis desiderantibus negandus est, ita fugientibus offerendus.
+              Et sicutscriptum est: , , Nec quisquam sumit sibi honorem, sedqui uocatur a Domino
+              tamquam Aaron, “ et rursusidem egregius Predicator dicit: „Si unus pro omnibusmortuus
+              est, ergo omnes mortui sunt: et pro omnibusChristus mortuus est, superest ut qui
+              uiuunt non iamsibi uiuant, sed ei, qui pro ipsis mortuus est et resurrexit , '“ et
+              pastori sanctae dicitur ecclesiae: „Simon Iohannisamas me? Pasce oues meas.“ Ex quibus
+              uerbis colligitur, quia si is, qui ualet, omnipotentis Dei oues pascererennuit,
+              ostendit se pastorem summum minime amare.Si enim unigenitus Patris pro explenda
+              utilitate omniumde secreto Patris ad publicum nostrum egressus est, nosquid dicturi
+              sumus, si secretum nostrum preponimus utilitati proximorum? §. 1. Quies itaque nobis
+              et ex cordeappetenda est, et tamen pro multorum lucro aliquando postponenda. Nam,
+              sicut toto desiderio debemus occupationemfugere, ita si desit qui predicet,
+              occupationis onus libentinecesse est humero subire. Quod ex duorum prophetarum opere
+              docemur, quorum unus predicationis offitiumuitare conatus est, et alter appetiit. Nam
+              mittenti se Domino </p>
+          </div>
+          <p xml:id="gd-p2c8q1-d1e207"> fieri oportet, nisi cum consilio et iudicatu episcoporum,
+            qui post exitum predecessoris potestatem habent dignumeligere. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e211">
+          <head xml:id="gd-p2c8q1-Hd1e213">C. V</head>
+          <head xml:id="gd-p2c8q1-Hd1e216" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c8q1-d1e219"> Item Ylarius Papa [in Synodo Romana, c. 5.] </p>
+          <p xml:id="gd-p2c8q1-d1e222"> Pleri que sacerdotes in mortis confinio constituti inlocum
+            suum feruntur alios designatis nominibus subrogare, scilicet ut non legitima expectetur
+            electio, sed defunctigratificatio pro populi habeatur assensu. Quod quamgraue sit
+            estimate*. Ab uniuersis acclamatum est: Hecpresumptio numquam fiat. Que Dei sunt ab
+            homine darinon possunt. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e226">
+          <head xml:id="gd-p2c8q1-Hd1e228">C. VI</head>
+          <head xml:id="gd-p2c8q1-Hd1e231" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c8q1-d1e234"> Item Ieronimus [ad Titum, c. i.] </p>
+          <p xml:id="gd-p2c8q1-d1e237"> Moises amicus Dei, cui facie ad faciem locutus est Deus,
+            potuit utique successores principatus filios suosfacere, et posteris propriam relinquere
+            dignitatem; sed extraneus de alia tribu eligitur Iesus, ut sciremus, principatum in
+            populos non sanguini deferendum esse, sed uitae.Ac nunc cernimus plurimos hanc rem
+            beneficiumfacere, ut non querant eos in ecclesia columpnas erigere , quos plus
+            cognoscant ecclesiae prodesse, sed quos uel ipsiamant, uel quorum sunt obsequiis
+            deliniti, uel pro quibusmaiorum quispiam rogauerit, et (ut deteriora taceam) quiut
+            clerici fierent muneribus inpetrarunt. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e241">
+          <head xml:id="gd-p2c8q1-Hd1e243">C. VII</head>
+          <head xml:id="gd-p2c8q1-Hd1e246" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c8q1-d1e249"> Item Innocentius Papa™ II. [in Concilio Romano, c. 16.. </p>
+          <p xml:id="gd-p2c8q1-d1e252"> Apostolica auctoritate prohibemus, ne quis ecclesias
+            etprebendas, preposituras, capellanias, aut aliqua ecclesiastica offitia hereditario
+            iure ualeat uendicare aut expostulare presumat. Quod si quis inprobus*aut ambitionis
+            reusattemptare presumpserit, debita pena mulctabitur et postulatis carebit. </p>
+          <p xml:id="gd-p2c8q1-d1e255"> Gratian. His omnibus auctoritatibus prohibentur episcopi
+            successores sibi instituere. Sed aliud est de sui successoris electione cum fratribus
+            deliberare , et- aliud est ex testamentotamquam suae dignitatis heredem sibi querere.
+            Illud fieri permittitur: hoc autem penitus prohibetur. Illud autem B. Petri ab illis
+            ualet in argumentum assumi , qui tales sibi substituunt , qualem sibi successorem B.
+            Petrus quesiuit. Verum , quia offitiumnon uitae , sed sanguini cepit deferri , atque ad
+            episcopatum talesquisque successores sibi querere cepit , qui uel odiosi populis , uel a
+            plebe docendi inuenirentur, sacris canonibus constitutum est, ne quisquam sibi sui
+            offitii querat successorem , sedpopuli electione queratur qui eorum utilitati digne
+            deseruiat, quiillorum utilitatem , non sua lucra querat , qui Christo semen </p>
+
+
+
+
+          <p xml:id="gd-p2c8q1-d1e259"> Ieremias respondit, dicens: „A, a, a, Domine Deus, nescio
+            loqui, quia puer ego sum.“ Et cum omnipotensDeus personam ad predicandum quereret,
+            dicens:, , Quem mittam, et quis ibit nobis?“ ultro se Ysaias obtulit, dicens: „Ecce ego,
+            mitte me.“ En ab utrisque exteriusdiuersa uox prodiit, sed non a diuerso fonte
+            dilectionisemanauit^. Duo quippe sunt precepta karitatis, amorDei et proximi. Per
+            actiuam igitur uitam prodesse proximis cupiens Ysaias offitium predicationis appetit.
+            Percontemplatiuam uero Ieremias amori conditoris seduleinherere desiderans, ne mitti ad
+            predicandum debeat, contradicit. Quod laudabiliter ergo unus appetiit, hoc laudabiliter
+            alter expauit; iste, ne tacitae contemplationis lucraloquendo perderet, ille, ne dampna
+            studiosi operis tacendosentiret. Sed hoc in utrisque est subtiliter intuendum, quiaet
+            is, qui recusauit, plene non restitit, et is, qui mitti uoluit, ante se per altaris
+            calculum purgatum uidit, ne aut nonpurgatus adire quisque sacra misteria audeat, autquem
+            superna gratia eligit sub humilitatis specie superbecontradicat. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e263">
+          <head xml:id="gd-p2c8q1-Hd1e265">C. X</head>
+          <head xml:id="gd-p2c8q1-Hd1e268" type="question-title"> Locus deieciionis in uoto ,
+            dignitatis semper fit in necessitate. </head>
+          <p xml:id="gd-p2c8q1-d1e271"> Idem in Moralibus [lib. XXXV. c. 13. ad c. 42. Iob.]Sciendum
+            est summopere, quod obedientia aliquando, si de suo aliquid habuerit, nulla est ;
+            aliquando, side suo aliquid non habuerit, minima. Nam cum huiusmundi successus
+            precipitur, cum locus superior inpera-tur, is, qui ad percipienda hec obedit,
+            obedientiae sibi uirtu-tem euacuat, si ad hec ex proprio anhelat. Nequeenim se sub
+            obedientia dirigit qui ad percipienda huiusuitae prospera libidini propriae ambicionis
+            seruit. Rursum, cum mundi despectus precipitur, cum probra adipisci etcontumeliae
+            iubentur, nisi ex semet ipso animusappetats, obedientia sibi meritum minuit, qui ad ea,
+            que in hac uita sunt despecta, inuitus nolensque descendit. Et paulo superius : §. 1.
+            Obedientia uictimis iure pre-ponitur, quia per uictimas aliena caro, per obedientiam
+            uerouoluntas propria mactatur Quo contra ariolandi peccatum inobedientia esse
+            monstratur. Ex aduersoergo melius ostenditur quid de eius laude sentiatur. Sienim „
+            quasi peccatum ariolandi est repugnare, et quasiscelus ydolatriae°, nolle adquiescere, “
+            sola est, que fideimeritum possidet obedientia sine qua quisque infidelisesse
+            conuincitur, etiamsi fidelis esse uideatur. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e276">
+          <head xml:id="gd-p2c8q1-Hd1e278">C. XI</head>
+          <head xml:id="gd-p2c8q1-Hd1e281" type="question-title"> Qui preesse, non* prodesse
+            desiderat , non debet episcopari. </head>
+          <p xml:id="gd-p2c8q1-d1e284"> Item Augustinus [lib. XIX. de ciuit. Dei, c. 19.]„Qui
+            episcopatum desiderat, bonum opus desiderat/-* </p>
+
+          <p xml:id="gd-p2c8q1-d1e287"> Exponere uoluit quid sit episcopatus, quia nomen est operis,
+            non honoris. Grecum est enim, atque inde ductumuocabulum, quod ille, qui preficitur,
+            illis, quibus pre-ficitur, superintendit, curam eorum scilicet gerens; 0x071 os quippe
+            intentio est. Ergo episcopos*, si ueli-mus, latine superintendentes possumus dicere, ut
+            intelli-gat non se esse episcopum qui preesse dilexerit, nonprodesse. Itaque a studio
+            cognoscendae ueritatis nemoprohibetur, quod ad laudabile pertinet otium. Locus
+            uerosuperior, sine quo regi populus non potest, etsi ita teneatur atque administretur,
+            ut decet, tamen indecenterappetitur. Quamobrem otium sanctum querit karitas ueritatis,
+            negotium iustum suscipit necessitas karitatis, quamsarcinam si nullus inponit,
+            percipiendae atque intuendaeuacandum est ueritati; si autem inponitur, suscipienda
+            estpropter necessitatem karitatis. Sed nec sic omnimodoueritatis delectatio deserenda
+            est, ne subtrahatur illasuauitas, et obprimatur** iusta necessitas. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e291">
+          <head xml:id="gd-p2c8q1-Hd1e293">C. XII</head>
+          <head xml:id="gd-p2c8q1-Hd1e296" type="question-title"> Pro ingenio discentium doctor
+            moderetur uerba doctrinae.</head>
+          <p xml:id="gd-p2c8q1-d1e299"> Item Petrus . </p>
+          <p xml:id="gd-p2c8q1-d1e302"> III. Pars. Oportet eum, qui docet et instruit animas rudes,
+            esse talem, ut pro ingenio discentium semet ipsumpossit aptare, et uerbi ordinem pro
+            audientis capacitatedirigere. Debet ergo adprime esse eruditus et doctus,
+            inreprehensibilis, maturus, pauidus, sicut ipsi probastisfore Clementem hunc post me.
+          </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e306">
+          <head xml:id="gd-p2c8q1-Hd1e308">C. XIII</head>
+          <head xml:id="gd-p2c8q1-Hd1e311" type="question-title"> Qui omnibus preest singulos
+            releuare contendat . </head>
+          <p xml:id="gd-p2c8q1-d1e314"> Item eiusdem . </p>
+          <p xml:id="gd-p2c8q1-d1e317"> Clemens tamquam omnibus preesse uoluerissingulos, prout
+            potueris, iuua, et singulos releua, qui etsingulorum onus ac sollicitudinem portas. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e321">
+          <head xml:id="gd-p2c8q1-Hd1e323">C. XIV</head>
+          <head xml:id="gd-p2c8q1-Hd1e326" type="question-title"> Contra Christum faciunt qui
+            gratiae^ non meritis gradum ecclesiasticum tribuunt. </head>
+          <p xml:id="gd-p2c8q1-d1e329"> Item Ieronimus [ad Titum, c. i.] </p>
+          <p xml:id="gd-p2c8q1-d1e332"> Qui uos spernit me spernit. Ex quo manifestum est, quod, qui
+            Apostoli lege contempta ecclesiasticum gradum non meritis uoluerint alicuius deferre,
+            sedgratiae, contra Christum facere, qui qualis in ecclesiapresbiter constituendus sit
+            per Apostolum suum in sequentibus executus est. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e336">
+          <head xml:id="gd-p2c8q1-Hd1e338">C. XV</head>
+          <head xml:id="gd-p2c8q1-Hd1e341" type="question-title"> Ad sacerdotium non eligatur, nisi
+            qui ceteris et sanctior et doctior habeatur . </head>
+          <p xml:id="gd-p2c8q1-d1e344"> Item Ieronimus in libro Leuitici *. </p>
+          <p xml:id="gd-p2c8q1-d1e347"> Licet ergo Dominus de constituendo principe prece-pisset, et
+            Dominus elegisset, tamen conuocatur etsinagoga. Requiritur enim in ordinando sacerdote
+            et </p>
+
+
+
+
+          <p xml:id="gd-p2c8q1-d1e350"> populi presentia, ut sciant omnes et certi sint, quia qui
+            pre-stantior est ex omni populo, qui doctior, qui sanctior, qui in omni uirtute
+            eminentior, ille eligitur ad sacerdotium, et hocastante populo, ne qua postmodum
+            retractatio cui-quam, ne quis scrupulus resideret. Hoc autem est, quodet Apostolus
+            precipit in ordinatione sacerdotis, dicens: „ Oportet autem illum et testimonium
+            haberebonum ab his, qui foris sunt." Ego tamen et amplius aliquiduideo in eo, quod
+            dicit: , , quia conuocauit Moyses omnemsinagogam, " hoc sit, colligere omnes animi uires
+            et inunum congregare uirtutes, ut cum sermo de sacerdotalibushabetur sacramentis,
+            uigilent omnes animi uirtutes, et intentae sint, nichil &amp; in eis sapientiae, nichil
+            scientiae, nichil desit industriae, sed adsit omnis multitudo sensuum, adsit omnis
+            congregatio sanctarum cogitationum, ut quidsit pontifex, quid unctio, quid indumenta
+            eius, conferens intra sacrarium cordis sui possit aduertere. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e354">
+          <head xml:id="gd-p2c8q1-Hd1e356">C. XVI</head>
+          <head xml:id="gd-p2c8q1-Hd1e359" type="question-title"> Populi gubernatio diuina electione
+            prestetur . </head>
+          <p xml:id="gd-p2c8q1-d1e362"> Item ex libro Numerorum ®. </p>
+          <p xml:id="gd-p2c8q1-d1e365"> Si ergo tantus ille ac talis Moyses non permittit iudicio
+            suo de eligendo populi principe, de constituendo successore, quis erit qui audeat, uel
+            ex plebe, que sepe clamoribus ad gratiam aut ad precium fortasse excitatamoueri solet,
+            uel ex ipsis etiam sacerdotibus quis erit, quise ydoneum ad hoc iudicet, nisi si cui
+            oranti et petenti aDomino reueletur? Sicut et Deus dicit ad Moysen:, , Assume ad
+            temetipsum Iesum filium Naue, hominemqui habet Spiritum Dei in semetipso, et inpones
+            manustuas super eum, et statues eum coram Eleazaro sacerdote et precepta dato ei in
+            conspectu totius sinagogae, etprecipe de ipso coram eis, et dabis claritatem tuam
+            superillum, ut audiant illum filii Israel." Audis euidenter ordinationem principis
+            populi tam manifeste descriptam, utpene expositione non egeat. Nulla hic populi
+            adclamatio, nulla consanguinitatis ratio, nulla propinquitatis habita contemplatio est.
+            Propinquis agrorum et prediorum relinquatur hereditas. Gubernatio populi illi tradatur,
+            quemDeus elegerit, homini scilicet tali, qui habet (sicut scriptum audistis) in
+            semetipso spiritum Dei, et precepta Dei inconspectu eius sunt, et qui Moysi ualde notus
+            et familiarissit, id est in quo sit claritas legis et scientia, ut possinteum audire
+            filii Israel. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e370">
+          <head xml:id="gd-p2c8q1-Hd1e372">C. XVII</head>
+          <head xml:id="gd-p2c8q1-Hd1e375" type="question-title"> Non ex fauore, sed ex iudicio
+            debet uenire electio. Item Gregorius ciuibus Neapolim , [lib. VIII. ep. 40.] </head>
+          <p xml:id="gd-p2c8q1-d1e378"> Nec nouum, nec reprehensibile est in eligendo episcopo
+            populi se uota in duas partes diuidere, sed graue est quandom huiusmodi causis non ex
+            iudicio, sed ex solo fauoreuenit electio. </p>
+          <p xml:id="gd-p2c8q1-d1e381"> Gratian. Oum autem gubernatio populi ei tradi iubetur, quem
+            Deus eligit, datur intelligi, quod aliquando quibusdam traditur, quos Deus non elegit®. </p>
+
+          <p xml:id="gd-p2c8q1-d1e384"> Unde leronimus : </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e388">
+          <head xml:id="gd-p2c8q1-Hd1e390">C. XVIII</head>
+          <head xml:id="gd-p2c8q1-Hd1e393" type="question-title"> Non ex arbitrio Dei aliquando
+            datur princeps ecclesiae.</head>
+          <p xml:id="gd-p2c8q1-d1e396"> IV. Pars. Audacter fortasse aliquid dicimus, tamen quod
+            scriptum est dicimus. Non semper princeps populi etiudex ecclesiae per Dei arbitrium
+            datur, sed prout meritanostra deposcunt. Si mali sunt actus nostri et operamurmaligna in
+            conspectu Dei, dantur nobis principessecundum cor nostrum. Et hoc tibi de
+            scripturisprobabo. Audi namque quid dicat Dominus: „Fe-cerunt sibi regem, et non per me;
+            principem, et non perconsilium meum." Et hoc dictum uidetur de Saule illo, quem utique
+            ipse Dominus elegerat, et regem fieri ius-serat. Sed quoniam non secundum Dei
+            uoluntatem, sedsecundum peccatoris populi meritum fuerat electus, negateum cum sua
+            uoluntate uel consilio constitutum. Taleergo aliquid intelligamus etiam in ecclesiis
+            fieri, quodpro meritiss, aut in uerbo aut in opere potens a Deotribuitur rector
+            ecclesiae, aut si malignum faciat populus inconspectu Domini*, talis ecclesiae iudex
+            datur, sub quofamem et sitim populus patiatur, non famem panis, nequesitim aquae, sed
+            famem audiendi uerbum Dei. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e400">
+          <head xml:id="gd-p2c8q1-Hd1e402">C. XIX</head>
+          <head xml:id="gd-p2c8q1-Hd1e405" type="question-title"> Non sunt filii, sed mercenarii,
+            qui honores ab hominibus appetunt . </head>
+          <p xml:id="gd-p2c8q1-d1e408"> Item Augustinus [tractatu XLVI. ad c. 10. loannis] . </p>
+          <p xml:id="gd-p2c8q1-d1e411"> Sunt quidam in ecclesia prepositi, de quibus apostolus
+            Paulus dicit: „Sua querentes, non que Iesu Christi."Quid est: „sua querentes?" non
+            Christum gratis diligentes, non Deum propter Deum querentes, temporalia commoda
+            consequentes*, lucris inhiantes, honores abhominibus appetentes. Hec quando amantur a
+            preposito, et propter hoc seruitur Deo, quisque talis est, mercena-narius est, inter
+            filios se non conputet. </p>
+          <p xml:id="gd-p2c8q1-d1e414"> Gratian. Non ergo qui preficiuntur semper ceteris meliores
+            intelligantur. </p>
+          <p xml:id="gd-p2c8q1-d1e418"> Unde leronimus [ad Titum, c. 1.]: </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e422">
+          <head xml:id="gd-p2c8q1-Hd1e424">C. XX</head>
+          <head xml:id="gd-p2c8q1-Hd1e427" type="question-title"> Ex electione non preficiuntur
+            episcopi, sed conprobantur.</head>
+          <p xml:id="gd-p2c8q1-d1e430"> Illud inferendum est aduersus eos, qui de episcopatu
+            intumescunt, et putant, se non dispensationem Christi, sed inperium consecutos, quia non
+            statim omnibus his meliores sint, quicumque episcopi non fuerint ordinati, et exeo, quod
+            ipsi electi sunt, se magis existiment con-probatos'; si autem peccata filiorum ab
+            episcopatu iustum prohibent quanto magis se unusquisque considerans, et sciens, quia
+            potentes potenter tormenta patientur, retrahet se ab hoc, non tam honore quam onere,
+            etaliorum locum, qui magis digni sunt, non ambiget occupare. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e434">
+          <head xml:id="gd-p2c8q1-Hd1e436">C. XX</head>
+          <head xml:id="gd-p2c8q1-Hd1e439" type="question-title"> Pro gradu sui offitii quemque
+            meliorem esse oportet.</head>
+          <p xml:id="gd-p2c8q1-d1e442"> Item eiusdem [ad Titum, c. 2.] </p>
+          <p xml:id="gd-p2c8q1-d1e445"> Qualis enim edificatio erit discipuli, si intelligat se esse
+            maiorem magistro? Unde non solum episcopi, presbiteri et diacones magnopere debent
+            prouidere, ut cunctumpopulum, cui president, conuersatione et sermonepreeant, uerum
+            etiam inferior gradus, exorcistae, lectores, editui, acoliti*, et omnes omnino, qui
+            domuiDei deseruiunt, quia uehementer ecclesiam Christidestruit meliores laicos esse quam
+            clericos. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e449">
+          <head xml:id="gd-p2c8q1-Hd1e451">C. XXII</head>
+          <head xml:id="gd-p2c8q1-Hd1e454" type="question-title"> Populus iudicabit episcopum sua
+            offitia non agentem. </head>
+          <p xml:id="gd-p2c8q1-d1e457"> Idem [ad Titum, c. i.] </p>
+          <p xml:id="gd-p2c8q1-d1e460"> Vereor, quomodo regina austri, ueniens a finibus terrae
+            audire sapientiam Salomonis, iudicatura est hominessui temporis, et uiri Niniuitae acta
+            penitentia ad predica-tionem Ionae condempnabunt eos, qui maiorem etiamIona salvatorem
+            contempserunt, sic plurimi in populisepiscopos iudicent subtrahentes se ab ecclesiastico
+            gradu, et ea, que episcopo conueniunt, non exercentes. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e465">
+          <head xml:id="gd-p2c8q1-Hd1e467">C. XXIII</head>
+          <head xml:id="gd-p2c8q1-Hd1e470" type="question-title"> Qui clericos suos non corrigit
+            populum corrigere non ualet.</head>
+          <p xml:id="gd-p2c8q1-d1e473"> Item Ambrosius in increpatione ad populum, [serm. 83.] </p>
+          <p xml:id="gd-p2c8q1-d1e476"> Quid autem ego uos arguo, cum possitis uno sermone me
+            conuincere? conuincor enim, cum in hac parte clericosuobis magis uideo negligentes.
+            Quomodo enim possumcorrigere filios, cum fratres emendare non possim? aut quafiducia
+            succenseam laicis, cum a consortibus pudoris uere-cundia conticescam? Ego autem,
+            fratres, non de omnibusloquor, sunt certe qui deuoti sunt, sunt et alii negligentes. Ego
+            autem neminem nomino: conscientia suaunumquemque conueniat. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e480">
+          <head xml:id="gd-p2c8q1-Hd1e482">C. XXIV</head>
+          <head xml:id="gd-p2c8q1-Hd1e485" type="question-title"> Episcopo ad salutem non sufficit
+            moribus et uita populo adequari. </head>
+          <p xml:id="gd-p2c8q1-d1e488"> Item B e da super Mattheum . </p>
+          <p xml:id="gd-p2c8q1-d1e491"> Nec sufficere ad salutem nobis arbitremur, si
+            turbisnegligentium uel quorumlibet indoctorum fide uel actibusadequemur, quibus sacris
+            litteris unica est credendipariter et uiuendi regula prescripta. </p>
+          <p xml:id="gd-p2c8q1-d1e494"> Gratian. Ne ergo, ut supra'® dictum est, tales sui offitii
+            successores sibi aliquis quereret, prohibentur episcopi alterum prose successorem sibi
+            statuere, ac designatis nominibus in locumsuum alium subrogare'. </p>
+          <p xml:id="gd-p2c8q1-d1e498"> QUESTIO II. </p>
+          <p xml:id="gd-p2c8q1-d1e501"> GRATIANUS. </p>
+          <p xml:id="gd-p2c8q1-d1e504"> Quod autem amicorum patrocinia in aliquorum electione
+            conualescere non debeant, auctoritate B. Gregorii Papae probatur, qui in tertio libro
+            Registris*, [Indict. 11. ep. 22.] scribitAntonio Subdiacono, dicens : </p>
+
+          <p xml:id="gd-p2c8q1-d1e507"> C. I. ih electione episcopi nec ® munerum datio, nec
+            aliquorum patrocinia conualescant. </p>
+          <p xml:id="gd-p2c8q1-d1e510"> Illud quidem pre omnibus curae tibi sit, ut in hac electione
+            nec datio quibuscumque modis interueniat premiorum, nec quarumlibet personarum
+            patrocinia conualescant. Nam si quorumdam patrocinio quisquam fuerit electus,
+            uo-luntatibus eorum, cum fuerit ordinatus, reuerentia exigenteobedire conpellitur,
+            sicque fit, ut res illius minuanturecclesiae, et ordo ecclesiasticus non seruetur. Talem
+            ergote admonente debent personam eligere que nulliusincongruae uoluntati deseruiat, sed
+            uita et moribusdecorata tanto ordine ualeat digna inueniri. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e514">
+          <head xml:id="gd-p2c8q1-Hd1e516">C. II</head>
+          <head xml:id="gd-p2c8q1-Hd1e519" type="question-title"> In electione antistitis communi
+            utilitati, non suo lucro quisque prospiciat . </head>
+          <p xml:id="gd-p2c8q1-d1e522"> Idem ad Clerum Mediolanensem, [lib. II. Indict. 11. ep. 29.] </p>
+          <p xml:id="gd-p2c8q1-d1e525"> Dilectissimi filii, offitii nostri censura conmoniti
+            suademus, ut in suscipiendi antistitis causa nullus uestrum neglecta utilitate conmuni
+            suo lucro prospiciat, ne, siquisquam propria commoda appetit, friuola
+            estimationefallatur, quia nec libero iudicio preferendam sibi personamexaminat mens,
+            quam cupiditas ligat. Pensantes ergoque cunctis expediunt, ei, quem uobis diuina gratia
+            pretu-lerit, integerrimam semper in omnibus obedientiam prebete.Iudicari namque a uobis
+            ultra non debet semel prelatus, sed tanto nunc subtiliter iudicandus est, quanto
+            postmodum iudicandus non est. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

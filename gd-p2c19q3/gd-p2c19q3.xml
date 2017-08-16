@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c19q3">
+        <head xml:id="gd-p2c19q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c19q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c19q3-d1e109"> I. Pars. Canonicos autem regulares ad monasterium transire
+          multis auctoritatibus prohibetur. </p>
+        <p xml:id="gd-p2c19q3-d1e112"> Unde in Concilio Educensi, congregato sub VII. </p>
+        <p xml:id="gd-p2c19q3-d1e115"> Gregorio, legitur: </p>
+        <div xml:id="gd-p2c19q3-Dd1e119">
+          <head xml:id="gd-p2c19q3-Hd1e121">C. I</head>
+          <head xml:id="gd-p2c19q3-Hd1e124" type="question-title"> Regulares canonici monachi fieri
+            non debent.</head>
+          <p xml:id="gd-p2c19q3-d1e127"> Nullus abbas uel monachus canonicos regulares a proposito
+            professionis canonicae reuocare, atque ad monasticum habitum trahendo suscipere audeat,
+            ut monachi fiant, quamdiu ordinis sui ecclesiam inuenire quiuerint, in quacanonice
+            uiuendo Deo seruire, et animam suam saluare possint. Quod si temerario ausu id agere
+            temptauerint, anathematis uinculo obligentur. </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e131">
+          <head xml:id="gd-p2c19q3-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c19q3-Hd1e136" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c19q3-d1e139"> Item Urbanus Papa II . </p>
+          <p xml:id="gd-p2c19q3-d1e142"> Mandamus et uniuersaliter interdicimus, ne quiscanonicus
+            regulariter professus, nisi (quod absit) publicelapsus fuerit, monachus efficiatur. Quod
+            si decreto nostrocontraire presumens agere temptauerit, ad ordinem canonicum precipimus
+            ut redeat, et deinceps memorialemcucullam deferat, et ultimus in choro maneat. </p>
+          <p xml:id="gd-p2c19q3-d1e145"> Gratian. Subaudiendum uero est, nisi cum patris sui
+            licentia religionis propositum induerit. Unde Urbanus * II. scribitAbbati sancti Rufi:
+          </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e149">
+          <head xml:id="gd-p2c19q3-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c19q3-Hd1e154" type="question-title"> Patris sui concessione regulares
+            canonici monachi possunt fieri.</head>
+          <p xml:id="gd-p2c19q3-d1e157"> Statuimus, ne professionis canonicae quispiam postquam Dei
+            uice supra caput sibi hominem inposuerit, alicuius leuitatis instinctu uel districtioris
+            religionis obtentu ex eodem claustro audeat sine patris * et totius congregationis </p>
+
+
+
+
+          <p xml:id="gd-p2c19q3-d1e160"> E ermissione recedere. Discedentem uero nullus ab-atum uel
+            episcoporum, et nullus monachorum sine communi litterarum cautione suscipiat. </p>
+          <p xml:id="gd-p2c19q3-d1e163"> II. Pars. Gratian. Queritur, si monasteria, que semel
+            dedicata sunt, possint transire in clericorum uel secularium habitacula? Quod, in
+            Calcedonensi Concilio omnibus modis prohibetur c. 24. * </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e167">
+          <head xml:id="gd-p2c19q3-Hd1e169">C. IV</head>
+          <head xml:id="gd-p2c19q3-Hd1e172" type="question-title"> Que semel sunt dedicata*,
+            monasteria semper perseuerent.</head>
+          <p xml:id="gd-p2c19q3-d1e175"> Que semel sunt dedicata monasteria consilio episcoporum,
+            maneant perpetuo monasteria, et res, que ad ea pertinent, monasteriis reseruari oportet,
+            nec posseea ultra fieri secularia habitacula. Qui uero permiserinthec fieri, subiaceant
+            his condempnationibus, que percanones constitutae sunt. </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e179">
+          <head xml:id="gd-p2c19q3-Hd1e181">C. V</head>
+          <head xml:id="gd-p2c19q3-Hd1e184" type="question-title"> Qui loca sacra communia
+            diuersoria fecerit, clericus deponatur, laicus excommunicetur . </head>
+          <p xml:id="gd-p2c19q3-d1e187"> Item in Sinodo VII., c. 13.* </p>
+          <p xml:id="gd-p2c19q3-d1e190"> Quoniam a quibusdam uiris quedam uenerabiles domus
+            subripiuntur, tam uidelicet episcopia quam monasteria, et facta sunt communia
+            diuersoria, si quidem uoluerinthii, qui hec retinent, reddere ea, ut secundum
+            antiquitatemrestaurentur, bene et optime; alioquin, si de sacrocatalogo fuerint, hos
+            deponi precipimus, si uero monachi uellaici, excommunicari, quos nimirum constat
+            condempnatosesse et Patre, et Filio, et Spiritu sancto, et deputanturubi uermis eorum
+            non morietur, et ignis non exstinguetur, quia Deo aduersantur, qui dicit: , ,
+            Nolitefacere domum patris mei domum negotiacionis.“ </p>
+          <p xml:id="gd-p2c19q3-d1e193"> III. Pars. Gratian. Queritur de his, qui ad conuersionem
+            ueniunt, quo tempore debeant tonsurari? De his ita scribitGregorius Papa Fortunato
+            Episcopo Neapolitano, [lib.VIII. epist. 2.] </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e197">
+          <head xml:id="gd-p2c19q3-Hd1e199">C. VI</head>
+          <head xml:id="gd-p2c19q3-Hd1e202" type="question-title"> Antequam biennium in conuersione
+            conpleuerit, aliquis tonsurari non debet.</head>
+          <p xml:id="gd-p2c19q3-d1e205"> Monasteriis omnibus fraternitas uestra districtius
+            interdicat, ut eos, quos ad conuersionem susceperint, prius, quam biennium in
+            conuersatione conpleuerint, nullomodo audeant tonsorare. Sed hoc spacio uita moresque
+            eorum sollicite conprobentur, ne quis eorum aut non sit contentus, quod uoluit, aut
+            ratum non habeat quod elegit.Nam dum graue sit, inexpertos hominum obsequiis sociari,
+            quis possit dicere, quanto sit grauius ad Dei seruitiuminprobos applicare*? Miles uero,
+            si conuerti uoluerit, prius, quam nobis renuncietur, nullus eum sine nostro**consensu
+            qualibet presumat ratione suscipere. </p>
+
+          <p xml:id="gd-p2c19q3-d1e208"> IV. Pars. Gratian. Queritur, si ingressis monasterium ultra
+            relinquatur licentia testandi? Hoc Gregorius prohibet, ita scribens Ianuario Caralitano
+            Episcopo, flib. VII. Indict. 2.epist. 7.]: </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e213">
+          <head xml:id="gd-p2c19q3-Hd1e215">C. VII</head>
+          <head xml:id="gd-p2c19q3-Hd1e218" type="question-title"> Post monasterii ingressum nulli
+            relinquitur licentia testandi.</head>
+          <p xml:id="gd-p2c19q3-d1e221"> Quia ingredientibus monasterium conuertendi gratia ulterius
+            nulla sit testandi licentia, sed ut res eorum eiusdem monasterii sint, aperta legjs
+            diffinitione decretum est. </p>
+        </div>
+        <div xml:id="gd-p2c19q3-Dd1e225">
+          <head xml:id="gd-p2c19q3-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p2c19q3-Hd1e230" type="question-title"> Post ingressum monasterii eidem
+            monasterio omnia sunt conferenda.</head>
+          <p xml:id="gd-p2c19q3-d1e233"> Item Gregorius Cipriano Diacono, [lib. III. epist. 6.]* </p>
+          <p xml:id="gd-p2c19q3-d1e236"> Perlatum est ad nos Petronillam nomine, de prouincia
+            Lucania progenitam, per exhortationem Agnelli episcopifuisse conuersam, resque suas
+            omnes, quas habere potuit, licet iure sibi potuissent conpetere, jtamen eidem
+            monasterio, in quod ingressa est, etiam specialiter donationistitulo contulisse. </p>
+          <p xml:id="gd-p2c19q3-d1e239"> Gratian. Econtra Paulus primus heremita in testamento *
+            colobium suum Aihanasio Alexandrino episcopo reliquit, tunicamuero B. Antonio. Sed aliud
+            est de his, qui monasterium ingressi se et sua tradiderunt: aliud de his, qui solitariam
+            uitamducentes se nulli ecclesiae tradiderunt **. Illi semel tradita nullitradere
+            possunt: isti nulli oblata libere testari ualent. </p>
+          <p xml:id="gd-p2c19q3-d1e243"> [C. IX.] Item constitutio noua . </p>
+          <p xml:id="gd-p2c19q3-d1e246"> „ Si qua mulier aut uir monasticam elegerit uitam, et
+            intrauerit monasterium, liberis non extantibus, monasterio, quod ingrediuntur , res eius
+            conpetere iubemus. §. 1. Sed si persona liberos habens ante, quam de rebus suis inter
+            eos disponat, monasterium intret, liceat ei pos tea inter eos diuidere, legitima nulli
+            diminuta , et quod eis non dederit monasterio conpetet. §. 2. Sed si omnem substantiam
+            inter filios diuidere uoluerit , suapersona filiis connumerata partem sibi retineat, que
+            monasterioconpetere debeat . §.3. Sed si post ingressum moriatur, ante, quam inter eos
+            diuidat, filii legitimam percipiant , reliqua substantia monasterio conpetente.
+            Constitut. 5. in collat. i. §.4. „Nunc autem, cum monachus factus esset S, hoc ipso res
+            suasomnes obtulisse uideatur^', si prius testatus non sit, exinde , iudicio eius
+            cessante, lege disponitur, ut si liberos habet in </p>
+
+
+
+
+          <p xml:id="gd-p2c19q3-d1e249"> quos aut nichil, aut minus legitima portione quoquo donandi
+            titulo contulerit, eatenus substantiae monasterio destinatae detrahantur , ne quvl
+            contingat circa liberos iniquum .“ </p>
+          <p xml:id="gd-p2c19q3-d1e252"> [C. X.] </p>
+          <p xml:id="gd-p2c19q3-d1e255"> Item ex Nouella [CXXIII.]* </p>
+          <p xml:id="gd-p2c19q3-d1e258"> , , Non liceat parentibus liberos, uel liberis parentes ab*
+            hereditate swa repellere monachos factos, quamuis, dum laicifuerant, in causam
+            ingratitudinis inciderunt^. Item: §. i. „Non liceat^ parentibus liberos suos ad
+            solitariam uitam transeuntes abstrahere de monasterio , “ </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

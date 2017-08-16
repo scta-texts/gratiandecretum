@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO III</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO III</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q3">
+        <head xml:id="gd-p2c1q3-Hd1e103">QUESTIO III</head>
+        <p xml:id="gd-p2c1q3-d1e106"> Sed adhuc obicitur, qui- ingressuri monasterium pecunias^
+          tribuunt, non propositum religionis, sed participationem stipendiorum ecclesiae emunt.
+          Temporalia ergo, non spiritualia ementes , nequaquam symoniaci habendi sunt. §. 1. His
+          ita^ respondetur:Non solum qui spiritualia, sed etiam qui temporalia eis annexaprecio
+          accipiunt symoniaci iudicantur. Unde Malachias loquensex persona Domini: „ Quis est,
+          inquit, in uobis, qui claudat ostiaet incendat altare meum gratuito ? Non est uoluntas
+          mihi in uobis, dicit Dominus exercituum , et munus non suscipiam de manuuestra. Ostia
+          claudere non est sacri muneris offitium, sed tantumsibi adiunctum. </p>
+        <p xml:id="gd-p2c1q3-d1e109"> Item Gregorius scribit uniuersis Yspanis Episcopis : </p>
+        <div xml:id="gd-p2c1q3-Dd1e112">
+          <head xml:id="gd-p2c1q3-Hd1e114">C.I.</head>
+          <head xml:id="gd-p2c1q3-Hd1e117" type="question-title">De his, qui sacros ordines munerum
+            acceptione dispensant</head> . <p xml:id="gd-p2c1q3-d1e120"> Audiuimus, dilectissimi,
+            quod nos audisse oportuit, sed audisse profecto non libuit, quosdam scilicet esse
+            sacrorum ordinum professores, qui sub munerum datione uelacceptione Dei ecclesias, uel
+            earum beneficia sibi usurpant.Quod quidem scelus uos iam non dudum acriter
+            correxisseuehementer admiramur; iuste enim uterque corripiendusest et a sanctae
+            liminibus ecclesiae submouendus, et qui proecclesiae ambitu munera largitur, et qui ut
+            ecclesiamadeat quicquam presumit accipere. Iste quippe donum Deiemere, hic autem uendere
+            presumit. A sacrilegio quoquehoc facinus non dispar dixerim, cum id, quod sponte et
+            sacrodeliberationis arbitrio gratis fieri debuit, sub pecuniaepactione causatur. Quare,
+            fratres karisisimi, que taliter factasunt curiose refellite, infecta prohibete,
+            uestrisque iussio-nibus resistentes digno anathematis uinculo percutere nondubitate.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e124">
+          <head xml:id="gd-p2c1q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c1q3-Hd1e129" type="question-title"> De his , qui ecclesias uel
+            ecclesiastica beneficia uendunt. </head>
+          <p xml:id="gd-p2c1q3-d1e132"> Idem Rotomagensi Episcopo et Gallicis omnibus , </p>
+          <p xml:id="gd-p2c1q3-d1e135"> Si quis dator uel acceptor Dei ecclesias uel ecclesiastica
+            beneficia (que quidam prebendas uocant) sub pecuniaeinteruentu susceperit, siue dando
+            emerit, siue accipiendouendiderit, a Symonis non excluditur perditione. Sed
+            siperseuerans fuerit, perpetua mulctetur dampnatione. Namqui sub religionis obtentu Deo
+            famulari uoluerit, si quidacceperit», et meritum perdit, et beneficio accepto
+            frustratur. Rationis ergo uigore cogitur quod iniuste recepitrestituere, et quicquid
+            turpis lucri gratia receperat nontenere. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e140">
+          <head xml:id="gd-p2c1q3-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c1q3-Hd1e145" type="question-title"> Ab offitio suspendatur episcopus
+            beneficia uel ecclesiastica offitia uendens . </head>
+          <p xml:id="gd-p2c1q3-d1e148"> 'Item Gregorius VII. Papa [lib. VI. Reg. in Sinodo, cap. 4.] </p>
+          <p xml:id="gd-p2c1q3-d1e151"> Si quis episcopus prebendas, archidiaconatus, pre-posituras
+            uel aliqua ecclesiastica offitia uendiderit, uel aliter, quam statuta sanctorum Patrum
+            precipiunt, ordina-uerit, ab offitio suspendatur. Dignum est enim, ut, sicutgratis
+            episcopatum accepit, ita membra eiusdem episcopatus gratis distribuat. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e155">
+          <head xml:id="gd-p2c1q3-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c1q3-Hd1e160" type="question-title"> Nec altaria , nec prebendas
+            episcopis uendere licet. </head>
+          <p xml:id="gd-p2c1q3-d1e163"> Item ex Concilio Urbani Papae II. habito Aluerniae *. </p>
+          <p xml:id="gd-p2c1q3-d1e166"> Quesitum est de episcopis, qui altaria monasteriis data
+            frequenter redimi pecunia conpellebant, quia quidam sy-moniacae prauitatis usus in
+            Galliarum partibus iam diutiusinoleuit, ut ecclesiae uel decimae (que uulgari
+            uocabuloapud eos altaria nuncupantur) monasteriis datae sepius abepiscopis sub palliata
+            auarita uenduntur, mortuis nimirumseu mutatis clericis, quos personas uocant. Nos
+            auctoreDeo uenalitatem omnem tam ex rebus quam ex ministeriisecclesiasticis propellentes
+            hoc ulterius fieri auctoritateapostolica prohibemus, sicut etiam prebendas
+            omnesuenundandas interdicimus. Porro quecumque altaria ueldecimas ab annis triginta et
+            supra sub huiuscemodiredemptione monasteria possedisse noscuntur, quiete deinceps et
+            sine molestia qualibet eis possidenda firmamus.§. 1. Saluo utique episcoporum censu
+            annuo, quem ex eisdem altaribus soliti sunt habere. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e170">
+          <head xml:id="gd-p2c1q3-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c1q3-Hd1e175" type="question-title"> Quicquid data uel promissa pecunia
+            in sacris ordinibus acquiritur irritum habeatur.</head>
+          <p xml:id="gd-p2c1q3-d1e178"> Idem * [in Concilio Placentino, c. 1. et 2.] </p>
+          <p xml:id="gd-p2c1q3-d1e181"> Ea, que a sanctis Patribus de symoniacis statuta sunt nos
+            quoque et iudicio, et apostolica auctoritate firmamus. Quicquid igitur in sacris
+            ordinibus, uel inecclesiasticis rebus uel data uel promissa pecunia acquisitum est, nos
+            irritum esse et nullas umquam uiresobtinere censemus. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e185">
+          <head xml:id="gd-p2c1q3-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c1q3-Hd1e190" type="question-title"> Quicquid possidetur nomine
+            pecuniae intelligitur.</head>
+          <p xml:id="gd-p2c1q3-d1e193"> Item Augustinus de doctrina *® Christiana. </p>
+          <p xml:id="gd-p2c1q3-d1e196"> Totum, quicquid homines habent in terra, omnia, quorum
+            Domini sunt, pecunia uocatur, seruus, uas, ager, arbor, pecus; quicquid horum est
+            pecunia dicitur.§. i.** Ideo autem pecunia uocata est, quia antiqui, quod habebant, in
+            pecoribus habebant. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e200">
+          <head xml:id="gd-p2c1q3-Hd1e202">C. VII</head>
+          <head xml:id="gd-p2c1q3-Hd1e205" type="question-title"> Qui ecclesiastica beneficia emunt
+            , ecclesias quoque emere probantur . </head>
+          <p xml:id="gd-p2c1q3-d1e208"> Item Pascalis Papa*. </p>
+          <p xml:id="gd-p2c1q3-d1e211"> Si quis obiecerit, non consecrationes emi, sed res, que ex
+            consecratione proueniunt, penitus* desipereprobatur. Nam cum corporalis ecclesia**, ut
+            episco-us, aut abbas, aut tale aliquid sine rebus corporalius in nullo proficiat, sicut
+            nec anima sine corpore corporaliter uiuit, quisquis horum alterum uendit, sine quonec
+            alterum prouenit, neutrum inuenditum derelinquit. Nullus ergo*** emat ecclesiam uel
+            prebendam, uel aliquid ecclesiasticum, nec pastellum, nec pastum anteauel postea pro
+            huiusmodi soluat. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e215">
+          <head xml:id="gd-p2c1q3-Hd1e217">C. VIII</head>
+          <head xml:id="gd-p2c1q3-Hd1e220" type="question-title"> Quare in euangelio non prohibeatur
+            , inuestitura ecclesiae a laicis fieri . </head>
+          <p xml:id="gd-p2c1q3-d1e223"> Item Urbanus [II.] Episcopus , seruus ^ seruorum Dei,
+            dilecto filio L. Preposito ecclesiae sancti Vincentii apud Ticinum , salutem et
+            apostolicam benedictionem *. </p>
+
+          <p xml:id="gd-p2c1q3-d1e226"> Saluator predicit in euangelio, circa finem seculi
+            pseu-dochristos et pseudoprophetas surgere et multos seducere, et fideles suos in mundo
+            multas habituros pressuras, sedtamen portas inferi non preualituras. Proinde (ut
+            aitApostolus , oportet esse hereses, ut qui probati sunt manifesti fiant) oportet nos
+            cum Propheta ex aduerso consurgere, et murum pro domo Israel opponere, et cum Apostolo
+            per multas tribulationes intrare in regnum Dei, quoniam non sunt condignae passiones
+            huius temporis adfuturam gloriam, que reuelabitur in nobis. §. i. Igitur, quia
+            innotuisti nobis, quod tibi obicitur, utrum uendereecclesiasticam rem symoniacum sit,
+            hoc symoniacum essepatenter colligitur ex hoc, quod B. apostolus ait Symoni:„ Pecunia
+            tua tecum sit in perditione s quia existimasti donum Dei pecunia possideri.^ Donum Dei
+            quippe est Spiritus sanctus, et donum Dei est res ipsius ecclesiae oblata.Et, si bene
+            animaduertis , Symon magus, qui ad fidem accessit^ non Spiritum sanctum**, quo erat ipse
+            indignus(quoniam, ut scriptum est, Spiritus sanctus disciplinaeeffugiet fictum), sed
+            donum eius emere uoluit, ut ex uen-ditione signorum, que per eundem fierent,
+            multiplicatampecuniam lucraretur. Nec Apostolus emptionem Spiritussancti (quam bene
+            fieri non posse nouerat), sed ambitionemquestus talis et auaritiam, que est ydolorum
+            seruitus, ineodem Symone exhorruit et maledictionis iaculo perculit.Quisquis igitur res
+            ecclesiasticas (que Dei donaa Deo fidelibus, et a fidelibus Deo donantur, queque°ab
+            eodem gratis accipiuntur, et ideo gratis dari debent)propter sua lucra uendit uel emit,
+            cum eodem Symone donum Dei pecunia existimat possideri. Ideoque p, quieas q non ad hoc,
+            quod institutae sunt, sed ad proprialucra munere linguae, uel indebiti obsequii, uel
+            pecuniae largitur uel adipiscitur, symoniacus est, cum principalis intentio fuerit
+            Symonis sola pecuniae causa, auaritiauidelicet, id est ydolatria, ut ait apostolus
+            Paulus.Alioquin cur sinodus Calcedonensis DCXXX. episcoporum procuratorem uel defensorem
+            ecclesiae, uel quemquamregulae subiectum adeo per pecuniam ordinari prohibet, ut
+            interuentores quoque tanti sceleris anathematizet, nisiquod eosdem symoniacos iudicet?
+            Quod si prefati militesecclesiae ob huiusmodi scelus taliter percelluntur, nemosapiens
+            negabit, non militantes ecclesiae multo dampnabiliusob hanc causam, id est uenditionis
+            uel emptionis, deberepercelli. Sed beatus predecessor noster Pascalis***de consecratione
+            affirmat, quod quisquis eorum alterum uen-diderit, sine quo alterum non prouenit,
+            neutrum nonuenditum derelinquit, ac per hoc eum, qui rem ecclesiaeuendit uel emit,
+            symoniacum esse intelligit. §. 2.In y nomine uero procuratoris intelligi prefata
+            synodusquemlibet ecclesiasticarum rerum amministratorem, ut, uerbigratia, prepositum,
+            yconomum, uicedominUm; defensorisnomine aduocatum siue castaldum, et iudicem; in
+            subiectoregulae archipresbiterum, archidiaconum, canonicum, monachum uel quemlibet
+            mancipatum ecclesiasticooffitio. §. 3. Quod uero Spiritum sanctum, quantum in seest,
+            uendat uel emat qui preposituram uel huiusmodi aliquid uendit uel emit, audi Augustinum
+            super Iohannem: </p>
+
+
+
+
+          <p xml:id="gd-p2c1q3-d1e229"> „0 quot prepositurasf secernunt! Alterum prepositum habet
+            Cartagini^ Primianus, alterum inMauritania Rogatus, alterum habet in Numidia ille
+            uelille, quos iam nec nominare sufficimus. Circuit ergoaliquis emere columbam;
+            unusquisque laudat prepositumsuumft, quod uendit, etc.™ Ecce uenerabilis Augustinus, de
+            prepositurae distractione agens, in nomine columbaesancti Spiritus uenditionem uel
+            emptionem accipit, sicutet omnes huius euangelici capituli tractatores. §. 4. Pensandum
+            uero est, qua pena mulctentur qui iam Deo et ecclesiaesuae oblata uendunt uel emunt, si
+            cum flagellis eiecti sunt atemplo Dei qui que Deo erant offerenda uendebant uelemebant.
+            Si de offerendorum uenditoribus uel emptoribus dictum est: „Vos fecistis domum patris
+            mei domumnegotiationis et speluncam latronum: ™ quid dicetur de ecclesiae iam oblatorum
+            uenditoribus uei^ emptoribus ?§. 5, Et ne quis insanus obiciat, marito hoc Dominum
+            tamacerbe uindicasse, quia tunc iUa in Dei templo uendeban-tur, ecclesiasticae uero res
+            modo extra templum distrahan-tur 1attende superius Augustinum non terminan </p>
+          <p xml:id="gd-p2c1q3-d1e233"> tem locum uenditionis uel emptionis prepositorum, sed tantum
+            indefinite dicentem: „Circuit aliquis emerecolumbam; unusquisque prepositum suum laudat,
+            quoduendit;™ non adiciens, in templum, uel extra templum.Hec contra uenditores uel
+            emptores rerum sacrarumsufficiant. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e238">
+          <head xml:id="gd-p2c1q3-Hd1e240">C. IX</head>
+          <head xml:id="gd-p2c1q3-Hd1e243" type="question-title"> Ministri et Seruitores ecclesiae
+            absque ulla uenalitate ab episcopis ordinentur.</head>
+          <p xml:id="gd-p2c1q3-d1e246"> Item Alexander [II.] Episcopus , seruus seruorum Dei ,
+            Lucensis ecclesiae clero et populo in perpetuum *. </p>
+
+          <p xml:id="gd-p2c1q3-d1e249"> Ex multis temporibus hoc detestabile malum intra ue-stram
+            ecclesiam inoleuisse cognouimus, ut nulli umquam clerico, quamuis religioso, quamuis
+            scientia et moribus pre-dito, ecclesiasticum beneficium concederetur, nisi ei,
+            quiprofano pecuniae munere illud emere studuisset, fiebatqueecclesia et res eius ita
+            uenalis, uelud quedam terrena et uilismerces a negotiatoribus ad uendendum exposita.
+            Quodmalum quam detestabile, quantum Deo sanctis que sitcontrarium, et sacri canones
+            docent, et fere omnibus manifestum existit. Ista sentencia inuenitur in II. cap.
+            Calce-donensis sinodi. |. 1. Calcedonense concilium naimque, unum ex principalibus,
+            simili pena condempnat eos, qui ecclesiae beneficium interuentu pecuniae acquirunt, et
+            eos, qui sacram manus inpositionem (per quam Spiritussanctus confertur) mercari
+            dinoscuntur. Utros que enimauctoritate inexpugnabili, illos a beneficio, istos a
+            sacroordine iubet expelli. Unde humani generis redemptoromnes ementes et uendentes de
+            templo eiciens cathedrasuendentium columbas euertit, nummulariorum effudit es, precepti
+            sui auctoritate denuncians et dicens: „ Nolitefacere domum patris mei domum
+            negotiationis.™ §. 2. Illudquoque in eodem facto sollicite considerate, quod per
+            totumtextum sancti euangelii nusquam reperitur, Dominum tantaseueritate, tam districta
+            censura iustitiae peccantes corri-uisse, cum non solum eloquio increpans, uerum etiam
+            factoagello de funiculis uerberans omnes eliminauit de templo, aperte demonstrans, quod
+            tales negotiatores non sicut ceteripeccatores sunt corripiendi, sed a templo Dei, id est
+            asancta ecclesia, longius sunt proiciendi. Nam sicut percolumbarum uenditores illi
+            denotantur, qui sacram manusinpositionem uendere conantur, sic per nummularios
+            ecclesiastici beneficii uenditores designantur, qui domum Dei euangelio teste speluncam
+            latronum efficiunt. §.3. Quapropter ego Alexander, sanctae Romanae ecclesiae et
+            apo-stolicae sedis episcopus, imo minister indignus, tot et tantamala in multis
+            ecclesiis et maxime in Lucensi ecclesia exiniqua concupiscentia fieri conspiciens, ne
+            sanguis iniquoruma districto iudice de manu nostra requiratur, illa extirpareet penitus
+            eradicare decreuimus. Constituimus itaque etpresenti decreto firmamus (sicut olim nostri
+            decessoresfecisse noscuntur), nullum deinceps episcoporum beneficium ecclesiae (quod
+            quidam canonicam, uel prebendas, uocant seu etiam ordines) pro aliquo precio uel munere
+            clericis audeant umquam conferre, sed omnes ministroset Seruitores ecclesiae gratis et
+            absque ulla uenalitate insancta ecclesia studeant ordinare. Nec eligant in domoDomini
+            qui maiores sacculos pecuniae conferant, sed eos, qui moribus et scientia diuites pro
+            offitio suo ipsam ualeant sustentare ecclesiam. Constituimus et eodem modofirmamus, ut
+            nullus cuiuscumque gradus clericus pro ecclesiae beneficio audeat aliquid conferre aut
+            fabricae ecclesiarum uel ins donariis ecclesiarum, siue etiam quodpauperibus sit
+            tribuendum, quia (teste scriptura)** quialiquid male accipit, ut dispenset bene,
+            grauatur potiusquam iuuatur. Quod si aliquis, diuinorum preceptorumet animarum salutis
+            inmemor, prefatum beneficium ecclesiae iniqua cupiditate ductus emere uel uendere
+            temerarioausu presumpserit, sicut in Calcedonensi concilio diffinitumest, gradus sui
+            periculo eum subiacere decreuimus, necministrare possit ecclesiae quam pecunia uenalem
+            fiericoncupiuit, et insuper terribilis anathematis mucrone perfossus, nisi resipuerit,
+            ab ecclesia Dei, quam lesit, modisomnibus abscidatur. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e253">
+          <head xml:id="gd-p2c1q3-Hd1e255">C. X</head>
+          <head xml:id="gd-p2c1q3-Hd1e258" type="question-title"> Qui dona Dei uendunt uel emunt ,
+            pariter a Deo dampnantur. </head>
+          <p xml:id="gd-p2c1q3-d1e261"> Item Gregorius Tiomelia XIII. </p>
+          <p xml:id="gd-p2c1q3-d1e264"> Vendentes et ementes de templo eliminauit Christus, quia uel
+            eos, qui pro munere inpositionem manuum tribuunt, uel eos, qui donum Dei emere nituntur,
+            dam-pnat. /tem: §. 1. In templo uendentes sunt, qui hoc, quod quibusdam iure conpetit,
+            ad premium largiuntur.Iustitiam enim uendere est hanc pro premii acceptione </p>
+
+
+
+
+          <p xml:id="gd-p2c1q3-d1e267"> seruare. Ementes uero in templo sunt, qui, dum hoc quod
+            iustum est, proximo persoluere nolunt, dumque remiure debitam facere contempnunt, dato
+            patronis precioemunt peccatum. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e271">
+          <head xml:id="gd-p2c1q3-Hd1e273">C. XI</head>
+          <head xml:id="gd-p2c1q3-Hd1e276" type="question-title"> Qui gratiam, quam a Deo accipiunt,
+            non gratis exercent, uenditores sunt columbarum . </head>
+          <p xml:id="gd-p2c1q3-d1e279"> Item Beda [ad cap. 2. Ioannis]°. </p>
+          <p xml:id="gd-p2c1q3-d1e282"> Non solum uenditores sunt columbarum, et domumDei faciunt
+            domum negotiationis, qui sacros ordines, largiendo precium pecuniae, uel laudis, uel
+            etiam honoris inquirunt; uerum hi quoque, qui gradum uel gratiam inecclesia spiritualem,
+            quam Domino largiente perceperunt, non simplici intentione, sed cuiuslibet humanae causa
+            retributionis exercent contra illud Petri apostoli: „Qui loquitur, quasi sermones Dei;
+            qui ministrat, tamquam ex uirtute, quam administrat Deus, ut in omnibus
+            honorificeturDeus.“ Quicumque ergo tales sunt, si nolunt uenienteDomino de ecclesia
+            auferri, auferant ista de actibus suis, ne faciant domum Dei domum negotiationis. </p>
+          <p xml:id="gd-p2c1q3-d1e285"> Gratianus . Res ecclesiae, que uel ex consecratione
+            proueniant, in suum ius uel ui, uel aliquo munere aliquem conuertere non debere, docens
+            sanctus Urbanus ait. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e289">
+          <head xml:id="gd-p2c1q3-Hd1e291">C. XII</head>
+          <head xml:id="gd-p2c1q3-Hd1e294" type="question-title"> Que ex consecratione proueniunt,
+            nemo in suum ius ui uel munere conuertat.</head>
+          <p xml:id="gd-p2c1q3-d1e297"> Quisquis* res ecclesiasticas (que dona Dei sunt, quoniam a
+            Deo fidelibus, et a fidelibus Deo donantur, queque ab eodem gratis accipiuntur, et ideo
+            gratis dari debent)propter sua lucra uendit uel emit, cum eodem Symonedonum Dei pecunia
+            possideri existimat. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e301">
+          <head xml:id="gd-p2c1q3-Hd1e303">C. XIII</head>
+          <head xml:id="gd-p2c1q3-Hd1e306" type="question-title"> Symoniaci sunt episcopi, qui
+            decimas et oblationes laicis, non clericis distribuunt</head>
+          <p xml:id="gd-p2c1q3-d1e309"> Item Gregorius VII.* </p>
+          <p xml:id="gd-p2c1q3-d1e312"> Peruenit ad nos fama sinistra, quod quidam episcoporum non
+            sacerdotibus propriae diocesis decimas atque Christianorum oblationes conferant, sed
+            potius laicalibuspersonis, militum uidelicet siue seruitorum, uel (quod grauiusest)
+            consanguineis. Unde si quis amodo episcopus inuentusfuerit huius diuini precepti
+            transgressor, inter maximoshereticos et antichristos non minimus habeatur, et, sicut
+            Nicena sinodus de symoniacis censuit, et qui dat episcopus, et qui recipiunt ab eo
+            laici, siue precio, siue beneficio, eterni incendii ignibus deputentur. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e316">
+          <head xml:id="gd-p2c1q3-Hd1e318">C. XIV</head>
+          <head xml:id="gd-p2c1q3-Hd1e321" type="question-title"> Spiritum sanctum uendit, qui
+            decimas propecunia tribuit. </head>
+          <p xml:id="gd-p2c1q3-d1e324"> Item Pascalis 7 /.* </p>
+          <p xml:id="gd-p2c1q3-d1e327"> Altare et decimas per pecuniam dare, et Spiritum sanctum
+            uendere symoniacam heresim esse, nullus fidelium ignorat. </p>
+        </div>
+        <div xml:id="gd-p2c1q3-Dd1e332">
+          <head xml:id="gd-p2c1q3-Hd1e334">C. XV</head>
+          <head xml:id="gd-p2c1q3-Hd1e337" type="question-title"> Careat honore male acquisito, qui
+            ecclesiastica beneficia per pecuniam ™ inuenire temptauerit. </head>
+          <p xml:id="gd-p2c1q3-d1e340"> Item Innocentius Papa [II. in Sinodo Romana, cap. 2.] </p>
+          <p xml:id="gd-p2c1q3-d1e343"> Si quis prebendas, uel prioratum, seu decanatum, aut
+            honorem, uel promotionem aliquam ecclesiasticam, seu quodlibet sacramentum
+            ecclesiasticum, utputacrisma, uel oleum sanctum, consecrationes altariumuel ecclesiarum,
+            interueniente execrabili ardore auariciae perpecuniam acquisiuit, honore male acquisito
+            careat, etemptor atque uenditor, et interuentor nota infamiae percellantur, et nec pro
+            pastu, nec sub obtentu alicuius consuetudinis ante uel post aliquid exigatur, uel ipse
+            darepresumat, quoniam symoniacum est; sed libere absque s diminutione aliqua collata
+            sibi dignitate atque beneficio * perfruatur. </p>
+          <p xml:id="gd-p2c1q3-d1e346"> Gratian. De secunda questione et tertia quid sacri canones
+            diffiniant, auctoritatibus hinc inde in medium deductis patefactum est. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

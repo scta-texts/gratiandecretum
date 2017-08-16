@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c23q4">
+        <head xml:id="gd-p2c23q4-Hd1e103"> QUESTIO IV. </head>
+        <p xml:id="gd-p2c23q4-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c23q4-d1e109"> I. Pars. Quod autem uindicta inferenda non sit, multis modis
+          probatur. Mali enim tollerandi sunt, non abiciendi; increpatione feriendi, non
+          corporaliter expellendi. </p>
+        <p xml:id="gd-p2c23q4-d1e112"> Unde Augustinus ait in libro de uerbis Domini, [sermone
+          XVIII.]*: </p>
+        <div xml:id="gd-p2c23q4-Dd1e115">
+          <head xml:id="gd-p2c23q4-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c23q4-Hd1e120" type="question-title"> Quomodo mali sunt tollerandi, et
+            quomodo ab eis sit recedendum.</head>
+          <p xml:id="gd-p2c23q4-d1e123"> Tollerandi sunt quidem mali pro pace, nec corporaliter ab
+            eis recedatur; sed spiritualiter** exire est facere quodpertinet ad correctionem
+            malorum, quantum licet pro graducuiusque, salua pace; displicere est non tangere. Non
+            enimprophetae, qui hoc dicebant, populum suum dimiserunt, sed inter eos habitabant, quos
+            increpabant, unum templumcum eis intrabant, eadem sacramenta celebrabant. Hoc ergo 3 t
+            exire, ore non parcere, hoc est inmundum nontangere, uoluntate non consentire. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e128">
+          <head xml:id="gd-p2c23q4-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c23q4-Hd1e133" type="question-title"> Quod mali sint tollerandi a
+            bonis.</head>
+          <p xml:id="gd-p2c23q4-d1e136"> Idem±*. </p>
+          <p xml:id="gd-p2c23q4-d1e139"> Tu bonus tollera malum. Nam et Christus ludam, cum sciret
+            furem esse, tollerauit et ad predicandum misit, eiquecum aliis eucharistiam dedit. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e143">
+          <head xml:id="gd-p2c23q4-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c23q4-Hd1e148" type="question-title"> Pro pace ecclesiae mali sunt
+            tollerandi.</head>
+          <p xml:id="gd-p2c23q4-d1e151"> Idem super Iohannem [tractatu L., ad c. 12.]* </p>
+          <p xml:id="gd-p2c23q4-d1e154"> Quid ergo uoluit Dominus noster Iesus Christus, fratres
+            mei, ammonere ecclesiam suam, quando unum perdituminter duodecim habere uoluit, nisi ut
+            malos tolleremus, necorpus Christi diuidamus? Ecce inter sanctos est ludas, ecce fur est
+            ludas, et, ne contendas, fur et sacrilegus, non qualiscumque fur, sed loculorum
+            dominicorum, sedsacrorum. Sic crimina discernuntur in fure qualiscumque furti et
+            peculatus (peculatus enim dicitur furtumde re publica, et non sic iudicatur furtum rei
+            priuatae, quomodo publicae), quanto uehementius est iudicandus sacrilegus fur, non
+            undecumque tollere hoc est&amp;, sed deecclesia. Qui aliquid de ecclesia furatur Iudae
+            proditori » conparatur. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e158">
+          <head xml:id="gd-p2c23q4-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c23q4-Hd1e163" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c23q4-d1e166"> Idem [serm. XVIII. de uerbis Domini]. </p>
+          <p xml:id="gd-p2c23q4-d1e169"> Ecce, inquiunt, dicit Propheta: , , Recedite, exite inde,
+            et inmundum ne tetigeritis.^ Quomodo ergo malostollerabimus pro pace, a quibus exire et
+            recedere iubemur, ne tangamus inmundum? Nos istam recessionem spiritualiterintelligimus:
+            illi corporaliter. Nam et ego clamo cum </p>
+
+          <p xml:id="gd-p2c23q4-d1e172"> Propheta; equalia* sumus uasa, utitur nobis Deus in
+            dispensatione uestra. Clamamus nos, et dicimus uobis, recedite et exite inde, et
+            inmundum ne tetigeritis, sedcontactu cordis, non corporis. Quid est enim tangere
+            inmundum, nisi consentire peccatis? Quid est autem exireinde, nisi facere quod pertinet
+            ad correctionem malorum, quantum pro uniuscuiusque gradu atque persona, saluapace, fieri
+            potest? Etpaulo post: §. 1. Ergo, fratres mei, quotquot habetis inter uos, qui adhuc
+            amore seculi pregra-uantur, auaros, periuros, adulteros, spectatores nugarum,
+            consultores mathematicorum, phanaticorum, augurum, aruspicum, ebriosos, luxuriosos,
+            quicquid inter uos malorum esse nostis, quantum potestis, inprobate, ut corde recedatis,
+            et redarguite, ut exeatis inde, et nolite consentire, ut inmundum non tangatis. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e176">
+          <head xml:id="gd-p2c23q4-Hd1e178">C. V</head>
+          <head xml:id="gd-p2c23q4-Hd1e181" type="question-title"> Pacificus est qui corrigit quod
+            potest, uel excludit a se quod non potest.</head>
+          <p xml:id="gd-p2c23q4-d1e184"> Idem in secundo libro contra Parmenianum^ , c. 1. </p>
+          <p xml:id="gd-p2c23q4-d1e187"> Quisquis uel quod potest arguendo corrigit, uel quod
+            corrigere non potest saluo pacis uinculo excludit, uel quodsaluo pacis uinculo excludere
+            non potest equitate inprobat, firmitate supportat, hic est pacificus, et ab isto
+            maledicto, quo scriptura dicit: , , Vae his, qui dicunt quod nequamest bonum, et quod
+            bonum est nequam, '“ omnino liber, prorsus securus, penitus est alienus. §. i. Quomodo,
+            inquit Parmenianus, incorruptus poteris permanere, quicorruptis sociaris*? </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e191">
+          <head xml:id="gd-p2c23q4-Hd1e193">C. VI</head>
+          <head xml:id="gd-p2c23q4-Hd1e196" type="question-title"> Quid sit malis sociari.</head>
+          <p xml:id="gd-p2c23q4-d1e199"> Idem [in eodem capite continuo]. </p>
+          <p xml:id="gd-p2c23q4-d1e202"> Ita plane, sociatur, id est si mali aliquid cum eis
+            conmittit, aut conmittentibus fauet. Si autem neutrum facit, nullo modo sociatur. Porro,
+            si addat tertium, ut non sitin uindicando piger, sed uel corripiat iustus in
+            misericordiaet arguat, uel etiam, si eam personam gerit, et ratio conser-uandae pacis
+            admittit, et coram omnibus peccantesarguat, ut ceteri timeant, remoueatur etiam uel ab
+            aliquogradu honoris, uel ab ipsa conmunione sacramentorum, ethec omnia cum dilectione
+            corrigendi, non cum odio persequendi fatiat*, plenissimum offitium non solum
+            castissimaeinnocentiae, sed etiam diligentissimae seueritatis inpleuit.Ubi autem cetera
+            inpediuntur, illa duo semper retenta incorruptum castumque custodiunt, ut nec faciat
+            malum, necapprobet factum. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e206">
+          <head xml:id="gd-p2c23q4-Hd1e208">C. VII</head>
+          <head xml:id="gd-p2c23q4-Hd1e211" type="question-title"> Aliena peccata in ecclesia alicui
+            non preiudicant.</head>
+          <p xml:id="gd-p2c23q4-d1e214"> Idem in epistola Concilii ad Donatistas . </p>
+          <p xml:id="gd-p2c23q4-d1e217"> Si quis a catholica ecclesia fuerit separatus, quantumlibet
+            laudabiliter se uiuere existimet, hoc solo scelere, </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e220"> quod a Christianitate * disiunctus est, non habebit uitam,
+            sed ira Dei manet super eum. Quisquis autem in hacsancta ecclesia bene uixerit, nichil
+            ei preiudicant alienapeccata; quia in ea unusquisque proprium onus portabit, sicut
+            Apostolus ait.. §. i. Ergo conmunio malorumnon maculat aliquem participatione
+            sacramentorum, sedconsensio factorum. Nam si in malis factis non eis quisque consentiat,
+            malus causam suam portats, nec preiu-dicat alteri, quem in consensione mali operis non
+            habetsocium criminis. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e225">
+          <head xml:id="gd-p2c23q4-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e230" type="question-title"> Non te maculat malus, si ei non
+            consentis, sed ipsum redarguis.</head>
+          <p xml:id="gd-p2c23q4-d1e233"> Idem in sermone [XVIII.] de uerbis Euangelii . </p>
+          <p xml:id="gd-p2c23q4-d1e236"> A malis disiungimini semper corde: ad tempus caute corpore
+            copulamini. §. 6. Duobus modis non te maculatmalus: si non consentias, etsi redarguas.
+            Hoc est nonconmunicare, non consentire; conmunicatur quippe, quandofacto eius consortium
+            uoluntatis uel approbationis adiungi-tur. §. 2. Neque ergo consentientes sitis malis, ut
+            approbetis; neque negligentes, ut non arguatis; neque superbientes, ut insultantes
+            arguatis. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e240">
+          <head xml:id="gd-p2c23q4-Hd1e242">C. IX</head>
+          <head xml:id="gd-p2c23q4-Hd1e245" type="question-title"> Inmundum tangere est peccatis
+            consentire.</head>
+          <p xml:id="gd-p2c23q4-d1e248"> Item in eodem . </p>
+          <p xml:id="gd-p2c23q4-d1e251"> Recedite, exite inde, et inmundum ne tetigeritis. Sed
+            contactu cordis, non corporis. Quid enim est tangereinmundum, nisi consentire peccatis?
+            Quid est exire inde, nisi facere quod pertinet ad correctionem illorum, quantum pro
+            uniuscuiusque gradu atque persona, salua pace, fieri potest? Displicuit tibi quod
+            quisque peccauerit?non tetigisti inmundum. Redarguisti, corripuisti, monuisti,
+            adhibuisti etiam, si res exigat, congruam, et que unitatem non uiolet disciplinam?
+            existi inde. §. i. Clama-uit Moyses ista, clamauit Ysaias, clamauit Hieremias, clamauit
+            Ezechiel. Videamus, si dimiserunt populumDei, et se ad gentes alias transtulerunt. Quam
+            multa, etquam uehementer Hieremias increpauit in peccatores etsceleratos populis? Inter
+            eos tamen erat, unum cum eistemplum intrabat, eadem sacramenta celebrabat, in
+            eademsceleratorum hominum congregatione uiuebat; sed clamando exibat inde. Hoc est exire
+            inde, hoc est inmundum non tangere, et uoluntate non consentire, et ore nonparcere. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e255">
+          <head xml:id="gd-p2c23q4-Hd1e257">C. X</head>
+          <head xml:id="gd-p2c23q4-Hd1e260" type="question-title"> Non maculant innocentes facta
+            nocentium ", que ob eis credi non possunt. </head>
+          <p xml:id="gd-p2c23q4-d1e263"> Idem in epist. [XLVIII.] ad Vincentium °. </p>
+
+          <p xml:id="gd-p2c23q4-d1e266"> Quam magnum est crimen ab istorum innocentium communione
+            separari? Nam et facta nocentium, quo innocentibus demonstrari, uel ab innocentibus
+            credi non possunt, non inquinant quemquam, si propter innocentesetiam cognita
+            sustinentur. Non enim propter malosboni deserendi, sed propter bonos mali tollerandi
+            sunt, sicuttollerauerunt Prophetae, contra quos tanta dicebant, neccommunionem
+            sacramentorum illius populi relinquebant;sicut ipse Dominus nocentem ludam usque ad
+            condignumeius exitum tollerauit, et eum sacram cenam cum innocentibus communicare
+            permisit, sicut tollerauerunt Apostolieos, qui per inuidiam (que ipsius diaboli est
+            uicium)Christum annunciabant. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e270">
+          <head xml:id="gd-p2c23q4-Hd1e272">C. XI</head>
+          <head xml:id="gd-p2c23q4-Hd1e275" type="question-title"> Mali, quos ecclesia recipit, nec
+            expellit, a bonis sunt tollerandi . </head>
+          <p xml:id="gd-p2c23q4-d1e278"> Idem in libro I. de unico baptismo *. </p>
+          <p xml:id="gd-p2c23q4-d1e281"> Forte in populo Dei stat iuxta te auarus, raptor, inhians
+            rebus alienis, quem nosti talem, et fidelis est, uelpotius fidelis uocatur. Non eum
+            potes de ecclesia pellere, nonhabes aliquem aditum castigando et corripiendo
+            illumcorrigere, accessurus est tecum ad altare. Noli timere:unusquisque onus suum
+            portabit. 2 tem: §. i. Quomodo (inquis) ferrem quem noui malum? nonne melius
+            ipsumferres, quam te foras efferres? Ecce, quomodo ferres:adtende Apostolum dicentem: ,
+            , Unusquisque proprium onus portabit/* Liberet te ista sentencia. Nonenim conmunicares
+            cum illo auariciam, sed conmunicarescum illo Christi mensam. Et quid tibi obesset, si
+            cumillo conmunicares mensam Christi? Apostolus dicit: „Quienim manducat et bibit
+            indigne, iudicium sibi manducat etbibitsibi, non tibi. Sane si iudex es, si iudicandi
+            potestatem accepisti, ecclesiastica regula, si apud te accusatur, siueris documentis
+            testibusque conuincitur, coherce, corripe, excommunica, degrada. </p>
+          <p xml:id="gd-p2c23q4-d1e284"> Gratian. Est et alia distinctio tollerandorum et
+            canendorum, quam ex uerbis Augustini licet colligere, dicentis [serm. XLIX.de uerbis
+            Domini]: </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e288">
+          <head xml:id="gd-p2c23q4-Hd1e290">C. XII</head>
+          <head xml:id="gd-p2c23q4-Hd1e293" type="question-title"> Pastor est diligendus,
+            mercenarius tollerandus, latro cauendus.</head>
+          <p xml:id="gd-p2c23q4-d1e296"> Tres personas dixit Dominus (et debemus illas inuesti-gare)
+            in euangelio, pastoris, et mercenarii, et furis. Pastorem dixit animam suam ponere pro
+            ouibus, etintrare per ianuam. Furem dixit et latronem* ascendereper aliam partem.
+            Mercenarium dixit, lupum uel etiamfurem si uideat, fugere, quia non est illi cura de
+            ouibus:mercenarius autem est, non pastor. Ille intrat perianuam, qui pastor est; ille
+            ascendit per aliam partem, qui s fur est; ille uidens eos, qui uolunt oues tollere,
+            timetet fugit, quia mercenarius est, nec illi cura est deouibus, mercenarius est enim.
+            Si inuenerimus tres istaspersonas, inuenit sanctitas uestra quos diligatis,
+            quostolleretis, quos caueatis. Diligendus est pastor, tollerandus est mercenarius,
+            cauendus est latro. </p>
+          <p xml:id="gd-p2c23q4-d1e299"> Gratian. Ecce, quod mali tollerandi sunt, nec corporali, </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e302"> sed spirituali uindicta sunt puniendi. Unde, cum discipuli
+            non recepti a Samaritanis ignem celitus super eos deducere noluerunt, dicentes magistro
+            : „ Vis dicimus descendat ignis de celo, et consumat eos? audierunt: , , Nescitis, cuius
+            [spiritus estis ?“ Item : „ Omnis, qui gladium acceperit, gladio peribit .“ </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e306">
+          <head xml:id="gd-p2c23q4-Hd1e308">C. XIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e311" type="question-title"> Spiritualis carnalem non^*
+            persequitur, sed e conuerso.</head>
+          <p xml:id="gd-p2c23q4-d1e314"> Hinc etiam leronimus ait [in comment. ep. ad Gal. c. 4.]Qui
+            secundum carnem natus est, persequebaturspiritualem: numquam uero spiritualis carnalem
+            persequitur, sed ignoscit ei, quasi rusticano fratri. Scit, eumproficere posse per
+            tempus, et si quando Egyptiae filiumuiderit irascentem, recordabitur unius patris, qui
+            boues*creauit, et culicem, et in magna domo non solum esseuasa aurea et argentea, sed
+            lignea et fictilia uoluit^. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e319">
+          <head xml:id="gd-p2c23q4-Hd1e321">C. XIV</head>
+          <head xml:id="gd-p2c23q4-Hd1e324" type="question-title"> Boni a malis numquam in hac uita
+            penitus^ possunt separari.</head>
+          <p xml:id="gd-p2c23q4-d1e327"> Item Augustinus in libro [IV.] de baptismo, [c. 12.]*
+            Quantus arrogantiae tumor est, quanta humilitatis etlenitatis obliuio et arrogantiae
+            quanta iactatio, ut quisse posse credat facere, quod nec Apostolis concessitDominus, ut
+            zizania uidelicet a frumento putet seposse discernere? </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e331">
+          <head xml:id="gd-p2c23q4-Hd1e333">C. XV</head>
+          <head xml:id="gd-p2c23q4-Hd1e336" type="question-title"> Presens ecclesia simul recipit
+            bonos et malos.</head>
+          <p xml:id="gd-p2c23q4-d1e339"> Item Gregorius [homilia XXXVIII. Euang.]Hec autem uita, que
+            inter celum et infernum sita est, sicut in medio subsistit, ita utrarumque partium ciues
+            communiter recipit: quos tamen sancta ecclesia et indiscrete suscipit, et postmodum in
+            egressione discernet.Si igitur boni estis, quamdiu in hac uita subsistitis, equanimiter
+            tollerate malos. Nam quisquis malosnon tollerat, ipse sibi per intollerantiam testis
+            est, quiabonus non est. Abel enim esse rennuit, quem Cain malicianon exercet. </p>
+
+          <p xml:id="gd-p2c23q4-d1e342"> II. Pars. Gratian. Ex his omnibus colligitur, quod malorum
+            uindicta Deo reseruanda esi, nec sunt corporaliterpuniendi, sed crebra ammonitione, et
+            karitaiis beneficio ad correctionem inuitandi. Unde Christus ait in euangelio ; „
+            Audistisquia dictum est in lege, {quem modum ulcionis lex statuit)„ Oculum pro oculo,
+            (lentem pro dente. Ego autem hanc uicissi-tudinem tollens, et ad mansuetudinem et
+            karitaiis perfectionemuos inuitans, dico uobis: , , Nolite^ resistere malo, sed
+            diligiteinimicos uestros, benefacite Ms, qui oderunt uos, ut sitis filiipatris uestri,
+            qui solem suum oriri facit super bonos et malos, etpluit super iustos et iniustos. Hinc
+            Paulus ait: , , 5 't esu-rierit inimicus tuus, ciba illum; si sitit, potum da illi.
+            Omnisautem^Ss iniquus bonorum est inimicus; omnis enim amicus huius seculi inimicus est
+            Dei. Inimicus autem Deibonitatis et iusticiae est inimicus, ac per hoc amatorem
+            iusticiaeet bonitatis diligere non potest. Cum ergo inimicos diligere, uelillis
+            benefacere, cibum et potum subministrare iubemur: inimicospersequi et punire prohibemur.
+            §. 1. In lege enim ueteris testamenti corporalis pena statuta est: in lege uero
+            euangelii omnipeccanti per penitenciam uenia promittitur. Unde illa a terroreincepit,
+            dicens : „Ego sum Dominus Deus zelotes, uisitanspeccata patrum in filios usque in
+            tertiam et quartam generationem. Hec uero a lenitate mansuetudinis et misericordiae,
+            itainquiens : „ Beati pauperes spiritu, beati mites, beati misericordes, quoniam ipsi
+            misericordiam consequentur .“ In illa dicebatur : „ Qui fecerit hoc uel illud, morte
+            moriatur .“ In istadicitur^: „ Gaudeo super uno peccatore penitenciam agente, quam super
+            nonaginta nouem iustis, qui non indigent penitenciaItem : „ Non ueni uocare iustos, sed
+            peccator es . Item : „Estote misericordes, 'sicut et pater uester misericors est.
+            Ini-cium quoque predicationis saluatoris nostri, et preconis eiusdem, ad penitenciam
+            peccatores inuitauit. Sic enim uterque exorsusest : „ Penitenciam agite, appropinquabit
+            enim regnumcelorum. Sic e* p in Actibus Apostolorum, cum Iudei, con-puncti de scelere
+            mortis Christi, dicerent Petro: , , Quid faciemus, uiri fratres ? legitur Petrus his 3
+            respondisse: „ Penitenciamagite, et baptizetur unusquisque uestrum. Et, ut
+            uniuersaliterdicatur, in lege populus ille rudis seruili timore penarum cogebatur: unde
+            et legem in pedagogum accepit. In euangelio autempopulus gratiae liber et adultus
+            filiali amore, et hereditatis certitudine ad cultum diuinae seruitutis inuitatur. Unde,
+            cum quidamlegem, quasi cohercentem, predicarent esse tenendam simul cumgratia, ait
+            Apostolus: „ Non enim accepistis spiritum seruitutisiterum in timore, sed accepistis
+            spiritum adoptionis filiorum, inquo clamamus: Abba pater .“ §.2. Hinc etiam?* Gr
+            egoriusait in expositione euangelii: , , Simile factum est regnum celorumhomini regi,
+            qui fecit nuptias filio suo. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e346">
+          <head xml:id="gd-p2c23q4-Hd1e348">C. XVI</head>
+          <head xml:id="gd-p2c23q4-Hd1e351" type="question-title"> In lege cuique permittebatur
+            diligere amicum, et odire inimicum.</head>
+          <p xml:id="gd-p2c23q4-d1e354"> Cum in lege scriptum sit: „Diliges amicum tuum, et odio
+            habebis inimicum tuum, “ accepta tunc licentia iustisfuerat, ut Dei suosque aduersarios,
+            quanta possent uirtute, conprimerent, eosque iure* gladii ferirent. Quodin nouo
+            proculdubio testamento conpescitur, cum per semetipsum ueritas predicat, dicens:
+            „Diligite inimicos uestros, benefacite his, qui oderunt uos.“ Quid ergo per tauros, nisi
+            ueteris testamenti patres signantur? Nam dum expermissione legis acceperant, quatinus
+            aduersarios suos odiiretributione percuterent (ut ita dicam), quid aliud quamtauri
+            erant, qui inimicos suos cornu corporeae uirtutis feriebant? Quid uero per altilia, nisi
+            patres noui testamenti figurantur? qui dum gratiam internae pinguedinis percipiunt, a
+            terrenis desideriis innitentes , contenplationis pennaad sublimia quasi se subleuant. </p>
+          <p xml:id="gd-p2c23q4-d1e357"> Gratian. His ita respondetur: Sunt quedam, que salubri
+            tantum ammonitione sunt corripienda, non corporalibus flagellis sunt °7 g
+            animaduertenda; sed eorum uindicta diuino examinitantum est reseruanda, quando in
+            delinquentes disciplinam uidelicetexercere non possumus, uel quia non sunt nostri iuris,
+            uel quiaillorum crimina, etsi nobis nota sunt , tamen manifestis indiciisprobari non
+            possunt. §. 1. De his, qui non sunt nostri iuris, aitApostolus in epistola prima ad
+            Chorinthios: „ Quid enim michiattinet de his, qui foris sunt, iudicare? de his enim
+            Dominus iu-dicabit. </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e360"> Quod Augustinus exponens m *. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e364">
+          <head xml:id="gd-p2c23q4-Hd1e366">C. XVII</head>
+          <head xml:id="gd-p2c23q4-Hd1e369" type="question-title"> Infidelium colloquia et conuiuia
+            non sunt euitanda.</head>
+          <p xml:id="gd-p2c23q4-d1e372"> Infideles non possumus Christo lucrari, si colloquium eorum
+            uitamus et conuiuium. Unde et Dominus cumpublicanis et peccatoribus manducauit et bibit.
+            In his uero, qui intus sunt, id est infidelibus, putredo resecanda est. </p>
+          <p xml:id="gd-p2c23q4-d1e375"> Gratian. Hinc etiam, cum Propheta dicit : „ Facit Dominus
+            iudicium omnibus iniuriam patientibus, exponendo addidit Augustinus: , , ab his, qui non
+            sunt sui iuris, in quos nequit disciplina exerceri. §. i. Item, quando multitudo est in
+            scelere, necsalua pace ecclesiae mala™- puniri possunt, tolleranda suntpocius, quam
+            uiolata pace ecclesiae punienda. </p>
+          <p xml:id="gd-p2c23q4-d1e378"> Unde Augustinus ait [in libro de fide et operibus, c. 4. et
+            5.]: </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e382">
+          <head xml:id="gd-p2c23q4-Hd1e384">C. XVIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e387" type="question-title"> Quedam mala sunt punienda, et
+            quedam tolleranda.</head>
+          <p xml:id="gd-p2c23q4-d1e390"> Quidam , cum bonorum malorumque conmixtio-nem in ecclesia
+            demonstratam uel predictam esse perspexerint, et precepta patienciae didicerint, (que
+            nosfirmissimos reddunt, ut etiamsi uiderentur in ecclesia zizania, tamen non inpediatur
+            aut fides, aut karitas nostra, et223g quoniam ? zizania in ecclesia esse cernimus,
+            nonideo ipsi de ecclesia recedamus) destituendam* putant ecclesiae disciplinam, quandam
+            peruersissimamsecuritatem prepositis tribuentes, ut ad eos non pertineat, nisi dicere
+            quid cauendum sit, quidue faciendum sit;quodlibet autem quisque faciat non curare. Nos
+            uero adsanam doctrinam pertinere arbitramur utrisque testimoniis uitam sententiamque
+            moderare , ut et canesin ecclesia propter pacem ecclesiae tolleremus, et canibussanctum,
+            ubi est pax ecclesiae tuta, non demus. Cumuero per negligentiam prepositorum, siue per
+            aliquam excusabilem necessitatem, siue per occultas obreptiones inuenimus in ecclesia
+            malos, quos ecclesiastica disciplinacorrigere aut cohercere non possumus, tunc, ne
+            ascendat incor nostrum inpia et perniciosa presumptio, qua estime-musP nos ab his esse
+            separandos, ut peccatis eorum noninquinemur, atque ita post nos trahere conemur,
+            uelutimundos sanctosque discipulos ab unitatis conpage quasi amalorum coniunctione i
+            separatos , ueniant in mentemillae de scripturis similitudines, et diuina oracula, uel
+            certissima exempla, quibus demonstratum et pronunciatumest, malos in ecclesia bonis
+            permixtos usque in finem seculi tempusque iudicii futuri b malos tollerandos, nichilque
+            bonis in unitate ac participatione sacramentorum, qui eorum factis non consenserint,
+            obfuturos. §. 1.Cum uero eis, per quos ecclesia regitur, adest pace saluapotestas
+            disciplinae aduersus inprobos aut nefarios exercendae, tunc rursus, neque socordia neque
+            segnitiadormiamus, sed aculeis preceptorum, que ad seueritatemcohercionis°y pertinent,
+            excitandi sumus, ut gressusnostros in uia Domini ex utrisque testimoniis illo duceatque
+            adiutore dirigentes, nec patienciae nomine torpescamus, nec obtentu diligentiae
+            seuiamus. </p>
+
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e394">
+          <head xml:id="gd-p2c23q4-Hd1e396">C. XIX</head>
+          <head xml:id="gd-p2c23q4-Hd1e399" type="question-title"> Leuius occulta, seuerius autem ab
+            ecclesia punienda sunt delicta manifesta . </head>
+          <p xml:id="gd-p2c23q4-d1e402"> Idem contra epistolam Parmeniani, [lib. III. c. 2.] </p>
+          <p xml:id="gd-p2c23q4-d1e405"> Cum quisque fratrum et Christianorum, intus in ecclesiae
+            societate constitutorum, in aliquo tali peccatofuerit deprehensus, ut anathemate dignus
+            habeatur, fiathoc, ubi periculum scismatis nullum est. Infra: §. 1.Quando cuiusquam
+            crimen notum est, et omnibus execrabile apparet, ut uel nullos prorsus, uel non
+            taleshabeat defensores, per quos possit scisma contingere, nondormiat seueritas
+            disciplinae. </p>
+          <p xml:id="gd-p2c23q4-d1e408"> III. Pars. Gratian. Est etiam alia causa, qua correctio z
+            uerborum uel uerberum uidetur esse inutilis uel superflua. Predestinati enim ad uitam
+            sine correctione mutantur, sicutPetrus , quem Dominus respiciens nemine corripiente
+            conmouitad lacrimas. Presciti ad mortem inter flagella deteriores fiunt, sicut Pharao.
+            Bonis ergo superflua, dampnandis inueniuntur hecesse inutilia. His ita respondetur
+            auctoritate Gregorii et Augustini. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e413">
+          <head xml:id="gd-p2c23q4-Hd1e415">C. XX</head>
+          <head xml:id="gd-p2c23q4-Hd1e418" type="question-title"> Sicut ab oratione cessandum non
+            est, sic nec a correctione ^^. </head>
+          <p xml:id="gd-p2c23q4-d1e421"> Sicut non est cessandum ab oratione pro eis, quos corrigi
+            uolumus, etiamsi nullo hominum orante pro Petro Dominusrespexit eum, et fecit eum suum
+            flere peccatum: ita non estnegligenda correctio, quamuis Deus, quos uoluerit, non
+            correctos faciat esse correctos. Tunc autem excorrectione proficit homo, cum miseretur
+            atque adiuuatqui facit, quos uoluerit, etiam sine correctione s proficere. Item in
+            Dialogo, [lib. I. c. 8.]: </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e425">
+          <head xml:id="gd-p2c23q4-Hd1e427">C. XXI</head>
+          <head xml:id="gd-p2c23q4-Hd1e430" type="question-title"> Soli predestinati soluantur ,
+            quod tamenpostulando suo labore merentur 28 ! . </head>
+          <p xml:id="gd-p2c23q4-d1e433"> Obtineri nequaquam possunt que predestinata non fuerint.
+            Sed ea, que sancti uiri orando efficiunt, ita predestinata sunt, ut precibus
+            obtineantur. Nam ipsa quoque perhennis regni predestinatio ita est ab omnipotenti
+            Deodisposita, ut ad hoc electi ex labore perueniant, quatinuspostulando mereantur
+            accipere quod eis omnipotens Deusante secula disposuit donare. </p>
+          <p xml:id="gd-p2c23q4-d1e436"> [C. XXII.] </p>
+          <p xml:id="gd-p2c23q4-d1e439"> Item Augustinus [in libro de predestinatione et gratia, c.
+            15.] </p>
+          <p xml:id="gd-p2c23q4-d1e443"> Nabuchodonosor penitenciam meruit fructuosam. </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e446"> Nonne post innumeras inpietates flagellatus penituit, et
+            regnum, quod perdiderat, rursus accepit? Pharao autemipsis est flagellis durior effectus
+            et periit? Hic michirationem reddat qui diuinum consilium nimium altumsapienti corde
+            diiudicat, cur medicamentum unius medici confectum alii ad interitum, alii ualuerit ad
+            salutem, nisi quia Christi bonus odor aliis est odor uitae inuitam, aliis est odor
+            mortis in mortem? Quantum adnaturam, ambo homines erant. Quantum ad dignitatem, ambo
+            reges. Quantum ad causam, ambo captiuum populumDei possidebant. Quantum ad penam, ambo
+            flagellisclementer ammoniti. Quid ergo fines eorum fecit essediuersos, nisi quod unus
+            Dei manum sentiens in recordationepropriae iniquitatis ingemuit, alter libero contra Dei
+            miseri-cordissimam ueritatem pugnauit arbitrio? </p>
+          <p xml:id="gd-p2c23q4-d1e449"> [C. XXIII.] Idem *. </p>
+          <p xml:id="gd-p2c23q4-d1e452"> Vasis irae numquam Deus redderet interitum, si non
+            spontaneum homo inueniretur habere peccatum, quia necDeus peccanti homini iuste inferret
+            iram, si homo ex pre-destinatione Dei cecidisset in culpam, /dm: §. i. Predesti-nationem
+            Dei siue ad bonum siue ad malum in omnibusoperari ineptissime dicitur, ut ad utrumque
+            homines quedamnecessitas uideatur inpellere, cum in bonis uoluntas sitintelligenda non
+            sine gratia, in malis autem uoluntas in-telligenda sine gratia. §. 2. Cum uero aliquos a
+            Deoaut traditos desideriis suis, aut obduratos legimus aut relictos, magnis peccatis
+            suis hoc ipsos meruisse profitemur, quo quia talia eorum crimina precesserunt, ut ipsi
+            sibipenam debuerint, qua eis etiam supplicium uer-teretur in reatum. Atque ita nec de
+            iudicio Dei querimur, quo deserit meritos deseri, et misericordiae eius gratiasagimus,
+            qua liberat non meritos liberari. §. 3. Vires itaqueobedientiae non ideo cuiquam
+            subtraxit, quia eum nonpredestinauit, sed ideo eum non predestinauit, quia recessurum ab
+            ipsa obedientia esse preuidit. §. 4. Predestinatio quoque Dei semper in bono est, que
+            peccatum solahominis uoluntate conmissum aut remittendum nouit cumlaude misericordiae,
+            aut plectendum cum laude iusticiae.In malis autem operibus nostris sola prescientia
+            Deiintelligenda est, quia, sicut presciuit et predestinauit queipse fecit, et ut
+            faceremus dedit, ita presciuit tantum, nonetiam predestinauit, que nec ipse fecit, nec
+            ut faceremusexegit. §.5. Hi autem, de quibus dicitur: „Ex nobisexierunt, sed non fuerunt
+            ex nobis. Si enim fuissent exnobis, mansissent utique nobiscum, “ uoluntate exierunt,
+            uoluntate ceciderunt, et quia presciti sunt casuri, non suntpredestinati; essent autem
+            predestinati, si essent reuersuri, et in sanctitate ac ueritate mansuri. Ac per hoc
+            predestinatio Dei multis est causa standi, nemini est causalabendi. </p>
+          <p xml:id="gd-p2c23q4-d1e455"> Gratian. Non ergo necessitatem facit correctionis uel
+            obdurationis diuina predestinatio seu prescientia, cum boni per gratiam corrigantur , et
+            libero arbitrio mali pereant. Neque </p>
+
+          <p xml:id="gd-p2c23q4-d1e458"> enim, quia predestinatio seu prescientia Dei non falli
+            potest, necessario eueniunt que predestinantur uel presciuntur, sicut necnecessario
+            predestinantur uel presciuntur que futura sunt: sedquia bona absque eius gratia, mala
+            preter eius scientiam euenirenon possunt. §. 1. Quamuis ergo conuenienter dicatur, si
+            hecpredestinata sunt uel prescita, necessario euenient : non tamenideo absolute uerum
+            est, necessario euenient que predestinatasunt uel prescita; quia hic necessitas refertur
+            ad rerum euentum, ibi ad intuitum diuinae prescientiae. Unde Augustinus : „ Duaesunt ,
+            ** inquit, , , necessitates, simplex una, ueluti^*, necesse estomnes homines esse
+            mortales: altera conditionis, ut, si aliquemambulare quis scit, eum ambulare necesse
+            est. Quod enim quisquenouit 326 g, td esse aliter, ac^^ notum est, nequit. Sed hec
+            minimesecum illam simplicem trahit. Hanc enim necessitatem non propria facit natura, sed
+            condicionis adiectio. Nulla enim necessitascogit incedere gradientem uoluntate, quamuis
+            eum tunc, cumgradiatur *, incedere necessarium sit . Eodem igitur modo, si quid
+            prouidentia presens uidet, id necesse est esse, tametsinullam naturae habeat
+            necessitatem. At quidem ea futura, que ex libertate arbitrii proueniunt, prescientia
+            contuetur.Hec igitur, ad intuitum relata diuinum, necessaria fiunt per dispositionem
+            diuinae nocionis. Per se uero considerata absolutam f naturae suae libertatem non
+            deserunt. Fient igitur proculdubiocuncta, que futura Deus esse prenoscit; sed eorum
+            quedam delibero proficiscuntur arbitrio, que, quamuis eueniant , existendotamen naturam
+            propriam non amittunt, qua prius, quamfierent, etiam non euenire potuissent .“§. 2. His
+            omnibus mala </p>
+          <p xml:id="gd-p2c23q4-d1e462"> nostra libero asscribuniur arbitrio, cum alibi diuinae
+            asscribantur indignationi. Unde Gregorius : „Cum superna indignatiosese, ut ita dixerim,
+            medullitus mouet, hanc opinio humananon remouet, nec se cuiuslibet utiliter deprecatio
+            obicit, cumsemel Deus aliquid ab intimis irascendo disponit. Hinc est enim, quod Moyses
+            337, qui reatum totius plebis apud Dominum suis precibus tersit, dumque se obicem
+            obtulit, diuinae iracundiaeuim placauit, ad petram Oreb ueniens, et pro aquae
+            exhibitionediffidens, repromissionis terram ingredi Domino irascente nonpotuitP §. 3.
+            Item Augustinus: „De Tyriis ++ uero et Sydoniisquid aliud possumus dicere, quam non
+            datum esse eis ut crederent, quos credituros fuisse ipsa ueritas docet^v, si talia,
+            qualia apud non credentes facta sunt, uirtutum signa uidissent tQuare autem hoc negatum
+            eis fuerit, dicant, si possunt, qui calum-pniantur, et ostendant, cur apud eos Dominus
+            mirabilia, quibusprofutura non erant, fecerit, et apud eos, quibus erant profutura, non
+            fecerit. Nos etenim, si ratione ^q fti 344 r profunditatemiudicii eius penetrare non
+            possumus, manifestissime tamen scimus, et uerum esse quod dixit, et iustum esse quod
+            fecit, et non solumTyrios et Sydonios, sed etiam Corozaim et Bethsaida potuisseconuerti,
+            et fideles ex infidelibus fieri, si hoc in eis Dominusuoluisset operari. Neque enim ulli
+            falsum uideri potest, quodueritas ait : ° , , „ Nemo potest uenire ad me, nisi fuerit ei
+            datuma patre meo. “ Item qui per Prophetam plebi Iudaicae promisit : „„Ecce, ego sepiam
+            uias tuas spinis, et muniam easlapidibus quadris , “ id est adimam tibi facultatem
+            peccandi.Idem per Psalmistam de dampnandis dixerat : „ „ Fiant uiaeeorum tenebrae et
+            lubricum, et angelus Domini persequens </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e465"> eo 8 . Sed in his omnibus uicia nostra humanae asscribuntur
+            mentis arbitrio , quod diuina clementia in electis misericorditeruertit ad bonum , m
+            dampnandis iuste relinquit ad malum. Sicutergo , quamuis certissime sciamus , neminem
+            ultra terminum aDeo sibi prefixum esse uicturum , omnibus tamen languentibus
+            nonincongrue medemur: sic , quamuis nemo saluetur , nisipredestina-tus ad uitam , omni
+            tamen delinquenti est adhibenda correctio . nec malorum est negligenda disciplina. </p>
+          <p xml:id="gd-p2c23q4-d1e468"> Unde idem Augustinus Bonifatio : </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e472">
+          <head xml:id="gd-p2c23q4-Hd1e474">C. XXIV</head>
+          <head xml:id="gd-p2c23q4-Hd1e477" type="question-title"> Non semper in eos , qui peccant ,
+            uindicta exercenda est. </head>
+
+          <p xml:id="gd-p2c23q4-d1e480"> Ipsa pietas, ueritas, karitas, nos non permittit contra
+            Cecilianum eorum hominum accipere testimonium, quos inecclesia non uidemus, cui Dominus
+            perhibet testimonium. Quos enim diuina testimonia non secuntur, pondushumani testimonii
+            perdiderunt. itera : §. i. Molestus estmedicus furenti frenetico, et pater
+            indisciplinato filio: illeligando, ille cedendo, sed ambo diligendo. Si autemillos
+            negligant, et perire permittant, ista pocius falsamansuetudo est crudelitas. itera :
+            §.2.Quapropter si°spotestate, quam propter religionem ac fidem, tempore quo debuit,
+            diuino munere accepit ecclesia, hii, quiinueniuntur in uiis et sepibus, id est in
+            heresibus etscismatibus coguntur intrare, non quia coguntur reprehendant', sed quo
+            coguntur adtendant. ConuiuiumDomini est unitas corporis Christi non solum in
+            sacramentoaltaris, sed etiam in uinculo pacis. In eodem : §. 3. Theodosius* inperator
+            legem generaliter in omnes hereticospromulgauit, ut quisquis eorum episcopus uel
+            clericus ubilibet esset inuentus, decem libris auri mulctaretur. //m p :§. 4. Si duo
+            aliqui in una domo simul q habitarent, quamcertissime sciremus ruituram, nobisque id
+            prenuncianti-bus nollent credere, atque in ea manere persisterent, si eos inde possemus
+            eruere uel inuitos, quibus inminentemillam ruinam predemonstrauimus, ut ulterius redire
+            sub eius periculum non auderent, puto, nisi faceremus, non inmerito crudeles
+            iudicaremur. Porro, si illorum unus nobis diceret, quando intraueritis eruere nos, me
+            ipsum continuo trucidabo; alter autem nec exirequidem inde, nec erui uellet, sed neque
+            necare se auderet;quid eligeremus, utrum ambos ruinae obprimendos relinquere, an, uno
+            saltim per nostram operam liberato, alterum non nostra culpa, sed sua pocius interire?
+            Nemoest tam infelix, qui non quid fieri in talibus rebus oporteatfacillime iudicet. Item
+            post pauca: §.5. Quod si plurimiessent in domo ruitura, et inde saltim unus liberari
+            posset, atque, id cum facere conarer, alii semetipsos precipitionecarent, dolorem de
+            ceteris, uerum de unius saltimsalute consolaremur; non tamen, ne se ipsos alii
+            perderent, perire uniuersos nullo liberato permitteremus. Quid igiturde opere
+            misericordiae, quod pro uita eterna adipiscenda etpena eterna uitanda hominibus
+            deberemus inpendere, iudi-candum est, si pro salute ista non solum temporali, sedetiam
+            breui°y et ad tempus exiguum liberanda sic nossubuenire hominibus ratio uera et benigna
+            conpellit?itera : §. 6. Si (inquiunt Donatistae) oportet, ut nos extraecclesiam et
+            aduersus ecclesiam fuisse peniteat, ut salui essepossimus, quomodo post istam
+            penitenciam apud uos clericiuel etiam episcopi permanemus? Hoc non fieret, quoniam
+            reuera (quod fatendum est) fieri non deberet, nisipauci ipsa conpensatione sanarentur.
+            Sed sibi hocdicant, et multo maxime doleant humiliter, qui in tanta morteprecisionis
+            iacent, ut isto quodam uulnere matriscatholicae reuiuiscant. Cum enim precisus ramus
+            inseritur, fit aliud uulnus in arbore, quo possit recipi, ut uiuat, quisine uita radicis
+            peribat; sed cum receptus recipienti coaluerit, et uigor consequitur et fructus; si
+            autem noncoaluerit, ille quidem arescet, sed uita arboris permanebit. Est enim et tale
+            inserendi genus, ut nullo precisoramo, qui intus est, ille, qui foris est, inseratur;
+            non tamennullo, sed uel leuissimo uulnere arboris. Ita ergo etisti, cum ad radicem
+            catholicam ueniunt, nec eis, postquam uix ss erroris sui penitet honor clericatus
+            autepiscopatus aufertur, si quidem fit aliquid tamquam incortice arboris matris contra
+            integritatem seueritatis; uerum-tamen, quia neque qui plantat est aliquid, neque qui
+            rigat, ad Dei misericordiam precibus fusis, coalescente paceramorum suorum, karitas
+            cooperuit multitudinempeccatorum. Et paulo post: §. 7. Verum in huiusmodicausis, ubi per
+            graues dissensionum scissuras non huius autillius hominis est periculum, sed populorum
+            stragesiacent, detrahendum est aliquid seueritati, ut maioribusmalis sanandis sincera
+            karitas subueniat. Habeant ergode preterito detestabili errore, sicut Petrus habuit de
+            mendacii timore, amarum dolorem, et ueniant ad ecclesiamChristi ueram, id est catholicam
+            matrem: sint in illaclerici, sint episcopi utiliter, qui contra eam fuerunthostiliter.
+            Non inuidemus, imo amplectimur, hortamur, optamus, et quos in uiis aut sepibus pp
+            inuenimus, intrare cogimus, et sic nondum quibusdam persuademus, quia non res eorum, sed
+            ipsos querimus? </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e484">
+          <head xml:id="gd-p2c23q4-Hd1e486">C. XXV</head>
+          <head xml:id="gd-p2c23q4-Hd1e489" type="question-title"> Medicinali seueritate mali
+            coguntur ad bonum. </head>
+          <p xml:id="gd-p2c23q4-d1e492"> Idem Fausto , [epist. CLXVII.]Quid faciet ecclesiae
+            medicina, salutem omniummaterna karitate conquirens, tamquam inter freneticos et </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e495"> lethargicos estuans? Numquid contempnere, numquid desistere
+            uel debet, uel potest? Utrisque si necesse est sit molesta, que neutris est inimica. Nam
+            etfrenetici nolunt ligari, et lethargici nolunt excitari, sed per-seuerat diligentia
+            karitatis freneticum ligare s, lethargicumstimulare, ambos amare. Ambo offenduntur, sed
+            ambodiliguntur. Ambo molestari, quamdiu egri sunt, indignantur, sed ambo sanati
+            gratulantur. In eodem L §. i.Catholici esse non incipiunt, nisi heretici destiterint
+            esse.Neque enim sacramenta eorum inimica sunt nobis, quein k illis nobis communia sunt,
+            quia non humana sunt, sed diuina. Proprius error eorum est auferendus, quemmale
+            inierunt, non sacramenta, que similiter acceperunt, que ad penam suam portant et habent,
+            quanto indigniushabent, sed tamen habent. </p>
+          <p xml:id="gd-p2c23q4-d1e498"> IV. Pars. Gratian. Ecce, quod crimina sunt punienda, quando
+            salua pace ecclesiae feriri possunt; in quo tamen discretioadhibenda est. Aliquando enim
+            delinquentium multitudo diu perpatiendam ad penitenciam est expectanda: aliquando in
+            paucisest punienda, ut eorum exemplo ceteri terreantur, et ad penitenciam prouocentur.
+            Hinc , cum discipuli celesti igne Samaritanosuellent consumere, prohibiti sunt, e f
+            Samaritani ad penitenciamsunt expectati, ut Christo predicante conuerterentur ad fidem. </p>
+          <p xml:id="gd-p2c23q4-d1e502"> Unde Ambrosius ait [lib. VII. commentariorum ad c. 9. </p>
+          <p xml:id="gd-p2c23q4-d1e505"> Lucae u. 54.] : </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e509">
+          <head xml:id="gd-p2c23q4-Hd1e511">C. XXVI</head>
+          <head xml:id="gd-p2c23q4-Hd1e514" type="question-title"> Non semper est in eos, qui
+            peccant, uindicta exercenda.</head>
+          <p xml:id="gd-p2c23q4-d1e517"> Quod Christus discipulos increpauit, quia ignem descendere
+            super eos gestiebant, qui ipsum nonreceperant, ostenditur nobis, non semper in eos, qui
+            peccant, uindicandum, quia nonnumquam amplius prodestclementia, tibi ad pacientiam, quam
+            lapso ad correctionem. Denique Samaritani citius crediderunt, a quibushoc loco ignis
+            arcetur; nec discipuli peccant, qui legemsecuntur. Sciebant enim et Finees reputatum ad
+            iusticiam, quod sacrilegos interemerat, et ad preces Helyaeignem descendisse de celo *. </p>
+          <p xml:id="gd-p2c23q4-d1e520"> Gratian. Potest in hac prohibitione Apostolorum
+            aliud*^intelligi. Apostoli non zelo iusticiae, sed amaritudinis odio obiniuriam suae
+            expulsionis uindicandam Samaritanos igne noluerunt consumere; Dominus autem uolens eos
+            iniuriam propriaepersonae cum patienda et gaudio tollerare, iniuriam uero ser-uitutis
+            diuinae non inultam relinquere, a^: „ Nescitis, cuiusspiritus estisf Hinc etiam Petrus,
+            qui, cum aliis audierat:, , Beati * eritis, cum maledixerint uobis homines * et
+            dixerintomne malum aduersam uos; gaudete in illa die, et exultate, quoniam merces uestra
+            copiosa est in celis, contumelias sibiillatas cum gaudio suscipiebat; peccata uero, que
+            in Deum con-mittebantur, acerrime puniebat. Unde Ananiam et SaphiramSpiritui sancto
+            mentienteS mortis sentencia perculit. Sic etiamPaulus, dum a suo contemptu pia
+            ammonitione et multimoda con-mendatione sui Chorinthios reuocaret, magum illum Elymam ,
+            qui credituros a fide retrahebat, cecitate percussit, ut ceteri perterriti pr edicat
+            ionem eius non inpedirent, sed in Christum credentesanimae cecitatem effugerent. Et
+            Chorinthium illum fornica-torem, quia in Deum peccauerat, sathanae ad uexandum
+            tradidit.Hinc etiam Gregorius scribit Ianuario Episcopo, reprehendens eum, quod ob
+            iniuriam propriae personae quendam excom-municauerat, dicens [ 1 . II. Indict. 10.
+            epist. 34.J: </p>
+
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e524">
+          <head xml:id="gd-p2c23q4-Hd1e526">C. XXVII</head>
+          <head xml:id="gd-p2c23q4-Hd1e529" type="question-title"> Pro iniuria propria episcopo
+            aliquem excommunicare non licet.</head>
+          <p xml:id="gd-p2c23q4-d1e532"> Inter querelas multiplices Ysidorus uir clarissimus a
+            fraternitate tua frustra se excommunicatum anathematiza-tumque conquestus est. Quod quam
+            ob rem factum fuerit, dum a clerico tuo, qui presens erat, u oluissemus addiscere, pro
+            nulla alia causa, nisi pro eo, quod te iniuriauerat, factum innotuit. Que res nos
+            uehementer afflixit, quia, si ita est, nichil te cogitare de celestibus ostendis, sed
+            terrenam te habere conuersationem significas, dumpro uindicta propriae iniuriae (quod
+            sacris regulis prohibetur) maledictionem anathematis inuexisti. Unde de ceteroomnino
+            esto circumspectus atque sollicitus, et talia cuiquam pro defensione tuae iniuriae
+            inferre denuo nonpresumas. Nam si tale aliquid feceris, in te scias posteaesse
+            uindicandum. </p>
+          <p xml:id="gd-p2c23q4-d1e535"> Gratian. Hinc idem in omeliis, ostendens, quod peccata, que
+            in Deum uel m proximum conmittuntur, a nobis puniendasunt, ea uet'o, quibus in nos
+            delinquitur, patienter tolleranda*&amp;, uel potius dissimulanda sunt ait : </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e540">
+          <head xml:id="gd-p2c23q4-Hd1e542">C. XXVIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e545" type="question-title"> Valde offendit qui dominica
+            debita inpune dimittit.</head>
+          <p xml:id="gd-p2c23q4-d1e548"> Si is, qui prelatus est, debitori dominico culpas inpune
+            dimittit, non mediocriter profecto offendit, qui debitacelestis regis et Domini sua
+            presumptione resoluit. Ea namque, que in nobis conmittuntur, facile possumus dimittere;
+            ea uero, que in Deum conmissa sunt, cum magnadiscretione, nec tamen sine penitencia
+            possumusrelaxare. </p>
+          <p xml:id="gd-p2c23q4-d1e551"> V. Pars. Gratian. Semel uero culpa remissa* recidiuo dolore
+            iterum ad animum reuocari non debet. </p>
+          <p xml:id="gd-p2c23q4-d1e554"> Unde Gelasius Gerontio, Iohanni, Germano et Petro Episcopis
+            : </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e558">
+          <head xml:id="gd-p2c23q4-Hd1e560">C. XXIX</head>
+          <head xml:id="gd-p2c23q4-Hd1e563" type="question-title"> Iniuria, cui semel remittitur,
+            iterum reuocari non debet. </head>
+          <p xml:id="gd-p2c23q4-d1e566"> Si illic, ubi hec acta sunt, presentibus utrisque
+            constiterit, et satisfecisse Stephanum, et supplicatione suscepta eum, qui male
+            tractatus est, ignouisse, semel in abolitionemissa punitio recidiuo dolore non debet
+            iterari, diuinaescilicet imitatione clementiae, que dimissa peccata inulcionem redire
+            non patitur. Sin uero nichil uel de satisfactione probabitur, uel de remissione
+            transactum dilectionisuestrae sermone monstretur, quatinus, siue nunc saltimpoterit
+            conpetens satisfactio prouenire, illud pocius exerceatur, ubi animum sanare possit
+            afflicti, siue irremissibilis prestat acerbitas, ibidem nichilominus uindi-cetur, ubi
+            plectibilis est orta presumptio. </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e569"> VI. Pars. Gratian. Sed obicitur illud Ambrosii*: „Ad preces
+            Helyae ignis descendit de celo, ut Prophetae uindicareturiniuria .“ Quod tunc
+            intelligitur factum, quando Achab rexIsrael post sterilitatem illam trium annorum et sex
+            mensium, quefacta est, quando precibus Helyae celum clausum est annis tribuset mensibus
+            sex, misit duos quinquagenarios ad Helyam, quidicerent e«: „Homo Dei, rex Israel uocat
+            te, qui ait: Si homoDei sum, descendat ignis de celo, et consumat uos, et statim ignisde
+            celo descendit, et consumpsit eos. Quo facto non cuius meritiapud Deum esset uoluit
+            ostendere, sed quod ille esset uerus Deus, quem colebat, non ille, ad cuius culturam
+            stupro corporis propriilezabel nonnullos prouocabat, euidentissimis indiciis
+            monstrarecurauit. Iniuria ergo Prophetae non alia, quam iniuria ipsiusDomini
+            intelligitur, que in paucis uindicanda est, ut ceteriterreantur. </p>
+          <p xml:id="gd-p2c23q4-d1e572"> Item obicitur illud Siluerii^a. [ad Amatorem Episcopum]: </p>
+          <p xml:id="gd-p2c23q4-d1e576"> C. XXX. 505 b </p>
+          <p xml:id="gd-p2c23q4-d1e579"> Guilisarius * patricius noster mandauit me ad se uenire
+            pacifice pro quibusdam ecclesiasticis dispositionibus in pala-cium principis, et ad
+            primum et ad secundum uelumretinuit omnem clerum et populum, qui mecum ueniebat, et
+            nullum permisit introire, nisi me solum, et Vigilium diaconem nostrum. Me uero ui
+            retento, et ante predictampatriciam** deducto, miserunt in exilium, in quomodo sustentor
+            pane tribulationis et aqua angustiae. Egotamen non dimisi, nec dimitto propterea
+            offitium meum, sedcum episcopis, quos congregare potui, eos, qui talia ergame egerunt,
+            anathematizaui, et una cum illis apostolicaauctoritate statui, nullum umquam taliter
+            decipiendum, sicut deceptus sum, et, si aliquis deinceps ullum umquamepiscoporum taliter
+            deceperit, anathema maranatha fieretin conspectu Dei et sanctorum angelorum. Idem
+            Vigilio :§. i. Habeto itaque cum his, qui tibi consentiunt, plenae dampnationis
+            sentenciam, sublatumque tibi nomen et munusministerii sacerdotalis agnosce, sancti
+            Spiritus iudicio etapostolica a nobis auctoritate dampnatus. </p>
+          <p xml:id="gd-p2c23q4-d1e582"> Gratian. Sed et hic non suam, sed ecclesiae iniuriam ultus
+            est. Quod autem peccatum populi in paucis puniendum sit, Moyses exemplo s docuit, qui
+            peccatum ydolatriae- inpaucos cultores uituli uindicauit, morte paucorum expians
+            peccatamultorum, in presens terrens, in posterum disciplinam sanctiens.Sic et ipse
+            Christus peccata totius populi morte paucorumpuniuit, dum pro fornicatione totius populi
+            una die XXIII .milia perierunt. Sic ei pro peccato murmurationis ueltemptationis
+            nonnulli puniti sunt, ut eorum exemplo ceteri adpenitenciam cogerentur. Sic et cottidie
+            nonnullos punit Deus, utdiuinaprouidentia etiamsi circa humana uigilare cognoscatur, et
+            nonnullos etiam per longa tempora ad penitenciam expectat, utpatiendam suae benignitatis
+            nobis ostendat. Sic Helyas etiamculturam Baal uindicauit, sacerdotes et prophetas eius
+            interficiendo, morte auctorum expians peccata^ imitantium populorum. §. i. Quod uero
+            peccata, que publicis indiciis deseruntur, punienda nonsint, illo exemplo probatur, quo
+            Christus , qui ludam solus furem nouerat, non abiecisse, sed patienter tollerasse
+            asseritur. </p>
+
+          <p xml:id="gd-p2c23q4-d1e585"> Unde Ambrosius super primam epistolam ad Chorinthios [cap.
+            5.] a#; </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e589">
+          <head xml:id="gd-p2c23q4-Hd1e591">C. XXXI</head>
+          <head xml:id="gd-p2c23q4-Hd1e594" type="question-title"> Iudicis non est sine accusatore
+            dampnare.</head>
+          <p xml:id="gd-p2c23q4-d1e597"> Si quis potestatem non habet quem scit reum abicere, l 532
+            a probare non ualet, inmunis est, et iudicis non estsine accusatore dampnare, sicut
+            Christus non abiecitIudam*. </p>
+          <p xml:id="gd-p2c23q4-d1e600"> Gratian. Similiter non est ferenda sentencia, quando
+            multitudo est in causa, uel quando ille peccat, qui sociam habet multitudinem. </p>
+          <p xml:id="gd-p2c23q4-d1e603"> Unde Augustinus in lib. II. [c. 2.] contra Parmenianum :
+          </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e607">
+          <head xml:id="gd-p2c23q4-Hd1e609">C. XXXII</head>
+          <head xml:id="gd-p2c23q4-Hd1e612" type="question-title"> Quod a multitudine peccatur, uel
+            ab eo, qui</head>
+          <p xml:id="gd-p2c23q4-d1e615"> multitudinem habet sociam, ab ecclesia non punitur, sed
+            defletur. </p>
+          <p xml:id="gd-p2c23q4-d1e618"> Non. potest esse salubris a multis correctio, nisi cum ille
+            corripitur, qui non habet sociam multitudinem.Cum uero idem morbus plurimos occupauerit,
+            nichil aliudrestat bonis, quam dolor et gemitus, ut per illud signum, quod Ezechieli
+            sancto «reuelatur, illesi euadere ab illorum uastatione mereantur. Et infra^: §. 1.
+            Reueracum contagio peccandi multitudinem inuaserit, diuinaedisciplinae seuera
+            misericordia necessaria est. Nam consilia separationis et inania sunt, et perniciosa
+            atque sacrilega, quia inpia et superba sunt, et plus perturbant infirmosbonos, quam
+            corrigant animosos malos. Et fn/ra: §. 2.Turba autem iniquorum, cum facultas est in
+            populispromendi sermonem, generali obiurgatione ferienda est, etmaxime, si occasionem
+            atque oportunitatem prebuerit aliquod flagellum desuper Domini, quo eos appareat pro
+            suismeritis uapulare. </p>
+          <p xml:id="gd-p2c23q4-d1e621"> Gratian. Precepta uero euangelica de dilectione inimicorum,
+            et misericordia inpendenda proximis, exhortationes quoque Apostoli de cibandis uel
+            potandis inimicis, non eatenus intelligenda sunt, ut peccandi relaxetur inpunitas, sed
+            ut delinquenti correctio et naturae ministretur subsidium, donec persentenciam iudicis,
+            adempta spe correctionis, malorum tollaturexercitium. In hoc ergo iubemur diligere
+            inimicos, et miserieorum, ut de eorum perditione doleamus, eorum salutem desideremus, et
+            pro illorum correctione cottidie laboremus et oremus, penitentibus solacia inpendamus,
+            alter alterius onera portantes; ut non pertinaces et in malo persistentes inpunitate
+            donemus. Sicut enim erga penitentes non seueri, sed misericordesesse monemur, iuxta
+            illud : „Noli esse* nimis iustus, quiaest iustus qui perit in iusticia sua, et iterum:
+            Iudicium sinemisericordia ei, qui non fecit misericordiam ; et item illudApostoli in
+            secunda epistola ad Chorinthios : „ Cui aliquiddonastis, et ego. Nam et ego si quid
+            donaui, propter uos donaui, ac si ipse Christus donaret, ut non circumueniamur a
+            sathana, Non enim ignoramus cogitationes eius, qui quos nequit consentiendo decipere
+            facit nimis asperos, sicut, inquam, penitentibus, utdictum est, misericordes esse
+            iubemur , sic inpenitentibus etobstinatis in malo inpendere prohibemur misericordiam. </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e625"> Unde Ambrosius in libro de offitiis ^; </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e629">
+          <head xml:id="gd-p2c23q4-Hd1e631">C. XXXIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e634" type="question-title"> De iusta et iniusta
+            misericordia.</head>
+          <p xml:id="gd-p2c23q4-d1e637"> Est iniusta misericordia. Denique in lege scriptum est de
+            quodam: „Non misereberis illius, “ et in librisRegum legitur, quia Saul contraxit
+            offensam, quia miseratus est Agag hostium regem, quem prohibuerat diuina sentencia
+            seruari. Ita, si quis latronemfiliis deprecantibus motus, et lacrimis coniugis eius
+            inflexusabsoluendum putat, cui adhuc latrocinandi aspiret affectus, nonne innocentes
+            tradet&amp; exitio qui liberat multorumexitia cogitantem? Certe si gladium reprimit,
+            uincula dis-soluit, laxat'exilium ^ cur latrocinandi qua potestclementiori uia non
+            eripit facultatem, qui uoluntatem extorquere non potuit? Deinde inter duos, hoc est
+            accusatoremet reum, pari periculo de capite decertantes, alterum, sinon probasset,
+            alterum, si esset ab accusatore conuictus, Si non id, quod iusticiae est, iudex
+            exequatur: sedmiseretur alterius, aut dampnabit probantem, aut, dumaccusatori fauet,
+            quod° probare non possit, addicet? innoxium; non potest igitur hec dici iusta
+            misericordia. In ipsa ecclesia, ubi maxime quis misereri debetq, teneri quam maxime
+            debet forma iusticiae, ne quis aconsortio criminationis abstractus*, breui
+            lacrimulaatque ad tempus parata, uel etiam uberioribus fletibus communionem, quam
+            plurimis debet postulare temporibus afacilitate sacerdotis extorqueat. Nonne cum uni
+            in-dulget indigno, ad prolapsionis contagium prouocat uni-uersos? Facilitas enim ueniae
+            incentiuum tribuit delinquendi. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e641">
+          <head xml:id="gd-p2c23q4-Hd1e643">C. XXXIV</head>
+          <head xml:id="gd-p2c23q4-Hd1e646" type="question-title"> Non debemus in mala causa pauperi
+            misereri.</head>
+          <p xml:id="gd-p2c23q4-d1e649"> Item Augustinus in libro Psalmorum, [Psal. 32.]* </p>
+          <p xml:id="gd-p2c23q4-d1e652"> Ne amisso iudicio sis pauperi in mala causa misericors,
+            cuius si parcis saccello, percuti^ cor, et tanto nequioremreddis, quanto iustum fauere
+            uidet sibi. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e657">
+          <head xml:id="gd-p2c23q4-Hd1e659">C. XXXV</head>
+          <head xml:id="gd-p2c23q4-Hd1e662" type="question-title"> Homini est miserendum, peccatori
+            est irascendum. </head>
+          <p xml:id="gd-p2c23q4-d1e665"> Idem™*. </p>
+
+          <p xml:id="gd-p2c23q4-d1e668"> Duo ista nomina cum dicimus, homo peccator, non utique
+            frustra dicuntur. Quia peccator est, corripe: et quia homo, miserere, nec omnino
+            liberabis hominem, nisieum persecutus fueris peccatorem. Huic offitio omnisinuigilat
+            disciplina, sicut cuique regenti apta et accommodata est, non solum episcopo regenti
+            plebem suam, sed etiam pauperi regenti domum suam, diuiti regenti familiam suam, marito
+            regenti coniugem suam, patri regentiprolem suam, iudici regenti prouinciam suam, regi
+            regentigentem suam. Et paulo post: §. i. Ita nulli homini claudendaest misericordia,
+            nulli peccato inpunitas relaxanda s. Hinc itaque intelligendum est, quam non sit
+            contem-pnenda elemosina, que quibusque pauperibus iure humanitatis inpenditur,
+            quandoquidem Dominus subleuabatindigentiam pauperum etiam his loculis, quos exopibus
+            inplebat aliorum. Et paulo post: §. 2. Non ergosuscipiamus peccatores, propter quod sunt
+            peccatores, sed tamen eos ipsos, quia et homines sunt, humana consideratione tractemus;
+            persequamur in eis propriam iniquitatem, misereamur communem naturam, </p>
+          <p xml:id="gd-p2c23q4-d1e671"> Gratian. Item illud euangelii, quod obiciebatur : „Qui
+            gladio usus fuerit gladio cadet , “ Augustinus exponit in lib. 2, contra Manicheos,
+            [cap. 70.] ita dicens : </p>
+          <p xml:id="gd-p2c23q4-d1e675"> C. XXXVI. Qwe dicatur gladium accipere. </p>
+          <p xml:id="gd-p2c23q4-d1e678"> Ille gladium accipit, qui, nulla superiori ac legitima
+            potestate uel iubente, uel concedente, in sanguinem alicuius armatur. </p>
+          <p xml:id="gd-p2c23q4-d1e681"> VII. Pars. Gratian. Porro illud Jeronimi^, quo ecclesia
+            negatur aliquem persequi, non ita intelligendum est, ut generaliterecclesia nullum
+            persequatur, sed quod nullum iniuste persequatur.Non enim omnis persecutio culpabilis
+            est, sed rationabiliterhereticos persequimur, sicut et Christus corporaliter
+            persecutusest eos, quos de templo expulit. </p>
+          <p xml:id="gd-p2c23q4-d1e684"> Unde Augustinus ait Vincentio Donatistae : </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e688">
+          <head xml:id="gd-p2c23q4-Hd1e690">C. XXXVII</head>
+          <head xml:id="gd-p2c23q4-Hd1e693" type="question-title"> Potestatis offitio utiliter
+            inquieti corriguntur.</head>
+          <p xml:id="gd-p2c23q4-d1e696"> Nimium sunt inquieti*, quos per ordinatas a Deo
+            potestates** cohiberi atque corrigi michi non uideturinutile. Nam de multorum iam
+            correctione gaudemus. Etpost pauca : §. 1. Si enim quisquam inimicum suum periculosis
+            febribus freneticum factum currere in precepsuideret, nonne tunc pocius malum pro malo
+            redderet, si siceum ire permitteret, quam si corrigendum curandum-que ligaret s? Et
+            tamen ei tunc molestissimus et aduer-sissimus uideretur, quando utilissimus et
+            misericordissimusextitisset. Sed plane salute reparata tanto uberius eigratias ageret,
+            quanto minus sibi* pepercisse sensisset. Et post pauca : §. 2. At quibusdam ista non
+            prosunt.Numquid ideo negligenda est medicina, quia nonnullorumest insanabilis
+            pestilentia? Item post aliqua : §. 3. Nonomnis, qui parcit, amicus est, nec omnis, qui
+            uerberat, inimicus. Meliora sunt uulnera amici, quam oscula </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e699"> inimici. Melius est cum seueritate diligere, quam cum
+            lenitate decipere. Utilius esurienti panis tollitur, si de cibosecurus iusticiam
+            negligebat, quam esurienti panis frangitur, ut iniusticiae seductus adquiescat. Item
+            post pauca :§. 4. Putas, neminem debere cogi ad-iusticiam, cum legaspatremfamilias
+            dixisse seruis: „Quoscumque inueneri-tis cogite intrare;“ cum legas etiam ipsum primo
+            Saulum, postea Paulum, ad ueritatem cognoscendam et tenendammagna uiolentia Christi
+            cogentis conpulsum esse. Item postpauca: §.5. Et noueritis furem aliquando
+            auertendispecoribus pabulum spargere, et aliquando pastorem flagello errantia pecora
+            reuocare. itera : §. 6. Si semperesset culpabile persecutionem facere, non scriptum
+            esset inlibris sanctis: , , Detrahentem proximo suo occulte, huncpersequebar.^ Aliquando
+            ergo et qui eam patitur iniustusest, et qui eam facit iustus est. Sed plane sepe et
+            malipersecuti sunt bonos, et boniP malos; illi nocendo permiusticiam, illiq consulendo
+            per disciplinam; illi inmaniter, illi 648 r temperanter; illi seruientes cupiditati,
+            illikaritati. Nam qui trucidat non considerat quemadmodum secet. Ille enim persequitur
+            sanitatem, ille putredinem. Occiderunt inpii Prophetas: occideruntinpios et Prophetae.
+            Flagellauerunt Iudei Christum: Iudeosflagellauit et Christus; traditi sunt Apostoli ab
+            hominibushumanae potestati: tradiderunt Apostoli homines potestati sathanae. In his
+            omnibus quid adtenditur, nisi eorumquis pro ueritate, quis pro iniquitate, quis nocendi
+            causa, quis emendandi? Et paulo post: §. 7. Constantinus in-perator constituit, ut res
+            conuictorum et unitati per-uicaciter resistentium fisco uendicarentur. Et post pauca: §.
+            8. Certe nullius crimen maculat nescientem. iteraY: 9. Facta nocentium, que innocentibus
+            demonstrari uel abinnocentibus credi non possunt, non inquinant quemquam, sed propter
+            innocentium consortium etiam cognitasustinentur. Non enim propter malos boni sunt
+            deserendi, sed propter bonos mali sunt tollerandi, sicuttolerauerunt Prophetae, contra
+            quos tanta dicebant, nec communionem sacramentorum illius populi relinquebant. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e703">
+          <head xml:id="gd-p2c23q4-Hd1e705">C. XXXVIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e708" type="question-title"> Heretici ad salutem etiam inuiii
+            sunt trahendi. </head>
+
+          <p xml:id="gd-p2c23q4-d1e711"> Item Donato Presbitero , [epist. CCIV.]Displicet tibi, quod
+            traheris ad salutem Dei, cum tamen multos nostros traxeris ad perniciem?Quid enim
+            uolumus, nisi te conprehendi, et presentari, et seruari, ne pereas? Quod autem in
+            corpore lesus es, ipse tibi fecisti, qui iumento tibi mox admoto uti noluisti, ette ad
+            terram grauiter collisisti. Nam utique alius, qui adductus est tecum, collega tuus
+            illesus uenit, quia ipsesibi talia non fecit. Sed neque putas hoc tibi fieri debuisse,
+            quia neminem existimas cogendum ad bonum. Ad-tende quid dixerit Apostolus: „Qui
+            episcopatum desideratbonum opus desiderat. Et tamen tam multi ut episcopatum suscipiant
+            tenentur inuiti, producuntur, includuntur &amp;, patiuntur tanta que nolunt, donec eis
+            adsituoluntas suscipiendi operis boni. Quanto magis uos aberrore pernicioso, in quo
+            uobis inimici estis, trahendi estis etperducendi ad ueritatem uel cognoscendam, uel
+            eligendam, non solum ut honorem salubriter habeatis, sed etiamne nequissime pereatis? §.
+            1. Dicis, Dominum dedissearbitrium liberum, ideo non debere hominem cogi adbonum. Quare
+            ergo illi, de quibus supra diximus, coguntur ad bonum? Adtende ergo* et consideraquod
+            non ideo p uoluntas bona misericorditer inpen-ditur, ut mala uoluntas hominis diligatur
+            q. Nam quisnesciat, nec dampnari hominem, nisi merito malae uolun-tatis, nec liberari,
+            nisi bonam habuerit uoluntatem? Nontamen ideo qui diliguntur malae suae uoluntati inpune
+            etcrudeliter permittendi sunt, sed, ubi potestas datur, et amalo prohibendi, et ad bonum
+            cogendi. Nam, si uoluntasmala semper suae permittenda est libertati, quare
+            Israelitaerecusantes et murmurantes tam duris flagellis a malo prohibebantur, et ad
+            terram repromissionis* conpellebantur?Si uoluntas mala suae permittenda est libertati,
+            quarePaulus non est permissus uti pessima uoluntate, qua persequebatur ecclesiam, sed
+            prostratus est, ut cecaretur, et cecatus est, ut mutaretur, et mutatus est, ut
+            mitteretur, missus est, ut qualia fecerat in errore, talia pro ueritate pateretur? Si
+            uoluntas mala semper suaepermittenda est libertati, quare monetur pater in
+            scripturissanctis filium durum non solum uerbis corripere, sedetiam latera eius tundere,
+            ut ad bonam disciplinam coactusac domitus dirigatur? Unde idem Salomon dicit:„ Tu
+            percutis eum uirga, animam autem eius liberas amorte.“ Si mala uoluntas semper suae
+            permittenda estlibertati, quare corripiuntur negligentes pastores, et dicitureis:
+            „Errantemy non reuocastis, perditum nonrequisistis?“ Et uos oues Christi estis;
+            characteremdominicum portatis in sacramento, quod accepistis; sederratis et peritis. Non
+            ideo uobis displiceamus, quia reuo-camus errantes, et querimus errantes perditos.
+            Meliusenim facimus uoluntatem Domini monentis, ut uos adeius ouile redire cogamus, quam
+            consentiamus uoluntatierrantium, ut perire uos permittamus. §. 2. Noli ergo iamdicere,
+            quod te assidue audio dixisse: Sic uolo errare, sic uolo perire. Melius hoc omnino non
+            permittimus, quantum possumus. Modo, quod te in puteum, quomorereris, misisti, utique
+            libera uoluntate fecisti. Sedquam crudeles essent serui Dei, si huic malae uoluntati
+            tuaete permitterent, et non te de illa morte liberarent? Quis eos </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e714"> non merito culparet? Quis non inpios recte iudicaret? Et
+            tamen tu te uolens in aquam misisti, ut morereris; illi tenolentem leuauerunt de aqua,
+            ne morereris. Tu fecistisecundum uoluntatem tuam, sed in perniciem tuam; illicontra
+            uoluntatem tuam, sed contra mortem ss tuam. Siergo salus ista corporalis sic custodienda
+            est, ut etiam innolentibus ab eis, qui eos diligunt, seruetur: quanto magisilla
+            spiritualis, in cuius desertione mors eterna metuitur?Quamquam et in ista morte, quam tu
+            ipse tibi uoluistiinferre, non solum ad tempus, sed etiam in eternum morereris, quia,
+            etsi non ad salutem, non ad ecclesiae pacem, non ad Christi corporis unitatem, non ad
+            sanctam et indiui-duam karitatem, sed ad mala aliqua cogereris, nec sic tibiipse inferre
+            mortem debuisti. Considera scripturas diuinas, et discute quantum potes, et uide, utrum
+            hoc fecerit aliquisaliquando iustorum atque fidelium, cum ab eis mala tantaperpessi
+            sunt, qui eos ad interitum, non ad uitam*, quo conpelleris, adigebant. Et post pauca :
+            §. 3.Repetis, sicut audio, quod in euangelio scriptum est, recessisse a Domino LXX.
+            discipulos, et arbitrio suae malaeatque inpiae discessionis fuisse permissos; ceterisque
+            duodecim, qui remanserant, fuisse responsum: „Numquid etuos uultis abire ?** Et non
+            adtendis quia tunc primumecclesia nouello germine pullulabat, nondurnque con-pleta
+            fuerat illa prophetia: „Et adorabunt eum omnesreges terrae, omnes gentes seruient ei?“
+            Quod utiquequanto magis inpletur, tanto maiore ecclesia utitur potestate, ut non solum
+            non inuitet, sed etiam cogat ad bonum.Hoc pp Dominus significare uolebat, qui, quamuis
+            magnamhaberet potestatem, prius tamen elegit conmendare humilitatem. Hoc et in illa
+            conuiuii similitudine satis euidenterostendit, ubi misit ad inuitatos, et noluerunt
+            uenire, et aitseruo: , , Exi citoqq in plateas** et uicos ciuitatis, etpauperes ac
+            debiles, cecos et claudos introduc huc. Etait Domino seruus: Factum est, ut inperasti,
+            et adhuc locusest. Et ait Dominus seruo: Exi in uias et sepes, et conpelleintrare, ut
+            inpleatur domus mea.** Vide nunc, quemadmodum de his, qui primi uenerant, dictum est:
+            introduceos; nunc dictum est: conpelle. Ita significata sunt ecclesiae primordia adhuc
+            crescentis, ut essent uires etiamconpellendL </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e718">
+          <head xml:id="gd-p2c23q4-Hd1e720">C. XXXIX</head>
+          <head xml:id="gd-p2c23q4-Hd1e723" type="question-title"> Heretici utiliter patiuntur que
+            utiliter catholici inferunt.</head>
+          <p xml:id="gd-p2c23q4-d1e726"> Idem super Iohannem , [tractatu XI. ad c. 3.] </p>
+          <p xml:id="gd-p2c23q4-d1e729"> Quando uult Deus concitare potestates aduersus hereticos,
+            aduersus scismaticos, aduersus dissipatores ecclesiae, aduersus exsufflatores Christi,
+            aduersus blasphematoresChristi baptismi non mirentur. Quia Deus uocitat, ut a Sara
+            uerberetur Agar, cognoscat se Agar, ponat </p>
+
+          <p xml:id="gd-p2c23q4-d1e732"> ceruicem; que, cum humiliata discederet a domina sua,
+            occurrit ei angelus, et dixit: „Quid tibi est Agar, ancilla Sarae?** Cum conquesta esset
+            de domina, quidaudiuit ab angelo: , , Reuertere ad dominam tuam/* Adhoc ergo affligitur,
+            ut reuertatur, atque utinam reuer-tatur, quia proles eius, sicut Iacob^, cum fratribus
+            hereditatem tenebit. Mirantur autem, quia conmouentur potestates Christianae contra
+            dissipatores detestandosecclesiae. Si non mouerentur, quomodo redderent rationem de
+            inperio suo Deo? Intendat karitasuestra quid dicam, quia hoc pertinet ad reges seculi
+            Christianos, ut temporibus suis pacatam uellent suammatrem ecclesiam, unde spiritualiter
+            nati sunt. Et paulopost : §. 1. Nabuchodonosor rex decreuit, dicens: „Quicumque dixerint
+            blasphemiam in deum Sydrac, Mysae, etAbdenago, in interitu erunt, et domus eorum in
+            dispersione. Ecce quomodo rex alienigena seuit, ne blasphemetur Deus Israel, qui potuit
+            tres pueros de igneliberare. Et nolunt, ut seuiant reges Christiani, quiaChristus
+            exsufflatur, a quo non tres pueri, sed orbisterrarum cum ipsis regibus a gehennarum igne
+            liberatur? Et infra : §. 2. Quomodo ergo reges isti non moueantur, qui non tres pueros
+            attendunt liberatos de flamma, sedse ipsos deP flamma gehennaeq, quando uidentChristum,
+            a quo liberati sunt, exsufflari in Christianis?quando audiunt dici Christiano: Dic te
+            non esse Christianum? Talia facere uolunt, sed saltim talia pati nolunt. Nam uidete,
+            qualia faciunt, et qualia patiuntur;occidunt animas, affliguntur in corpore; sempiternas
+            mortesfaciunt, et temporales se perpeti conqueruntur. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e736">
+          <head xml:id="gd-p2c23q4-Hd1e738">C. XL</head>
+          <head xml:id="gd-p2c23q4-Hd1e741" type="question-title"> Ecclesia ratione hereticos
+            persequitur.</head>
+          <p xml:id="gd-p2c23q4-d1e744"> Idem contra Petilianum , [lib. II. c. 79.] </p>
+          <p xml:id="gd-p2c23q4-d1e747"> Qui peccat, non peccat legis auctoritate, sed contra legis
+            auctoritatem. Quia uero interrogas, que sit ratio persequendi, uicissim te interrogo,
+            cuius sit uox in Psalmodicentis: „Detrahentem secreto proximo suo, huncpersequebar/*
+            Quere itaque causam, et modumpersecutionis, et noli tanta impericia malorum
+            generaliterpersecutores reprehendere, [c. 82.] : Non enimpersequimur uos, nisi
+            quemadmodum ueritas persequitur falsitatem. Item [c. io.J^: §. 2. Petilianus dixit,
+            siApostoli persecuti sunt aliquem, aut aliquem tradidit Christus? Augustinus respondit:
+            Possem quidem dicere, ipsumsathanam omnibus malis hominibus esse peiorem, cui
+            tamentradidit Apostolus hominem in interitum carnis, ut spiritussit saluus in die Domini
+            Iesu, item alios, de quibusdicit: „Quos tradidi sathanae, ut discant non blasphemare/*
+            Et Dominus flagellatos expujit de temploinprobos mercatores, ubi etiam connexum est
+            testimonium </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e750"> scripturae dicentis: „ Zelus domus tuae comedit me.“ Ecce,
+            inuenimus Apostolum traditorem, Christum persecutorem. [c. 19.]: §. 3. Quare per
+            uiolentissimas turbasetiam ultro inprobi estis ecclesiis catholicis, ubi potueritis
+            aduertere quod innumerabilibus exemplis res ipsaindicat? Sed dicitis, uos loca uestra
+            defendere, et resistitisfustibus et cedibus, quibuscumque potueritis. Quarenon audistis
+            ibi uocem Domini dicentis: „Ego autem uo-bis dico, non resistere malo?“ Aut, si fieri
+            potest, ut aliquando recte per uim corporalem resistatur uiolenti, necideo preceptum
+            uioletur, quod audiuimus a Domino: „Egoautem dico uobis, non resistere malo:“ cur non
+            etiamhoc fieri potest, ut per ordinatas et legitimas potestatesde sedibus* que illicite
+            usurpantur uel ad iniuriam Dei retinentur, pius expellat inpium, et iustus iniustum?
+            Nequeenim eo modo persecutionem passi sunt pseudoprophetaeab Helyd., quomodo ipse Helyas
+            a rege nequissimo, aut, quia flagellatus est Dominus a persecutoribus p, passionibus
+            eius conparandi sunt quos ipse de templo flagellatos eiecit. §. 4. Restat ergo, ut
+            nichil aliud requirendum esse fateamini, nisi utrum iuste, an inpie*! feceritis, non
+            miremini, si non desunt ministri Deo, per quosflagellemini, quia persecutionem patimini
+            non a nobis, sed, sicut scriptum est, ab ipsis factis uestris. Et infra :§. 5. De
+            persecutione uestra querela sedabitur, si cogitetisprius et intelligatis, non omnem
+            persecutionem esse culpabilem. Alioquin non laudabiliter diceretur: „Detrahentemsecreto
+            proximo suo, hunc persequebar.“ Nam cottidieuidemus et filium de patre tamquam de
+            persecutore suoconqueri, et coniugem de marito, et seruum de domino, etcolonum de
+            possessore, et reum de iudice, et militem uelprouincialem de duce uel rege, cum illi
+            plerumque ordinatissima potestate homines sibi subditos per terrores leui-848 s penarum
+            a grauioribus malis prohibeant atqueconpescant, plerumque autem a bona uita, et a bonis
+            factisminando et seuiendo deterreant* Sed cum a malo etillicito prohibent, correctores
+            et consultores sunt;cum autem a bono et licito, persecutores et obpressoressunt.
+            Culpantur etiam qui prohibent a malo, si modumpeccati modus correctionis excedat. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e754">
+          <head xml:id="gd-p2c23q4-Hd1e756">C. XLI</head>
+          <head xml:id="gd-p2c23q4-Hd1e759" type="question-title"> A regibus terrae contra inimicos
+            suos ecclesia auxilium petat.</head>
+          <p xml:id="gd-p2c23q4-d1e762"> Idem in epist. [XLVIII.] ad Vincentium . </p>
+
+          <p xml:id="gd-p2c23q4-d1e765"> Non inuenitur exemplum in euangelicis et apostolicis
+            litteris, aliquid petitum a regibus terrae pro ecclesiacontra inimicos ecclesiae. Quis
+            negat non inueniri? Sednondum inplebatur illa prophetia: „Et nunc reges in-telligite,
+            erudimini, qui iudicatis terram.“ Adhuc eniminplebatur illud, quod in eodem psalmo paulo
+            superius legitur: „ Quare fremuerunt gentes, et populi meditati suntinania? Astiterunt
+            reges terrae, et principes conuenerunt inunum.“ Verumtamen si facta preterita in
+            propheticislibris figurae fuerunt futurorum, in rege illo, qui appellabatur
+            Nabuchodonosor, utrumque tempus prefiguratumest, et quod sub Apostolis habuit, et quod
+            nunc habetecclesia. Temporibus itaque Apostolorum et martirumillud inplebatur, quod
+            figuratum est, quando rex memoratuspios et iustos cogebat adorare symulacrum, et
+            recusantes inignem mittebat. Nunc s illud inpletur, quod paulopost in eodem rege
+            figuratum est, cum conuersus ad honorandum Deum uerum decreuit in regno suo, ut,
+            quicumqueblasphemaret Deum Sydrach, Mysach et Abdenago, penisdebitis subiaceret. Prius
+            ergo tempus illius regis significabatpriora tempora regum infidelium, quos patiuntur
+            Christiani pro inpiis. Posterius uero tempus illius registempora regum fidelium, quos
+            patiuntur inpii proChristianis. Sed plane in eis, qui sub nomine Christi erantseducti a
+            peruersis, ne forte oues Christi sint errantes, ad gregem aliter reuocandae sint,
+            temperata seueri-tas, et magis mansuetudo seruatur, ut cohercione exiliorum atque
+            dampnorum ammoneantur considerare, quidet quare patiantur, et discant preponere
+            rumoribus et calum-pniis hominum scripturas, quas legunt. Quis enim' nostrum, quis
+            uestrum non laudat leges ab inperatoribus datasaduersus sacrificia paganorum? Et certe
+            longe ibi penaseuerior constituta est. Illius quippe inpietatis capitalesupplicium
+            constitutum p est. De uobis autem corripiendisatque cohercendis habita ratio est, qua
+            pocius ammo-neremini ab errore discedere, quam pro scelere puniremini. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e770">
+          <head xml:id="gd-p2c23q4-Hd1e772">C. XLII</head>
+          <head xml:id="gd-p2c23q4-Hd1e775" type="question-title"> Malos ecclesia iuste
+            persequitur.</head>
+          <p xml:id="gd-p2c23q4-d1e778"> Idem eiusdem ad Bonifatium Comitem, [ep. L.] </p>
+          <p xml:id="gd-p2c23q4-d1e781"> Si ecclesia uera ipsa est, que persecutionem patitur, non
+            que fecit, querant ab Apostolo, quam ecclesiam significabat Sara, quando persecutionem
+            faciebat ancillae. Liberam quippe matrem uestram, celestemIerusalem, id est ueram Dei
+            ecclesiam, in illa mulieredicit figuratam, que affligebat ancillam. Si autem
+            meliusdiscutiamus, magis illa persequebatur Saram superbiendo, quam Sara cohercendo.
+            Illa enim faciebat dominaeiniuriam, ista inponebat superbae disciplinam. Deindequero, si
+            boni et sancti uiri nemini faciunt persecutionem, sed tantummodo patiuntur, cuius putant
+            in Psalmo uocemesse, ubi legitur: , , Persequar inimicos meos, et conpre-hendam illos,
+            et non conuertar, donec deficiant?“ Ergo siuerum dicere uel agnoscere uolumus, est
+            persecutio iniusta, quam faciunt inpii ecclesiae Christis*. Ista namque beata est, que
+            persecutionem patitur propter iusticiam; illiuero miseri, qui persecutionem patiuntur
+            propter iniusti-ciam. Proinde ista persequitur diligendo, illa seuiendo: </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e784"> ista ut corrigat, illa* ut euertat: ista ut reuocet ab
+            errore, illa ut precipitet in errorem. §. i. Qdautem dicunt qui contra suas inpietates
+            leges iustas institui nolunt, non petisse a regibus terrae Apostolos talia, non
+            considerant, aliud tempus tunc fuisse, et omnia suisconuenire temporibus. Quis enim tunc
+            in Christumcrediderat inperator, quis p ei pro pietate contra inpie-tatem leges ferendo
+            seruiret. Tunc enim q illud adhuc propheticum conplebatur: „ Quare fremuerunt gentes, et
+            populi meditati sunt inania? Astiterunt reges terrae, et principes conuenerunt in unum
+            aduersus Dominum, etaduersus Christum eius.“ Nondum enim agebatur quodpaulo post in
+            eodem psalmo dicitur: „Et nunc regesmtelligite, erudimini, qui iudicatis terram. Seruite
+            Dominoin timore, et exultate ei cum tremore.“ Quomodo ergo regesDomino seruiunt in
+            timore, nisi ea, que contra Domini iussafiunt, religiosa seueritate prohibendo atque
+            plectendo?Aliter enim seruit, quia homo est, aliter etiam quia rexest. Quia homo est,
+            seruit uiuendo fideliter; quiarex est, seruat leges iusta precipientes et
+            contrariaprohibentes conuenienti uigore sanctiendo. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e788">
+          <head xml:id="gd-p2c23q4-Hd1e790">C. XLIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e793" type="question-title"> Exemplo Christi mali sunt ad
+            bonum cogendi.</head>
+          <p xml:id="gd-p2c23q4-d1e796"> Idem [in eadem epistola]. </p>
+          <p xml:id="gd-p2c23q4-d1e799"> Quis potest nos amplius amare, quam Christus, qui animam
+            suam posuit pro ouibus suis? Et, cum Petrum et alios apostolos uocasset uerbo solo,
+            Paulum, ecclesiaesuae postea magnum edificatorem, sed horrendum anteauastatorem, non
+            solum uoce conpescuit, uerum etiam potestate prostrauit, atque infidelitatis tenebris
+            seuientem, ad desiderandum lumen cordis, ut surgeret, prius cecitatecorporis percussit.
+            Si pena illa non esset, non ab ea postmodum sanaretur, et quando apertis oculis nichil
+            uidebat, si eos saluos haberet, non ad inpositionem manus Ananiae, ut eorum aperiretur
+            intuitus , tamquam squamas, quibusclausus fuerat, inde cecidisse scriptura narraret. Ubi
+            estquod isti clamare consueuerunt, liberum est credere uel noncredere? cui uim Christus
+            intulit? quem coegit? Eccehabent Paulum apostolum; agnoscant in eo prius
+            cogentemChristum, et postea docentem, prius ferientem, et posteaconsolantem. Mirum est
+            autem, quomodo ille, qui penacorporis ad euangelium coactus intrauit, plus illis
+            omnibus, qui solo uerbo uocati sunt, in euangelio laborauit, etquem maior timor conpulit
+            ad karitatem, eius perfecta kari-tas foras mittit timorem. Cur ergo non cogeret
+            ecclesiaperditos filios, ut redirent*? </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e803">
+          <head xml:id="gd-p2c23q4-Hd1e805">C. XLIV</head>
+          <head xml:id="gd-p2c23q4-Hd1e808" type="question-title"> Non crudelitate, sed dilectione
+            Moyses populum flagellauit.</head>
+          <p xml:id="gd-p2c23q4-d1e811"> Idem contra Faustum, [lib. XXII.] c. 79.] </p>
+
+          <p xml:id="gd-p2c23q4-d1e814"> Quid crudele Moyses mandauit aut fecit, cum conmissum sibi
+            populum sancte zelans, uiuo et uniuero Deo subditum cupiens, posteaquam cognouit ad
+            fabricandum et colendum ydolum defluxisse, mentemque in-pudicam prostituisse demonibus,
+            in paucos eorum uindicansgladio, quos Deus ipse, quem offenderant, alto et
+            secretoiudicio feriendos uoluisset mox feriri, et in presenti salubriter terruit, et
+            disciplinam in posterum sanxit? Nam eumnulla crudelitate, sed magna dilectione fecisse
+            quod fecit, quis non in uerbis eius agnoscat, orantis pro peccatiseorum, et dicentis: ,
+            , Si dimittis illis peccatum, dimitte:sin autem, dele me de libro tuo.“ §. i. Sic plane
+            etApostolus non crudeliter, sed amabiliter tradidit hominem sathanae in interitum
+            carnis, ut spiritus saluussit in die Domini Iesu; tradidit et alios, ut discerent
+            nonblasphemare. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e818">
+          <head xml:id="gd-p2c23q4-Hd1e820">C. XLV</head>
+          <head xml:id="gd-p2c23q4-Hd1e823" type="question-title"> Non inputatur fidelibus, qui ex
+            offitio aut tormenta exercent, aut capitalem sentenciam ferunt. </head>
+          <p xml:id="gd-p2c23q4-d1e826"> Item Innocentius [epist. III. ad Exsuperium, Episcopum
+            Tolosanum, c. 3.jQuesitum est etiam super his, qui post baptismumamministrauerunt, et
+            aut tormenta sola exercuerunt, aut etiam capitalem protulere sentenciam. Nichil de
+            hislegimus a maioribus diffinitum. Meminerant enim a Deopotestates has fuisse concessas,
+            et propter uindictamnoxiorum gladium fuisse permissum, et Dei ministerio*esse datum in
+            huiusmodi uindices. Quomodo igiturreprehenderent factum, quod auctoreDomino uiderentesse
+            concessum? De his ergo, ut hactenus seruatum est, sic habeamus, ne aut disciplinam
+            auertere, aut contraauctoritatem Domini uenire audeamus. Ipsis autem inratione reddenda
+            gesta sua omnia seruabuntur. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e830">
+          <head xml:id="gd-p2c23q4-Hd1e832">C. XLVI</head>
+          <head xml:id="gd-p2c23q4-Hd1e835" type="question-title"> Inmunis est dictator a culpa, cum
+            legum auctoritas in inprobos exercetur.</head>
+          <p xml:id="gd-p2c23q4-d1e838"> Idem ad Tolosanum episcopum . </p>
+          <p xml:id="gd-p2c23q4-d1e841"> Illud etiam sciscitari uoluisti, an preces dictantibus
+            liberum concedatur utique post baptismi regenerationem a principibus poscere mortem
+            alicuius uel sanguinem de reatu.Quam rem principes numquam sine cognitione concedunt,
+            sed ad iudices conmissa ipsa uel crimina semper remittunt, ut causa cognita
+            uindicentur*; que cum quesitorifuerint delegata, aut absolutio aut dampnatio pro
+            negotiiqualitate profertur. Et dum legum auctoritas in inprobos exercetur, erit dictator
+            inmunis. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e845">
+          <head xml:id="gd-p2c23q4-Hd1e847">C. XLVII</head>
+          <head xml:id="gd-p2c23q4-Hd1e850" type="question-title"> In correptione malorum Deus
+            omnipotens placatur. </head>
+          <p xml:id="gd-p2c23q4-d1e853"> Item Gregorius Brunichildae, Reginae Francorum, [lib. VII.
+            Indict. 1. epist. 5.]Si quos igitur uiolentos, si quos adulteros, si quos </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e856"> fures, uel aliis prauis actibus studere cognoscitis, Deum
+            Deorum* correctione placare festinate, ut per uos**flagellum perfidarum gentium, quod
+            (quantum uidemus) admultarum nationum uindictam excitatum est, non inducat;ne, si, quod
+            non credimus, diuinae ulcionis iracundia sceleratorum fuerit actione conmota, belli
+            pestis interimat quosdelinquentes ad rectitudinis uiam Dei precepta non re-uocant. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e861">
+          <head xml:id="gd-p2c23q4-Hd1e863">C. XLVIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e866" type="question-title"> Ecclesiasticae religionis inimici
+            etiam bellis sunt cohercendi. </head>
+          <p xml:id="gd-p2c23q4-d1e869"> Idem Gena dio, Patricio et Exarcho Affricae , </p>
+          <p xml:id="gd-p2c23q4-d1e872"> [lib. I. epist. 72.] </p>
+          <p xml:id="gd-p2c23q4-d1e875"> Sicut excellentiam uestram hostilibus bellis in hac uita
+            Dominus uictoriarum fecit luce fulgere, ita oportetetiam inimicis ecclesiae eius omni
+            uiuacitate mentis etcorporis obuiare, quatinus eius ex utroque triumpho magisac magis
+            enitescat opinio, cum et forensibus bellis ad-uersariis catholicae ecclesiae pro
+            Christiano populo uehementer obsistitis, et ecclesiastica prelia sicut bellatoresDomini
+            fortiter dimicatis. Notum est enim hereticae religionis uiros, si eis, quod absit,
+            suppetit nocendi licentia, contra catholicam fidem uehementer insurgere,
+            quatinushereseos suae uenena ad tabefacienda, si ualuerint, Christiani corporis membra
+            transfundant. Cognouimus enimeos contra catholicam ecclesiam, Domino eis aduersante,
+            colla subrigere, et fidem Christiani nominis inclinareuelle; sed eminentia uestra
+            conatus eorum conprimat, etsuperbas eorum ceruices iugo rectitudinis premat. Concilium
+            uero catholicorum episcoporum ammoneri precipite, •ut primatem non ex ordine loci
+            postpositis uitae meritisfaciat, quoniam apud Deum non gradus elegantior, sed
+            uitaemelioris actio conprobatur. Ipse uero primas non passim(sicut moris est) per
+            uillas, sed in una ciuitate eorum iuxtaelectionem resideat, quatinus adeptae dignitatis
+            melioriingenio resistendi Donatistis possibilitas disponatur. Exconcilio uero Numidiae
+            si qui desiderant ad apostolicamsedem uenire, permittite, et, si quilibet eorum uiae
+            contradicere putauerint, obuiate. Magis profecto excellentia uestra apud Creatorem
+            gloria proficit, si per eamdispersarum ecclesiarum potuerit societas restaurari. Cumenim
+            largita munera ad nominis sui conspicit gloriam reuo-cari, tanto largiora tribuit,
+            quanto per ea religionis suaedignitatem uiderit ampliari. Persoluentes preterea paternae
+            karitatis affectum, Dominum petimus, quo brachium uestrum ad conprimendos hostes forte
+            efficiat, etmentem eius fidei zelo uelut mucrone gladii uibran-tis exacuat. </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e879">
+          <head xml:id="gd-p2c23q4-Hd1e881">C. XLIX</head>
+          <head xml:id="gd-p2c23q4-Hd1e884" type="question-title"> Merito fidei bellorum prestatur
+            uictoria. </head>
+          <p xml:id="gd-p2c23q4-d1e887"> Idem ad eundem , [lib. I. epist. 73.]Si non ex fidei merito
+            et Christianae religionis gratia </p>
+
+          <p xml:id="gd-p2c23q4-d1e890"> tanta excellentiae uestrae bellicorum actuum prosperitas
+            eueniret, non miranda fuerant, cum sciamus, hecetiam antiquis bellorum ducibus fuisse
+            concessa. Sed cumfuturas, Deo largiente, uictorias non carnali prouidentia, sedmagis
+            orationibus preuenitis, fit, ut hoc in stuporem ueniat, quod gloria uestra non terreno
+            consilio, sea Deo desuperlargiente descendat. Ubi enim meritorum uestrorumloquax non
+            discurrit opinio? que bella uos frequenterappetere non desiderio fundendi sanguinis, sed
+            dilatandae causa reipublicae in qua Deum coli conspicimus, loqui-tur 1016, quatinus
+            Christi nomen per subditas gentes fideipredicatione circumquaque discurreret. Sicut
+            enimexteriora uos uirtutum opera eminentes in hac uita constituunt, ita et interna morum
+            ornamenta ex corde mundoprocedentia in futuram* uitam celestium gaudiorum participatione
+            glorificant. Plurima enim pro pascendis ouibusB. Petri apostolorum principis
+            utilitatibus excellentiamuestram prestitisse didicimus, ita, ut non parua loca
+            patrimonii eius propriis nudata cultoribus, largitis Dacorum**habitatoribus,
+            restaurasset^. Quecumque igitur 1025 h illi 1026 Christianissima mente confertis,
+            horumretributionejn per spem in futuro iudicio sustinetis. </p>
+          <p xml:id="gd-p2c23q4-d1e893"> VIII. Pars. Gratian. Breuiter monstratum est , quod boni
+            laudabiliter persecantur malos , et mali dampnabiliter perse - cuntur bonos. Illud autem
+            Apostoli : „Tu autem quis es , quiiudicas seruum alienum ?“ de occultis alieni cordis
+            intelligendumest. Quod uindicta inferri possit , monstratum est. Nunc restatostendere ,
+            quod debet inferri , et quod magis diliguntur illi , quipuniuntur , quam qui inpuniti
+            relinquuntur; quod utrumque multorum auctoritate probatur. </p>
+          <p xml:id="gd-p2c23q4-d1e897"> Ait enim Augustinus . </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e901">
+          <head xml:id="gd-p2c23q4-Hd1e903">C. L</head>
+          <head xml:id="gd-p2c23q4-Hd1e906" type="question-title"> Ad iram Deus prouocatur , cum
+            peccata puniri differuntur. </head>
+          <p xml:id="gd-p2c23q4-d1e909"> Si ea* de quibus uehementer Deus offenditur, insequi uel
+            ulcisci differimus, ad irascendum utique diuinitatis patiendam prouocamus. „ Nonne Achan
+            filius Zarepreteriit mandatum Domini, et super omnem populum Israelira eius incubuit? Et
+            ille erat unus homo, atque utinam solusperisset in scelere suo.“ </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e913">
+          <head xml:id="gd-p2c23q4-Hd1e915">C. LI</head>
+          <head xml:id="gd-p2c23q4-Hd1e918" type="question-title"> Vindicta , que ad correctionem
+            ualet , non est prohibenda. </head>
+          <p xml:id="gd-p2c23q4-d1e921"> Item Augustinus de sermone Domini in monte , lib. I. </p>
+          <p xml:id="gd-p2c23q4-d1e924"> [c. 37. et 38.] </p>
+          <p xml:id="gd-p2c23q4-d1e927"> Ea uindicta*, non prohibetur, que ualet ad correctionem,
+            que etiam ad misericordiam pertinet, nec inpedit illudpropositum, quo quisque paratus
+            est ab eo, quem correctum esse uult, plura perferre. Sed huic uindictaeinferendae non
+            est idoneus, nisi qui odium, quo flagrare solent qui se uindicare desiderant,
+            dilectionis </p>
+
+
+
+
+          <p xml:id="gd-p2c23q4-d1e931"> mansuetudine» superauerit. Non enim metuendum est, ne
+            odisse paruulum filium parentes uideantur, cum abeis uapulat peccans, ne peccet
+            ulterius. Et certe perfectiodilectionis ipsius Dei patris imitanda nobis proponitur, cum
+            in sequentibus dicitur: „Diligite inimicos uestros, benefacite his, qui oderunt uos, et
+            orate pro his, qui uospersecuntur.“ Et tamen dicitur de ipso per Prophetam:„Quem enim
+            diligit Dominus corripit, flagellat autemomnem filium, quem recipit/* Et e dicit etiam
+            Dominus 1050 - „Seruus**, qui nescit uoluntatem Domini sui, et facit non digna plagis,
+            uapulabit paucis; seruusautem, qui scit uoluntatem Domini sui, et non s facitdigna
+            plagis, uapulabit multis.** § Non ergo, nisiut ipse uindicet, cui rerum ordine potestas
+            data est, et uoluntate uindicet, qua pater*** filium paruulum fla* gellat, quem tamen
+            per etatem non potestodisse. Hinc enim apertissimum exemplum dicitur, quo satis apparet,
+            posse peccatum amore pociusuindicari, quam inpunitum relinqui, ut illum, quem P
+            uindicat, non pena miserum, sed correctione beatum esseiuelit; paratus tamen sit, si
+            opus fuerit, equo animoplura tollerare ab eo illicita, quem uult *esse' correptum, siue
+            in eum habeat potestatem cohercendi, siue non habeat. §. i. Magni autem et sancti uiri,
+            quiiam optime scirent mortem istam, que animam dissoluita corpore, formidandam non esse,
+            secundum eorum tamenanimum, qui illam timerent, nonnulla peccata morte punierunt, quo et
+            uiuentibus utilis metus incuteretur, et illis, qui morte puniebantur, non ipsa mors
+            noceret, sed peccatum, quod augeri posset, si uiuerent, diminueretur. Nontemere illi
+            iudicabant, quibus tale iudicium Deus dona-uerat. Inde est, quod Helyas morte multos
+            affecitpropria manu, et igne diuinitus inpetrato, quod et aliimulti y magni et diuini
+            uiri eodem spiritu consulendo rebus humanis non temere fecerunt. De quoHelya cum
+            dedissent exemplum discipuli , conmemo-rantes quid ab eo factum sit, ut etiam ipsis
+            daret potestatempetendi de celo ignem ad consumendum eos, qui sibihospicium non
+            prebuerant, reprehendit in eis Dominusnon exemplum prophetae sancti, sed ignorantiam
+            uindi-candi, que adhuc erat in rudibus, animaduertens eos nonamare correctionem, sed
+            odio desiderare uindictam.Itaque posteaquam eos docuit, quid esset diligereproximum
+            tamquam se ipsum, infuso etiam Spiritu sancto, quem decem diebus conpletis post
+            ascensionem suam desuper, ut promiserat, misit, non defuerunt tales uindictae, quamuis
+            multo rarius quam in ueteri testamento. Ibienim ex maiori parte seruientes timore
+            premebantur; hicautem maxime dilectione liberi nutriebantur. Nam et </p>
+
+          <p xml:id="gd-p2c23q4-d1e934"> uerbis apostoli Petri Ananias, et uxor eius (sicut in
+            Actibus Apostolorum legimus) exanimes ceciderunt, nec resusci-tati sunt, sed sepulti.•
+          </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e938">
+          <head xml:id="gd-p2c23q4-Hd1e940">C. LII</head>
+          <head xml:id="gd-p2c23q4-Hd1e943" type="question-title"> Que ueritati contraria sunt
+            Christianus persequi debet. </head>
+          <p xml:id="gd-p2c23q4-d1e946"> Item Augustinus contra Cresconium Grammaticum , lib. /. </p>
+          <p xml:id="gd-p2c23q4-d1e949"> Quisquis Christianus* iniquum persequitur, Christi est
+            inimicus. Verum dicis, si non** hoc in illopersequitur, quod Christo est inimicum. Neque
+            enim dominus in seruo, pater in filio, maritus in coniuge, cum sintutrique Christiani,
+            non debent persequi uicia Christianaecontraria ueritati. An uero, si non persequantur,
+            non reinegligentiae merito tenebuntur? </p>
+        </div>
+        <div xml:id="gd-p2c23q4-Dd1e953">
+          <head xml:id="gd-p2c23q4-Hd1e955">C. LIII</head>
+          <head xml:id="gd-p2c23q4-Hd1e958" type="question-title"> Quemadmodum homo debet diligere
+            proximum sicut se ipsum.</head>
+          <p xml:id="gd-p2c23q4-d1e961"> Item Augustinus ad Macedonium , [ep. LII.] </p>
+          <p xml:id="gd-p2c23q4-d1e964"> Debet homo diligere proximum tamquam se ipsum, ut quem
+            potuerit hominem beneficentiae consolatione, uel informatione doctrinae, uel disciplinae
+            coher-cione, adducat ad colendum. </p>
+          <p xml:id="gd-p2c23q4-d1e967"> [PALEA. </p>
+          <p xml:id="gd-p2c23q4-d1e971"> C. LIV. De eodem. </p>
+          <p xml:id="gd-p2c23q4-d1e974"> Item Augustinus ad Donatum Presbiterum, ep. CCIV. </p>
+          <p xml:id="gd-p2c23q4-d1e977"> Mali * sunt prohibendi a malo, et cogendi ad bonum.] </p>
+          <p xml:id="gd-p2c23q4-d1e980"> Gratian. Ex his omnibus colligitur , quod uindicta est
+            inferenda non amore ipsius uindictae , sed zelo iusticiae; non ut odium exerceatur , sed
+            w/ prauitas corrigatur. Sed cumuindicta aliquando inferatur dampnis rerum , aliquando
+            flagellis , aliquando etiam morte: queritur , an sit peccatum iudici uel ministro reos
+            morti tradere? </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

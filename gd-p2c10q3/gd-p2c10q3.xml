@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c10q3">
+        <head xml:id="gd-p2c10q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c10q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c10q3-d1e109"> I. Pars. Quid uero nomine cathedrotici episcopus exigere
+          debeat , in secundo Concilio Bracarensi[c, 2.] legitur: </p>
+        <div xml:id="gd-p2c10q3-Dd1e112">
+          <head xml:id="gd-p2c10q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c10q3-Hd1e117" type="question-title"> Preter honorem cathedratici
+            nichil per dioceses exigat episcopus.</head>
+          <p xml:id="gd-p2c10q3-d1e120"> Placuit, ut nullus episcoporum, per suas dioceses ambulans,
+            preter honorem cathedrae suae, id est duos solidos, aliud aliquid per ecclesias tollat,
+            neque tertiam partem exquacumque oblatione populi in ecclesiis parrochialibus factasibi
+            usurpet; sed ecclesiae reparationi seruetur, etsingulis annis episcopo ratio fiat. Nam
+            si tertiam partemillam episcopus tollit, lumen et sacra tecta ecclesiaeabstulit.
+            Similiter etiam s parrochiales clerici seruili morein aliquibus operibus episcopo
+            seruire non cogantur, quia scriptum est: „Neque ut dominantes in clero.“ </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e124">
+          <head xml:id="gd-p2c10q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c10q3-Hd1e129" type="question-title"> Basilicarum reparationi proficiat
+            tertia pars , quam accipere consueuerat episcopus. </head>
+          <p xml:id="gd-p2c10q3-d1e132"> Item ex Concilio apud Marech *. </p>
+          <p xml:id="gd-p2c10q3-d1e135"> Priscis quidem canonibus erat decretum, ut episcopus </p>
+
+
+
+
+          <p xml:id="gd-p2c10q3-d1e138"> de parrochianis ecclesiis tertiam sequeretur, cui sua
+            plenissime sufficere possunt**. Placuit huic sancto concilio, ut nullus prouinciae
+            Lusitaniae episcopus a qualibet parrochiana ecclesia tertiam auferre presumat, sedque
+            exinde*** consequi potuerat reparationi s basilicarum proficiant. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e143">
+          <head xml:id="gd-p2c10q3-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c10q3-Hd1e148" type="question-title"> Non accipiant episcopi tertiam ,
+            nisi dirutas^ ecclesias reparare noluerint. </head>
+          <p xml:id="gd-p2c10q3-d1e151"> Item ex Concilio Tolletano [XVI., c. 5.]* </p>
+          <p xml:id="gd-p2c10q3-d1e154"> Unio nostrae congregationis decernit atque instituit, ut
+            tertias, quas antiqui canones de parrochiis suis habereepiscopos censuerunt, si eas
+            exigendas crediderint, abipsis episcopis dirutae ecclesiae reparentur. Si uero
+            easmaluerint cedere, ab earundem ecclesiarum cultoribussub cura et sollicitudine sui
+            pontificis reparatio eisdem estadhibenda basilicis. Quod si omnes ecclesiae aut
+            incolumesfuerint, aut que dirutae erant reparatae extiterint, secundumantiquorum canonum
+            instituta, si tertias sibi debitas unusquisque episcopus assequi uoluerit, facultas illi
+            omnimodaerit, ita uidelicet, ut citra ipsas tertias nullus episcoporumquippiam pro
+            regiis inquisitionibus a parrochianis ecclesiis exigat, nichilque de prediis ipsarum
+            ecclesiarumcuiquam causa stipendii dare presumat. §. i. Sed et hocnecessarium instituere
+            duximus, ut plures ecclesiaeuni nequaquam conmittantur presbitero, quia solus per
+            totasecclesias nec offitium ualet persoluere^, nec rebus earumnecessariam curam
+            inpendere, ea scilicet ratione precipimus, ut ecclesia, que usque ad decem habuerit
+            mancipia, super se habeat sacerdotem, que uero minus aliisconiungatur ecclesiis. Si quis
+            sane episcoporum hancnostram institutionem paruipenderit, duorum mensiumspatio se
+            nouerit excommunicatione mulctari**. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e158">
+          <head xml:id="gd-p2c10q3-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c10q3-Hd1e163" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c10q3-d1e166"> Item Pelagius Cresconio Illustri . </p>
+          <p xml:id="gd-p2c10q3-d1e169"> Illud te modis omnibus uolumus custodire, ne
+            quisepiscoporum Siciliae de parrochiis ad se pertinentibus nomine cathedratici amplius
+            quam duos solidos presumataccipere, neque conpellere presbiteros aut clerum parrochiarum
+            suarum supra uires suas eis conuiuia preparare. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e173">
+          <head xml:id="gd-p2c10q3-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c10q3-Hd1e178" type="question-title"> Baptizandis numerus non
+            inponatur, nec cathedraticum ultra morem uetustum exigatur . </head>
+          <p xml:id="gd-p2c10q3-d1e181"> Item Gelasius Papa Fabiano Episcopo . </p>
+
+          <p xml:id="gd-p2c10q3-d1e184"> Nec numerus baptizandis iuste creditur inponendus, cum
+            quanti petierint uel ad regenerationem festinauerint nonsint pro alterius uoluntate
+            repellendi. Et ideo, frater, huiusmodi superfluam constitutionem modis omnibus
+            re-mouebis, ut unusquisque aut in uicina sibi ecclesia, aut inelecta pro suae mentis
+            baptizetur arbitrio. Cathedraticumetiam non amplius, quam uetusti moris esse
+            constiterit, ab eius loci presbitero noueris exigendum, et de his, quedie dedicationis
+            fuerint offerentium deuotione collata, consuetudinem, que generaliter omnibus ecclesiis
+            est pre-scripta, seruabis. </p>
+          <p xml:id="gd-p2c10q3-d1e187"> II. Pars. Gratian. Cathedraticum, quod his auctoritatibus
+            episcopis permittitur exigere, preter medietatem uel tertiampartem oblationum, que™ pro
+            uaria ecclesiarum consuetudine expremissis auctoritatibus episcopo debetur,
+            intelligendum est, necilla pars oblationum omnium generaliter intelligenda est, sed uel
+            anniuersariae dedicationis, uel quorumdam etiam solempniumdierum, prout inter episcopum
+            et sacerdotem tempore dedicationisconuenerit. De his uero episcopis, qui per parrochias
+            suascrudeliter deseuiunt, sic statutum est in tertio Concilio Tolletano, [c. 20.]: </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e191">
+          <head xml:id="gd-p2c10q3-Hd1e193">C. VI</head>
+          <head xml:id="gd-p2c10q3-Hd1e196" type="question-title"> Ultra morem antiquum a
+            parrochianis presbiteris nichil episcopi exigant.</head>
+          <p xml:id="gd-p2c10q3-d1e199"> Quia cognouimus episcopos per parrochias suas non
+            sacerdotaliter, sed crudeliter deseuire, et dum scriptumsit: „Forma estote gregi, non ut
+            dominantes inclerum“ qui exactiones diocesi suae uel dampna infligunt^ ideo censemus,
+            (excepto, quod ueterum constitutiones a parrochiis habere iubent episcopos), ut
+            aliaillis, que hucusque presumpta sunt, denegentur, hoc est, neque in angariis
+            presbiteri aut diacones, neque aliquibus fatigentur indictionibus, ne uideamur in
+            ecclesiaDei exactores potius quam Dei pontifices nominari. Hiiuero clerici, tam locales
+            quam diocesiani, qui se ab epiScopograuari cognouerint, querelas suas ad
+            metropolitanumnon differant deferre, et metropolitanus non moretur eius-modi
+            presumptiones auertere. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e203">
+          <head xml:id="gd-p2c10q3-Hd1e205">C. VII</head>
+          <head xml:id="gd-p2c10q3-Hd1e208" type="question-title"> A parrochianis stipendia non nisi
+            cum Tcaritate episcopi exigant.</head>
+          <p xml:id="gd-p2c10q3-d1e211"> Item ex Concilio Cabillonensi [II. c. 14.] </p>
+          <p xml:id="gd-p2c10q3-d1e214"> Cauendum sane est, ne, cum episcopi per parrochias suas
+            peragrant, quandam non solum erga subditos </p>
+
+
+
+
+          <p xml:id="gd-p2c10q3-d1e217"> sed erga socios tyrannidem exerceant, ne (quod absit) cum
+            karitate, sed cum quadam e iactantiae temeritate, nec cum gratiarum actione, sed cum
+            quadam iudiciaria in-uentione stipendia ab eis exigant. Ob seruandum modisomnibus est s,
+            ut, si quando eis peragrandae parrochiaenecessitas incumbit, in confirmandis hominibus,
+            in inquirendis rebus emendatione dignis, in predicatione uerbi Dei, in lucris animarum
+            potius quam in depredandis et spoliandishominibus et scandalizandis fratribus operam
+            dent. Etsi quando eis ad peragendum ministerium suum a subditisaut a fratribus aliquid
+            accipiendum est, hoc summopereobseruare debent, ne quem scandalizent aut grauent.
+            Tantaergo discretio in hac re tenenda est, ut uerbi Dei Predicator, ubi proprii sumptus
+            desunt, a fratribus accipiat, et idem fratres illius potentia non grauentur,
+            exemploapostoli Pauli, qui, ne quem grauaret, arte et manibusuictum querebat. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e221">
+          <head xml:id="gd-p2c10q3-Hd1e223">C. VIII</head>
+          <head xml:id="gd-p2c10q3-Hd1e226" type="question-title"> Ultra duos solidos a parrochianis
+            ecclesiis episcopus non presumat accipere. </head>
+          <p xml:id="gd-p2c10q3-d1e229"> Item ex Concilio Tollet ano VIII. [c. 4»]Inter cetera
+            denique, que communi consensu nos conferre conpetenter oportuit, querimonias etiam
+            parrochialiumpresbiterorum Gallitiae* prouinciae sollertissime discernere decuit, quas
+            contra pontificum suorum rapacitatesnecessitas, ut conperimus, tandem conpulit in
+            publicumexamen deferri. Hii enim pontifices, ut euidens inquisitio patefecit, indiscreto
+            moderamine parrochitanas ecclesias pregrauantes, dum in exactionibus
+            superfluisfrequenter existunt, pene usque ad exinanitionem extremae uirtutis quasdam
+            basilicas perduxisse probantur.Ne ergo fiat de cetero quod constat hactenus
+            inordinatepresumptum, non amplius quam duos solidos unusquisqueepiscoporum prefatae
+            prouinciae per singulas diocesesuel basilicas iuxta sinodum Bracarensem annua illatione
+            sibi expetet inferri, monasteriorum tamen basilicisab hac solutionis expensione s
+            seiunctis. §. i. Cumuero episcopus diocesim uisitat, nulli pre multitudineonerosus
+            existat, nec umquam quinquagenarium** numerumeuectionis excedat, aut amplius quam una
+            die per unamquamque basilicam remorandi licentiam habeat. §. 2.Quicumque uero pontificum
+            eorundem aliter quam decreui-mus agendum presumpserit, correctioni procul dubiocanonum
+            subiacebit tamquam constitutionum sinoda-lium transgressor et priscorum Patrum edictorum
+            corruptor. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e234">
+          <head xml:id="gd-p2c10q3-Hd1e236">C. IX</head>
+          <head xml:id="gd-p2c10q3-Hd1e239" type="question-title"> Sacerdotes ab episcopis suis
+            ultra modum non grauentur. </head>
+          <p xml:id="gd-p2c10q3-d1e242"> Item Gregorius Episcopis Siciliae , [lib. XI. ep.
+            20.]Relatum est nobis, sanctae memoriae decessoris mei </p>
+
+          <p xml:id="gd-p2c10q3-d1e245"> temporibus per Seruum dei diaconem, qui tunc ecclesiastici
+            patrimonii curam gessit, fuisse dispositum, ut sacerdotes per uniuersas uestras dioceses
+            constituti, quociens ad consignandos infantes egredimini, ultra modum grauariminime
+            debuissent. Summa enim prefixa fuerat, uobis, ut audio, consentientibus, que ab eis
+            sacerdotibus prolabore clericorum dari debuisset. Atque hoc, quod tuncplacuit, sicut
+            nunc dicitur, minime custoditur. Unde fraternitatem uestram admoneo, ut subiectis
+            uestris graues nonstudeatis existere. </p>
+        </div>
+        <div xml:id="gd-p2c10q3-Dd1e249">
+          <head xml:id="gd-p2c10q3-Hd1e251">C. X</head>
+          <head xml:id="gd-p2c10q3-Hd1e254" type="question-title"> Secundum loci mediocritatem
+            episcopis conuiuia parentur.</head>
+          <p xml:id="gd-p2c10q3-d1e257"> Item Pelagius Papa Cresconio Illustri </p>
+          <p xml:id="gd-p2c10q3-d1e260"> Illud magnitudinem tuam minime uolumus ignorare, quod
+            Siracusanae ciuitatis episcopus inter alia, que in cautionum suarum pagina spopondit,
+            hoc etiam specialiter subinterpositione penae legitime promisisse legitur, numquamse a
+            quolibet diocesis suae presbitero ultra duos solidoscathedratici nomine petiturum, nec
+            per quamlibet aliamoccasionem quicquam in eius dispendio se esse gesturum.Quod magnitudo
+            tua non solum a predicto episcopo, sed deomnium episcoporum Siciliae personis conpetenti
+            sollicitudine custodire non desinat, nec ipsa quoque prandia enormiafieri, sed secundum
+            mediocritatem loci uniuscuiusque episcopo ad consignationem uenienti susceptionis
+            parareconuiuium, quia nec eo pretextu pauperibus incuti dampnauolumus aut qualibet
+            ratione permittimus. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

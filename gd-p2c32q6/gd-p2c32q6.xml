@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO VI. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO VI. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c32q6">
+        <head xml:id="gd-p2c32q6-Hd1e103"> QUESTIO VI. </head>
+        <p xml:id="gd-p2c32q6-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c32q6-d1e109"> Ecce, quod ista dimitti non ualet, cum innocens a
+          fornicatione inueniatur. Sed ponatur, quod ipsa sit adultera, queritur, si adulter possit
+          dimittere eam causa fornicationis ? Non enimuidetur, quod pari crimine infectus alium de
+          eodem punire possit.Unde, cum Iudei adulteram accusarent equitatis sentenciam aDomino
+          acceperunt: „ Quicumque uestrum sine peccato est primus in illam lapidem mittat. “ Hinc
+          etiam in euangelio precipi-tur: , , Ypocrita, primum eice trabem de oculo tuo, et
+          posteaeduces festucam de oculo fratris tui. </p>
+        <p xml:id="gd-p2c32q6-d1e112"> Hinc etiam Augustinus scribit in lib. I. de sermone Domini in
+          monte, [c. 28.] : </p>
+        <div xml:id="gd-p2c32q6-Dd1e115">
+          <head xml:id="gd-p2c32q6-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c32q6-Hd1e120" type="question-title"> Qui fornicatur fornicationis
+            causa uxorem suam dimittere non potest.</head>
+          <p xml:id="gd-p2c32q6-d1e123"> Nichil iniquius est quam causa fornicationis dimittere
+            uxorem, si et ipse conuincitur fornicari. Occurrit enimillud: , , In quo alterum iudicas
+            te ipsum condempnas, eadem enim agis, que iudicas.“ ‘Quapropter quisquisfornicationis
+            causa uult abicere uxorem, prior debet afornicatione esse purgatus. Quod similiter etiam
+            de feminadixerim. </p>
+        </div>
+        <div xml:id="gd-p2c32q6-Dd1e128">
+          <head xml:id="gd-p2c32q6-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c32q6-Hd1e133" type="question-title"> Qualem quisque uult inuenire
+            uxorem, talem se seruet eidem.</head>
+          <p xml:id="gd-p2c32q6-d1e136"> Idem de uerbis Domini, tractatu [siue serm.] XLVI . </p>
+          <p xml:id="gd-p2c32q6-d1e139"> Si ducturi estis uxores, seruate uos uxoribus uestris.
+            Quales uultis eas inuenire*, tales et ipsae uos inueniant.Quis iuuenis est, qui non
+            castam uelit ducere uxorem? etsi accepturus est uirginem, quis non intactam
+            desideret?Intactam queris? intactus esto; queris puram? purus esto.Non enim illa potest,
+            et tu non potes. </p>
+        </div>
+        <div xml:id="gd-p2c32q6-Dd1e143">
+          <head xml:id="gd-p2c32q6-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c32q6-Hd1e148" type="question-title"> Iudicium de alio expetere non
+            debet qui dese iudicari contempnit . </head>
+          <p xml:id="gd-p2c32q6-d1e151"> Idem in epistola ad Pax entium, Comitem Arrianum, [epist.
+            CLXXIV.pOa </p>
+          <p xml:id="gd-p2c32q6-d1e154"> Iniquum est, ut quisque de alio iudicare uelit, et iudicari
+            de se nolit. </p>
+        </div>
+        <div xml:id="gd-p2c32q6-Dd1e158">
+          <head xml:id="gd-p2c32q6-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c32q6-Hd1e163" type="question-title"> Viri grauius sunt puniendi quam
+            mulieres de adulterio.</head>
+          <p xml:id="gd-p2c32q6-d1e166"> Idem de adulterinis coniugiis, [lib. II. c. 8.] </p>
+          <p xml:id="gd-p2c32q6-d1e169"> Indignantur mariti, si audiant adulteros uiros pendere
+            similes adulteris feminis penas, cum tanto grauius eospuniri oportuerit, quanto magis ad
+            eos pertinet et uirtuteuincere, et exemplo regere feminas. </p>
+
+        </div>
+        <div xml:id="gd-p2c32q6-Dd1e173">
+          <head xml:id="gd-p2c32q6-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c32q6-Hd1e178" type="question-title"> Sicut uir est caput mulieris, sic
+            adulterando grauius delinquit quam mulier.</head>
+          <p xml:id="gd-p2c32q6-d1e181"> Idem de decem cordis, [c. 3.] </p>
+          <p xml:id="gd-p2c32q6-d1e184"> „ Non mediaberis, “ id est non ibis ad aliquam aliam preter
+            uxorem tuam. Tu autem exigis hoc ab uxore, etnon uis reddere hoc uxori? et cum debeas in
+            uirtuteprecedere uxorem, (quoniam castitas uirtus est) tu sub unoimpetu libidinis cadis?
+            et uis uxorem tuam uictricem esse, tu uictus iaces? et cum tu caput sis uxoris
+            preceditte ad Deum cuius caput es? uis tuam domum capite deorsum pendere? Caput enim
+            mulieris est uir. Ubi autemmelius uiuit mulier quam uir, capite deorsum pendet domus.Si
+            caput est uir, melius debet uiuere uir, et precedere inomnibus bonis factis uxorem suam. </p>
+          <p xml:id="gd-p2c32q6-d1e187"> Gratian. His auctoritatibus monstratur, quod adulter
+            adulteram dimittere non ualet. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

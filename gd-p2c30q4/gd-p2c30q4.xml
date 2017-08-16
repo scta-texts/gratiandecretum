@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c30q4">
+        <head xml:id="gd-p2c30q4-Hd1e103"> QUESTIO IV. </head>
+        <p xml:id="gd-p2c30q4-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c30q4-d1e109"> I. Pars. Relictam uero conpatris uxoris suae nullus
+          inconiugem ducere potest. </p>
+        <p xml:id="gd-p2c30q4-d1e112"> Unde NyJcolaus Papa scribit Constantiensi Episcopo S alomoni: </p>
+        <div xml:id="gd-p2c30q4-Dd1e115">
+          <head xml:id="gd-p2c30q4-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c30q4-Hd1e120" type="question-title"> Duas conmatres alicui habere non
+            licet.</head>
+          <p xml:id="gd-p2c30q4-d1e123"> Sciscitatur a nobis sanctitas uestra, si aliquis homo </p>
+
+
+
+
+          <p xml:id="gd-p2c30q4-d1e126"> duas commatres habere ualeat unam post alteram. In quo
+            meminisse debet scriptum esse: „Erunt duo in carne una.“Itaque cum constet, quia uir et
+            mulier una caro perconubium efficiuntur, restat nimirum uirum conpatrem constitui illi
+            mulieri, cuius matrimonio assumpta uxor conmater esse uidebitur, et idcirco liquet,
+            uirum illi feminaenon posse iungi in copula, que conmater eius erat, cumqua idem fuerat
+            una caro effectus. </p>
+        </div>
+        <div xml:id="gd-p2c30q4-Dd1e131">
+          <head xml:id="gd-p2c30q4-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c30q4-Hd1e136" type="question-title"> Octo annis peniteat qui duabus
+            commatribus commiscetur . </head>
+          <p xml:id="gd-p2c30q4-d1e139"> Item ex Concilio Cale edo nensiw*. </p>
+          <p xml:id="gd-p2c30q4-d1e142"> Si pater et filius, aut duo fratres cum una muliere, aut si
+            cum matre et filia, aut cum duabus sororibus, autcum duabus conmatribus aliquis
+            concubuerit, secundumantiquam et humaniorem diffinitionem octo annis peniteat. </p>
+        </div>
+        <div xml:id="gd-p2c30q4-Dd1e146">
+          <head xml:id="gd-p2c30q4-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c30q4-Hd1e151" type="question-title"> Nullus duabus conmatribus
+            misceatur . </head>
+          <p xml:id="gd-p2c30q4-d1e154"> Item Innocentius Exsuperio Tolosano Episcopo . </p>
+          <p xml:id="gd-p2c30q4-d1e157"> Si quis unus* ex coniugio filium aut filiam alterius de
+            sacro fonte susceperit, aut ad crisma tenuerit, uel Christianitatis misterium dederit,
+            ambo, et uxor et uir, conpatres existunt parentibus infantis, quia uir et muliercaro una
+            effecti sunt. </p>
+          <p xml:id="gd-p2c30q4-d1e160"> II. Pars. Gratian. Econtrario inuenitur in Concilio
+            Tri-buriensi , c. 47.: </p>
+        </div>
+        <div xml:id="gd-p2c30q4-Dd1e164">
+          <head xml:id="gd-p2c30q4-Hd1e166">C. IV</head>
+          <head xml:id="gd-p2c30q4-Hd1e169" type="question-title"> Uxorem conpatris ducere potest,
+            cuius ipsa conmater non fuerat . </head>
+          <p xml:id="gd-p2c30q4-d1e172"> Qui spiritualem conpatrem habet, cuius filium delauacro
+            sacri fontis accepit, et eius uxor conmater nonest, liceat ei defuncto conpatre suo eius
+            uiduam ducere inuxorem, si nullam habet consanguinitatis propinquitatem.Quid enim?
+            Numquid non possunt coniungi quos nullapropinquitas carnalis, uel nulla generatio
+            secernitspiritualis ? </p>
+        </div>
+        <div xml:id="gd-p2c30q4-Dd1e176">
+          <head xml:id="gd-p2c30q4-Hd1e178">C. V</head>
+          <head xml:id="gd-p2c30q4-Hd1e181" type="question-title"> De eodemM.</head>
+          <p xml:id="gd-p2c30q4-d1e184"> Item ex epistola Pascalis Papae II. ad Reginum Episcopum . </p>
+          <p xml:id="gd-p2c30q4-d1e187"> Post uxoris obitum cum conmatre uxoris uiri superstitis
+            coniugio copulari, nulla uidetur ratio uel auctoritas prohibere. Neque enim cognationi
+            carnis cognatio spiritusconparatur, neque per carnis unionem ad unionem
+            spirituspertransitur. </p>
+          <p xml:id="gd-p2c30q4-d1e190"> III. Pars. Gratian. Notandum uero est, quod aliud
+            estconmatrem alicuius cognoscere, atque aliud derelictam ab aliquoconmatrem alicuius
+            fieri. Auctoritas illa Nykolai Papae et </p>
+
+          <p xml:id="gd-p2c30q4-d1e194"> Calcedonensis sinodi illum prohibet conmatris suae uxoris
+            matrimonio copulari, qui uxori suae debitum reddidit, postquamillius conmater extitit.
+            Illa uero auctoritas Triburiensis conciliiillos permittit matrimonio copulari, cuius
+            uxor post, quam auiro suo derelinquitur, illius conmater efficitur, nec post
+            conpa-ternitatem a uiro suo cognoscitur. Queritur autem, an uxor cummarito in baptismate
+            simul debeant suscipere puerum f </p>
+          <p xml:id="gd-p2c30q4-d1e197"> De his ita scribit Urbanus II. Vitali, Presbytero *
+            Brixiensi . </p>
+        </div>
+        <div xml:id="gd-p2c30q4-Dd1e201">
+          <head xml:id="gd-p2c30q4-Hd1e203">C. VI</head>
+          <head xml:id="gd-p2c30q4-Hd1e206" type="question-title"> Uxor simul cum uiro filium
+            alicuius in baptismate non suscipiat.</head>
+          <p xml:id="gd-p2c30q4-d1e209"> Quod autem uxor cum marito in baptismate non debeat
+            suscipere puerum, nulla auctoritate reperitur prohibitum. Sed ut puritas spiritualis
+            paternitatis ab omni labe et infamia conseruetur inmunis, dignum esse decreuimus, ut
+            utrique insimul ad hoc aspirare minime presumant.Quia uero piaculare flagicium conmisit
+            qui duabus conmatribus uel duabus sororibus nupsit, magna iuxta modumculpae penitencia
+            sibi debet iniungi. </p>
+          <p xml:id="gd-p2c30q4-d1e212"> Gratian. Illud uero Triburiensis concilii: „ Qui
+            spiritualem habet conpatrem etc., ante hanc prohibitionem dictum intelligitur, uel uxor
+            conmater accipiatur non ex eodem filio cum uiro, sed ex alio. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

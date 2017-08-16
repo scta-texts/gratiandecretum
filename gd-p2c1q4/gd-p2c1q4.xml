@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO IV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO IV.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q4">
+        <head xml:id="gd-p2c1q4-Hd1e103">QUESTIO IV.</head>
+        <p xml:id="gd-p2c1q4-d1e106"> I. Pars. Nunc ergo de quarta questione est pertractandum, an
+          paternum crimen huic inputetur, quod eo ignorante constatadmissum f Quod ignorantia hunc
+          excuset, multorum auctoritatibusprobatur. </p>
+        <p xml:id="gd-p2c1q4-d1e109"> Ait enim Augustinus , [ep. XLVIII. ad Vincentium]: </p>
+        <div xml:id="gd-p2c1q4-Dd1e112">
+          <head xml:id="gd-p2c1q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c1q4-Hd1e117" type="question-title"> Alienum crimen nescientem non
+            maculat.</head>
+          <p xml:id="gd-p2c1q4-d1e120"> Nullius crimen maculat nescientem. </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e124">
+          <head xml:id="gd-p2c1q4-Hd1e126">[C. II.]</head>
+
+          <p xml:id="gd-p2c1q4-d1e129"> Item [in eadem epistola]* </p>
+          <p xml:id="gd-p2c1q4-d1e132"> Quis locus innocentiae relinquitur, si alienum crimen
+            maculet nescientem? </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e137">
+          <head xml:id="gd-p2c1q4-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c1q4-Hd1e142" type="question-title"> De infantibus , qui ab hereticis
+            baptizantur. </head>
+          <p xml:id="gd-p2c1q4-d1e145"> Item in Affricano Concilio, [c. 14.] legitur : </p>
+          <p xml:id="gd-p2c1q4-d1e148"> Placuit de infantibus, qui ab hereticis baptizantur, neque
+            suo hoc iudicio fecerunt, cum ad ecclesiam </p>
+
+
+
+
+          <p xml:id="gd-p2c1q4-d1e151"> Dei salubri proposito fuerint reuersi, ne parentum error
+            illos inpediat, quo minus promoueantur sacri altarisministerio </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e155">
+          <head xml:id="gd-p2c1q4-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c1q4-Hd1e160" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q4-d1e163"> Item in eodem, [c. 24.] </p>
+          <p xml:id="gd-p2c1q4-d1e166"> Qui apud Donatistas paruuli baptizati sunt, nondum scire
+            ualentes erroris interitum si postquam adetatem rationis capacem peruenerint, agnita
+            ueritate fal-sitatem abhorrentes eorum, ab ecclesia ordine antiquoper manus inpositionem
+            recepti sunt, tales ad suscipiendummunus clericatus non debet inpedire nomen erroris.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e170">
+          <head xml:id="gd-p2c1q4-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c1q4-Hd1e175" type="question-title"> Consanguineorum maleficia in nullo
+            clericis obsunt, nisi conscii fuerint. </head>
+          <p xml:id="gd-p2c1q4-d1e178"> Item Leo IV. Ebruino et Adelfrido . </p>
+          <p xml:id="gd-p2c1q4-d1e181"> Quia presulatus nostri (quod bene nostis) magisterium non
+            solum de sacerdotum, uerum etiam secularium*utilitatibus debet esse sollicitum,
+            propterea fraternitatemuestram scire uolumus, hunc presentem presbiterum adsedem
+            apostolicam uenisse, nobisque uiolentiam et excommunicationem suam per ordinem
+            retulisse; quod etiam sineiusto legis tramite illi sua fuisset ablata ecclesia,
+            similiterindicauit, quam alius dato munere sacerdos zelo ductusinuidiae usurpare
+            presumpsit. Inde parentes eius magnodolore conpulsi presbiterum illum, qui suam tenebat
+            ecclesiam, mox conprehenderunt, et oculos eius eruerunt.Tamen ipse sepe dictus sacerdos
+            dicit, quod absque suauoluntate siue consilio hoc sit peractum. Quod si ita est, ut ipse
+            nobis suo ore testatus est, uobis magnopere pro-uidendum est, ut, si ipse canonice
+            excommunicatus non est, canonica super eum fiat remissio. </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e185">
+          <head xml:id="gd-p2c1q4-Hd1e187">[C. VI.]</head>
+          <p xml:id="gd-p2c1q4-d1e190"> [ Videas infra in Dicto Gratiani post can. 9.] </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e194">
+          <head xml:id="gd-p2c1q4-Hd1e196">C. VII</head>
+          <head xml:id="gd-p2c1q4-Hd1e199" type="question-title"> Perfidia parentum filiis obesse
+            non debet.</head>
+          <p xml:id="gd-p2c1q4-d1e202"> Item ex Concilio Tolletano IV. [c. 60.] </p>
+          <p xml:id="gd-p2c1q4-d1e205"> Iudei baptizati, si postea preuaricantes in Christum
+            qualibet pena dampnati extiterint, a rebus eorum fidelesfilios excludi non oportebit,
+            quia scriptum est: „Filiusnon portabit iniquitatem patris." </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e209">
+          <head xml:id="gd-p2c1q4-Hd1e211">C. VIII</head>
+          <head xml:id="gd-p2c1q4-Hd1e214" type="question-title"> Non inputantur peccata parentum
+            &amp;is, qui ab eis personaliter diuisi^ probantur. </head>
+          <p xml:id="gd-p2c1q4-d1e217"> Item Augustinus ad Bonifatium, [epist. XXIII.] </p>
+          <p xml:id="gd-p2c1q4-d1e220"> Iam itaque, cum homo in se ipso, ab eo, qui genuitalter est
+            effectus, peccato alterius sine sua consensionenon tenetur obnoxius. Traxit ergo reatum,
+            quia unus eratcum illo et in illo, a quo traxit, quando quod contraxitadmissum est. Non
+            autem trahit alter ab altero, quandosua unoquoque propria uita uiuente iam est, unde
+            dicatur:„ Anima, que peccauerit, ipsa morietur." Ut autem possitregenerari per offitium
+            uoluntatis alienae, cum offertur consecrandus, facit hoc unus spiritus, ex quo
+            regeneraturoblatus. </p>
+
+          <p xml:id="gd-p2c1q4-d1e223"> Hinc etiam Gregorius in lib. XXVI . Moralium [c. 8., in cap.
+            35. Iob.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e228">
+          <head xml:id="gd-p2c1q4-Hd1e230">C. IX</head>
+          <head xml:id="gd-p2c1q4-Hd1e233" type="question-title"> Ei, qui imitatur, inpietas
+            alterius nocet . </head>
+          <p xml:id="gd-p2c1q4-d1e236"> „Homini, qui similis tui est, nocebit inpietas tua, et
+            filium hominis adiuuabit iustitia tua." Humana inpietas einocet, quem peruertendo
+            inquinat, et rursus eum adiuuatnostra iustitia, quem a prauis actionibus inmutat.
+            Nocereenim uel adiuuare nesciunt ea, que uel a bono corrumpere, uel a malo permutare uon
+            possunt. </p>
+          <p xml:id="gd-p2c1q4-d1e239">Gratian. Contra Dominus ad Moysen Ego sum Deus zelotes, qui
+            uisito peccata patrum in filios usque in tertiamgenerationem et quartam, " licet non
+            inequalitate iudicii, sed magnitudine clementiae Augustinus hoc dictum asserit, ita
+            dicens: „Intertia et quarta generatione peccata patrum se Dominus comminatur in lege
+            filiis redditurum, non inequalitate iudicii, ut aliipeccent et alii puniantur, sed
+            magnitudine clementiae, dum semperexpectat penitentiam^ et quod in prima generatione
+            delinquiturnon prius corripit et emendat, nisi tertians et quarta generatioeuenerit.
+            Digestis tit. de penis [c. VI.]: „ Crimen uelpena paterna nullam maculam filio
+            infligere^ potest. Namque unusquisque ex suo admisso sorti subicitur, nec alienicriminis
+            successor constituitur. Idque etiam * diui fratreslerapolitanis rescripserunt.“ Cum ergo
+            de baptizatis ab hereticisInnocentius scribat: , , Lex est ecclesiae his , qui ab
+            hereticisbaptizati sunt, per manus inpositionem laicam tantum preberecommunionem, nec ex
+            his aliquem in clericatus honorem uelexiguum subrogare: patet, quod infantes, qui ab
+            hereticisbaptizati sunt, sola excusat ignorantia, ut iuxta illud Affricaniconcilii ad
+            suscipiendum clericatus offitium non eos inpediatnomen erroris.</p>
+          <p xml:id="gd-p2c1q4-d1e242"> Item sicut Augustinus * scribit ad Auxilium Episcopum,
+            [epist. 75.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e246">
+          <head xml:id="gd-p2c1q4-Hd1e248">[C. X.]</head>
+
+          <p xml:id="gd-p2c1q4-d1e251"> „ Non inputantur filiis peccata parentum, que post eorum
+            natiuitatem a parentibus committuntur ; nec pro peccatis parentumspirituali pena filii
+            sunt plectendi ." </p>
+          <p xml:id="gd-p2c1q4-d1e254"> [Gratian.] Offitio autem uel beneficio ecclesiae priuari,
+            spiritualis pena est: non igitur hanc ex patris peccato promeretur filius. Item si
+            excusatur, qui ignoranter a symoniaco ordinatur, ut sup. in cap. Urbani legitur, et iste
+            excusandus est, qui perignorantiam symoniace ordinatur. </p>
+          <p xml:id="gd-p2c1q4-d1e257"> II. Pars. Sed obicitur illud Gregorii™*: </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e261">
+          <head xml:id="gd-p2c1q4-Hd1e263">C. XI</head>
+          <head xml:id="gd-p2c1q4-Hd1e266" type="question-title"> De ecclesia, que pactione
+            consecratur . </head>
+          <p xml:id="gd-p2c1q4-d1e269"> Ecclesia, que pactione consecrata fuerit, potius execrata
+            quam consecrata dici debet. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q4-d1e272"> Gratian. Item peccato ciuium thesauri Iericho anathematizati
+            leguntur. Unde Achor , qui regulam auream et quedam alia pretiosa furatus est, de
+            anathemate dicitur tulisse. §. i. Item peccato Amalechitarum animalia eorum iussa
+            suntinterfici, quibus quia Saul pepercit, audiuit a Samuele : „ Nescis, quia peccatum
+            ariolandi est repugnare, eZ quasi scelus ydololatriaenolle acquiescere?“ §. 2. Item
+            peccato Egyptiorum^ posses </p>
+          <p xml:id="gd-p2c1q4-d1e275"> siones eorum grandini traditae, iumenta et primogenita eorum
+            morte consumpta sunt. §. 3. Item peccato Israelitarum ar $a Domini Phylisteis tradita
+            est. Si ergo que sensu carent, wZ ecclesia, altare, archa Domini, lapides Iericho, uel
+            execrantur, uel peccatoribus traduntur, uel anathematizantur, uel grandine deua-stantur;
+            si ea, que uim intelligendi non habent, ut animaliaEgyptiorum et Amalechitarum, peccatis
+            hominum morte perduntur:patet, quod nullum excusat ignorantia criminis, maxime cum exeo
+            utilitas deferatur ignoranti; ueluti si quispiam de latrocinio etrapina filio suo
+            ignoranti diuicias congreget, non excusaret)*filium ignorantia, quin post mortem patris
+            cogatur reddere maleconquisita . §. 4. Item peccato Achor pZefo Israelitica inmanibus
+            hostium tradita est. §. 5. Item peccato filiorum Hely populus in manu Phylistinorum
+            corruit. §. 6. Peccato quoqueplebis electi eorum sepe sunt inpediti, et tandem cum eis
+            prophetaeducti sunt captiuffi. </p>
+          <p xml:id="gd-p2c1q4-d1e279"> III. Pars. §.7. His ita respondetur. Insensibilia et
+            irrationabilia peccato hominum uel execrantur, uel anathematizantur, uel morte
+            perduntur, non participatione peccati, sedcausa sacramenti, uel detestatione peccati,
+            uel flagello delinquentium. Causa sacramenti, ut thesauri Iericho et
+            animaliaAmalechitarum. Iericho enim luna interpretatur, et significatistum mundum.
+            Amalechitae interpretantur lingentes sanguinem, et significant cupidos, et auaros, et
+            demones^. Israelitae interpretantur uiri uidentes Deum, significant multitudinem
+            sanctorum. Lapides ergo et thesauri Iericho anathematizantur, animaliaAmalechitarum
+            interfici iubentur ad examinandam cupiditatemIsraeliticae plebis, et ut signaretur s,
+            quod muri uiciorum, ethuius mundi thesauri, qui per lapides et thesauros Iericho
+            designantur, irrationabiles quoque uiciorum motus, qui per animaliaAmalechitarum
+            intelligunlur, non debent transire in sortem sanctorum. Animalia uero fEgyptiorum, et
+            possessiones eorum, etprimogenita, grandine et morte consumpta sunt, ut in
+            illispunirentur, quorum felicitate letabantur, et ut daretur intelligi, quod mundus
+            peribit et substantia eius. Sed et terra Israelitarum in salsuginem uersa est, et
+            segetibus eorum imbresaduersffi sunt, animalia eorum sterilitate et morbo confectasunt,
+            ut auctorem suum, quem per beneficia cognoscere noluerunt, saltim inter suplicia
+            sentirent. In detestatione uero peccatipecunia Symonis dampnata est, cui dictum est: „
+            Pecunia tuatecum sit in perditione, quia existimasti donum Dei pecuniapossideri ) In
+            detestatione quoque eiusdem criminis altare etecclesia, que per symoniam consecrantur,
+            non tam consecrariquam execrari dicuntur ", quia qui interuentu pecuniae
+            oleumconsecrationis effundit non consecrare, sed execrare credendus est. Hinc est, quod
+            B. Gregorius ecclesias ab Arrianis consecratas iterum consecrari precepit, quia
+            sanctificationem consecrationis que non nisi in fide Trinitatis perficitur, prestare
+            nonpoterant qui fide carebant. Archa uero et prophetae peccatosuorum ciuium hostibus
+            traditi sunt. Electi quoque, qui murmureeorum inpediti sunt, non in penam criminis, sed
+            in experimentumet exemplum patientiae hec passi sunt. §. 8. Item populus, quipeccato
+            Achor et filiorum Hely in manibus hostium traditus est, significat, subditos
+            corporaliter flagellari, ut inter ipsa flagellaPrelatorum peccata feriantur, sicut Achor
+            sorte deprehensuslapidibus obrutus est. §. 9. Sic et nauicula Ionaepericlitatur, ut
+            fugitiuus sorte deprehensus, fluctibus inmergeretur. Aliquandopro meritis Prelatorum
+            deprauatur uita subditorum, ut prelatissuis subditi fauentes ad malum cum eis simul
+            corruant, sicut filiiIsrael, diu portantes peccata sacerdotum, tandem cum eis ceciderunt
+            in manibus hostium. Item Dauid populum numerauit, quopeccato gladius Domini deseuit in
+            populum. „Sed in latagente gloria regis est, in diminutione plebis contricio principis
+            .Qui ergo de numerositate suae gentis superbiuit, iure in eiusdiminutione punitus est.
+            §. 10. Item paruulos Sodomitarum non excusauit ignorantia, quin pro paterno scelere
+            celesti igneconsumerentur; sed hoc igne pena illis diminuta est, quibus successio
+            paterni sceleris est adempta. Pariter etiam demonstratum est, peccatis parentum paruulos
+            aliquando corporaliterflagellari. Illud idem intelligendum est de paruulis, qui
+            peccatoDat an et Abiron uiui descenderunt ad inferos, §. 11. ItemCam peccante filius
+            eiils Canaam maledicitur; Iezi delinquente lepra transmittitur ad posteros. Iudeis
+            clamantibus:„ Sanguis eius super nos et super filios nostros, reliquiae eorum penae
+            mortis „ Christi addictae sunt. Achab quoquepeccante posteri eius regni solium
+            amiserunt, et qui de eius seminein regno ludae nati sunt, usque ad purgatam labem illius
+            familiae a genealogia Domini exclusi sunt. Odium quoque Esau(ut Malachias testatur )
+            transiuit ad Ydumeos. Quibus p omnibus colligitur, quod ignorantia peccati non excusat
+            aliquem. §. 12. Sed his exemplis non probantur teneri peccato aliorumnisi imitatores
+            nequiciae eorum. Quicumque enim de semineEsau et ceterorum ad Deum conuersi paternam
+            malitiam detestatisunt, non odium, sed Dei clementiam experti sunt. </p>
+
+          <p xml:id="gd-p2c1q4-d1e282"> Item ut ait Ambrosius [sermone XI.]*: </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e286">
+          <head xml:id="gd-p2c1q4-Hd1e288">[C. XII.]</head>
+
+          <p xml:id="gd-p2c1q4-d1e291"> , , Turbatur nauicula Petri, in qua erat ludas, quia, qui
+            suis meritis erat firmus, turbatus est alienis .“ </p>
+          <p xml:id="gd-p2c1q4-d1e294"> [Gratian.] Ignorabat autem Petrus peccatum ludae. Non ergo
+            ignorantia excusauit illum, sed turbatio hec non peccaticoinquinatio, sed corporalis
+            persecutio intelligitur, quia meritismalorum nonnumquam adeo boni premuntur, ut eorum
+            turbetur infirmitas . Non itaque his auctoritatibus symoniaci probantur, pro quibus
+            ignorantibus pecunia data est. Non ergo potestprobari iste reus criminis, cuius non
+            habuit conscientiam. </p>
+          <p xml:id="gd-p2c1q4-d1e297"> IV. Pars. §. I. Notandum quoque est, quod non
+            omnisignorantia aliquem excusat. Est enim ignorantia alia facti aliaiuris. Facti alia ,
+            quod non oportuit eum scire , alia, quodoportuit eum scire. Quod non oportuit eum scire,
+            sicut aitApostolus : , , Si quis infidelium uocauerit uos ad cenam , quicquid uobis
+            appositum fuerit comedite, nichil interrogantes.Si quis uobis dixerit, hoc ydolis
+            immolatum est, nolite comedereEcce quod uocatum ad cenam non oportebat scire, carnessibi
+            appositas ydolis fuisse inmolatas. Quod oportuit eum scire, sicut ignorantia ludeorum et
+            reliquorum infidelium, qui ea, quea prophetis de Christo fuerant prenunciata, adhuc
+            ignorantesse conpleta, unde a Iudeis adhuc expectatur uenturus. Hec neminem excusat. §.
+            2. Item ignorantia iuris alia naturalis , alia ciuilis. Naturalis omnibus adultis
+            dampnabilis est; iusuero ciuile aliis permittitur ignorare, aliis non. Iuris
+            ciuilisignorantia nemini obest in dampno uitando, si negotium inde contigerit, ut, si
+            minor pecuniam dederit filio familias, repetit; inmaiore uero quasi delictum est. §. 3.
+            Item si successionem tibietiam maiori delatam cum alio sine iudice diuidas, putans
+            testamentum iure subnixum, cum non esset, solidam successionem obtinebis ; uel si id,
+            quod nullo iure debuisti, aut iure naturalinon debuisti, sed ciuili, tamquam ex
+            cyrographo soluas aut pro- mittas, repetis; non ita, delictum. Nam si putat rem suam </p>
+          <p xml:id="gd-p2c1q4-d1e300"> sibi per legem licere rapere, incidit in constitucionem **;
+            *SY in tantam s. </p>
+        </div>
+        <div xml:id="gd-p2c1q4-Dd1e304">
+          <head xml:id="gd-p2c1q4-Hd1e306"> C. XIII. </head>
+          <!-- <head type="quesiton-title">Inperator Valentinianus Augustus.</head> -->
+
+          <p xml:id="gd-p2c1q4-d1e311"> Si quis in tantam furoris audaciam peruenerit; ut
+            possessionem rerum apud fiscum uel apud quoslibet homines constitutarum ante euentum
+            iudicialis arbitrii uiolenterinuaserit, dominus quidem constitutus possessionem,
+            quamabstulit, restituat possessori, et dominium eius rei amittat.Sin uero alienarum
+            rerum possessionem inuasit, non solumeam possidentibus reddat, uerum etiam estimationem
+            earundem rerum restituere conpellatur.J </p>
+          <p xml:id="gd-p2c1q4-d1e314"> Gratian. In hoc autem non fuit ignorantia iuris, sed facti,
+            et illius, quod non oportuit eum scire. A reatu ergo criminisexcusat eum ignorantia
+            paterni delicti, quod etsi oportuisseteum scire, infirmitate tamen etatis deprehendere
+            non poterat. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

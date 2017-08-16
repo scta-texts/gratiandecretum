@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VIII.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c23q8">
+        <head xml:id="gd-p2c23q8-Hd1e103">QUESTIO VIII.</head>
+        <p xml:id="gd-p2c23q8-d1e106"> I. Pars. De episcopis uero uel quibuslibet clericis, quod nec
+          sua auctoritate, nec auctoritate Romani Pontificis armaarripere ualeant, facile probatur.
+          Cum enim Petrus, qui primusapostolorum a Domino fuerat electus, materialem exerceret
+          gladium, ut magistrum a ludeorum iniuria defensaret, audiuit:„ Conuerte gladium tuum in
+          uaginam, omnis enim, qui acceperitgladium, gladio peribit , “ ac si aperte ei diceretur:
+          hactenus tibituisque predecessoribus inimicos Dei corporali gladio licuit persequi;
+          deinceps in exemplum patiendae gladium tuum, id est tibihactenus concessum, in uaginam
+          conuerte, et spiritualem tantumgladium, qui est uerbum Dei, in mactatione ueteris
+          uitaeexerce. Omnis enim preter illum, uel auctoritatem eius, quilegitima potestate utitur,
+          qui, ut Apostolos ait , non sine causagladium portat , cui etiam omnis anima subdita esse
+          debet, omnis, inquam, qui preter huius auctoritatem gladium acceperitgladio peribit. §. i.
+          Item Ambrosius : „Arma episcopi lacrimae sunt et orationes .“ Item illud Apostoli : „Non
+          uosmetipsosdefendentes , Tcarissimi, quamuis omnibus generaliter dicaturspecialiter tamen
+          prelatis dictum intelligitur. </p>
+        <p xml:id="gd-p2c23q8-d1e109"> [PALEA. </p>
+        <p xml:id="gd-p2c23q8-d1e112"> Unde Iohannes Papa VIII. Angebergae Inperatrici, excusans
+          Iohannem episcopum remoueri de milicia, dicit*: </p>
+        <p xml:id="gd-p2c23q8-d1e115"> C. I. De eodem. </p>
+        <p xml:id="gd-p2c23q8-d1e119"> Nimium certe ueretur, et iure formidat contra professionem
+          sui ordinis secularem miliciam exercere; terram defendere, de preliis tractare, de armis,
+          terrenae potestatis est.] </p>
+        <h6>
+          <a/> [PALEA. </h6>
+        <p xml:id="gd-p2c23q8-d1e127"> C. II. De eodem. </p>
+        <p xml:id="gd-p2c23q8-d1e130"> Item Innocentius Papa. </p>
+        <p xml:id="gd-p2c23q8-d1e133"> Cum a Iudeis, inquit, Dominus caperetur, et Petrus cuiusdam
+          inobedientis aurem abscinderet, ferire prohibuit, et forma omnium sacerdotum (quorum prior
+          erat) etiam prose ipso capi arma carnalia prohibuit.] </p>
+
+        <p xml:id="gd-p2c23q8-d1e136"> [PALEA. </p>
+        <p xml:id="gd-p2c23q8-d1e140"> C. III. De eodem. </p>
+        <p xml:id="gd-p2c23q8-d1e143"> Item Ambrosius*. </p>
+        <p xml:id="gd-p2c23q8-d1e146"> Non pila querunt ferrea, non arma Christi milites. Coactus
+          repugnare non noui: sed dolor, fletus, orationes, lacrimae fuerunt mihi arma aduersus
+          milites. Talia enimmunimenta sunt sacerdotis. Aliter nec debeo, nec possumresistere;
+          fugere autem, et relinquere ecclesiam non soleo.Seruum Christi non custodia corporalis,
+          sed Domini pro-uidentia sepire consueuit.] </p>
+        <p xml:id="gd-p2c23q8-d1e149"> Gratian. Hinc etiam de his, qui in bello aut in rixa
+          moriuntur, in Concilio Triburiensi sic statutum est : </p>
+        <div xml:id="gd-p2c23q8-Dd1e152">
+          <head xml:id="gd-p2c23q8-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c23q8-Hd1e157" type="question-title"> Pro clerico, qui in bello aut in
+            rixa moritur oratio uel oblatio non offeratur. </head>
+          <p xml:id="gd-p2c23q8-d1e160"> Quicumque clericus aut in bello, aut in rixa, aut gentilium
+            ludis mortuus fuerit, neque in oblatione, neque in oratione pro eo postuletur, sed in
+            manus incidat iudicis;sepultura tamen non priuetur. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e164">
+          <head xml:id="gd-p2c23q8-Hd1e166">C. V</head>
+          <head xml:id="gd-p2c23q8-Hd1e169" type="question-title"> Gradu amisso in monasterio
+            trudantur clerici, uoluntarie arma sumentes. </head>
+          <p xml:id="gd-p2c23q8-d1e172"> Item ex Concilio Tollet ano [IV. c. 44.] de clericis arma
+            ferentibus . </p>
+          <p xml:id="gd-p2c23q8-d1e175"> Clerici, qui in quacumque factione arma uolentessumpserint,
+            reperti amisso ordinis sui gradu in mona»sterio perhenniter* tradantur. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e180">
+          <head xml:id="gd-p2c23q8-Hd1e182">C. VI</head>
+          <head xml:id="gd-p2c23q8-Hd1e185" type="question-title"> Proprii gradus amissione
+            mulctentur militaria arma clerici ferentes.</head>
+          <p xml:id="gd-p2c23q8-d1e188"> Item ex Concilio Meldensi, [c. 37.] </p>
+          <p xml:id="gd-p2c23q8-d1e191"> Quicumque ex clero uidentur esse, arma militaria non
+            sumant, nec armati incedant; sed professionis suae uocabu-lum religiosis moribus et
+            religioso habitu prebeant. Quodsi contempserint, tamquam sacrorum canonum contemptoreset
+            ecclesiasticae auctoritatis profanatores proprii gradusamissione mulctentur, quia non
+            possunt simul Deo et seculomilitare. </p>
+          <p xml:id="gd-p2c23q8-d1e194"> II. Pars. Gratian. His ita respondetur: Sacerdotes propria
+            manu arma arripere non debent; sed alios ad arripiendum , ad oppressorum defensionem,
+            atque ad inimicorum Dei oppugnationem eis licet hortari. </p>
+          <p xml:id="gd-p2c23q8-d1e198"> Unde Leo IV. scribit Ludouico Augusto *. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e202">
+          <head xml:id="gd-p2c23q8-Hd1e204">C. VII</head>
+          <head xml:id="gd-p2c23q8-Hd1e207" type="question-title"> Pro Sarracenis Papa iubet populum
+            congregari, et eis ad litus maris occurrere. </head>
+          <p xml:id="gd-p2c23q8-d1e210"> Igitur cum sepe aduersa a Sarracenorum partibus per-ueniant
+            nuntia, quidam in Romanorum portum Sarrace- </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e213"> nos clam furtiueque uenturos esse dicebant. Pro quo nostrum
+            precipimus congregari populum, maritimumque ad litus descendere decreuimus, et egressi
+            sumus Romam. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e217">
+          <head xml:id="gd-p2c23q8-Hd1e219">C. VIII</head>
+          <head xml:id="gd-p2c23q8-Hd1e222" type="question-title"> Ultor sui gregis Papa debet esse
+            acprecipuus adiutor. </head>
+          <p xml:id="gd-p2c23q8-d1e225"> Item. </p>
+          <p xml:id="gd-p2c23q8-d1e228"> Scire uos oportet, quod numquam ab aliquibus nostros
+            homines sinimus opprimi; sed, si necessitas ulla incurrerit, presentialiter uindicamus,
+            quia nostri gregis inomnibus ultores esse debemus et precipui adiutores. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e232">
+          <head xml:id="gd-p2c23q8-Hd1e234">C. IX</head>
+          <head xml:id="gd-p2c23q8-Hd1e237" type="question-title"> Celeste regnum a Deo consequitur
+            qui pro Christianorum defensione moritur.</head>
+          <p xml:id="gd-p2c23q8-d1e240"> Idem exercitui Francorum </p>
+          <p xml:id="gd-p2c23q8-d1e243"> Omni timore ac terrore deposito, contra inimicos fidei
+            sanctae et aduersarios omnium religionum uiriliter agerestudete. Nouit enim omnipotens,
+            si quilibet uestro-rum morietur, quod pro ueritate fidei, et saluatione patriae, ac
+            defensione Christianorum mortuus est, ideo abeo celeste premium consequetur. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e247">
+          <head xml:id="gd-p2c23q8-Hd1e249">C. X</head>
+          <head xml:id="gd-p2c23q8-Hd1e252" type="question-title"> Contra Longobardos precibus
+            Adriani Papae Karolus bellum suscepit.</head>
+          <p xml:id="gd-p2c23q8-d1e255"> Item Alcuinus *. </p>
+          <p xml:id="gd-p2c23q8-d1e258"> Hortatu et precibus Adriani Romanae urbis episcopi exoratus
+            Karolus rex bellum contra Longobardos suscepit, quod prius quidem et a patre eius Papa
+            supplicante, cum magna difficultate susceptum est. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e262">
+          <head xml:id="gd-p2c23q8-Hd1e264">C. XI</head>
+          <head xml:id="gd-p2c23q8-Hd1e267" type="question-title"> Iudeos non debemus persequi, sed
+            Sarracenos . </head>
+          <p xml:id="gd-p2c23q8-d1e270"> Item Alexander Papa [II.] omnibus Episcopis Hispaniae . </p>
+          <p xml:id="gd-p2c23q8-d1e273"> Dispar nimirum est Iudeorum et Sarracenorum causa. In illos
+            enim, qui Christianos persecuntur, et ex urbibuset propriis .sedibus pellunt, iuste
+            pugnatur; hii ubiqueseruire parati sunt. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e278">
+          <head xml:id="gd-p2c23q8-Hd1e280">C. XII</head>
+          <head xml:id="gd-p2c23q8-Hd1e283" type="question-title"> Qui crimina, que potest emendare,
+            non corrigit, ipse conmittit.</head>
+          <p xml:id="gd-p2c23q8-d1e286"> Item I oh anne s VIII . Demago Duci glorioso. </p>
+          <p xml:id="gd-p2c23q8-d1e289"> Preterea deuotionis tuae studium exhortamur, ut contra
+            marinos latrunculos, qui sub pretextu tui nominis in Christi-colas debachantur, tanto
+            uehementius accendaris, quantoillorum prauitate famam tui nominis obfuscatam fuisse
+            cognoscis; quoniam, licet credi possit, quod te nolente illinauigantibus insidientur,
+            tamen, quia a te conprimi possedicuntur, nisi eos conpescueris, innoxius non habeberis. </p>
+
+          <p xml:id="gd-p2c23q8-d1e292"> Scriptum quippe est: „Qui crimina, que potest emendare, non
+            corrigit, ipse conmittit. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e296">
+          <head xml:id="gd-p2c23q8-Hd1e298">C. XIII</head>
+          <head xml:id="gd-p2c23q8-Hd1e301" type="question-title"> Crimina pro Deo punire non est
+            crudelitas sed pietas. </head>
+          <p xml:id="gd-p2c23q8-d1e304"> Item Ieronimus ad Riparium [contra Vigilantium]. </p>
+          <p xml:id="gd-p2c23q8-d1e307"> Legi syromasten* Finees, auctoritatem Helyae, et zelum
+            Simonis Chananei, Petri seueritatem Ananiamet Saphiram trucidantem, Pauli constantiam,
+            quiHelimam magum uiis Domini resistentem eterna seueri-tate dampnauit. Non est
+            crudelitas** pro Deo criminapunire, sed pietas. Unde et in lege dicitur: , , Si
+            fratertuus, et amicus tuuss, et uxor, que in sinu tuo dormit, deprauare uoluerit
+            ueritatem, sit manus tua super eos, eteffundes sanguinem ipsorum.“ </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e311">
+          <head xml:id="gd-p2c23q8-Hd1e313">C. XIV</head>
+          <head xml:id="gd-p2c23q8-Hd1e316" type="question-title"> Quedam in ueteri testamento
+            licebant, que modo prohibentur. </head>
+          <p xml:id="gd-p2c23q8-d1e319"> Item Iohannes Crisostomus super Mattheum omelia XVII. [ad
+            c. 5.] </p>
+          <p xml:id="gd-p2c23q8-d1e322"> Occidit Finees hominem, et reputatum est illi ad iusticiam.
+            Abraham uero, non solum homicida, uerumetiam patricida (quod certe est grauius) effectus
+            Deo magis placuit. Petrus [uero geminum fecit homicidium: fuit tamen opus spirituale,
+            quod factum est. Nonsolum igitur respiciamus ad opera, sed ad s tempus, etad causam, et
+            ad uoluntatem, personarum quoque differentiam, et quantacumque alia ipsis
+            operibusacciderunt, diligentissime requiramus. Non enimpossumus aliter ad ueritatem
+            peruenire. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e326">
+          <head xml:id="gd-p2c23q8-Hd1e328">C. XV</head>
+          <head xml:id="gd-p2c23q8-Hd1e331" type="question-title"> Necessitate instante etiam
+            quadragesimalibus diebus bellum inire licet. </head>
+          <p xml:id="gd-p2c23q8-d1e334"> Item Nycolaus ad consulta Bulgarorum, [c. 46.] </p>
+          <p xml:id="gd-p2c23q8-d1e337"> Si nulla urget necessitas, non solum quadragesi-mali
+            tempore, sed etiam omni tempore est a preliis abstinendum. Si autem ineuitabilis urget
+            inportunitas, nec quadragesimali tempore pro defensione tam sua quampatriae, seu legum
+            paternarum, est bellorum proculdubiopreparationi parcendum, ne uidelicet Deum uideatur
+            homotemptare, si habet quod faciat, et suae ac illorum saluticonsulere non procurat, et
+            sanctae religionis detrimenta nonprecauet. </p>
+          <p xml:id="gd-p2c23q8-d1e340"> XVI. Petrus Ananiam et Saphiram increpando morti tradidit. </p>
+          <p xml:id="gd-p2c23q8-d1e344"> Item Gregorius in Dialog. [lib. II. c. 30.] </p>
+          <p xml:id="gd-p2c23q8-d1e347"> Petrus, qui Tabitam mortuam orando suscitauit, </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e350"> Ananiam et Saphiram mentientes morti increpando tradidit.
+            Neque enim orasse in eorum extinctione legitur, sed solummodo culpam, quam
+            perpetrauerant, increpasse. Constatg°, quia aliquando talia ex potestate exhibentur,
+            aliquando ex postulatione, dum et istis increpandouitam abstulit, et illi reddidit
+            orando. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e354">
+          <head xml:id="gd-p2c23q8-Hd1e356">C. XVII</head>
+          <head xml:id="gd-p2c23q8-Hd1e359" type="question-title"> B. Gregorius quosdam hortatur, ut
+            milites congregent, et contra hostes arma uiriliter parent. </head>
+          <p xml:id="gd-p2c23q8-d1e362"> Idem Veloci, Magistro, [lib. XII. ep. 2i.] </p>
+          <p xml:id="gd-p2c23q8-d1e365"> Et pridem gloriae uestrae notificauimus quia milites illuc
+            erant parati uenire; sed quoniam inimicoscongregatos et huc discurrere epistola uestra
+            significa-uerat, hec eos hic causa retinuit. Nunc uero utile estuisum, ut aliquanti
+            illuc milites transmittantur, quos gloriatua ammonere et hortari, ut parati sint ad
+            laborem, studeat, et occasione inuenta cum gloriosis filiis nostrisMarcio et Vitalio
+            loquere, et quecumque uobisDeo adiutore pro utilitate reipublicae persuaserint facite;
+            et si huc uel ad Rauennae^ partes nec dicendumArnulfum cognoueritis excurrere, uos a
+            dorso eius ita, sicut uiros fortes condecet, laborate, quatinus opiniouestra ex laboris
+            uestri qualitate amplius in republicaDeo auxiliante proficiat. Illud tamen pre omnibus
+            am-monemus, ut familiam Aloyn*, et Adobin, Vigildi, atque Grussingi, qui cum glorioso
+            magistro militumMauricio esse noscuntur, sine aliqua mora uel excusationerelaxes,
+            quatinus uenientes illuc homines predicti uiri sinealiquo inpedimento cum eis debeant
+            ambulare. </p>
+          <p xml:id="gd-p2c23q8-d1e368"> [C. XVIII.] </p>
+          <p xml:id="gd-p2c23q8-d1e372"> Item Eiusdem Mauricio et Vitaliano, [lib. XII. epist. 23.] </p>
+
+          <p xml:id="gd-p2c23q8-d1e375"> Suppliciter gloriae uestrae per filium nostrum Vitalia-
+            num, q et tractaueratis, et uerbo et scripto mandauimus. Undecimo autem die mensis Iunii
+            Arnul-fus hanc epistolam, quam uobis direximus, transmisit, et ideo relegentes eam
+            uidete, si in fide Suanenses, quamreipublicae promiserunt, perstiterunt,
+            obsidesquedignos, de quibus possitis confidere, ab eis accipite, etinsuper denuo* eos
+            sacramentis astringite, reddenteseis quodloco pignoris sustulistis&amp; sermonibus
+            uestriseos sanantes. Si autem manifestissime cognoueritis, eoscum Arnulfo de sua
+            subiectione locutos fuisse, uel certeobsides ei dedisse, sicut nos Arnulfi epistola,
+            quamuobis direximus, dubios reddidit, salubri consilio pertractantes, ne in aliquo anima
+            uestra uel** nostra desacramentis grauetur, quicquid reipublicae utile
+            iudicaueritisperagite. Sed ita faciat gloria uestra, ut neque sit aliquid, unde possimus
+            ab aduersariis reprehendi, nequeutilitas reipublicae (quod Dominus auertat)
+            negligatur.Preterea, gloriosi filii, estote solliciti, quia, quantumconperi, hostis***
+            multitudinem habet collectam, et Na-rina+ dicitur residere; ut si huc cursum, Deo
+            sibiirato, mittere uoluerit, uel loca ipsius (quantum uosDominus adiuuerit) depredamini,
+            aut certe sculcas++, quos mittes, sollicite requirant, ne dolens factum aduos discurrat. </p>
+          <p xml:id="gd-p2c23q8-d1e378"> Gratian. In registro P etiam legitur, quod B. Gregorius
+            ciuibus Tusciae, ut contra Longobardos arma pararent, mandauit, et militantibus
+            stipendia decreuit. Hoc igitur q exemplo etpremissis auctoritatibus claret, quod
+            sacerdotes, etsi propria manuarma arripere non debeant, tamen uel his, quibus huiusmodi
+            offitioconmissa sunt, persuadere, uel quibuslibet, ut ea arripiant, suaauctoritate
+            ualeant inperare. </p>
+          <p xml:id="gd-p2c23q8-d1e381"> III. Pars. §. 1. Sed obicitur illud Nycolai ad Inpera-torem
+            Karolum™-*: </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e385">
+          <head xml:id="gd-p2c23q8-Hd1e387">C. XIX</head>
+          <head xml:id="gd-p2c23q8-Hd1e390" type="question-title"> Episcopi non debent militaribus
+            occupari negociis.</head>
+          <p xml:id="gd-p2c23q8-d1e393"> Reprehensibile ualde esse constat quod subintulisti,
+            dicendo, maiorem partem omnium episcoporum die noctu-que cum aliis fidelibus tuis contra
+            piratas maritimos in-uigilare, ob idque episcopi inpediantur uenire, cummilitum Christi
+            sit Christo seruire, milites uero seculiseruiant seculo, sicut scriptum est: , , Nemo
+            militans Deo inplicat se negociis secularibus.^ Quod si seculimilites miliciae student,
+            quid ad episcopos et militesChristi, nisi ut uacent orationibus? </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e398">
+          <head xml:id="gd-p2c23q8-Hd1e400">C. XX</head>
+          <head xml:id="gd-p2c23q8-Hd1e403" type="question-title"> In morte cuiuslibet hominis
+            episcopi^ se miscere formident. </head>
+          <p xml:id="gd-p2c23q8-d1e406"> Item Gregorius [lib. VII. epist. I., ad Sabinianum]. </p>
+          <p xml:id="gd-p2c23q8-d1e409"> Si in morte Longobardorum me miscere uoluissem, </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e412"> hodie Longobardorum gens nec regem, nec ducem, - haberet
+            Sed quia Deum timeo, in mortem cuiuslibet hominis ne miscere formido. </p>
+          <p xml:id="gd-p2c23q8-d1e416"> Gratian. Ecce quod Nycolaus Papa prohibet episcopos
+            seculari milicia occupari, nec etiam contra maritimos pirataspermittit eos ad pugnam
+            accedere. Quomodo ergo Leo Papaaduersus Sarracenos urbem egreditur , et, ut procul eos a
+            litterearceat, populum undique conuocat, et suorum iniurias presen-tialiter uindicat,
+            atque cum Gregario milites ad arma inuitat fSed notandum est, quosdam episcopos Leuitica
+            tantum portioneesse contentos, qui, sicut in Dei sorte tantum numerantur, sicipsum Deum
+            solummodo in hereditatem accipiunt, dicentes :„ Dominus pars hereditatis meae cs2. His
+            nichil communeest cum principibus seculi, quia temporalia penitus abiciunt, neeorum
+            occasione legibus inperatorum obnoxii teneantur. Talibus nulla occasio relinquitur
+            occupationis secularis miliciae, quia, cum de decimis et primiciis uiuunt tamquam
+            summiregis filii in omni regno a terrenis exactionibus liberi sunt ita, utdicere
+            ualeant: „ Venit princeps mundi huius, et in nobis nonhabet quicquamPorro alii sunt, qui
+            non contenti decimis etprimiciis, predia, uillas, et castella , et duitates possident ,
+            ex quibus Cesari debent tributa, nisi inperiali benignitate inmunitatempromeruerint ab
+            huiusmodi. Quibus a Domino dicitur : „ Reddite que sunt Cesaris Cesari; et que sunt Dei
+            Deo .“ Quibusidem Apostolus : , , Reddite omnibus debita, cui tributum, tributum; cui°b
+            uectigal, uectigal. </p>
+          <p xml:id="gd-p2c23q8-d1e419"> Unde Ambrosius [ad Marcellinam sororem, epist. XXXIII.] 206
+            * </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e423">
+          <head xml:id="gd-p2c23q8-Hd1e425">C. XXI</head>
+          <head xml:id="gd-p2c23q8-Hd1e428" type="question-title"> Ecclesiae inperatoribus non sint
+            obnoxiae. </head>
+
+          <p xml:id="gd-p2c23q8-d1e431"> Conuenior ipse a comitibus 208 a t per me basilicae fieret
+            matura traditio, dicentibus, inperatorem iure suoiussisse tradi debere utpote in cuius
+            210c potestate essentomnia. Respondi, si a me peteret quod meum est, idest fundum meum,
+            argentum jneum, huiusmodimeum, me non refragaturum, quanquam omnia, que mea sunt, sint6f
+            pauperum; uerum ea, que diuina sunt, inperatoriae potestati non esse subiecta. Si
+            patrimoniumpetit s, inuadite; si corpus, occurram. Vultis in uincularapere? uultis in
+            mortem? uoluntatis est michi, non egome uallabo circumfusione populorum, nec altaria
+            tenebouitam obsecrans; sed pro altaribus gratis inmolabor.Horrebam quippe animo, cum
+            armatos ad basilicam ecclesiae occupandam missos cognoscerem, ne, dum populusbasilicam
+            uendicat, aliqua strages fieret, que in perniciem totius ueniret ciuitatis; orabam, ne
+            tantae urbis, uel pocius totius Italiae busto superuiuerem. Et infra :§. 1. Mandatur,
+            trade basilicam, hoc est: „Dic aliquoduerbum in Deum, et morere, “ nec solum dic
+            aduersus Deum, sed etiam fac aduersus Deum. Mandatur, trade altariaDei. Urgemur igitur
+            regalibus preceptis ; sed confirmamurscripturae sermonibus, que respondit: „Tamquam
+            unaex insipientibus locuta es.“ Et infra : §. 2. Quid igitur turbamini? uolens numquam
+            uos° deseram; coactus repugnare non noui; dolere potero, flere potero, gemerepotero;
+            aduersus arma, milites Gothos quoque, lacrimaemeae mea arma sunt. Talia enim munimenta
+            sunt sacerdotis. Aliter nec debeo, nec possum resistere. §. 3. pUtinam securus essem,
+            quod ecclesia hereticis minime traderetur; ad palatium inperatoris irem libenter, si hoc
+            congrueret sacerdotis offitio, ut in palatio magis certarem, quam in ecclesia. Sed in
+            consistorio solet non Christus reusesse, sed iudex. Causam fidei in ecclesia agendam
+            quisabnuat? Si quis confidit, huc ueniat. Et infra q §. 4.Allegatur, inperatori licere
+            omnia, ipsius esse uniuersa.Respondeo: Noli te grauare, inperator, ut putes, te in ea,
+            que diuina sunt, inperiale aliquod ius habere; noli te extollere, sed, si uis diutius
+            inperare, esto Deo subditus.Scriptum est: „Que Dei Deo; que Cesaris Cesari.
+            Adinperatores palatia pertinent, ad sacerdotes ecclesiae.Publicorum menium tibi ius
+            conmissum est, non sacrorum.Iterum dicitur michi , mandasse inperatorem, debeoet ego
+            unam basilicam habere. Respondeo, non licettibi illam habere. Quid tibi cum adultera?
+            Adulteraest enim, que non est legitimo coniugio Christi copulata. Et m/ra: §. 5. Nabute,
+            sanctum uirum, possessoremuineae suae scimus interpellatum petitione regia, ut
+            uineainsuam daret, ubi rex succisis uitibus olus uile sereret, eum-que respondisse:
+            „Absit, ut ego Patrum meorum tradamhereditatem.^ Regem contristatum esse, quod sibi
+            essetalienum ius relatione iusta negatum: sed muliebri conciliodeceptum** morte in agrum
+            uenisse. Sanctus enim Na-bute uites suas uel proprio cruore defendit. Si ille uineamnon
+            tradidit suam, nos trademus ecclesiam Christi? Quidigitur a me responsum est
+            contumaciter? Dixi enimconuentus, absit a me, ut tradam Christi hereditatem. Nontradidit
+            Nabute suam w, ego tradam Christi hereditatem? sed hoc addidi: absit, ut tradam Dyonisii
+            hereditatem y, qui in exilio causa fidei defunctus est, hereditatem Eustorgii
+            confessoris, hereditatem Myrocletis, atque omnium fidelium retro episcoporum.
+            Respondiego quod sacerdotis est. Quod inperatoris est faciatinperator. Prius est, ut
+            animam michi quam fidem auferat. Et infra : §.6. Tributum Cesaris est, non negatur.
+            Ecclesia Dei est. Cesari utique non debetur, quia iusCesaris esse non potest Dei
+            templum. Quod cum honorificentia inperatoris dictum nemo potest negare. Quid
+            enimhonorificentius, quam ut inperator ecclesiae filius esse dicatur? Quod enim dicitur,
+            sine peccato dicitur, cumgratia dicitur. Inperator enim intra ecclesiamt 264 dd Bonus
+            enim inperator querit auxilium ecclesiae, non refutat. Et m/ra: §. 7. Si de me aliquid
+            compelleretur et posceretur, aut fundus, aut domus, autaurum, aut argentum, id quod mei
+            iuris essetss, libenter oflererem: templo Dei nichil possum nec </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e434"> decerpere, nec tradere illud custodiendum, nontradendum
+            acceperim. Deinde consulere etiam me in-peratoris saluti, quia nec michi expediret
+            tradere, necilli accipere. Accipiat uocem liberi sacerdotis, siuult sibi esse consultum,
+            recedat a Christi iniuria. Hecplena humilitatis sunt, et, ut arbitror, plena affectus
+            eius, quem inperatori debet sacerdos. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e438">
+          <head xml:id="gd-p2c23q8-Hd1e440">C. XXII</head>
+          <head xml:id="gd-p2c23q8-Hd1e443" type="question-title"> De suis exterioribus ecclesiae
+            soluunt tributum . </head>
+          <p xml:id="gd-p2c23q8-d1e446"> Item Urbanus Papa . </p>
+          <p xml:id="gd-p2c23q8-d1e449"> Tributum in ore piscis piscante Petro inuentum est, quia de
+            exterioribus suis, que palam cunctis apparent, tributum ecclesia reddit. Non autem totum
+            piscem dareiussus est, sed tantum staterem, qui in ore eius inuentusest, quia non
+            ecclesia dari inperatori, non pontificalis apex, qui in ore capitis ecclesiae preminet,
+            subici regibus potest.Sed sane, ut diximus, quod in ore piscis inuenitur pro Petroet
+            Domino dari iubetur, quia de exterioribus ecclesiae, quodconstitutum antiquitus est, pro
+            pace et quiete, qua nos tueriet defensare debent, inperatoribus persoluendum est. </p>
+          <p xml:id="gd-p2c23q8-d1e452"> IV. Pars. Gratian. Quamuis etiam huiusmodi non uideantur
+            inperialibus exactionibus subiciendi. Nam , cum tempore famis cunctorum Egiptiorum
+            terram Pharao sibi emeret , atque sub eadem fame suae seruituti ctmctes subiceret,
+            sacerdotibus ita necessaria subministranti, ut nec possessionibus , neclibertate
+            nudarentur , Domino ex tunc pr enuntiante ^, sacerdotes in omni gente liberos esse
+            oportere. </p>
+          <p xml:id="gd-p2c23q8-d1e456"> Unde Constantius et Constans hanc inmunitatem dederunt
+            ecclesiae , dicentes : </p>
+          <p xml:id="gd-p2c23q8-d1e459"> [C. XXIII.] </p>
+          <p xml:id="gd-p2c23q8-d1e462"> „ In qualibet ciuitate , in quolibet oppido , uel uico ,
+            castello , municipio °, quicumque uoto Christianae religionis meritum eximiae
+            singularisque uirtutis omnibus intimauerit , securitate perpetua potiatur. Gaudere ewm
+            et gloriari c#fide uolumus semper , scientes , magis religionibus , quam offitiis
+            etlabore corporis uel sudore nostram rempublicam contineriValentinianus quoque et Valens
+            decreuerunt , dicentes: §. i. , , Uniuersos , quos constiterit custodes ecclesiarum
+            esseuel sanctorum locorum , ac religiosis obsequiis deseruire , nullius attemptationis
+            molestiam sustinere decreuimus. ln-peraior Iu s tini anu s : §. 2. „ Sanctimus res ad
+            uenerabilesecclesias , uel xenones , monasteria , weZ ptochotrophia , uel brephotropliia
+            , uel orphanotrophia , uel gerontocomia , uel siquul^f tale aliud consortium
+            descendentes ex qualicumquecuriali®® S liberalitate , szwe inter uiuos , szae mortis
+            causa , stwem ultimis uoluntatibus habita , lucraiiuorum inscriptionibusliberas esse et
+            inmunes ; tepe scilicet , que super huiusmodiinscriptionibus posita est , m a/eYs quidem
+            personis suum roburobtinente , m parte autem ecclesiastica , uel aliarum domuum , </p>
+
+          <p xml:id="gd-p2c23q8-d1e465"> /as» pas consortiis deputatae sunt , swwra uigorem pietatis
+            intuitu mitigante </p>
+          <p xml:id="gd-p2c23q8-d1e468"> itehc etiam m Parisiensi Concilio legitur *. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e472">
+          <head xml:id="gd-p2c23q8-Hd1e474">C. XXIV</head>
+          <head xml:id="gd-p2c23q8-Hd1e477" type="question-title"> De agro ecclesiastico presbiter
+            non cogatur censum persoluere.</head>
+          <p xml:id="gd-p2c23q8-d1e480"> Secundum canonicam auctoritatem et constitutionem domini
+            inperatoris Lodoici, de agro ecclesiastico, et manso, de mancipiis, que ipse suis
+            capitulis** constituit, uel si quilibet, pro loco sepulturae aliquid largitus
+            ecclesiaefuerit, de decimisf et oblationibus fidelium nullusquemquam presbiterorum
+            aliquem censum persoluerecogat, nec quisquam cuiuslibet ordinis aut dignitatisexinde
+            quicquam subtrahat, aut redhibitionem quamcumque exigat temporalem. Quod si fecerit,
+            communioneusque ad satisfactionem priuetur, et regia potestate darecogatur ff. </p>
+          <p xml:id="gd-p2c23q8-d1e483"> [PALE A 325 . </p>
+          <p xml:id="gd-p2c23q8-d1e486"> C. XXV. Item ex Concilio Wormaciensi, c. 50.* </p>
+          <p xml:id="gd-p2c23q8-d1e490"> Sanccitum est, ut unicuique ecclesiae unus mansus integer
+            absque ullo seruitio attribuatur, et presbiteri in eis constituti non de decimis, neque
+            de obligationibus fidelium, non de domibus, neque de atriis, uel de hortisiuxta
+            ecclesiam positis, neque de prescripto manso aliquod seruicium faciant preter
+            ecclesiasticum. Et si aliquidamplius habuerint, inde maioribus suis debitum
+            seruiciuminpendant.] </p>
+          <p xml:id="gd-p2c23q8-d1e493"> Gratian. Hinc datur intelligi , quod de his , que inperiali
+            beneficio , uel a quibuslibet pro beneficio sepulturae ecclesia possidet , nullius fare,
+            nisi episcopi , teneatur asstricta. De his uero , que a quibuslibet emerit uel uitiorum
+            donationibus acceperit , principibus consueta debet obsequia , w/ e/ annua eis
+            persoluattributa , e/ conuocaio exercitu cum eis proficiscatur ad castra.Quod tamen hoc
+            ipsum non sine consensu Romani Pontificisfieri debet. </p>
+          <p xml:id="gd-p2c23q8-d1e496"> Unde Gelasius Papa Elpidio Episcopo^: </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e500">
+          <head xml:id="gd-p2c23q8-Hd1e502">C. XXVI</head>
+          <head xml:id="gd-p2c23q8-Hd1e505" type="question-title"> Absque auctoritate Romani
+            Pontificis ad comitatum episcopi proficisci non audeant.</head>
+          <p xml:id="gd-p2c23q8-d1e508"> Quo ausu, qua temeritate rescribis, ad Rauennam te parare
+            proficisci, cum canones euidenter precipiant nullum </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e511"> omnino pontificum, nisi nobis ante uisis atque consultis,
+            ad comitatum debere contendere*? Quemadmodumtibi putas licere quod non licet, nisi quod
+            hocoffitio carere festinas, quo his excessibus te ostendisindignum? </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e515">
+          <head xml:id="gd-p2c23q8-Hd1e517">C. XXVII</head>
+          <head xml:id="gd-p2c23q8-Hd1e520" type="question-title"> Absque metropolitani consilio uel
+            prouincialium episcoporum ad inperatorem episcopi non pergant. </head>
+          <p xml:id="gd-p2c23q8-d1e523"> Item ex Concilio Antio ceno, [c. i i.J </p>
+          <p xml:id="gd-p2c23q8-d1e526"> Si quis episcopus, uel presbiter, uel omnis omnino, qui est
+            sub ecclesiastica regula constitutus, preter consilium uel litteras eorum episcoporum,
+            qui intra pro-uinciam sunt, et maxime metropolitani, ad inperatoremperrexerit, hunc
+            abdicari et eici non solum de conmunionedebere, sed etiam propria dignitate priuari
+            tamquammolestum et inportunum inperialibus auribus contra ecclesiastica constituta. </p>
+          <p xml:id="gd-p2c23q8-d1e529"> Gratian. Reprehenduntur ergo Gallicani episcopi a Ny-kolao,
+            quoniam auctoritate apostolica contempta potius arma sequi elegerant, quam apostolico
+            conspectui sese representarent.Quamquam proficiscentes ad comitatum possunt intelligi
+            nonsecuti inperatorem, ut armis sibi auxilientur, sed ipsum cumexercitu suo cottidianis
+            orationibus Deo conmendent. In quocasu auctoritas illa Sardicensis Concilii loqui
+            uidetur, incuius octauo capitulo Osius Episcopus dixisse legitur *: </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e534">
+          <head xml:id="gd-p2c23q8-Hd1e536">C. XXVIII</head>
+          <head xml:id="gd-p2c23q8-Hd1e539" type="question-title"> Qui a religiosis inperatoribus
+            uocati episcopi non fuerint ad comitatum non accedant . </head>
+          <p xml:id="gd-p2c23q8-d1e542"> Si uobis, fratres karissimi, placet, decernite, ne episcopi
+            ad comitatum accedant, nisi forte hi, qui a religiosis inperatoribus** uel inuitati uel
+            uocati fuerint. Sed quoniam sepe contingit, ut ad misericordiamecclesiae confugiant qui
+            iniuriam patiuntur, et qui peccantes in exilium uel in insulas dampnantur, aut
+            certequamcumque sentenciam suscipiunt: ideoque sub-ueniendum his, et sine dubitatione
+            eis est petendaper ecclesiam indulgentia. </p>
+          <p xml:id="gd-p2c23q8-d1e545"> Gratian. Licet ergo prelatis ecclesiae exemplo B. Gregorii
+            ab inperatoribus uel quibuslibet ducibus defensionem fidelibus postulare. Licet etiam
+            cum B. Leone quoslibet adsui defensionem contra aduersarios sanctae fidei uiriliter
+            adhortari, atque ad uim infidelium procul arcendam quosque citare . Effusionem uero
+            sanguinis nulli episcoporum sua uel inperatorumauctoritate inperare licet. </p>
+          <p xml:id="gd-p2c23q8-d1e548"> Unde in Tolletano Concilio IV. [c. 30.] legitur™: </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e552">
+          <head xml:id="gd-p2c23q8-Hd1e554">C. XXIX</head>
+          <head xml:id="gd-p2c23q8-Hd1e557" type="question-title"> Sacerdotes ibi consentiant fieri
+            iudices, ubi iureiurando indulgentia promittitur.</head>
+
+          <p xml:id="gd-p2c23q8-d1e560"> Sepe principes contra quoslibet maiestatis obnoxios
+            sacerdotibus negocia sua conmittunt. Quia uero sacerdotes a Christo ad ministerium
+            salutis electi sunt, ibi consentiant regibus fieri iudices, ubi iureiurando
+            suppliciiindulgentia promittitur, non ubi discriminis sentencia pre-paratur. Si quis
+            ergo sacerdotum contra hoc conmuneconsultum discussor in alienis periculis extiterit,
+            sitreus effusi sanguinis apud Christum, et apud ecclesiamperdat proprium gradum. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e564">
+          <head xml:id="gd-p2c23q8-Hd1e566">C. XXX</head>
+          <head xml:id="gd-p2c23q8-Hd1e569" type="question-title"> Non debent agitare iudicium
+            sanguinis qui sacramenta Domini tractant.</head>
+          <p xml:id="gd-p2c23q8-d1e572"> Item ex Concilio Tolletano XI., [c. 6.] </p>
+          <p xml:id="gd-p2c23q8-d1e575"> His a quibus Domini sacramenta tractanda sunt, iudicium
+            sanguinis agitare non licet. Et ideo magnoperetalibus excessibus prohibendum est, ne
+            indiscretae presumptionis motibus agitati aut quod morte plectendumest sentencia propria
+            iudicare presumant, aut per se inferant truncationes quibuslibet personis aut
+            inferendasprecipiant. Quod si quisquam horum inmemor precepto-rum aut in ecclesiae suae
+            famulis, aut in quibuslibetpersonis tale aliquid fecerit, concessi ordinis
+            priueturhonore et loco; sub perpetuo quoque dampnationisteneatur ergastulo religatus.
+            Cui tamen conmunioexeunti ex hac uita non est neganda propter Dominimisericordiam, qui
+            non uult peccatoris mortem, sed utconuertatur et uiuat. </p>
+          <p xml:id="gd-p2c23q8-d1e578"> Gratian. Ceteri etiam absque iudiciali auctoritate
+            membrorum truncationes et domorum incendia facere prohibentur. </p>
+          <p xml:id="gd-p2c23q8-d1e582"> Unde in Decretis Euticiani Papae : </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e586">
+          <head xml:id="gd-p2c23q8-Hd1e588">C. XXXI</head>
+          <head xml:id="gd-p2c23q8-Hd1e591" type="question-title"> Membra detruncans, domos
+            incendens absque iudiciali auctoritate, excommunicetur.</head>
+          <p xml:id="gd-p2c23q8-d1e594"> Si quis membrorum truncationes, domorum incendia fecerit,
+            siue facere iusserit aut facienti consenserit, quousque de his unicuique legaliter uel
+            amicabilitercoram episcopo ciuitatis aliisque ciuibus non emendaue-rit, tamquam ethnicus
+            et publicanus ab omni Christianorum collegio separetur. </p>
+          <p xml:id="gd-p2c23q8-d1e597"> VI. Pars. Gratian. De incendiariis quoque Innocentius II.
+            in uniuersali Concilio [c. 18.] generaliter constituit, dicens : </p>
+          <p xml:id="gd-p2c23q8-d1e600"> [C. XXXII.] </p>
+          <p xml:id="gd-p2c23q8-d1e604"> „ Pessimam quidem*^ et depopulatricem, et horrendam^
+            incendiariorum maliciam auctoritate Dei, et beatorum apostolorum Petri et Pauli omnino
+            detestamur et interdicimus §. i.Si quis igiturpost huius nostrae prohibitionis
+            promulgationem </p>
+          <p xml:id="gd-p2c23q8-d1e607"> malo studio, siue pro odio, siue pro uindicta ignem
+            apposuerit, uel apponi fecerit, aut appositoribus consilium aut^ auxilium </p>
+
+
+
+
+          <p xml:id="gd-p2c23q8-d1e610"> scienter tribuerit, excommunicetur, et si mortuus fuerit
+            incendiarius, Christianorum careat sepultura, nec absoluatur, nisi prius, dampno cui
+            intulit secundum facultatem suam resarcito , iuret , se ulterius ignem non appositurum.
+            Penitencia autemei detur, ut Iherosolimis aut in Hispania in seruicio Dei per annum
+            integrum permaneat. Si quis autem archiepiscopus ueD episcopus hoc relaxauerit, dampnum
+            restituat, et per annum aboffitio episcopali abstineat. Sane regibus et principibus
+            faciendaeiusticiae facultatem consultis arcliiepiscopis et episcopis nonnegamus. </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e614">
+          <head xml:id="gd-p2c23q8-Hd1e616">C. XXXIII</head>
+          <head xml:id="gd-p2c23q8-Hd1e619" type="question-title"> Homicida est, qui, publicam
+            functionem non habens, aliquem occidit m^ debilitat. </head>
+          <p xml:id="gd-p2c23q8-d1e622"> Item Augustinus in libro de ciuitate De/*. </p>
+          <p xml:id="gd-p2c23q8-d1e625"> Qj 420 b percutit malos in eo, quod mali sunt, et habet
+            causam** interfectionis, minister Dei est. Qui uero sinealiqua publica amministratione
+            maleficum, furem, sacrilegum, adulterum et periurum, uel quemlibet criminosum
+            interfecerit, aut trucidauerit, uel membrisdebilitauerit, uelut homicida iudicabitur, et
+            tanto acrius, quanto non sibi a Deo concessam potestatem abusiue usurpare non timuit.“ </p>
+          <p xml:id="gd-p2c23q8-d1e628"> VII. Pars. Gratian. De his autem, qui simul hominem
+            uulnerant, queritur, si ille mortuus fuerit, quis eorum homicidiireatum incurrat f </p>
+          <p xml:id="gd-p2c23q8-d1e632"> De his ita statutum est in Concilio apud Vermerias : </p>
+        </div>
+        <div xml:id="gd-p2c23q8-Dd1e636">
+          <head xml:id="gd-p2c23q8-Hd1e638">C. XXXIV</head>
+          <head xml:id="gd-p2c23q8-Hd1e641" type="question-title"> Si plures contra unum rixentur,
+            qua pena quisque eorum feriatur . </head>
+          <p xml:id="gd-p2c23q8-d1e644"> Si quatuor aut quinque homines, seu etiam plures, contra
+            unum hominem rixati fuerint, et ab his uulneratusmortuus fuerit, quicumque eorum plagam
+            inposuit, secundum statuta canonum ut homicida iudicetur; reliquiautem, qui eum
+            inpugnabant, uolentes eum interficere, similiter peniteant. Qui nec eum impugnabant,
+            necuulnerabant, nec consilio nec auxilio cooperatores fuerunt, sed tantum affuerunt,
+            extra noxam sint. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

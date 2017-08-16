@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c30q3">
+        <head xml:id="gd-p2c30q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c30q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c30q3-d1e109"> I. Pars. Quod autem spirituales uel adoptiui filii
+          naturalibus copulari non possint, NyJcolaus Papa respondens adconsulta Bulgarorum [cap.
+          2.] testatur , ita dicens: </p>
+        <div xml:id="gd-p2c30q3-Dd1e112">
+          <head xml:id="gd-p2c30q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c30q3-Hd1e117" type="question-title"> Qui de sacro fonte suscipitur
+            filius eius est, a quo suscipitur.</head>
+          <p xml:id="gd-p2c30q3-d1e120"> Ita diligere debet homo eum, qui se suscepit desacro fonte,
+            sicut patrem. Item: §. 1. Est inter fratres etfilios spirituales gratuita et sancta
+            conmunio, que dicendanon est consanguinitas, sed habenda spiritualis proximitas. Unde
+            inter eos arbitror non posse fieri quodlibetlegale coniugium, quodoquidem nec inter eos,
+            qui natura, et eos, qui adoptione filii sunt, uenerandae leges matrimonia contrahi
+            permittunt. Item : §. 2. Si inter eosnon contrahitur matrimonium, quos adoptio iungit,
+            quantopotius a carnali oportet inter se contubernio cessarequos per celeste sacramentum
+            regeneratio Spiritus sanctiuincit? Longe ergo inquit s congruentius filius patrismei uel
+            frater meus appellatur is, quem diuina gratia potius, quam humana uoluntas, ut filius
+            eius uel fratermeus esset, elegit; prudentiusque ab alterna corporis con-mixtione
+            secernimus . </p>
+        </div>
+        <div xml:id="gd-p2c30q3-Dd1e124">
+          <head xml:id="gd-p2c30q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c30q3-Hd1e129" type="question-title"> Filia spiritualis carnali filio
+            nullo modo nubere potest.</head>
+          <p xml:id="gd-p2c30q3-d1e132"> Item Zacharias Episcopus, seruus seruorum Dei,
+            reuerentis-simo Theodoro Episcopo ecclesiae Ticinensis . </p>
+          <p xml:id="gd-p2c30q3-d1e135"> Pitacium quod nobis tua ueneranda fraternitas obtulit, per
+            quod nos sciscitari uoluisti, si liceat filio, </p>
+
+
+
+
+          <p xml:id="gd-p2c30q3-d1e138"> cuius pater alterius filiam ex sacro baptismate suscepit,
+            susceptam, id est spiritualem eius patris filiam (quoddici crudele est), in matrimonio
+            suscipere, quod apudte enormiter asseruisti contigisse. §. i. Sed bene tuasancta
+            fraternitas conpertum habet, quod Dominus precepit f Moysie, dicens: „Turpitudinem*
+            patris tui, uelmatris, uel sororis non reuelabis; turpitudo enim tua est.Cum ergo** a
+            propria consanguinitate iubemur abstinere, multo magis a spirituali patris nostri filia
+            omniexcusatione aut argumento seposito sub nimia districtionenos cauere conuenit, ne in
+            iram diuinae examinationisincidat, si quis tali facinore mixtus minime restrinxeritfrena
+            luxuriae. Unde etiam omnes*** cauendi sunta tali sceleris conmixtione, ne in perpetuum
+            pereant;sed hunc, qui huius perniciosae temeritatis, animae suaesalutem despiciens,
+            inpio se miscuit matrimonio, peromnia tua fraternitas studeat separare, et penitenciae
+            dignaesubmittere, quatinus ab eterna erutam dampnatione animam eius lucreris. </p>
+        </div>
+        <div xml:id="gd-p2c30q3-Dd1e143">
+          <head xml:id="gd-p2c30q3-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c30q3-Hd1e148" type="question-title"> Filio suo , quam de sacro fonte
+            sus ceperit™ , nullus tradere audeat. </head>
+          <p xml:id="gd-p2c30q3-d1e151"> Item Zacharias et Deusdedit . </p>
+          <p xml:id="gd-p2c30q3-d1e154"> Non oportet filiam, quam de sacro fonte susceperit,
+            aliquando filio suo in matrimonium tradere, quia indiuina sentencia germani esse
+            inueniuntur. Si quis talifacinore conmixtus minime restrinxerit frena luxuriae,
+            abecclesia catholica abhominabitur. Sed si conuersus fuerit, post separationem septem
+            annis penitenciam gerat. Consciis simul cum auctore sit ista condicio, id est simul
+            cumcooperatoribus et consentientibus peniteat. </p>
+          <p xml:id="gd-p2c30q3-d1e157"> II. Pars. Gratian. Filii uero, siue ante conpaternitatem
+            siue post nati fuerint, licite coniungi possunt. </p>
+          <p xml:id="gd-p2c30q3-d1e161"> Unde Urbanus i/. scribit Vitali Presbitero Brisciensi,
+            dicens : </p>
+          <p xml:id="gd-p2c30q3-d1e164"> [C. IV.] </p>
+          <p xml:id="gd-p2c30q3-d1e167"> „ Super quibus consuluit nos tua dilectio, hoc uidetur
+            kobis ex sentencia respondendum , ut et$ baptismus sit, siinstante necessitate femina
+            puerum in nomine Trinitatis bapti-zauerit, et quod spiritualium parentum filii uel
+            filiae, ante uelpost conpaternitatem genitae , possunt legitime coniungi, preterillam
+            personam, qua conpatres sunt effecti .“ </p>
+
+          <p xml:id="gd-p2c30q3-d1e170"> Pascalis uero secundus, post conpaternitatem genitos
+            copulari prohibet, scribens Regino Episcopo 92 a*; </p>
+        </div>
+        <div xml:id="gd-p2c30q3-Dd1e174">
+          <head xml:id="gd-p2c30q3-Hd1e176">C. V</head>
+          <head xml:id="gd-p2c30q3-Hd1e179" type="question-title"> Qui ex conpatre uel conmatre post
+            susceptos filios de fonte nati fuerint, coniungi non possunt. </head>
+          <p xml:id="gd-p2c30q3-d1e182"> Post susceptum uero de fonte filium uel filiam spiritualem,
+            qui ex conpatre uel conmatre nati fuerint, matrimonio coniungi non possunt, quia leges
+            seculi non emancipatosadoptiuis prohibent copulari. </p>
+          <p xml:id="gd-p2c30q3-d1e185"> [PALE A.* C. VI. </p>
+          <p xml:id="gd-p2c30q3-d1e188"> Idem ex lib. XXIII. Digestorum, tit. de ritu nuptiarum,
+            perpenditur, in quo ita legitur: </p>
+          <p xml:id="gd-p2c30q3-d1e192"> Per adoptionem quesita fraternitas eousque inpedit nuptias,
+            donec manet adoptio, ideoque eam, quam patermeus adoptauit et emancipauit, potero uxorem
+            ducere.Eque et si me emancipato illam in potestate retinuerit, poterimus iungi
+            matrimonio. Itaque uolenti generumadoptare, suadetur, ut filiam emancipet. Similiter
+            suadeturei, qui uelit nurum adoptare, ut emancipet filium.] </p>
+          <p xml:id="gd-p2c30q3-d1e195"> III. Pars. Gratian. Si quis uero aliquo fortuito casu
+            filiam suae conmatris uxorem acceperit, non cogitur eam dimittere.Unde in Triburiensi
+            Concilio legitur [c. 48.]: </p>
+        </div>
+        <div xml:id="gd-p2c30q3-Dd1e199">
+          <head xml:id="gd-p2c30q3-Hd1e201">C. VII</head>
+          <head xml:id="gd-p2c30q3-Hd1e204" type="question-title"> Non cogitur quis dimittere filiam
+            suae conmatris, quam duxit in coniugium.</head>
+          <p xml:id="gd-p2c30q3-d1e207"> Illud etiam nec canonica institutione diffinimus, nec
+            interdictione aliqua refutamus, sed propter eos, qui diuersede eo sentiunt, hoc loco
+            aliquid conmemoramus. Si quissuae spiritualis conmatris filiam fortuitu et ita
+            contingente rerum casu in coniugium duxerit, consilio maturioriseruato habeat, atque
+            honeste legitimo coniugio operam det. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

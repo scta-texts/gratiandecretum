@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c5q1">
+        <head xml:id="gd-p2c5q1-Hd1e103">QUESTIO I.</head>
+        <p xml:id="gd-p2c5q1-d1e106"> De prima questione Adrianus Papa scribit [in capitulis, cap.
+          49. al. 50.J dicens : </p>
+        <div xml:id="gd-p2c5q1-Dd1e109">
+          <head xml:id="gd-p2c5q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c5q1-Hd1e114" type="question-title"> Flagelletur qui scripta in
+            alterius famam probare neglexerit.</head>
+          <p xml:id="gd-p2c5q1-d1e117"> Qui in alterius famam publice* scripturam aut uerba
+            contumeliosa confinxerit, et repertus scripta non probauerit, flagelletur, et qui eam
+            prius inuenerit rumpat, si non uultauctoris facti causam incurrere. </p>
+        </div>
+        <div xml:id="gd-p2c5q1-Dd1e121">
+          <head xml:id="gd-p2c5q1-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c5q1-Hd1e126" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c5q1-d1e129"> Item Gregorius [ 1 . V. epist. 30.] </p>
+          <p xml:id="gd-p2c5q1-d1e132"> Quidam maligni spiritus consilio repletus, contra Ca-storium
+            notarium ac responsalem nostrum nocturno silentio in 14a* ciuitatis loco contestationem
+            posuit in eius crimine loquentem, mihique etiam asserebat eum de facienda </p>
+
+
+
+
+          <p xml:id="gd-p2c5q1-d1e135"> pace callide contradicentem**. Qui si non exierit, neque
+            publice confessus fuerit, quisquis ille sit, qui hocagere presumpserit, uel consensum
+            tantae iniquitatisconsilio prebuit, ex Dei et Domini nostri Iesu Christispiritu
+            diffinimus, ut sancti eius corporis ac sanguinisparticipatione priuatus sit. Sin uero,
+            quia latet, et quoniamnescitur, teneri ad disciplinam non ualet, tanti s maliconscius,
+            et prohibitus, corpus et sanguinem Dominipercipere presumit, anathematis ultione
+            percutiatur***, ut fallax ac pestifer a sanctae ecclesiae corpore sitdiuisus. Sin autem
+            in eandem ciuitatem ingressus °publice p potuerit docere que dixit, uel certe sciensse
+            non posse que scripsit ostendere, errorem suum fueritaperte confessus, dominici corporis
+            et^ sanguinis participatione non sit priuatus, neque a sanctae ecclesiae corporealienus
+            existat. </p>
+        </div>
+        <div xml:id="gd-p2c5q1-Dd1e139">
+          <head xml:id="gd-p2c5q1-Hd1e141">C. III</head>
+          <head xml:id="gd-p2c5q1-Hd1e144" type="question-title"> Anathematizentur qui famosos
+            libellos in ecclesia ponunt . </head>
+          <p xml:id="gd-p2c5q1-d1e147"> Item ex Concilio Eliberitano , [c. 52.] </p>
+          <p xml:id="gd-p2c5q1-d1e150"> Hii qui inuenti fuerint libellos famosos in ecclesiaponere,
+            anathematizentur. </p>
+          <p xml:id="gd-p2c5q1-d1e153"> [Gratian.] Codice ^ lib. IX. tit. de famosis libellis ,
+            Inpp. Valentinianus et FaZens: Si quis famosumlibellum siue domi, siue in publico, siue
+            quocumqueloco ignarus repererit, aut corrumpat prius, quam alter inue-niat, aut nulli
+            confiteatur inuentum. Sin uero non statimeasdem cartulas uel corruperit, uel ignis
+            consumpserit, sed uim earum manifestauerit, sciat, se quasi auctoremhuiusmodi delicti
+            capitali sententiae subiugandum. Huiusmodi autem libellus alterius opinionem non ledat.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

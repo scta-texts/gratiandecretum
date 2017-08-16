@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VI</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VI</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c4q6">
+        <head xml:id="gd-p2c4q6-Hd1e103">QUESTIO VI</head>
+        <p xml:id="gd-p2c4q6-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c4q6-d1e109"> Sexta uera questio eodem , capitulo terminatur in quo
+          sequitur: </p>
+        <div xml:id="gd-p2c4q6-Dd1e112">
+          <head xml:id="gd-p2c4q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c4q6-Hd1e117" type="question-title"> In ciuili et proprio dumtaxat
+            negotio ad arguendum admittitur, qui in episcopi accusatione culpabilis inuenitur . </head>
+          <p xml:id="gd-p2c4q6-d1e120"> Illud uero placuit, ut cum agere ceperit in episcoporum
+            iudicio, si fuerit accusatoris persona dampnabilis, de cetero ad arguendum non
+            admittatur, nisi propriascausas, non tamen ecclesiasticas uel criminales*,
+            asserereuoluerit. </p>
+        </div>
+        <div xml:id="gd-p2c4q6-Dd1e124">
+          <head xml:id="gd-p2c4q6-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c4q6-Hd1e129" type="question-title"> Propriam causam agere ualet cui
+            accusare non licet . Item ex Concilio Cartaginensi VII. [c. 2. prope finem]. </head>
+          <p xml:id="gd-p2c4q6-d1e132"> Omnibus, quibus accusatio denegatur, in causis propriis
+            accusandi licentia non est neganda. </p>
+        </div>
+        <div xml:id="gd-p2c4q6-Dd1e137">
+          <head xml:id="gd-p2c4q6-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c4q6-Hd1e142" type="question-title"> In accusatione episcoporum
+            deficiens ciuiliter tantum experiri poterit . </head>
+          <p xml:id="gd-p2c4q6-d1e145"> Item Felix Episcopus * omnibus Episcopis [per Galliae
+            pro-uincias constitutis, epistola II.J </p>
+          <p xml:id="gd-p2c4q6-d1e148"> Si accusatorum personae in episcoporum iudicio culpabiles
+            aparuerint, ad arguendum non admittantur, nisi proprias causas asserere, non tamen
+            criminales uel ecclesiasticas, uoluerint. </p>
+
+          <p xml:id="gd-p2c4q6-d1e151"> [C. IV.] </p>
+          <p xml:id="gd-p2c4q6-d1e155"> Item Adrianus Papa [in capitulis, c. 5.] </p>
+          <p xml:id="gd-p2c4q6-d1e158"> Quod si accusatorum personae in iudicio episcoporum etc. ut
+            supra eisdem uerbis. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

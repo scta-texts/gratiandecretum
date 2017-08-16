@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c13q2">
+        <head xml:id="gd-p2c13q2-Hd1e103"> QUESTIO II. </head>
+        <p xml:id="gd-p2c13q2-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c13q2-d1e109"> I. Pars. Ad hec: Decimationes istae, etsi uobis iure
+          deberentur*, ut asseritis, tamen tricennalis obiectio uobis silentiuminponit. Omnis enim
+          possessio tricennaria prescriptione tollitur, uel quadragenaria (sicut possessiones
+          religiosarum domorum) uelcentenaria, sicut predia sanctae Romanae ecclesiae. </p>
+        <p xml:id="gd-p2c13q2-d1e112"> Unde Gelasius Papa ait [Episcopis Siciliae, ep. II. c. 2.}: </p>
+        <div xml:id="gd-p2c13q2-Dd1e115">
+          <head xml:id="gd-p2c13q2-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c13q2-Hd1e120" type="question-title"> Que triginta annis ab episcopis
+            possidentur iure ab eis uendicantur.</head>
+          <p xml:id="gd-p2c13q2-d1e123"> Facultates ecclesiae, nec non et dioceses, que ab aliquibus
+            possidentur episcopis, iure sibi uendicent, quod tricennalis lex conclusit, quia et
+            filiorum nostrorum prin-cipum ita emanauit auctoritas, ut ultra XXX. annos nulliliceat
+            pro eo appellare, quod legum tempus exclusit. </p>
+          <p xml:id="gd-p2c13q2-d1e126"> Gratian. At illi econtra: Cuius auctoritate nobis silentium
+            inponitis, eius auctoritate claudimus uestra ora. Ait enimidem Gelasius: „ Nulla
+            presumptione statum parrochiarumetc. Si ergo temporalis obiectio diocesim semel
+            constitutamdiuellere non potest, patet, quod nec uobis patrocinabitur, ut, statum
+            nostrae parrochiae mutantes, decimationes quondamnobis legitime assignatas uindicabili
+            usurpatione uobis uendicetis.Quomodo autem distinguendae sint hae auctoritates, in
+            causamonachorum inuenietur. </p>
+          <p xml:id="gd-p2c13q2-d1e129"> II. Pars. §. 1. Nunc queritur de iure funerandi, queharum
+            ecclesiarum habeat ius tumulandi istos? Sicut Iero ni- </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e133"> mus scribit , coniugati in uno sepulcro uidentur esse
+            ponendi. Ait enim: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e138">
+          <head xml:id="gd-p2c13q2-Hd1e140">C. II</head>
+          <head xml:id="gd-p2c13q2-Hd1e143" type="question-title"> In sepulcro parentum filii sunt
+            collocandi. </head>
+          <p xml:id="gd-p2c13q2-d1e146"> Ebron dicitur esse ciuitas trium* uirorum, quia in ea
+            sepulti sunt tres patriarchae, in spelunca duplici cum tribus uxoribus suis, id est
+            Abraham et Sara, Ysaac et Rebecca, Iacob et Lia, preter ipsum Adam et Euam uxorem
+            suam.Tobias dicit aa filium suum: „ Cum acceperit Deus animammeam, corpus meum sepelies,
+            et honorem habebis matri tuaeomnibus diebus , et cum ipsa conpleuerit tempus suum,
+            sepelies eam iuxta me in uno sepulcro.^ Idem : §. i.Quos coniunxit unum coniugium
+            coniungat unum sepulcrum, quia una caro sunt, et quos Deus coniunxit homonon separet. </p>
+          <p xml:id="gd-p2c13q2-d1e149"> [C. III.] </p>
+          <p xml:id="gd-p2c13q2-d1e152"> Item Augustinus *. </p>
+          <p xml:id="gd-p2c13q2-d1e156"> III. Pars. Unaqueque mulier sequatur uirum suum, siue in
+            uita siue in morte. Item Gregorius : §. i. Sororsancti Benedicti sepulta est in
+            sepulcro, quod ipse sibipreparauerat, ut quorum mens una fuit semper in Domino, eorum
+            quoque corpora sepultura non separaret. </p>
+          <p xml:id="gd-p2c13q2-d1e159"> Gratian. Item Ioseph , moriens in Egypto, rogauit fratres
+            suos, ut tempore suae uisitationis ossa sua secum deferrent, et insepulcro patrum suorum
+            ea collocarent. §. i. Item, dictum estProphetae , qui contra preceptum Domini prohibitus
+            comederat in Bethel: „Non inferetur cadauer tuum in sepulcro**patrum tuorumP §. 2. Item.
+            De nonnullis legitur in libroRegum: „ Obiit et appositus est ad patres suos , hoc est in
+            sepulcro patrum suorum. §. 3. Item. In nouo testamentolegitur B. Philippus edificasse
+            sibi sepulcrum., in quo ipse et filiaeeius quieuerunt. §. 4. Item. B. Seuerus Rauennatum
+            archiepiscopus tumulum fieri iussit, in quo se, et uxorem, et filiam collo-cauit. §. 5.
+            His omnibus exemplis colligitur, quod in sepultura*parentum corpora filiorum collocanda
+            sunt. Quia ergo parentesistorum apud priores * ecclesias sepulti sunt, et hi apud easdem
+            debent tumulari. §. 6. Econira Adam , ut asseritis, in ciuitateArbeae tumulatus est. Sed
+            numquid omnes filii eius sepulti suntibi? tanta multitudo humani generis tam breui
+            tumulo non tamfacile posset includi. §. 7. Item Abraham ibi sepultus est. Sednumquid
+            Ismahel, et Madai, et alii, quos de Cethura genuit, ibi sepulti sunt? §. 8. Item Ysaac
+            ibi positus est. Sed numquidEsau cum eo tumulatus est? §. 9. Item Iacob ibi collocatus
+            est.Sed numquid aliquis filiorum eius preter Ioseph cum eosepultus est ? Rachel quoque
+            non in Ebron, sed iuxta Bethleemtumulata legitur. Exemplo igitur istorum liquet, quod
+            liberumest filiis sepeliri in sepulcris patrum suorum, et liberum est eisalibi pro
+            locorum et temporum oportunitate corpori suo hospitiuminuenire. Non ergo hoc exemplo
+            isti coguntur sepeliri in sepulcris patrum suorum. §. 10. Item, que legibus diffinita
+            sunt mutarenon licet. Que autem legibus expressa non sunt arbitrium secun- j tur humanae
+            uoluntatis. At legibus dif/initum est quibus decimae \ </p>
+
+          <p xml:id="gd-p2c13q2-d1e162"> sint persoluendae, et ideo danti mutare non licet. Ubi
+            autem quisque tumulandus sit, legibus expressum non est, et ideo in uoluntate tumulandi
+            cqnsistit. </p>
+          <p xml:id="gd-p2c13q2-d1e165"> Unde B. Gregorius ait**: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e169">
+          <head xml:id="gd-p2c13q2-Hd1e171">C. IV</head>
+          <head xml:id="gd-p2c13q2-Hd1e174" type="question-title"> Ultima uoluntas defuncti seruari
+            debet. </head>
+          <p xml:id="gd-p2c13q2-d1e177"> Ultima uoluntas defuncti modis omnibus conseruetur . </p>
+          <p xml:id="gd-p2c13q2-d1e180"> IV. Pars. Gratian. Quod de libero et non de seruo
+            in-telligendum est. Seruus enim testamenti paqinam condere nonpotest. </p>
+          <p xml:id="gd-p2c13q2-d1e183"> Unde Gelasius Papa scribit Honorio Episcopo : </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e187">
+          <head xml:id="gd-p2c13q2-Hd1e189">C. V</head>
+          <head xml:id="gd-p2c13q2-Hd1e192" type="question-title"> Seruus testamentum facere non
+            potest.</head>
+          <p xml:id="gd-p2c13q2-d1e195"> Illud etiam sinceritatem tuam uolumus non latere, ad nos
+            fuisse perlatum, quod Ampliatus conductor, quem nonsolum seruum constat esse ecclesiae,
+            sed ita rationibusa multis temporibus inplicatum, ut, etiam si esset ingenuus, donec
+            ratiocinia cuncta deduceret, modis omnibus' obnoxius haberetur, ausu temerario molitus
+            fuerit paginamcondere testamenti, cuius omne peculium ecclesiastico iurilegibus non
+            dubitetur obstrictum. Quapropter his presymp-tionibus uice nostra tua fraternitas
+            contradicat, nec fieriprorsus aliqua subreptione permittat. Ac si eidem
+            quicquamhumanitus forte contigerit, quia grandeuus esse memoratur, mox eius sine
+            dilatione substantiam precipiat unanimitas tua filiis eius dumtaxat, quibus
+            patrimoniumprobatur esse conmissum, sub fideli descriptione contradi, donec temporibus
+            uniuersis, quibus hoc patrimonium gubernasse cognoscitur, partes dominicas
+            redderecogatur indempnes. </p>
+          <p xml:id="gd-p2c13q2-d1e198"> V. Pars. Gratian. Quia ergo secundum Gregorium ultima
+            uoluntas defuncti conseruando est, pro istorum uoluntatecorpora eorum sunt tumulanda,
+            non pro arbitrio uestrae dispositionis. </p>
+          <p xml:id="gd-p2c13q2-d1e201"> Item in Triburiensi Concilio legitur *: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e205">
+          <head xml:id="gd-p2c13q2-Hd1e207">C. VI</head>
+          <head xml:id="gd-p2c13q2-Hd1e210" type="question-title"> Ubi quisque eligere sepulturam
+            sibi debet . </head>
+          <p xml:id="gd-p2c13q2-d1e213"> Ubicumque temporum uel locorum facultas tulerit, apud
+            maiorem ecclesiam, ubi sedes est episcopi, sepulturae celebrentur. Si autem propter
+            temporis uel loci asperitatemhoc difficile uisum fuerit, apud ecclesiam, quo
+            religiosorum canonicorum, uel monachorum, uel sanctimonialium religiosa congregatio
+            communiter degerit, sepeliatur.Si autem et hoc ineptum uisum fuerit, ubi quis
+            decimaspersoluebat uiuus, ibi sepeliatur mortuus. </p>
+          <p xml:id="gd-p2c13q2-d1e216"> Gratian. Quia ergo decimam nobis persoluebat uiuus, et apud
+            nos sepeliendus est mortuus. Item, si quis de prouincia adprouinciam transiret , et ibi
+            domicilium sibi collocaret, liberfactus a ditione prioris iudicis, iurisdictioni illius
+            iudicis sub-iceretur, in cuius prouincia sedem sibi eligeret . Quia ergoisti a uestra
+            diocesi in nostram transierunt, liberi a uestra </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e219"> ditione nostro iuri subiciuntur • Nostrum ergo est ius
+            funerandi eos. </p>
+          <p xml:id="gd-p2c13q2-d1e223"> Sed obicitur illud Melciadis Papae : </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e227">
+          <head xml:id="gd-p2c13q2-Hd1e229">C. VII</head>
+          <head xml:id="gd-p2c13q2-Hd1e232" type="question-title"> Propria temeritate sepulturam
+            parentum relinquere non licet.</head>
+          <p xml:id="gd-p2c13q2-d1e235"> Placuit per omnia magno concilio, ut nullus proprii
+            arbitrii temeritate aliam ecclesiam, nisi cui usus antiquorumparentum canonica
+            institutione subiacere perhibetur, sepulturae causa adire procuret, nisi infirmitatis
+            causa prepe-ditus in aliam fuerit regionem quolibet negotio progressus. Ad hec, si quis
+            prelatus contra hec agere sategerit, ecclesiastico uinculo se subdi cognoscat. </p>
+          <p xml:id="gd-p2c13q2-d1e238"> Gratian. Sed aliud est ex temeritatis superbia usum
+            antiquorum parentum non sequi, atque aliud rationabili occasione nouam sibi sepulturam
+            eligere. Contra Melciadis Papae auctoritatem nititur qui superbia uel odio ductus, siue
+            uanis persuasionibus aut uariis munusculis illectus, sepulturam suorumparentum sequi
+            contempnit *. Secundum Gregorium autemliberam habet ultimam ^ uoluntatem qui certae
+            rationis causanouum suo corpori querit hospitium . §. i. Vel, ut quidam distinguunt,
+            libera est ultima uoluntas cuiusque, non in sepultura sibieligenda, sed in testamento
+            conficiendo. Unde et testamentumappellatur, quia eo libere quisque testatur quid post
+            suum decessum de propriis rebus fieri uelit. §. 2. Sed non uidetur liberatestatoris
+            uoluntas, cum secundum Augustinum pro numerofiliorum debeat fieri testamentaria
+            distributio facultatum, ueluti, siquis habet unum filium, Christum putet alterum; si
+            uero duos, Christum faciat tertium, et sic per ordinem . Et secundumLeonem quisque
+            medietatem eorum, que Christo testatur, ecclesiae iubetur relinquere, apud quam fidei
+            sacramenta suscepitp.Sed illud Augustini non est iubentis, sed dehortantis, ne
+            quisiratus filium suum exheredaret , atque totum Christo relinqueret. </p>
+          <p xml:id="gd-p2c13q2-d1e241"> Ait enim in II. serm. de uita clericorum: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e245">
+          <head xml:id="gd-p2c13q2-Hd1e247">C. VIII</head>
+          <head xml:id="gd-p2c13q2-Hd1e250" type="question-title"> Pro numero filiorum pars
+            hereditatis Deo offeratur . </head>
+          <p xml:id="gd-p2c13q2-d1e253"> Si quis irascitur filio suo, et moriens exheredat eum, si
+            uiueret, non eum placarem? non ei filium reconciliaredeberem? Quomodo ergo uolo ut cum
+            filio suo habeatpacem, cuius appeto hereditatem? Sed plane sic faciatquod sepe hortatus
+            sum. Unum filium habet: putetChristum alterum; duos habet: putet Christum tertium;decem
+            habet: faciat Christum undecimum, et suscipio. </p>
+          <p xml:id="gd-p2c13q2-d1e256"> Gratian. Hac nimirum auctoritate mensura testatori
+            pre-figitur , non quam cogatur exsoluere, sed quam prohibetur trans-scendere. </p>
+          <p xml:id="gd-p2c13q2-d1e259"> VI. Pars. §. 1. Oblationes uero* defunctorum qui reddere
+            noluerint excommunicentur ^• </p>
+
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e264">
+          <head xml:id="gd-p2c13q2-Hd1e266">C. IX</head>
+          <head xml:id="gd-p2c13q2-Hd1e269" type="question-title"> Excommunicentur qui defunctorum
+            oblationes ecclesiis negant. </head>
+          <p xml:id="gd-p2c13q2-d1e272"> Qui oblationes defunctorum' aut negant ecclesiis, aut
+            difficulter reddunt, tanquam egentium necatores excommunicentur. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e276">
+          <head xml:id="gd-p2c13q2-Hd1e278">C. X</head>
+          <head xml:id="gd-p2c13q2-Hd1e281" type="question-title"> Ut infideles eiciantur ab
+            ecclesiis, qui oblationes retinent defunctorum.</head>
+          <p xml:id="gd-p2c13q2-d1e284"> Item ex Concilio Varensi [I., c. 4.] </p>
+          <p xml:id="gd-p2c13q2-d1e287"> Qui oblationes defunctorum retinent, et ecclesiis tradere
+            demorantur, ut infideles sunt ab ecclesia abi-ciendi, quia usque ad exinanitionem fidei
+            peruenirecertum est hanc pietatis diuinae exacerbationem, quia etfideles de corpore
+            recedentes uotorum plenitudine, et pauperes consolatu alimoniae et necessaria
+            sustentatione fraudantur. Hii ergo tales quasi egentium necatores, nec credentes
+            iudicium Dei habendi sunt.Unde et quidam Patrum hoc scriptis suis inseruit, congruente
+            sententia, qua ait: „Amico quippiam rapere furtum est, ecclesiae uero fraudare
+            sacrilegium est. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e291">
+          <head xml:id="gd-p2c13q2-Hd1e293">C. XI</head>
+          <head xml:id="gd-p2c13q2-Hd1e296" type="question-title"> Qui oblata ecclesiis aut
+            testamento relicta retinere presumpserint excommunicentur * </head>
+          <p xml:id="gd-p2c13q2-d1e299"> Item ex Concilio Agat ensi, [c. 4.] </p>
+          <p xml:id="gd-p2c13q2-d1e302"> Clerici uel seculares, qui oblationes parentum aut donatas,
+            aut testamento relictas retinere perstiterint, aut id, quod ipsi donauerint ecclesiis
+            uel monasteriis, crediderint auferendum, sicut sinodus sancta constituit, uelut
+            necatores pauperum quousque reddant ab ecclesiis excludantur. §. 1. Si quis autem
+            clericus furtumecclesiae fecerit, peregrina ei tribuatur conmunio. </p>
+          <p xml:id="gd-p2c13q2-d1e305"> VII. Pars. Gratian. Item queritur, an pro sepultura
+            mortuorum aliquid sit exigendum ? </p>
+          <p xml:id="gd-p2c13q2-d1e309"> De his ita scribit Gregorius in Registro, I anu a r io,
+            Episcopo Sardiniae : </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e313">
+          <head xml:id="gd-p2c13q2-Hd1e315">C. XII</head>
+          <head xml:id="gd-p2c13q2-Hd1e318" type="question-title"> Pro sepultura nichil muneris
+            exigendum est.</head>
+          <p xml:id="gd-p2c13q2-d1e321"> Questa est nobis Nereida clarissima femina, quod ab ea
+            solidos* pro filiae suae sepultura fraternitas uestra exigere uelit. Hoc autem uicium et
+            nos, postquam, Deoauctore ad episcopatus honorem accessimus, de ecclesianostra omnino
+            uetuimus, et per prauam denuo consuetudinem nequaquam usurpari permisimus, memores,
+            quiadum Abraham a filiis Ephron**, hoc est a filiisSeor, sepulcrum precio ad humandum
+            corpus coniu- </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e324"> gis postularet, premium accipere rennuit, necommodum
+            uideretur de cadauere consecutus. Si ergo tantae considerationis paganus uir fuit,
+            quanto magis nos, qui sacerdotesdicimur, hoc facere non debemus? Unde hoc
+            auaritiaeuicium ne in alienis denuo temptari presumatur, am-moneo. §. i. Sed si quando
+            aliquem in ecclesia uestra sepeliri conceditis, siquidem parentes ipsius, proximi
+            uelheredes pro luminaribus sponte quid offerre uoluerint, accipere s non uetamus. Peti
+            uero aut aliquid exigiomnino prohibemus, ne (quod ualde irreligiosum est) autuenalis
+            (quod absit) dicatur ecclesia, aut uos de humanisuideamini mortibus gratulari, si ex
+            eorum cadaueribus studetis querere quolibet modo conpendium***. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e328">
+          <head xml:id="gd-p2c13q2-Hd1e330">C. XIII</head>
+          <head xml:id="gd-p2c13q2-Hd1e333" type="question-title"> Etiam coacti de sepultura precium
+            accipere non debemus.</head>
+          <p xml:id="gd-p2c13q2-d1e336"> Item leronimus super Gen . 167 a Postquam precio uictus est
+            Ephron, ut sepulcrum uen-deret et acciperet argentum, licet cogente Abraham, uaulittera,
+            que apud illos pro o legitur, ablata est de eius nomine, et pro Ephron appellatus est
+            Ephran, significante scriptura, non eum fuisse consummatae perfectaeque uirtutis,
+            quipotuerit uendere memoriam mortuorum. §. i. Sciantigitur qui sepulcra uendunt
+            uoluntarie, nec coguntur ut accipiant precium, sed a nolentibus quicquam extorquent,
+            mutari nomen suum, et perire quiddam s de merito eorum, cum etiam ille reprehendatur
+            occulte, quiinuitus accepit. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e340">
+          <head xml:id="gd-p2c13q2-Hd1e342">C. XIV</head>
+          <head xml:id="gd-p2c13q2-Hd1e345" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c13q2-d1e348"> Item ex Concilio Triburiensi , [c. 16.]In ecclesiastico
+            namque libro scriptum est: „Mortuonon prohibeas gratiam, sciens, quia omnes moriemur.^Et
+            item: Omnia, que de terra orta sunt, in terramconuertentur.“ Quid terra terram uendis?
+            memento, quod terra es, et in terram reuerteris*, et quoniammors tibi futura est, et s
+            appropiat, et si tardat. Recordare, quia non hominis terra est, sed, ut
+            Psalmistaconmemorat: , , Domini est terra, et plenitudo eius.“Si terram uendis,
+            inuasione rei reus teneberis. Gratisaccepisti a Deo, gratis da pro eo. Quare
+            interdictumsit omnibus omnino Christianis terram mortuis uendere, et debitam sepulturam
+            denegare, nisi forte proximi et amicidefuncti propter nomen et redemptionem animae
+            uirigratis aliquid dare uelint, </p>
+
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e353">
+          <head xml:id="gd-p2c13q2-Hd1e355">C. XV</head>
+          <head xml:id="gd-p2c13q2-Hd1e358" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c13q2-d1e361"> Item ex Concilio Varensi 200*. </p>
+          <p xml:id="gd-p2c13q2-d1e364"> Precipiendum est secundum canonum auctoritatem, ut de
+            sepulcris et hominibus sepeliendis nichil munerisexigant, nisi forte qui sepelitur
+            uiuens iusserit ecclesiae, incuius atrio sepelitur, aliquid de suis rebus tribuere,
+            autetiam post mortem illius, quibus conmissum est eiuselemosinam facere, de rebus illius
+            aliquid sponte dareuoluerint; et tamen nullatenus a presbiteris illisaliquid exigatur,
+            siue ab illis, qui locis et uillis presunt.§. i. Prohibendum est etiam secundum maiorum
+            instituta, ut in ecclesia nullatenus sepeliantur, sed in atrio, aut in porticu, aut in
+            exedris ecclesiae. Infra ecclesiam uero, aut prope altare, ubi corpus Domini et sanguis
+            conficitur, nullatenus sepeliantur. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e368">
+          <head xml:id="gd-p2c13q2-Hd1e370">C. XVI</head>
+          <head xml:id="gd-p2c13q2-Hd1e373" type="question-title"> A sacris locis non iuuantur post
+            mortem quibus peccata dimissa non sunt.</head>
+          <p xml:id="gd-p2c13q2-d1e376"> Item Augustinus *. </p>
+          <p xml:id="gd-p2c13q2-d1e379"> VIII. Pars. Quibus peccata dimissa non sunt, a sacrislocis
+            post mortem adiuuari non possunt, quia quos peccata grauiora deprimunt, si in sacris
+            locis se sepelirefaciunt, restat, ut de sua presumptione iudicentur, quatinus eos sacra
+            loca non liberant, sed culpa temeritatis accusat. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e383">
+          <head xml:id="gd-p2c13q2-Hd1e385">C. XVII</head>
+          <head xml:id="gd-p2c13q2-Hd1e388" type="question-title"> Quibus prosit in ecclesia
+            sepeliri.</head>
+          <p xml:id="gd-p2c13q2-d1e391"> Item Gregorius [lib. IV. Dial. c. 50.] </p>
+          <p xml:id="gd-p2c13q2-d1e394"> Cum grauia peccata non deprimunt, tunc prodest mortuis, si
+            in ecclesiis sepeliantur, quia eorum proximi, quociens ad eadem sacra loca ueniunt,
+            suorumquoque sepulturam aspiciunt, recordantur etpreces pro eis Domino fundunt. Nam quos
+            peccata grauia </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e397"> deprimunt ad maiorem cumulum dampnationis potius quam ad
+            solutionem eorum corpora in ecclesiis ponuntur. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e401">
+          <head xml:id="gd-p2c13q2-Hd1e403">C. XVIII</head>
+          <head xml:id="gd-p2c13q2-Hd1e406" type="question-title"> Qui sepeliantur in ecclesia. </head>
+          <p xml:id="gd-p2c13q2-d1e409"> Item ex Concilio Magunciensi [I. c. 52.] </p>
+          <p xml:id="gd-p2c13q2-d1e412"> Nullus mortuus infra ecclesiam sepeliatur, nisi episcopi,
+            aut abbates, aut digni presbiteri, uel fideles laici. </p>
+          <p xml:id="gd-p2c13q2-d1e415"> Gratian. Quid uero mortuis prosit iuxta ecclesiam sepeliri
+            , quidue ad eos perueniat*, Augustinus in lib. de agenda curapro mortuis , [cap. ult.],
+            ostendit, dicens , </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e419">
+          <head xml:id="gd-p2c13q2-Hd1e421">C. XIX</head>
+          <head xml:id="gd-p2c13q2-Hd1e424" type="question-title"> Quare mortui iuxta ecclesiam
+            sepeliantur.</head>
+          <p xml:id="gd-p2c13q2-d1e427"> Non ‘estimemus ad mortuos, pro quibus curam gerimus,
+            peruenire, nisi quod pro eis siue altaris, siue orationum, siue elemosinarum sacrificiis
+            solempniter supplicamus, quamuis non omnibus prosint pro quibus fiunt, sed his tantum,
+            pro quibus, dum uiuunt, cooperanturut prosint. Sed quia non discernimus, qui sint,
+            oportet eapro regeneratis omnibus facere, ut nullus eorum pretermit-tatur, ad quos hec
+            beneficia possint et debeant peruenire.Melius enim supererunt ista his, quibus nec
+            obsunt, nec prosunt, quam eis deerunt, quibus prosunt §. i. Diligentius tamen facit
+            quisque pro necessariis suis, quopro illo fiat similiter a suis. §. 2. Corpori autem
+            humando quicquid inpenditur non est presidium salutis, sedhumanitatis offitium, secundum
+            affectum, quo nemo umquam carnem suam odio habet. Unde opportet, utquam potest pro carne
+            proximi curam gerat, cum ille inde recesserit, qui gerebat. Et si hec faciunt qui
+            carnisresurrectionem non credunt, quanto magis debent facere quicredunt? ut corpori, sed
+            tamen ut°s resurrecturo et ineternitate mansuro, inpensum huiusmodi offitium sitetiam
+            quodammodo eiusdem fidei testimonium. §.3. Quoduero quisque apud memorias martirum
+            sepelitur, hoctantum michi uidetur prodesse defuncto, ut conmendanseum etiam martirum
+            patrocinio affectus supplicationis proillo augeatur. </p>
+          <p xml:id="gd-p2c13q2-d1e430"> Gratian. Contra^ Ieronimus \m epistolam ad Galat. c. 6. ad
+            ea uerba: Unusquisque onus suum.]* </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e434">
+          <head xml:id="gd-p2c13q2-Hd1e436">C. XX</head>
+          <head xml:id="gd-p2c13q2-Hd1e439" type="question-title"> Post mortem orationes non prosunt
+            uiuentium . </head>
+          <p xml:id="gd-p2c13q2-d1e442"> In presenti seculo scimus siue orationibus siue consiliis
+            inuicem posse nos adiuuari. Cum autem ante tribunal Christi uenerimus, nec Iob, nec
+            Daniel, nec Noe rogare posse pro quoquam, sed unumquemque portareonus suum. </p>
+          <p xml:id="gd-p2c13q2-d1e445"> Gratian. Verum hoc de inpenitentibus accipiendum est, de
+            quibus Propheta „Non dabit Deo placationem suam, necprecium redemptionis animae suae, et
+            ideo frater non redimet eum , sed laborabit in eternum, et uiuet in finem. De aliis
+            autemintelligi non potest. </p>
+
+          <p xml:id="gd-p2c13q2-d1e448"> Unde Gregorius Bonifati0 Archiepiscopo . </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e453">
+          <head xml:id="gd-p2c13q2-Hd1e455">C. XXI</head>
+          <head xml:id="gd-p2c13q2-Hd1e458" type="question-title"> In penitencia defunctis bona
+            prosunt uiuentium.</head>
+          <p xml:id="gd-p2c13q2-d1e461"> Pro obeuntibus quippe consuluisse cognosceris, si liceat
+            pro eis oblationes offerri. Sancta sic tenetecclesia, ut quisque pro mortuis uere
+            Christianis offerat oblationes, atque presbiter eorum faciat memoriam, etquamuis
+            peccatis omnes subiaceamus, congruit, ut sacerdos pro mortuis catholicis memoriam faciat
+            et intercedat;non tamen pro inpiis (quamuis Christiani fuerint) tale quidagere licebit.
+          </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e465">
+          <head xml:id="gd-p2c13q2-Hd1e467">C. XXII</head>
+          <head xml:id="gd-p2c13q2-Hd1e470" type="question-title"> Quatuor modis soluuntur animae
+            mortuorum, Idem . </head>
+          <p xml:id="gd-p2c13q2-d1e473"> Animae* defunctorum quatuor modis soluuntur, aut
+            oblationibus sacerdotum, aut precibus sanctorum, aut karo-rum elemosinis, aut ieiunio
+            cognatorum. §. 1. Curatiouero funeris, conditio sepulturae, pompa exequiarum, magissunt
+            uiuorum solatia quam subsidia mortuorum. Si aliquidprodest inpio sepultura preciosa,
+            oberit pio uilis aut nulla.§. . Nec ideo tamen contempnenda sunt corpora etabicienda
+            defunctorum, maximeque iustorum. §. 3.Ubi et illud salubriter discitur, quanta possit
+            esse renumeratio pro elemosinis, quas uiuentibus et sentientibusexhibemus si neque hoc
+            apud Deum perit, quod examinishominum membris offitii diligentia persoluitur. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e477">
+          <head xml:id="gd-p2c13q2-Hd1e479">C. XXIII</head>
+          <head xml:id="gd-p2c13q2-Hd1e482" type="question-title"> Ante diem iudicii sacrificiis et
+            elemosinis mortui iuuantur . </head>
+          <p xml:id="gd-p2c13q2-d1e485"> Item Augustinus in Enchiridion, [c. 109. et no.] </p>
+          <p xml:id="gd-p2c13q2-d1e488"> Tempus, quod inter hominis mortem et ultimam resurrectionem
+            interpositum est, animas abditis receptaculis continet, sicut queque digna est uel
+            requie, uel erumpna, pro eo quod sortita est in carne dum uiueret. Neque negandum est,
+            defunctorum animas pietate suorum uiuentiumreleuari, cum pro illis sacrificium
+            mediatoris offertur, uel elemosinae fiunt in ecclesia. Sed eis hec prosunt, qui, cum
+            uiuerent, hec sibi ut postea possent prodesse meruerunt. §. 1. Est enim quidam uiuendi
+            modus, nec tam bonus, ut non requirat ista post mortem, nec tam malus, ut eiista post
+            mortem non prosint. Est uero talis in bono, uthec non requirat, et est rursus talis in
+            malo, ut nec hisualeat, cum hec uita transierit, adiuuari. Quocirca omne hicmeritum
+            conparatur, quo possit post uitam releuari quispiam uel grauari. Et post pauca: §. 2.
+            Cum sacrificia altaris siue quarumcumque elemosinarum pro baptizatisomnibus offeruntur,
+            pro ualde bonis gratiarum actionessunt, pro non ualde malis propiciationes sunt, pro
+            ualdemalis, etiam si nulla sunt s adiumenta mortuorum, tamen uiuorum consolationes sunt.
+            Quibus autem prosunt aut ad hoc prosunt, ut sit plena remissio, aut certe,
+            uttollerabilior fiat ipsa dampnatio. </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e491"> IX. Pars. Gratian. De obseruatione autem™ tertii, septimi,
+            tricesimi uel quadragesimi diei queritur, unde exordiumsumpserit f </p>
+          <p xml:id="gd-p2c13q2-d1e495"> Ambrosius in lib. de obitu Theodosii Inper at oris : </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e499">
+          <head xml:id="gd-p2c13q2-Hd1e501">C. XXIV</head>
+          <head xml:id="gd-p2c13q2-Hd1e504" type="question-title"> Quare certi dies, in mortuorum
+            conmemo-ratione seruentur.</head>
+          <p xml:id="gd-p2c13q2-d1e507"> Quia alii tertium* diem, alii septimum, alii tricesimum,
+            alii quadragesimum obseruare consueuerunt in offitiis mortuorum, quid doceat lectio
+            consideremus.„Defuncto, inquit, Iacob, precepit Ioseph pueris suis sepultoribus, ut
+            sepelirent eum, et sepelierunt sepultoresIsrael, et repleti sunt quadraginta dies. Sic
+            enimdinumerantur dies sepulturae. Et luxit eum septem**diebus.“ Hec ergo sequenda
+            sollempnitas, quam pre-scribit lectio. Sed etiam in Deuteronomio scriptumest: „Quia
+            planxerunt filii Israel Moysen triginta diebus, et consummati sunt dies luctus.“ Utraque
+            ergo obseruata habet auctoritatem, qua necessarium pietatis inpleturoffitium. </p>
+          <p xml:id="gd-p2c13q2-d1e510"> X. Pars. Gratian. Lugere autem et tristari tam pronostra
+            quam pro aliorum morte Cipr i anus prohibet, dicens , </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e514">
+          <head xml:id="gd-p2c13q2-Hd1e516">C. XXV</head>
+          <head xml:id="gd-p2c13q2-Hd1e519" type="question-title"> Nec pro nostra, nec pro morte
+            aliorum tristari debemus.</head>
+          <p xml:id="gd-p2c13q2-d1e522"> Quam preposterum est quamque peruersum, ut cum Dei
+            uoluntatem fieri postulemus, quando euocat nos etaccersit de hoc mundo, non statim
+            uoluntatis eius in-perio pareamus, obnitimur et reluctamur, et peruicaciummore seruorum
+            ad conspectum Domini cum tristitia et me-rore perducimur, exeuntes istinc necessitatis
+            uinculo, nonuoluntatis obsequio, et uolumus ab eo premiis celestibushonorari, ad quem
+            uenimus inuiti. /c?m: §. i. Nobis quoque ipsis minimis et extremis quociens reuelatum
+            est, quamfrequenter atque manifeste de Dei dignatione preceptumest, ut contestarer
+            assidue, ut publice predicarem, fratres non essq^lugendos accersione dominica de
+            seculoliberatos, cum sciamus non amitti, sed premitti, recedentes precedere, ut
+            proficiscentes, ut s nauigantes solent. </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e526">
+          <head xml:id="gd-p2c13q2-Hd1e528">C. XXVI</head>
+          <head xml:id="gd-p2c13q2-Hd1e531" type="question-title"> Ex pusillanimitate mortuos lugere
+            contingit.</head>
+          <p xml:id="gd-p2c13q2-d1e534"> Item Iohannes Crisostomus, in epist. ad Ebreos ^. </p>
+          <p xml:id="gd-p2c13q2-d1e537"> Ubicumque sepeliamur, Domini est terra et plenitudo eius.
+            Scilicet quod oportet fieri efficiatur. Lugereautem et deplorare et lamentari eos, qui
+            de hac uita decedunt, ex pusillanimitate contingit. </p>
+
+          <p xml:id="gd-p2c13q2-d1e540"> Gratian. Hoc autem ex desperatione futurae resurrectionis
+            intelligitur. Unde ei Apostolus non simpliciter ait : „ Nolumus uos ignorare de
+            dormientibus, ut non contristeminisedaddidit: „ sicut et ceteri, qui spem non
+            habentPietatis namqueaffectu et humanitatis intuitu mortuos lugere non prohibemur ,
+            sicut nonnullos sanctorum aliorum exequiis pias lacrimas in - pendis se legimus. </p>
+          <p xml:id="gd-p2c13q2-d1e544"> Hinc etiam Anastasius Papa, [ep. II. ad Nerianum]: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e549">
+          <head xml:id="gd-p2c13q2-Hd1e551">C. XXVII</head>
+          <head xml:id="gd-p2c13q2-Hd1e554" type="question-title"> Qui spem futurae resurrectionis
+            habent de mortuis nimium tristari non debent. </head>
+          <p xml:id="gd-p2c13q2-d1e557"> Habent forsitan illi iustam longi doloris excusationem, qui
+            uitam alteram nesciunt, qui de hoc seculo ad melius essetransitum non confidunt. Nos
+            autem, qui hoc credimus et docemus, contristari nimium de obeuntibus nondebemus, ne quod
+            apud alios pietatis tenet speciem, hocmagis nobis in culpa sit. Nam diffidentiae
+            quodammodogenus est contra hoc, quod quisque predicat, querere, iustitiam amans*,
+            dicente Apostolo: „Nolumusautem uos ignorare de dormientibus, ut non contristemini,
+            sicut et ceteri, qui spem non habent.“ </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e561">
+          <head xml:id="gd-p2c13q2-Hd1e563">C. XXVIII</head>
+          <head xml:id="gd-p2c13q2-Hd1e566" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c13q2-d1e569"> Item ex Concilio Tollet ano III. [c. 22.] </p>
+          <p xml:id="gd-p2c13q2-d1e572"> Qui diuina uocatione ab hac uita recedunt, cum psalmis
+            tantummodo et psallentium uocibus debent adsepulcrum deferri*. Sufficiat autem, quod in
+            speresurrectionis Christianorum corporibus famulatus diuinorum inpenditur canticorum.
+            Prohibet nos sanctusApostolus lugere defunctos, dicens: , , De dormientibus autem nolo
+            uos contristari, sicut et ceteri, qui spemnon habent.“ Et Dominus non fleuit mortuum
+            Lazarum, sed ad huius uitae erumpnas plorauit resuscitandum. Siautem potest hoc
+            episcopus omnibus Christianis prohibere, non moretur agere. Religiosis tamen
+            omninoaliter fieri non debere censemus. Sic enim Christianorumper omnem mundum humari
+            oportet corpora defunctorum. </p>
+          <p xml:id="gd-p2c13q2-d1e575"> XI. Pars. Gratian. De mortuis etiam queritur, utrumsciant
+            ea, que hic a uiuis geruntur f Ysaias ex personapopuli afflicti ait: , , Abraham pater
+            noster nesciuit. Augustinus quoque in libro de agenda cura pro mortuis illud
+            idemtestatur, dicens [c. 15.]: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e579">
+          <head xml:id="gd-p2c13q2-Hd1e581">C. XXIX</head>
+          <head xml:id="gd-p2c13q2-Hd1e584" type="question-title"> Mortui ex se nesciunt que hic
+            geruntur 378 a </head>
+          <p xml:id="gd-p2c13q2-d1e587"> Fatendum est, nescire quidem mortuos quid hic agatur, sed
+            dum hic agitur; postea uero audire ab eis, qui </p>
+
+
+
+
+          <p xml:id="gd-p2c13q2-d1e590"> hinc ad eos moriendo pergunt, non quidem omnia, sed que
+            sinuntur etiam isti meminisse, et que illos, quibushec indicant, oportet audire. Possunt
+            et ab angelis, quirebus, que hic aguntur, presto sunt, audire aliquid mortui, quod
+            unumquemque illorum audire debere iudicat cuicuncta subiecta sunt. §. i. Multi quoque*
+            ad uiuos aliquos ex mortuis uenire credunt, sicut e contrario Paulum exuiuis in
+            paradisum raptum esse diuina scriptura testatur. </p>
+          <p xml:id="gd-p2c13q2-d1e593"> XII. Pars. Gratian. De his autem, qui in patibulis
+            suspenduntur, queritur, an iuxta ecclesiam *' sint sepeliendi? Dequibus in
+            Magonciensi**^ Concilio [II. sub Rab ano, c. 27., ] ita statutum est: </p>
+        </div>
+        <div xml:id="gd-p2c13q2-Dd1e597">
+          <head xml:id="gd-p2c13q2-Hd1e599">C. XXX</head>
+          <head xml:id="gd-p2c13q2-Hd1e602" type="question-title"> Non est deneganda communio his,
+            qui in patibulis suspenduntur.</head>
+          <p xml:id="gd-p2c13q2-d1e605"> Quesitum est ab aliquibus fratribus de his, qui in
+            patibulis suspenduntur pro suis sceleribus post confessionem Deo peractam, utrum
+            cadauera eorum ad ecclesias deferenda sint, et oblationes pro eis offerendae, et
+            missaecelebrandae, an non? Quibus respondemus, si omnibusde peccatis suis puram
+            confessionem agentibus et dignepemtentibus communio in fine secundum canonum precepta
+            danda est, cur canones communionem uelsepulturam eis interdicunt, qui pro peccatis suis
+            penamextremam persoluerunt et confitentur, uel confiteridesiderant*? Scriptum est enim:
+            „Non iudicatDeus bis in id ipsum.“ </p>
+          <p xml:id="gd-p2c13q2-d1e608"> [PALE A. C. XXXI. </p>
+          <p xml:id="gd-p2c13q2-d1e611"> Fures et latrones, si in furando aut depredando occidantur,
+            uisum est pro eis non orandum. Si conpre-hensi aut uulnerati presbitero uel diacono
+            confessi fuerint, communionem* eis non negamus.] </p>
+          <p xml:id="gd-p2c13q2-d1e615"> [PALE A. </p>
+          <p xml:id="gd-p2c13q2-d1e618"> C. XXXII. De eodem. </p>
+          <p xml:id="gd-p2c13q2-d1e621"> Item ex Concilio Aurelianensi*. </p>
+          <p xml:id="gd-p2c13q2-d1e624"> Si fur aut latro captus in preda absque occisionepotest
+            conprehendi, et tamen interficitur, quia ad imaginem Dei creati et in nomine eius
+            baptizati sunt, interfectores eorum quadraginta diebus non intrent ecclesiam. Lanea
+            ueste induti ab escis et potibus, quiinterdicti sunt, a toro, a gladio, ab equitatuse
+            abstineant. In tertia, quinta feria et sabbato aliquogenere leguminum uel olerum, et
+            pomis, paruisquepisciculis, cum mediocri cereuisia uicissim utantur et temperate. Sin
+            autem a ueridicis conprobatur testibus, quod sine odii meditatione se suaque liberando
+            diabolimembra interfecerint, et capi non poterant**, penitenciam pro homicidio eis non
+            iniungimus, nisi ipsi uoluerintaliquid quod humanitatis est facere. At si presbiter est,
+            non deponatur; cunctis tamen diebus uitae suaepenitenciam agat.J </p>
+        </div>
+        <div xml:id="gd-p2c14prae">
+          <h2>
+            <a/> CAUSA XIV. </h2>
+          <p xml:id="gd-p2c13q2-d1e635"> GRATIANUS. </p>
+          <p xml:id="gd-p2c13q2-d1e638"> Canonici cuiusdum ecclesiae questionem mouent de prediis;
+            testes ex fratribus suis producunt; nego datoribus pecuniam crediderunt, ut ex eorum
+            mercibus emolumenta acciperent. (Qu. I.) Queritur , an liceat eis repetere sua? (Qu.
+            II.) Secundo, anilli testes sint audiendi? (Qu. III.) Tertio, an illud sit
+            usurasexigere? (Qu. IV.) Quarto, an liceat clericis uel laicis a quolibet usuras
+            expetere? (Qu. V.) Quinto, an elemosinae de usurisfieri possint? (Qu. VI.) Sexto, an
+            usurarii penitenciam agereualeant, nisi quod male acceperunt restituant. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

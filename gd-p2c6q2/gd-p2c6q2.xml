@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6q2">
+
+        <head xml:id="gd-p2c6q2-Hd1e103"> QUESTIO II. </head>
+
+        <p xml:id="gd-p2c6q2-d1e106"> Quod autem queritur, si episcopus accusationem in accusatorem
+          uertere noluerit, an suae simplici assertioni fides sit habenda ? facile soluitur, si
+          sanctorum Patrum auctoritas diligenter inspiciatur. Ut enim sancti Patres diffiniunt,
+          nullius personae, quantumlibet exercitatae, confessioni fides est adhibenda,
+          nisiconpetentes probationes adhibeat. </p>
+        <p xml:id="gd-p2c6q2-d1e109"> Unde in IV. Cartaginensi Concilio [c. 29.] legitur : </p>
+        <div xml:id="gd-p2c6q2-Dd1e112">
+          <head xml:id="gd-p2c6q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c6q2-Hd1e117" type="question-title"> Episcopus crimen alicui obiciens,
+            in Sinodo probet quod obicit.</head>
+          <p xml:id="gd-p2c6q2-d1e120"> Episcopus, si clerico uel laico crimen inposuerit, deducatur
+            ad probationem in sinodum. </p>
+          <p xml:id="gd-p2c6q2-d1e123"> Gratian. Sed obicitur : Si se solum alieni sceleris conscium
+            nouerit, probare illud testibus non ualet; quid ergo tunc sibifaciendum sit, ex Concilio
+            Vasensi\l . c. 8.] sic diffinitur: </p>
+        </div>
+        <div xml:id="gd-p2c6q2-Dd1e127">
+          <head xml:id="gd-p2c6q2-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c6q2-Hd1e132" type="question-title"> Episcopus non proferat quod
+            probare non potest. </head>
+          <p xml:id="gd-p2c6q2-d1e135"> Si tantum episcopus alieni sceleris se conscium nouit,
+            quamdiu probare non potest, nichil proferat, sed cum ipsoad conpunctionem eius secretis
+            correctionibus elaboret.Quod si forte correptus pertinacior fuerit, et se communioni
+            publicae ingesserit, etiam si episcopus in redarguendo illum, quem reum iudicat,
+            probatione deficiat, indempnatus* (licet his, qui nichil sciunt, secederead tempus pro
+            personae maioris auctoritate iubeatur)ille tamen, quamdiu nichil probare potest, in
+            communione omnium, preterquam eius, qui eum reum iudicat, permanebit. </p>
+        </div>
+        <div xml:id="gd-p2c6q2-Dd1e140">
+          <head xml:id="gd-p2c6q2-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c6q2-Hd1e145" type="question-title"> De episcopo, qui sibi soli dicit
+            aliquem suum crimen fuisse confessum.</head>
+          <p xml:id="gd-p2c6q2-d1e148"> Placuit, ut si quando episcopus dicit aliquem sibi soli
+            proprium crimen fuisse confessum, atque ille neget, nonputet ad iniuriam suam episcopus
+            pertinere, quod illi solinon creditur. Et si scrupulo propriae conscientiae se
+            dicitneganti nolle communicare*, quamdiu excommunicato noncommunicauerit suus episcopus,
+            eidem episcopo abaliis non communicetur episcopis, ut magis caueat episcopus, ne dicat
+            in quemquam quod aliis documentis conuincerenon potest. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

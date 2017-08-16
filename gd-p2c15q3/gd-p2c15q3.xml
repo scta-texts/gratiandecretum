@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15q3">
+        <head xml:id="gd-p2c15q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c15q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c15q3-d1e109"> Tertio queritur, an ex mulieris confessione iste sit
+          condem-pnandus? In quo primum uidendum est, an mulier sacerdotem accusare ualeat ? Quod
+          sacris canonibus omnino uidetur esse prohibitum. Generaliter enim statutum est ex decretis
+          FabianiPapae, ut sacerdotes Domini non accusent, nec in eos 'testifi-centur, qui sui
+          ordinis non sunt, nec esse possunt. Mulieresautem non solum ad sacerdotium, sed nec etiam
+          ad diaconatumprouehi possunt, unde nec sacerdotes accusare, nec in eos testificari ualent.
+          Legibus quoque cautum est, ut ob uerecundiam suisexus mulier apud pretorem pro alio non
+          intercedat, nisi fortesuas uel suorum iniurias persequH maluerit . Hec autem, quenec suas,
+          nec suorum iniurias persequitur , ad hanc accusationemadmitti non debet. §. i. Econtra qui
+          iudicis personam gerereualet ab accusatoris offitio non remouetur. Mulieres autem inueteri
+          testamento populum iudicasse, quicumque librum Iudicum legerit ignorare non poterit . Non
+          itaque ab accusatione re-moueri possunt quas etiam iudicis personam frequenter
+          gessisseconstat, nec ulla serie diuinarum scripturarum ab accusationeprohibentur. §. 2.
+          His ita respondetur: In ueteri lege multapermittebantur, que hodie perfectione gratiae
+          abolita sunt. Cumenim mulieribus permitteretur populum iudicare , hodie pro peccato, quod
+          mulier induxit, ab Apostolo eis indicitur uerecundari , uiro subditas esse, in signum
+          subieciionis uelatum caput habere.Que ergo his omnibus uiro subiecta ostenditur, cui pro
+          aliopostulare non conceditur, ad accusationem admittenda non uide- </p>
+
+
+
+
+        <p xml:id="gd-p2c15q3-d1e112"> tur. §. 3. Econtra, quamquam passim et indifferenter ad
+          accusationem mulier non admittatur, sunt tamen quedam crimina, quorum accusationem mulier
+          subire non prohibetur. </p>
+        <p xml:id="gd-p2c15q3-d1e115"> Unde in libro Codicis [IX., tit. i.l. 12.] Inp. Diocletianus
+          scribit, dicens *: </p>
+        <div xml:id="gd-p2c15q3-Dd1e119">
+          <head xml:id="gd-p2c15q3-Hd1e121"> [C. I.] </head>
+          <p xml:id="gd-p2c15q3-d1e124"> „Z)e crimine, ?nod publicorum fuerit iudiciorum, mulieri
+            accusare non permittitur, nm certis ex causis, id est si suam suorumque iniuriam
+            persequatur, secundum antiqui iuris statuta tantum, de quibus specialiter eis concessum
+            est, non exacta subscriptione. Unde aditus preses prouinciae in primis examinabit, an
+            tale sit crimen, cnms accusationem mulier subire non prohibetur “ a, </p>
+        </div>
+        <div xml:id="gd-p2c15q3-Dd1e128">
+          <head xml:id="gd-p2c15q3-Hd1e130"> [C. II.] </head>
+          <p xml:id="gd-p2c15q3-d1e133"> Item in* libro Digestorum, Paulus lib. II. de adulteriis,
+            [tit. de testibus, 1. 18.] </p>
+          <p xml:id="gd-p2c15q3-d1e136"> „ Ex eo, gwod prohibet lex Iulia de adulteriis testimonium
+            dicere condempnatam mulierem, colligitur etiam mulieres ZesZZ- monium dicendi in iudicio
+            ius habereP Item de accusationibus et inscriptionibus, Z. i.: §. 1. „Non est permissum
+            mulieri publico iudicio quemquam reum facere, nm scilicet parentumliberorumque, e*
+            patroni et patronae, eZ eorum filii filiaeue , nepotis neptisue mortem exequaturP </p>
+        </div>
+        <div xml:id="gd-p2c15q3-Dd1e140">
+          <head xml:id="gd-p2c15q3-Hd1e142"> [C. III.] 22 </head>
+          <p xml:id="gd-p2c15q3-d1e145"> Paulus lib. I. de adulteriis 23 a. </p>
+          <p xml:id="gd-p2c15q3-d1e148"> , , Certis de causis concessa est mulieribus publica
+            accusatio , ueluti si mortem exequantur eorum eorumque, in quos ex lege testimonium
+            publicorum inuiiae non dican{. §. 1. Idem et in lege Cornelia testamentaria senatus
+            statuit; sed etde testamento paterni liberti uel materni^ mulieribus publico iudicio
+            dicere^permissum est. §. 2. Pupillis ex consilio ZnZo- rum patris mortem, item pupillae
+            aui sui mortem exequi', concessum est lege testamentaria. iVam de patris quidem
+            testamentopupillis agere dZwws Vespasianus permisit. Sed etsi non exhibeantur tabulae,
+            per interdictum possunt experiri .“ Codicequi accusare possunt neZ non, Zdm Augustus^s
+            Dioni- sZo:tfaor Zna, se consobrini sui necem uindicandam * ex </p>
+          <p xml:id="gd-p2c15q3-d1e151"> istimat, adeat presidem prouinciae .“ Digestis ad Ze^em
+            luliam maiestatis, [lege 8., ] Papinianus Ze&amp;ro 12. Responsorum: §. 3. *, /n
+            questionibus lesae maiestatis etiam mulieresaudiuntur. §.4. Coniurationem Sergii *
+            Catilinae Iulia *mulier detexit , eZ ikf. Tullium consulem iudicium eius m- struxit. “ </p>
+          <p xml:id="gd-p2c15q3-d1e154"> [Gratian.] Quecumque uero persona ad accusationem
+            publicorum iudiciorum uel lesae maiestatis admittitur, eadem accusationem symoniae
+            subire non prohibetur. </p>
+          <p xml:id="gd-p2c15q3-d1e158"> Unde in primo Codicis lib. Inp. Leo Augustus^- Arma- seo,
+            Prefecto PreU : </p>
+
+          <p xml:id="gd-p2c15q3-d1e161"> C. IV. Zesae maiestatis, eZ publicorum iudiciorum, et
+            symoniae accusatio equaliter proponatur. </p>
+          <p xml:id="gd-p2c15q3-d1e164"> Sane quisquis hanc sanctam et uenerandam antistitis sedem
+            pecuniae interuentu subisse, aut si quis, ut alterumordinaret uel eligeret, aliquid
+            accepisse detegitur, ad instarpublici criminis et lesae maiestatis accusatione
+            proposita, aradu sacerdotis retrahatur. Nec hoc solum deincepsonore priuari, sed
+            perpetuae quoque infamiae dampnaridecernimus, ut facinus quos par coinquinat et equat,
+            utrosque similis pena comitetur. </p>
+          <p xml:id="gd-p2c15q3-d1e167"> Gratian. Cum autem sacris canonibus accusationes om-nino
+            submoueantur, /tfas leges seculi non asciscunt, 0 diuerso uidentur\admittendae que
+            legibus seculi non prohibentur. Verumhoc non infertur. Quicumque enim clericorum nuptias
+            sacriscanonibus contrahere prohibentur, eZ legibus inperatorum. Nonautem consequenter
+            omnium copulam leges admittunt, quorumconiunctionem sacri canones 59 non prohibent;
+            legibus enim * soZZ cantores et lectores, canonibus autem etiam acoliti uxores
+            ducerepossunt. Quamuis igitur sacris canonibus submoueantur accusationes, quas leges
+            seculi non asciscunt, non ideo consequenterrecipiuntur quascumque leges principum
+            admittunt. §. 1. «Sed(sZcnZ circa huius operis initium premissum est) tociens
+            legibusinperatorum in ecclesiasticis negociis utendum est, quociens sacriscanonibus
+            obuiare non inueniuntur. Unde aut specialiter sacriscanonibus mulier ab accusatione
+            lesae maiestatis et symoniaeostendatur prohibita, aut premissis rationibus ad
+            huiuscemodiaccusationem admittenda probatur . §. . iVec quisquamdistinguere querat, ad
+            aliorum, non ad sacerdotum accusationemin hoc casu symoniae mulieres esse admittendas.
+            Cum enim generaliter legibus hoc eis permissum inueniatur, nisi quis specialiteraliqua
+            lege hoc prohibitum ostenderit , eius distinctio locum nonhabebit. Verum, cum contra
+            regulas generales quedam criminaspecialiter excepta sint, in quibus mulieri accusare
+            permittitur, inter que fornicatio non numeratur, patet, quod huius accusatioduppliciter
+            \infirmatur, et quia fornicationis crimen intendit, etquia, dum de se confitetur, super
+            alienum crimen ei credi nonoportet. </p>
+          <p xml:id="gd-p2c15q3-d1e170"> Unde Iulius Papa scribit [in decretis, c. 18., ] dicens :
+          </p>
+        </div>
+        <div xml:id="gd-p2c15q3-Dd1e174">
+          <head xml:id="gd-p2c15q3-Hd1e176">C. V</head>
+          <head xml:id="gd-p2c15q3-Hd1e179" type="question-title"> Rei professio aduersus quemlibet
+            admitti non debet.</head>
+          <p xml:id="gd-p2c15q3-d1e182"> Nemini (preterquam de crimine maiestatis)* de se confesso
+            super alienum crimen credi oportet, quoniameius atque omnis rei professio periculosa
+            est, et admittiaduersus quemlibet non debet. </p>
+          <p xml:id="gd-p2c15q3-d1e185"> Gratian. Quia ergo ista de se confitetur, super alienum
+            crimen ei credi non potest , sed contra eam sua confessiointerpretanda est. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

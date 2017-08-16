@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c22q4">
+        <head xml:id="gd-p2c22q4-Hd1e103"> QUESTIO IV. </head>
+        <p xml:id="gd-p2c22q4-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c22q4-d1e109"> III. Pars. Quod autem illicita iuramenta seruari non debeant,
+          in Tollet ano Concilio VIII. [cap. 2.] legitur, in quo sicstatutum est : </p>
+        <div xml:id="gd-p2c22q4-Dd1e112">
+          <head xml:id="gd-p2c22q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c22q4-Hd1e117" type="question-title"> Melius est uota stultae
+            promissionis non inplere quam crimen admittere*. </head>
+          <p xml:id="gd-p2c22q4-d1e120"> Si publicis sacramentorum gestis (quod Deus auertat) a
+            quibuslibet illicita uel non bona extitisset conditio allegata, que aut iugulare animam
+            patris, aut gerere conpelleretstuprum sacratissimae uirginis, numquid non
+            tollerabiliusesset stultae promissionis uota reicere, quam per inutiliumpromissorum
+            custodiam exorrendam criminum inplere mensuram? </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e124">
+          <head xml:id="gd-p2c22q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c22q4-Hd1e129" type="question-title"> Aliquando non expedit promissum
+            soluere sacramentum. </head>
+          <p xml:id="gd-p2c22q4-d1e132"> Item Ambrosius de offitiis, lib. I. [cap. 50.] </p>
+          <p xml:id="gd-p2c22q4-d1e135"> Est etiam contra offitium nonnumquam promissum soluere
+            sacramentum *, ut Herodes, qui iurauit, quoniamquicquid petitura esset daret filiae
+            Herodiadis, necemIohannis prestauit, ne promissum negaret. </p>
+          <p xml:id="gd-p2c22q4-d1e138"> Gratian. Item in sermone S. Augustini Episcopi de
+            de-collatione S. Iohannis Baptistae, qui sic incipit: , , Cum sanctum euangelium
+            legeretur: </p>
+
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e143">
+          <head xml:id="gd-p2c22q4-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c22q4-Hd1e148" type="question-title"> Pietas fuit, quod Dauid Nabal,
+            sicut iurauerat, non occidit . </head>
+          <p xml:id="gd-p2c22q4-d1e151"> Quod Dauid iuramentum per sanguinis effusionem non
+            inpleuit, maior pietas fuit. Video* Dauid pium hominemet sanctum in iurationem
+            temerariam incidisse, et maluisse non facere quod iurauerat, quam iurationem suamhominis
+            fuso sanguine inplere. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e155">
+          <head xml:id="gd-p2c22q4-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c22q4-Hd1e160" type="question-title"> De eodem . Item . </head>
+          <p xml:id="gd-p2c22q4-d1e163"> Iurauit Dauid temere, sed non inpleuit iurationem maiori
+            pietate. §. i. Ecce Dauid S. iuramento quidemastrictus non fudit sanguinem hominis: sed
+            eum falsumiurasse negare quis poterit? De duobus peccatis minimum elegit; sed minus fuit
+            illud in conparatione peioris®. Nam, per se ipsum appensum, magnum malum estfalsa
+            iurare. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e167">
+          <head xml:id="gd-p2c22q4-Hd1e169">C. V</head>
+          <head xml:id="gd-p2c22q4-Hd1e172" type="question-title"> Turpia uota seruanda non
+            sunt.</head>
+          <p xml:id="gd-p2c22q4-d1e175"> Item Ysidorus in Sinonimis, libro secundo *. </p>
+          <p xml:id="gd-p2c22q4-d1e178"> In malis promissis rescinde fidem. In turpi uoto muta
+            decretum. Quod incaute uouisti non facias. Inpiaest promissio, que scelere adinpletur. </p>
+          <p xml:id="gd-p2c22q4-d1e181"> • </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e185">
+          <head xml:id="gd-p2c22q4-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c22q4-Hd1e190" type="question-title"> Non est obseruandum iuramentum,
+            quo malum incaute promittitur.</head>
+          <p xml:id="gd-p2c22q4-d1e193"> Item B e da in omel. XLIV. [in natali decollationis S.
+            Iohannis]. </p>
+          <p xml:id="gd-p2c22q4-d1e196"> Si aliquid forte nos incautius iurare contigerit, quod
+            obseruatum peiorem uergat in exitum, libere illudsalubriore consilio mutandum nouerimus,
+            ac magis instante necessitate peierandum nobis, quam pro uitandoperiurio in aliud crimen
+            grauius esse diuertendum.Denique iurauit Dauid per Deum occidere Nabal uirumstultum et
+            inpium, atque omnia, que ad eum pertinebant, demoliri. Sed ad primam intercessionem
+            Abigailfeminae prudentis mox remisit minas, reuocauit ensem inuaginam, neque aliquid
+            culpae se pro tali periurio contraxisse doluit. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e200">
+          <head xml:id="gd-p2c22q4-Hd1e202">C. VII</head>
+          <head xml:id="gd-p2c22q4-Hd1e205" type="question-title"> De duobus malis minus eligi
+            oportet.</head>
+          <p xml:id="gd-p2c22q4-d1e208"> Item [ibidem]. </p>
+          <p xml:id="gd-p2c22q4-d1e211"> Non solum in iurando, sed in omne, quod agimus, hec est
+            moderatio sollicitius obseruanda, ut, si talemforte in lapsum uersuti hostis inciderimus
+            insidiis, ex quosine aliquo peccati contagio surgere non possumus, illum pocius euadendi
+            aditum petamus, in quo minus periculinos perpessuros esse cernimus. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e215">
+          <head xml:id="gd-p2c22q4-Hd1e217">C. VIII</head>
+          <head xml:id="gd-p2c22q4-Hd1e220" type="question-title"> Tollerabilius est iuramentum non
+            inplere , quam quod turpe est facere. </head>
+          <p xml:id="gd-p2c22q4-d1e223"> Item Ambrosius de offitiis [lib. III., c. 12.] </p>
+          <p xml:id="gd-p2c22q4-d1e226"> Unusquisque simplicem sermonem proferat; uas suum in
+            sanctificatione possideat, nec fratrem circumscriptione inducat uerborum; nichil
+            promittat inhonestum, aut, si promiserit, tollerabilius est promissum non facere, quam
+            facere quod turpe sit. Sepe plerique constringuntse iurisiurandi sacramento, et cum ipsi
+            cognouerint promittendum non fuisse, sacramenti tamen contemplationefaciunt quod
+            spoponderunt, sicut de Herode supra scripsimus, qui saltatrici premium turpiter
+            promisit, crudelitersoluit. Turpe est, quod regnum pro saltatione promittitur; crudele,
+            quod mors Prophetae pro iurisiurandi religione donatur. Quanto tollerabilius tali
+            fuisset per-iurium sacramento? Si tamen periurium dici possetquod ebrius inter uina
+            iurauerat, quod et iuratus* intersaltantium choros promiserat. Infertur disco
+            Prophetaecaput, et hoc estimatum est fidei esse, quod amicitiaefuit. Et post pauca de
+            Iepte disserens: §. 1. Miserabilis, inquit, necessitas, que soluitur patricidio. Melius
+            est nonuoueres id, quod sibi is, cui promittitur, nolit exsolui. Et post paululum: §. 2.
+            Non semper igitur promissa sol-uenda sunt omnia. Denique ipse Dominus, sicut
+            scripturaindicat, frequenter suam mutat sententiam. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e231">
+          <head xml:id="gd-p2c22q4-Hd1e233">C. IX</head>
+          <head xml:id="gd-p2c22q4-Hd1e236" type="question-title"> Inconmutabilis Deus quandoque sua
+            mutat statuta. </head>
+          <p xml:id="gd-p2c22q4-d1e239"> Item ex Concilio Tolletano [VIII. c. 2.]* </p>
+          <p xml:id="gd-p2c22q4-d1e242"> Inconmutabilis idemque semper existens Deisummi natura sua
+            sepe in sacris litteris legitur mutasse promissa, et pro misericordia temperasse
+            sentenciam.Unde licet sit inpassibilis atque inconmutabilis , crebro tamen eius et
+            iuramenta leguntur, et penitencia, quesacris extant misteriis adoperta. Iurare namque
+            Dei est ase ipso nullatenus ordinata conuellere: penitere uero eademordinata, cum
+            uoluerit, inmutare. Sic enim s per Ihere-miam dicit: „Repente loquar aduersum gentem, et
+            aduersus regnum, ut eradicem et destruam et disperdamillud. Si penitenciam egerit gens
+            illa a malo suo, agamego penitenciam a malo, quod cogitaui, ut faceremei“. </p>
+
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e246">
+          <head xml:id="gd-p2c22q4-Hd1e248">C. X</head>
+          <head xml:id="gd-p2c22q4-Hd1e251" type="question-title"> Sapientis est quod male loquitur
+            reuocare.</head>
+          <p xml:id="gd-p2c22q4-d1e254"> Item Augustinus. </p>
+          <p xml:id="gd-p2c22q4-d1e257"> Magnae sapientiae est reuocare hominem quod male locutus
+            est. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e261">
+          <head xml:id="gd-p2c22q4-Hd1e263">C. XI</head>
+          <head xml:id="gd-p2c22q4-Hd1e266" type="question-title"> Qua pena feriatur qui illicitum
+            iuramentum facit.</head>
+          <p xml:id="gd-p2c22q4-d1e269"> Item ex Concilio Ylerdensi [c. 8.]Qui sacramento se
+            obligauerit, ut litigans cum quolibet ad pacem nullo modo redeat, pro periurio uno annoa
+            conmunione corporis et sanguinis Domini segregatus, reatum suum elemosinis, fletibus et
+            quantis potueritieiuniis absoluat. Ad karitatem uero, que operit multitudinem
+            peccatorum, celeriter uenire festinet. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e273">
+          <head xml:id="gd-p2c22q4-Hd1e275">C. XII</head>
+          <head xml:id="gd-p2c22q4-Hd1e278" type="question-title"> Non omnia promissa soluenda
+            sunt.</head>
+          <p xml:id="gd-p2c22q4-d1e281"> Item . </p>
+          <p xml:id="gd-p2c22q4-d1e284"> Non semper promissa omnia soluenda sunt. Denique ipse
+            Dominus frequenter mutat sentenciam, sicut scriptura indicat. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e288">
+          <head xml:id="gd-p2c22q4-Hd1e290">C. XIII</head>
+          <head xml:id="gd-p2c22q4-Hd1e293" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c22q4-d1e296"> Item Ysidorus Sentenciarum lib. II., [c. 31.]Non est
+            obseruandum sacramentum, quo malumincaute promittitur, ueluti si quispiam adulterae per- </p>
+          <p xml:id="gd-p2c22q4-d1e299"> E etuam fidem cum ea permanendi polliceatur. Tollera-ilius
+            est enim non inplere sacramentum, quam permanere in stupri flagitio. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e303">
+          <head xml:id="gd-p2c22q4-Hd1e305">C. XIV</head>
+          <head xml:id="gd-p2c22q4-Hd1e308" type="question-title"> Male iurans penitenciam
+            agat.</head>
+          <p xml:id="gd-p2c22q4-d1e311"> Item ex Concilio Tolletano, c. 9.* </p>
+          <p xml:id="gd-p2c22q4-d1e314"> Necesse est, ut male iurans dignam penitenciam agat, eo
+            quod nomen Domini contra preceptum illius sumpsit inuanum, quia in Exodo scriptum
+            est:Neque enim insontemhabebit Dominus eum, qui assumpsit nomen DominiDei sui frustra.“ </p>
+          <p xml:id="gd-p2c22q4-d1e317"> [C. XV.] Item in Leuit i c o . </p>
+          <p xml:id="gd-p2c22q4-d1e321"> , , Non periurabis in nomine meo, nec pollues nomen Domini
+            Dei tui, ego Dominus.“ Malum tamen °, quod facturum se sacramento deuouerit, omnino
+            nonfaciat, quia stulta uota frangenda sunt. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e326">
+          <head xml:id="gd-p2c22q4-Hd1e328">C. XVI</head>
+          <head xml:id="gd-p2c22q4-Hd1e331" type="question-title"> Iuramentum, quo malum incaute
+            promittitur, non est seruandum . </head>
+          <p xml:id="gd-p2c22q4-d1e334"> Item ex Decreto Sotheris Papae, c . 3.* </p>
+          <p xml:id="gd-p2c22q4-d1e337"> Si aliquid forte incautius nos iurasse contigerit, quod
+            obseruatum peiorem uergat in exitum, illud consilio salubriori mutandum nouerimus, et
+            magis instante necessitateperiurandum nobis, quam pro facto** iuramento inaliud crimen
+            maius esse diuertendum. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e341">
+          <head xml:id="gd-p2c22q4-Hd1e343">C. XVII</head>
+          <head xml:id="gd-p2c22q4-Hd1e346" type="question-title"> Temeritas emendetur, cum
+            diffinitio incauta soluitur.</head>
+          <p xml:id="gd-p2c22q4-d1e349"> Item ex Concilio Eliberitano, c. i.* </p>
+          <p xml:id="gd-p2c22q4-d1e352"> Diffinitio incauta laudabiliter soluenda est, nec
+            estpreuaricatio, sed temeritatis emendatio. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e356">
+          <head xml:id="gd-p2c22q4-Hd1e358">C. XVIII</head>
+          <head xml:id="gd-p2c22q4-Hd1e361" type="question-title"> Illicitum iuramentum non est
+            seruandum.</head>
+          <p xml:id="gd-p2c22q4-d1e364"> Item. Actio quarta septimae sinodi*. </p>
+          <p xml:id="gd-p2c22q4-d1e367"> Iohannes apocrisarius orientalium sedium dixit: Significat
+            sermo patris nostri Sophronii, quod melius sit iurantem periurare, quam seruare
+            sacramentum in fractionesacrarum ymaginum. Hoc autem dicimus, quia sacramentoquidam se
+            excusant. Tarasius patriarcha dixit: Quia pater**Sophronius nouerat bonitatem Dei,
+            propterea transgrediuoluit inpium iuramentum. Item: §. 1. Tarasius patriarcha dixit:
+            Herodes obseruauit iuramentum, et periit:Petrus uero negauit cum iuramento, et conuersus
+            fleuit, et saluatus est. Omne enim peccatum bonus Deusindulget, si quis ex toto corde
+            peniteat. Sancta sinodusdixit: Sic docet sancta scriptura. Item Leontius episcopus
+            Fociae dicit: Scriptum est: „Iuramentummendax ne diligatis.“ Qua de causa iuramentum
+            nostrummendax dissoluatur, quasi nullam habens uirtutem. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e371">
+          <head xml:id="gd-p2c22q4-Hd1e373">C. XIX</head>
+          <head xml:id="gd-p2c22q4-Hd1e376" type="question-title"> Non obseruentur iuramento, que
+            fiunt contra diuina mandata. </head>
+          <p xml:id="gd-p2c22q4-d1e379"> Item Ysidorus *. </p>
+          <p xml:id="gd-p2c22q4-d1e382"> Si quis preuentus fuerit, ut diffiniat agere aliquid eorum,
+            que non placent Deo, penitenciam agat, et quod contramandatum Domini statutum est in
+            irritum reuocetur. Itemleronimus in libro de natura rerum : §. 1. Tribus siquidemmodis
+            iuramenta contracta soluenda sunt. Primo, cum quismale iurat. Secundo, cum quis incaute
+            iurat, non putanshoc esse peccatum. Tertio, si pueri uel puellae in domoparentum se
+            iuramento constrinxerint, patribus post, quamaudierint, contradicentibus. </p>
+          <p xml:id="gd-p2c22q4-d1e385"> II. Pars. Gratian. Ecce, quod iuramenta illicita
+            laudabiliter soluuntur, dampnabiliter obseruantur. Quod tunc inteltigendum est, quando
+            iuramentum illicitum deseritur, ut adbonum redeatur . §. 1. Ceterum si propterea
+            deseritur, ut in aliud </p>
+
+          <p xml:id="gd-p2c22q4-d1e389"> malum transeatur, illicitum sacramentum dampnabiliter
+            seruatur, sed dampnabilius contempnitur. </p>
+          <p xml:id="gd-p2c22q4-d1e392"> Unde Augustinus de bono coniugati, [c. 4.]: </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e396">
+          <head xml:id="gd-p2c22q4-Hd1e398">C. XX</head>
+          <head xml:id="gd-p2c22q4-Hd1e401" type="question-title"> Non est appellanda fides, que ad
+            peccatum , faciendum admittitur . </head>
+          <p xml:id="gd-p2c22q4-d1e404"> Si ad peccatum admittendum fides adhibetur, mirum, si fides
+            appelletur. Verumtamen, qualiscumquesit, si et contra ipsam fit, peius est, nisi cum
+            proptereadeseritur, ut ad fidem ueram legitimamque redeatur, idest ut peccatum emendetur
+            uoluntatis prauitate correcta, tamquam si quisque, cum hominem solus expoliare
+            nonpossit, inueniat socium iniquitatis, et cum eo paciscatur, ut simul id faciant,
+            spoliumque partiantur, quo facinoreconmisso totum solus auferat. Dolet quidem ille, et
+            serua-tam sibi non esse fidem conqueritur; uerum in ipsa sua querela cogitare debet,
+            potius in bona uita ipsi humanae societati fuisse seruandum s, ne preda iniqua ex
+            hominefieret, si sentit, quam inique sibi in peccati societate seruatanon fuerit. Ille
+            quippe utrobique perfidus ac profectosceleratior iudicandus est. </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e408">
+          <head xml:id="gd-p2c22q4-Hd1e410">C. XXI</head>
+          <head xml:id="gd-p2c22q4-Hd1e413" type="question-title"> Si propterea fides non seruatur,
+            ut ad bonum redeatur, non ideo uiolari dicitur. </head>
+          <p xml:id="gd-p2c22q4-d1e416"> Item . </p>
+          <p xml:id="gd-p2c22q4-d1e419"> Mulier, si fide coniugali uiolata fidem seruet adultero,
+            utique mala est; si nec adultero, peior. Porro si eamflagicii peniteat, et ad castitatem
+            rediens coniugalem pactaac placita adulterina rescindat, miror, si eam fidei
+            uiolatri-cem uel ipse adulter putabit. </p>
+          <p xml:id="gd-p2c22q4-d1e422"> Gratian. Ex his itaque apparet, quod si quis quam., ut
+            diximus, illicitum iuramentum non seruauerit, ut in aliud malum perniciosum declinet,
+            tanto grauius delinquit, quanto dampnabiliusaccumulantur peccata peccatis. Si autem
+            propterea deseritur, ut ad bonum redeatur, nichil culpae pro tali periurio
+            contrahitur;potius deflendum est, si in aliquo illius iuramenti occasione nosdeliquisse
+            contigerit. Unde Augustinus scribit Seuero MileuitanoEpiscopo, consulenti de quodam
+            Hubaldo, qui a consanguineiscuiusdam pelicis coactus fuerat iurare, se illam ducturum
+            inconiugem, nec matri suae uel fratribus ulterius necessaria subministraturum. Rescribit
+            ergo B. Augustinus, ut diximus, Seuero Mileuitano Episcopo, ita dicens: </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e427">
+          <head xml:id="gd-p2c22q4-Hd1e429">C. XXII</head>
+          <head xml:id="gd-p2c22q4-Hd1e432" type="question-title"> De quodam Hubaldo , qui iurauit
+            se non ministraturum necessaria matri et fratribus. </head>
+          <p xml:id="gd-p2c22q4-d1e435"> Inter cetera, ut rogaueras, a patre nostro Ambrosio
+            que-siui, quid tibi, karissime, agendum sit de Hubaldo parro-chiano tuo, qui captus et
+            timore necis inpulsus suae con^ cubinae iuramento firmauit ipsam in coniugem suscipere,
+            propriamque matrem de domo cum fratribus expellere, </p>
+
+
+
+
+          <p xml:id="gd-p2c22q4-d1e438"> fiichilque eis alimoniae umquam inpendere. Quia uero quam
+            prius habuerat non est peccatum in coniugemsuscipere, matrimonium sit in Deo firmum et
+            stabile. §. i.Porro iuramentum non ob hoc inuenitur fuisse institutum, ut esset uinculum
+            iniquitatis, uel matricidii, uel fratricidii, seu cuiuscumque criminis. Nec credo
+            sacramentum ad hocdebere fieri, ut iniusta iuratio suorum bonorum sit iniusteiurantibus
+            expoliatio, et accipienti eterna dampnatio.Periurii namque pena percutitur, et uelut
+            homicida in extremo examine a iusto iudice degrandinabitur, per quemsacrosanctum
+            euangelium ad iniustum et illicitum, et Deominime amabile, quasi testimonium iustae et
+            humanae petitionis adducitur. §. 2. Foueat itaque Hubaldus matrem etfratres, et lugeat,
+            si coactione et timore iuramenti aliquiddefuit matri. Qui uero eum iurare coegerunt quod
+            non debuit, reatu periurii inpliciti teneantur. Iniuria quippe iniusteirrogata eius est
+            infamia, qui facit. Nec enim ullo modo adobprobrium coactae uoluntatis trahitur quod
+            illicita conditionecessitatis extorsit. </p>
+          <p xml:id="gd-p2c22q4-d1e441"> III. Pars. Gratian. Sed cum his omnibus illicita iuramenta
+            non seruanda probentur, obponitur, quodIosue Gabaonitas contra preceptum Domini non
+            deleuerit, quia seniores Israel cum eisiuramento pacem firmauerant. Sed notandum est,
+            quod senioresIsrael, etsi scirent a Domino esse inperatum, ut delerent gentesterrae
+            promissionis, decepti tamen a Gabaonitis eos nesciebant esseincolas terrae sibi
+            promissae. Venerunt enim {ut historia refert)attritis calciamentis, et cum aridis
+            panibus, dicentes: Viri pacifici, Uenimus de terra longinqua, calciamenta sunt attrita
+            in pedibusnostris; panis defecit in sistarciis nostris; audiuimus Dominum esse uobiscum,
+            et uenimus conponere pacem. Quod uerbumplacuit senioribus Israel, et fecerunt pacem cum
+            eis. Post diemautem tertium, cum filii Israel appropinquarent Gabaonitis, occurrerunt
+            eis, quibus iurauerant seniores Israel. Illi autemuidenies se esse deceptos, noluerunt
+            delere eos, sed pepercit eislosue propter iuramentum seniorum Israel. </p>
+          <p xml:id="gd-p2c22q4-d1e445"> Unde Ambrosius in lib. de Offitiis [III., c. io.]: </p>
+        </div>
+        <div xml:id="gd-p2c22q4-Dd1e449">
+          <head xml:id="gd-p2c22q4-Hd1e451">C. XXIII</head>
+          <head xml:id="gd-p2c22q4-Hd1e454" type="question-title"> Quedam, licet a Deo prohibeantur,
+            tamen iuramento firmata non sunt euitanda . </head>
+          <p xml:id="gd-p2c22q4-d1e457"> „ Innocens credit omni uerbo.“ Non uituperanda facilitas,
+            sed laudanda bonitas. Hoc est innocentem esse, ignorare quid noceat, et si
+            circumscribitur ab aliquo, deomnibus tamen iudicat qui fidem in omnibus esse arbitratur.
+            Hac igitur mentis suae dote inclinatus Iesus, ut crederet Gabaonitis, testamentum
+            disposuit, pacemdedit, confirmauit societatem. Sed ubi in terras eorum uen-tum est,
+            deprehensa fraude, quod, cum essent finitimi, ad-uenas esse se simulauerint,
+            circumscriptum se populuspatrum indignari cepit. Iesuss tamen pacem, quamdederat,
+            reuocandam non censuit, quia firmata erat sacramenti religione, ne, dum alienam
+            perfidiam redargueret, suam fidem solueret. Mulctauit meliori tamen eos obsequio
+            ministerii. Clementior sentencia, sed diuturnior. </p>
+
+          <p xml:id="gd-p2c22q4-d1e460"> Gratian. Illicitum ergo iuramentum , quod seruari
+            prohibetur, intelligendum est, quod scitur illicitum esse, dum iuratur . Si autem
+            nescitur illicitum esse, ipsa ignorantia excusatur siputetur licitum esse, non ex
+            ignorantia iuris, sed facti. Aliudenim est, si alicuius copula credatur esse licita,
+            quia nescitur esseconsanguinea, uel quia creditur esse uidua; aliud, si ideo
+            putaturlicita, quia consanguinearum coniunctio uel relictarumcopula nullo iure credatur
+            esse prohibita. Hic est enim ignorantia iuris, que neminem excusat, nisi cui permittitur
+            iusignorare; ibi uero ignorantia facti, qua quisque uere excusatur.Seniores autem Israel
+            non ignorabant gentes terrae promissionisex precepto Domini esse delendas; sed
+            ignorabant Gabaonitasesse incolas terrae promissionis. Ignorabant siquidem factum, sed
+            non ignorabant ius facti, atque ideo, etsi illicitum esset quodiurauerunt, tamen licite
+            seruari debuit quod iuramento firmaue-runt. §. 1. Quod autem illicitum iuramentum
+            seruari prohibetur, non est generaliter intelligendum. Iuramentum namque {ut Iero-nimus
+            testatur super Iheremiam ), debet habere tres comites, ue-ritatem, iudicium, et
+            iusticiam; ubi autem ista defuerint, non estiuramentum, sed periurium. Unde datur
+            intelligi illicitum esseiuramentum, cui aliquod istorum defuerit; non tamen
+            cuicumquecontigerit aliquod istorum deesse prohibetur seruari. §. 2. Aliquando namque
+            iuramento deest iusticia; ueluti, cum quispiampost uotum castitatis ducit uxorem,
+            iuramento firmans, numquamab ea se discessurum, quod, quamuis illicitum sit, quia
+            iusticiasibi probatur deesse, tamen auctoritate Augustini seruari preci - pitur. Hoc
+            autem si quis contendat prerogatiua coniugii, nonpropter religionem iurisiurandi
+            seruari, animaduertat , Gabaonitasob solam religionem contra inperium Domini reseruatos.
+            Cumergo omne preceptum Domini iustum sit, patet ei iusticiam deesse, quod eius precepto
+            contrarium inuenitur. §. 3. Iudicium quoquealiquando iuramento constat deesse, ueluti,
+            cum propria temeritate aliquis ductus iurat se manducaturum et bibiturum. Hocquamuis
+            leuitate indiscreta illicitum probetur, non tamen ideouiolari iubetur. §. 4. Iuramentum
+            itaque multipliciter illicitumintelligitur. Est enim illicitum aliquando ex eo, quod
+            iuratur, aliquando ex modo iurandi. Ex eo, quod iuratur, tunc estillicitum iuramentum,
+            quando id, quod iuratur, in sui naturauiciosum est uel uitam adimens, ut adulterium,
+            homicidium, et hissimilia; uel reparari non permittens, ueluti cum inimico ad pacemnon
+            redire, indigenti misericorditer non subuenire. Ista, quiaperspicuam habent in se
+            iniusticiam, etsi iuramento firmentur, tamen seruari non debent. Circa hec itaque iur
+            amenta in-telligenda sunt que de illicitis iur amentis non obseruandis suprastatuta
+            leguntur. Quisquis ergo se iuramento firmauerit aliquidfacturum, quo uel corporalis, uel
+            spiritualis salus adimatur, uelsine quo utraque salus reparari uel conseruari non
+            possit, fidem promissam seruare prohibetur ; quorum exempla premissaeauctoritates
+            subiciant, dum eum, qui homicidium facere, uel alimenta matri et fratribus non
+            subministrare, in adulterio perse-uerare, uel ad pacem cum aduersario non redire,
+            iuramentumprestando promiserit, salubriori consilio illicita uota obseruarenon
+            permittunt. §. 5. Est etiam id, quod iuratur, aliquandouiciosum, non in° natura sui, sed
+            ex causis extra uenientibus;ueluti cum aliquis post uotum castitatis iurat alicui, se
+            habiturumeam in coniugem. Coniugem namque habere in se ipso malumnon est: tamen huic ex
+            uoto perniciosum est. Hoc autem iuramentum, etsiv illicitum sit, non tamen obse?'uarii
+            prohibetur, sed de uiolatione uoti penitencia sibi iubetur indici. §. 6. Exmodo iurandi
+            tunc est illicitum iuramentum, quando inconsiderateet incircumspecte aliquid iuratur,
+            quo nec corporalis, necspiritualis salus adimitur, et sine quo utraque salus reparari
+            etuita conseruari ualet: ueluti dum aliquis a parentibus coactus, utclericatus tonsuram
+            uel religionis uestem suscipiat, se neutrumfacturum iuramento firmauerit. Hoc, quamuis
+            aliquibus uideatur reprehensibile, quia opus karitatis iuramento se non
+            facturumpromisit, nulla tamen auctoritate seruari prohibetur, quia, etsinumquam
+            clericatus tonsuram uel religionis uestem suscipiat, nontamen ideo minus salutem
+            promereriri ualet, cum nonnulli inlaicali habitu sanctissimi et Deo delecti inueniantur.
+            Quo exemploeuidenter datur intelligi, quotiens aliquis iurat, se non facturumaliquid,
+            quo expeditior sibi uia preparetur ad beaiitudinem, dummodo sine eo salutem ualeat
+            inuenire, quod iuramentum nonprohibetur obseruare . Unde, cum nos iuramus, non
+            daturosalicui aliquid, sine quo utraque salus eius potest esse incolumis, etsi aliqua ex
+            eo sibi commoditas prestaretur, nulla tamen auctoritate iuramentum seruare prohibemur,
+            dummodo sit nobis aliauia necessitatibus eius subueniendi. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

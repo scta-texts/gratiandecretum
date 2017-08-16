@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c17q2">
+        <head xml:id="gd-p2c17q2-Hd1e103"> QUESTIO II. </head>
+
+        <p xml:id="gd-p2c17q2-d1e106"> Unde Alexander II.*: </p>
+        <div xml:id="gd-p2c17q2-Dd1e109">
+          <head xml:id="gd-p2c17q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c17q2-Hd1e114" type="question-title"> Non cogitur aliquis in monasterio
+            manere, nisi professionem fecerit in manu abbatis. </head>
+          <p xml:id="gd-p2c17q2-d1e117"> Cosaldus presbiter, quondam infirmitate feruore passionis
+            pressus, monachum se fieri promisit, non tamenmonasterio aut abbati se tradidit, nec
+            promissionem scripsit, sed beneficium ecclesiae in manu aduocati refuta-uit. At postquam
+            conualuit, mox se monachum negauitfieri. Quopropter quia et B. Benedicti regula, et
+            precipue patris et predecessoris nostri S. Gregorii Papaecanonica institutio interdicit
+            monachum ante unius anniprobationem effici, iudicamus et auctoritate
+            apostolicaprecipimus, ut prefatus presbiter beneficium* et altariarecipiat, habeat, et
+            quiete retineat. </p>
+
+        </div>
+        <div xml:id="gd-p2c17q2-Dd1e121">
+          <head xml:id="gd-p2c17q2-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c17q2-Hd1e126" type="question-title"> Uxor post propositum continentiae
+            ducta dimitti non debet . </head>
+          <p xml:id="gd-p2c17q2-d1e129"> Item Augustinus ad Bonifatium Comitem, [ep. LXX.] * </p>
+          <p xml:id="gd-p2c17q2-d1e132"> Nos nouimus, nos testes sumus, quod omnes actus publicos,
+            quibus occupatus eras, relinquere cupiebas, et te in otium sanctum conferre, atque in ea
+            uita uiuere, in qua seruiDei monachi uiuunt. Cum ergo te esse in hoc
+            propositogauderemus, nauigasti, uxorem duxisti. Si comugemnon haberes, dicerem tibi quod
+            et Tubanis diximus, utin castitate continenter uiueres. Sed ut te ad istamuitam non
+            exhorter, coniunx est inpedimento, sine cuiusconsensu continenter tibi uiuere non licet,
+            quia, et situ eam post illas uerba Tubanensia ducere non debueras i, illa tamen nichil
+            eorum sciens innocenter tibi etsimpliciter nupsit. </p>
+          <p xml:id="gd-p2c17q2-d1e135"> Gratian. Ecce iste se corde concepit monachum fieri, et ore
+            pronunciauit, se uelle in otium sanctum conferre, non tamenpostea coactus est suscipere
+            quod corde concepit, et ore pronunciauit . Auctoritas illa Alexandri, secuta
+            institutionem B. Gregoriiet B. Benedicti , probandis annum indulget, sed % notis;
+            incogni-tis uero triennium conceditur. </p>
+          <p xml:id="gd-p2c17q2-d1e139"> Unde in Concilio Tollet ano *. </p>
+        </div>
+        <div xml:id="gd-p2c17q2-Dd1e143">
+          <head xml:id="gd-p2c17q2-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c17q2-Hd1e148" type="question-title"> Nullus qui incognitus est
+            monasticum habitum sumat</head>
+          <p xml:id="gd-p2c17q2-d1e151"> ante triennium^b. </p>
+          <p xml:id="gd-p2c17q2-d1e154"> Si quis incognitus monasterium ingredi uolueritante
+            triennium monachi habitus non prestetur. Et siinfra tres annos aut seruus, aut liber**
+            uelcolonus queratur a domino suo, reddatur ei cum omnibus, que attulit, fide tamen
+            accepta de inpunitate. Siautem infra s triennium non fuerit requisitus, postea querinon
+            potest, nisi sit tam longe, quod inueniri nonpossit***. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

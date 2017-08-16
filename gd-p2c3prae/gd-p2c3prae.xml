@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAUSA III.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>CAUSA III.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3prae">
+        <head xml:id="gd-p2c3prae-Hd1e103">CAUSA III.</head>
+        <p xml:id="gd-p2c3prae-d1e106"> Quidam episcopus a propria sede deiectus est, petit
+          restitui; post restitutionem ducitur in causam, inducias postulat, tandemad eius
+          accusationem procedit quidam non legitime coniunctus, et duo infames, et tres religiosi;
+          accusatores testes de domo suaproducunt, et alios sibi inimicos extra suam prouinciam;
+          reuscriminoso iudici offertur ab uno tantum audiendus et iudicandus.Quidam de
+          accusatoribus et testibus absentes per epistolam illumaccusare, et in eum testificari
+          contendunt; cum multa capitula eiobicerentur, in primo accusatores deficiunt; demum
+          accusatio inaccusatorem uertitur. (Qu. I.) Hic primum queritur, an restitutio danda sit
+          quibuslibet expoliatis? (Qu. II.) Secundo, deinduciis, an post restitutionem tantum, an
+          etiam post uocationemad causam quibuslibet concedendae sint? (Qu. III.) Tertio, quospatio
+          mensium utrique sint concedendae? (Qu. IV.) Quarto, an infames et non legitime coniuncti
+          ad accusationem sint admittendi. (Qu. V.) Quinto, an testes de domo accusatorum sint
+          producendi, uel inimicorum uox sit audienda ? (Qu. VI.) Sexto, an extra prouinciam reus
+          sit producendus f (Qu. VII.) Septimo, an sit audienda eius sententia, quem cum reo par
+          inficit malicia ? (Qu. VIII.) Octaua, an ab uno tantum episcopus sit audiendusuel
+          iudicandus? (Qu. IX.) Nono, an accusatores uel testes inabsentem uocem accusationis uel
+          testificationis exhibere ualeant ? (Qu. X.) Decimo, an deficientes in primo capitulo sint
+          admittendi ad sequentia? (Qu. XI.) Undecimo, an accusato liceataccusationem in accusatorem
+          uertere? </p>
+      </div>
+    </body>
+  </text>
+</TEI>

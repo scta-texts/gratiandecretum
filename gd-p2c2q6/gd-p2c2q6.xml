@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VI.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VI.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c2q6">
+        <head xml:id="gd-p2c2q6-Hd1e103">QUESTIO VI.</head>
+        <p xml:id="gd-p2c2q6-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c2q6-d1e109"> I. Pars. Sequitur sexta questio, qua queritur: Quo remedio
+          causa uiciata subleuetur, et si remedium illud sit dandum ei, quicausa dilationis uocem
+          appellationis exhibuerit f Causa uerouiciata remedio appellationis subleuari poterit. </p>
+        <p xml:id="gd-p2c2q6-d1e112"> Unde Fabianus Papa ait [ad Hilarium Episcopum, epist. III. c.
+          3.]: </p>
+
+
+
+
+        <div xml:id="gd-p2c2q6-Dd1e115">
+          <head xml:id="gd-p2c2q6-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c2q6-Hd1e120" type="question-title"> Causae uiciatae remedium
+            appellationis subueniat.</head>
+          <p xml:id="gd-p2c2q6-d1e123"> Liceat appellatori uiciatam causam appellationis remedio
+            subleuare. </p>
+          <p xml:id="gd-p2c2q6-d1e126"> [PALEA. </p>
+          <p xml:id="gd-p2c2q6-d1e129"> C. II. De eodem. </p>
+          <p xml:id="gd-p2c2q6-d1e133"> Idem paulo ante. </p>
+          <p xml:id="gd-p2c2q6-d1e136"> Appellantem non debet afflictio ulla, aut detentionis
+            iniuriare custodia.] </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e141">
+          <head xml:id="gd-p2c2q6-Hd1e143">C. III</head>
+          <head xml:id="gd-p2c2q6-Hd1e146" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q6-d1e149"> Item An a cie tu s Papa, [epist. I. in fine.] </p>
+          <p xml:id="gd-p2c2q6-d1e152"> Omnis obpressus libere sacerdotum (si voluerit) appellet
+            iudicium, et a nullo prohibeatur, sed ab his fulciatur et liberetur et audiatur. Si
+            autem difficiles causae autmaiora negotia orta fuerint, ad maiorem sedem referantur.Et
+            si illic facile discerni non potuerint aut iuste terminari, ubi fuerit summorum
+            congregatio* congregata(que per singulos annos fieri solet et debet), iuste et
+            Deoplacite coram patriarcha aut primate ecclesiastica**, et coram patricio secularia
+            iudicentur negotia in commune. </p>
+          <p xml:id="gd-p2c2q6-d1e155"> Item Sixtus Papa [epist. II.] omnibus rectoribus ecclesiae
+            scribit , dicens : </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e159">
+          <head xml:id="gd-p2c2q6-Hd1e161">C. IV</head>
+          <head xml:id="gd-p2c2q6-Hd1e164" type="question-title"> Quisquis pulsatus fuerit,
+            apostolicam sedem appellet.</head>
+          <p xml:id="gd-p2c2q6-d1e167"> Si quis uestrum pulsatus fuerit in aliqua aduersitate,
+            licenter hanc sanctam et apostolicam sedem appellet, et adeam quasi ad caput suffugium
+            habeat, ne innocensdampnetur, aut ecclesia sua detrimentum patiatur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e171">
+          <head xml:id="gd-p2c2q6-Hd1e173">C. V</head>
+          <head xml:id="gd-p2c2q6-Hd1e176" type="question-title"> Episcopi grauioribus causis
+            pulsati apostolicam sedem appellent. </head>
+          <p xml:id="gd-p2c2q6-d1e179"> Idem^ Grato episcopo * [epistola I.] </p>
+          <p xml:id="gd-p2c2q6-d1e182"> Omnes episcopi, qui in aliquibus pulsantur uel criminantur
+            grauioribus causis, quociens necesse fuerit libereapostolicam sedem apellent, atque ad
+            eam quasi ad matrem confugiant. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e186">
+          <head xml:id="gd-p2c2q6-Hd1e188">C. VI</head>
+          <head xml:id="gd-p2c2q6-Hd1e191" type="question-title"> Ad Romanam ecclesiam ab omnibus
+            appelletur. Item Marcellus Papa, [epist. I. ad Episcopos Antiochenaeprouinciae.] </head>
+
+          <p xml:id="gd-p2c2q6-d1e194"> Ad Romanam ecclesiam omnes episcopi, qui uoluerint uel
+            quibus necesse fuerit, quasi ad caput suffugere, eamque appellare debent, ut inde
+            accipiant tuitionem atqueconsecrationem*. Quod omnibus minime conuenit denegari
+            episcopis; sed absque ulla custodia, aut excommunicatione, uel aampnatione, aut
+            expoliatione libere ireconcedatur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e198">
+          <head xml:id="gd-p2c2q6-Hd1e200">C. VII</head>
+          <head xml:id="gd-p2c2q6-Hd1e203" type="question-title"> Qui a proprio metropolitano se
+            grauari putauerit, maiorem sedem appellet. </head>
+          <p xml:id="gd-p2c2q6-d1e206"> Item Victor Episcopus [ad Theophilum Alexandrinum, epist. I.
+            c. 3.] </p>
+          <p xml:id="gd-p2c2q6-d1e209"> Si quis putauerit se a proprio metropolitano grauari, apud
+            patriarcham uel primatem dioceseos, aut penesuniuersalis apostolicae ecclesiae iudicetur
+            sedem. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e213">
+          <head xml:id="gd-p2c2q6-Hd1e215">C. VIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e218" type="question-title"> Ad Romanam ecclesiam appelletur ab
+            omnibus quasi ad matrem.</head>
+          <p xml:id="gd-p2c2q6-d1e221"> Item ZepTierinus urbis Romae Archiepiscopus , [epist. I.] </p>
+          <p xml:id="gd-p2c2q6-d1e224"> Ad Romanam ecclesiam ab omnibus, maxime tamen ab obpressis
+            est appellandum, et concurrendum quasi admatrem, ut eius uberibus nutriantur,
+            auctoritate defendantur, a suis obpressionibus releuentur, quia non potestnec debet
+            mater obliuisci filium suum. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e229">
+          <head xml:id="gd-p2c2q6-Hd1e231">C. IX</head>
+          <head xml:id="gd-p2c2q6-Hd1e234" type="question-title"> Quociens aliquis appellauerit,
+            audientia sibi non denegetur . </head>
+          <p xml:id="gd-p2c2q6-d1e237"> Item Iulius Papa [in decretis, siue in rescripto ad
+            Orientales, c. 22.] </p>
+          <p xml:id="gd-p2c2q6-d1e240"> Placuit, ut a quibuscumque ecclesiasticis iudicibus ad alios
+            iudices ecclesiasticos (ubi est maior auctoritas) prouoca-tum fuerit, audientia non
+            negetur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e244">
+          <head xml:id="gd-p2c2q6-Hd1e246">C. X</head>
+          <head xml:id="gd-p2c2q6-Hd1e249" type="question-title"> Iniuste dampnati restitutionem, et
+            obpressi auxilium a Romana debent habere ecclesia . </head>
+          <p xml:id="gd-p2c2q6-d1e252"> Idem [cap. 30.] </p>
+          <p xml:id="gd-p2c2q6-d1e255"> Ideo huic sanctae sedi prefata priuilegia specialiter sunt
+            concessa tam de congregandis conciliis et iudiciis ac restitutionibus episcoporum, quam
+            et de summis ecclesiarumnegotiis, ut ab ea omnes obpressi auxilium, et iniuste dampnati
+            restitutionem sumant, et talia ab inpiis non presumatur absque ultione, nec exerceantur
+            absque suadampnatione. </p>
+          <p xml:id="gd-p2c2q6-d1e258"> II. Pars. Gratian. Cum ergo Zepherinus dicat, ab omnibus
+            esse appellandum, maxime tamen ab obpressis, et Marcellusscribat: , , Omnes episcopi,
+            qui uoluerint uel quibus necesse fuerit, appellare debent :“ patet, quod accusato (siue
+            grauetur, siuenon) appellationis uox non est deneganda. Quidam tamen ita distinguunt ,
+            ut u olent es ad consecrandos , necessitatem pa- </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e262"> tientes ad obpr essos referant, ut sit sensus: Omnes,
+            quiuoluerint a Romana ecclesia consecrationem accipere, et ab aliquibus in-pediuntur ,
+            eam debent appellare; quibuscumque in suis obpr es -sionibus necesse fuerit ad eam
+            subfugere, similiter uocem appellationis exhibeant, ut isti tuitionem, et illi
+            consecrationem abea accipiant. Similiter et illud Zepherini distinguitur: „Abomnibus est
+            appellandum ad Romanam ecclesiam : intelligendumest, qui ab ea consecrationem uoluerint
+            accipere, uel qui a prelatissuis aliquam iniuriam passi fuerint , maxime tamen ob obpr
+            essis.Secundum primam interpretationem obpressi intelliguntur aliquainiuria affecti;
+            iuxta secundam uero obpressi dicuntur a iudiceiniuste condempnati. Secundum hanc
+            distinctionem qui in aliquibus negotiis non ad releuandum, sed ad differendum
+            uocemappellationis exhibuerit , appellandi auctoritatem non habet. </p>
+          <p xml:id="gd-p2c2q6-d1e265"> Sed cum Gregorius scribat omnibus per diuersas prouincias:
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e269">
+          <head xml:id="gd-p2c2q6-Hd1e271">C. XI</head>
+          <head xml:id="gd-p2c2q6-Hd1e274" type="question-title"> De causa appellationis cognoscere
+            non licet nisi ei, ad quem appellatur.</head>
+          <p xml:id="gd-p2c2q6-d1e277"> Decreto nostro uestram rogantes karitatem mandamus, ut si
+            aliquis (quod non optamus) suorum emulorum Aldri-cum Cenomannicae ecclesiae episcopum,
+            accusare damp-nabiliter attemptauerit, liceat* illi post auditionemprimatum dioceseos,
+            si necesse fuerit, nos appellare, etnostra auctoritate aut ante nos, aut ante legatos
+            nostrose latere missos iuxta Patrum decreta suas exercere atquediffinire actiones,
+            nullusque illum ante hec iudicet autiudicare presumat. Sed si quid (quod absit) graue
+            in-tolerandumque ei obiectum fuerit, nostra erit expectandacensura, ut nichil prius de
+            eo, qui ad sinum sanctae Romanaeecclesiae confugerit eiusque inplorat auxilium,
+            decernatur, quam ab eiusdem ecclesiae fuerit auctoritate preceptum, que uices suas ita
+            aliis inpertiuit ecclesiis, ut inpartem sint uocatae sollicitudinis, non in plenitudinem
+            potestatis. §. i.s Si autem (quod non arbitramur) a quoquamsecus presumptum fuerit, ab
+            offitio cleri submotus aposto-licae auctoritatis reus ab omnibus iudicetur, ne lupi,
+            quisub specie ouium subintrauerunt, bestiali seuicia quosque audeant lacerare, et quod
+            sibi fieri nolunt aliis inferre presumant. </p>
+          <p xml:id="gd-p2c2q6-d1e280"> Item cwra Vigilius Papa [in epistola ad Eleutherium, c.
+            ult.] dicat *. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e284">
+          <head xml:id="gd-p2c2q6-Hd1e286">C. XII</head>
+          <head xml:id="gd-p2c2q6-Hd1e289" type="question-title"> Iuditia appellantium ab eis sunt
+            audienda , ad quos appellatur . </head>
+
+          <p xml:id="gd-p2c2q6-d1e292"> Qui " a it aliis esse prepositum, non moleste ferat aliquem
+            sibi esse prelatum. Ipsa namque ecclesia, queprima est, ita reliquis ecclesiis uices
+            suas credidit largiendas, ut in partem sint uocatae sollicitudinis, non in plenitudinem
+            potestatis. Unde omnium appellantium apostolicamsedem episcoporum iudicia, et cuncta
+            maiorum negotiacausarum eidem sanctae sedi reseruata esse liquet; presertim cum in his
+            omnibus eius semper sit expectanaumconsultum, cuius tramiti si quis obuiare temptauerit
+            sacerdotum, causas se non sine honoris sui periculo apud eandemsanctam sedem nouerit
+            redditurum. </p>
+          <p xml:id="gd-p2c2q6-d1e295"> Gratian. Item cum Nicolaus Episcopus in Remen-s em d
+            Archiepiscopum inuehatur, qui Rothardum episcopum appellantem apostolicam sedem dampnare
+            ausus est, ita dicens : </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e299">
+          <head xml:id="gd-p2c2q6-Hd1e301">C. XIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e304" type="question-title"> De Remensi archiepiscopo , qui
+            appellantem Romanam sedem iudicare ausus est. </head>
+          <p xml:id="gd-p2c2q6-d1e307"> Arguta tua sapientia, utinam in accepto bono fomite, iudicii
+            materiam depositionis aduersus Rothardum assumpsit, et ab itinere apostolicae sedis
+            remouit, etcontinuatim apostolicam sedem appellantem dampnauit etcarcerali custodiae
+            mancipauit. Et infra: §. i. Priuilegiatamen apostolicae sedis uos obliuioni tradere
+            nullatenusdebuistis, quibus uenerandi canones iudicia totius ecclesiae ad hanc deferri
+            iubent. Et infra: §. 2. Hec quippe nosin Rothardo idcirco noueris operatos, ut
+            priuilegiasedis apostolicae, que male a uobis uiolata esse uide-bantur, auctoritate
+            apostolica et canonica* Patrumdeliberatione [pristino tandem ingenio s et proprio
+            decorentur honore. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e311">
+          <head xml:id="gd-p2c2q6-Hd1e313">C. XIV</head>
+          <head xml:id="gd-p2c2q6-Hd1e316" type="question-title"> Quisque eam obedientiam maioribus
+            exhibeat, quam ab inferioribus desiderat, </head>
+          <p xml:id="gd-p2c2q6-d1e319"> Item Leo Papa [ad Anastasium Thessalonicensem Episcopum,
+            epist. LXXXII. al. LXXXIV.] </p>
+          <p xml:id="gd-p2c2q6-d1e322"> Qui scit se quibusdam prepositum, non moleste ferat aliquem
+            sibi esse prelatum, sed obedientiam, quam exigit, etiam ipse dependat, et sicut non uult
+            grauis oneris sarcinamferre, ita non audeat alii inportabile pondus inponere.Discipuli
+            enim sumus humilis et mitis magistri, dicentis: , , Discite a me, quia mitis sum et
+            humilis corde.“ </p>
+          <p xml:id="gd-p2c2q6-d1e325"> Gratian. Patet ergo , quod nulli appellanti induciae sunt
+            denegandae. Ceterum, si causa frustratoriae dilationis appella-uerit, a iudice, ad quem
+            prouocatum fuerit, condempnabitur.Tempus uero appellationis est ante datam sententiam
+            uel postdatam . Quociens enim se pregrauari senserit, liberepotest appellare. </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e329"> Unde Sixtus Papa [II. epist. 1. ad Gratum Episc.] ait 138
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e334">
+          <head xml:id="gd-p2c2q6-Hd1e336">C. XV</head>
+          <head xml:id="gd-p2c2q6-Hd1e339" type="question-title"> Qui grauatur a proprio
+            metropolitano, primatis aut uniuersalis ecclesiae sedem appellet. </head>
+          <p xml:id="gd-p2c2q6-d1e342"> Si quis putauerit se a proprio metropolitano grauari, apud
+            primatem dioceseos aut penes uniuersalis aposto-licae ecclesiae Papam iudicetur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e346">
+          <head xml:id="gd-p2c2q6-Hd1e348">C. XVI</head>
+          <head xml:id="gd-p2c2q6-Hd1e351" type="question-title"> Romanam sedem appellet qui iudicem
+            suspectum habuerit . </head>
+          <p xml:id="gd-p2c2q6-d1e354"> [Item Felix II. ad Episcopos in Alexandrina Sinodo
+            congregatos, cap. 19.] </p>
+          <p xml:id="gd-p2c2q6-d1e357"> Quociens episcopi se a suis conprouincialibus uel a
+            metropolitano putauerint pregrauari, aut eos suspectos habuerint, mox Romanam appellent
+            sedem, atque eislibere ire liceat; et dum predictam Romanam appella-uerint sedem, aut ab
+            ea se audiri poposcerint, nullus eos aut excommunicare, aut eorum sedes subripere, aut
+            res eorum auferre, aut aliquam uim eis inferre presumatante, quam amborum causa Romani
+            Pontificis auctoritatefiniatur. Quod si aliter, a quoquam presumptum fuerit, nichil
+            erit, sed uiribus carebit. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e361">
+          <head xml:id="gd-p2c2q6-Hd1e363">C. XVII</head>
+          <head xml:id="gd-p2c2q6-Hd1e366" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q6-d1e369"> Item Iulius Papa [in rescripto ad Episcopos orientales, cap.
+            30.] * </p>
+          <p xml:id="gd-p2c2q6-d1e372"> Ideo huic sanctae sedi prefata priuilegia specialiter sunt
+            concessa, ut ab ea omnes obpressi auxilium, et iniustedampnati restitutionem sumant. </p>
+          <p xml:id="gd-p2c2q6-d1e375"> Gratian. Obpressi et se pregrauari putantes intelliguntur
+            ante datam sententiam, iniuste dampnati^* post datam^. </p>
+          <p xml:id="gd-p2c2q6-d1e379"> Unde Euticianus urbis Romae^* Episcopus scribit omnibus^
+            Episcopis, [epist. II. c. 1.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e383">
+          <head xml:id="gd-p2c2q6-Hd1e385">C. XVIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e388" type="question-title"> Ante exitum causae per
+            appellationem recedere licet.</head>
+          <p xml:id="gd-p2c2q6-d1e391"> Non ita in ecclesiasticis agendum est negotiis, sicut in
+            secularibus. Nam et in secularibus postquam legibus uocatus quisque uenerit et in foro
+            decertareceperit, non licet ei ante peractam causam recedere. Inecclesiasticis uero
+            dicta causa recedere licet, si necesse fueritaut si se uiderit pregrauari. </p>
+          <p xml:id="gd-p2c2q6-d1e394"> III. Pars. Gratian. Qui uero ex contumacia
+            iudicibusobtemperare noluerint, communione priuentur . </p>
+
+          <p xml:id="gd-p2c2q6-d1e397"> Unde in Mileuitano Concilio, [c. 24.] </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e401">
+          <head xml:id="gd-p2c2q6-Hd1e403">C. XIX</head>
+          <head xml:id="gd-p2c2q6-Hd1e406" type="question-title"> Excommunicetur, qui iudicibus suis
+            obtemperare noluerit*.</head>
+          <p xml:id="gd-p2c2q6-d1e409"> Quisquis probatus fuerit pro contumacia nolle obtemperare
+            iudicibus, cum hoc primae sedis episcopo fuerit probatum, det litteras, ut nullus ei
+            communicet episcoporum, donec obtemperet. </p>
+          <p xml:id="gd-p2c2q6-d1e412"> Gratian. Item quod post datam sententiam appellari possit ,
+            Fabianus Papa testatur, dicens [Hi lar io Episcopo ep. III.cap. 2.]; </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e416">
+          <head xml:id="gd-p2c2q6-Hd1e418">C. XX</head>
+          <head xml:id="gd-p2c2q6-Hd1e421" type="question-title"> Non denegetur ei appellatio, quem
+            in supplicio sententia destinauit. </head>
+          <p xml:id="gd-p2c2q6-d1e424"> Liceat etiam in criminalibus causis appellare, nec uox
+            appellandi denegetur ei, quem in supplicio sententiadestinauerit. </p>
+          <p xml:id="gd-p2c2q6-d1e427"> Gratian. Quod ante idem affirmat [eod. cap.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e432">
+          <head xml:id="gd-p2c2q6-Hd1e434">C. XXI</head>
+          <head xml:id="gd-p2c2q6-Hd1e437" type="question-title"> Ante datam sententiam licet alicui
+            appellare. </head>
+          <p xml:id="gd-p2c2q6-d1e440"> Si quis iudicem aduersum sibi senserit, uocem appellationis
+            exhibeat. </p>
+          <p xml:id="gd-p2c2q6-d1e443"> IV. Pars. Gratian. Post datam uero sententiam quiappellare
+            uoluerit, infra quinque dies appellet et infra eosdema quo prouocauit dimissorias
+            accipiat, et infra eosdem adquem appellauit iter arripiat. </p>
+          <p xml:id="gd-p2c2q6-d1e446"> Unde in Teodosianis * legibus sic statutum inuenitur: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e450">
+          <head xml:id="gd-p2c2q6-Hd1e452">C. XXII</head>
+          <head xml:id="gd-p2c2q6-Hd1e455" type="question-title"> Post datam sententiam infra quod
+            tempus quisque appellare debeat. </head>
+          <p xml:id="gd-p2c2q6-d1e458"> Propter superfluam appellatorum licentiam, ne in
+            retractandis uel reuocandis sententiis liberum habere arbitrium uiderentur, et tempora
+            appellationis, et penae constitutae sunt, ut quicumque apud iudicem, qui causam
+            eiusaudiuit, appellare, et ad alium iudicem prouocareuoluerit, infra quinque dies
+            appellet, et in his ipsisquinque diebus ad iudicem, ad quem prouocauerit, sinealiqua
+            dissimulatione perueniat, et ipse dies, in quoaccepit litteras, in his quinque diebus
+            conputetur specialiter. Quod si longius iter sit, exceptis quinque s diebusspatium
+            dierum, quo iter agi possit, conputetur. </p>
+          <p xml:id="gd-p2c2q6-d1e461"> [PALE A*. </p>
+          <p xml:id="gd-p2c2q6-d1e464"> C. XXIII. </p>
+          <p xml:id="gd-p2c2q6-d1e468"> Habita dinumeratione XX. millium diurnorum per singulos dies
+            computetur.] </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e472">
+          <head xml:id="gd-p2c2q6-Hd1e474">C. XXIV</head>
+          <head xml:id="gd-p2c2q6-Hd1e477" type="question-title"> A quo appellatur ad quem
+            appellatum fuerit dimissoriae litterae dirigantur.</head>
+          <p xml:id="gd-p2c2q6-d1e480"> Item [ibidem tit. XXXIV.]Ab eo, a quo appellatum est, ad
+            eum, qui deappellatione cogniturus est, dimissoriae litterae dirigantur, que uulgo
+            apostoli appellantur, quarum postulatio etacceptio intra quintum diem finienda est ex
+            offitio.Ista iam superius sub titulo de cautionibus et penisappellationum interpretata
+            sunt. §. i Qui intra statutatempora dimissorias non postulauerint, uel acceperint, uel
+            reddiderint, prescriptione ab agendo submouean-tur, et penam appellationis ferre
+            cogantur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e484">
+          <head xml:id="gd-p2c2q6-Hd1e486">C. XXV</head>
+          <head xml:id="gd-p2c2q6-Hd1e489" type="question-title"> De his , qui causa dilationis
+            appellant. </head>
+          <p xml:id="gd-p2c2q6-d1e492"> Item [ibidem tit. XXXV. c. 2.]Quicumque non confidentia
+            iustae causae, sed causaafferendae morae, ne contra eum sententia proferatur,
+            appellauerit, uel si de facto suo confessus, ne abdicatur, appellare uoluerit, huiusmodi
+            appellationes non recipiantur. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e496">
+          <head xml:id="gd-p2c2q6-Hd1e498">C. XXVI</head>
+          <head xml:id="gd-p2c2q6-Hd1e501" type="question-title"> Cum possessor appellat , dum
+            euentus causae dubius est , possessionis fructus sequestrentur . </head>
+          <p xml:id="gd-p2c2q6-d1e504"> Item [ibidem, tit. XXXVI. c. i.]Quociens post auditam causam
+            iudicem possessorappellat, fructus possessionis, de qua agitur, dum sequendae audientiae
+            euentus dubius est, merito sequestrantur.Nam si petitor appellauerit, ab eo hoc non
+            potest postulari, quia non potest sequestrari quod non habet. §. 1. Sipropter predia
+            urbana uel mancipia appellatur, possessiones eorum uel mercedes, uel uectura etiam, si
+            de nauis°s naulo agatur, deponi solent. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e508">
+          <head xml:id="gd-p2c2q6-Hd1e510">C. XXVII</head>
+          <head xml:id="gd-p2c2q6-Hd1e513" type="question-title"> Iniuste appellans omnimodo*
+            puniendus est.</head>
+          <p xml:id="gd-p2c2q6-d1e516"> Item [ibidem, tit. XXXVII. c. i.]Omnimodo* puniendus est,
+            quociens iniustaappellatio pronunciatur, sumptus, quos, dum sequeretur, aduersarius
+            inpendit, reddere cogatur non simplos, sedquadruplos. </p>
+          <p xml:id="gd-p2c2q6-d1e519"> Gratian. Premissis auctoritatibus infra quinque dies post
+            datam sententiam cuique appellare permittitur. Quod postealustinianus in
+            constitutionibus suis corrigens , infra decemdies appellationis remedium cuique dandum
+            decreuit , dicens: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e524">
+          <head xml:id="gd-p2c2q6-Hd1e526">C. XXVIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e529" type="question-title"> Infra decem dies appellationis
+            remedium conceditur. </head>
+          <p xml:id="gd-p2c2q6-d1e532"> Inperator lustinianus Augustus . </p>
+
+          <p xml:id="gd-p2c2q6-d1e535"> Anteriorum legum acerbitati plurima remedia inpo-nentes, et
+            maxime hec circa appellationes facientes, et in presenti ad huiusmodi beneficium
+            peruenire duximus esse necessarium. Antiquitati etenim cautum erat, ut, si quis per se
+            litem exercuerit et fuerit condempnatus, intra duos dies tantummodo licentiam
+            appellationis haberet;sin autem per procuratorem causa uentilata sit, et in
+            triduumproximum eam extendi. Ex rerum autem experientiainuenimus hoc satis esse
+            dampnosum; plures enim hominesignaros subtilitatis legum, et putantes in triduum
+            prouoca-tiones esse porrigendas, in promptum periculum incidisse, et biduo transacto
+            causas perdidisse. Unde necessariumduximus huiusmodi rei conpetenter mederi. Et omnes
+            appellationes sancimus, siue per se, siue per procuratores, seuper defensores, uel
+            curatores et tutores uentilentur, posseintra decem dierum spatium a recitatione
+            sententiae numerandum ab his iudicibus, quorum interest, offerri, siuemagni siue minores
+            sint (excepta uidelicet sublimissimapretoriana prefectura), ut liceat homini intra id
+            spatium plenissime deliberare, siue appellandum ei sit, siue quiescendum; ne timore
+            instante opus appellatorium frequentetur, sed sit omnibus inspectionis copia, que
+            indiscussoshominum calores potest refrenare. §. 1. Ad hec sancimus, si quando lis
+            speratur in nostrum inferri consistorium, si forte contigerit inperatoriam maiestatem
+            publicis occupatam causis ex mundanis prouisionibus non posse con-uocare patres,
+            quatinus causa agitetur, non ex hoc litempericlitari. Quod enim uicium est litigantium,
+            si culmeninperatorium occupetur? uel quis tantae est auctoritatis, utnolentem principem
+            possit ad conuocandos patres cete-rosque proceres coarctare? Sed si quid tale euenerit,
+            causa intacta permaneat, donec inperator motus sua sponteet conuocari proceres iusserit,
+            et litem inferri patiatur, etomnia secundum morem procedere. §. 2. Illud etiam intertio
+            capitulo disponendum est, quod antiquitas bene statuit, nouitas autem neglexit. Cum enim
+            ueneranda uetustatisauctoritas ita magistratus digessit, ut alii maiores, aliimedii,
+            alii minores sint, et appellationes a minoribus iudicibus non solum ad maximos iudices
+            remitterentur, sed ad spectabilium iudicum tribunal, quatinus et ipsisacro auditorio
+            adhibito litem exercerent, nouitas autemhoc dereliquit s, euenit, ut super minimis
+            causis maximinostri iudices inquietentur, et homines propter minimascausas magnis
+            fatigentur dispendiis, ut forsitan totius litisestimatio ad sumptus iudiciales non
+            sufficeret. Ideoquesancimus, si quando ex Egiptiaco tractu uel adiuncta eiutraque Libia
+            prouocatio speratur usque ad decem librarumauri quantitatem, non in hanc regiam urbem
+            eam uenire, sedad prefectum augustalem, qui audiat et causam dirimat uicesacri
+            cognitoris, nulla eis post diffinitiuam sententiam appellatio est porrigenda. Similique
+            modo quociens in Asiana diocesi uel Pontica tale aliquid emerserit, usque ad predictam
+            quantitatem decem librarum auri appellationes ad uiros spectabiles, comites forte, uel
+            proconsules, uel pretores, uel moderatores, quibus specialiter easdem </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e538"> lites peragendas deputauimus , remittantur, quatinus et hi
+            ad similitudinem prefecti augustalis uice sacri cognitorisintercedant, et causas sine
+            spe quidem appellationis, Deitantum et legum timore perferant decidendas. Orientales
+            autem tractus causas appellatione suspensas, etusque ad decem librarum auri quantitatem
+            limitatas, aduirum spectabilem comitem orientis mittere, simili modoaudientiam et finem
+            eis inpositurum. Illo uidelicet obser-uando, uti uiri spectabiles uel alii spectabiles
+            iudices non ad alios eadem spectabilitate decoratos iudicessuas transmittant
+            appellationes in litibus, quantaecumquesint quantitatis (cum non oporteat ad conpares
+            iudicesappellationes referri, sed a minore iudicio in maius tribunal ascendere), sed ad
+            illustrissimam prefecturam illorumappellationes, cuiuscumque sint quantitatis, (ut
+            dictumest) dirigantur, que una cum uiro excelso pro temporequestore eas dirimat, utroque
+            offitio subministrante, id esttam ex sacris scriniis more solito quam prefecta
+            pre-torioP. Ita tamen hec sancimus, ut nec a ducibus uelab q aliis spectabilibus
+            iudicibus (quibus forte, et si priuatisint, inperialis maiestas causas iniunxerit)
+            appellatio admemoratos iudices spectabiles currat, ne causa non grada-tim procedere, sed
+            perperam uideatur; sed a presidibus quidem prouinciarum, et iudicibus a nobis datis, si
+            non sintspectabiles iudices, intra memoratam quantitatem referetur. Si autem uel
+            illustres sint dati a nobis iudices (quibus apices dignitatum super spectabilitatem
+            sunt) uel duces, qui omnimodo spectabilitate sunt decorati, uel hi, qui aprincipe
+            delegati sunt, spectabilem habeant dignitatem, eorum appellationes sub quacumque
+            quantitate in hancregiam urbem ad conpetentes antiquo more iudices referantur 280r aliis
+            omnibus, que in appellationibus statuta suntuel antiqua prosapia, uel ab auctoritate
+            anteriorumconstitutionum, uel a nostra humanitate, intactis illibatisquecustodiendis. </p>
+          <p xml:id="gd-p2c2q6-d1e542"> [C. XXIX.] ^ </p>
+          <p xml:id="gd-p2c2q6-d1e545"> Digest. tit. Quando appellandum sit. lege i. [§. B iduum] . </p>
+
+          <p xml:id="gd-p2c2q6-d1e548"> Biduum uel triduum appellationis ex die sententiae latae
+            conputandum erit. §. i. Quid ergo, si sententia fueritsub condicione dicta, utrum ex die
+            sententiae tempusconputamus ad appellandum, an uero ex die, quo condiciosententiae
+            extitit? Sane quidem non est sub condicionesententia dicenda; sed si fuerit dicta, quid
+            fiet? Et est utilestatim tempora ad appellandum conputari debere. §. 2.Quod in
+            sententiis preceptum est, ut uel altera die, uel tertia prouocetur, hoc etiam in ceteris
+            obseruandumest, ex quibus sententia quidem non profertur, appellaritamen oportet et
+            potest, ut cum quis* ad tutelamuel ad alia ciuilia munera nominatur, eius s excusationon
+            admittitur. §. 3. Si forte post sententiam statimdictam copiam sui non fecerit is, qui
+            pronunciauit (ut fieriassolet), dicendum est nichil nocere appellationi". Namubi primum
+            copiam eius habuerit, poterit prouocare. Ergosi statim se subtraxit, ;similiter
+            subueniendum est.§.4. Quid ergo, si condicio horae efficit, ut sereciperet? Si forte
+            dicta sit sententia iam suprema hora, utique non uidebitur se subtraxisse. §. 5. Adeundi
+            autemfacultatem semper accipimus, si in publico sui copiamfecerit. Ceterum, si non
+            fecitp, an inputetur alicuiquod ad domum eius non uenerit , quodque in hortos
+            nonaccesserit, et ulterius quod ad uillam suburbanam? Magisque est ut non debeat
+            inputari. Quare si in publico eiusadeundi facultas non fuit, melius dicetur facultatem
+            nonfuisse adeundi. §. 6. Si quis ipsius quidem, a quo appel-lauit, adeundi facultatem
+            non habuit % ut ei libellosdaret**, eius autem, quem appellauit, habeat copiam,
+            uidendum, an ei prescribi possit quod eum nonadierit. Et hoc iure utimur, ut, si
+            alterius adeundi copia fuit, prescriptio locum habeat. §. 7. Palam est, eam esse
+            propriam causam, cuius emolumentum uel dampnum ad aliquem suo nomine pertinet. §. 8. Si
+            aduersusabsentem fuerit pronunciatum, biduum uel triduum ex quoquis scit conputandum
+            est, non ex quo pronunciatum est.Quod autem dicitur absentem posse prouocare ex quoscit,
+            sic accipimus, si non in causa per procuratoremdefensus est. Nam si ille non prouocauit,
+            difficile est ut hicaudiatur. §.9. Si quidemy in insulam deportandum an-notauerit preses
+            prouinciae, et inperator rescripserit***ut deportetur, uideamus quando sit prouocandum,
+            utrumcum inperator rescripserit, an cum ei scribitur?Et putem, tunc appellandum esse,
+            cum recipi eumpreses iubet+. Ceterum uerendum est, ne sero sit, uttunc prouocetur, cum
+            inperator insulam ei assignauerit;conprobata enim sententia presidis tunc solet
+            insulamassignare. Rursus illud uerendum est, si mendaciis apudprincipem honerauit eum,
+            quem deportandum laborat, intercludit viam prouocandi. Quid ergoest? Recte dicetur
+            humanitate suggerente ut et hocillo ff tempore non frustra prouocaretur, quia non
+            aduersus principem, sed aduersus iudicis calliditatem prouocauit. §. 10 .ss Illud
+            uideamus, si, cum inpera- </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e551"> tori scriberetur, exemplum litterarum litigatori editum sit,
+            neque is appellauerit, et postea contra eum rescriptum sit, an appellare a litteris
+            pridem sibi editis possit f+? quia qui tunc non appellauerit “ uera esse quescripta sunt
+            consensisse uidetur, nec est audiendus, sidicat euentum rescripti sacri se sustinuisse. </p>
+          <p xml:id="gd-p2c2q6-d1e554"> C. XXX. </p>
+          <p xml:id="gd-p2c2q6-d1e557"> De appellationibus recipiendis uel non. </p>
+          <p xml:id="gd-p2c2q6-d1e561"> V. Pars. Non solent audiri appellantes, nisi hi, quorum
+            interest, uel quibus mandatum est, uel qui negotiumgerunt alienum, quod mox reus ratum
+            haberet. Sedet si mater *, ex pietate prouocauerit, dicendumest et hanc audiri debere,
+            et si litem preparandam curaremaluerit, intercedere non uidetur, licet ab initio
+            defendere non potest. §. i.s Ante sententiam appellaripotest, si questionem in ciuili
+            negotio habendam iudex interlocutus sit, uel in criminali, si contra leges hoc faciat.§.
+            2. Eius, qui ideo causam agere frustratur, quod dicitse libellum principi dedisse, et
+            sacrum rescriptum expectare, audiri desiderium prohibetur, si» ob eam causam
+            prouocauerit, appellatio eius recipi sacris constitutionibus prohibetur^. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e565">
+          <head xml:id="gd-p2c2q6-Hd1e567">C. XXXI</head>
+          <head xml:id="gd-p2c2q6-Hd1e570" type="question-title"> De libellis dimissoriis . </head>
+          <p xml:id="gd-p2c2q6-d1e573"> [Item Marcianus 1 . 2. De appellationibus, tit. De libellis
+            dimissoriis, 1. unica.] </p>
+          <p xml:id="gd-p2c2q6-d1e576"> Post appellationem interpositam litterae dandae sunt ab eo,
+            a quo appellatum est, ad eum, qui de appellatione cogniturus est siue principem, siue
+            quem alium, quas litterasdimissorias siue apostolos appellant. Sensus autem litterarum
+            est talis: appellasse (puta) Lucium Titium a sententiaillius, que inter illum et Me.
+            dicta fuit. Sufficitautem petisse intra tempus dimissorias instanter et sepius, et si
+            non accipiat, id ipsum contestetur. Nam instantiam petentis dimissorias constitutiones
+            desiderant.Equum est igitur, si per eum steterit, qui debeat darelitteras, quo minus
+            det, ne hoc accipienti noceat. §. i. Titulo: Nichil nouari. Appellatione interposita,
+            siue earecepta sit^ siue non, medio tempore nichil nouari oportet.§. 2. Si quis ex
+            pluribus facinoribus condempnatus propter quedam appellauerit, propter quedam non,
+            utrumsit differenda pena eius, an non, queritur. Et si quidemgrauiora sunt crimina, ob
+            que appellatio interpositaest, leuius autem id, propter quod non appellauit,
+            recipiendaest omnino appellatio, et differenda pena. Si uero gra-uiorem sententiam
+            meruit ex ea specie, ex qua non est appellatum, omnino * pena inponenda est. </p>
+
+          <p xml:id="gd-p2c2q6-d1e579"> Gratian. Forma apostolorum hec est: „Ego En .sanctae
+            Bononiensis ecclesiae episcopus, te presbiterum Rolan-dum, capellanum S. Apollinaris, ad
+            apostolicam sedem, quamappellasti, ab obseruatione mei iudicii his apostolis dimitto .“
+            Forma uero appellationis hec est: , , Ego Adelinus S . Reginae ecclesiae minister licet
+            indignus sentiens me pregrauari adomino Gualterio S. Rauennatis ecclesiae archiepiscopo
+            Romanam sedem appello, et apostolos peto. §. i. Si uero post datam sententiam appellare
+            uoluerit, hic erit ei modus appellandi:„Ego A. sanctae Reginae ecclesiae minister licet
+            indignus contrasententiam domini Gualterii sanctae Rau. ecclesiae archiepiscopi iniuste
+            in me latam pridie Kal. Magi A. incarnationisDomini MCV . * feria P quarta, Romanam
+            sedem appello, et apostolos peto. §. 2. Si autem unus, uel duo pro pluribusappellare
+            uoluerint, sic appellabunt: „Ego G. et P. sindiciscanonicorum S. B. E. sentientes nos
+            pregrauari, uel contrasententiam, etc. Romanam sedem appellamus, et apostolos postulamus
+            .“ Huiuscemodi i appellationes in scriptis fieri debent. </p>
+          <p xml:id="gd-p2c2q6-d1e583"> Ad iudicium autem alterius fidei catholico appellare non
+            licet. </p>
+          <p xml:id="gd-p2c2q6-d1e586"> Unde in Cartaginensi Concilio IV. [c. 7.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e590">
+          <head xml:id="gd-p2c2q6-Hd1e592">C. XXXII</head>
+          <head xml:id="gd-p2c2q6-Hd1e595" type="question-title"> Excommunicetur catholicus, qui
+            causam suam iudicio infidelium committit . </head>
+          <p xml:id="gd-p2c2q6-d1e598"> Catholicus, qui causam suam, siue iustam siue in-iustam, ad
+            iudicium alterius fidei iudicis prouocat, excommunicetur. </p>
+          <p xml:id="gd-p2c2q6-d1e601"> VI. Pars. Gratian. Notandum uero est, quod quidamiudices
+            sunt, a quibus appellari non oportet. </p>
+          <p xml:id="gd-p2c2q6-d1e604"> Unde in Concilio Mileuitano, [c. 24.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e608">
+          <head xml:id="gd-p2c2q6-Hd1e610">C. XXXIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e613" type="question-title"> A quibus iudicibus prouocari non
+            licet . </head>
+          <p xml:id="gd-p2c2q6-d1e616"> A iudicibus, quos communis consensus elegerit, non liceat
+            prouocari. </p>
+          <p xml:id="gd-p2c2q6-d1e619"> Gratian. Quod de arbitris intelligendum est. Iudicum enim
+            alii simZ arbitrarii, alii sunt ordinarii. Ordinarii uero sunt, qui ab apostolica, ut
+            ecclesiastici, uel ab inperatore, utpote seculares, legitimam potestatem accipiunt.
+            Arbitrarii sunt, quinullam potestatem habentes cum consensu litigantium in
+            iudiceseliguntur, in quos conpromittitur, ut eorum sententiae stetur.Horum alii sunt
+            ordinarii et arbitrarii, alii arbitrarii tantum.Ordinarii et arbitrarii sunt, qui
+            legitimam potestatem habentes abeis eliguntur ad arbitrandum, qui non sunt suae ditioni
+            subpositi.Ab his, etsi ut arbitrarii sedeant, et non ut ordinarii, priuilegiotamen
+            ordinariae dignitatis, grauatus aliquis appellare ualebit. </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e622"> Unde in Cartaginensi Concilio legitur III. [c. io.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e626">
+          <head xml:id="gd-p2c2q6-Hd1e628">C. XXXIV</head>
+          <head xml:id="gd-p2c2q6-Hd1e631" type="question-title"> A iudicibus, qui eliguntur communi
+            consensu, prouocciri licet . </head>
+          <p xml:id="gd-p2c2q6-d1e634"> Sane, si ex consensu partium iudices electi fuerint, etiam a
+            pauciori numero, quam constitutum est, liceat*prouocari. </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e638">
+          <head xml:id="gd-p2c2q6-Hd1e640">C. XXXV</head>
+          <head xml:id="gd-p2c2q6-Hd1e643" type="question-title"> Qui de episcoporum iudiciis
+            queruntur, a uicinis episcopis audiantur, uel ab aliis ex consensu eorum adhibitis. </head>
+          <p xml:id="gd-p2c2q6-d1e646"> Item ex Concilio Mileuitano, [c. 22.] </p>
+          <p xml:id="gd-p2c2q6-d1e649"> Placuit, ut presbiteri, diaconi, uel ceteri inferiores
+            clerici in causis, quas habuerint, si de iudiciis episcoporum suorum questi fuerint,
+            uicini episcopi eos audiant, et inter eosquicquid est finiant, adhibiti ab eis ex
+            consensu episcoporum suorum. Quod si et ab eis prouocandum putaue-rint, non prouocetur,
+            nisi ad Affricana concilia uel adprimates prouinciarum suarum. Ad transmarina autemqui
+            putauerint appellandum, a nullo intra Affricam incommunione suscipiantur. </p>
+          <p xml:id="gd-p2c2q6-d1e652"> Gratian. Nisi forte* Romanam sedem appellauerint. jautem,
+            qui appellauit^*, ad eum, a quo appellauit, remitti nondebet. </p>
+          <p xml:id="gd-p2c2q6-d1e656"> Unde in Sardicensi Concilio, [c. 7.]: </p>
+          <p xml:id="gd-p2c2q6-d1e659"> C. XXXVI. </p>
+          <p xml:id="gd-p2c2q6-d1e662"> Si episcopus accusatus fuerit, et omnes iudica-uerint
+            congregati episcopi regionis ipsius, et de gradu suo deiecerint eum, si appellauerit qui
+            deiectus uide-tur, et confugerit ad beatissimum Romanae ecclesiaeepiscopum, et uoluerit
+            se audiri*, si iustum putaueritut renouetur** examen, scribere episcopis
+            digneturepiscopus Romanus his, qui in finitima et propinquaaltera s prouincia sunt, ut
+            episcopi diligenter omniarequirant et iuxta fidem ueritatis diffiniant. Quodsi is, qui
+            rogat*** causam suam iterum audiri, deprecatione sua mouerit episcopum Romanum, ut
+            delatere suo presbiteros mittat, erit in potestate eiusquid uelit, et quid estimet. Et
+            si decreuerit mittendos esse qui presentes cum episcopis iudicent, uthabeant etiam
+            auctoritatem personae illius, a quodestinatf sunt, erit in eius arbitrio. Si uero
+            crediderit sufficere episcopos f prouinciales, ut negotio terminum inponant, faciet quod
+            sapientissimo consiliosuo iudicauerit. </p>
+
+          <p xml:id="gd-p2c2q6-d1e665"> Gratian. Arbitrarii tantum sunt qui nullam legitimam
+            potestatem acceperunt, a quibus appellari non licet, quia eis inpu-tandum est qui* tales
+            elegerunt. Si uero sententia eorum, a quibus appellatur, soluta /um' tt, nichil oberit
+            eis, nisi forteuel inimicitia uel pecunia deprauati iniustam probantur tulisse
+            sententiam. </p>
+          <p xml:id="gd-p2c2q6-d1e668"> Unde in eodem Concilio Cartaginensi III. [c. 10.] legitur :
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e673">
+          <head xml:id="gd-p2c2q6-Hd1e675">C. XXXVII</head>
+          <head xml:id="gd-p2c2q6-Hd1e678" type="question-title"> Cum per appellationem sententia
+            soluitur, </head>
+          <p xml:id="gd-p2c2q6-d1e681"> non debet ei obesse, qui iniquo animo non iudicauit . </p>
+          <p xml:id="gd-p2c2q6-d1e684"> VII. Pars. Hoc etiam placuit, ut a quibuscumqueiudicibus
+            ecclesiasticis ad alios iudices ecclesiasticos, ubiest maior auctoritas, fuerit
+            prouocatum, non eis obsit, quorum fuerit soluta sententia, si conuinci non potuerint
+            uelinimico animo iudicasse, uel aliqua cupiditate aut gratiadeprauati. </p>
+          <p xml:id="gd-p2c2q6-d1e687"> Gratian. Queritur autem de eo, a quo appellatur, an sit
+            demeandus *c { testimonium apud eum, ad quem appellatur, super negotio, cuius
+            cognitionem suscepit. </p>
+          <p xml:id="gd-p2c2q6-d1e691"> De hoc ita statutum est in Concilio Cartaginensi V. [c. i.]:
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e695">
+          <head xml:id="gd-p2c2q6-Hd1e697">C. XXXVIII</head>
+          <head xml:id="gd-p2c2q6-Hd1e700" type="question-title"> Clericus non deuocetur ad
+            testimonium illius causae, cuius primum cognitionem suscepit. </head>
+          <p xml:id="gd-p2c2q6-d1e703"> Statuendum est, ut qui in ecclesia quamlibet causam iure
+            apostolico ecclesiis inposito agere uoluerit, et forsan decisio clericorum uni parti
+            displicuerit, non liceat clericum in iudicium ad testimonium deuocarieum, qui presens
+            uel cognitor fuit, et nulla ad testimonium dicendum ecclesiastici cuiuslibet persona
+            pulsetur. </p>
+          <p xml:id="gd-p2c2q6-d1e706"> Gratian. Ab eis quoque, ad quos prouocatum fuerit ( sicut in
+            Concilio Affricano [c. 63.] legitur ) ulterius prouocari non licet: </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e710">
+          <head xml:id="gd-p2c2q6-Hd1e712">C. XXXIX</head>
+          <head xml:id="gd-p2c2q6-Hd1e715" type="question-title"> Non licet appellari ab m, ad quos
+            prouocatum fuerit. </head>
+          <p xml:id="gd-p2c2q6-d1e718"> Si autem fuerit prouocatum, eligat qui prouocauerit iu- </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e721"> dices, et cum eo ille, contra quem prouocauerit, ut ab ipsis
+            deinceps nulli liceat prouocare. </p>
+          <p xml:id="gd-p2c2q6-d1e724"> Gratian. Post secundam prouocationem intelligendum est:
+            tertio enim in una eademque causa super hisdem capitulisprouocare non licet. Unde in
+            VII. libro Codicis , titulo nonliceat in una eademque causa tertio prouocare,
+            [legeunica], inperator Justinianus scribit: , , Si quis in quacumque liteiterum
+            prouocauerit, non liceat ei tertio in eadem lite superhisdem capitulis prouocatione uti,
+            uel sententias exellentissimo-rum prefedorum pretorio retractare, licentia danda
+            litigatoribus, arbitro dato, ipsius audientiam, qui eum dedit, ante litiscontestationem
+            inuocare, et huiusmodi petitione minime pro-uocationis uim obtinente. §. i. Cum autem in
+            causa capitali uelstatus interpellatum fuerit, non per procuratores, sed per se
+            ipsosappellantes causam suam agere oportet. </p>
+          <p xml:id="gd-p2c2q6-d1e728"> Unde Adrianus Papa ait [in capitulis a se collectis, cap.
+            44.] : </p>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e732">
+          <head xml:id="gd-p2c2q6-Hd1e734">C. XL</head>
+          <head xml:id="gd-p2c2q6-Hd1e737" type="question-title"> Appellationem in causa capitali
+            uel status interpositam per procuratorem exequi non licet. </head>
+          <p xml:id="gd-p2c2q6-d1e740"> Si quando in causa capitali uel causa status interpellatum
+            fuerit, non per exploratores, sed perse ipsosest agendum. </p>
+          <p xml:id="gd-p2c2q6-d1e743"> Gratian. Tempus autem exequendae appellationis annus est,
+            uel, si iusta causa intercesserit, biennium. </p>
+          <p xml:id="gd-p2c2q6-d1e746"> Unde in Autenticis constitut. 11. collat. V. legitur: </p>
+          <a/>
+          <h1>
+            <a/> [C. XLI.]° 2 a </h1>
+          <p xml:id="gd-p2c2q6-d1e757"> „Si quis appellat, inquiratur annus, intra quem secundum se
+            communiter ne litem exequatur, aut, si iusta intercesserit causa, annus alius indulgetur
+            , quo transacto litenon conpleta manetis sententia. §. 1. Appellatore cessante, cum unus
+            mensis superest ex biennio, licet uictori ingredi ut reusqueratur, quo siue inuento siue
+            non , suas afferat allegationes, £ 5 i 0 h i confirmetur uel rescindatur sententia, omni
+            casuabsente in expensasti condempnando. Neutro occu-rente post secundum fatalem per
+            manet sententia.°Constitutione secunda , in collatione /F.: §. 2. „Sedlis, que speratur
+            in consistorium principis inferri, absque dampnomorae manet intacta, donec ipse faciat
+            eam introduci, et aproceribus secundum morem dirimiP </p>
+          <p xml:id="gd-p2c2q6-d1e760"> [Gratian.] Si uero is, qui appellauit, penitentia ductus ab
+            appellatione desistere uoluerit, non prohibetur, sicut in 7. libr .Codicis, tit. de
+            appellationibus et consultationibus P, [ 1 . 28.] Inpp. Arcadius et Honorius statuisse
+            leguntur: , , Si quislibellos * appellatorios ingesserit, sciat se habere licentiam
+            arbitrium conmutandi et suos libellos recuperandi, ne iusiae peni-tudinis humanitas
+            amputetur .“§. 1. Est autem quando appella </p>
+          <p xml:id="gd-p2c2q6-d1e763"> tionem interponi necesse non est. In eodem namque libro, et
+            eod . tit. [ 1 . 27.] idem Inpp. decreuerunt: „ Nominationes i libellis uel edictis
+            factae , citra concilium publicum non ua-lent a quibus nec appellare necesse est*. </p>
+          <p xml:id="gd-p2c2q6-d1e766"> VIII. Pars. §. 2. Diffinitiua quoque sententia, que
+            con-dempnationem uel absolutionem non continet, pro nulla habetur. §. 3. Item sententia
+            citra solitum ordinem iudiciorum a preside </p>
+
+          <p xml:id="gd-p2c2q6-d1e770"> prolata auctoritatem rei iudicatae non obtinet. §. 4. Item
+            si sententia lata fuerit contra res prius iudicatas, a quibus provocatum non est ,
+            sententiae auctoritatem non obtinebit, et ideo ab eaappellari non est necesse. §. 5.
+            Item «f sententia contraius scriptum feratur, ueluti dum defunctus et minor XIV.
+            annisfuisse , et testamentum iure fecisse dicitur, nullas uires obtinet, neccontra eam
+            est necessarium prouocationis auxilium. §. 6. Si uerocontra ius litigatoris sententia
+            dicatur, ueluti dum minor XIV.annis, annum XIV. inpleuisse, ac per hoc testamentum
+            iurefecisse pronunciatur, ad prouocationis remedium oportet confugere. §. 7. Item si
+            plures iudices dati fuerint , et unustantum ex his pronunciasseproponitur, non uidetur
+            appellandinecessitas esse, cum sententia iure non teneati y. §. 8. Itern ^ cum certa
+            ratione et fine mulctare iudices possunt, sialiter contra legis statutum modum mulctam
+            irrogauerint, quodcontra ius gestum uidetur firmitatem non tenet, et sine
+            appellationepotest rescindi. §. 9. Venales quoque sententias , que in mer-cede a
+            corruptis iudicibus proferuntur, et ^ citra interpositae prouocationis auxilium infirmas
+            esse decretum est. §. 10. Item 5? propter infirmitatem etatis ad honorem, ad
+            quemnominatus es, inhabilem te esse probaueris , pretermissa appellatione iniqua
+            nominatio remouebitur. §. 11. Sunt etiam, quorum appellationes non recipiuntur. Non enim
+            potest recipieius appellatio, qui per contumaciam absens, cum ad agendamcausam negotio
+            prius summatim perscrutato uocatus esset, con-dempnatus 552bb f §.12. Nullus etiam
+            homicidarum, uene- </p>
+          <p xml:id="gd-p2c2q6-d1e773"> ficorum, maleficorum , adulterorum, itemque eorum, qui
+            manifestam uiolentiam commiserunt, argumentis conuictus, testibus superatus, uoce etiam
+            propria uicium scelusque confessus audiaturappellans. Et hoc in notoriis. §.13. In
+            occultis autem: «S?testibus productis, instrumentis prolatis, aliisque
+            argumentisprestitis sententia contra eum lata sit, et ipse, qui condempnatusest, aut
+            minime uoce sua confessus sit, aut formidine tormentorumterritus contra se aliquid
+            dixerit, prouocandi licentia ei nondenegatur .§. 14. Nullius quoque offitialium a
+            sententia </p>
+          <p xml:id="gd-p2c2q6-d1e776"> proprii iudicis prouocatio tribuatur, nisi in eo tantum
+            negotio, quod ratione ciuili super patrimonio forte apud proprium iudiceminchoauerit.
+            §.15. Quociens etiam fiscalis calculi satisfactiopostulatur aut tributum exposcitur, aut
+            publici, uel etiam priuatidebiti euidentis atque conuicti redibitio flagitatur,
+            appellatione exclusa necessario in Gontumacem uigor iudiciariusexercetur. §. 16. Ab
+            executione sententiae appellari non potest, nisi forte executor sententiae modum
+            iudicationis excedat. §. 17. Si quis etiam ausus fuerit prouocare, ne uoluntas
+            defunctitestamento scripta reseretur uel ne hii, quos scriptos patueritheredes, in
+            possessionem mittantur, et is, cuius de ea re notio erit, appellationem receperit , et
+            iudex, qui tam ignaue 56 Sdd conniuentiam adhibuerit , et litigator, qui tam inportune
+            ap-pellauerit°, uiginti libris argenti mulctetur^. §. 18. De possessione etiam et eius
+            momento si causa dicatur, que sententiainterlocutoria appellatur, quamuis prouocatio
+            interposita fuerit, tamen lata sententia sortiatur effectum. §. 19. Quandoque unam
+            eandemque 574 ff condempnationem plures simul reportant, nec diuersitas factorum
+            separationem accipit, quo casu, si omnesappellauerint, et uno ex his agente eorum
+            appellatio iusta pronun-ciata fuerit, emolumentum uictoriae etiam ad alios pertinebit . </p>
+
+
+
+
+          <p xml:id="gd-p2c2q6-d1e779"> S a autem unus tantum appellauerit^eiusque appellatio iusta
+            pronunciata est , ei quoque prodest, qui non appellauit. §. 20. Quod si etatis auxilio
+            unus contra sententiam restitutionem in - petrauerit , maiori, qui suo iure non
+            appellauit , hoc rescriptum non prodest. §. 21. Iudicibus autem non solumsuscipiendae
+            appellationis necessitas uidetur inposita, uerum etiamXXX. dierum spatia ex die
+            sententiae diffinita sunt, intra quegesta una cum relatione litigatoribus conuenit
+            prestari. §. 22. Similiter arbiter appellationem suscipere et relationem
+            dareconpellitur, si delegatus fuerit . §.23. Litigatoribus uero copiaest etiam non
+            conscriptis “ libellis illico uoce appellare, cumres iudicata poposcerit, tam in
+            ciuilibus quam in criminalibuscausis * §. 24. Ab eo autem, qui de appellatione
+            cognoscit, nonpotest fieri recursus ad iudicem, a quo fuerit prouocatum.Quapropter
+            remittendi litigatores ad prouincias remotam sibioccasionem atque exclusam penitus
+            intelligant, cum super omni causa interpositam prouocationem uel iniustam tantum
+            liceatpronunciare, uel iustam. §. 25. Hec omnia in Fi/. lib.Codicis inuenies, a tit. de
+            appellationibus et consultationibus , usque ad tit . ne liceat in una eademquecausa .
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

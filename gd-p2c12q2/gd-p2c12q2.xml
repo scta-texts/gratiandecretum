@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c12q2">
+        <head xml:id="gd-p2c12q2-Hd1e103"> QUESTIO II. </head>
+        <p xml:id="gd-p2c12q2-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c12q2-d1e109"> I. Pars. Nunc queritur, si sacerdotes aliqua de rebus
+          ecclesiae dedisse noscuntur, an his , qui eas acceperunt', aliquafirmitate constabunt f
+          Quod res ecclesiae nullo modo distrahipossunt et distractae possideri, multis
+          auctoritatibus probatur. </p>
+        <p xml:id="gd-p2c12q2-d1e112"> Ait enim Stephanus Papa*: </p>
+        <div xml:id="gd-p2c12q2-Dd1e115">
+          <head xml:id="gd-p2c12q2-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c12q2-Hd1e120" type="question-title"> Ecclesiae pecuniam auferens ueluD
+            homicida dampnatur. </head>
+          <p xml:id="gd-p2c12q2-d1e123"> Qui Christi pecunias et ecclesiae aufert, fraudat etrapit,
+            ut homicida in conspectu iudicis deputabitur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e128">
+          <head xml:id="gd-p2c12q2-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c12q2-Hd1e133" type="question-title"> Quicquid de sacratis uasis uel
+            ministeriis a quolibet clero usurpatum fuerit, ecclesiae restituatur . </head>
+          <p xml:id="gd-p2c12q2-d1e136"> Item Pelagius Hostilio Episcopo . </p>
+          <p xml:id="gd-p2c12q2-d1e139"> Augusto sedis nostrae notario suggerente didicimus, quod ei
+            dilectio tua directis apicibus indicasset, quosdamde clero tuo, et maxime parrochiarum
+            ad te pertinentium, non pauca sacrata uasa uel ministeria distraxisse, et
+            aliquahuiusmodi perpetrasse, que aliena a religioso sunt proposito.Karitatem uero tuam,
+            ut hec conpetenti sollicitudinedebeat insequi uel ulcisci, nostrae preceptionis
+            auctoritatecupis conmuniri. Qua de re presentibus mandamusaffatibus, ut conpetenti
+            uiuacitatis instantia quicquid desacratis uasis uel ministeriis a quolibet clericorum
+            usurpatumfuisse uel distractum conpereris, sine cuiiisquam moraeinteruentu exigere non
+            dimittas et ecclesiasticis usibus reformare. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e143">
+          <head xml:id="gd-p2c12q2-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c12q2-Hd1e148" type="question-title"> Quicquid Domino consecratur ad
+            ius pertinet sacerdotum.</head>
+          <p xml:id="gd-p2c12q2-d1e151"> Item Bonifatius Papa . </p>
+          <p xml:id="gd-p2c12q2-d1e154"> Nulli liceat ignorare, omne, quod Domino consecratur, siue
+            fuerit homo, siue animal, siue ager, uel quicquid semel fuerit consecratum, sanctum
+            sanctorum erit Domino, etad ius pertinet sacerdotum. Propter quod inexcusabiliserit
+            omnis, qui a Domino et ecclesia, cui conpetunt, aufert, uastat, inuadit uel eripit, et
+            usque ad emendationem ecclesiaeque satisfactionem ut sacrilegus iudicetur, et, si
+            emendare noluerit, excommunicetur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e158">
+          <head xml:id="gd-p2c12q2-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c12q2-Hd1e163" type="question-title"> Excommunicationi subiaceat qui
+            ecclesiastica predia inuadit.</head>
+          <p xml:id="gd-p2c12q2-d1e166"> Item Gregorius VII. [lib. VI. Regesti, in concilio c. i.] </p>
+
+          <p xml:id="gd-p2c12q2-d1e169"> Quicumque militum, uel cuiuscumque ordinis uel professionis
+            persona, predia ecclesiastica a quocumque rege, seu seculari principe, uel ab episcopis
+            inuitis, seu abbatibus, aut ab aliquibus ecclesiarum rectoribus susceperit, uel
+            inuaserit, uel eorum consensu tenuerit, nisi eadempredia ecclesiis restituerit,
+            excommunicationi subiaceat. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e173">
+          <head xml:id="gd-p2c12q2-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c12q2-Hd1e178" type="question-title"> Sacrilegii crimen incurrit qui
+            predia ecclesiastica uexat.</head>
+          <p xml:id="gd-p2c12q2-d1e181"> Item Pius Papa, [epist. II.]Predia diuinis usibus tradita
+            quidam humanis applicantusibus, et Deo nostro , cui tradita sunt, ea subtrahunt, utsibi
+            inseruiant. Quapropter ab omnibus illius usurpationiscontumelia depellenda est, ne
+            predia usibus. secretorumcelestium dicata a quibusdam inruentibus uexentur. Quodsi quis
+            presumpserit, ut sacrilegus iudicetur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e185">
+          <head xml:id="gd-p2c12q2-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c12q2-Hd1e190" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c12q2-d1e193"> Item An aci e tu s [Papa, epist. I.]Qui abstulerit patri
+            uel matri aliquid, dicetquehoc peccatum non esse, homicidae particeps est. Paternoster
+            sine dubio Deus est, qui nos creauit: mater ueronostra ecclesia est, que nos in baptismo
+            regenerauit.Ergo, qui Christi pecunias et ecclesiae rapit, aufertet fraudat, homicida
+            est. </p>
+          <p xml:id="gd-p2c12q2-d1e196"> C. VII. /n quadruplum restituat qui res inuadit ecclesiae. </p>
+          <p xml:id="gd-p2c12q2-d1e199"> Item I oh anne s Papa III. [ad Zachariam Archiepisc.] °. </p>
+          <p xml:id="gd-p2c12q2-d1e203"> In antiquis ecclesiae statutis decretum est, ut qui aliena
+            inuadit non exeat inpunitus, sed cum multiplicatione omniarestituat. Unde in euangelio
+            scriptum est: „Quod sialiquid defraudaui, reddo quadruplum/ Et in seculi legibus cautum
+            habetur: “Qui rem subripit alienam etc/ (utinfra in auctoritate Eusebii Papae). </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e207">
+          <head xml:id="gd-p2c12q2-Hd1e209">C. VIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e212" type="question-title"> Pro tenore secularium legum
+            puniantur inuasores ecclesiasticarum rerum Item Gregorius ad Constantiam Reginam
+            Galliae, [lib. IV. epist. 33.]* </head>
+          <p xml:id="gd-p2c12q2-d1e215"> Cum deuotissimam dominam sciam de celesti uita atque
+            remedio animae suae sedulo cogitare, culpam meconmittere uehementer estimo, si ea, que
+            pro timoreomnipotentis Dei sunt suggerenda, siluero, et te sanctissimam de ecclesiastica
+            pace sedule non conmonuero.Nimis me Iuliani fratris nostri et coepiscopi
+            proclamationuper contristauit, maxime cum uillae suae, uidelicet ecclesiae, a
+            nequissimis predonibus sint depredatae, atque nocturnis incendiis more furum conbustae,
+            et dum idemmaligni iuxta nostri predecessoris Bonifatii decreta proemunitate** illud
+            emendare noluerint, et dum seculi </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e218"> leges hec eadem ita se habere uoluerint, lege uulgari
+            teste, in qua sic scribitur: „Si quis manu armata usque adquatuor homines in uicum
+            alterius ad malefaciendum uenerit, ille, qui prior est, pro illicita presumptione
+            conponat solidos nongentos, sequaces uero eius unusquisque solidosoctoginta. Si uero
+            incendium fecerit, nouies^ conponat: predam uero in quadruplum restituat. </p>
+          <p xml:id="gd-p2c12q2-d1e221"> [C. IX.]5 a* </p>
+          <p xml:id="gd-p2c12q2-d1e225"> Si seculi leges talem iustitiam habere uoluerunt, lex
+            diuina cur inferior esse debebit, cum in ipsius ueritatis pre-sentia a Zacheo
+            collaudatum sit, ut, si aliquem defraudaret, in quadruplum restitueret? Et quia summum
+            inrebus bonum est iustitiam colere, ac sua cuique iuraseruare, et in subiectos non
+            sinere quod potestatis est fieri, sed quod equum est custodiri (quod et uos diligere,
+            etomnino confidimus studere): quapropter excellentiaeuestrae mense nouembrio presentis
+            anni, secunda indictione, Petrum fratrem et coepiscopum nostrum a gremiosanctae Romanae
+            ecclesiae transmittimus, ut, fratribuseiusdem prouinciae in unum congregatis, emunitas
+            etpresumptio, et sacrilegium canonica auctoritate et vestraregia dignitate talem
+            terminum accipiant, ne post hacmembra diaboli, filii nequam, in sancta ecclesia te etiam
+            ibiregnante talia presumant. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e230">
+          <head xml:id="gd-p2c12q2-Hd1e232">C. X</head>
+          <head xml:id="gd-p2c12q2-Hd1e235" type="question-title"> Ecclesiae m?? subripiens in
+            undecuplumrestituat quod abstulit. </head>
+          <p xml:id="gd-p2c12q2-d1e238"> Item Eusebius Papa , [epist. II.] </p>
+          <p xml:id="gd-p2c12q2-d1e241"> Ini °3 legibus seculi cautum habetur: „Qui rem subripit
+            alienam, illi, cui res direpta est, in undecuplumque sublata sunt restituat.^ Et in lege
+            divina legitur:„ Maledictus omnis, qui transfert terminos proximi sui.“Talia ergo non
+            presumantur absque ultione, nec exerceantur absque dampnatione. Proinde* si quis
+            ecclesiasticas oblationes et quod Deo consecratum est rapuerit, uelconsenserit
+            facientibus, ut sacrilegus diiudicetur, et dampnum in quadruplum restituat, et canonice
+            peniteat. </p>
+          <p xml:id="gd-p2c12q2-d1e244"> Gratian. Econtra Gregorius scribens [cap. 4. responsionum]
+            Augustino Anglorum Episcopo , de his, qui fur -tim auferunt aliquid de ecclesia: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e248">
+          <head xml:id="gd-p2c12q2-Hd1e250">C. XI</head>
+          <head xml:id="gd-p2c12q2-Hd1e253" type="question-title"> Sine augmento sibi ablata
+            ecclesiam recipere oportet.</head>
+
+          <p xml:id="gd-p2c12q2-d1e256"> Fraternitas tua ex persona furis pensare potest, qualiter
+            ualeat corrigi. Sunt enim quidam, qui habentes subsidiafurtum perpetrant: et sunt alii,
+            qui in hac re ex inopia delinquunt. Unde necesse est, ut quidam dampnis, quidamuero
+            uerberibus corrigantur. Et cum paulo districtiusagitur, ex karitate agendum est, et non
+            ex furore, quia ipsihoc prestatur, qui corrigitur, ne gehennae ignibus tradatur.§. i.
+            Addis etiam, quo augmento ea, que furto deecclesiis abstulerint, reddere debeant. Sed
+            absit, utecclesia cum augmento recipiat quod de terrenis rebus uide-tur amittere, et
+            lucra de dampnis querere. </p>
+          <p xml:id="gd-p2c12q2-d1e259"> Gratian. Verum illud Eusebii de legum seueritate , istud*
+            Gregorii de ecclesiastica mansuetudine dictum intelligitur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e263">
+          <head xml:id="gd-p2c12q2-Hd1e265">C. XII</head>
+          <head xml:id="gd-p2c12q2-Hd1e268" type="question-title"> Non sunt alienanda in episcopatu
+            adquisita. </head>
+          <p xml:id="gd-p2c12q2-d1e271"> Item Deusdedit Episcopo Mediolanensi . </p>
+          <p xml:id="gd-p2c12q2-d1e274"> Res in episcopatu adquisitas sacerdotibus nulla est
+            alienandi licentia. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e278">
+          <head xml:id="gd-p2c12q2-Hd1e280">C. XIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e283" type="question-title"> Vasa sacra , nisi pro redemptione
+            captiuorum non sunt alienanda. </head>
+          <p xml:id="gd-p2c12q2-d1e286"> Item ex VI. a* Sinodo uniuersali , [c. 15.] </p>
+          <p xml:id="gd-p2c12q2-d1e289"> Apostolicos et paternos canones renouans hec sancta et
+            uniuersalis sinodus diffiniuit, neminem prorsus episcopum uendere uel utcumque alienare
+            cimilia et uasasacrata, excepta causa olim ab antiquis canonibus ordinata, uidelicet pro
+            redemptione** captiuorum; sed nec traderesalaria ecclesiarum in emphiteotica pacta, nec
+            alias rusticaspossessiones uenundare, ac per hoc, ecclesiasticos redditus ledere °, quos
+            ad propriam utilitatem, et ob escam pauperum et peregrinorum sustentationem esse
+            decernimus***. Et paulo post: §. 1. Quisquis autem post hanc diffinitionem nostram
+            contrarium quid huic sanctae sedi acuniuersali Sinodo agere temptauerit, deponatur ut
+            pre-uaricator diuinarum rerum et preceptorum, cassata uidelicet omnino que facta est in
+            scriptis uel sine scriptis abepiscopo uenditione uel emphiteotica traditione, uel alia
+            qualibet alienatione, cimiliorum et salariorum locorum.Qui uero perceperit aut emerit
+            aliquid ex predictis cimiliisuel salariis, et non restituerit ecclesiae iterum que
+            ecclesiae sunt, et non reddiderit £ ad incidendum cartamuenditionis uel emphiteoseos,
+            sit anathema, usque dumfecerit quod ab hac sancta et uniuersali Sinodo confirmatumest.
+            §. 2. Si autem episcopus conuictus fuerit construxissemonasterium de ecclesiasticis
+            redditibus, tradat eidemecclesiae ipsum monasterium. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e293">
+          <head xml:id="gd-p2c12q2-Hd1e295">C. XIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e298" type="question-title"> Pro redemptione captiuorum uasa
+            sacra non prohibentur alienari.</head>
+          <p xml:id="gd-p2c12q2-d1e301"> Item Gregorius [lib. VI. epist. 35.] Domino Episcopo
+            Messano . </p>
+          <p xml:id="gd-p2c12q2-d1e304"> Et sacrorum canonum, et legalia statuta permittunt,
+            ministeria ecclesiae pro captiuorum esse redemptione uen-denda. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e308">
+          <head xml:id="gd-p2c12q2-Hd1e310">C. XV</head>
+          <head xml:id="gd-p2c12q2-Hd1e313" type="question-title"> Res ecclesiae licite inpenduntur
+            pro captiuorum redemptione . </head>
+          <p xml:id="gd-p2c12q2-d1e316"> Idem Demetrio et Valeriano Clericis Firmianis, [lib. VII.
+            Indict. 2. epist. 14.] </p>
+          <p xml:id="gd-p2c12q2-d1e319"> Sacrorum canonum statuta et legalis permittit auctoritas,
+            licite res ecclesiasticas in redemptione captiuorum inpendi. Et ideo, cum edocti a uobis
+            simus, ante annos scilicet XVIII. Fauiums, episcopumecclesiae Firmianae, XI. libras
+            argenti de eademecclesia pro redemptione uestra, ac patris uestri Passiui, fratris et
+            coepiscopi nostri, tunc uero clerici, nec nonmatris uestrae hostibus inpendisse, atque
+            ex hoc quandam formidinem uos habere, ne hoc, quod datum est, auobis quolibet tempore
+            repetatur, precepti huius auctoritatesuspicionem uestram preuidimus auferendam,
+            constituentes, nullam uos exinde heredesque uestros quolibet tempore repetitionis
+            molestiam sustinere, nec a quoquam uobis aliquam obici questionem. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e324">
+          <head xml:id="gd-p2c12q2-Hd1e326">C. XVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e329" type="question-title"> Res desolatae ecclesiae non
+            preponantur captiuis. </head>
+          <p xml:id="gd-p2c12q2-d1e332"> Idem [lib. VI. epist. 35. ad Dominum Episcopum]. </p>
+          <p xml:id="gd-p2c12q2-d1e335"> Sicut omnino graue est frustra ecclesiastica ministeria
+            uenundare, sic iterum culpa est inminente huiusmodi necessitate res maxime desolatae
+            ecclesiae captiuis suis prepo-nere, et in redemptione eorum cessare. </p>
+          <p xml:id="gd-p2c12q2-d1e338"> II. Pars. Gratian. Que uero penitencia huiusmodi™
+            in-uasoribus atque predonibus , qui uasa sacra et reliqua diuinocultui dedicata pollutis
+            manibus arripiunt et quasi profanacontradant , sit indicenda, Nicolaus Papa diffinit
+            scribensFrontario Archiepiscopo Burdegalensi *. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e342">
+          <head xml:id="gd-p2c12q2-Hd1e344">C. XVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e347" type="question-title"> Invasoribus rerum
+            ecclesiasticarum que penitencia sit inponenda.</head>
+
+          <p xml:id="gd-p2c12q2-d1e350"> De uiro nefando, Burgando nomine, qui rabie insana conmotus
+            diabolicis se irretire laqueis non dubitauit, atquegentilium more per abrupta itinera et
+            conpita insidians, uobis in uestrae ecclesiae uilla una cum clericis uestrismanentibus,
+            et populum salubribus instruere dogmatummonitis decertantibus, paneque spiritualis uerbi
+            uacua hominum corda reficientibus, atque laudabile salutis propriaedesiderium habentibus
+            sancta apostolorum Petri et Paulilimina uisitare, collectis maliciae suae sequacibus et
+            iniquitatis conplicibus, nefarias inuasiones et depredationesinferre uiolentas demoniaco
+            ausu presumpserit, et, utepistolae uestrae textus eloquitur, sacrum altare
+            sacraquedominici corporis et sanguinis uasa, insuper et sanctumcrisma pollutis arripere
+            manibus quasi uilia et ad usum communem apta presumpsit, dilectio nos uestra consuluit,
+            si ipse, uel qui cum eo in tam inpio et iniquo scelerefuerunt, ad penitenciam quandoque
+            gratia tracti diuinauenire uoluerint, quo eos penitenciae uinculo constringatis, nostrae
+            institutionis censuram exposcere curastis. De quibus (si tamen ita est) iubemus, cum ad
+            penitenciam reuertiaccelerauerint, uno anno extra ecclesiam Dei consistere, cuius
+            sacratissima uasa extra ritum fidei Christianae diripiendo auferre non dubitauerunt.
+            Secundo uero annoante fores ecclesiae, sine communione maneant. Tertio ueroanno
+            ecclesiam Dei ingrediantur, et inter audientesastent sine oblatione, non manducantes
+            carnem neque bibentes uinum, preter natalis et resurrectionis dominicae dies. Quarto
+            preterea anno, si his prioribus tribus eorumfructuosus fuerit penitenciae labor,
+            communioni fidelium restituantur, totaque mentis intentione spondentes, talia seulterius
+            numquam facturos, corpus et sanguinem Dominisuscipere mereantur, et usque ad septimum
+            annum tribus inebdomada diebus sine esu carnium et uini potatione maneant penitentes.
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e354">
+          <head xml:id="gd-p2c12q2-Hd1e356">C. XVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e359" type="question-title"> Res ecclesiae episcopus alienare
+            uel usurpare non presumat. </head>
+          <p xml:id="gd-p2c12q2-d1e362"> Item in Concilio Leonis Papae /F. </p>
+          <p xml:id="gd-p2c12q2-d1e365"> III. Pars. Monemus et inrefragabiliter affirmamus, ut
+            nullus episcoporum uel sacerdotum rem tituli sui usurpare presumat, sed neque salarium a
+            Christianis sanctis locisoblatum causa amicitiae, uel timoris, aut muneris
+            pertemptetauferre, ne ecclesia Dei ad nichilum redigatur. Quod quifacere presumpserit
+            episcopus uel sacerdos, canonicamsine dubio subeat ultionem, et quod ecclesiae iniuste
+            ablatumest reddere conpellatur, ita ut deinceps nullas uires prohis ad litigandum uel
+            possidendum habere possint. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e369">
+          <head xml:id="gd-p2c12q2-Hd1e371">C. XIX</head>
+          <head xml:id="gd-p2c12q2-Hd1e374" type="question-title"> Episcopo uel abbati res ecclesiae
+            alienare non licet.</head>
+          <p xml:id="gd-p2c12q2-d1e377"> Item ex hystoria Eusebii Episcopi Cesariensis cap. XII .* </p>
+          <p xml:id="gd-p2c12q2-d1e380"> Quisquis episcopus uel abbas de salariis** episcopii uel
+            monasterii quicquam transferre in principum manus, uel etiam alii personae conferre
+            uoluerit, irritum sit quod datum esse constiterit, secundum canonemsanctorum
+            Apostolorum, qui dicit: „Omnium ecclesiasticarum rerum episcopus habeat sollicitudinem,
+            et dispenseteas tamquam Deo contemplante. Non liceat autem eifraudare+ quicquam ex
+            illis, uel cognatis propriisdonare que Dei sunt. Quod si pauperes fuerint, ut pauperibus
+            largiatur, sed non sub horum occasione que sunt </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e383"> ecclesiae defraudentur.^ §. i. Quod si excusationem
+            pre-tenderit episcopus dampnum facere et nichil ad profectum agrum existere, nec
+            sicprincipibus tribuatur ager uel locus, sed clericis uel agricultoribus. §. 2. Quod si
+            calliditate usus fuerit princeps, et uel a colono uel acleros agrum emerit, sit irrita
+            uenditio, et restituaturepiscopio et monasterio Episcopus uel abbas hocfaciens
+            abiciaturf+, tamquam qui dispersit que noncollegit. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e387">
+          <head xml:id="gd-p2c12q2-Hd1e389">C. XX</head>
+          <head xml:id="gd-p2c12q2-Hd1e392" type="question-title"> Predia ecclesiae Papae alienare
+            non licet . </head>
+          <p xml:id="gd-p2c12q2-d1e395"> Item Sim acus Papa [in Sinodo III. c. 4. et seqq. usque ad
+            c. 9.] * </p>
+          <p xml:id="gd-p2c12q2-d1e398"> Non liceat Papae predium ecclesiae alienare aliquo modo pro
+            aliqua necessitate, nec in usufructu** ruradare, nisi tantummodo domus, que in
+            quibuslibeturbibus non modica inpensa sustentantur. Qua legeomnes custodes astringantur,
+            ut donator, assentator, uenditor honorem perdat. Et qui subscripserit anathemasit cum
+            eo, qui dederit uel qui receperit *, nisi restituatur.Liceat etiam quibuslibet
+            ecclesiasticis personis contradicere, et cum fructibus alienata reposcere. Quod
+            nonmodo*** in apostolica seruandum est ecclesia, uerumetiam in uniuersis ecclesiis per
+            prouincias quidemdicitur conuenire. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e402">
+          <head xml:id="gd-p2c12q2-Hd1e404">C. XXI</head>
+          <head xml:id="gd-p2c12q2-Hd1e407" type="question-title"> Qui res ecclesiasticas uendit ad
+            altare non audeat accedere.</head>
+          <p xml:id="gd-p2c12q2-d1e410"> Item [in Sinodo VI.] </p>
+          <p xml:id="gd-p2c12q2-d1e413"> Indigne ad altare Domini properare permittitur, qui res
+            ecclesiasticas audet inuadere aut iniuste* possidere, autiniqua uel iniusta defensione
+            in eis perdurare. §. i.De quibus tanta debet esse prouisio, ut uindictam ammo-nitio**
+            precedat, et res usurpatas iniuste qui abstulit, aut iniuste ablatas retinet, equitate
+            patrocinante legibusrestituat. Quod si neglexerit, et necessitas conpulerit, demum
+            predonem sacerdotalis districtio maturata percellat.§. 2. Valde enim iniquum et ingens
+            sacrilegium est, ut quecumque uel pro remedio peccatorum, uel pro ssalute ac requie
+            animarum suarum unusquisque uenerabili ecclesiae contulerit aut certe reliquerit, ab his
+            quibus maxime seruari conuenit, id est Christianis etDeum timentibus hominibus!+, in
+            aliud transferri uelconuerti. Propterea, qui hec non preuiderit, et aliterquam scriptum
+            est predia ecclesiae tradita petierit, uelacceperit, aut possederit ff, nisi se cito
+            correxerit, quoiratus Deus animas percutit anathemate feriatur, sitque accipienti, et
+            donantip, uel i possidenti anathema, etinstitutae penae contubernium assiduum. Nec
+            aliquo seante tribunal Christi obstaculo muniat qui a religiosis ani-mabus ad
+            substantiam pauperum derelicta contra fas sinealiqua pietatis consideratione dispergit. </p>
+
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e418">
+          <head xml:id="gd-p2c12q2-Hd1e420">C. XXII</head>
+          <head xml:id="gd-p2c12q2-Hd1e423" type="question-title"> Excommunicentur qui auctoritate
+            principum res inuadunt ecclesiae.</head>
+          <p xml:id="gd-p2c12q2-d1e426"> Item Nicolaus-* Adoni , Viennensi Archiepiscopo [in </p>
+          <p xml:id="gd-p2c12q2-d1e429"> epistola, cuius initium: “Quia sanctitatis uestrae“]. </p>
+          <p xml:id="gd-p2c12q2-d1e432"> De rebus, que semel Deo contributae atque dicataesunt, et
+            postea sub occasione concessionis principum a quibusdam inuaduntur atque diripiuntur,
+            sancimus, ut priusconsulatis principem ad resecandam tam presumptiuamfactionem, et
+            cognoscendum, utrum illius sit concessio, an inuasoris presumptio. Quod si principis
+            inordinata fueritlargitio, ipse sit princeps pro emendatione redarguendus.Si autem
+            inuasoris declaratur presumptio, usque ad emendationem excommunicationis sit uindicta
+            cohercendus. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e436">
+          <head xml:id="gd-p2c12q2-Hd1e438">C. XXIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e441" type="question-title"> De rebus ecclesiae non est
+            alienandum aliquid.</head>
+          <p xml:id="gd-p2c12q2-d1e444"> Item Gelasius Iustino Archidiacono et Fausto Defensori . </p>
+          <p xml:id="gd-p2c12q2-d1e447"> IV. Pars. Vobis enim et famae uestrae consultumduximus, ut
+            pontificis uestri loco uobiscum ab eodem aliquis subrogetur, qui eius nomine pariter
+            uniuersa disponat, quatinus omnia predia ad uestrum reuocetis studium, nec cuiquam
+            clerico pro portione sua aliquod solumecclesiae putetis esse deputandum, ne per incuriam
+            et negligentiam minuatur, sed omnem pensionis summam exomnibus prediis rusticis
+            urbanisque collectam ad antistitemdeferatis. Ex qua tamen collectione habeatur ratio,
+            quidad causas uel expensas accedentium necessitatum opusesse perspicitur, ut de medio
+            sequestretur, et quatuorportiones uel de fidelium oblatione, uel de hac fiant modis </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e450"> omnibus pensione, ita ut unam sibi tollat antistes, aliam
+            clericis pro suo iudicio et electione dispertiat, tertiam pauperibus sub omnium
+            conscientia faciat erogari, fabricisuero que conpetit ad ordinationem pontificis,
+            erogationeuestra decernimus esse pendendam. Si quid fortesub annua remanebit expensa,
+            electo idoneo ab utraqueparte custode, condatur £ enthecis, ut, si maior
+            emerseritfabrica, sit subsidio quod diuersi temporis* diligentiapotuerit custodiri, aut
+            certe ematur possessio, que utilitatesrespiciat communes. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e454">
+          <head xml:id="gd-p2c12q2-Hd1e456">C. XXIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e459" type="question-title"> Diuini muneris participatione
+            priuetur qui ecclesiastica priuilegia calcat.</head>
+          <p xml:id="gd-p2c12q2-d1e462"> .Idem Maiorico, Sereno et IoJianni Episcopis </p>
+          <p xml:id="gd-p2c12q2-d1e465"> Qj 286 a t humanis legibus inciuili dampnationecalcatis, et
+            reuerentia religionis abiecta, uel ecclesiasticapriuilegia calcare contendunt, uel
+            ubilibet in pauperumprosilire dispendium, nec huiusmodi saltem conmoniti con-uictique
+            nequiciam sopire consentiunt atque illata sacrisrebus detrimenta sarcire, merito diuini
+            muneris suntparticipatione priuandi, ut huius perceptione careant, quod sacrilegis
+            ausibus habuere despectui. Celestinusuero presbiter fratris et coepiscopi nostri Sereni,
+            qui contrapontificale iudicium contraque apostolicae sedis mandataprorumpens,
+            supradictis communionem sacram ministrarepresumpsit, cum non potuerit ignorare
+            sententiam propriisacerdotis, ab offitio protinus ecclesiastico repellatur, utnullus
+            ecclesiae ministrorum contra pontificalia institutauenire contendat. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e469">
+          <head xml:id="gd-p2c12q2-Hd1e471">C. XXV</head>
+          <head xml:id="gd-p2c12q2-Hd1e474" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c12q2-d1e477"> Idem eisdem *. </p>
+          <p xml:id="gd-p2c12q2-d1e480"> Volateranae ecclesiae actus uel patrimonium, quod hactenus
+            conperimus destitutum, post dampnationemEucharisti, quo fuerat deprauante dispersum,
+            curae uestraedecreuimus esse delegandum, ut diligentia (qua uos proutilitatibus
+            ecclesiae estimamus esse uigilantes) prediaculturae restituatis antiquae, reuocetis si
+            qua suntuendita aut donata mancipia. Possessiones etiam, quasab Eumacio et Opilione
+            episcopis, uel ceteris quouisiure uideritis teneri, quia contra constituta sinodi ab
+            episcopis predia alienari nullo potuerunt conmento, nichilominus reuocentur. Sit
+            emptoribus ad eum recursus, qui presumpsit aliquid de ecclesiae rebus illicita
+            uendi-tione distrahere, ita ut pensiones annuas ad pontificemdeferatis, cui priuilegia
+            sua integra conuenit omni rationeseruari, ut eius dispensatione portiones proueniant
+            consuetae, ita ut portionem quartam, que ad eos pertinet, suapontifex ordinatione
+            distribuat, prout cuiusque locummeritumque cognoscit. Pariter etiam ex fidelium
+            oblationeest faciendum, ut quartam clericis eroget pro consideratione suae electionis
+            antistes. Fabricarum etiamportio episcopo sciente et disponente uestra
+            erogationependatur, quatinus nichil penitus in detrimentum alicuiusrei patiamini
+            generari. </p>
+
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e484">
+          <head xml:id="gd-p2c12q2-Hd1e486">C. XXVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e489" type="question-title"> Reddituum et ollationum duae
+            portiones clericis conmittantur. </head>
+          <p xml:id="gd-p2c12q2-d1e492"> Idem Clero, e * ordini, et plebi Brundusii. </p>
+          <p xml:id="gd-p2c12q2-d1e495"> Concesso uobis quem petistis antistite, fratre iam et
+            coepiscopo meo Iuliano, necessarium fuit (eodem adecclesiam suam mox remisso) ad uos
+            nostra scripta pariterdestinari, quibus agnosceretis eidem fuisse preceptum, ne umquam
+            ordinationes presumat illicitas. Et infra: §. i. Redditus et oblationes fidelium in
+            quatuor partesdiuidat, quarum unam sibi ipse retineat, alteram clericispro offitiorum
+            suorum sedulitate distribuat, fabricis tertiam, quartam pauperibus et peregrinis habeat
+            fideliter erogandam, quarum rationem diuino est redditurus examini. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e499">
+          <head xml:id="gd-p2c12q2-Hd1e501">C. XXVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e504" type="question-title"> De oblationibus fidelium quot
+            portiones fiant, et que cm‘ proueniat . </head>
+          <p xml:id="gd-p2c12q2-d1e507"> Idem [in epistola ad episcopos per Lucaniam et Brutios, c.
+            29.] </p>
+          <p xml:id="gd-p2c12q2-d1e510"> Quatuor autem tam de redditu quam de oblatione fidelium,
+            prout cuiuslibet ecclesiae facultas admittit, (sicutdudum rationabiliter est decretum),
+            conuenit fieri portiones, quarum una sit pontificis, altera clericorum, tertia pauperum,
+            quarta fabricis est applicanda. De quibussicut sacerdotis intererit integram ministris
+            ecclesiae memoratam dependere quantitatem, sic clericus ultra delegatam sibi summam
+            nichil insolenter nouerit expetendum.Ea uero, que ecclesiasticis editiciis attributa
+            sunt, huicoperi ueraciter prerogata locorum doceat instauratio sanctorum manifesta, quia
+            nefas est, si sacris edibus destitutisin lucrum suum presul inpendia his deputata
+            con-uertat. Ipsam nichilominus ascriptam pauperibus portionem quamquam diuinis
+            rationibus se dispensasse monstraturus esse uideatur, tamen iuxta quod scriptumest: , ,
+            Ut uideant opera uestra bona, et glorificentpatrem uestrum, qui in celis est, “ oportet
+            etiam presentitestificatione predicari, et bonae famae preconiis non taceri. Quapropter
+            nec clericorum quispiam etc. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e515">
+          <head xml:id="gd-p2c12q2-Hd1e517">C. XXVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e520" type="question-title"> Oblationum et reddituum
+            ecclesiarum tres 50 c portiones^*- presbitero dispensandae credantur. </head>
+          <p xml:id="gd-p2c12q2-d1e523"> Item Simplicius Papa Florentio , et Equitio Episcopis^ *,
+            [epist. III.] </p>
+          <p xml:id="gd-p2c12q2-d1e526"> De redditibus ecclesiae uel oblatione fidelium sola
+            episcopo ex his una portio remittatur, duae ecclesiasticis fabricis, et erogationi
+            pauperum profuturae apresbitero e sub periculo sui ordinis ministrentur; ultima clericis
+            pro singulorum meritis diuidatur. Etinfra: §. i. Cui (id est Gaudendo episcopoi),
+            specialiter hoc precipimus, ut tres illas portiones, quastriennio sibi tantummodo
+            dicitur uendicasse, restituat. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e530">
+          <head xml:id="gd-p2c12q2-Hd1e532">C. XXIX</head>
+          <head xml:id="gd-p2c12q2-Hd1e535" type="question-title"> De redditibus ecclesiae etiam
+            nouiter adquisitis quarta pars clericis erogetur. </head>
+          <p xml:id="gd-p2c12q2-d1e538"> Item Gregorius Maximiano Episcopo Siracusano [lib. III.
+            epist. ii.J </p>
+          <p xml:id="gd-p2c12q2-d1e541"> Cognouimus de redditibus ecclesiae nouiter adquisitis
+            canonicam dispositionem quartarum minime prouenire, sed episcopos locorum tantummodo
+            distribuere quartamantiquorum reddituum, nunc uero quesita suis usibus retinere. Quam
+            rem prauam subintroductamque consuetudinem fraternitas tua uiuaciter emendare festinet,
+            ut siue depreteritis redditibus siue de his, que obuenere, uelobuenientibus, quartae
+            secundum distributionem canonicam dispensentur. Incongruum namque est unam eandem-que
+            ecclesiae substantiam dupplici quodammodo iurecenseri. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e545">
+          <head xml:id="gd-p2c12q2-Hd1e547">C. XXX</head>
+          <head xml:id="gd-p2c12q2-Hd1e550" type="question-title"> De stipendio ecclesiae quatuor
+            debent fieri portiones. </head>
+          <p xml:id="gd-p2c12q2-d1e553"> Idem Augustino Episcopo Anglorum [in respons. ad primam
+            interrogationem] . </p>
+          <p xml:id="gd-p2c12q2-d1e556"> Mos est apostolicae sedis ordinato episcopo precepta
+            tradere, ut de omni stipendio, quodaccidit, quatuor debeant fieri portiones, una
+            uidelicetepiscopo et familiae eius propter hospitalitatem atque susceptionem, alia
+            clero, tertia pauperibus, quartaecclesiis reparandis. </p>
+
+          <p xml:id="gd-p2c12q2-d1e559"> [PALE A. </p>
+          <p xml:id="gd-p2c12q2-d1e563"> C. XXXI. De eodem. </p>
+          <p xml:id="gd-p2c12q2-d1e566"> Item ex Concilio Tollet ano*. </p>
+          <p xml:id="gd-p2c12q2-d1e569"> Sancimus omnibus episcopis curam laicorum instare, ut, si
+            quos in fide Christi inuenerint, nimio affectu diligant.Insuper confirmamus, ut, si
+            aliqua ab ipsis accipiantdona, statim in quatuor diuidant partes, ita, ut prima
+            parssecundum apostolorum precepta** titulorum, nec noncimiteriorum restaurationibus
+            diligenter attribuatur, secundaclericis, tertia cunctis pauperibus, quarta uero
+            aduenis.] </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e573">
+          <head xml:id="gd-p2c12q2-Hd1e575">C. XXXII</head>
+          <head xml:id="gd-p2c12q2-Hd1e578" type="question-title"> Omnes presbiteri secundum
+            iussionem episcopi res ecclesiae dispensare studeant . </head>
+          <p xml:id="gd-p2c12q2-d1e581"> Item ex Concilio Agat en si, [c. 22.] </p>
+          <p xml:id="gd-p2c12q2-d1e584"> V. Pars. Statuimus (quod omnes* iubent) utciuitatenses siue
+            diocesiani presbiteri uel clerici, saluo iureecclesiae, rem ecclesiae, sicut permiserint
+            episcopi*, teneant, uendere autem aut donare penitus non presumant. Quod si fecerint, et
+            facta uenditio non uale-bit, et de facultatibus, si quas habent proprias,
+            indempnemecclesiam reddant, et communione priuentur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e588">
+          <head xml:id="gd-p2c12q2-Hd1e590">C. XXXIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e593" type="question-title"> De clericis , qui documenta
+            ecclesiae subprimunt aut aduersariis tradunt. </head>
+          <p xml:id="gd-p2c12q2-d1e596"> Item ex eodem [Concilio, c. 26.]Si quis de clericis
+            documenta, quibus ecclesiae possessio firmatur, aut subprimere, aut negare, aut
+            aduersariis fortasse tradere dampnanda et punienda obstinatione presumpserit, quicquid
+            per absentiam documentorum dampni ecclesiae illatum est de propriis facultatibusreddat,
+            et communione priuetur. Hi autem, quiin dampno ecclesiae inpie sollicitati, a
+            traditoribus aliquid susceperint, superiori sententia teneantur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e600">
+          <head xml:id="gd-p2c12q2-Hd1e602">C. XXXIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e605" type="question-title"> Episcopus heredes non habens non
+            alium quam ecclesiam sibi heredem instituat. </head>
+          <p xml:id="gd-p2c12q2-d1e608"> Item ex eodem , [c. 33.] </p>
+          <p xml:id="gd-p2c12q2-d1e611"> Episcopus, qui filios aut nepotes non habens*, alium quam
+            ecclesiam relinquit heredem, si quid de </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e614"> ecclesia non in ecclesiae causa aut necessitate
+            presum-psit, quod distraxit aut donauit irritum habeatur. Qui uero filios habet, de
+            bonis, gue reliquit, ab heredibuseius indempnitatibus ecclesiae consulatur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e619">
+          <head xml:id="gd-p2c12q2-Hd1e621">C. XXXV</head>
+          <head xml:id="gd-p2c12q2-Hd1e624" type="question-title"> Qui in clero constituti sunt de
+            rebus ecclesiae nichil alienare presumant . </head>
+          <p xml:id="gd-p2c12q2-d1e627"> Item ex eodem , [c. 49.]Diaconi uel presbiteri in parrochia
+            constituti derebus ecclesiae sibi creditis nichil audeant conmutare, uendere uel donare,
+            quia res sacratae esse Deo noscuntur.Similiter et sacerdotes nichil de rebus ecclesiae
+            sibi conmis-sae (ut superius conprehensum est) alienare presumant.Quod si fecerint,
+            conuicti in concilio, et ab honore depositi, de suo proprio aliud tantum restituant,
+            quantumuisi sunt presumpsisse*. §. x. Libertos etiam, quos sacerdotes uel diacones de
+            ecclesia sibiconmissa facere uolunt, actus ecclesiae prosequi iubemus. Quod si facere
+            contempserint, placuit eos ad proprium reuerti seruitium. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e631">
+          <head xml:id="gd-p2c12q2-Hd1e633">C. XXXVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e636" type="question-title"> De possessione ecclesiastici
+            iuris quicquid a presbitero distrahitur , inane habeatur et uacuum. </head>
+          <p xml:id="gd-p2c12q2-d1e639"> Item ex eodem , [c. 53.] </p>
+          <p xml:id="gd-p2c12q2-d1e642"> Quicquid parrochiarum presbiter de ecclesiastici iuris
+            possessione distraxerit, inane habeatur et uacuum uendi-tione* conparantis et actione
+            uendentis. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e646">
+          <head xml:id="gd-p2c12q2-Hd1e648">C. XXXVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e651" type="question-title"> Alienationes factae ab intrusis
+            et ordinationes sine consensu clericorum irritae sunt. </head>
+          <p xml:id="gd-p2c12q2-d1e654"> Item Urbanus Papa*. </p>
+          <p xml:id="gd-p2c12q2-d1e657"> Alienationes omnium per intrusionem, seu canonice electorum
+            sub episcopi nomine, aut abbatis, qui secundumusum ecclesiae suae consecrandus est,
+            alienationes quocumque modo factas, nec non personarum ordinationesab eisdem sine
+            communi consensu clericorum ecclesiae, siueper symoniam itidem factas, irritas
+            iudicamus. §. 1. Illudetiam per omnia interdicimus, ut nullus clericus prebendamsuam seu
+            beneficium aliquod ecclesiasticum aliquo modoalienare presumat. Quod si presumptum olim
+            fuit uel aliquando fuerit, irritum erit, et ultioni canonicae subiacebit. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e661">
+          <head xml:id="gd-p2c12q2-Hd1e663">C. XXXVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e666" type="question-title"> Episcopo defuncto , uel adhuc in
+            supremis agente, de rebus eius nichil est usurpandum . </head>
+          <p xml:id="gd-p2c12q2-d1e669"> Item ex Concilio Ylerdensi , [c. 16.]Hec huius placiti
+            constitutione inter nos censura </p>
+
+          <p xml:id="gd-p2c12q2-d1e672"> placuit custodiri, ut defuncto antistite, uel etiam adhuc
+            in supremis agente, nullus clericorum, cuiuslibet ordinisoffitii gradusue sit, quicquam
+            de domo eius presumat, uel de utilitate que instrumenti domus esse noscitur^ id est
+            mobilis et inmobilis rei ecclesiasticaeconetur inuadere, nichil furto *, nichil dolo
+            subprimens, auferens atque abscondens; sed is, cui domus conmissa est, subiunctis sibi**
+            uno uel duobus fidelissimiss, omniausque ad tempus substituendi pontificis debet
+            conser-uare, uel * his, qui in domo inueniuntur, clericis consuetamalimoniam
+            administrare. Substitutus autem antistes susceptae sedis*** commoda ordinabit uelut Deus
+            inperabit, ut eis uti debeat cum his, quos cognouerit disciplinae etkaritati
+            predecessoris sui fideliter paruisse. Quod si quisquam post hec cuiuslibet ordinis (ut
+            superius dictum est)clericus quacumque occasione uel de omni facultatequippiam probatus
+            fuerit abstulisse uel forsitan dolo aliquosubpressisse, reus sacrilegii prolixiori
+            anathemate condempnetur, et uix ei peregrina communio concedatur, quia durum est, ut hi,
+            quos constat in seruitio Domini cumprimae sedis antistite desudasse, ab his, qui
+            suarumrerum incubatores uel utilitatibus seruientes atque uacantesfuisse noscuntur,
+            despecti aliquatenus crucientur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e676">
+          <head xml:id="gd-p2c12q2-Hd1e678">C. XXXIX</head>
+          <head xml:id="gd-p2c12q2-Hd1e681" type="question-title"> Episcopi , qui nichil ecclesiae
+            conferunt , famulos eius libertati non donent. </head>
+          <p xml:id="gd-p2c12q2-d1e684"> Item ex Concilio Tollet ano IV. [c. 66.]Et si illi, qui
+            nulla ex rebus suis pauperibus Christidistribuunt, eterni iudicis uoce in futuro
+            condempnabun-tur, quanto magis hi, qui auferunt pauperibus quod nondederunt? Quapropter
+            episcopi, qui nichil ex suo proprio ecclesiae Christi conpensauerunt, hanc diuinam
+            sententiam metuant, et liberos ex famulis ecclesiae ad con-dempnationem suam non
+            presumant facere. Inpium enimest, ut qui res suas ecclesiae Christi non contulerit
+            dampnum inferat, et ius ecclesiae alienare contendat.Tales igitur liberos successor
+            episcopus absque ullaoppositione ad ius ecclesiae reuocabit, quia eos non equitas, sed
+            inprobitas absoluit. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e688">
+          <head xml:id="gd-p2c12q2-Hd1e690">C. XL</head>
+          <head xml:id="gd-p2c12q2-Hd1e693" type="question-title"> De clericis , qui documenta
+            ecclesiae subprimunt , aut negant , aut aliis dampnabiliter tradunt . </head>
+          <p xml:id="gd-p2c12q2-d1e696"> Item ex Concilio Aureli an en si *. </p>
+          <p xml:id="gd-p2c12q2-d1e699"> Si quis de clericis documenta, quibus ecclesiae possessio
+            firma tenetur, aut subprimere, aut negare, aut auer- </p>
+
+
+
+
+          <div xml:id="gd-p2c12q2-Dd1e702">
+            <p xml:id="gd-p2c12q2-d1e704"> tere, aut fortasse tradere dampnabili et punienda
+              obstinatione presumpserit, quicquid pro absentia documentorum dampni ecclesiae illatum
+              est de propriis facultatibus reddat. </p>
+          </div>
+          <div xml:id="gd-p2c12q2-Dd1e709">
+            <head xml:id="gd-p2c12q2-Hd1e711">C. XLI</head>
+            <head xml:id="gd-p2c12q2-Hd1e714" type="question-title"> Ministris ecclesiae de rebus
+              eiusdem^* absque episcopi permissu alienare nichil licet. </head>
+            <p xml:id="gd-p2c12q2-d1e717"> Item ex eo dem. </p>
+            <p xml:id="gd-p2c12q2-d1e720"> Abbatibus, presbiteris, aliisque ministris de rebus
+              ecclesiasticis uel sacro ministerio deditis alienare uel obligare absque permissu et
+              subscriptione episcopi nichil liceat. Quod si presumpserint s degradentur communione
+              concessa, et quod temere alienatum est ordinatione episcopi reuocetur. </p>
+          </div>
+          <div xml:id="gd-p2c12q2-Dd1e724">
+            <head xml:id="gd-p2c12q2-Hd1e726">C. XLII</head>
+            <head xml:id="gd-p2c12q2-Hd1e729" type="question-title"> De re&amp;ws ecclesiae, que
+              absente episcopo distra-trahuntur, ad ius ecclesiasticum reuocentur. </head>
+            <p xml:id="gd-p2c12q2-d1e732"> Item ex Sinodo Anchiritana, [c. 15*] </p>
+            <p xml:id="gd-p2c12q2-d1e735"> Si qua de rebus ecclesiae, cum episcopus non est
+              presbiteri uendiderint, placuit rescisso contractu ad iusecclesiasticum reuocari. In
+              iudicio autem erit episcopi constitutum, si precium debeat recipi necne, propter
+              quodsepe contingit distractarum rerum redditus ampliorem summam pro accepto precio
+              reddi*. </p>
+          </div>
+          <div xml:id="gd-p2c12q2-Dd1e739">
+            <head xml:id="gd-p2c12q2-Hd1e741">C. XLIII</head>
+            <head xml:id="gd-p2c12q2-Hd1e744" type="question-title"> Post mortem episcopi res ad eum
+              pertinentes clerici non rapiant.</head>
+            <p xml:id="gd-p2c12q2-d1e747"> Item ex Concilio Calcedonensi, [c. 22.]. </p>
+            <p xml:id="gd-p2c12q2-d1e750"> Non licet clericis post mortem episcopi sui rapere res
+              pertinentes ad eum, sicuti precedentibus regulis constitutum habetur. Si uero hec
+              fecerint, periclitari senouerint a proprio gradu. </p>
+          </div>
+          <div xml:id="gd-p2c12q2-Dd1e754">
+            <head xml:id="gd-p2c12q2-Hd1e756">C. XLIV</head>
+            <head xml:id="gd-p2c12q2-Hd1e759" type="question-title"> Rescindantur precariae ei
+              conmutationes ab inuasoribus factae. </head>
+            <p xml:id="gd-p2c12q2-d1e762"> Item ex Concilio Mediomatricis *. </p>
+            <p xml:id="gd-p2c12q2-d1e765"> Precariae et conmutationes tempore uiduatarumecclesiarum
+              factae ab his, qui loca episcoporum occupaue-rant, rescindantur, et cum auctoritate
+              ecclesiastica uel ciuili, si faciendae sunt, fiant. </p>
+            <p xml:id="gd-p2c12q2-d1e768"> Item Gregorius Maximiano Siracusano Episcopo, </p>
+            <p xml:id="gd-p2c12q2-d1e772"> [lib. III. epist. 11.] : </p>
+          </div>
+          <div xml:id="gd-p2c12q2-Dd1e776">
+            <head xml:id="gd-p2c12q2-Hd1e778">C. XLV</head>
+            <head xml:id="gd-p2c12q2-Hd1e781" type="question-title"> Pro labore inuentarii nichil
+              accipiant yconomi de rebus ecclesiae.</head>
+            <p xml:id="gd-p2c12q2-d1e784"> Karitatem tuam curauimus conmonere, ut, si quispiam </p>
+          </div>
+          <p xml:id="gd-p2c12q2-d1e788"> episcoporum de hac luce migrauerit, uel (quod absit) pro
+            suis remotus fuerit excessibus, conuenientibus yconomis*cunctisque clericis prioribus,
+            atque in sui presentia in-uentarium ecclesiae rerum facientibus, omnia, que
+            repertafuerint, subtiliter describantur, nec (sicut antea fieri dicebatur) species
+            quedam aut aliud quodlibet de rebus ecclesiaequasi pro faciendi inuentarii labore
+            tollatur. §. i. Visitatores ecclesiarum clericique earum, qui cum ipsisnon per suae
+            ciuitatis parrochias fatigantur, aliquidlaboris sui capiant te disponente subsidii.
+            Iustum namque est, ut illi consequantur stipendium, qui pro tempore suum conmodare
+            reperiuntur obsequium. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e793">
+          <head xml:id="gd-p2c12q2-Hd1e795">C. XLVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e798" type="question-title"> Excommunicentur laici, qui
+            morientium clericorum audent bona diripere.</head>
+          <p xml:id="gd-p2c12q2-d1e801"> Item ex Concilio Urbani Papae Aluerniae habito *. </p>
+          <p xml:id="gd-p2c12q2-d1e804"> De laicis questio facta est, qui morientibus episcopis siue
+            aliis clericis res defunctorum inuasas ecclesiae pauperibusque subripiunt. Contra quos
+            commune totius conciliianathema, prolatum est, ipso Papa huiusmodi
+            sententiampromulgante:, , Si quis post interdicti presentis cognitionemepiscoporum, seu
+            presbiterorum, aut clericorum aliorum resinuaserit, usque ad satisfactionem
+            excommunicetur. §. i.Episcoporum uero deficientium res per archipresbiterorumseu
+            archidiaconorum manus, aut secundum' mortuorum iudicium pro ipsorum salute in elemosinas
+            dispensentur, autsuccessori, qui futurus est, reseruentur. Id ipsum de presbiterorum seu
+            clericorum aliorum rebus per episcopum, uelsupradictas personas, aut cui deficientes
+            conmiserint, fiat.Si quis autem aduersus ista presumpserit, anathema sit.“ </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e808">
+          <head xml:id="gd-p2c12q2-Hd1e810">C. XLVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e813" type="question-title"> De eodem</head>
+          <p xml:id="gd-p2c12q2-d1e816"> Item Innocentius II. [in Concilio Lateranensi, cap. 4.] </p>
+          <p xml:id="gd-p2c12q2-d1e819"> Illud, quod in sacro Calcedonensi concilio constitutum est,
+            inrefragabiliter conseruari precipimus, ut uidelicet decedentium bona episcoporum a
+            nullo omninohominum diripiantur, sed ad opus ecclesiae et successorissui in libera
+            yconomi et clericorum permaneant potestate.Si quis autem hoc amodo attemptare
+            presumpserit, excommunicationi subiaceat. Qui uero morientium* presbiterorum uel
+            clericorum bona rapuerint simili sententiae subiciantur. </p>
+          <p xml:id="gd-p2c12q2-d1e822"> Gratian. Hoc non solum de laicis, uerum etiam de metro - </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e826"> politanis et quibuslibet aliis clericis intelligendum est:
+            sicut in Sexta Sinodo [c. 35.] legitur °; </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e830">
+          <head xml:id="gd-p2c12q2-Hd1e832">C. XLVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e835" type="question-title"> Res episcopi morientis
+            metropolitano non licet inuadere.</head>
+          <p xml:id="gd-p2c12q2-d1e838"> Non liceat alicui metropolitano moriente episcopo, qui sub
+            eo est, aut res suas aut ecclesiae suae auferre, sed sint sub custodia cleri ecclesiae
+            defuncti episcopi, usque dum alius ordinetur episcopus. Si uero clerici inecclesia non
+            fuerint, tunc metropolitanus illibata omniaepiscopo, qui ibi ordinabitur, reddat. </p>
+          <p xml:id="gd-p2c12q2-d1e841"> Gratian. Sicut autem res ecclesiae nulli usurpare licet,
+            ita ecclesiae aliena inuadere non permittitur. </p>
+          <p xml:id="gd-p2c12q2-d1e844"> Unde Gregorius [lib. II. epist. 43. ad B.onifatium
+            Episcopum]: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e848">
+          <head xml:id="gd-p2c12q2-Hd1e850">C. XLIX</head>
+          <head xml:id="gd-p2c12q2-Hd1e853" type="question-title"> Aliena ecclesiae non licet
+            inuadere.</head>
+          <p xml:id="gd-p2c12q2-d1e856"> Sicut ecclesia proprias res amittere non debet, ita eam
+            rapacitatis ardore alienas inuadere non oportet. </p>
+          <p xml:id="gd-p2c12q2-d1e859"> Gratian. His omnibus auctoritatibus perspicue monstratur,
+            quod nulli sacerdotum res ecclesiasticas alicui tradere licet, etille, qui de manu
+            sacerdotis facultates ecclesiae acceperit, nulloiure eas uendicare poterit. Potius
+            cogetur restituere quodillicite accepit . §. 1. Sed notandum est, quod quibusdam
+            causisexigentibus res ecclesiae distrahi possunt. Causa enim necessitatis cum consilio
+            clericorum, uel ut meliora pro spiciant, resecclesiae a sacerdotibus distrahi possunt. </p>
+          <p xml:id="gd-p2c12q2-d1e862"> Unde in Affricano Concilio legitur *: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e866">
+          <head xml:id="gd-p2c12q2-Hd1e868">C. L</head>
+          <head xml:id="gd-p2c12q2-Hd1e871" type="question-title"> Nisi causa necessitatis nec
+            episcopo liceat rem ecclesiae usurpare . </head>
+          <p xml:id="gd-p2c12q2-d1e874"> Non habenti necessitatem nec episcopo liceatmatricis
+            ecclesiae** rem sui tituli usurpare. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e878">
+          <head xml:id="gd-p2c12q2-Hd1e880">C. LI</head>
+          <head xml:id="gd-p2c12q2-Hd1e883" type="question-title"> Nec presbiteri episcopis
+            ignorantibus, nec episcopi ignorante concilio rem ecclesiae uendant. </head>
+          <p xml:id="gd-p2c12q2-d1e886"> Item ex Concilio Cartaginensi [unico, c. ult.] </p>
+          <p xml:id="gd-p2c12q2-d1e889"> Placuit, ut presbiteri non uendant rem ecclesiae, ubi sunt•
+            constituti nescientibus episcopis suis, quomodo necepiscopis licet uendere predia
+            ecclesiae inconsultoconcilio uel cuncto* presbitero sine ulla necessitate. </p>
+
+          <p xml:id="gd-p2c12q2-d1e892"> LII. Nisi ut meliora prospiciat, rem ecclesiae distrahere
+            non licet episcopo. </p>
+          <p xml:id="gd-p2c12q2-d1e896"> Item ex epistola Leonis Papae, uniuersis Episcopis per
+            Siciliam constitutis . </p>
+          <p xml:id="gd-p2c12q2-d1e899"> Sine exceptione decernimus, ne quis episcopus de rebus
+            ecclesiae suae quicquam donare, uel conmutare, uel uendere audeat, nisi forte aliquid
+            horum faciat, utmeliora prospiciat, et cum totius cleri tractatu atque consensu id
+            eligat, quod non sit dubium profuturum ecclesiae. Et infra: §. 1. Episcopus rebus
+            ecclesiae tamquam con-mendatis, non tamquam propriis utatur. Irrita enimepiscoporum
+            uenditio et conmutatio rei ecclesiasticaeerit absque conniuentia* et subscriptione
+            clericorum. </p>
+          <p xml:id="gd-p2c12q2-d1e902"> Gratian. iitem domus urbium uel castrorum, que ecclesiae
+            plus incommodi quam utilitatis afferunt, licet rectoribus ecclesiarum {sicut in
+            superiori capitulo Simaci: „Non liceatPapae etc. continetur ) uendere uel conmutare. </p>
+          <p xml:id="gd-p2c12q2-d1e905"> Item, sicut in Agat en si Concilio [c. 45.] legitur *: </p>
+          <p xml:id="gd-p2c12q2-d1e908"> [C. LIII.] </p>
+          <p xml:id="gd-p2c12q2-d1e911"> VI. Pars. , , Terrulas aut uineolas exiguas, et ecclesiae
+            minus utiles, aut longe positas paruas, episcopussine consilio fratrum {si necessitas
+            fuerit) distrahendi habeatpotestatem. “ </p>
+          <p xml:id="gd-p2c12q2-d1e915"> [Gratian.] Seruos quoque fugitiuos, qui reuocati retineri
+            non possunt, similiter episcopis distrahere licet. </p>
+          <p xml:id="gd-p2c12q2-d1e918"> Unde in eodem Concilio legitur , [c. 46.]: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e923">
+          <head xml:id="gd-p2c12q2-Hd1e925">C. LIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e928" type="question-title"> Alienentur fugitiui, qui teneri
+            non possunt.</head>
+          <p xml:id="gd-p2c12q2-d1e931"> Fugitiui domos suas aut familias deserentes, qui, etiamsi
+            reuocati fuerint, teneri non possunt, simili rationeab episcopis, si uoluerint, aut si
+            ita meruerint, distrahantur. </p>
+          <p xml:id="gd-p2c12q2-d1e934"> [PALE A. </p>
+          <p xml:id="gd-p2c12q2-d1e937"> C. LV. Item ex Concilio apud Tansiacum, c. 2.* </p>
+          <p xml:id="gd-p2c12q2-d1e941"> Iniustum uidetur et inpium, ut mancipia, que fideles uiri
+            seu feminae pro redemptione animae suae Deo etsanctis eius consecrauerint, cuiuscumque
+            muneris precio uel conmutationis commercio iterum in secularem seruitu-tem redigantur,
+            cum canonica auctoritas seruos fugitiuostantummodo distrahi permittat. Et ideo omnes
+            rectores </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e944"> ecclesiarum summopere caueant, ne unius elemosina alterius
+            peccatum fiat, et est absurdum, ut ecclesiasticadignitate seruus decedens humanae
+            obnoxius sit seruituti.] </p>
+          <p xml:id="gd-p2c12q2-d1e947"> VII. Pars. Gratian. Item si rectores ecclesiae de
+            rebuspropriis tantumdem ecclesiae restituere uoluerint, ecclesiasticasfacultates libere
+            dare possunt, et constabunt his, quibus dataefuerint, perpetua firmitate. </p>
+          <p xml:id="gd-p2c12q2-d1e950"> Unde in Agat en si Concilio [c. 49.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e954">
+          <head xml:id="gd-p2c12q2-Hd1e956">C. LVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e959" type="question-title"> Alienatio de rebus ecclesiae
+            quomodo rata esse poterit °. </head>
+          <p xml:id="gd-p2c12q2-d1e962"> Si quis qualibet conditione de rebus ecclesiae aliquid
+            alienare presumpserit, si de suo proprio tantum ecclesiaecontulerit, quantum uisus est
+            abstulisse, tunc demumistud stare licebit. </p>
+          <p xml:id="gd-p2c12q2-d1e965"> VIII. Pars. Gratian. Item si seruos ecclesiae Ubertati
+            episcopus donauerit, ea, que in manumissione data illis fuerant , perpetua firmitate
+            tenebunt, si iamen quantitatem canonibus prefixam data non excesserint. </p>
+          <p xml:id="gd-p2c12q2-d1e968"> Unde in eodem Concilio [c. 7.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e972">
+          <head xml:id="gd-p2c12q2-Hd1e974">C. LVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e977" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c12q2-d1e980"> Si quos de seruis ecclesiae benemeritos sibi* episcopus
+            libertati donauerit, collatam libertatem a successoribus custodiri cum hoc, quod
+            manumissor eis in libertatem contulerat placuit. Quod tamen iubemusuiginti solidorum
+            numerum et modum in terrula, uineola uel hospitiolo tenere. Quod autem ampliusdatum
+            fuerit post manumissoris mortem ecclesiae reuo-cetur. </p>
+          <p xml:id="gd-p2c12q2-d1e983"> Gratian. Sed notandum est, quod serui ecclesiarum manumitti
+            non possunt, non retento ecclesiastico patrocinio, nisi forte manumissor duos eiusdem
+            meriti et eiusdem peculii ecclesiae conferre uoluerit. </p>
+          <p xml:id="gd-p2c12q2-d1e986"> Unde in Concilio Tolletano IV. [c. 86.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e990">
+          <head xml:id="gd-p2c12q2-Hd1e992">C. LVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e995" type="question-title"> De episcopo, qui non retento
+            patrocinio seruos ecclesiae manumittit.</head>
+          <p xml:id="gd-p2c12q2-d1e998"> Episcopus, qui mancipium iuris ecclesiae, non retento
+            ecclesiastico patrocinio, manumitti desiderat, duos eiusdem meriti et peculii coram
+            concilio ecclesiae, cui preminet, per conmutationem subscribentibus sacerdotibus
+            offerat, ut rata et iusta inueniatur diffinitio conmutantis. Tuncenim liberam
+            manumissionem sine patrocinio ecclesiaeconcedere poterit, quia eum, quem libertati
+            tradere disposuit, iam iuri proprio adquisiuit. §. 1. Huiusmodiautem liberto aduersus
+            ecclesiam, cuius iuris extitit, accusandi uel testificandi denegetur licentia. Quod si
+            presumpserit, placet, ut stante conmutatione in seruitutem propriae ecclesiae reuocetur,
+            quam nocere conatur. </p>
+          <p xml:id="gd-p2c12q2-d1e1001"> Gratian. Libertus enim ( nisi uenia inpetrata) patronum </p>
+
+          <p xml:id="gd-p2c12q2-d1e1004"> in ius uocare non permittitur. Unde in lib. 2 .
+            Digestorum, tit . de in ius uocando, [ 1 . fin.]: „Si sine uenia edicti inpetrata
+            libertus patronum in ius uocauerit, ex querela patroniuel supradictam penam, id est
+            quinquaginta aureos, dat, uel aprefecto urbis quasi inoffitiosus castigatur, si inopia
+            dinosciturlaborare .“§. 1. Si uero a collegio quis manumissus fuerit, non </p>
+          <p xml:id="gd-p2c12q2-d1e1008"> singulis, sed uniuersitati reuerentiam debet. Unde in
+            eodem libro, tit. eod. [ 1 . Sed si hac]: „ Qui manumittatur a corpore aliquo, uel
+            collegio, uel ciuitate, singulos in ius uocabit . Nam nonest illorum libertus, sed
+            reipublicae honorem habere debet. Et siaduersus rempublicam uel uniuersitatem uelit
+            experiri, ueniamedicti petere debet, quamuis actorem eorum constitutum in iussit
+            uocaturus. §. 2. Si uero ingenuum princeps facit, patronoreuerentiam non debet. §. 3. In
+            criminali uero! , si patronum in ius uocauerit, caput eius et fortunas petiturus,
+            antelitis exordium capite puniendus est . Crimen S maiestatis excipitur, uel si patronam
+            illicito serui concubitu uti deprehenderit, quo casu etiam seruo cwm munere libertatis
+            dominam accusarepermittitur, sicut m 9. lib. Cod. tit. de mulieribus, que seruispropriis
+            [1. unica], inperator Constantinus constituisselegitur : „ Si qua cum seruo suo occulte
+            rem habere detegitur, capitali sententiae subiugetur, tradendo ignibus uerberone.Sitque
+            omnibus facultas crimen publicum arguendi, sit offitio copia nunciandi, sit etiam seruo
+            licentia deferendi, cui probatocrimine libertas dabitur .“ §. 4. In patronos etiam
+            testificari nonpossunt, nisi in quibusdam casibus, in quibus etiam serui indominos
+            torqueri iubentur. </p>
+          <p xml:id="gd-p2c12q2-d1e1011"> Unde in libro Codicis, tit de questionibus, [ 1 . prima] </p>
+          <p xml:id="gd-p2c12q2-d1e1014"> Inp. Antoninus :* </p>
+          <a/>
+          <h1>
+            <a/> [C. LIX.] </h1>
+          <p xml:id="gd-p2c12q2-d1e1024"> , , Questionem de seruis contra dominos haberi non
+            oportet, exceptis adulterii criminibus, item fraudati census accusationibus, et crimine
+            maiestatis, quod ad salutem principis pertinet. §. 1. In ceteris autem-, quamquam ea,
+            que seruus contra dominumdixit, , iudicaturi sententiam formare non debeant, tamen,
+            sialiis quoque probationibus fides ueritatis inuestigetur, prescriptio-nis inuidia
+            euanescit. §. 2. In pecuniariis uero causis nec ** inopia probationum seruos contra
+            dominum interrogari possemanifesty, m est. </p>
+          <h1>
+            <a/> [C. LX.] </h1>
+          <p xml:id="gd-p2c12q2-d1e1033"> Idem. </p>
+          <p xml:id="gd-p2c12q2-d1e1036"> „ Insolitum est et graue exemplo, audiri seruos aduersus
+            tutores uel matrem dominorum suorum, nisi tutelae agatur .“ </p>
+          <p xml:id="gd-p2c12q2-d1e1039"> [Gratian.] Si uero libertus sua auctoritate a patrocinio
+            ecclesiae recesserit, si admonitus redire contempserit, in seruitutemreuocabitur. </p>
+          <p xml:id="gd-p2c12q2-d1e1042"> Unde in eodem Concilio legitur*: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1046">
+          <head xml:id="gd-p2c12q2-Hd1e1048">C. LXI</head>
+          <head xml:id="gd-p2c12q2-Hd1e1051" type="question-title"> De libertis ecclesiae, qui ab
+            eius patrocinio discedunt.</head>
+          <p xml:id="gd-p2c12q2-d1e1054"> Liberti ecclesiae, qui a patrocinio eius discedentes qui- </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e1057"> buscumque personis adheserint, si admoniti redire
+            contempserint, manumissio eorum irrita sit, quia per in-obedientiae contemptum ingrati
+            actione tenentur. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1061">
+          <head xml:id="gd-p2c12q2-Hd1e1063">C. LXII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1066" type="question-title"> Reuocentur in seruitutem
+            ecclesiarum liberti, qui contra eas superbiunt. </head>
+          <p xml:id="gd-p2c12q2-d1e1069"> Item ex Concilio S palen si [II., c. 8.] </p>
+          <p xml:id="gd-p2c12q2-d1e1072"> Octaua discussio agitata est de quodam Elisep ex familia
+            Egabrensis ecclesiae, qui ab episcopo suo traditus libertati de libertate confestim ad
+            contumaciae morbum transsiliit, sicque per superbiam non solum eiusdemepiscopi malis uel
+            insidiosis artibus salutem ledereuoluit, sed etiam patronam ecclesiam libertatis inmemor
+            pre-dampnauit. Aduersus quem ingrati actio canonum ac legum auctoritate iuste dirigitur,
+            scilicet, ut inmeritae libertatis dampno mulctatus ad serui tutis nexum coactus s
+            reuocetur. Talium enim status, qui contra episcopumsuum uel patronam ecclesiam nituntur,
+            decidi potiusquam conseruari conuenit, ut quorum libertas perniciosaest sit salutifera
+            seruitus, et qui superbire nouerintadepta libertate*, proditi discant obedire subiecti.
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1077">
+          <head xml:id="gd-p2c12q2-Hd1e1079">C. LXIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1082" type="question-title"> A patrocinio non discedant
+            ecclesiae liberti ad sacros ordines promoti.</head>
+          <p xml:id="gd-p2c12q2-d1e1085"> Item ex Concilio Tolletano III., [c. 6.] </p>
+          <p xml:id="gd-p2c12q2-d1e1088"> De libertis autem hoc precepit sancta sinodus, ut, si qui
+            presbiteri uel diaconi* ab episcopis facti sunt secundum modum, quo canones antiqui dant
+            licentiam, sint liberi, et tamen a patrocinio ecclesiae tam ipsi quam ab eisprogeniti
+            non recedant. §. i. Ab aliis quoque libertati traditi et ecclesiis conmendati patrocinio
+            episcopi colligantur, et ne cui quam donentur hoc a principe episcopuspostulet. </p>
+          <p xml:id="gd-p2c12q2-d1e1091"> Gratian. Ne uero longinquitate temporis obscuretur
+            conditio originis , tempore suae manumissionis scribant liberti professionem , qua se
+            profiteantur de familia esse ecclesiae , et ab eius obsequio se numquam recessuros. </p>
+          <p xml:id="gd-p2c12q2-d1e1095"> Unde in eodem Concilio legitur**: </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1099">
+          <head xml:id="gd-p2c12q2-Hd1e1101">C. LXIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e1104" type="question-title"> Professionem suae conditionis
+            liberti ecclesiae faciant.</head>
+
+          <p xml:id="gd-p2c12q2-d1e1107"> Longinquitate sepe fit temporis, ut non pateat conditio
+            originis. Unde iam decretum est in anteriori* uniuersalisconcilii canone, ut
+            professionem suam liberti ecclesiae debeant facere, qua profiteantur se et de familia
+            ecclesiaeesse, et eius obsequium numquam relicturos. Undehis quoque nos adicimus, ut
+            quociens cursum uitae sacerdos inpleuerit, et de hac uita migrauerit, mox, cumsuccessor
+            eius aduenerit, omnes liberti ecclesiae, uel abeis progeniti cartulas suas in conspectu
+            omnium debentipsi qui substituitur pontifici publicare, et professionem* in conspectu
+            ecclesiae renouare, quatinus statussui uigorem et illi obtineant et obedientia eorum
+            ecclesianon careat. Si autem scripturas s libertatis suae intraannum ordinationis noui
+            pontificis manifestare contempserint, aut professiones renouare noluerint, uacuae
+            etinanes cartulae ipsae remaneant, et illi origini suae redditisint perpetuo serui. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1111">
+          <head xml:id="gd-p2c12q2-Hd1e1113">C. LXV</head>
+          <head xml:id="gd-p2c12q2-Hd1e1116" type="question-title"> Nec liberti , nec eorum posteri
+            a patrocinio discedant ecclesiae. </head>
+          <p xml:id="gd-p2c12q2-d1e1119"> Item ex eodem . </p>
+          <p xml:id="gd-p2c12q2-d1e1122"> Liberti ecclesiae, quia numquam eorum moritur patrona, a
+            patrocinio ecclesiae numquam discedant, nec posteritas quidem eorum, sicut priores
+            canones decreuerunt.Ac ne forte libertas eorum in futura prole non pateat, ipsaque
+            posteritas sese ab ecclesiae patrocinio nonsubtrahat, necesse est, ut tam idem liberti,
+            quam abeis progeniti professionem episcopo suo faciant, perquam ex familia ecclesiae
+            libertos effectos se esse fateantur, eiusque patrocinium non relinquant, sed iuxta
+            uirtu-tem suam obsequium ei uel obedientiam prebeant. </p>
+          <p xml:id="gd-p2c12q2-d1e1125"> Gratian. Pro remuneratione etiam inpensi obsequii res
+            ecclesiasticae utiliter possunt donari. </p>
+          <p xml:id="gd-p2c12q2-d1e1129"> Unde in IV. Concilio Tolletano [c. 36.] legitur ; </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1133">
+          <head xml:id="gd-p2c12q2-Hd1e1135">C. LXVI</head>
+          <head xml:id="gd-p2c12q2-Hd1e1138" type="question-title"> Que de rebus ecclesiae in
+            remuneratione obsequii prestantur rata permanebunt*. </head>
+          <p xml:id="gd-p2c12q2-d1e1141"> Quicumque suffragio cuiuslibet aliquid ecclesiasticae
+            utilitatis prouiderint, et pro eo quodcumque commodum in remuneratione promiserint,
+            promissi solutionem eos absoluere oportebit, ita ut ad concilium conprouinciale^
+            deferatur, ut eorum conuentu confirmetur, quia (sicut Paulus ait) dignus est mercenarius
+            mercede sua. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1145">
+          <head xml:id="gd-p2c12q2-Hd1e1147">C. LXVII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1150" type="question-title"> Serui ecclesiarum in eorum
+            dominium transferri possunt , qui ecclesiasticis deseruiunt utilitatibus. </head>
+          <p xml:id="gd-p2c12q2-d1e1153"> Item Gregorius [lib. II. Indict. 11. epist. 18. Theodoro
+            Conciliario]. </p>
+          <p xml:id="gd-p2c12q2-d1e1156"> Ecclesiasticis utilitatibus desudantes ecclesiastica
+            dignum est remuneratione gaudere, ut qui se uoluntariis obsequiorum necessitatibus
+            sponte subiciunt digne nostrisprouisionibus consolentur. Quia igitur* Theodorum </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e1159"> uirum eloquentissimum, consiliarium nostrum, mancipiorum
+            cognouimus ministerio destitutum, ideo puerum nomineAcosimum, natione Siculum, iuri
+            dominioque suo daritradique precipimus, quem quoniam traditum ex nostrauoluntate iam
+            possidet, huius necesse fuitpro futuri testimonio ac robore largitatis
+            auctoritatefulciri, quatinus Domino protegente secure eum sempersine s ullius
+            retractationis suspicione, ut dominus, ualeat possidere**. </p>
+          <p xml:id="gd-p2c12q2-d1e1163"> Gratian. Miserationis quoque intuitu serui ecclesiarum
+            libertati donari possunt. </p>
+          <p xml:id="gd-p2c12q2-d1e1166"> Unde Gregorius Montanae et Thomae [lib. V. epist. 12.]:
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1170">
+          <head xml:id="gd-p2c12q2-Hd1e1172">C. LXVIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1175" type="question-title"> Miserationis et pietatis intuitu
+            serui ecclesiarum possunt manumitti.</head>
+          <p xml:id="gd-p2c12q2-d1e1178"> Cum redemptor noster, totius conditor creaturae, ad hoc
+            propiciatus humanam uoluit carnem assumere, ut diui-nitatis suae gratia dirupto, quo
+            tenebamur captiui, uinculoseruitutis, pristinae nos restitueret libertati, salubriter
+            agitur, si homines, quos ab initio natura liberos protulit, et iusgentium iugo
+            substituit seruitutis, in ea, qua nati fuerant, manumittentis beneficio libertati
+            reddantur. Atque ideopietatis intuitu, et huius rei consideratione permotus, uos,
+            Montanam atque Thomam, famulos sanctae Romanae ecclesiae, cui Deo auctore deseruimus,
+            liberos exhac die ciuesque Romanos efficimus, omneque uestrumuobis relaxamus seruitutis
+            peculium*. §. i. Hancautem manumissionis paginam Paterio notario scribendamdictauimus,
+            et propria manu una cum tribus presbiterisprioribus et tribus diaconibus pro plenissima
+            firmitatesubscripsimus, uobisque tradidimus. Actum in urbeRomas. </p>
+          <p xml:id="gd-p2c12q2-d1e1181"> Gratian. Item serui ecclesiarum publicis angariis fatigari
+            non debent. </p>
+          <p xml:id="gd-p2c12q2-d1e1184"> Unde in III. Tollet ano Concilio [c. 21.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1189">
+          <head xml:id="gd-p2c12q2-Hd1e1191">C. LXIX</head>
+          <head xml:id="gd-p2c12q2-Hd1e1194" type="question-title"> Serui ecclesiarum publicis
+            angariis non fatigentur.</head>
+          <p xml:id="gd-p2c12q2-d1e1197"> Ecclesiarum* seruos, et episcoporum, uel omnium
+            clericorum, a iudicibus uel actoribus publicis in diuersisangariis fatigari dolemus.
+            Propter quod omne concilium apietate gloriosissimi domini nostri poposcit, ut talesusus
+            deinceps inhibeat, sed serui suprascriptorumoffitiorum in eorum usibus uel ecclesiae
+            laborent. Si quisuero iudicum uel actorum clericum aut seruum clericiuel ecclesiae in
+            publicis ac priuatis negotiis occupare uo-luerit, a communione ecclesiastica, cui
+            inpedimentum facit, efficiatur extraneus. </p>
+          <p xml:id="gd-p2c12q2-d1e1200"> Gratian. Item pro alimonia pauperum , pro redemptione
+            captiuorum res sacras distrahi licet. </p>
+
+          <p xml:id="gd-p2c12q2-d1e1203"> Unde Ambrosius ait m lib. [II.] de offitiis , [c. 28.]:
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1207">
+          <head xml:id="gd-p2c12q2-Hd1e1209">C. LXX</head>
+          <head xml:id="gd-p2c12q2-Hd1e1212" type="question-title"> Res sacrae quibus ex™ causis
+            alienari debeant °. </head>
+          <p xml:id="gd-p2c12q2-d1e1215"> Aurum ecclesia habet, non ut seruet, sed ut eroget et
+            subueniat in necessitatibus. Quid est opus custodire quodnihil adiuuat? An ignoramus,
+            quantum auri atque argentide templo Domini Assirii sustulerunt? Nonne melius conflat
+            sacerdos propter alimoniam pauperum, si aliquasubsidia desunt, quam si sacrilegus
+            contaminat etasportat hostis? Nonne dicturus estDominus: Cur passuses tot inopes fame
+            mori g? Et certe habebas aurum, ministrasses alimoniam. Cur tot captiui in
+            commerciumducti nec redempti, ab hoste occisi sunt? Meliusfuerat, ut uasa uiuentium
+            seruares quam metallorum. Hisnon posset responsum referri. Quid enim diceres?Timui, ne
+            templo Dei ornatus deesset? Respondet:Aurum sacramenta non querunt, neque auro placent
+            queauro non emuntur. Ornatus sacrorum redemptio captiuorum est, et uere illa sunt uasa
+            preciosa, que redimuntanimas a morte. Ille uerus est thesaurus Domini, qui operatur quod
+            sanguis eius operatus est. Et post pauca : §. 1.Nemo potest dicere, cur pauper uiuit?
+            Nemo potestqueri, quia captiui redempti sunt. Nemo potest accusare, quia templum Dei
+            edificatum est. Nemo potest indignari, quia humandis fidelium reliquiis spatia laxata
+            sunt. Nemopotest dolere, quia in sepulcris Christianorum requiesdefunctorum est. In his
+            tribus generibus uasa ecclesiaeetiam initiata confringere, conflare, uendere licet. Opus
+            est, ut de ecclesia mistici populi forma non exeat, nec°P adusus nefarios sacri calicis
+            ministerium transferatur. Ideoprimum intra ecclesiam quesita sunt uasa, que initiata
+            nonessent, denique* conminuta, postremo conflata, perminutas erogationes dispensata
+            egentibus captiuorumquoque preciis profecerunt. Quod si desunt noua et quenequaquam
+            initiata uideantur, in huiusmodi, quos supradixi usus, arbitror omnia pie posse
+            conuerti. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1219">
+          <head xml:id="gd-p2c12q2-Hd1e1221">C. LXXI</head>
+          <head xml:id="gd-p2c12q2-Hd1e1224" type="question-title"> Non parietes ornare templi , sed
+            pauperibus prouidere gloria episcopi est. </head>
+          <p xml:id="gd-p2c12q2-d1e1227"> Item Ieronimus [ad Nepotianum de uita clericorum]. </p>
+          <p xml:id="gd-p2c12q2-d1e1230"> Gloria episcopi est pauperum opibus prouidere; ignominia
+            sacerdotis est propriis studere diuiciis. Natus inpaupere domo et in tugurio rusticano,
+            qui uix milio et cibariopane rugientem uentrem saturare poteram, nunc similamet mella
+            fastidio. Eiusdem: §. 1. Multi edificant parietes, et columpnas ecclesiae subtrahunt,
+            marmora nitent, aurosplendent laquearia, gemmis altare distinguitur, et ministrorum
+            Christi nulla est electio. Neque uero michi aliquisobponat diues in Iudea templum,
+            mensam, lucernas, turibula, patellas, cyphos, mortariola, et cetera ex auro fabre- </p>
+
+
+
+
+          <p xml:id="gd-p2c12q2-d1e1233"> facta. Tunc hec probabantur a Domino, quando sacerdotes
+            hostias inmolabant, et sanguis pecudum erat remissiopeccatorum, quamquam hec omnia
+            precesserint in figuram; scripta sunt autem propter nos, in quos finesseculorum
+            deuenerunt. Nunc uero, cum paupertatem domussuae pauper Dominus dedicauit, portemus
+            crucem, et delicias lutum putemus. Eiusdem °s: §. 2. Amicorapere quippiam furtum est,
+            ecclesiam fraudare sacrilegiumest; accepisse pauperibus erogandum et
+            esurientibusplurimis illud reseruare, uel cautum uel timidumest, aut, quod apertissimi
+            sceleris est, ' exinde aliquid subtrahere, omnium predonum crudelitatem superat. ltem
+            eiusdem [ad Paulinum, de institutione monachi]:§. 3. Crates ille Thebanus, homo quondam
+            ditissimus, cum ad philosophandum Athenas pergeret, magnum auripondus abiecit, nec
+            putauit, se posse et uirtutes simulet diuicias possidere. Nos suffarcinati auro Christum
+            pauperem sequimur, et, sub pretextu elemosinae pristinis incubantes opibus, quomodo
+            possumus aliena fideliter distribuere qui nostra timide reseruamus? Plenus uenter
+            deieiuniis facile disputat. Non Ierosolimis fuisse, sed Ierosoli-mis bene uixisse
+            laudandum est. </p>
+          <p xml:id="gd-p2c12q2-d1e1237"> Gratian. Item largitate etiam episcopi stipendium de rebus
+            ecclesiae clericis dare licet, cuius professio sub precariae nomine fieri debet. </p>
+          <p xml:id="gd-p2c12q2-d1e1240"> Unde in VII. Concilio Tolletano legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1244">
+          <head xml:id="gd-p2c12q2-Hd1e1246">C. LXXII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1249" type="question-title"> Qui beneficium ab ecclesia
+            accepit , eius professionem nomine precariae faciat . </head>
+          <p xml:id="gd-p2c12q2-d1e1252"> Sepe fit, ut proprietati originis obsistat longinquitas
+            temporis. Quapropter prouidentes decernimus, ut siquis clericorum* stipendium de rebus
+            ecclesiae cuiuscumque episcopi percipit largitate, sub precariaenomine debeat
+            professionem scribere, ne per retentionem diuturnam preiudicium afferat ecclesiae, et
+            quecumque in usu perceperit debets utiliterlaborare, ut nec res diuini iuris uideantur
+            aliqua occasionenegligi, et subsidium ab ecclesia, cui deseruiunt, perciperepossint
+            clerici. Quod si quis eorum contempserit facere, ipse se stipendio suo uidebitur
+            priuare. </p>
+          <p xml:id="gd-p2c12q2-d1e1255"> Gratian. Religionis quoque intuitu ea, in quibus ecclesia
+            detrimentum non patitur, monasteriis tradi possunt. </p>
+          <p xml:id="gd-p2c12q2-d1e1258"> Unde in Tolletano Concilio I. [c. 4.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1262">
+          <head xml:id="gd-p2c12q2-Hd1e1264">C. LXXIII</head>
+          <head xml:id="gd-p2c12q2-Hd1e1267" type="question-title"> Licet religionis intuitu res
+            ecclesiae alienare.</head>
+
+          <p xml:id="gd-p2c12q2-d1e1270"> Si episcopus unam de parrochianis ecclesiis suis
+            monasterium dicare uoluerit, ut in ea monachorumcongregatio regulariter uiuat, hoc de
+            consensu concilii suilicentiam habeat faciendi. Qui etiam, si de rebus ecclesiaepro
+            eorum substantia aliquid, quod detrimentum ecclesiaenon exhibeat, eidem loco donauerit,
+            sit stabile. Rei enimbonae statuendae sanctum concilium dat consensum. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1274">
+          <head xml:id="gd-p2c12q2-Hd1e1276">C. LXXIV</head>
+          <head xml:id="gd-p2c12q2-Hd1e1279" type="question-title"> Non ultra quinquagesimam partem
+            rerum </head>
+          <p xml:id="gd-p2c12q2-d1e1282"> ecclesiae monasterio, quod construit , episcopo licet
+            conferre . </p>
+          <p xml:id="gd-p2c12q2-d1e1285"> Item in eodem concilio Tolletano X. [c. 5.]. </p>
+          <p xml:id="gd-p2c12q2-d1e1288"> Bonae rei dare consultum et presentis habetur uitae
+            subsidium, et eternae remunerationis expectarecernitur premium. Quisquis itaque
+            episcoporum in parrochia sua monasterium constituere forte uoluerit, et hocex rebus
+            ecclesiae, cui presidet, ditare decreuerit, nonamplius ibidem quam quinquagesimam partem
+            dare debebit, ut, hac temperamenti equitate seruata, et cui tribuitconpetens subsidium
+            conferat, et cui tollit dampna grauianon infligat. Ecclesiam uero, que monasticis non
+            informabitur regulis, aut quam pro suis magnificare uolueritsepulturis, non amplius quam
+            centesimam partem censusecclesiae, cui presidet, ibidem conferre licebit, ea
+            tamencautela seruata, ut unam tantummodo, que placuerit, exhis duabus remunerationem
+            assumat. </p>
+        </div>
+        <div xml:id="gd-p2c12q2-Dd1e1293">
+          <head xml:id="gd-p2c12q2-Hd1e1295">C. LXXV</head>
+          <head xml:id="gd-p2c12q2-Hd1e1298" type="question-title"> Iure proprietatis res ecclesiae
+            monasteriorum edificiis tradere licet.</head>
+          <p xml:id="gd-p2c12q2-d1e1301"> Item Gregorius [lib. II. Indict. 11. epist. 17. </p>
+          <p xml:id="gd-p2c12q2-d1e1304"> Gratioso Subdiacono]. </p>
+          <p xml:id="gd-p2c12q2-d1e1307"> Religiosam uitam eligentibus nos oportet congrua
+            consideratione prospicere, ne cuiusdam necessitatis occasio aut desides faciat, aut
+            robur (quod absit) conuersationis infringat. Idcirco presenti tibi auctoritate
+            precipimus, quatinusdomum positam in hac urbe, regione quarta, iuxta locum, qui
+            appellatur gallinas albas, uel ortum iuris sanctaeRomanae, cui auctore Deo presidemus
+            ecclesiae, in quaCampana quondam* Patricii mansisse dinoscitur, simul et ortum atque
+            hospitia, que intra eandem domum ianuaconclusit, eidem debeas tradere proprietatis
+            iureproculdubio possidendam, in qua domo monasteriumubi cum congregatione sua habitare
+            possit, Christo s adiuuante construere, et tam ipsa quam que in eiushonore locoque
+            successerit predictam domum et ortumcum omnibus ad se pertinentibus (sicut diximus)
+            quieto etinconcusso iure a nobis pietatis consideratione concessam ualeat possidere. </p>
+          <p xml:id="gd-p2c12q2-d1e1311"> Gratian. Ecce ostensum est , quomodo res ecclesiae sine
+            culpa dari possunt, et constare his, quibus datae fuerint. </p>
+
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

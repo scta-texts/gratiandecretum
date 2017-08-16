@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c26q2">
+        <head xml:id="gd-p2c26q2-Hd1e103"> QUESTIO II. </head>
+        <p xml:id="gd-p2c26q2-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c26q2-d1e109"> I. Pars. Quod autem sortes exquirere peccatum non sit,
+          exemplis et auctoritatibus probatur. Cum enim Achan, deanathemate furtim subripuisset, et
+          ob eius peccatum populus cesusapud Ain hostibus terga dedisset, precepit Dominus Iosue,
+          utsortibus exquireret, quo peccante populus in manibus hostium cadere meruerat. Iosue
+          preceptum accipiens misit sortes, primumsuper tribus, deinde super familias, demum super
+          personas, et sorsita cecidit super Achan. Saul quoque, cum pugnans contra Phi-listeos
+          iurasset, se interfecturum quicumque de populo ante solisoccasum comederet, sorte
+          deprehendit lonathan filium suum meiComedisse, quod sceptro acceperat, quem cum morti
+          tradere uellet, populo supplicante reuocauit sentenciam. Ionas quoque, cuma facie Domini
+          fugeret, a nautis sorte deprehensus in mari deiectus, et a ceto est absorptus. De Zacharia
+          etiam legitur, quod sorte exiit, ut incensum poneret. Matthias uero similiter a B. Petro
+          sorte in apostolatum et Iudae successor eligitur.Quod ergo tantorum exemplis probatur,
+          patet malum non esse.Unde et Augustinus ait in lib. Psalmorum, [inPsal. XXX, </p>
+        <p xml:id="gd-p2c26q2-d1e112"> concione 2. ad uersic. In manibus tuis sortes]; </p>
+        <div xml:id="gd-p2c26q2-Dd1e115">
+          <head xml:id="gd-p2c26q2-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c26q2-Hd1e120" type="question-title"> Quid sit sors.</head>
+          <p xml:id="gd-p2c26q2-d1e123"> Sors non est aliquid mali, sed res in humana dubietate
+            diuinam indicans uoluntatem. </p>
+          <p xml:id="gd-p2c26q2-d1e126"> II. Pars. Gratian. His ita respondetur: Ante,
+            quameuangelium claresceret, multa permittebantur, que tempore per-;fectioris disciplinae
+            penitus eliminata sunt. Copula namquesacerdotalis uel consanguineorum nec legali, nec
+            euangelica, uelapostolica auctoritate prohibetur, ecclesiastica tamen lege
+            penitusinterdicitur. Sic et sortibus nichil mali inesse monstratur , prohibetur tamen
+            fidelibus, ne sub hac specie diuinationis ad antiquos ydolatriae cultus redirent. Unde
+            quibusdam constellationes et futurorum signa custodientibus Apostolus ait :
+            Diesobseruatis, et menses, et tempora, et annos. Unde timeo, ne fortesine causa
+            laborauerim in uobisP Sic et astronomia, seu et astrologia apud catholicos in
+            dissuetudinem abiit, quia, dum propria curiositate his nimis erant intenti, minus
+            uacabant his, quesaluti animarum erant accommodata . </p>
+
+
+
+
+          <p xml:id="gd-p2c26q2-d1e129"> Quod autem sortibus credi non oporteat, Ieronimus testatur
+            , scribens super Ionam [c. i.]: </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e134">
+          <head xml:id="gd-p2c26q2-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c26q2-Hd1e139" type="question-title"> Exemplo Ionae uel Matthiae non
+            oportet sortibus credi.</head>
+          <p xml:id="gd-p2c26q2-d1e142"> Non statim debemus sub exemplo Ionae sortibus credere, uel
+            illud de Actibus Apostolorum huic testimonio copulare, ubi sorte Matthias in apostolatum
+            eligitur *. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e146">
+          <head xml:id="gd-p2c26q2-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c26q2-Hd1e151" type="question-title"> Ad secularia negocia diuina
+            oracula non sunt conuertenda.</head>
+          <p xml:id="gd-p2c26q2-d1e154"> Augustinus ad iniquisitiones Ianuarii , [epist. CXIX.] </p>
+          <p xml:id="gd-p2c26q2-d1e157"> Hii, qui de paginis euangelicis sortes legunt, etsi
+            optandum est, ut id pocius faciant, quam ad demonia consulenda concurrant, tamen ista
+            michi displicet consuetudo, ad negocia secularia et ad uitae huius uanitatemdiuina
+            oracula uelle conuertere. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e161">
+          <head xml:id="gd-p2c26q2-Hd1e163">C. IV</head>
+          <head xml:id="gd-p2c26q2-Hd1e166" type="question-title"> Exemplo Matthiae uel Ionae non
+            est sortibus indifferenter credendum.</head>
+          <p xml:id="gd-p2c26q2-d1e169"> Item Beda super Actus Apostolorum , [ad c. i.] </p>
+          <p xml:id="gd-p2c26q2-d1e172"> Non exemplo Matthiae, uel quod Ionas propheta sorte
+            deprehensus sit, indifferenter sortibus est credendum, cumpriuilegia singulorum (ut
+            Ieronimus ait) conmunem legemfacere omnino non possint. §. i. Si qui tamen necessitate
+            aliqua conpulsi Deum putant sortibus exemplo Apostolorum esse consulendum, uideant hoc
+            ipsos Apostolosnon nisi collecto fratrum cetu, et precibus ad Deum fusisegisse. </p>
+          <p xml:id="gd-p2c26q2-d1e175"> De diuinis uero scribit Augustinus [lib. V. super Deuter.
+            c. 19., ] ita dicens : </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e179">
+          <head xml:id="gd-p2c26q2-Hd1e181">C. V</head>
+          <head xml:id="gd-p2c26q2-Hd1e184" type="question-title"> Non sunt obseruanda que a diuinis
+            preripiuntur, quamuis ea contingant , que ab eis prenunciantur. </head>
+          <p xml:id="gd-p2c26q2-d1e187"> Intelligi uoluit Dominus etiam illa, que a diuinantibus non
+            secundum Deum dicuntur, si acciderint que dicuntur, non sic accipienda, ut fiant que
+            precipiuntur ab eis, autcolantur que colantur ab eis. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e191">
+          <head xml:id="gd-p2c26q2-Hd1e193">C. VI</head>
+          <head xml:id="gd-p2c26q2-Hd1e196" type="question-title"> Instituciones hominum que sint
+            supersticiosae uel non. Idem in l. [II.] de doctrina Christiana , [c. 19. et 20. et 21.] </head>
+
+          <p xml:id="gd-p2c26q2-d1e199"> Illud, quod est secundum institutiones hominum, partim
+            supersticiosum est, partim non est supersticiosum. Superstitiosum est quicquid
+            institutum est ab hominibus adfacienda ydola et colenda pertinens, uel ad colendam
+            sicutDeum creaturam, partemue ullam creaturae, uel ad consultationes et pacta quedam
+            significationum cum dejnonibusplacita atque federata, qualia sunt molimina
+            magicarumartium, que quidam conmemorare pocius quam doceresolent poetae. Ex quo genere
+            sunt, sed quasi licentioriuanitate, aruspicum et augurum libri. §. 1. Ad hoc etiamgenus
+            pertinent omnes ligaturae atque remedia, que medicorum quoque disciplina condempnat,
+            siue in precantationi-bus, siue in quibusdam notis, quas karacteres uocant, siue in
+            quibuscumque rebus suspendendis atque ligandis, uel etiam saltandis quodammodo, non ad
+            temperationemcorporum, sed ad quasdam significationes aut occultas, aut manifestas, que
+            eminentiori nomine uocant physicam, ut quasi non superstitionem inplicare, sed naturae
+            prodesse uideantur, sicut sunt inaures in summosingularum aurium, aut de struthionum
+            ossibus ansulaein digitis, aut cum tibi dicitur singultienti, ut dexteramanu pollicem
+            teneas. His adiunguntur milia inanissimarum obseruationum, si membrum aliquod salierit,
+            si iun-ctim ambulantibus amicis lapis s, aut puer medius inter-uenerit. §. 2. Hinc etiam
+            sunt illa, limen calcare, cumante domum suam transit; redire ad lectum, si quis, dum
+            secalciat, sternutauerit; redire ad domum, si procedensoffenderit; uel si uestis a
+            soricibus roditur. §. 3. Neque ab hoc genere superstitionis perniciosae segregandisunt,
+            qui olim genethliaci propter naturalium considerationes dierum, nunc autem p mathematici
+            uocantur.Nam et ipsi, quamuis ueram stellarum positionem, cumquisque nascitur,
+            consecuntur^, et aliquando peruesti-gant, tamen quod inde conantur uel actiones nostras,
+            uelactionum euenta producere, nimis errant. §. 4.Hoc autem genus fornicationis animae
+            salubriter diuinaauctoritas non tacuit, neque ab ea sic deterruitanimam, ut propterea
+            talia negaret esse sectanda, quia falsadicuntur a professoribus eorum, sed , , etiamsi
+            dixerintuobis, “ inquit, „ et ita euenerit, ne credatis eis.“ Non enimquia imago
+            Samuelis mortui Sauli uera pronunciauit, propterea talia sacrilegia, quibus illa imago
+            presentataest, minus execranda sunt, aut quia in Actibus Apostolorum femina uentriloqua
+            uerum testimonium perhibuitApostolis Domini, ideo Paulus apostolus pepercit
+            spirituiilli, ac non pocius feminam illius demonii correctioneyatque exclusione
+            mundauit. §. 5. Omnes igitur artes huiusmodi uel nugatoriae uel noxiae supersticionis,
+            ex quadampestifera societate hominum et demonum quasi pacta infidelis et dolosae
+            amicitiae constituta, penitus sunt repudiandae et fugiendae Christiano. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e203">
+          <head xml:id="gd-p2c26q2-Hd1e205">C. VII</head>
+          <head xml:id="gd-p2c26q2-Hd1e208" type="question-title"> Non est uita , sed mors
+            inquisitio uel curatio , que a diuinis uel magis expetitur. </head>
+          <p xml:id="gd-p2c26q2-d1e211"> Idem in lib. de ciuitate Defi. </p>
+          <p xml:id="gd-p2c26q2-d1e214"> Qui sine Saluatore salutem uult habere, et sine uera
+            sapientia estimat se prudentem fieri posse, non sanus, sed eger, non prudens, sed
+            stultus in egritudine assidua laborabit, et in cecitate noxia stultus et demens
+            permanebit.Ac proinde omnis inquisitio, et omnis curatio, que a diuiniset magis, uel ab
+            ipsis demoniis in ydolorum cultura ex- </p>
+
+
+
+
+          <p xml:id="gd-p2c26q2-d1e217"> petitur, mors pocius dicenda est quam uita, et qui ea
+            sectantur, si se non correxerint, ad eternam perdicionemtendunt, Psalmista dicente:
+            „Omnes dii gentium demoniasunt, “ qui per deceptos homines alios decipere
+            cottidegestiunt, ut perdicionis suae faciant eos esse participes.Itaque hec uanitas
+            magicarum artium ex traditionemalorum angelorum in toto terrarum orbe plurimis
+            seculisualuit per quandam scientiam futurorum et infernorum, et per inuentiones eorum
+            inuenta sunt aruspicia, augurationes^ et ipsa, que dicuntur, oracula, et nigroman-tia.
+          </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e222">
+          <head xml:id="gd-p2c26q2-Hd1e224">C. VIII</head>
+          <head xml:id="gd-p2c26q2-Hd1e227" type="question-title"> Christiana et uera pietas
+            planetarios expellit et dampnat.</head>
+          <p xml:id="gd-p2c26q2-d1e230"> Idem Confessionum lib. IV. [c. 3.] </p>
+          <p xml:id="gd-p2c26q2-d1e233"> Illos planetarios, quos mathematicos uocant, plane
+            consulere non desistebant, quod quasi nullum eissacrificium, et nullae preces ad aliquem
+            spiritum obdiuinationem dirigerentur. Quod tamen Christiana et uerapietas consequenter
+            expellit et dampnat. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e237">
+          <head xml:id="gd-p2c26q2-Hd1e239">C. IX</head>
+          <head xml:id="gd-p2c26q2-Hd1e242" type="question-title"> Cultura est ydolatriae auguria
+            seruare, et stellarum requirere cursus. </head>
+          <p xml:id="gd-p2c26q2-d1e245"> Item Ieronimus. </p>
+          <p xml:id="gd-p2c26q2-d1e248"> Sed et illud adde, quoniam qui fornicatur in corpus suum
+            peccat, non istud corpus solum, quod templum Deiest effectum, sed et illud, quod
+            dicitur, quia omnis ecclesia corpus Christi est. Et in omnem ecclesiam uideturdelinquere
+            qui corpus suum maculauerit, quia per unummembrum macula in omne corpus diffunditur. §.
+            1. Est etillud obprobrium Egypti, quod, si neglexeris, et postIordanis transitum, et
+            post baptismi secundam circumcisionem uetustae consuetudinis inustione suggeritur,
+            obseruareauguria, requirere stellarum cursus, et euentus ex hisfuturorum rimari,
+            ceterisque huiusmodi supersticionibusinplicari. Ydolatriae mater namque est Egyptus,
+            exqua certum est huiusmodi obprobria pullulare, que, si transito Iordane susceperis, et
+            his te laqueis rursus illiga-ueris, tecum sine dubio obprobria Egypti trahis. </p>
+          <p xml:id="gd-p2c26q2-d1e251"> III. Pars. Gratian. Hec autem sacrilegia s non usque adeo
+            sunt detestanda, ut, si aliquid de area uel torculari demoni-bus fuerit inmolatum, quod
+            reliquum est ideo credatur esse inmun-dum, aut, si ipsum, quod oblatum fuerat™, a nobis
+            ignorantibussumi contigerit, ideo credamus nos deliquisse. </p>
+          <p xml:id="gd-p2c26q2-d1e255"> Unde Augustinus ad Publicolam, CLIV.]: </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e259">
+          <head xml:id="gd-p2c26q2-Hd1e261">C. X</head>
+          <head xml:id="gd-p2c26q2-Hd1e264" type="question-title"> Non ideo reliqua sunt inmunda,
+            quia de™* area uel torculari aliquid ad demonum sacrificia tollitur. </head>
+
+          <p xml:id="gd-p2c26q2-d1e267"> Si de area aut torculari tollitur aliquid ad sacrificia
+            demoniorum, sciente Christiano, ideo peccat, quiapermittit fieri, ubi prohibendi
+            potestas est. Quod si factum conperit, aut prohibendi potestatem non habuit, utitur
+            mundis reliquis fructibus, unde illa sublata sunt. </p>
+        </div>
+        <div xml:id="gd-p2c26q2-Dd1e271">
+          <head xml:id="gd-p2c26q2-Hd1e273">C. XI</head>
+          <head xml:id="gd-p2c26q2-Hd1e276" type="question-title"> Inmunis est a reatu qui emit quod
+            nescit ydolis inmolatum.</head>
+          <p xml:id="gd-p2c26q2-d1e279"> Item Ambrosius in prima epistola ad Chorinthios, </p>
+          <p xml:id="gd-p2c26q2-d1e282"> [ad c. 10.] </p>
+          <p xml:id="gd-p2c26q2-d1e285"> Licet aliquid pollutum sit per accidentiam, id est
+            oblationem ydoli, cum tamen nescit qui emit, nullumpatitur scrupulum, et apud Deum
+            inmunis est. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO V. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO V. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3q5">
+        <head xml:id="gd-p2c3q5-Hd1e103"> QUESTIO V. </head>
+
+        <p xml:id="gd-p2c3q5-d1e106"> Quod uero testes de domo accusatorum producendi non sint , et
+          quod inimicorum uox audienda non sit, multorum auctoritatibus monstratur . </p>
+        <p xml:id="gd-p2c3q5-d1e109"> Ait enim Calixtus Papa, [ep. II. ad Episcopos Galliae]: </p>
+        <div xml:id="gd-p2c3q5-Dd1e112">
+          <head xml:id="gd-p2c3q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c3q5-Hd1e117" type="question-title"> Consanguinei uel* familiares
+            aduersus extraneos testimonium non dicant.</head>
+          <p xml:id="gd-p2c3q5-d1e120"> Consanguinei accusatores aduersus extraneos testimonium non
+            dicant, nec familiares, uel de domo prodeuntes, sed, si uoluerint et inuicem
+            consenserint, inter se parentes testificentur, et non in alios. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e124">
+          <head xml:id="gd-p2c3q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c3q5-Hd1e129" type="question-title"> Nuper inimici accusatores uel
+            testes esse non possunt . </head>
+          <p xml:id="gd-p2c3q5-d1e132"> Item Anacletus Papa, [epist. III. c. 5.] </p>
+          <p xml:id="gd-p2c3q5-d1e135"> Accusatores et testes esse non possunt, qui antehesternum
+            diem aut nudius tertius inimici fuerint, neirati nocere cupiant, ne lesi se ulcisci
+            uelint. Inoffensusigitur accusatorum et testium affectus querendus est, etnon suspectus. </p>
+          <p xml:id="gd-p2c3q5-d1e138"> , C. III. De eodem. </p>
+          <p xml:id="gd-p2c3q5-d1e142"> Item Simacus Papa, [in V. Sinodo Romana, sub ipso habita]. </p>
+          <p xml:id="gd-p2c3q5-d1e145"> Accusatoribus uero inimicis, uel de inimici domo
+            prodeuntibus, uel qui cum inimicis morantur, aut suspectis, </p>
+
+
+
+
+          <p xml:id="gd-p2c3q5-d1e148"> non credatur, ne irati nocere cupiant, ne lesi ulcisci se
+            uelint. §. i.® Si quis hec, que hodie in hac sancta Sinodoprohibita sunt, infringere
+            temptauerit, aut uoluntarietransgredi presumpserit®, si clericus est, gradu
+            propriopenitus careat, si uero monachus aut laicus fuerit, communione priuetur, et si
+            non emendauerit uicium, anathemateferiatur. Secretas uero insidias uel manifestas
+            pontificibusa quibuscumque illatas, uel ea, que huius sanctae sinodisententia
+            conplectitur, si quis ad ecclesiasticam pertuleritnoticiam, potiatur honore, et hi, qui
+            aduersa eis moliuntur, sicut a sanctis Patribus dudum statutum est, et hodie sino-dali
+            et apostolica auctoritate firmatum s, penitus abician-tur, et exilio suis omnibus
+            sublatis perpetuo tradantur. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e153">
+          <head xml:id="gd-p2c3q5-Hd1e155">C. IV</head>
+          <head xml:id="gd-p2c3q5-Hd1e158" type="question-title"> Qui non possunt esse accusatores
+            uel testes . </head>
+          <p xml:id="gd-p2c3q5-d1e161"> Item Pontianus sanctae e/ uniuersalis ecclesiae Episcopus,
+            [epist. II. omnibus Christianis]. </p>
+          <p xml:id="gd-p2c3q5-d1e164"> Suspectos, aut inimicos, aut facile litigantes, et eos, qui
+            non sunt bonae conuersationis, aut quorum uita estaccusabilis, et qui rectam non tenent
+            et docent fidem, accusatores esse et testes antecessores nostri apostoli* prohibuerunt
+            et nos eorum auctoritate submoue-mus atque temporibus futuris excludimus. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e168">
+          <head xml:id="gd-p2c3q5-Hd1e170">C. V</head>
+          <head xml:id="gd-p2c3q5-Hd1e173" type="question-title"> Ab accusationibus clericorum
+            repellantur, quos leges seculi non addmittunt. </head>
+          <p xml:id="gd-p2c3q5-d1e176"> Item Eusebius Episcopis Galliarum , [epist. I.] </p>
+          <p xml:id="gd-p2c3q5-d1e179"> De accusationibus clericorum, super quibus mandastis,
+            scitote, a tempore apostolorum in hac sancta Urbe seruatum esse, accusatores et
+            accusationes, quas exterarum consuetudinum leges non asciscunt, a clericorum accusatione
+            submotas. Et infra: Idcirco et nos sequentesPatrum uestigia pro saluatione seruorum Dei
+            quascumquead accusationem personas leges publicae non admittunt, his inpugnandi alterum
+            et nos licentiam submouemus, etnullae accusationes a iudicibus audiantur ecclesiasticis,
+            quelegibus seculi prohibentur. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e183">
+          <head xml:id="gd-p2c3q5-Hd1e185">C. VI</head>
+          <head xml:id="gd-p2c3q5-Hd1e188" type="question-title"> Alienigenae, et quos diuinae uoces
+            mortuos appellant, episcopos accusare non possunt. </head>
+          <p xml:id="gd-p2c3q5-d1e191"> Item Pelagius Papa [II. Episcopis Italiae]. </p>
+          <p xml:id="gd-p2c3q5-d1e194"> Canonica sanctorum Patrum statuta sequentes ac roborantes,
+            omnes infames, cunctos que suspectos, uel inimicos, et eorum, qui non sunt eorum gentis,
+            uel quorumfides, uita et libertas nescitur, et qui non sunt bonae conuersationis, uel
+            quorum uita est accusabilis, ab omni accusatione episcoporum funditus submouemus.
+            Similiter etomnes, quos diuinae leges mortuos appellant, submouendosesse ab eadem
+            accusatione et publicae penitentiae submittendos iudicamus. </p>
+
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e198">
+          <head xml:id="gd-p2c3q5-Hd1e200">C. VII</head>
+          <head xml:id="gd-p2c3q5-Hd1e203" type="question-title"> A clericis repelluntur
+            accusationes, quas leges seculi non adsciscunt.</head>
+          <p xml:id="gd-p2c3q5-d1e206"> Item ex Sinodo Romana, sub Adriano Papa habita *. </p>
+          <p xml:id="gd-p2c3q5-d1e209"> Accusationes et accusatores, atque eorum negotia, que
+            seculares non adsciscunt leges, diuina ac sinodicafunditus a clericis repellere
+            auctoritate censemus, quiaindignum est superiores pati ab inferioribus que inferioresab
+            eis pati despiciunt. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e213">
+          <head xml:id="gd-p2c3q5-Hd1e215">C. VIII</head>
+          <head xml:id="gd-p2c3q5-Hd1e218" type="question-title"> Nec seruus, nec libertus, nec
+            infamis episcopos accusare presumant.</head>
+          <p xml:id="gd-p2c3q5-d1e221"> Item Stephanus Romanae ecclesiae Episcopus omnibus </p>
+          <p xml:id="gd-p2c3q5-d1e224"> Episcopis, [ep. II. de accusationibus sacerdotum, c. 3.] </p>
+          <p xml:id="gd-p2c3q5-d1e227"> Accusatores et accusationes, quas leges seculi non
+            admittunt, et antecessores nostri prohibuerunt, et nossubmouemus. Nullus alienigena aut
+            accusator fiat eorum, aut iudex. Unde et de Loth scriptum est: „Ingressuses ut aduena,
+            numquid ut iudices ?“ Accusator autemnostrorum nullus sit seruus aut libertus, nullaque
+            suspectaaut infamis persona. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e231">
+          <head xml:id="gd-p2c3q5-Hd1e233">C. IX</head>
+          <head xml:id="gd-p2c3q5-Hd1e236" type="question-title"> Infames, qui ad sortilegos et
+            diuinos concurrunt , nec accusatores, nec testes esse possunt. </head>
+          <p xml:id="gd-p2c3q5-d1e239"> Item Eusebius Papa, [epist. III. ad Episcopos Thusciae]. </p>
+          <p xml:id="gd-p2c3q5-d1e242"> Constituimus cum omnibus, qui nobiscum sunt, episcopis, ut
+            homicidae, fures, malefici, sacrilegi, raptores, adulteri, incesti, uenefici, suspecti,
+            criminosi, domestici, periuri, et qui raptum fecerunt, uel quifalsum testimonium
+            dixerunt, seu qui ad sortilegosdiuinosque concurrerint, similesque eorum, nullatenus ad
+            accusationem uel ad testimonium sint admittendi, quia infames sunt et iuste .repellendi,
+            quia funesta esteorum uox. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e247">
+          <head xml:id="gd-p2c3q5-Hd1e249">C. X</head>
+          <head xml:id="gd-p2c3q5-Hd1e252" type="question-title"> Suspecti aut gratiosi ad
+            accusationem non admittantur.</head>
+          <p xml:id="gd-p2c3q5-d1e255"> Item Iulius Papa, [in rescripto ad Orientales, c. 33.] </p>
+          <p xml:id="gd-p2c3q5-d1e258"> * Similiter in prefixa Sinodo est decretum, ne suspecti, aut
+            infames, aut criminosi, aut gratiosi, autcalumpniatores, uel affines, aut scelerati, aut
+            facile litigantessuscipiantur accusatores, sed tales, qui careant omnisuspicione. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e262">
+          <head xml:id="gd-p2c3q5-Hd1e264">C. XI</head>
+          <head xml:id="gd-p2c3q5-Hd1e267" type="question-title"> Qui inimicitiis studet ef facile
+            litigat, nec accusator, nec tes/is me potest. </head>
+          <p xml:id="gd-p2c3q5-d1e270"> Item Felix Papa, [II. epist. I. c. 14.]Nullus seruus, nullus
+            libertus, nullus infidus, nulluscriminibus inretitus, nullus calumpniator, nullus, qui
+            inimicitiis studet, nullus frequenter litigans, et ad accusandum uel detrahendum
+            facilis, nulla infamis persona, uel omnes, tjuos ad accusanda publica crimina
+            legespublicae non admittunt, permittantur episcopos accusare. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e274">
+          <head xml:id="gd-p2c3q5-Hd1e276">C. XII</head>
+          <head xml:id="gd-p2c3q5-Hd1e279" type="question-title"> Familiares, suspecti, de domo
+            prodeuntes, non recipiantur in accusatione. </head>
+          <p xml:id="gd-p2c3q5-d1e282"> Item Calixtus Papa, [epist. II. ad Episcopos Galliae].
+            Accusatores uel testes suspecti non recipiantur, necfamiliares uel de domo prodeuntes,
+            nec etiam consanguinei accusatoris aduersus extraneos testimoniumdicant, quia
+            propinquitatis et familiaritatis ac dominationis affectio ueritatem inpedire solet. Amor
+            carnalis ettimor atque auaritia plerumque sensus hebetant humanos, et peruertunt
+            opiniones, ut questum pietatem putent, etpecuniam quasi mercedem prudentiae. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e286">
+          <head xml:id="gd-p2c3q5-Hd1e288">C. XIII</head>
+          <head xml:id="gd-p2c3q5-Hd1e291" type="question-title"> Qui inimici uel suspecti sunt, et
+            qui odio quoslibet insequuntur, ab accusatione remoueantur . </head>
+          <p xml:id="gd-p2c3q5-d1e294"> Item Ge Iasius [Papa II. epist. VIII. c. 4.]Omnes, qui
+            aduersus Patres armantur, ut Patrum in-uasores infames esse censemus. Horum
+            igituruiciorum auctores uel patratores non sunt in accusationepontificum recipiendi, sed
+            penitus repellendi, quoniamiubent canonica decreta Patrum, ut accusatio uel testimonium
+            eorum, qui odio quoslibet secuntur, uel qui inimiciaut suspecti habentur, nullo modo
+            recipiantur. </p>
+          <p xml:id="gd-p2c3q5-d1e297"> [PALE A. </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e301">
+          <head xml:id="gd-p2c3q5-Hd1e303"> C. XIV.</head>
+          <head xml:id="gd-p2c3q5-Hd1e306" type="question-title">De eodem. </head>
+          <p xml:id="gd-p2c3q5-d1e309"> Item Pascalis Papa*: </p>
+          <p xml:id="gd-p2c3q5-d1e312"> Nulli episcoporum ab accusatione sua repellere liceat, quos
+            ante, quam** ab eis inpeteretur, a sua communifamiliaritate neglexerit separare.], </p>
+          <p xml:id="gd-p2c3q5-d1e315"> Gratian. Quod uero inimici ab accusatione prohibentur , inde
+            est, quia eorum calliditate innocentia frequenter obprimi solet. </p>
+
+          <p xml:id="gd-p2c3q5-d1e319"> Sed cum Athanasius suae cathedrae reddi precipitur, quia de
+            inimicitia sui patriarchae conquestus est, patet, quod etsi manifesta sunt crimina
+            alicuius, non tamen accusatione inimici con - dempnandus est. </p>
+          <p xml:id="gd-p2c3q5-d1e322"> Unde Nicolaus scribit Michaeli Inperatori [in epistola, quae
+            incipit: „Proposueramus/] </p>
+        </div>
+        <div xml:id="gd-p2c3q5-Dd1e326">
+          <head xml:id="gd-p2c3q5-Hd1e328">C. XV</head>
+          <head xml:id="gd-p2c3q5-Hd1e331" type="question-title"> Qui inimici sunt, iudices esse non
+            possunt.</head>
+          <p xml:id="gd-p2c3q5-d1e334"> Quia suspecti et inimici iudices esse non debeant, et ipsa
+            ratio dictat, et plurimis probatur exemplis.§. 1. Nam quid gratius et amabilius dare
+            quis inimico potest, quam si ei ad inpetendum commiserit, quem ledere forteuoluerit?
+            Quod prouide Constantinopolitana sinodus canonum suorum sexto* dinoscitur prohibere
+            capitulo. §. 2.Veniamus et ad S. Calcedonensem sinodum, et quidnobis de Athanasio
+            Perenorum referat episcopoaudiamus. Is enim antistes tertio euocatus, quia nonoccurrit,
+            a patriarcha suo canonice condempnatus ex-titerat, sed solum quia, cum uocaretur ad
+            sinodum, quodinimicuss esset ipse, qui iudicabat, clamauit, a S. Calce-donensi Sinodo ad
+            causas illatas sibi examinandas reseruatur, et nisi denuo conuinceretur, recipere
+            ecclesiam propriamiudicatur. Si* Athanasius a patriarcha suo depositus, quiade
+            inimicitia eius conquestus est, iterato ad iudiciumrenouandum dirigitur, etsi
+            manifesta** sibi criminaofficiant, suae ecclesiae reddi precipitur: quanto
+            magisIgnatius, qui non a patriarcha, sed ipse potius existenspatriarcha, minime debuit
+            ecclesia propria priuari et inimicis et suspectis iudicibus decernentibus expoliari? §.
+            3.Veniat et facundissimus Papa noster Gelasius, hereticorumexpugnator fortissimus, et
+            quod de Constantinopolitanis episcopis more solito tunc egrotantibus dixit, etiam
+            nuncnobis edisserat. „Quero, inquit, „iudicium?, quodpretendunt, ubinam possit agitari?
+            an apud ipsos, ut idemsint inimici testes^ et iudices? Sed tali iudicio nechumana debent
+            committi negotia. Quod si iudicio, ubiidem sunt inimici qui iudices, nec humana debent
+            committiiudicia , quanto minus diuina, id est ecclesiastica? Quisapiens est intelligat.
+            §. 4. Et reuera hinc Iustinianusinperator pius legibus suis promulgasse dinoscitur,
+            dicens: , , Liceat ei, qui suspectum sibi iudicemputat, antequam lis inchoetur, eum
+            recusare, ut ad alium </p>
+
+
+
+
+          <p xml:id="gd-p2c3q5-d1e337"> recurratur." 160 Nam quodammodo naturale est suspectorum
+            iudicum insidias declinare et inimicorum iudicium uelle refugere. §. 5. Hinc S.
+            Iohannes, os aureum, conciliicontra se congregati renuit intrare collegium. </p>
+          <p xml:id="gd-p2c3q5-d1e340"> Gratian. Patet quod, etsi manifesta sunt crimina alicuius ,
+            non tamen accusatione inimici condempnandus est , </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

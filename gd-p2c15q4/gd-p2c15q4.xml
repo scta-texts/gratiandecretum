@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15q4">
+        <head xml:id="gd-p2c15q4-Hd1e103"> QUESTIO IV. </head>
+
+        <p xml:id="gd-p2c15q4-d1e106"> Quod uero die dominico nec episcopo, nec presbitero causam </p>
+
+
+
+
+        <p xml:id="gd-p2c15q4-d1e109"> uentilare aliquam liceat, in Terraconensi Concilio
+          prohibetur, in quo sic statutum est [c. 4.]: </p>
+        <div xml:id="gd-p2c15q4-Dd1e112">
+          <head xml:id="gd-p2c15q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c15q4-Hd1e117" type="question-title"> Ministri ecclesiae die dominico
+            causas uentilare non debent.</head>
+          <p xml:id="gd-p2c15q4-d1e120"> Nullus episcoporum aut presbiterorum uel clericorum die
+            dominico propositum cuiuscumque causae negociumaudeat uentilare, nisi hoc tantum, ut Deo
+            statuta solempniaperagant. Ceteris uero diebus, conuenientibus personis, illa, que iusta
+            sunt, habent licentiam iudicandi, exceptocriminali. </p>
+        </div>
+        <div xml:id="gd-p2c15q4-Dd1e124">
+          <head xml:id="gd-p2c15q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c15q4-Hd1e129" type="question-title"> Sollempnibus diebus et ieiuniorum
+            legitimorum secularia placita non agantur.</head>
+          <p xml:id="gd-p2c15q4-d1e132"> Item ex Concilio apud Erphesfurt *, habito presente® Rege
+            Heinrico. </p>
+          <p xml:id="gd-p2c15q4-d1e135"> Placita secularia dominicis diebus, uel aliis precipuis
+            festis, seu etiam in his diebus, in quibus legitima ieiuniacelebrantur, secundum
+            canonicam institutionem minimedecreuimus fieri. Insuper etiam sancta sinodus decre-uit,
+            ut nulla iudiciaria potestas licentiam habeat sua auctoritate Christianos ad placitum
+            bannire in supradictis diebus, id est septem diebus ante natale Domini usque inoctauas
+            epiphaniae, et a quinquagesima usque ad octa-uas pascae, et septem diebus ante
+            natiuitatem sanctiIohannis Baptistae, quatinus adeundi ecclesiam orationibusque uacandi
+            liberius habeatur facultas. </p>
+        </div>
+        <div xml:id="gd-p2c15q4-Dd1e140">
+          <head xml:id="gd-p2c15q4-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c15q4-Hd1e145" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c15q4-d1e148"> Item Adrianus Papa [in capitulis, c. 64.] </p>
+          <p xml:id="gd-p2c15q4-d1e151"> Nullus episcopus uel infra positus die dominico causas
+            iudicare presumat. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

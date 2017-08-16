@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c16q2">
+        <head xml:id="gd-p2c16q2-Hd1e103"> QUESTIO II. </head>
+
+        <p xml:id="gd-p2c16q2-d1e106"> I. Pars. De capellis uero , que ab eis possidentur , quod per
+          eorum institutionem a sacerdotibus sint gubernandae, I oh annes Papa probat, scribens
+          Ysaac Siracusano Episcopo*. </p>
+        <div xml:id="gd-p2c16q2-Dd1e109">
+          <head xml:id="gd-p2c16q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c16q2-Hd1e114" type="question-title"> Presbiteri in monasteriorum
+            ecclesiis instituantur per abbates.</head>
+          <p xml:id="gd-p2c16q2-d1e117"> Visis litteris karitatis uestrae, quibus satis perpenditur,
+            quanto studio huic sanctae sedi reuerentiam exhibetis, nonmodice gauisi sumus. Nunc
+            itaque super ea, que consuluistis, ut karissimo fratri benigne discretum consilium
+            damus.Delegauit enim nobis pia mansuetudo uestra, utrum ecclesiae pro quiete monachorum
+            a sanctis conciliis catholicisque episcopis eis traditae per sacerdotes ab eis ordinatos
+            etinuestitos debeant institui. Addidit quoque fraternitas tua, litem et seditionem inter
+            clericos monachosque ex hac causanon modicam esse ortam; quod instigatione uersuti
+            hostisnemo fieri ambigat. Habet enim mille nocendi modos, nec ignoramus astutiam eius.
+            Conatur namque a principioruinae suae unitatem ecclesiae rescindere, karitatem
+            uulne-rare, sanctorum operum dulcedinem inuidiae felle inficere, et omnibus modis
+            humanum genus euertere et perturbare.Dolet enim satis et erubescit karitatem, quam in
+            celo ne-quiuit habere, homines constantes ex lutea materia in terratenere. Unde oportet
+            (quantum fragilitati nostrae conceditur) ut omnes aditus nocendi eius uersuciae
+            muniamus, ne mors ingrediatur per portas nostras. §. 1. Consilioitaque multorum fratrum
+            diligenter exquisito decernimus, ut amodo ecclesiae monachis traditae per suos
+            sacerdotesinstituantur. Diuinae enim leges habent et seculares, utcuius est possessio
+            eius fiat institutio, et si in dando quodmaius est facilis fuit karitas, sit facilior in
+            concedendo quodminus est sancta largitas. Maius enim fuit possessionemdare quam sit
+            inuestituram concedere. Quomodo possessoris iura cognoscentur, et suarum rerum sibi
+            tributareddentur, ubi quod suum est per alterum datur, et, cumuoluerit, aufertur? Humani
+            moris est illum uereri, cuiusiudicio et uoluntate nunc erigitur, nunc deprimitur.
+            Undefit, ut in partem episcopi ad seruiendum sacerdos procliuiorfiat, et sic episcopus
+            quod sancte et religiose dederat quadam simulata auctoritate ad se trahat. Sic itaque
+            priuaturmercede, quam consecutus e fuerat, tum quia ficta karitateaufert quod dederat,
+            tum quia prauorum sacerdotum discordias, et scissuras amantium, uerbis nimis factus
+            credulus, quod prius fucate moliebatur lucrari post detecta fraudeconatur quadam
+            usurpatione ex toto auferre. Quorum auer-tentes calliditates et hostis uersuti
+            suasiones, deincepsomnino s licentiam damus suarum ecclesiarum inuesti-tores fieri, ita
+            tamen, ut iudicio sinodi, si contra sacerdotiumagere presumpserint, multentur, et felici
+            mucrone episcopisacerdotum piacula resecentur. </p>
+
+          <p xml:id="gd-p2c16q2-d1e120"> II. Pars. Gratian. Hac auctoritate monachis conceditur
+            inuestitura suarum ecclesiarum . Sed uidetur contraire Urbanus Papa II., dicens*: </p>
+          <p xml:id="gd-p2c16q2-d1e123"> [PALE A. C. II. </p>
+          <p xml:id="gd-p2c16q2-d1e127"> Admonemus atque precipimus, ut decimas omnino dari Deo non
+            negligatur, quas ipse Deus dari constituit, quia timendum est, ut quisquis Deo debitum
+            suumsubtrahit, ne forte Deus per peccatum suum auferat einecessaria sua.] </p>
+          <p xml:id="gd-p2c16q2-d1e130"> [PALEA. </p>
+          <p xml:id="gd-p2c16q2-d1e133"> C. III. De eodem. </p>
+          <p xml:id="gd-p2c16q2-d1e136"> Item Nicolaus Papa II. epist. unica, c. 5. </p>
+          <p xml:id="gd-p2c16q2-d1e139"> Precipimus, ut decimae et primiciae, seu oblationes uiuorum
+            et mortuorum ecclesiis Dei fideliter reddantur a laicis, et ut in dispositione
+            episcoporum sint. Quas qui retinuerint, a sanctae ecclesiae communioneseparentur.] </p>
+          <p xml:id="gd-p2c16q2-d1e142"> [PALE A. </p>
+          <p xml:id="gd-p2c16q2-d1e146"> C. IV. De eodem. </p>
+          <p xml:id="gd-p2c16q2-d1e149"> Item Leo Papa. </p>
+          <p xml:id="gd-p2c16q2-d1e152"> Nullus decimas ad alium pertinentes accipiat.] [PALEA. </p>
+          <p xml:id="gd-p2c16q2-d1e155"> C. V. Item Ambrosius sermone I. de Quadragesima*. </p>
+          <p xml:id="gd-p2c16q2-d1e158"> Nam qui Deo non uult reddere decimas, quas retinuit, et
+            homini non studet reddere quod iniuste ab eo abstulit, nontimet adhuc Deum, et ignorat
+            quid sit uera penitenciaueraque confessio. Iste talis homo non potest ueramfacere
+            elemosinam.] </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e162">
+          <head xml:id="gd-p2c16q2-Hd1e164">C. VI</head>
+          <head xml:id="gd-p2c16q2-Hd1e167" type="question-title"> Abbates in parrochialibus
+            ecclesiis absque episcopi consilio presbiteros non ordinent. </head>
+          <p xml:id="gd-p2c16q2-d1e170"> Sane quia monachorum quidam episcopis ius suum auferre
+            contendunt, statuimus, ne in parrochialibus ecclesiis, quas tenent, absque episcoporum
+            consilio presbiteros collocent, sed episcopi parrochiae curam cum abbatum
+            consensusacerdoti conmittant, ut eiusmodi sacerdotes de populiquidem cura episcopis
+            rationem reddant, abbati uero prorebus temporalibus ad monasterium pertinentibus
+            debitamsubiectionem exhibeant, et sic sua cuique iura seruentur. Idem: §. i. In
+            parrochialibus ecclesiis presbiteri per episcopos constituantur, qui eis respondeant de
+            animarum cura, et his, que ad episcopum pertinent. </p>
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e174">
+          <head xml:id="gd-p2c16q2-Hd1e176">C. VII</head>
+          <head xml:id="gd-p2c16q2-Hd1e179" type="question-title"> Quorumcumque monachorum ecclesiae
+            episcoporum subdantur regimini.</head>
+          <p xml:id="gd-p2c16q2-d1e182"> Item ex Concilio apud Flauentiam habito . </p>
+          <p xml:id="gd-p2c16q2-d1e185"> Statuendum est, quatinus ecclesiae quorumcumque monachorum
+            in singulis parrochiis sitae episcoporum, utdecet, diuinitus subdantur regimini, eisque
+            debita obsequiaexhibeant. </p>
+          <p xml:id="gd-p2c16q2-d1e188"> Gratian. Ecce Urbanus Papa prohibet inuestituras
+            parrochialium ecclesiarum per monachos fieri, quas Iohannes Papa eis concessit. Sed
+            illud Iohannis Papae intelligendurn est de illiscapellis , que cum omni iure suo ab
+            episcopis monachis conceduntur. Istud autem Urbani intelligendurn est^ de illis ,
+            quasabbates in propriis prediis edificant in uillis uel in castellis suis. </p>
+          <p xml:id="gd-p2c16q2-d1e192"> [QUESTIO V.]* GRATIANUS. </p>
+          <p xml:id="gd-p2c16q2-d1e195"> Tales , etsi ius territorii habeant , tamen potestatem
+            gubernandi populum , et spiritualia ministrandi non habent. Quod etiam de episcopo
+            intelligendurn est. </p>
+          <p xml:id="gd-p2c16q2-d1e198"> Unde Nicolaus Papa ait *: </p>
+          <p xml:id="gd-p2c16q2-d1e201"> C. VIII. [I.] Episcopus , qui in alterius diocesi ecclesiam
+            edificat , eius consecrationem sibi uendicare non audeat . </p>
+          <p xml:id="gd-p2c16q2-d1e204"> Si quis episcoporum in alienae ciuitatis territorio pro
+            quacumque suorum opportunitate ecclesiam edificare disponit, non presumat dedicationem,
+            que illius est, in cuiusterritorio ecclesia assurgit. Edificatori uero episcopo
+            hecgratia reseruetur, ut quos desiderat clericos in re sua ordinari, ipsos ordinet is,
+            cuius territorium est, uel si ordinatiiam sunt, ipsos habere adquiescat, et omnis
+            ecclesiae ipsiusgubernatio ad eum, in cuius ciuitatis territorio ecclesia sur-rexerit,
+            pertinebit. </p>
+
+          <p xml:id="gd-p2c16q2-d1e207"> C. IX. [II.] Basilicae nouiter conditae ad episcopum
+            pertinent , cuius conuentus constiterit esse. </p>
+          <p xml:id="gd-p2c16q2-d1e211"> Item ex Concilio Tollet ano IV., [c. 34.] S*. </p>
+          <p xml:id="gd-p2c16q2-d1e214"> Possessio territorii conuentum non adimit ideoque nouae
+            basilicae, que conditae fuerint, ad eum proculdubiopertinebunt episcopum, cuius
+            conuentus esse constiterit. </p>
+          <p xml:id="gd-p2c16q2-d1e217"> C. X. [III.] Edificatori episcopo in diocesi alterius
+            ecclesiam consecrare non licet. </p>
+          <p xml:id="gd-p2c16q2-d1e220"> Item Gregorius [lib XI. epist. 19. ad Iohannem
+            Subdiaconum]. </p>
+          <p xml:id="gd-p2c16q2-d1e223"> Lator presentium Iohannes, frater et coepiscopus noster*,
+            indicauit nobis, quod quidam Exsuperantius episcopus ausu temerario in diocesi ipsius
+            oratorium construxerit, eumque sine precepti auctoritate contra morem presumpserit
+            dedicare, missasque illic celebrare non metuit.Quam rem cum summa te celeritate ac
+            districtione conuenit emendare, nec ulterius tale aliquid attemptarepermittere. </p>
+          <p xml:id="gd-p2c16q2-d1e226"> Gratian. Quod de iure ordinandi , non possidendi
+            intelligen-dum est. His auctoritatibus facile potest perpendi , quod siue abbates siue
+            episcopi in suis castellis uel uillis ecclesias edificaue-rint , non ideo episcopo , in
+            cuius diocesi fuerint , conuentus adimitur , et ideo sacerdotes , iuxta illud Urbani et
+            Nicolai , in eis nonnisi per episcopos , cum consensu tamen et electione edificandum ,
+            ordinari possunt. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

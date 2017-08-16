@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO III.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO III.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c8q3">
+        <head xml:id="gd-p2c8q3-Hd1e103">QUESTIO III.</head>
+        <p xml:id="gd-p2c8q3-d1e106"> Quod autem symoniacus habendus non sit qui post electionem pro
+          indempnitate ecclesiae iuramentum prestitit, facile probatur. Aliud est enim ante
+          electionem iuramentum facere, uel se facturum pacisci ad hoc, ut eligatur: aliud est nulla
+          precedenti conuentione post electionem huiuscemodi iuramentum offerre.Illud ab offitio
+          tamquam munus inpensum deicit: hoc autem®consecrando nullum inpedimentum generat. De
+          priori casu scribit Pelagius^ Clero Catinensi®: </p>
+        <div xml:id="gd-p2c8q3-Dd1e109">
+          <head xml:id="gd-p2c8q3-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c8q3-Hd1e114" type="question-title"> Qui in episcopum eligitur de rebus
+            ecclesiasticis aliquam securitatem nulli facit. </head>
+          <p xml:id="gd-p2c8q3-d1e117"> Talia quidem iamdudum ad fratrem et coepiscopum nostrum
+            Eucarpum de uisitatione Catinensis ecclesiae scriptadireximus, ut in eis iudicium
+            nostrum potuissetis agnoscere.Verumtamen, quia quosdam ibi non sana intentione,
+            sedprauis studiis dissensiones suscitare uestra etiam relationecognouimus, qui scientes
+            se ad episcopatum nec etate, necscientia, nec uitae meritis posse perduci, ad hoc
+            tantummodo inquietare ecclesiam uolunt, ut sibi de his, que exipsa presumpta sunt,
+            inpunitatem futurus promittat episcopus, et fiat rapinae securitas, episcopatus ambicio:
+            hecetiam uos duximus conmonendos, ut decretum in Elpi-dium diaconum factum, et
+            subscriptum ab omnibus, quos uestra relatio designauit, ad nos cum predicti uisitatoris </p>
+
+
+
+
+          <p xml:id="gd-p2c8q3-d1e120"> epistola, et cum eodem diacono maturetis Deo propitiante
+            perducere. Et post pauca: Cum hic filius noster, uirmagnificus, Leo pretor uenisset,
+            retulit nobis de singulis, que illic mota sunt, et quomodo prope uota totius ciuitatisin
+            Elpidio diacone concordarent. Unde, quia de memoratiuiri testimonio dubitare omnino non
+            possumus, idcirco, Elpidium sicut dictum est, diaconem ad nos facite properare, nec
+            expectetis ulterius, ut ammonitio ad eum debeatnostra destinari. Quem tamen per uestram
+            dilectionempresenti iussione specialiter ammonemus, ne cui sealiquid dare uel daturum
+            esse promittat, sed neque de ecclesiasticis preteritis causis aliquam securitatem
+            cuiquamfacere audeat siue promittere, aut quasi factus episcopusea, aue direpta sunt
+            &amp;, permanere libere patiatur, sciens, quod si tale aliquid fecerit uel fecit, nec a
+            nobis omninopermittitur ipsa ualere promissio, et cum iudicii nostri, quod de ipso
+            habuimus, aampno pastoralis consecrationisordinem promereri non poterit. </p>
+          <p xml:id="gd-p2c8q3-d1e123"> Gratian. De secundo Uero casu in gestis Urbani II. legitur :
+          </p>
+        </div>
+        <div xml:id="gd-p2c8q3-Dd1e127">
+          <head xml:id="gd-p2c8q3-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c8q3-Hd1e132" type="question-title"> Post electionem pro indempnitate
+            ecclesiae licet electo iuramentum prestare.</head>
+          <p xml:id="gd-p2c8q3-d1e135"> Artaldus Arelatensis* episcopus, Narbonensis ecclesiae
+            suffraganeus, Romam consecrandus ad dominum Papam Urbanum uenit; suus quippe
+            archiepiscopus eum consecrarenolebat, quoniam post electionem suam propter bona
+            ecclesiae conseruanda canonicis iurauit. Consecratus itaqueest a domino Papa Urbano,
+            ante purgatus huiusmodi iuramento: , , De iuramento, quod canonicis feci nostrae
+            ecclesiae post electionem, nullam conuentionem ante ut eligererfeci. Narbonensis uero
+            archiepiscopus nullius preter idcriminis causa consecrationem nostram omisit, mesciente,
+            neque michi criminis conscius sum, propter quod asacerdotio me repellat.“ </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO VII. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO VII. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15q7">
+        <head xml:id="gd-p2c15q7-Hd1e103"> QUESTIO VII. </head>
+
+        <p xml:id="gd-p2c15q7-d1e106"> I. Pars. Absque sinodali uero audientia sacerdotem dam-pnari,
+          in S palen si Concilio, cui Ysi do rus interfuit, [cap. 6.] sic prohibetur : </p>
+        <div xml:id="gd-p2c15q7-Dd1e109">
+          <head xml:id="gd-p2c15q7-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c15q7-Hd1e114" type="question-title"> Sine concilii examine* presbiter
+            uel diaconus non deiciatur.</head>
+          <p xml:id="gd-p2c15q7-d1e117"> Sexta actione conperimus, Fragitanum Cordubensis ecclesiae
+            presbiterum iniuste olim a pontifice suo deiectum, et innocentem exilio condempnatum.
+            Quem rursus ordinisuo restitutum esse*, id denuo aduersus presumptionem </p>
+
+
+
+
+          <p xml:id="gd-p2c15q7-d1e120"> uestram** decreuimus, ut iuxta sanctorum Patrum sino-dalem
+            sententiam nullus uestrum sine concilii examinequemlibet presbiterum uel diaconum
+            deiciendum putet s. Nam multi sunt, qui indiscussos potestate tiran-nica, non
+            auctoritate canonica dampnant. Et sicut nonnullos gratia fauoris sublimant, ita quosdam
+            odio inuidia-que humiliant, et leui opinionis aura condempnantquorum crimen non
+            approbant. Episcopus enim sacerdotibus ac ministris solus honorem dare potest,
+            solusauferre non potest. Si enim hi, qui in hoc seculo adominis suis honorem adepti sunt
+            libertatis, in seruitutisnexum non reuoluuntur, nisi publice apud pretores tribunali
+            foro accusati fuerint, quanto magis hii, qui diuinisaltaribus consecrati honore
+            ecclesiastico decorantur? Quiprofecto nec ab uno dampnari, nec uno iudicante poterunt
+            honoris sui priuilegio exui, sed, presentati sinodaliiudicio, quod omnino de illis canon
+            preceperit oportet? diffiniri. </p>
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e124">
+          <head xml:id="gd-p2c15q7-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c15q7-Hd1e129" type="question-title"> Causas clericorum episcopus non
+            nisi cum senioribus ecclesiae audiat.</head>
+          <p xml:id="gd-p2c15q7-d1e132"> Item Gregorius I ob an ni Episcopo Panormitano, </p>
+          <p xml:id="gd-p2c15q7-d1e135"> [lib. XI. epist. 49.] </p>
+          <p xml:id="gd-p2c15q7-d1e138"> Si quid igitur de quocumque clerico ad aures tuas
+            peruenerit, quod te iuste possit offendere, facile non credas, nec te ad uindictam res
+            accendat incognita, sed presentibus ecclesiae tuae senioribus diligenter est
+            perscrutandaueritas, et tunc, si qualitas rei poposcerit, canonica districtioculpam
+            feriat delinquentis. </p>
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e142">
+          <head xml:id="gd-p2c15q7-Hd1e144">C. III</head>
+          <head xml:id="gd-p2c15q7-Hd1e147" type="question-title"> A quot episcopis presbiteri uel
+            diaconi sunt audiendi.</head>
+          <p xml:id="gd-p2c15q7-d1e150"> Item ex Concilio Cartaginensi^* I., [ c. 11.] </p>
+          <p xml:id="gd-p2c15q7-d1e153"> Si quis tumidus uel contumeliosus extiterit in maiorem
+            natu, uel aliquam causam habuerit, a tribus uicinis episcopis, si diaconus est**, qui
+            arguitur, si presbiter est, asex, si episcopus, a duodecim consacerdotibus
+            audiatur.Uniuersi episcopi dixerunt: Contundi debet contumaciaet superbia in omnibus
+            frangi. Causae uero pro personisab his statuto numero audiantur. </p>
+
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e158">
+          <head xml:id="gd-p2c15q7-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c15q7-Hd1e163" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c15q7-d1e166"> Item ex Concilio Cartaginensi II., [c. 10.]Felix episcopus
+            Selemselitanus dixit: Etiam hocadicio secundum statuta ueterum conciliorum, ut, si
+            quisepiscopus (quod non optamus) fieri reatum aliquemincurrerit, et si fuerit ei nimia
+            necessitas non posse plurimos congregare episcopos, ne in crimine maneat, aduodecim
+            episcopis audiatur, et a sex presbiter*, et atribus diaconus, cum proprio suo episcopo.
+          </p>
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e170">
+          <head xml:id="gd-p2c15q7-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c15q7-Hd1e175" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c15q7-d1e178"> Item ex Concilio Cartaginensi III., [c. 8.]Si autem
+            presbiteri uel diaconi fuerint accusati, adiunctosibi ex uicinis locis proprius
+            episcopus legitimo numerocollegarum, quos ab eodem accusati petierint, id estuna secum
+            in presbiteri nomine sex*, in diaconi tres, qui ipsorum causas discutiant eadem dierum
+            etdilatione, et a communione remotionum, et discussionecausarum, inter accusatores et
+            eos, qui accusantur, formaseruata. Reliquorum uero clericorum causas etiamsolus
+            episcopus loci agnoscat et finiat. </p>
+          <p xml:id="gd-p2c15q7-d1e181"> II. Pars. Gratian. Solus autem ad exclusionem aliorum
+            episcoporum, non suorum clericorum dicitur, sine quorum pre-sentia eius sententia irrita
+            erit. </p>
+          <p xml:id="gd-p2c15q7-d1e184"> Unde in Cartaginensi Concilio IV. [c. 23.] legitur . </p>
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e188">
+          <head xml:id="gd-p2c15q7-Hd1e190">C. VI</head>
+          <head xml:id="gd-p2c15q7-Hd1e193" type="question-title"> Absque clericorum presentia
+            episcopus nullius causam audiat.</head>
+          <p xml:id="gd-p2c15q7-d1e196"> Episcopus nullius causam audiat absque presentia suorum
+            clericorum; alioquin irrita erit sententia episcopi, nisi presentia clericorum firmetur.
+          </p>
+        </div>
+        <div xml:id="gd-p2c15q7-Dd1e200">
+          <head xml:id="gd-p2c15q7-Hd1e202">C. VII</head>
+          <head xml:id="gd-p2c15q7-Hd1e205" type="question-title"> Nisi in Sinodo canonice uocati
+            sacerdotes dampnari non possunt. </head>
+          <p xml:id="gd-p2c15q7-d1e208"> Item ex Concilio S palen si II. [c. 6.] Episcopus
+            sacerdotibus ac ministris solus honorem darepotest, sed solus auferre non potest. Si
+            enim hii, qui inseculo a dominis suis honorem libertatis adepti sunt, inseruitutis iugum
+            non reuoluuntur, nisi publice apud pretores ac presides tribunali foro fuerint accusati,
+            quanto </p>
+
+
+
+
+          <p xml:id="gd-p2c15q7-d1e211"> magis hii, qui diuinis altaribus consecrati, honore
+            ecclesiastico decorantur? Qui profecto nec ab uno dampnari, nec uno iudicante poterunt
+            honoris sui priuilegiis exui, sedpresentati sinodali iudicio, quid canon de illis
+            pre-ceperit diffiniri. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

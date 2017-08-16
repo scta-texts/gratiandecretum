@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q2">
+        <head xml:id="gd-p2c1q2-Hd1e103">QUESTIO II</head>
+        <p xml:id="gd-p2c1q2-d1e106"> I. Pars. Sequitur secunda questio , qua queritur , an pro
+          ingressu monasterii pecunia sit exigenda , uel exacta persoluendasHoc utrumque licite
+          fieri , utriusque testamenti serie conprobatur.Legitur enim in primo libro Legum , quod
+          Anna detulit secumSamuelem , postquam ablactatus fuerat , in tribus uitulis , et
+          tribusmodiis farinae , et amphora uini ad domum Dei* in Sylo. §. 1. In Actibus uero
+          apostolorum legitur , quod „multitudinis credentium erat cor unum et anima unaf nec
+          aliquid eorum , que possidebant , quisquam proprium esse dicebat ; sed erant illis
+          omniacommunia. Singuli° uendebant predia sua, et ponebant preciaeorum ante pedes
+          apostolorum, quorum unus, nomine Ananias , dum partem sibi reseruaret, cum uxore sua
+          Sapphira, sententia maledictionis accepta, ante pedes apostoli cecidit mortuus. §. 2. Hinc
+          liquido aparet, ingressuri monasterium sua de </p>
+        <p xml:id="gd-p2c1q2-d1e109"> bent offerre rectoribus, nec aliter sunt recipiendi, nm sna
+          ofon- lerint. Sed aliud est sua sponte offerre, aliud exacta persoluere. Anna mater
+          Samuelis non exacta neque petita, sponte munera </p>
+        <p xml:id="gd-p2c1q2-d1e112"> sacerdotibus obtulit. Credentes sua sponte offerebant
+          apostolis, ntf indigentium necessitatibus deseruirent, que instante persecutione
+          infidelium eis possidere non licebat. Ananias quoque nonideo dampnatus est, quia sua
+          nollet offerre, sed gma, Spirituisancto mentitus, precia eorum, ^ne apostolis obtulerat,
+          e# partefraudabat. Non ergo his auctoritatibus permittitur rectoribus abingressuris
+          aliquid exigere, sed sponte oblata suscipere, quia illuddampnabile est, Aoe nero minime. </p>
+        <p xml:id="gd-p2c1q2-d1e115"> Unde in Bracarensi Concilio II. [cap. 5.] legitur: </p>
+        <div xml:id="gd-p2c1q2-Dd1e119">
+          <head xml:id="gd-p2c1q2-Hd1e121">C. I. </head>
+          <head xml:id="gd-p2c1q2-Hd1e124" type="question-title">Pro dedicandis ecclesiis nichil
+            exigatur</head> . <p xml:id="gd-p2c1q2-d1e127"> Placuit, ut, quociens ab aliquo fidelium
+            ad consecrandas ecclesias episcopi inuitantur, non quasi ex debito munus aliquod a
+            fundatore requirant; sed si ipse quidem aliquid ex suo uoto obtulerit, non respuatur, si
+            uero autpaupertas illum, aut necessitas retinet, nichil exigatur abillo. Hoc tamen
+            unusquisque episcoporum meminerit, ut non prius dedicet ecclesiam, nisi ante dotem
+            basilicaeet obsequium ipsius per donationem cartulae confirmatum accipiat. Nam non leuis
+            est ista temeritas, utsine luminariis uel sine substantiali sustentatione eorum, qui
+            ibidem seruituri sunt, tamquam domus priuata consecretur ecclesia. </p>
+          <p xml:id="gd-p2c1q2-d1e130"> Item Bonifacius urbis Romae Episcopus scribit uniuersis
+            Caralitanae ecclesiae cenobitis : </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e134">
+          <head xml:id="gd-p2c1q2-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c1q2-Hd1e139" type="question-title"> Ab A«s, qui ad conuersionem
+            accedunt, nichil est exigendum, nec precio aliquis ad conuersionem est inudandus*. </head>
+          <p xml:id="gd-p2c1q2-d1e142"> Quam pio mentis affectu, fratres karissimi, uestrae
+            destitutioni Romana conpatiatur ecclesia, uobis fortassis incognitum, sed cognitori
+            omnium non incognitum habetur. Dubitationi autem uestrae quod idoneum demus responsum,
+            Deum testificor, ipsa quoque me dubitatio reddit anxium etineptum. Numquam enim legimus
+            Domini discipulosuel eorum ministerio conuersos quempiam ad Dei cultumaliquo muneris
+            interuentu prouocasse, nisi forte de pauperum alimento quis inconcinne proponat, quorum
+            nulli, cuiuscumque professionis esset, uictualia negabantur. Scimus equidem, quod „omne
+            datum optimum, et omne donum perfectum desursum est, “ a quo bonae uoluntatisdonum
+            accipit qui sancto deliberationis arbitrio gratis Deoseruire disponit. Restat ergo, ut
+            qui pro aliqua ecclesiaesusceptione munus accipit, Dei donum, quod a patre luminum
+            descendere debuit, uendat; munus autem largiens in-portunus emat. Quid autem de diuini
+            doni uenditoribus uelemptoribus consequatur, concludi necesse non est. §. 1.Cauete ergo,
+            fratres, quam sit ambiguum quod petistis consilium, quod quidem secundum uestrae
+            uoluntatis propositum nulla inuenimus ratione confirmatum. Verumtamen, siuestrae
+            necessitati adeo est oportunus quem reperistis, dumtamen omnis absit pactio, omnis
+            cesset conuentio, nullaqueuestrae ecclesiae fiat distractio, accedat, gratis Deo
+            seruireincipiat, suique regiminis deuote gestet obsequium ac°g, postmodum uos, quasi
+            subsidii gratia, aliqua suae ecclesiaemunera largiri fratrum solatio Romana permittit
+            ecclesia.[Unde Urbanus Papa in Concilio apud Melfiam, c. 12.: </p>
+          <p xml:id="gd-p2c1q2-d1e145"> PALE A*. </p>
+          <p xml:id="gd-p2c1q2-d1e148"> C. III. De eodem. </p>
+          <p xml:id="gd-p2c1q2-d1e152"> Nullus abbas precium sumere uel exigere ab eis, qui ad
+            conuersionem ueniunt, aliqua pacti occasione presumat. Regulam antiquam sequens, nulli
+            umquam deordinationibus aliquid omnino accipiendum esse constituo, neque ex datione
+            pallii, neque ex traditione cartarum, neque ex ea, quam noua per ambitionem simulatio
+            inuenit, appellatione pastelli. Quia enim** ordinando episcopo </p>
+
+
+
+
+          <p xml:id="gd-p2c1q2-d1e155"> Pontifex manum inponit, euangelicam lectionem minister
+            legit, confirmationis autem eius epistolam notarius scribit.] </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e159">
+          <head xml:id="gd-p2c1q2-Hd1e161">C. IV</head>
+          <head xml:id="gd-p2c1q2-Hd1e164" type="question-title"> Ab ordinato non debet aliquid
+            exigi, sed nec uoluntarie oblata respui oportet. </head>
+          <p xml:id="gd-p2c1q2-d1e167"> Item Gregorius in Registro^ [lib. IV. epist. 44. siue cap.
+            88. in Sinodo Romae habita.] </p>
+          <p xml:id="gd-p2c1q2-d1e170"> Sicut episcopum non decet manum, quam inponit, uendere, ita
+            minister uel notarius non debet in ordinatione eius uocem suam uel calamum uenundare. §.
+            i. Is autem, qui ordinatus fuerit, si non ex placito, neque exactusac petitus, post
+            acceptas cartas et pallium offerre aliquid cuilibet ex clero gratiae tantummodo causa
+            uoluerit, hoc accipi nullo modo prohibemus, quia eius oblatio nullamculpae maculam
+            ingerit que non ex ambientis petitioneprocessit. </p>
+          <p xml:id="gd-p2c1q2-d1e173"> Gratian. Auctoritate Bonifacii patenter ostenditur, quod,
+            sicut nullus precio est inuitandus ad conuersionem, ita nulli pecuniae interuentu
+            ecclesiae largiri oportet ingressum. Auctoritateuero Gregorii datur intelligi, quod pro
+            ingressu ecclesiae non licetpecuniam exigere, sed spontanee oblatam suscipere licet. </p>
+          <p xml:id="gd-p2c1q2-d1e177"> II. Pars. Item opponitur illud Apostoli [1.] ad Timotheum,
+            [cap. 5. u. 2.] </p>
+          <p xml:id="gd-p2c1q2-d1e180"> [C. V.]* </p>
+          <p xml:id="gd-p2c1q2-d1e183"> „ Viduas honora, que uere uiduae sunt. Que autem non sunt
+            uere uiduae, id est que suis uel parentum opibus sustentari possunt, non recipiantur, ut
+            ecclesia sufficiat his que uere uiduae sunt. </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e187">
+          <head xml:id="gd-p2c1q2-Hd1e189">C. VI</head>
+          <head xml:id="gd-p2c1q2-Hd1e192" type="question-title"> Qui sumptibus propriis sustentari
+            possunt, ab ecclesia stipendia non accipiant . </head>
+          <p xml:id="gd-p2c1q2-d1e195"> Item Ieronimus ad Damasum Papam *. </p>
+          <p xml:id="gd-p2c1q2-d1e198"> Clericos autem illos conuenit ecclesiae stipendiis
+            sustentari, quibus parentum et propinquorum nulla suffragantur». Qui autem bonis
+            parentum et opibus sustentari possunt, si quod pauperum est accipiunt, sacrilegium
+            profecto committunt, et per abusionem talium iudicium sibi manducantet bibunt. </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e202">
+          <head xml:id="gd-p2c1q2-Hd1e204">C. VII</head>
+          <head xml:id="gd-p2c1q2-Hd1e207" type="question-title"> Quibus sua sufficiunt alimentis
+            ecclesiae non sustententur.</head>
+          <p xml:id="gd-p2c1q2-d1e210"> Item Prosper in libro de contemplatiua uita, cap. X </p>
+          <p xml:id="gd-p2c1q2-d1e213"> Pastor ecclesiae his, quibus sua sufficiunt, non debet
+            aliquid erogare, quando nichil aliud sit habentibus darequam perdere. Nec illi, qui sua
+            possidentes sibi dari aliquiduolunt, sine grandi suo peccato unde pauper uicturus
+            erataccipiunt. De clericis quidem Spiritus sanctus dicit:„Peccata populi mei comedunt.“
+            Sed sicut nichil habentesproprium, non peccata, sed alimenta, quibus indigereuidentur,
+            accipiunt, ita possessores non alimenta, quibushabundant, sed aliena peccata suscipiunt. </p>
+
+          <p xml:id="gd-p2c1q2-d1e216"> Gratian. Verum his auctoritatibus prohibentur ab ecclesia
+            suscipi non illi , qui quomdam fuerunt diuites, eZ omnia™ reliquerunt, ut Petrus et
+            Mattheus et Paulus , aut pauperibusdistribuerunt, ut Zacheus, aut ecclesiae rebus
+            adiunxerunt, sicutilli, qui predia sua uendentes ponebant precia ante pedes apostolorum,
+            ut essent illis omnia communia: sed illi, qui in domibusparentum residentes uel sua
+            relinquere nolentes ecclesiasticisfacultatibus pasci desiderant. </p>
+          <p xml:id="gd-p2c1q2-d1e220"> De quibus in eodem libro Prosperi, [c. 10.] subinfertur .
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e224">
+          <head xml:id="gd-p2c1q2-Hd1e226">C. VIII</head>
+          <head xml:id="gd-p2c1q2-Hd1e229" type="question-title"> Qui sua relinquere non uult
+            sumptibus ecclessiae sustentari non debet.</head>
+          <p xml:id="gd-p2c1q2-d1e232"> Si quis propter hoc non uult sua relinquere, ut habeat unde
+            uiuat, ut quid accipit, unde rationem reddat? ut quidpeccatis alienis sua multiplicat?
+            Idem : §. 1. Non estmeum dicere, quale peccatum cibos pauperum pre-sumendo suscipiant;
+            qui ecclesiam, quam iuuare depropriis facultatibus debuerant, suis expensis
+            insupergrauant, propter hoc fortassis in congregatione uiuentes, ne aliquos pauperes
+            pascant, ne aduenientes excipiant, autne suum censum cottidianis expensis inminuant.
+            §.2. Quodsi aliquid de fructibus suis ecclesiae uelud pro ipsa suaei-pensa contulerint,
+            non se preferant inani iactantia illis, quosnichil habentes pascit et uestit ecclesia,
+            quia perfectiorest ille, qui se mundi rebus expoliat, aut qui, cum nichilhabuerit, nec
+            habere desiderat, quam ille, qui ex multis, quepossidet, ecclesiae aliquid prestiterit,
+            ac se de eo, quodprestiterit, forsitan iactat. </p>
+          <p xml:id="gd-p2c1q2-d1e235"> Gratian. Ecce, qui prohibentur suscipi ab ecclesia. Illi
+            uero, qui omnia sua relinquunt, uel pauperibus distribuunt, uelecclesiae rebus
+            adiungunt, et ab ecclesia laudabiliter sunt suscipiendi, et eius opibus sustentandi. </p>
+          <p xml:id="gd-p2c1q2-d1e238"> Unde in eodem libro, [cap. 11.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e243">
+          <head xml:id="gd-p2c1q2-Hd1e245">C. IX</head>
+          <head xml:id="gd-p2c1q2-Hd1e248" type="question-title"> Qui sua relinquunt , uel
+            pauperibus distribuunt, uel ecclesiae rebus adiungunt, laudabiliter ecclesiastica
+            dispensant. </head>
+          <p xml:id="gd-p2c1q2-d1e251"> Sacerdos, cui dispensationis cura commissa est, non solum
+            sine cupiditate, sed etiam cum laude pietatis accipita populo dispensanda, et fideliter
+            dispensat accepta, quiaomnia sua aut parentibus* reliquit, aut pauperibus distribuit,
+            aut ecclesiae rebus adiunxit, et se in numero pauperumpaupertatis amore constituit, ut
+            unde pauperibus subministrat, inde et ipse tamquam pauper uoluntarius uiuat.Clerici
+            quoque, quos pauperes natiuitas fecit, cum perfectione uirtutis uitae necessaria siue in
+            domibus suis, siuein congregatione uiuentes accipiant, quia ad ea accipienda non eos
+            cupiditas ducit, sed uiuendi necessitas cogit. §. i. De talibus uidetur dicere
+            Apostolus:, , Qui in sacrario operantur que de sacrario sunt edunt, etqui altario
+            deseruiunt cum altario participantur “.Qui, nisi hoc de contemptoribus facultatum suarum
+            uelletintelligi, numquam secutus adiungeret: „Ita et Deus ordina-uit his, qui euangelium
+            annunciant, de euangelio uiuere.“De euangelio uiuunt qui nichil habere proprium
+            uolunt;qui nec habent, nec habere aliquid concupiscunt, non suorum, sed communium
+            possessores. Quid est aliud de euangelio </p>
+
+
+
+
+          <p xml:id="gd-p2c1q2-d1e254"> uiuere, nisi laborantem inde, ubi laborat, necessaria uitae
+            percipere? Apostolus tamen, qui sic euangelium predicant, ut s necessaria sibi suis
+            manibus ministraret, dese confidenter loquitur: , , Ego autem nullo horum usussum.“ Et
+            quare dixerit ', secutusaperuit, dicens: „Expedit mihi magis mori quam ut gloriam meam
+            quis euacuet.“Euacuari dicit gloriam suam, si ab eis, quibus predicabat, uoluisset
+            accipere uitae temporalis expensam. Nolebatquippe in presenti sui laboris fructum, sed
+            in futuro recipere. </p>
+        </div>
+        <div xml:id="gd-p2c1q2-Dd1e258">
+          <head xml:id="gd-p2c1q2-Hd1e260">C. X</head>
+          <head xml:id="gd-p2c1q2-Hd1e263" type="question-title"> Iuxta meritum laboris sacerdotes
+            clericis ecclesiastica stipendia distribuant. </head>
+          <p xml:id="gd-p2c1q2-d1e266"> Item ex Concilio Agat en si, [c. 36.] </p>
+          <p xml:id="gd-p2c1q2-d1e269"> Clerici omnes, qui ecclesiae fideliter uigilanterque
+            deseruiunt, stipendia sanctis laboribus debita secundumseruitii sui meritum per
+            ordinationem canonum a sacerdotibus consequantur. </p>
+          <p xml:id="gd-p2c1q2-d1e272"> Gratian. Multorum * auctoritatibus luce clarius constat,
+            quod ab ingressuris monasterium non licet pecuniam exigere, neet ille, qui exigit , et
+            ille, qui soluit, symoniae crimen incurrat. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

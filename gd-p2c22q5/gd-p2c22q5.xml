@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO V. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO V. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c22q5">
+        <head xml:id="gd-p2c22q5-Hd1e103"> QUESTIO V. </head>
+
+        <p xml:id="gd-p2c22q5-d1e106"> I. Pars. Quod autem quinto loco queritur, si licitum esset
+          quod archidiaconi iurauerat, an episcopus esset reus periurii , </p>
+
+
+
+
+        <p xml:id="gd-p2c22q5-d1e109"> qui ad peierandum archidiaconum cogebat? facile potest
+          discerni. Si enim consentiens pari pena cum faciente puniendus est , multomagis ille , qui
+          cogit , reus admissi criminis probatur. Unde PiusPapa ait *: </p>
+        <div xml:id="gd-p2c22q5-Dd1e112">
+          <head xml:id="gd-p2c22q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c22q5-Hd1e117" type="question-title"> Qui peierare conpellit , et qui
+            conpellitur, periurus uter que habetur . </head>
+          <p xml:id="gd-p2c22q5-d1e120"> Qui conpulsus a domino sciens periurat, utrique
+            suntperiuri, et dominus, et miles: dominus, quia precepit; miles, quia plus dominum quam
+            animam dilexit. Si liber est, quadraginta dies in pane et aqua peniteat, et septem
+            sequentes annos; si seruus eiusdem, tres quadragesimas et legitimas ferias peniteat.
+          </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e124">
+          <head xml:id="gd-p2c22q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c22q5-Hd1e129" type="question-title"> Penitencia eius , qui in manu
+            episcopi aut in cruce consecrataperiurat*. </head>
+          <p xml:id="gd-p2c22q5-d1e132"> Item . </p>
+          <p xml:id="gd-p2c22q5-d1e135"> Qui periurat se in manu episcopi, aut in cruce consecrata,
+            tres annos peniteat; si uero in cruce non consecrata, annum unum peniteat. Qui autem
+            coactus fuerit, et ignorans se periurauerit, et post cognoscit, tres quadragesimas
+            peniteat. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e140">
+          <head xml:id="gd-p2c22q5-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c22q5-Hd1e145" type="question-title"> Qua pena sit feriendus qui
+            necessitate coactus periurat.</head>
+          <p xml:id="gd-p2c22q5-d1e148"> Item ex Penitenciali Theodori . </p>
+          <p xml:id="gd-p2c22q5-d1e151"> Si quis coactus pro uita redimenda, uel pro qualibet causa
+            uel necessitate periurat, quia plus corpus quamanimam dilexit, tres quadragesimas
+            peniteat. Aliiiudicant tres annos, unum ex his in pane et aqua. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e155">
+          <head xml:id="gd-p2c22q5-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c22q5-Hd1e160" type="question-title"> Qui deierat , et alios deierare
+            facit , qua pena sit feriendus. </head>
+          <p xml:id="gd-p2c22q5-d1e163"> Item Gei as iu s Papa*. </p>
+          <p xml:id="gd-p2c22q5-d1e166"> Si quis se periurauerit, et alios sciens in periurium
+            duxerit, quadraginta dies peniteat in pane et aqua, et septem sequentes annos, et
+            numquam sit sine penitencia.Et alii, si conscii fuerint, similiter peniteant. * </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e170">
+          <head xml:id="gd-p2c22q5-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c22q5-Hd1e175" type="question-title"> Homicidam uincit qui sciens ad
+            periurium conpellit . </head>
+          <p xml:id="gd-p2c22q5-d1e178"> Item Augustinus in sermone de decollatione S. Iohannis , </p>
+          <p xml:id="gd-p2c22q5-d1e181"> [id est serm. XI* de sanctis]. </p>
+          <p xml:id="gd-p2c22q5-d1e184"> Ille, qui hominem prouocat ad iurationem, et scit, eum
+            falsum esse iuraturum, uincit homicidam, quia homicida corpus occisurus est, ille
+            animam, immo duas animas, eteius, quem iurare prouocauit, et suam. Scis, uerum essequod
+            dicis, et falsum quod ille dicit, et iurare conpellis? </p>
+
+          <p xml:id="gd-p2c22q5-d1e188"> Ecce iurat, ecce periurat. Tu quid inuenisti? immo et tu
+            peristi, qui de illius morte saciari uoluisti. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e192">
+          <head xml:id="gd-p2c22q5-Hd1e194">C. VI</head>
+          <head xml:id="gd-p2c22q5-Hd1e197" type="question-title"> Non peccat qui iuramentum exigit
+            ab eo, quem nescit falsum iurare.</head>
+          <p xml:id="gd-p2c22q5-d1e200"> Idem in sermone de periuriis , [id est in sermone de uerbis
+            Apostoli, XXX. ad XXVIII.] </p>
+          <p xml:id="gd-p2c22q5-d1e203"> Qui exigit iurationem, multum interest, si nescit illum
+            iuraturum falsum, an scit. Si enim nescit, et ideo dicit:Iuramichi, ut fides ei sit, non
+            est peccatum*: tamenhumana temptatio est. Si autem scit, eum fecisse, etcogit eum
+            iurare, homicida est. Ille enim se suo periuriointerimit: sed iste manum interficientis
+            et inpressit, et pressit. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e207">
+          <head xml:id="gd-p2c22q5-Hd1e209">C. VII</head>
+          <head xml:id="gd-p2c22q5-Hd1e212" type="question-title"> Usque ad exitum uitae non
+            conmunicet qui ad periuria alios trahit.</head>
+          <p xml:id="gd-p2c22q5-d1e215"> Item ex Concilio Maticensi [ I. c. 17.] </p>
+          <p xml:id="gd-p2c22q5-d1e218"> Si quis conuictus fuerit alios ad falsa* testimonia uel
+            periuria adtraxisse, uel quacumque corruptione sollicitasse, ipse quidem usque ad exitum
+            uitae non conmunicet; hii uero, qui ei in periurio consensisse probantur, postea ab omni
+            testimonio sunt remouendi, et secundumlegem infamia notabuntur. </p>
+          <p xml:id="gd-p2c22q5-d1e221"> II. Pars. Gratian. Item , qui audit aliquem falsum iurare ,
+            et tacet , delinquit. </p>
+          <p xml:id="gd-p2c22q5-d1e225"> Unde Augustinus ait in questionibus Leuitici c. 1.: „
+            Anima, que audierit uocem iurantis falsum , efc.: </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e229">
+          <head xml:id="gd-p2c22q5-Hd1e231">C. VIII</head>
+          <head xml:id="gd-p2c22q5-Hd1e234" type="question-title"> Cui sit indicandum falsum , quod
+            ab aliquo iuratur. </head>
+          <p xml:id="gd-p2c22q5-d1e237"> Hoc uidetur dicere, peccare hominem, quo audiente iurat
+            aliquis falsum, et scit, eum falsum iurare, et tacet.Tunc autem scit, si eius rei, de
+            qua iuratur, testis fuit, aut uidens, aut conscius fuit, id est aliquo modo cogno-uit,
+            aut oculis suis conspexit, aut ille ipse, qui iurat, illiindicauit. Ita enim potuit esse
+            conscius. §. 1. Sed intertimorem huius peccati, et timorem proditionis hominumnon parua
+            existit plerumque temptatio. Possumus enimparatum ad periurium admonendo uel prohibendo
+            a tamgraui peccato reuocare; sed si non audierit, et coram nobisde re, quam nouimus,
+            falsum iurauerit, utrum prodendus sit, ita ut proditus etiam periculum mortis incurrat,
+            difficillima questio est. Sed quia hic non expressit, cui hocindicandum sit, utrum illi,
+            cui iuratur, an sacerdoti cuipiam, qui non solum eum persequi non potest
+            irrogandosupplicium, sed etiam orare pro illo potest: uidetur michi, </p>
+
+
+
+
+          <p xml:id="gd-p2c22q5-d1e240"> quod ses soluat ab hoc peccati uinculo, si indicet talibus,
+            qui magis possunt prodesse quam obesse periuro, siue eum corrigendo*, siue Deum pro eo
+            placando, siet ipse confessionis sibi adhibeat medicinam. </p>
+          <p xml:id="gd-p2c22q5-d1e243"> Gratian. Si ergo iste, ut supra dictum est, qui audit
+            falsum iurare, et tacet, delinquit , multo magis ille reus est, qui ad deierandum
+            aliquem conpellit. </p>
+          <p xml:id="gd-p2c22q5-d1e247"> III. Pars* §. i. Queritur de eo, qui uerborum calliditate
+            se circumuenire putat illum, cui iuramentum defert °, an sit reusperiurii, nisi
+            seruauerit quod iurasse creditur. </p>
+          <p xml:id="gd-p2c22q5-d1e250"> De hoc ita scribit Ysidorus Sentenciarum lib. II., [c.
+            31-]: </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e255">
+          <head xml:id="gd-p2c22q5-Hd1e257">C. IX</head>
+          <head xml:id="gd-p2c22q5-Hd1e260" type="question-title"> De eo, qui calliditate uerborum
+            iurat.</head>
+          <p xml:id="gd-p2c22q5-d1e263"> Quacumque arte uerborum quis iuret, Deus tamen, qui
+            conscientiae testis est, ita hoc accipit, sicut ille, cuiiuratur, intelligit. Dupliciter
+            autem reus fit, qui etnomen Dei in uanum assumit, et proximum dolo capit. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e267">
+          <head xml:id="gd-p2c22q5-Hd1e269">C. X</head>
+          <head xml:id="gd-p2c22q5-Hd1e272" type="question-title"> Periurus est qui super lapidem
+            falsum iurat.</head>
+          <p xml:id="gd-p2c22q5-d1e275"> Item ex sermone S. Augustini [XXX. de uerbis Apostoli]. </p>
+          <p xml:id="gd-p2c22q5-d1e278"> Ecce, karitati uestrae dico, et qui per lapidem iurat
+            falsum periurus est. Unde hoc dico? quia multi et inhoc falluntur, et putant, quia
+            nichil est per quod iurant, non se crimine teneri periurii. Prorsus periurus es",
+            quiaper id, quod sanctum non putas*, falsum iuras. Si tu illud**sanctum non putas,
+            sanctum putat***, cui iuras. Nonenim quando, iuras, tibi aut lapidi, sed proximoiuras.
+            Homini iuras ante lapidem, sed numquid non anteDeum? Non te audit lapis loquentem, sed
+            punit Deus tefallentem. </p>
+          <p xml:id="gd-p2c22q5-d1e281"> Sed obicitur illud Gregorii in XXVI. libro Moralium, </p>
+          <p xml:id="gd-p2c22q5-d1e285"> [. yJ 104 a • </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e289">
+          <head xml:id="gd-p2c22q5-Hd1e291">C. XI</head>
+          <head xml:id="gd-p2c22q5-Hd1e294" type="question-title"> Apud Deum uerba nostra non ex
+            ore, sed ex corde procedunt . </head>
+          <p xml:id="gd-p2c22q5-d1e297"> Humanae aures talia uerba nostra iudicant, qualia foris
+            sonant. Diuina uero iudicia talia foris audiunt, qualiaex intimis proferuntur. §. 1.
+            Certe nouerit ille, quiintentionem et uoluntatem alterius uariis uerbis explicat, quia
+            non debet aliquis uerba considerare, sed uoluntatemet intentionem, quia non debet
+            intentio uerbis deseruire, seduerba intentioni. </p>
+
+          <p xml:id="gd-p2c22q5-d1e300"> Gratian. Si ergo diuina iudicia uerba nostra talia foris
+            audiunt , qualia ex intimis proferuntur, si intentio non debet deseruire uerbis, sed
+            uerba intentioni: patet, quod Deus nonsic accipit iuramentum, sicut ille, cui iuratur,
+            sed pocius sicut quiiurat intelligit, cum recipienti non ex intimis, sed ex his que
+            proferuntur foris, uerba nostra sonent . §. 1. Item obicitur, qui iuratsuper lapidem,
+            putans se iurare super sacrosanctum euangelium, perinde tenetur, ac si super euangelium
+            iurauerit, licetille, cui iurat, ideo super lapidem illum iurare fecerit, ne,
+            nonseruando quod promittit, reatu periurii teneatur s. §. 2. Itemobicitur de ciuibus,
+            qui credunt se iurare obeditur os consulibussuis in omnibus, que sibi inperata fuerint
+            pro honore suae ciuitatis; ne uero, obedientiam recusantes, reatu periurii illaqueentur,
+            supponitur breue iuraturis, in quo aliud continetur, quam se iura-turos arbitrentur,
+            uidelicet ne Padum in Nilum conuertant, uelaliquid huiusmodi faciant. Si ergo contra
+            hoc, quod se iurassecrediderant, consulibus suis obedientiam denegarent, numquidsecundum
+            intentionem recipientis , an non pocius secundumintentionem iurantis Deus iuramentum
+            illud acciperet? §. 3. Item , si innocens de adulterio uel furto inpetitus innocentiam
+            suamuellet asserere, iur aret autem se ab obiectis sic esse inmunem, sicut in breui illo
+            continetur, quod manibus suis se scripsisse arbi-.tretur, contineatur autem in illo,
+            hunc esse reum obiectorum, numquid a Domino periurus reputabitur? aut numquid
+            poteritargui, se iurasse, adulterii aut furti reatum incurrisse? Non. </p>
+          <p xml:id="gd-p2c22q5-d1e303"> Hinc et Iohannes Cr is os tomus *. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e307">
+          <head xml:id="gd-p2c22q5-Hd1e309">C. XII</head>
+          <head xml:id="gd-p2c22q5-Hd1e312" type="question-title"> Inter iuramentum et locutionem
+            fidelium nulla debet esse differentia.</head>
+          <p xml:id="gd-p2c22q5-d1e315"> Iuramenti huius causa est, quia omnis, qui iurat, ad hoc
+            iurat, ut quod uerum est loquatur. Et ideo Dominus inter iuramentum et loquelam nostram
+            nullam uult essedistantiam, quia, sicut in iuramento nullam conuenit esseperfidiam, ita
+            quoque in uerbis nostris nullum debet essemendacium, quia utrumque, et periurium et
+            mendacium, diuini iudicii pena dampnatur, dicente scriptura: „0s, quod mentitur, occidit
+            animam.“ Quisquis ergo uerumloquitur, iurat, quia scriptum est: „Testis fidelis
+            nonmentietur. “ </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e319">
+          <head xml:id="gd-p2c22q5-Hd1e321">C. XIII</head>
+          <head xml:id="gd-p2c22q5-Hd1e324" type="question-title"> Ante, quam aliquis iuret, peierat
+            , si contra conscientiam iurare parat. </head>
+          <p xml:id="gd-p2c22q5-d1e327"> IdemK </p>
+          <p xml:id="gd-p2c22q5-d1e330"> Qui periurare paratus est, ante, quam periuret, iam
+            periurus uidetur, quia Deus non ex operibus iu-dicat, sed ex cogitationibus et ex corde. </p>
+          <p xml:id="gd-p2c22q5-d1e333"> Gratian. Ex his omnibus colligitur, quod iuramenta secundum
+            intentionem prestantis, non recipientis, a Deo indicantur . Quomodo ergo, secundum
+            Ysidorum, quecumque arte uerborumquis iuret , Deus sic accipit, sicut ille, cui iuratur,
+            intelligit?Sed sicut aliud est callida arte uerborum iurare, aliud
+            simpliciterintentionem suam iurando enuntiare, sic aliud est simplici intentione
+            iuramentum factum recipere, et aliud in recipiendocalliditate uti, quia, sicut quisquam
+            apud Deum non ualet aliquemledere, sic nec preter eius intentionem ualet quis alicui
+            subuenire.Deus autem duplicitatis aspernator simplicem intentionem utriusque considerat,
+            et tam ex parte recipientis quam ex parte prestantis uerborum artem aspernatur et odit. </p>
+          <p xml:id="gd-p2c22q5-d1e337"> VI. Pars. §. 1. De etate uero iur antium queritur, qua
+            etate quisque ad iurandum debeat cogi? De quo in primo libroCapitularium [c. 63.] sic
+            inuenitur diffinitum : </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e341">
+          <head xml:id="gd-p2c22q5-Hd1e343">C. XIV</head>
+          <head xml:id="gd-p2c22q5-Hd1e346" type="question-title"> Ante annos rationabiles aliqui
+            non cogantur iurare.</head>
+          <p xml:id="gd-p2c22q5-d1e349"> Paruuli, qui sine etate rationabili sunt, non cogantur </p>
+
+
+
+
+          <p xml:id="gd-p2c22q5-d1e352"> iurare**. Et qui semel periuratus fuerit, nec testis sit
+            post hec, nec ad sacramentum accedat, nec in suacausa uel alterius iurator existat. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e357">
+          <head xml:id="gd-p2c22q5-Hd1e359">C. XV</head>
+          <head xml:id="gd-p2c22q5-Hd1e362" type="question-title"> Ante quatuordecim annos nullus
+            iurare cogatur.</head>
+          <p xml:id="gd-p2c22q5-d1e365"> Item ex Concilio Eliberitano *. </p>
+          <p xml:id="gd-p2c22q5-d1e368"> Pueri ante quatuordecim annos non cogantur iurare. Puella
+            quoque °, si in puerili etate sita in domo patris, illonesciente, se iuramento
+            constrinxerit, et pater eius, utaudierit, statim contradixerit, uota eius et iuramenta
+            irritaerunt, et facilius emendabitur. </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e372">
+          <head xml:id="gd-p2c22q5-Hd1e374">C* XVI</head>
+          <head xml:id="gd-p2c22q5-Hd1e377" type="question-title"> De eodem , et ut a ieiunis
+            iuramenta prestentur . </head>
+          <p xml:id="gd-p2c22q5-d1e380"> Item Cornelius Papa*. </p>
+          <p xml:id="gd-p2c22q5-d1e383"> Honestum etiam uidetur, ut, qui in sanctis audetiurare, hoc
+            ieiunus faciat cum omni honestate et timoreDei, ut et pueri ante quatuordecim annos non
+            coganturiurare. </p>
+          <p xml:id="gd-p2c22q5-d1e386"> Gratian. Preterea sunt quedam tempora , quibus iurare
+            prohibemur. </p>
+          <p xml:id="gd-p2c22q5-d1e390"> Unde in Concilio apud S. Medardum habito : </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e394">
+          <head xml:id="gd-p2c22q5-Hd1e396">C. XVII</head>
+          <head xml:id="gd-p2c22q5-Hd1e399" type="question-title"> Quibus temporibus iurare
+            prohibemur.</head>
+          <p xml:id="gd-p2c22q5-d1e402"> Decreuit sancta sinodus, ut a septuagesima usque inoctauam
+            pascae, et ab aduentu Domini usque in octauamepiphaniae, nec non et in ieiuniis quatuor
+            temporum, etin letaniis maioribus, et in diebus dominicis, et in diebusrogationum (nisi
+            de concordia et pacificatione) nullus supersacra euangelia iurare presumat. </p>
+          <p xml:id="gd-p2c22q5-d1e405"> V. Pars. Gratian. De forma uero fidelitatis , ei quid
+            quisque debeat domino , uel e conuerso , sic inuenitur in epistolaFi liberti Episcopi *;
+          </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e409">
+          <head xml:id="gd-p2c22q5-Hd1e411">C. XVIII</head>
+          <head xml:id="gd-p2c22q5-Hd1e414" type="question-title"> Que in fidelitate sunt
+            obseruanda. </head>
+          <p xml:id="gd-p2c22q5-d1e417"> De forma fidelitatis aliquid scribere monitus, hec uobis,
+            que secuntur, breuiter ex librorum auctoritate notaui.Qui domino suo fidelitatem iurat,
+            ista sex in memoria semper habere debet: incolume, tutum, honestum, utile, facile,
+            possible. Incolume uidelicet, ne sit in dampnumdomino suo de corpore suo. Tutum, ne sit
+            ei in dampnum de secreto suo, uel de munitionibus, per quas tutusesse potest. Honestum,
+            ne sit ei in dampnum de sua iusthcia, uel de aliis causis, que ad honestatem eius
+            pertinereuidentur. Utile, ne sit ei in dampnum de suis possessionibus. Facile uel
+            possible, ne id bonum, quod dominus suusfacere leuiter poterat, faciat ei difficile,
+            neue id, quodpossibile erat, reddat ei inpossibile. Ut fidelis hec documenta caueat,
+            iustum est. §. i. Sed quia non sufficit** abstinere a malo, nisi fiat, quod bonum est,
+            restat, ut in eisdem sex supradictis consilium et auxiliumdomino suo fideliter prestet,
+            si beneficio dignus uideriuult, et saluus esse de fidelitate, quam iurauit. §. 2.
+            Dominus quoque fideli suo in his omnibus uicem reddere debet.Quod si non fecerit, merito
+            censebitur malefidus, sicutille, si in eorum*** preuaricatione uel faciendo, uel
+            consentiendo deprehensus fuerit perfidus et periurus. </p>
+
+          <p xml:id="gd-p2c22q5-d1e420"> [PALE A. </p>
+          <p xml:id="gd-p2c22q5-d1e423"> C. XIX. De eodem. </p>
+          <p xml:id="gd-p2c22q5-d1e427"> Augustinus*. </p>
+          <p xml:id="gd-p2c22q5-d1e430"> Si quis laicus iuramentum uiolando profanat, quod regi et
+            domino suo iurat, et postea peruerse et dolose eiusregnum tractauerit, et in mortem
+            ipsius aliquo machinamentoinsidiatur, quia sacrilegium peragit, in Christum Dominimanum
+            mittens, anathema sit, nisi per dignam peniten-ciae satisfactionem emendauerit, sicut
+            constitutum a sanctaSinodo est, id est seculum relinquat, arma deponat, in monasterium
+            eat, et peniteat omnibus diebus uitae suae. Verum-tamen conmunionem in exitu uitae suae
+            cum eucharistiapercipiat. §. i. Episcopus uero, presbiter, diaconus, si hoc crimen
+            conmiserit, degradetur.] </p>
+          <p xml:id="gd-p2c22q5-d1e433"> VI. Pars. Gratian. Ut itaque ex premissis apparet ,
+            mendacium nec simplici sermone debet proferri , nec iuramento firmari. Mendacium autem
+            non solum in uerbis , sed etiam in simulatisoperibus esse probatur. </p>
+          <p xml:id="gd-p2c22q5-d1e436"> Unde Ambrosius ait in sermone habito in dominica de
+            Abraham*: </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e440">
+          <head xml:id="gd-p2c22q5-Hd1e442">C. XX</head>
+          <head xml:id="gd-p2c22q5-Hd1e445" type="question-title"> Mentitur qui professionem suam
+            operibus non ostendit.</head>
+          <p xml:id="gd-p2c22q5-d1e448"> Cauete, fratres, mendacium, quia omnes, qui amant
+            mendacium, filii sunt diaboli**. §. i. Non solum in falsisuerbis, sed etiam in simulatis
+            operibus mendacium est. Mendacium namque est, Christianum se dicere, et opera Christinon
+            facere. Mendacium est episcopum, sacerdotem uel clericum se profiteri, et contraria huic
+            ordini operari. </p>
+          <p xml:id="gd-p2c22q5-d1e451"> C. XXI. . Quociens sermo malus de ore nostro procedit . </p>
+          <p xml:id="gd-p2c22q5-d1e454"> Item Ieronimus \in c. 4. epist. ad Ephesios], </p>
+          <p xml:id="gd-p2c22q5-d1e458"> Quociens uero loquimur, aut non in oportuno tempore, aut
+            non in oportuno loco, aut non ut conuenit audientibus, tociens sermo malus procedit de
+            ore nostro ad destructionem eorum, qui audiunt. Consideremus itaque quidloquamur, quia
+            pro omni otioso uerbo reddituri sumus rationem in die iudicii. </p>
+
+
+
+
+
+          <p xml:id="gd-p2c22q5-d1e461"> VII. Pars, Gratian. Iuramentum uero clericus laico
+            pre-stare non debet. </p>
+          <p xml:id="gd-p2c22q5-d1e464"> Unde in Remensi Concilio legitur : </p>
+        </div>
+        <div xml:id="gd-p2c22q5-Dd1e468">
+          <head xml:id="gd-p2c22q5-Hd1e470">C. XXII</head>
+          <head xml:id="gd-p2c22q5-Hd1e473" type="question-title"> Cuiquam laico clericus nichil
+            iurare presumat. </head>
+          <p xml:id="gd-p2c22q5-d1e476"> Nullus ex ecclesiastico ordine cuiquam laico quicquam super
+            sacra euangelia iurare presumat, sed simpliciter cum ueritate et puritate dicat: est
+            autnon. Sed si est aliquid, quod sibi obiciatur*, proutiudicauerint qui eiusdem sunt
+            ordinis, aut corrigatur, autexpurgetur. </p>
+          <p xml:id="gd-p2c22q5-d1e479"> [PALE A.* </p>
+          <p xml:id="gd-p2c22q5-d1e482"> Episcopo similiter clericus iuramentum prestare non debet,
+            nisi forte is, cui ecclesiae procurationem conmittit. </p>
+          <p xml:id="gd-p2c22q5-d1e486"> Unde Urbanus II. ait*: </p>
+          <p xml:id="gd-p2c22q5-d1e489"> C. XXIII. De eodem. </p>
+          <p xml:id="gd-p2c22q5-d1e492"> Nullus episcopus clericos suos, nisi forte quibus
+            ecclesiasticarum rerum dispensatio conmissa fuerit, sibi iurare conpellat.] </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

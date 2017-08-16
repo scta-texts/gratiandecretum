@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c24q2">
+        <head xml:id="gd-p2c24q2-Hd1e103">QUESTIO II.</head>
+
+        <p xml:id="gd-p2c24q2-d1e106"> I. Pars. Quod autem post mortem nullus excommunicari ualeat
+          uel absolui, ex uerbis euangelii monstratur, quibus dicitur : „ Quodcumque ligaueris super
+          terram etc.' Super terram, inquit, non sub terra; ostendens, quod uiuentes pro uarietate
+          suorummeritorum soluere possumus uel ligare; de mortuis autem sentenciam ferre non
+          possumus. </p>
+        <p xml:id="gd-p2c24q2-d1e109"> Unde Leo Papa scribit Rustico, Narbonensi Episcopo, [epist.
+          XC. cap. 7. al. epist. XCII. c. 6.]: </p>
+        <div xml:id="gd-p2c24q2-Dd1e112">
+          <head xml:id="gd-p2c24q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c24q2-Hd1e117" type="question-title"> Non possunt ab ecclesia solui^
+            post mortem qui in hac uita ab ea noluerunt absolui. </head>
+          <p xml:id="gd-p2c24q2-d1e120"> De conmunione priuatis, et ita defunctis*. Horumcausa
+            iudicio Dei reseruanda est, in cuius manu fuit, uttalium obitus non usque ad conmunionis
+            remedium differretur. Nos autem quibus uiuentibus non conmunicamusmortuis conmunicare
+            non possumus. </p>
+        </div>
+        <div xml:id="gd-p2c24q2-Dd1e124">
+          <head xml:id="gd-p2c24q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c24q2-Hd1e129" type="question-title"> Ecclesia uiuentes potest ligare
+            uel soluere, non mortuos.</head>
+          <p xml:id="gd-p2c24q2-d1e132"> Item Gelasius, Fausto Magistro, fungenti legationis offitio
+            Constantinopolim *. </p>
+          <p xml:id="gd-p2c24q2-d1e135"> Legatur, ex quo est religio Christiana, uel certe detur
+            exemplum in ecclesia Dei a quibuslibet Pontificibus autab ipsis Apostolis, ab ipso
+            denique Saluatore ueniam, nisise corrigentibus, fuisse concessam. Auditum autemsub isto
+            celo non legitur omnino, nec dicitur, quod eorum uoce depromitur: date nobis ueniam, ut
+            tamennos in errore duremus. Id quoque pariter ostendantqui nobis canones nituntur
+            opponere, quibus hoc canonibus, quibus regulis, qua lectione, quoue documento, siue
+            amaioribus nostris, siue ab Apostolis ipsis (quos potioresmerito fuisse non dubium est)
+            seu ab ipso Domino Saluatore, qui iudicaturus creditur uiuos et mortuos, siue factum
+            estumquam, uel faciendum esse mandatur? Mortuos suscitasseChristum legimus; in errore
+            mortuos absoluisse non legimus. Et qui hoc tantum faciendi solus habuerits </p>
+
+
+
+
+          <p xml:id="gd-p2c24q2-d1e138"> potestatem, B. Petro apostolo principaliter mandauit: „
+            Quodcumque ligaueris super terram etc. Superterram, inquit. Nam alligatione defunctum
+            nusquam dixit esse absoluendum. </p>
+        </div>
+        <div xml:id="gd-p2c24q2-Dd1e143">
+          <head xml:id="gd-p2c24q2-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c24q2-Hd1e148" type="question-title"> Non oportet ab elemosinis eorum
+            abstinere post mortem , quibus in uita conmunicare non destitimus . </head>
+          <p xml:id="gd-p2c24q2-d1e151"> Item Urbanus [II.] Vilimundo Episcopo . </p>
+          <p xml:id="gd-p2c24q2-d1e154"> Sane quod super Richardo, filio Borelli, uestra fraternitas
+            se egisse innotuit pro zelo Dei et animarum karitate, laudamus. Sed non est adeo
+            timendum, non adeo estuobis ab eius elemosinis abstinendum. Inter ceteros quippenostrae
+            fidei patres B. Leo doctor egregius: , , Quibusinquit, uiuis, non conmunicamus nec
+            mortuis conmunicare debemus/ Constat ergo, quoniam, quibus uiuis(ut ex opposito
+            loquamur), conmunicamus mortuisquoque conmunicare possimus. Nos plane inter duo
+            ob-pugnantia positi, inter inpios et scismaticos uidelicet, scis-maticis ullo modo
+            conmunicare non possumus, aut licet:peccatoribus uero et predonibus dispensatiue
+            proptereaconmunicamus, quia et ecclesiam hactenus sustentauerunt, et se fideles in
+            posterum pollicentur. Alioquin oportet s de huius mundi partibus exire. Sub qua etiam
+            sponsionenos eis nuper in B. Petri nataliciis absolutionem indulsi-mus. Quia ergo
+            predictus uir neque excommunicatus nomi-natiue, neque conmunicans cum excommunicatis
+            exnomine exiit, sed in Domini sui fide atque seruicio, licetnobis dispensatiue, id est
+            quamdiu eos patimur, eorumelemosinis conmunicare, et defuncti animam
+            Christianaereligionis modis omnibus adiuuare. </p>
+          <h6>
+            <a/> [C. IV.]** </h6>
+          <p xml:id="gd-p2c24q2-d1e163"> Item Gelasius uniuersis Episcopis , per Dardaniam siue per
+            Illiricum constitutis . </p>
+          <p xml:id="gd-p2c24q2-d1e166"> Nec quisquam uobis omnino persuadeat, Achatio
+            pre-uaricationis suae crimen fuisse laxatum, quia qui post, quam in collegium recidens
+            prauitatis iure meruit abapostolica conmunione secludi, in hac eadem
+            persistensdampnatione defunctus est, absolutionem, quam superstesnon quesiuit omnino,
+            nec meruit, mortuus iam non potestinpetrare. Siquidem ipsis apostolis Christi uoce
+            delegatumest: „Que ligaueritis super terram et reliqua. Ceterum de eo, qui in diuino
+            iudicio est constitutus, nobis fasnon est aliud decernere preter id, in quo eum dies
+            supremusinuenit. Atque ideo, msi eius nomine refutato, ceterisqueconsortibus huius
+            erroris, cum nullo prorsus eorum participare debetis mensae dominicae puritatem, quam
+            maioresnostri semper ab heretica magnopere seruauerunt pollutionediscretam. </p>
+
+        </div>
+        <div xml:id="gd-p2c24q2-Dd1e170">
+          <head xml:id="gd-p2c24q2-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c24q2-Hd1e175" type="question-title"> Incorrigibilis dampnationis
+            sentencia relaxari non potest.</head>
+          <p xml:id="gd-p2c24q2-d1e178"> Item Leo Papa [epist. XIII. ad Pulcheriam Augustam]*. </p>
+          <p xml:id="gd-p2c24q2-d1e181"> Dampnationis sentenciam quicumque meretur excipere*, si in
+            suo sensu uoluerit permanere, nullus poterit relaxare. </p>
+          <p xml:id="gd-p2c24q2-d1e184"> II. Pars. Gratian. His auctoritatibus probatur , quod
+            uiuentes , non mortuos soluere possumus uel ligare. Verum hocnon de omni crimine
+            intelligendum est. Sunt enim quedam crimina , de quibus etiam post mortem
+            accusaripossunt quilibetuel dampnari , ueluti heresis. </p>
+          <p xml:id="gd-p2c24q2-d1e188"> Unde in prima actione V. Sinodi legitur *: </p>
+        </div>
+        <div xml:id="gd-p2c24q2-Dd1e192">
+          <head xml:id="gd-p2c24q2-Hd1e194">C. VI</head>
+          <head xml:id="gd-p2c24q2-Hd1e197" type="question-title"> Heretici etiam post mortem sunt
+            excommunicandi. </head>
+          <p xml:id="gd-p2c24q2-d1e200"> Sane** profertur a quibusdam, qui dicunt oporterepost
+            mortem hereticos anathematizari, et sequi doctrinamin hoc sanctorum Patrum, qui non
+            solum uiuentes hereticoscondempnauerunt, sed etiam* mortuos, sicut eos, quiiniuste
+            condempnati sunt, reuocauerunt post mortem, etin sacris dipticis*** scripserunt. Quod
+            factum est inIohanne, et in Flauiano religiosae memoriae episcopisConstantinopolitanis.
+            Item in actione V.: §. i. Augustinusait: , , Si forte isti libri ita designant
+            traditorem suum, sicut Dominus designauit ludam, legant in eis nominatimet expresse uel
+            Cecilianum, uel eius ordinatores eorumdem librorum fuisse traditores, et nisi eos
+            anathematiza-uero, ipse cum eis iudicer tradidisse/ §. 2.s Que modorecitata sunt
+            Augustinus sanctae memoriae consuluit, etioohf statuit teneri ab initio in ecclesia.
+            Inpium enimdogma iam inculpatum++ est et condempnatumet eos, qui tali dogmati obnoxii
+            sunt, anathematizariuult ecclesiae traditio, licet etiam mortui essent. Ideo </p>
+
+
+
+
+          <p xml:id="gd-p2c24q2-d1e203"> sanctae memoriae Augustinus dicit: , , Si modo
+            con-uinceretur Cecilianus de his, que inferuntur ei, etiam post mortem eius illump
+            anathematizo/* Itemus i; j. 3.Multi episcopi congregati , t quedam de diuersis causisad
+            ecclesiasticum statum pertinentibus disponentes, de episcopis statuerunt defunctis, qui
+            suas facultates hereticisrelinquunt, ut etiam post mortem anathemati subiciantur. Sunt
+            autem et Augustini sanctae memoriaedicentes epistolae, quod si qui in uita sua non
+            rectesapuerunt, licet non condempnati fuissent adhuc uiuentes, tamen demonstrato peccato
+            etiam isti post mortemanathemati subiciantur. iitera: §. 4. „Si uera suntque Ceciliano
+            obiecta sunt, et nobis aliquando possent monstrari, ipsum mortuum anathematizaremus “.
+            Jtem y; §. 5. „ Dicis, licere michi etiamde mortuis iudicare, quia iudicium non tantum
+            de uiuis, sedetiam de mortuis solet fieri.“ Item : §. 6.Rabula sanctae memoriae,
+            episcopus factus Edissenaeciuitatis, qui in sacerdotibus resplenduit, Theodorum
+            Mosothenum post se mortem in ecclesiaanathematizauit. 7 tem: §. 7. Romanorum etiam
+            ecclesia ante paucos annos Dioscorum+++, qui fuit Papaeiusdem ecclesiae, post mortem
+            etiam anathematizauit, cum nec in fide peccasset. Et hoc sciunt omnes, qui degunt hic
+            Romae, et maxime qui in dignitatibusexistunt, qui etiam eidem Dioscoro conmunicatores
+            permanserunt usque ad eius mortem. Item : §.8. Si adtempora Theophili sanctae memoriae
+            uel superius aliquisrecurrerit, etiam Origenem post mortem inuenietanathematizatum. Quod
+            etiam in isto fecit etuestra sanctitas, et Vigilius religiosissimus Papa antiquioris
+            Romae. 7 tem: §.9. Sancta sinodus dixit: Sufficiunt que dicta et prolata sunt
+            ecclesiasticamtraditionem demonstrare, quod oportet hereticos etiam pp post mortem
+            anathematizari. Item in actione /F.^: §. 10.Sancta sinodus dixit: Augustini sanctae
+            memoriae, quiinter Affricanos episcopos splenduit, diuersae epistolae suntrecitatae,
+            significantes, quod hereticos oportet etiampost mortem anathematizari. Talem autem
+            ecclesiasticamtraditionem et alii Afifricani reuerentissimi episcopi serua-uerunt; sed
+            et Romana sancta ecclesia quosdam episcoposetiam post mortem anathematizauit, licet pro
+            fide inuita sua non essent accusati, et utrumque apud nos gestahabita significant. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

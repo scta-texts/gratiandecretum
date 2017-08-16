@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VII.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q7">
+        <head xml:id="gd-p2c1q7-Hd1e103">QUESTIO VII.</head>
+        <p xml:id="gd-p2c1q7-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c1q7-d1e109"> I. Par Si Nunc autem de septima tractandum est questione , an
+          renuncians suae heresi sit recipiendus in episcopali dignitateuel non*? </p>
+        <p xml:id="gd-p2c1q7-d1e112"> De his ita scribit Ciprianus ad Stephanum [lib. II. epist.
+          i.]: </p>
+        <div xml:id="gd-p2c1q7-Dd1e115">
+          <head xml:id="gd-p2c1q7-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c1q7-Hd1e120" type="question-title"> Qui redeuntes ab heresi in suis
+            ordinibus recipiantur . </head>
+          <p xml:id="gd-p2c1q7-d1e123"> Si qui presbiteri et diaconi in ecclesia catholica prius
+            ordinati fuerint, et postmodum perfidi et rebellesextiterint contra ecclesiam, uel apud
+            hereticos a pseu-doepiscopis et antichristis contra Christi dispositionemprofana
+            ordinatione promoti sunt*, et contra altare atque s diuinum uerbum sacrificia foris
+            falsa et sacrilega offerre conati sunt, eos quoque hac conditione suscipiconuenit*, cum
+            reuertuntur, ut communicent laicis, etsatis habeant, quod admittuntur ad pacem, qui
+            hostes pacisextiterint; nec debere eos reuertentes ea apud nos ordinationis et honoris
+            arma retinere, quibus contra nos rebel-lauerunt. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e128">
+          <head xml:id="gd-p2c1q7-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c1q7-Hd1e133" type="question-title"> De Ms *, qui pro muneribus
+            ordinationem faciunt, et qui redeuntes ob heresi in suis ordinibus recipiuntur. </head>
+          <p xml:id="gd-p2c1q7-d1e136"> Item ex VII. Sinodo. </p>
+          <p xml:id="gd-p2c1q7-d1e139"> Si quis* omnem traditionem ecclesiasticam scriptam uel non
+            scriptam uiolat, anathema sit. §. 1. Omnis episcopus**, aut presbiter, aut diaconus,
+            conuictus quodpro muneribus ordinationem dederit uel acceperit, a sacerdotio cadat. §.
+            2. Sed dicunt quidam, quia penitentiamagimus pro peccato, et Deus indulget illud; ita et
+            ego dico, quia omnem penitentiam recipit Deus, et indulget per penitentiam peccata., que
+            iam facta sunt. Noui enim, quodDauid fornicatorem et homicidam per penitentiam receperit
+            Deus, et dixerit de eo: „Inueni uirum secundumcor meum.“ Noui rursum eundem audientem a
+            Deo:„Non edificabis mihi domum, quia uir sanguinum es.“ ScioManasse per confessionem
+            dimissam inpietatem suam.Scio meretrices et telonarios per penitentiam receptos, nullum
+            tamen horum s, qui ante baptismum*** peccauit, sacerdotibus connumeratum. Scio quosdam,
+            dum essentin mundo, in multa fornicatione mansisse, monachos uerofactos quasi luminaria
+            mundi resplenduisse; nullum tamenad sacerdotium ascendisse. Quod, etsi rarof contigit* </p>
+
+
+
+
+          <p xml:id="gd-p2c1q7-d1e142"> nulla tamen lex ecclesiae fuit. Nouimus primum peccatricem
+            Mariam; post conuersionem, quamuis sancta et casta, tamen inter diaconissas conputata
+            non est. Sedquid hoc dico? Sequens sanctos apostolos et uenerabilesPatres cum omni
+            fiducia clamo: Quod qui per symo-niam ordinatus est, siue episcopus, siue presbiter,
+            siuediaconus, alienus est a sacerdotio, neque enim uenalis estgratia Spiritus sancti;
+            Cayphae traditio et adinuentio Sy-monis a sancto sacerdotio est aliena. §. 3. Et si in
+            fornicationem lapsus aliquis post baptismum, in sacerdotiumnon recipitur; canones enim
+            hoc prohibent. Si quis uerocum hoc peccato ad sacerdotium prouectus est,
+            cognitusdegradetur. item:4. Ipsum, qui per pecuniam </p>
+          <p xml:id="gd-p2c1q7-d1e146"> ordinatus est, confiteor, quia per penitentiam recipit Deus.
+            Bonus est in omnibus, et aperta uiscera eiusomni homini penitenti. Sed quoniam iuxta
+            Apostolumoportet episcopum esse inreprehensibilem, quicumque perpecuniam uel ordinauit°P
+            aliquem uel ordinatus est, abomni sacerdotio sit alienus. §. 5. Tarasius+t
+            patriarchadixit: Quicumque per pecuniam++f uel ordinant, uel ordina-uerunt, uel
+            ordinantur q, uel ordinati sunt episcopi, uel presbiteri, uel diaconi, uel quilibet de
+            numero sacerdotali, repellantur omnino a sacerdocio, sicut Symon magus aPetro. Quicumque
+            per pecuniamftt? dispensationemuel curam sortiti sunt monasteriorum uel ecclesiarum,
+            uelreligiosarum domorum, ierocomiorum, seniorum, orphanotrophiorum, cum depositione
+            expellantur a dispensatione illa et cura. Qui post baptismum cadens in fornicationem
+            ordinatus est, si postmodum confessus fuerit, cesset a ministerio; si uero conuictus ab
+            aliquo, deponaturomnino. §. 6. Percussor episcopus, aut presbiter, autdiaconus per se
+            uel per alium aliquem, quasi timeri per hocuolens, deponatur, item: §. 7. Qui per
+            seculares potestates ordinatus fuerit aut ecclesiam obtinuerit, deponatur;si uero
+            religiosam++++ domum, expellatur. </p>
+          <p xml:id="gd-p2c1q7-d1e149"> [PALE A. </p>
+          <p xml:id="gd-p2c1q7-d1e152"> C. III. De eodem. </p>
+          <p xml:id="gd-p2c1q7-d1e155"> Item ex Concilio Mei densi, c. 43. </p>
+          <p xml:id="gd-p2c1q7-d1e158"> Cauendum est et summopere studendum, ac per uirtutem Christi
+            sanguinis interdicendum et episcopis et </p>
+
+          <p xml:id="gd-p2c1q7-d1e161"> regibus, et omnibus sublimioribus potestatibus, atque
+            cunctis fautoribus et electoribus quorumcumque atque consen-soribus, seu ordinatoribus m
+            gradu ecclesiastico, ut nemoper symoniacam heresim regiminis locum obtineat quacumque
+            factione, calliditate, promissione, seu commoditateaut datione per se aut per submissam
+            personam.] </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e165">
+          <head xml:id="gd-p2c1q7-Hd1e167">C. IV</head>
+          <head xml:id="gd-p2c1q7-Hd1e170" type="question-title"> Qui redeuntes ab hereticis recipi
+            possunt uel qui^ non.</head>
+          <p xml:id="gd-p2c1q7-d1e173"> Item de eadem Sinodo [VII., actione i.]88b* </p>
+          <p xml:id="gd-p2c1q7-d1e176"> II. Pars. Conuenientibus apud Nicenam Bithiniae, et
+            consedentibus Petro archiepiscopo, et Petro presbiteroet abbate monasterii sancti Sabae,
+            locum tenentibusAdriani Papae, et Tharasio archiepiscopo Constantinopoli-tano, et
+            Iohanne et Thoma apocrisariis apostolicarumsedium orientalium, et ceteris episcopis,
+            episcopi Siciliaedixerunt: Dignum est**, ut de futuris inquiramus. §. 1. ItemBasilius
+            episcopus Anchirae dixit: Constitutio*** ecclesiastica habet canonice tradita ab antiquo
+            a sanctis apostoliset successoribus eorum, sanctis Patribus nostris etmagistris, et
+            sanctis uniuersalibus sex sinodis, et localibussinodis orthodoxis, ut qui ab aliqua
+            heresi reuertuntur adorthodoxam fidem et traditionem catholicae ecclesiae, scripto
+            negare debeant heresim suam et confiteri catholicam fidem. §. 2. Item Tharasius
+            patriarcha dixit: Videturuobis, ut sedes suas recipiant qui ab heresi reuertuntur?§. 3.
+            Religiosissimi monachi dixerunt: Sicut receperuntuniuersales sinodi sex ab heresi
+            reuertentes, ita et nosrecipimus. §. 4. Sancta sinodus dixit: Placet omnibus nobis °. Et
+            iussi sunt Basilius episcopus Anchirae, et Theodorus episcopus Mirreae ciuitatis, et
+            Theodosius s sedere in gradibus suis et sedibus. §. 5. Item Constantinus**** episcopus
+            Cypri dixit: Non oportet nos, qui episcopi sumus, indigere doctrina, sed aliorum esse
+            doctores.§. 6. Item Tharasius episcopus dixit: Malorum f doctorummala doctrina. Ecclesia
+            de malis doctoribus sacerdotesnon recipit. §. 7. Item Iohannesff apocrisarius
+            orientaliumsedium dixit: Heresis separat omnem hominem ab ecclesia.§. 8. Item Tharasius
+            episcopus dixit: Ecce multi canofiicilibri, et sinodici, et paterni lecti sunt, et ab
+            heresi reuertentes docuerunt nos recipere, si alia aliqua causaftf non </p>
+
+
+
+
+          <p xml:id="gd-p2c1q7-d1e179"> est in eis. §. 9. Item Petrus f++f apocrisarius Papae dixit:
+            Romae exiliatus est Macharius hereticus a sancta sextaSinodo, et quadraginta dierum
+            inducias dedit illi pater noster Benedictus Papa, et cottidie mittebat ad eum
+            Bonifatiumconsiliarium suum, et instruebat eum conmonitoriis uer-bis ex diuina
+            scriptura, et nullatenus uoluit emendari. Hocautem faciebat, ut eum reciperet in suo
+            ordine. §. 10.Item Tharasius patriarcha dixit: Quid dicitis de Ana-tholio? Nonne etiam
+            in quarta Sinodo factus estprinceps? et ecce ab inpio Dioscoro ordinatus est. Etnos
+            igitur recipiamus eos, qui ab hereticis ordinatisunt, sicut Anatholius receptus est. S.
+            11. Item: Vereuox Dei est, quoniam non moriuntur filii pro patribus, sed unusquisque in
+            suo peccato moritur P; et 1 quoniamordinatio ex Deo est. §. 12. Item Tharasius
+            patriarcha dixit:Audiuimus mandata paterna. Quid igitur? oportet recipereab hereticis
+            ordinatos? §.13. Sancta sinodus dixit: Audiuimus, domine, et oportet nos recipere. §.
+            14. Tharasiuspatriarcha dixit: Plures eorum, qui in sexta Sinodo conuene-runt, a Sergio,
+            Pirro, Petro, Paulo ordinati sunt, qui fuerunt principes hereseos Monoscelitarum,
+            quoniam isticontinuatim in Constantinopolitanasede sederunt, et ab ultimoeorum, Petro
+            scilicet, usque ad sextam* sinodum non fuerantplus quam duodecim anni. Thomas uero, et
+            Iohannes, et Constantinus ab hereticis illis archiepiscopi facti sunt, ettamen propter
+            hoc non sunt reprobati. §.15. Sancta sinodus dixit: Hoc manifestum est. §. 16.
+            Constantinus episcopus Cipri dixit: Sufficienter ostensum est, quod ab
+            hereticisuenientes recipiendi sunt. Si uero quis sponte ad hereti-cum uadit et accipit
+            ordinationem, non recepiatur. §. 17.Item Tharasius patriarcha dixit: Et ego refuto eos,
+            qui obhuiusmodi causam ad fidei subuersionem ordinati sunt, etmaxime, cum presentes
+            essent orthodoxi episcopi, a quibuspoterant ordinari. Sic est paternus intellectus. Si
+            uerosinodalis** consonantia fuerit, et unitas ecclesiarum deorthodoxis, qui presumpserit
+            ab inmundis hereticisordinari, depositioni subiaceat. Sancta sinodus dixit: Hocest
+            iustum iudicium. </p>
+          <p xml:id="gd-p2c1q7-d1e183"> III. Pars. Gratian. Ex hac auctoritate datur intelligi, quod
+            qui ab unitate catholicae fidei in hereticorum societatemtransierit , ut de manibus
+            eorum ecclestiasticae dignitatis sacramenta percipiat, uel qui contemptis orthodoxis ab
+            hereticis ordinaridesiderauerit, etsi postea suae abrenuncians heresi ad
+            ecclesiamredierit, offitio tamen accepto fungi non poterit. Auctoritateuero Cipriani
+            prohibentur ab administratione ecclesiastica, quiintra catholicam ecclesiam ordinati ad
+            fidei inpugnationem dila-buntur. Porro symoniaci nec ab hereticis ordinantur ad
+            fideisubuersionem, nec intra ecclesiam catholicam ordinati aduersusfidem armantur.
+            Quamuis enim nonnullos per pecuniam ordinent, non tamen fidem inpugnant, nec gratiam
+            Spiritus sancti uenalempredicant. Unde cum heresim suam ueraci penitentia
+            detestatifuerint, premissis auctoritatibus non prohibentur recipi in suis | gradibus.
+            Verumtamen capitulo illo Nicenae sinodi : , , Siquis per pecuniam etc. et illo alio
+            septimae sinodi, , , Si quisomnem traditionem etc. et Innocentii , et aliorum
+            multorumauctoritatibus inreparabiliter dampnari iubentur. </p>
+
+          <p xml:id="gd-p2c1q7-d1e186"> Hinc etiam Leo IV. Episcopis Brittanniae *. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e190">
+          <head xml:id="gd-p2c1q7-Hd1e192">C. V</head>
+          <head xml:id="gd-p2c1q7-Hd1e195" type="question-title"> In ordine male accepto symoniaci
+            penitentiam agere non possunt.</head>
+          <p xml:id="gd-p2c1q7-d1e198"> Requiritis de his, qui turpissimo lucro columbas in templo
+            Domini uendere non pertimescunt, et sua actainproba temeritate Symonis heresi coniungunt
+            °, utrumpossint in ordine penitentiam agere, an tantummodo extraordinem et sacerdotalem
+            fieri gradum? Quod nosquidem conuictis et his, qui tam detestabile nefas (quodiam multis
+            est dampnatum conciliis} peregisse noscuntur, nulla possumus penitentia subuenire, et
+            tot spiritualibusPatribus obuiare, sed in illorum Patrum me sententia conuenire omnibus
+            certum sit. </p>
+          <p xml:id="gd-p2c1q7-d1e201"> IV. Pars. Gratian. Nisi rigor disciplinae quandoque
+            relaxetur ex dispensatione misericordiae. Multorum enim crimina sunt dampnabilia, que
+            tamen ecclesia tollerat pro tempore, pro persona, intuitu pietatis, uel necessitatis,
+            siue utilitatis, et proeuentu rei . Pro tempore: sicut Gelasius, qui, cum necessitate
+            temporis uideret Italicam ecclesiam propter bellifamis que incursionem fere omnium
+            clericorum offitio destitutam, adeo ut plerisque populis subsidia regendarum deessent
+            animarum, concessit de monachis uel de laicis clericos assumi, itadicens [Episcopis per
+            Lucaniam, epist. I. c. i.]; </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e205">
+          <head xml:id="gd-p2c1q7-Hd1e207">C. VI</head>
+          <head xml:id="gd-p2c1q7-Hd1e210" type="question-title"> Pro temporum necessitate
+            apostolicae sedis decreta temperantur . </head>
+          <p xml:id="gd-p2c1q7-d1e213"> Necessaria rerum dispositione constringimur, etapostolicae
+            sedis moderamine conuenimur sic canonumpaternorum decreta librare, ut ea que
+            presentiumnecessitas temporum restaurandis ecclesiis relaxandadeposcit, diligenti
+            consideratione (quantum potest fieri)temperemus. </p>
+          <p xml:id="gd-p2c1q7-d1e216"> Gratian. Item: „ Priscis igitur, etc. Require supr. in
+            tractatu ordinandorum. Item Innocentius Papa, cum pronecessitate temporis, ne nimium
+            scandalum esset in ecclesia, ordinatos a Bonoso heretico susciperet, ait in decretis
+            suis, [epist.XXII. ad Episcopos Macedoniae, c. 5.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e220">
+          <head xml:id="gd-p2c1q7-Hd1e222">C. VII</head>
+          <head xml:id="gd-p2c1q7-Hd1e225" type="question-title"> Cessante necessitate, debet
+            cessare, quod urgebat.</head>
+          <p xml:id="gd-p2c1q7-d1e228"> Quod pro remedio ac necessitate temporis statutum est
+            constat primitus non fuisse. Quod ergo necessitaspro remedio reperit, cessante utique
+            necessitate debetcessare pariter quod urgebat, quia alius* est ordolegitimus, aliud,
+            quod usurpatio ad presens fieri tempusinpellit. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q7-d1e231"> Gratian. Similiter ex dispensatione in Ni ceno Concilio [c.
+            8.] de Nouatianis statutum est, ut ad ecclesiam redeuntesordinentur: </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e235">
+          <head xml:id="gd-p2c1q7-Hd1e237">C. VIII</head>
+          <head xml:id="gd-p2c1q7-Hd1e240" type="question-title"> Iterum ordinentur, qui ex
+            Nouatianis ad ecclesiam redierint . </head>
+          <p xml:id="gd-p2c1q7-d1e243"> Si qui uoluerint uenire ad ecclesiam catholicam ex
+            Nouatianis, placuit sancto concilio, ut ordinentur* et sicmaneant in clero, Ante omnia
+            autem hanc ab eis confessionem per scripturam exigi oportet, ut fateantur secommuni
+            consensu catholicae ecclesiae statuta obser-uaturos. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e248">
+          <head xml:id="gd-p2c1q7-Hd1e250">C. IX</head>
+          <head xml:id="gd-p2c1q7-Hd1e253" type="question-title"> Iuramentum a scismate redeuntium . </head>
+          <p xml:id="gd-p2c1q7-d1e256"> Quociens cordis oculus nube erroris obductus supernae
+            illustracionis lumine fit serenus, magna cautela nitendum est, ne latenter auctor
+            scismatis irruat, et abunitatis radice eos, qui ad eam reuersi fuerint, telo
+            iterumerroris abscidat, Et ideo postquam ego N.* ciuitatisepiscopus, conperto diuisioms
+            laqueo, quo tenebar, diutina mecum deliberatione pertractans, prona et spontanea
+            uoluntate ad unitatem sedis apostolicae diuina gratiaduce reuersus sum, et ne non pura
+            mente, sed simulate s reuersus existimer, spondeo sub ordinis mei casu et anathematis
+            obligatione, atque promitto tibi N. et per te sancto Petro, apostolorum principi, atque
+            eius uicario N.beatissimo uel successoribus eius, me numquamquorumlibet suasionibus uel
+            quocumque alio modo ad sci-sma, de quo redemptoris nostri gratia liberante ereptussum,
+            reuersurum; sed semper me in unitate sanctae ecclesiaecatholicae et communione Romani
+            Pontificis per omnia permansurum. Unde iuratus dico per Deum omnipotentem, et hec sancta
+            quatuor euangelia, que inmanibus meis teneo, et salutem N.° dominorum
+            nostrorumrempublicam gubernantium, me in unitate, sicut dixi, ecclesiae?, ad quam Deo
+            propitio sum reuersus q, etpommunione Romani Pontificis semper et sine dubio permanere.
+            Quod si (quod absit) ab hac me unitate aliquaexcusatione uel argumento diuisero,
+            periurii reatum incurrens eternae penae obligatus inueniar, et cum auctorescismatis
+            habeam in futuro seculo portionem. Hanc autemconfessionis promissionisque meae cartulam
+            N.notario meo cum consensu presbiterorum et diaconorumet 199 u clericorum, qui me in hac
+            unitate obligantes sein suprascriptis omnibus prona similiter uoluntate secuti atque
+            propriis manibus subscripti sunt, scribendamdictaui, et propria manu subscribens tibi
+            tradidi. Actain loco N.y, die illa, et consulibus suprascriptis.Subscriptio episcopi.
+            Ego * episcopus ciuitatisN. 212 cc^ hi confessioni promissionique meae prestito
+            deconseruandis suprascriptis omnibus sacramento subscripsi. </p>
+
+          <p xml:id="gd-p2c1q7-d1e259"> Gratian. Ceterum ex canonum rigore contra scribit Felix Papa
+            [III.] omnibus Episcopis , [epist. I. c. 5.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e263">
+          <head xml:id="gd-p2c1q7-Hd1e265">C. X</head>
+          <head xml:id="gd-p2c1q7-Hd1e268" type="question-title"> Qui extra ecclesiam baptizati uel
+            rebaptizati fuerint, ad ecclesiasticam miliciam non admittantur. </head>
+          <p xml:id="gd-p2c1q7-d1e271"> Qui in qualibet etate alibi quam in .ecclesia catholica aut
+            baptizati, aut rebaptizati sunt, ad ecclesiasticam miliciamprorsus non permittantur
+            accedere. Quibus satis debet esse, quod in catholicorum numero sunt recepti.Quoniam de
+            suo ordine et communione uidebitur ferreiudicium quisquis hoc uiolauerit institutum, uel
+            qui nonremouerit eum, quem ex eius cetu ad ministerium clericale obrepsisse cognouerit. </p>
+          <p xml:id="gd-p2c1q7-d1e274"> Gratian. Pro persona: sicut B. Gregorius scribens Ianuario
+            Episcopo, [lib. VII. Indict. 2. epist. 1.] ait ; </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e278">
+          <head xml:id="gd-p2c1q7-Hd1e280">C. XI</head>
+          <head xml:id="gd-p2c1q7-Hd1e283" type="question-title"> Rigor canonum pro persona
+            aliquando relaxatur^.</head>
+          <p xml:id="gd-p2c1q7-d1e286"> Tanta nequicia ad meas aures de tua senectute peruenit, ut
+            eam, nisi adhuc humanitus pensaremus, fixa iam maledictione feriremus. §. i. Et quidem
+            penae fueratin te sententia iaculanda; sed quoniam simplicitatemtuam cum senectute
+            nouimus, interim tacemus. </p>
+          <p xml:id="gd-p2c1q7-d1e289"> Gratian. Pietatis intuitu: sicut de illitteratis et corpore
+            uiciatis Gelasius ait [Episcopis per Lucaniam, epist. I.c. 18.] </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e293">
+          <head xml:id="gd-p2c1q7-Hd1e295">C. XII</head>
+          <head xml:id="gd-p2c1q7-Hd1e298" type="question-title"> Canonum decreta pietatis intuitu
+            nonnumquam relaxantur.</head>
+          <p xml:id="gd-p2c1q7-d1e301"> Si qui uel propria 1 temeritate uel incuria pre-sidentium
+            tales suscepti sunt, nichil ultra promo-, tionis accipiant, satisque habeant, hoc sibi
+            pronimia miseratione concessum. </p>
+          <p xml:id="gd-p2c1q7-d1e304"> Gratian. Necessitatis intuitu: sicut Ylarius Papa, qui, cum
+            de quodam episcopo preter noticiam ^e ordinato metro-politani in utroque graue scandalum
+            fieret, ait in epistolasua [ad Ascanium et uniuersos Episcopos Tarraconensisprouinciae]: </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e308">
+          <head xml:id="gd-p2c1q7-Hd1e310">C. XIII</head>
+          <head xml:id="gd-p2c1q7-Hd1e313" type="question-title"> Necessitatis causa quedam in
+            ecclesia tollerantur. </head>
+          <p xml:id="gd-p2c1q7-d1e316"> Quoniam quicquid ab alterutra parte est indicatumomni
+            uidemus peruersitate confusum, temporum necessitate perspecta hac ratione decreuimus ad
+            ueniam pertinere quod gestum est, ut deinceps preter noticiam nullus*uel o consensum
+            metropolitani ordinetur antistes. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e320">
+          <head xml:id="gd-p2c1q7-Hd1e322">C. XIV</head>
+          <head xml:id="gd-p2c1q7-Hd1e325" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q7-d1e328"> Item Innocentius [Episc. Macedoniae, ep. XXII. c. 6.] </p>
+          <p xml:id="gd-p2c1q7-d1e331"> Quociens a populis aut a turba peccatur, quia in omnes
+            propter multitudinem uindicari non potest, inultumsolet transire. Priora ergo dimittenda
+            dico Dei iudicio, et de reliquo maxima sollicitudine precauenda. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e336">
+          <head xml:id="gd-p2c1q7-Hd1e338">C. XV</head>
+          <head xml:id="gd-p2c1q7-Hd1e341" type="question-title"> Ex dispensatione quedam
+            tollerantur, que rigor canonum condempnat.</head>
+          <p xml:id="gd-p2c1q7-d1e344"> Item ex epistola Cirilli missa Maximo Diacono An-tioceno * </p>
+          <p xml:id="gd-p2c1q7-d1e347"> Didici a diligendo mihi Paulo monacho, quia recusat pietas
+            tua usque hodie communionem reuerentissimi episcopi Iohannis amplecti, pro eo, quod
+            quidam in Antiocenaecclesia male adhuc cum Nestorio uel sentiant, uel iam senserint
+            quidem, sed forsitan resipuerint. Probet igiturtua modestia, utrum aliquando colligi
+            nude ac inreue-renter cum Nestorio sentiant et inuicem colloquantur;licet aliquando
+            cauteriatam habuerint conscientiam, colligantur autem nunc acta penitentia super his,
+            inquibus subrepti sunt, quamuis confiteri fortassis reuereanturexcessum. §. i. Ut autem
+            non existimemur amarecontentionem, amplectamur episcopi reuerentissimi Iohannis
+            communionem, indulgentes ei, et causa dispensationiseius negotium non subtilius uel
+            districtius siue uehe-mentius erga se recognoscat agitari. Dispensationis enimgratia
+            (sicut dixi) eget negotium multum. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e351">
+          <head xml:id="gd-p2c1q7-Hd1e353">C. XVI</head>
+          <head xml:id="gd-p2c1q7-Hd1e356" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q7-d1e359"> Idem™ ad Ianuarium Presbiterum et Archi-mandritam. </p>
+          <p xml:id="gd-p2c1q7-d1e362"> Dispensationes rerum nonnumquam cogunt parum quidem a debito
+            quosdam foras exire, ut maius aliquidlucri faciant, Sicut enim hii, qui mare nauigant,
+            tempestateurgente nauique periclitante anxiati quedam exonerant, ut cetera salua
+            permaneant, ita et nos, cum non habemussaluandorum omnium negociorum* penitus
+            certitudinem, despicimus ex his quedam, ne cunctorum patiamur dispendia**. </p>
+          <p xml:id="gd-p2c1q7-d1e365"> Gratian. Utilitatis intuitu : sicut in Meldensi Concilio,
+            [c. 64.] perhibetur de filiis uirginum per mmraptarum et sic ad coniugium raptorum
+            applicatarum : </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e369">
+          <head xml:id="gd-p2c1q7-Hd1e371">C. XVII</head>
+          <head xml:id="gd-p2c1q7-Hd1e374" type="question-title"> Utilitatis intuitu quedam in
+            ecclesia tollerantur . </head>
+          <p xml:id="gd-p2c1q7-d1e377"> Tali coniugio generati ecclesiasticis ordinibus non
+            applicentur, nisi forte eos aut maxima ecclesiae utilitas uelnecessitas postulet, uel
+            euidens meritorum prerogatiua commendet. </p>
+          <p xml:id="gd-p2c1q7-d1e380"> Gratian. Huic Petrus concordans ait: „In ueritate conperi,
+            quia non est personarum acceptor Deus , etc. §. 1. Pro eu en tu etiam rei quedam in
+            ecclesia tollerantur, sicutLeo ait in decretis suis de laicis subito contra decreta
+            canonumordinatis episcopis, [ep. LXXXV. al. LXXXVII. c. 1. EpiscopisAfricae]: </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e384">
+          <head xml:id="gd-p2c1q7-Hd1e386">C. XVIII</head>
+          <head xml:id="gd-p2c1q7-Hd1e389" type="question-title"> Laicis, qui contra canonum decreta
+            ad episcopatum promonentur , ex misericordia susceptum offitium relinquitur. </head>
+          <p xml:id="gd-p2c1q7-d1e392"> Exigunt causae*, ut non solum in tales presules, sed etiam
+            in ordinatores eorum conpetens ultio proferatur.Sed circumstant nos hinc mansuetudo
+            misericordiae , hinccensura iusticiae, ut credamus quedam delicta utcumque </p>
+
+
+
+
+          <p xml:id="gd-p2c1q7-d1e395"> tolleranda, quedam uero penitus amputanda. Illos ergo,
+            quorum prouectio hoc tantum reprehensionis incurrit, quodex laicis ad episcopale
+            offitium electi sunt, locumsuum tenere permittimus, non preiudicantes apostolicaesedis
+            statutis, nec beatorum Patrum regulas soluentes, quia remissio peccati non dat licentiam
+            delinquendi, necquod potuit aliqua ratione concedi fas erit amplius inpunecommitti, ne
+            quod ad tempus** pia lenitate concessimusiusta post modum ultione plectamus. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e399">
+          <head xml:id="gd-p2c1q7-Hd1e401">C. XIX</head>
+          <head xml:id="gd-p2c1q7-Hd1e404" type="question-title"> Donatistae et Nouatiani, quamuis
+            reprehensibiliter ordinati, tamen ex necessitate tollerantur. </head>
+          <p xml:id="gd-p2c1q7-d1e407"> Idem ad Mauros episcopos Maximum quoque ex laico,
+            reprehensibiliter licet ordinatum, tamen si Donatista iam non est et a spiritu
+            scismaticaeprauitatis alienus est, ab episcopali, quam quoquo modoadeptus est, non
+            repellimus dignitate, ita ut ipselibello ad nos directo catholicum se esse manifestet.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e411">
+          <head xml:id="gd-p2c1q7-Hd1e413">C. XX</head>
+          <head xml:id="gd-p2c1q7-Hd1e416" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c1q7-d1e419"> Idem [ibidem initio c. 3.]Donatum autem Seiacensem ex
+            Nouatiano (ut con-perimus) cum sua plebe conuersum ita dominico gregiuolumus presidere,
+            ut libellum suae fidei meminerit adnos dirigendum, quo et Nouati dogmatis dampnet
+            errorem, et plenissime confiteatur catholicam ueritatem. Queautem nunc certa remisimus
+            consideratione causarum, antiquis deinceps custodienda sunt regulis, ne quod ad
+            tempuspia lenitate concessimus iusta post hac ulcione plectamus. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e424">
+          <head xml:id="gd-p2c1q7-Hd1e426">C. XXI</head>
+          <head xml:id="gd-p2c1q7-Hd1e429" type="question-title"> Redeuntes ab Tieresipost publicam
+            professionem^ in suis ordinibus recipi possunt . </head>
+          <p xml:id="gd-p2c1q7-d1e432"> /dem Ianuario Episcopo Aquilegiensi, [epist.
+            III.]Saluberrimum enim et spiritualis medicinae utilitateplenissimum est, ut siue
+            presbiteri, siue diaconi siuesubdiaconi aut cuiuslibet ordinis clerici, qui se correctos
+            uideri uolunt atque ad catholicam fidem, quampridem amiserant, rursum reuerti ambiunt,
+            prius erroressuos et ipsos auctores erroris a se dampnatos sineambiguitate fateantur, et
+            sensibus prauis etiam peremptisnulla desperandi supersit occasio, nec s ullum membrum
+            talium possit societate uiolari, cum per omnia illisprofessio propria ceperit obuiare.
+            Circa quos etiam canonumillam constitutionem precipimus custodiri, ut in magnohabeant
+            beneficio, si adempta sibi omni sepe promotionis inquo inueniuntur ordine stabilitate
+            perpetua maneant, sitamen iterata unctione non fuerint maculati. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e436">
+          <head xml:id="gd-p2c1q7-Hd1e438">C. XXII</head>
+          <head xml:id="gd-p2c1q7-Hd1e441" type="question-title"> Ab Jieresi redeuntes heresim et
+            eius auctores publice detestentur.</head>
+          <p xml:id="gd-p2c1q7-d1e444"> Item ex Concilio Martini Papae, [c. 36.]Si quis episcopus,
+            siue alicuius episcopi presbiter autdiaconus in alicuius heresis opinionem offenderit,
+            et ob hanc </p>
+
+          <p xml:id="gd-p2c1q7-d1e447"> causam fuerit excommunicatus, nullus episcopus in
+            communionem eum recipiat, nisi prius in communi concilio porrecto fidei suae libello
+            satisfaciat omnibus, et ita liberamteneat suam purgationem. Hoc idem et de fidelibus
+            laicissit decretum, si in aliquam heresis opinionem fuerintnominati. </p>
+          <p xml:id="gd-p2c1q7-d1e450"> V. Pars. Gratian. Ecce, quibus de causis quedam inecclesia
+            tollerantur, que eisdem cessantibus pia seueritate uindi-cantur. Quando autem tolleranda
+            sint , quando resecanda, Gelasius Papa distinguit, dicens [Episcopis per Lucaniam,
+            epist. L c. ii.] : </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e454">
+          <head xml:id="gd-p2c1q7-Hd1e456">C. XXIII</head>
+          <head xml:id="gd-p2c1q7-Hd1e459" type="question-title"> Quando in ecclesia aliqua sint
+            tolleranda . </head>
+          <p xml:id="gd-p2c1q7-d1e462"> Etsi illa nonnumquam sinenda sunt, que, si ceterorum constat
+            integritas, nocere sola non ualent, illa tamenmagnopere precauenda sunt, que recipi sine
+            manifestadecoloratione non possunt. Et si ea ipsa, que nullodetrimento aliquociens
+            indulgenda creduntur, uel rerum ueltemporum cogit intuitus, uel acceleratae
+            prouisionisexcusat respectus, quanto magis illa nullatenus sunt mutilanda, que nec ulla
+            necessitas, nec ecclesiastica prorsus extorquet utilitas? </p>
+          <p xml:id="gd-p2c1q7-d1e465"> Aliquando enim pro necessitate uel ecclesiae utilitate
+            mutilantur et laxantur precepta canonica. </p>
+          <p xml:id="gd-p2c1q7-d1e468"> VI. Pars. Gratian. §. 1. Breuiter ostendimus, qui
+            re-uertentes ab Jieresi in suis ordinibus ualeant recipi, uel qui non . Nunc autem
+            queritur de his s, qui ab hereticis ordinati sunt, si ad unitatem catholicae matris
+            ecclesiae ab heresi^ redierint, utrum in eodem ordine iterum ualeant ordinarif „ Semel
+            enimconsecratus “ (ut ait B. Gregorius ) , iterum consecrari nondebet . §, 2. Item
+            sacramenta, que ab hereticis in forma ecclesiaeministrantur (sicut Augustinus testatur)
+            reiterari non debent, ne non homini, sed sacramento uideatur iniuria fieri. §. 3.
+            Sedillud Gregorii de his intelligitur , qui consecrationem sacerdotalemuel episcopalem
+            acceperunt , qui aut per manus inpositionem, cum ad ecclesiam redeunt, effectum suae
+            unctionis accipiunt, autab eius amministratione perpetuo cessare iubentur. Similiter
+            illudAugustini de eadem mistica unctione et de sacramento baptismatisintelligitur. §. 4.
+            Sunt autem in ecclesia alii ordines, qui sinesacramentali unctione, sola episcopi
+            benedictione, cum quadamuasorum uel indumentorum distributione prestantur; ut
+            suntLeuitae et ceteri infra eos constituti . Hi quamuis ab hereticisordinentur, tamen ad
+            ecclesiam redeuntes in eodem ordine (si aliasdigni fuerint) ab ecclesia ordinentur, nec
+            fiet in eis reiteratiomuneris, cum nichil ab hereticis eis doceatur fuisse collatum. </p>
+          <p xml:id="gd-p2c1q7-d1e472"> Unde Urbanus II. scribit Petro Pistoriensi Episcopo et
+            Rustico Abbati Vallis umbrosae^: </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e476">
+          <head xml:id="gd-p2c1q7-Hd1e478">C. XXIV</head>
+          <head xml:id="gd-p2c1q7-Hd1e481" type="question-title"> Redeuntes ab hereticis sunt
+            reordinandi</head>
+          <p xml:id="gd-p2c1q7-d1e484"> Daibertum aNegzelone*, licet symoniaco, non symo-niace
+            eiusdem confessione reperimus in diaconum ordinatum; et B. Innocentii Papae sententia
+            constat declaratum, quodNegzelon, hereticus (quem constat ab hereticis ordinatum) </p>
+
+
+
+
+          <p xml:id="gd-p2c1q7-d1e487"> quia nichil habuit, dare nichil potuit ei, cui manus
+            inposuit. Nos igitur tanti Pontificis auctoritate firmati, DamasiPapae testimonio
+            roborati, qui ait: „Reiterari oporterequod male actum est“, Daibertum, ab hereticis
+            corpore etspiritu digressum atque utilitati f ecclesiae pro uiribusinsudantem, ex
+            integro (ecclesiae necessitate ingruente)diaconem constituimus. Quod non reiterationem
+            existimari censemus, sed tantum integram diaconii dationem, quoniam quidem s, ut
+            prediximus, qui nichil habuitnichil dare potuit. </p>
+        </div>
+        <div xml:id="gd-p2c1q7-Dd1e491">
+          <head xml:id="gd-p2c1q7-Hd1e493">C. XXV</head>
+          <head xml:id="gd-p2c1q7-Hd1e496" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q7-d1e499"> Item Dama sus Papa, [epist. IV. de chorepiscopis]. </p>
+          <p xml:id="gd-p2c1q7-d1e502"> Per illicitam manus inpositionem uulneratum caput illi qui
+            uidebantur aliquid accepisse, habebant, et ubi uulnusinfixum est, necesse est medicinam
+            adhibere, qua infixasanetur macula; id est, reiterari necesse est quod legitimeactum aut
+            collatum minime probatur*. Nam quomodo possit honorem retinere qui ab illo accepit,
+            quipotestatem dare non habuit legitime, inuenire nonpossum. </p>
+          <p xml:id="gd-p2c1q7-d1e505"> [C. XXVI.] Lib . 9. Cod. tit. ad legem Iuliam repetun-darum
+            . Impp. Theodosius e£ Valenti-nianus [AA. Florentino.] </p>
+          <p xml:id="gd-p2c1q7-d1e509"> VII. Pars. Sancimus eiusmodi uiros ad prouincias regendas
+            accedere, qui ad honoris insignia non ambicioneuel precio, sed probatae uitae et
+            amplitudinis tuae solenttestimonio promoueri, ita sane, ut quibus hii honores persedis
+            tuae uel nostram fuerint electionem commissi, iurati inter gesta depromant, se pro
+            administrationibussorciendis neque dedisse quidpiam, neque daturos umquampostmodum fore,
+            siue per se, siue per interpositam infraudem legis sacramentique personam, aut
+            donationis uen-ditionisue titulo, aut alio uelamento cuiuscumquecontractus, et ob hoc
+            (exceptis salariis) nichil penitus tam inamministratione positos quam post depositum
+            offitium proaliquo prestito beneficio tempore amministrationis, quamgratuito meruerunt
+            accepturos. Et licet neminem diuinitimoris, contempnendo iureiurando, arbitremur
+            inme-morem, ut saluti propriae ullum commodum anteponat, tamen ut ad salutis timorem ex
+            necessitates periculisubiugetur, si quis ausus fuerit prebita sacramentanegligere, non
+            modo aduersus accipientem, sed etiam aduersus dantem accusandi cunctis tamquam crimen
+            publicumconcedimus facultatem, quadrupli pena eo, qui conuictusfuerit, modis omnibus
+            feriendo. </p>
+          <p xml:id="gd-p2c1q7-d1e512"> [PALE A. </p>
+          <p xml:id="gd-p2c1q7-d1e515"> C. XXVII. De eodem. </p>
+          <p xml:id="gd-p2c1q7-d1e518"> Item Pascalis Papa*. </p>
+
+          <p xml:id="gd-p2c1q7-d1e521"> Patet symoniacos, ueluti primos et precipuos hereticos, ab
+            omnibus fidelibus respuendos, et si commoniti non resipuerint, ab exteris potestatibus
+            obprimendos. Omniaenim crimina ad conparationem symoniacae heresis quasipro nichilo
+            reputantur.] </p>
+          <p xml:id="gd-p2c1q7-d1e524"> Gratian. His breuiter premissis ad ea ueniamus, que ecclesia
+            seueritate disciplinae parata est ulcisci , ostendentes, quibus accusantibus uel
+            testificantibus quilibet sint conuincendi; quoiudice quisque debeat dampnari uel
+            absolui; si causa uiciatafuerit , quo remedio possit subleuari; si accusatores
+            defecerint, an reus sit cogendus ad purgationem. Et ut faciliuspateat quod dicturi
+            sumus, exemplum ponatur sub oculis, in quoauctoritates hinc inde controuersantes
+            distinguantur, et quidsanctorum Patrum sentiat auctoritas liquido intimetur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

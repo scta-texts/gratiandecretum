@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Q U E S T I O I. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> Q U E S T I O I. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c23q1">
+        <head xml:id="gd-p2c23q1-Hd1e103"> Q U E S T I O I. </head>
+
+
+        <p xml:id="gd-p2c23q1-d1e106"> Quod militare alienum uideatur ab euangelica disciplina ,
+          hinc uidetur posse probari, quia omnis milicia uel ob iniuriam propulsandam, uel propter
+          uindictam inferendam est instituta , iniuriaautem uel a propria persona, uel a socio
+          repellitur, quod utrumque euangelica lege prohibetur. Cum enim dicitur : „*SV quis
+          tepercusserit in unam maxillam, prebe ei et alteram, et iterum:„Qui angariauerit te mille
+          passus, uade cum eo duo milia ;item cum Apostolus dicat ad Romanos : „ Non uos
+          defendentes, karissimi, sed date locum irae: quid aliud prohibemur, quampropriae personae
+          iniuriam repellere? §. i. Item , cum Petrogladio defendenti magistrum, Christus dixerit :
+          „Conuertegladium tuum in uaginam; an putas, quia non possum rogarepatrem meum, et
+          exhibebit michi plus quam duodecim milia legiones angelorum? denique, sicut de B. Andrea
+          legitur, cumfieret concursus populorum, ut de manibus iniqui iudicis eumeriperent, et ab
+          iniuria mortis illum defenderent , ipse econtraet exemplo et uerbo patiendam docens,
+          rogabat eos, ne suummartirium inpedirent , quid aliud monemur, quam sicut proprias, ita et
+          sociorum iniurias patienter tollerare, nec ad arma concurrere, sed eorum exemplo ad
+          similia ferenda animumpreparare? §. 2. Item cum in Prouerbiis * dicatur : „ Michi
+          uindictam, et^ego retribuam, dicit Dominus ; item, cum in euangelio dicatur : , , Nolite
+          iudicare, et non indicabiminiitem, cum pater familiasdicat seruis nolentibus colligere
+          zizania : , , Sinite utraque cre-.scere usque ad messem, et tunc dicam messoribus,
+          colligite zizania, et alligate fasciculos ad comburendum §. 3. item, cum rexille, qui
+          nuptias fecerat filio suo, missis exercitibus suis , angelorum uidelicet, dicatur
+          perditurus homicidas prophetarum et apostolorum, qui uocati ad nuptias uenire
+          contempserunt credendo;item, cum Paulus apostolus dicat in epistola ad Romanos:„Nolite
+          iudicare inuicem; item: „Tu quis es, qui indicas ser-uum alienum? Suo domino stat, aut
+          cadit. Siue ergo uiuimussiue morimur, Domini sumus. In hoc enim Christus mortuusest, et
+          resurrexit, ut et uiuorum, et mortuorum do minetur :“ inhis omnibus quid aliud precipitur,
+          quam ut uindicta delinquentiumdiuino reseruetur examini? Cum ergo, ut supra dictum est,
+          milicia uideatur instituta uel ob iniuriam propulsandam, uel aduindictam inferendam,
+          utrumque autem lege euangelica prohibeatur, apparet, quod militare peccatum est. </p>
+        <p xml:id="gd-p2c23q1-d1e109"> Hinc etiam Gregorius : </p>
+        <div xml:id="gd-p2c23q1-Dd1e112">
+          <head xml:id="gd-p2c23q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c23q1-Hd1e117" type="question-title"> Bella carnalia bellorum
+            spiritualium figuram gerunt.</head>
+          <p xml:id="gd-p2c23q1-d1e120"> Nisi bella ista carnalia figuram bellorum spiritualium
+            gererent, numquam, opinor, Iudaicarum historiarum libridiscipulis Christi, qui uenit
+            pacem docere, legendi in ecclesiis fuissent ab Apostolis traditi. Quomodo enim
+            eisbellorum proficeret ista descriptio, quibus dicitur ab Iesu:„ Pacem meam do uobis,
+            pacem relinquo uobis?“ et quibus per Apostolum iubetur et dicitur: , , Non
+            uosmetipsosuindicantes, sed magis iniuriam percipite, et magisfraudem patimini?“ Unde
+            denique sciens Apostolus, iamnobis ultra bella non esse carnaliter peragenda, sed animae
+            certamina contra spiritales aduersarios desudanda, uelutmagister miliciae preceptum dat
+            militibus Christi, dicens:, , Induite uos armatura^ Dei, ut possitis stare
+            aduersusinsidias diaboli ?“ </p>
+          <p xml:id="gd-p2c23q1-d1e123"> Gratian. His ita respondetur: Precepta patiendae non tam
+            ostentatione corporis quam preparatione cordis sunt retinenda. </p>
+          <p xml:id="gd-p2c23q1-d1e126"> Unde Augustinus ait in sermone de puero centurionis *: </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e130">
+          <head xml:id="gd-p2c23q1-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c23q1-Hd1e135" type="question-title"> Precepta patiendae uirtute animi
+            , non ostentatione corporis seruanda sunt. </head>
+          <p xml:id="gd-p2c23q1-d1e138"> Paratus debet esse homo iustus et pius patienter maliciam
+            eorum sustinere, quos fieri bonos querit, ut numerus pocius crescat bonorum, non ut pari
+            malicia se quisnumero addat malorum. Denique ista precepta magissunt ad preparationem
+            cordis", quam ad opus, quod inaperto fit, ut teneatur in secreto animi patiencia cum
+            beni-uolentia, in manifesto autem id fiat, quod eis uidetur prodesse^ quibus bene uelle
+            debemus. §. i. Hinc liquidoostenditur, quod ipse Dominus Iesus, exemplum
+            singularepatiendae, cum percuteretur in facie, respondit: , , Simale locutus sum,
+            exprobra de malo; si autem bene, quidme cedis ?“ Nequaquam igitur preceptum suum, si
+            uerbaintueamur, inpleuit. Neque enim prebuit percudenti alterampartem, sed pocius
+            prohibuit, ne faceret ets iniuriamaugeret. Et tamen paratus aduenerat non solum infaciem
+            percuti, uerum etiam pro his quoque, a quibus.hec paciebatur, crucifixus occidi, pro
+            quibus ait in cruce </p>
+          <p xml:id="gd-p2c23q1-d1e141"> C endens:, , Pater, ignosce illis, quia nesciunt quid
+            faciunt.“ , 2. Neque Paulus apostolus preceptum Domini et magistrisui uidetur inplesse,
+            ubi etiam percussus in faciem dixitprincipi sacerdotum: , , Percutiet te Deus, paries
+            dealbate;sedes me iudicare secundum legem, et contra .legem iubesme percuti ? Et cum a
+            circumstantibus diceretur: „Iniuriamfacis principi sacerdotum?“ irridens eos ammonere
+            uoluitquid dixerit, ut qui saperent intelligerent iam destruendumesse in aduentu Christi
+            parietem dealbatum, hoc estypocrisin sacerdotii Iudeorum. Ait quippe: , , Nesciui
+            fratres, quia princeps est. Scriptum est enim: Principi populi tuinon maledices, “ cum
+            proculdubio qui in eodem populo cre-uerat, atque in lege fuerat eruditus, illum
+            principemsacerdotum nescire non posset, nec eos, quibus ita notusfuerat, ullo modo
+            falleret, quod nesciret. Sunt ergoista precepta patienciae semper in cordis preparatione
+            retinenda, ipsa quoque" beniuolentia, ne reddatur malumpro malo, semper in uoluntate
+            conplenda". §. 3. Agendasunt autem multa etiam cum inuitis quadam benigna asperitate
+            plectendis, quorum pocius utilitati consulendum estquam uoluntati. Nam in corripiendo
+            filium p quamlibet aspere numquam profecto paternus amor amittitur.Fiatq tamen quod
+            nolit, et doleat qui etiam inuitus dolore uidetur sanandus. §. 4. Ac per hoc, si terrena
+            istarespublica Christiana precepta custodiat, etiam ipsa bellasine beniuolentia non
+            gerentur, sed ut ad pietatis iusti-ciaeque societatem uictis facilius consulatur. Nam
+            cuilicentia iniquitatis eripitur utilius" uincitur, quoniamnichil est infelicius
+            felicitate peccantium, qua penalis nutritur inpunitas, et mala uoluntas, uelut interior
+            hostis, roboratur. Et paulo post: §. 5. Nam si Christiana disciplina omniabella
+            culparet, hoc pocius, consilium salutis petentibus, in euangelio diceretur, ut abicerent
+            arma, seque miliciaeomnino subtraherent. Dictum est autem eis: , , Neminemconcusseritis;
+            estote contenti stipendiis uestris.“** Quibus proprium stipendium sufficere debere
+            precepit, militareutique non prohibuit. </p>
+
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e146">
+          <head xml:id="gd-p2c23q1-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c23q1-Hd1e151" type="question-title"> In bellicis armis multi Deo
+            placere possunt. </head>
+          <p xml:id="gd-p2c23q1-d1e154"> Item eiusdem ad Bonifatium , [epist. CCVII.] </p>
+          <p xml:id="gd-p2c23q1-d1e157"> Noli existimare, neminem Deo placere posse, quiarmis
+            bellicis ministrat". In his erat sanctus Dauid, cuiDominus tam magnum perhibuit
+            testimonium. In his etiamplurimi illius temporis iusti. In his erat ille centurio, qui
+            Domino dixit: „Non sum dignus, ut intres sub tectummeum.“ §. i. Hoc ergo primum cogita,
+            quando armaris ad pugnam, quia uirtus tua etiam ipsa corporalisdonum Dei est. Sic enim
+            cogitabis* de dono Dei nonfacere contra Dominum. Fides enim, quando promittitur, etiam
+            hosti seruanda est, contra quem bellumgeritur; quanto magis amico, pro quo pugnatur?
+            Pacemhabere uoluntatis, bellum autem debet esse necessitatiss, ut liberet Deus a
+            necessitate, et conseruet in pace. Nonenim pax queritur, ut bellum exerceatur, sed
+            bellumgeritur, ut pax acquiratur. Esto ergo bellando pacificus, ut eos, quos expugnas,
+            ad pacis utilitatem uincendo perducas. „Beati enim pacifici“ (ait Dominus) „quoniamfilii
+            Dei uocabuntur." Si autem pax humana tam dulcisest pro temporali salute mortalium,
+            quanto dulcior est paxdiuina pro eterna salute angelorum? Itaque hostem pugnantem
+            necessitas deprimat, non uoluntas. Sicut bellanti" et resistenti uiolentia redditur, ita
+            uictoriis"capto misericordia iam debetur, maxime in quo pacis perturbatio non timetur. </p>
+          <p xml:id="gd-p2c23q1-d1e160"> Item eiusdem contra Manicheos , [id est, libro XXII. contra
+            Faustum, c. 74. et 75.]: </p>
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e164">
+          <head xml:id="gd-p2c23q1-Hd1e166">C. IV</head>
+          <head xml:id="gd-p2c23q1-Hd1e169" type="question-title"> Que sint in bello iure
+            reprehendenda. </head>
+          <p xml:id="gd-p2c23q1-d1e172"> Quid culpatur in bello? An quia morituri quandoque
+            moriuntur, ut domentur in pace uicturi? Hoc reprehendisse" timidorum est, non
+            religiosorum. Nocendicupiditas, ulciscendi crudelitas, inplacatus atque inpla-cabilis
+            animus, feritas rebellandi, libido dominandi, et siqua similia, hec sunt, que in bellis
+            iure culpantur. Queplerumque ut etiam iure puniantur, aduersus uiolentiasresistentium
+            (siue Deo, siue aliquo legitimo inperio iu-bente) gerenda ipsa bella suscipiuntur a
+            bonis, cum ineo rerum humanarum ordine inueniuntur, ubi eos ueliubere aliquid tale, uel
+            in talibus obedire iuste ipse con- </p>
+
+
+
+
+          <p xml:id="gd-p2c23q1-d1e175"> stringit. Unde neque* Iohannes ab armis iubet discedere
+            milites, et tributa Christus Cesari monet reddi, quia propter bella necessario militi
+            stipendium prebeaturs. Ordo autem ille naturalis mortalium paci accommodatushoc poscit,
+            ut suscipiendi belli auctoritas atque consiliumpenes i principes sit. §. i. Sed si
+            humana cupiditatebellum geritur, non nocet sanctis, in quos non habet quisquam
+            potestatem, nisi desuper datam. Non enim estpotestas, nisi a Deo, siue iubente siue
+            sinente. Ergo uiriustus, si forte etiam sub rege, homine sacrilego, militet, recte
+            potest illo iubente bellare, si, uice pacis ordinemseruans, quod sibi iubetur uel non
+            esse contra Dei preceptum, certum est, uel utrum sit, certum non est, ita, ut fortasse
+            reum faciat regem iniquitas inperandi, innocentemautem militem ostendat ordo seruiendi.
+          </p>
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e179">
+          <head xml:id="gd-p2c23q1-Hd1e181">C. V</head>
+          <head xml:id="gd-p2c23q1-Hd1e184" type="question-title"> Militare non est peccatum.</head>
+          <p xml:id="gd-p2c23q1-d1e187"> Item eiusdem in libro de uerbis Domini , tractatu [siue
+            sermone] XIX . </p>
+          <p xml:id="gd-p2c23q1-d1e190"> Militare non est delictum, sed propter predam militare
+            peccatum est; nec rempublicam gerere criminosum est, sed ideo agere rempublicam, ut
+            diuitias augeas, uide-tur esse dampnabile. Propterea enim quadam prouidentiamilitantibus
+            sunt stipendia constituta, ne, dum sumptus queritur, predo crassetur. Item: §. i.
+            Dominus ipsedixit: „ Reddite que Dei sunt Deo, et que sunt cesariscesari.Igitur quod
+            cesar precipit ferendum est, quod in-perats tollerandum est; sed fit intollerabile,
+            dumpredam exactores accumulant. Item §. 2. „Interrogaue- </p>
+          <p xml:id="gd-p2c23q1-d1e193"> runt Iohannem milites, dicentes: Quid faciemus etnos? Ait
+            illis, neminem concutiatis, neque calumpniamfaciatis, sed estote contenti stipendiis
+            uestris.“ Sic autemse cognoscere debet omnis homo, qui militat. Non enim dehis tantum
+            militantibus scriptura loquitur, qui armata miliciadetinentur, sed quisquis miliciae
+            suae cingulo utitur, dignitatis suae miles asscribitur, atque ideo hec sentenciapotest
+            dici (uerbi gratia) militibus, protectoribus, cunctisquerectoribus. Quicumque sibi
+            stipendia publice decreta consequitur, si amplius querit, tamquam calumpniator et
+            concussor Iohannis sententia condempnatur. </p>
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e197">
+          <head xml:id="gd-p2c23q1-Hd1e199">C. VI</head>
+          <head xml:id="gd-p2c23q1-Hd1e202" type="question-title"> Pacata sunt bella , que geruntur
+            , ut mali coherceantur et boni subleuentur. </head>
+          <p xml:id="gd-p2c23q1-d1e205"> Item eiusdem de diuersis ecclesiae obseruationibus *. </p>
+          <p xml:id="gd-p2c23q1-d1e208"> Apud ueros Dei cultores etiam ipsa bella pacata sunt, que
+            non cupiditate aut crudelitate, sed pacis studio geruntur, ut mali coherceantur, et boni
+            subleuentur. </p>
+
+        </div>
+        <div xml:id="gd-p2c23q1-Dd1e212">
+          <head xml:id="gd-p2c23q1-Hd1e214">C. VII</head>
+          <head xml:id="gd-p2c23q1-Hd1e217" type="question-title"> Summa est laus miliciae
+            reipublicae utilitatibus obedientiam exhibere. </head>
+          <p xml:id="gd-p2c23q1-d1e220"> Item Gregorius uniuersis militibus Neapolim [lib. XII.
+            epist. 24.] </p>
+          <p xml:id="gd-p2c23q1-d1e223"> Summa laus miliciae inter alia bona merita hec est,
+            obedientiam reipublicae utilitatibus exhibere, quicquidsibi utiliter inperatum fuerit
+            obtemperare, sicut etiamnunc deuotionem uestram fecisse didicimus, que epistolisnostris,
+            quibus magnificum uirum Constantium tribunumcustodiae ciuitatis deputauimus preesse,
+            paruit, et congruam militaris deuotionis obedientiam demonstrauit. Undescriptis uos
+            presentibus curauimus admonendos, uti predicto magnifico uiro tribuno, sicut et
+            fecistis, omnemdebeatis pro serenissimorum dominorum utilitate uel conser-uanda ciuitate
+            obedientiam exhibere, quatinus quicquid auobis hactenus bene gestum agnoscitur per
+            presentemtemporis uigilantiam ac sollicitudinem augmentetis. </p>
+          <p xml:id="gd-p2c23q1-d1e226"> Gratian. Ex his omnibus colligitur , quod militare non est
+            peccatum , et quod precepta patiendae in preparatione cordis , nonostentatione corporis
+            seruanda sunt. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

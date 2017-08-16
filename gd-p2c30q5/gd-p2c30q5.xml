@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO V. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO V. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c30q5">
+        <head xml:id="gd-p2c30q5-Hd1e103"> QUESTIO V. </head>
+        <p xml:id="gd-p2c30q5-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c30q5-d1e109"> I. Pars. Quod autem clandestina coniugia fieri non debeant,
+          Euaristus Papa testatur, scribens Episcopis Affricae, [epist. I.]: </p>
+        <div xml:id="gd-p2c30q5-Dd1e112">
+          <head xml:id="gd-p2c30q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c30q5-Hd1e117" type="question-title"> Clandestina coniugia fieri non
+            debent.</head>
+          <p xml:id="gd-p2c30q5-d1e120"> Aliter legitimum* non fit coniugium, nisi ab his, qui super
+            ipsam feminam dominationem habere uidentur, et aquibus custoditur uxor petatur, et a
+            parentibus propinquioribus sponsetur, et legibus dotetur, et suo temporesacerdotaliter,
+            ut mos est, cum precibus et oblationibusa sacerdote benedicatur, et a paranimphis, ut
+            consue»tudo docet, custodita et sociata, a proximis congruo tempore petita legibus
+            dotetur**, ac solempniter accipiatur, et biduo uel triduo orationibus uacent, et
+            castitatemcustodiant. Item: §. 1. Ita peracta legitima scitote esseconubia; aliter uero
+            presumpta non coniugia, sed adulteria, uel contubernia, uel stupra, aut
+            fornicationespotius, quam legitima coniugia esse non dubitate, nisiuoluntas propria
+            suffragauerit, et uota succurrerint legitima. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e124">
+          <head xml:id="gd-p2c30q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c30q5-Hd1e129" type="question-title"> Nuptias occulte celebrari non
+            licet. </head>
+          <p xml:id="gd-p2c30q5-d1e132"> Item ex Decreto Hormisdae Papae , c. 6.* Nullus fidelis,
+            cuiuscumque condicionis sit, occultenuptias faciat, sed benedictione accepta a sacerdote
+            publicenubat in Domino. </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e137">
+          <head xml:id="gd-p2c30q5-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c30q5-Hd1e142" type="question-title"> Nuptiae publice celebrari
+            debent.</head>
+          <p xml:id="gd-p2c30q5-d1e145"> Item Nykolaus ad consulta Bulgarorum , [c. 3.]Nostrates,
+            tam mares quam feminae, non ligaturam auream, uel argenteam, aut ex quolibet metallo
+            conpositam, quando nuptialia federa contrahunt, in capitibus deferunt:sed post
+            sponsalia, que futurarum sunt nuptiarum promissio^ federa quoque consensu eorum, qui hec
+            contrahunt, et eorum, in quorum potestate sunt, celebrantur; etpost, quam arrhis sibi
+            sponsam sponsus per digitum fideiannulo insignitam desponderit, dotemque utrique
+            placitam sponsus ei cum scripto pactum hoc continente coraminui tatis ab utra que parte
+            tradiderit (aut mox aut aptotempore, ne uidelicet ante tempus lege diffinitum tale
+            quidfacere presumant), ambo ad nuptialia federa perducuntur, et primum in ecclesia
+            Domini cum oblationibus, quas offerre debent Deo per sacerdotis manum, statuuntur,
+            sicque demum benedictionem et uelamen celeste suscipiunt. Item: §. 1. Hec sunt, preter
+            alia, que admemoriam non occurrunt, pacta coniugiorum solempnia.Peccatum autem esse, si
+            hec cuncta in nuptiali federe noninterueniant, non dicimus . </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e149">
+          <head xml:id="gd-p2c30q5-Hd1e151">C. IV</head>
+          <head xml:id="gd-p2c30q5-Hd1e154" type="question-title"> In contrahendo coniugio ista sunt
+            obseruanda.</head>
+          <p xml:id="gd-p2c30q5-d1e157"> Item Leo Papa*. </p>
+          <p xml:id="gd-p2c30q5-d1e160"> Qualis debeat esse uxor, que habenda est secundum legem.
+            Virgo casta, et desponsata in uirginitate, et dotata legitime, et a parentibus tradita
+            sponso, et aparanimphis accipienda, et ita secundum legem et euangelium publicis nuptiis
+            in coniugium liquide sumenda, et omnibus diebus uitae suae (nisi ex consensu, et
+            causauacandi Deo) numquam propter hominem separanda, et, si fornicata fuerit**,
+            dimittenda, sed illa uiuente alteranon ducenda, quia adulteri regnum Dei non
+            possidebunt, et penitencia illius*** per scripturam recipienda. </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e164">
+          <head xml:id="gd-p2c30q5-Hd1e166">C. V</head>
+          <head xml:id="gd-p2c30q5-Hd1e169" type="question-title"> Quomodo sponsus et sponsa ad
+            benedictionem accedant.</head>
+          <p xml:id="gd-p2c30q5-d1e172"> Item ex Concilio Cartaginensi IV [c. 13.]Sponsus et sponsa
+            cum benedicendi sunt a sacerdote, a </p>
+
+          <p xml:id="gd-p2c30q5-d1e175"> parentibus uel a paranimphis offerantur* in ecclesia
+            sacerdoti, qui, cum acceperint benedictionem, eadem nocte pro reuerentia benedictionis
+            in uirginitate permaneant. </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e179">
+          <head xml:id="gd-p2c30q5-Hd1e181">C. VI</head>
+          <head xml:id="gd-p2c30q5-Hd1e184" type="question-title"> Sine publicis nuptiis nullus
+            ducat uxorem.</head>
+          <p xml:id="gd-p2c30q5-d1e187"> Item ex Concilio Arei at en si , c. 6. </p>
+          <p xml:id="gd-p2c30q5-d1e190"> Nullum sine dote fiat coniugium; iuxta possibilitatem fiat
+            dos, nec sine publicis nuptiis quisquam nubere ueluxorem ducere presumat. </p>
+          <p xml:id="gd-p2c30q5-d1e193"> Gratian. His omnibus auctoritatibus occultae nuptiae
+            prohibentur , atque ideo , cum contra auctoritatem fiunt nuptiae , pro infectis haberi
+            debent. </p>
+          <p xml:id="gd-p2c30q5-d1e197"> II. Pars. §. 1. Sed queritur, quid sibi uelint
+            solempnitatesillae uelaminis et annuli , que in coniugiis obseruantur? </p>
+          <p xml:id="gd-p2c30q5-d1e200"> De his ita scribit Ysidorus in II. lib. de offitiis , c.
+            i6.; </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e204">
+          <head xml:id="gd-p2c30q5-Hd1e206">C. VII</head>
+          <head xml:id="gd-p2c30q5-Hd1e209" type="question-title"> Quare feminae uelantur , dum
+            maritantur. </head>
+          <p xml:id="gd-p2c30q5-d1e212"> Feminae, dum maritantur, ideo uelantur, ut nouerint, se
+            semper uiris suis subditas esse et humiles. §. 1. Item, quod nubentes post benedictionem
+            uitta* inuicem, uno uinculo copulantur, uidelicet fit ideo, neconpagem coniugalis
+            unitatis disrumpant. §. 2. At uero, quod eadem uitta candido purpureoque colore
+            permiscetur, candor quippe est mundicia uitae, purpura ad sanguinis posteritatem
+            adhibetur, ut hoc signo et continentiaet** lex continendi ab utrisque ad tempus
+            admoneatur, et posthec reddendum debitum non negetur. §. 3. Item, quod in primis s
+            annulus a sponso sponsae datur, fit nimirum uel propter mutuae dilectionis signum, uel
+            propterid magis, ut eodem pignore corda eorum iungantur. Unae etquarto digito annulus
+            inseritur, ideo quod in eo uenaquedam, ut fertur, sanguinis ad cor usque perueniat. </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e216">
+          <head xml:id="gd-p2c30q5-Hd1e218">C. VIII</head>
+          <head xml:id="gd-p2c30q5-Hd1e221" type="question-title"> Nuptiae dicuntur ab obnubendo ,
+            eo quod caput suum obnubere soleant . </head>
+          <p xml:id="gd-p2c30q5-d1e224"> Ambrosius in libro de Patriarchis . </p>
+          <p xml:id="gd-p2c30q5-d1e227"> III. Pars. Nec illud otiosum, quod cum Rebeccaueniret,
+            uidit Ysaac deambulantem, et cum interrogasset </p>
+          <p xml:id="gd-p2c30q5-d1e230"> uis esset, cognito, quod ipse, esset, cui duceretur uxor,
+            escendit, et caput suum obnubere cepit, docens uerecun-diam nuptiis preire debere. Inde
+            enim et nuptiae dictae, quod pudoris gratia se puellae obnuberent. </p>
+          <p xml:id="gd-p2c30q5-d1e234"> IV. Pars. Gratian. Sed obicitur premissis: Multa sunt , que
+            prohibentur , que, si fiant , ex postfacto conualescunt. Prohi- </p>
+
+
+
+
+          <p xml:id="gd-p2c30q5-d1e237"> bentur uouentes matrimonia contrahere, que tamen si
+            contraxerint, inuiolata permanere^ oportet. Sic et clandestina coniugia contra leges
+            quidem fiunt, tamen contracta dissolui non possunt, quia ex legitimo uoto subsequente
+            corroborantur. Unde et Euaristus, cum dixisset : aliter coniugia presumptamon sunt, sed
+            adulteria;“ addidit: „nisi uoluntas propria suffragauerit, etuota succurrerint legitima. </p>
+          <p xml:id="gd-p2c30q5-d1e240"> Hinc etiam in No uel lis: </p>
+          <p xml:id="gd-p2c30q5-d1e243"> [C. IX.] </p>
+          <p xml:id="gd-p2c30q5-d1e246"> , , Si quis diuinis tactis scripturis iurauerit mulieri,
+            legitimam se eam uxorem habiturum, uel si in oratorio tale sacramentumdederit, sit illa
+            legitima uxor*, quamuis nulla dos, nulla scriptura alia interposita sit. </p>
+          <p xml:id="gd-p2c30q5-d1e249"> [Gratian.] His ita respondetur: Coniugia, que clam
+            contrahuntur, non negantur esse coniugia , nec iubentur dissolui, si utriusque
+            confessione probari poterunt: uerumtamen prohibentur, quia mutata alterius eorum
+            uoluntate, alterius confessionefides iudici fieri non potest. Unde publice, cum alterius
+            uotain alteram partem se transtulerint, pro priori coniugio, quodiudici incertum est,
+            sentencia ferri non poterit. Incerta enim (utSyxtus Papa scribit episcopis per Hispaniam
+            constitutis) nemopontificum iudicare presumat, et quamuis uera sint, non tamencredenda
+            sunt nisi que certis indiciis conprobantur, nisi quemanifesto iudicio conuincuntur, nisi
+            que iudiciario ordine publicantur. Hinc etiam Victor Papa scribit Theophilo episcopo: ,
+            , Incerta, karrissime , nullatenus iudicemus, quousqueueniat Dominus, qui latentia
+            producet in lucem, et illuminabitabscondita tenebrarum, et manifestabit consilia
+            cordium. Quamuis enim uera sint, non tamen credenda sunt nisi que manifestisindiciis
+            conprobantur, nisi que manifesto iudicio conuincuntur, nisi que iudiciario ordine
+            publicantur </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e254">
+          <head xml:id="gd-p2c30q5-Hd1e256">C. X</head>
+          <head xml:id="gd-p2c30q5-Hd1e259" type="question-title"> Ante iustam probationem nullus
+            iudicandus aut dampnandus est.</head>
+          <p xml:id="gd-p2c30q5-d1e262"> Item Euaristus Papa, [epist. II.] omnibus Episcopis . </p>
+          <p xml:id="gd-p2c30q5-d1e265"> Nullum ante ueram iustamque probationem iudicare aut
+            dampnare debemus, teste Apostolo, qui ait: „Tu quises, qui iudicas alienum seruum? Suo
+            domino stat aut cadit ?“ Mala itaque audita nullum moueant, nec passim dictaabsque certa
+            probatione quisquam umquam credat; sed anteaudita diligenter inquirat, nec precipitando
+            quicquamaliquis agat. </p>
+        </div>
+        <div xml:id="gd-p2c30q5-Dd1e269">
+          <head xml:id="gd-p2c30q5-Hd1e271">C. XI</head>
+          <head xml:id="gd-p2c30q5-Hd1e274" type="question-title"> Non sunt aliqua iudicanda prius,
+            quam certis demonstrentur indiciis.</head>
+          <p xml:id="gd-p2c30q5-d1e277"> Item Eleutherius Papa, [epistola ad Galliae prouincias]. </p>
+          <p xml:id="gd-p2c30q5-d1e280"> Iudicantem oportet cuncta rimari, et ordinem rerum plena
+            inquisitione discutere, interrogandi et respondendi obiciendique prebita patiencia ab
+            eo, ut ibi ambarum actio partium illuminata* sit pleniter, neclitigantibus prius uelit
+            iudex sua sententia obuiare, nisiquando iam peractis omnibus nichil habeant in
+            questione, quod proponant, et tamdiu actio uentiletur, quousquead ueritatem rei
+            perueniant. Frequenter inter- </p>
+          <p xml:id="gd-p2c30q5-d1e283"> EDITIO ] </p>
+          <p xml:id="gd-p2c30q5-d1e287"> Causa XXX. Que st. V. c. 8. c) et: deest — c. io. </p>
+          <p xml:id="gd-p2c30q5-d1e290"> d) interrogare e) manifeste — Causa XXXI. Que st. I. </p>
+
+          <p xml:id="gd-p2c30q5-d1e293"> e) male f) placito postea g) consequente h) auctoritas
+            Aurogari oportet, ne aliquid pretermissum forte remaneat, quod annecti conueniat. </p>
+          <p xml:id="gd-p2c30q5-d1e296"> Gratian. Ex premissis manifestissime colligitur quod pro
+            incertis a certis recedendum non est, nec in re dubia certadanda est sentencia. Cum
+            autem fides dubiae rei nisi testiumapprobatione uel legitima confessione iudici fieri
+            non ualeat, testes autem auctoritate Calixti Papae de aliis causis uelnegociis
+            testimonium dicere non ualeant, nisi de his, que sub eorumpr es entia facta noscuntur:
+            apparet clandestina coniugia ideo esseprohibita, quia, cum alter eorum coniugalem
+            affectum se ad alterum habuisse negare uoluerit, legitimis probationibus conuincinon
+            poterit, quibus deficientibus, iudicis sentencia rite absolutus, reatum adulterii uter
+            que incurrit , dum utroque eorum uiuentealiis se copulauerint. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

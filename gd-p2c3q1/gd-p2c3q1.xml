@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c3q1">
+        <head xml:id="gd-p2c3q1-Hd1e103">QUESTIO I.</head>
+        <p xml:id="gd-p2c3q1-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c3q1-d1e109"> Quod restitutio quibuslibet danda sit, multis auctoritatibus
+          probatur. </p>
+        <p xml:id="gd-p2c3q1-d1e112"> Ait enim Gaius Papa, [epist. unica ad Felicem Episcopum, cap.
+          3.]: </p>
+        <div xml:id="gd-p2c3q1-Dd1e115">
+          <head xml:id="gd-p2c3q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c3q1-Hd1e120" type="question-title"> Expoliatis uel eiectis omnia sunt
+            redintegranda.</head>
+          <p xml:id="gd-p2c3q1-d1e123"> Episcopis suis rebus expoliatis uel a propriis sedibus
+            eiectis omnia, que eis ablata sunt, legibus sunt redintegranda, quia priusquam factum
+            fuerit hoc, nullum crimeneis obici potest. </p>
+        </div>
+        <div xml:id="gd-p2c3q1-Dd1e128">
+          <head xml:id="gd-p2c3q1-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c3q1-Hd1e133" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q1-d1e136"> Item Fabianus Papa, [ep. II. Episcopis orientalibus.] </p>
+          <p xml:id="gd-p2c3q1-d1e139"> Episcopi, si a propriis sedibus aut ecclesiis sine
+            auctoritate Romani Pontificis * expulsi fuerint, antequam ad sinodum vocentur, proprius
+            locus et sua omnia redintegrandasunt. Nulla enim ratio permittit, dum ad tempus
+            eorumbona, uel ecclesiae, atque res ab emulis aut a quibuscumquedetinentur, ut aliquid
+            illis obici debeat. Nec quicquampotest eis quilibet maiorum uel minorum obicere, dumsuis
+            ecclesiis, uel rebus, uel potestatibus carent. </p>
+          <p xml:id="gd-p2c3q1-d1e142"> Gratian. Sed notandum est, quod restitutionis sententia sola
+            non sufficit, nisi presentialiter omnia iudicis offitio restituantur, ut eiectus uel
+            expoliatus s etiam naturalem possessionem recipiat, siue animo suo et corpore alieno ,
+            ueluti per procuratorem, siue animo et corpore suo. Cuncta quoque, que sibi ablata
+            fuerant quacumque conditione, in eodem loco, unde surrepta fuerant, sunt reuocanda. </p>
+          <p xml:id="gd-p2c3q1-d1e146"> Unde I oh annes urbis Romae Episcopus scribit Zachariae
+            Archiepiscopo, [epist. I.]: </p>
+        </div>
+        <div xml:id="gd-p2c3q1-Dd1e150">
+          <head xml:id="gd-p2c3q1-Hd1e152">C. III</head>
+          <head xml:id="gd-p2c3q1-Hd1e155" type="question-title"> De eodem . </head>
+
+          <p xml:id="gd-p2c3q1-d1e158"> Redintegranda sunt omnia expoliatis uel eiectis episcopis
+            presentialiter ordinatione pontificum, et in eo loco*, unde abscesserant, funditus
+            reuocanda, quacumque conditione temporis, aut captiuitate, aut dolo, aut
+            uiolentiamalorum, et per quascumque iniustas causas res ecclesiae, uel proprias, id est
+            suas substantias perdidissenoscuntur **. </p>
+        </div>
+        <div xml:id="gd-p2c3q1-Dd1e162">
+          <head xml:id="gd-p2c3q1-Hd1e164">C. IV</head>
+          <head xml:id="gd-p2c3q1-Hd1e167" type="question-title"> De eodem™.</head>
+          <p xml:id="gd-p2c3q1-d1e170"> Item Eusebius apostolicae sedis Episcopus, omnibus episcopis
+            . </p>
+          <p xml:id="gd-p2c3q1-d1e173"> Redintegranda sunt omnia expoliatis uel eiectis episcopis,
+            etc. usque funditus reuocanda, eodem modo, ut supra. </p>
+        </div>
+        <div xml:id="gd-p2c3q1-Dd1e177">
+          <head xml:id="gd-p2c3q1-Hd1e179">C. V</head>
+          <head xml:id="gd-p2c3q1-Hd1e182" type="question-title"> Non est sacerdos, sed scismaiicus,
+            qui fratrum se obsequio subtrahit. </head>
+          <p xml:id="gd-p2c3q1-d1e185"> Item Alexander Papa, [epist. II. in princip.] </p>
+          <p xml:id="gd-p2c3q1-d1e188"> Nulli dubium est, quia boni a malis semper persecun-tur et
+            tribulantur. Propter quod nos oportet humiliarisub potenti manu Dei, ut liberet nos in
+            tempore tribulationis. Nam diabolus non cessat circumire, querens quemdeuoret, et
+            querere quos ex fidelibus perdat, et maximeillos, quos ardentiores in seruitio
+            saluatoris eique familiaresinuenerit. Familiares dico eos, quos sacrari, et in
+            ordineapostolatus constitui uoluit. Ipsi enim pro populo interpellant, et peccata populi
+            comedunt, quia suis precibus etoblationibus ea delent atque consumunt. Et infra :
+            Quiautem ex uestro fuerit collegio, et ab auxilio uestro sesubtraxerit, magis
+            scismaticus quam sacerdos esse probabitur. , , Ecce“ (inquit Propheta) „quam bonum et
+            quamiucundum habitare fratres in unum.“ Illi uero non habitantin unum, qui fratrum se
+            solatio subtrahunt, aut (quoddeterius est) fratribus insidias s aut laqueos ponunt. Et
+            m/ra: Dominum crucifigunt, qui eum in sacerdotibus suispersecuntur, quia crux a cruciatu
+            dicitur. Magnum uerocruciatum sustinet qui uim patitur. </p>
+        </div>
+        <div xml:id="gd-p2c3q1-Dd1e192">
+          <head xml:id="gd-p2c3q1-Hd1e194">C. VI</head>
+          <head xml:id="gd-p2c3q1-Hd1e197" type="question-title"> Excommunicentur qui obprobrium et
+            calumpniam inferunt sacerdotibus.</head>
+          <p xml:id="gd-p2c3q1-d1e200"> Item Fabianus Papa [ep. II. ad Episcopos orientales]. </p>
+          <p xml:id="gd-p2c3q1-d1e203"> Deus ergo, fratres, ad hoc preordinauit uos et omnes, qui
+            summo sacerdotio funguntur, ut iniusticias remoueatis, et presumptiones abscidatis , et
+            in sacerdotio laborantibussuccurratis, et obprobriis et calamitatibus eorum locumnon
+            prebeatis, sed ei, qui calumpniam uel obprobriumpatitur, adiutorium feratis; illum uero,
+            qui calumpniam uelobprobrium facit, abscidatis, et Domino in suis sacerdotibus opem
+            feratis. </p>
+          <p xml:id="gd-p2c3q1-d1e206"> Gratian. Patet ergo, quod expoliati prius sunt
+            presentialiter restituendi, antequam ad causam sint uocandi. Sed obicitur, ubinon fuit
+            legitima institucio , ibi non potest esse restitucio. Non </p>
+
+
+
+
+          <p xml:id="gd-p2c3q1-d1e210"> enim 'probatur destitutus qui prius non fuit institutus, ac
+            per Inoe nec restaurationem postulare potest. Illi ergo, quorum electiouiciosa est, uel
+            qui a clero non sunt electi, uel a populo expetiti, uel qui per symoniam inrepserunt,
+            non sunt habendi inter episcopos, et ideo, si a sedibus, quas tenere uidebantur,
+            expulsifuerint, non possunt restitutionem petere ante, quam uocentur adcausam. Unde
+            supra in tractatu ordinandorum: „Si quispecunia uel gratia humana, seu populari uel
+            militari tumultu, etc. Sed hoc in eo tantum casu intelligitur, quo apostolica sedes per
+            uiolentiam occupatur, quo casu iudex non inuenitur, cuius offitio ille apostaticus
+            possit excludi. In aliis autem locumnon habet, cum uiolenta possessio, nisi per iudicis
+            sententiam, uiolento detentori detrahi non possit. Si autem uerus dominus, bello non
+            continuato, sed renouaio, ui illum eiecerit de possessione, iudicis auctoritate predoni
+            possessionem restituet. Siergo episcopi a sedibus, quas quoquomodo tenere uidebantur,
+            nonper iudicem, sed uiolenter eiecti fuerint, post eiectionem restituendisunt ante
+            regularem ad sinodum uocationem. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

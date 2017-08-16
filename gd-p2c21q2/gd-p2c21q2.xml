@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c21q2">
+        <head xml:id="gd-p2c21q2-Hd1e103"> QUESTIO II. </head>
+
+        <p xml:id="gd-p2c21q2-d1e106"> I. Pars. Qui uero relicta sua ecclesia ad aliam transire
+          uoluerit nequaquam sine dimissoriis litteris sui episcopi suscipiatur. </p>
+        <p xml:id="gd-p2c21q2-d1e109"> Unde in septima Sinodo [c. 17.] legitur*: </p>
+        <div xml:id="gd-p2c21q2-Dd1e112">
+          <head xml:id="gd-p2c21q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c21q2-Hd1e117" type="question-title"> Sine dimissoriis litteris in
+            aliena ecclesia clericus non ordinetur.</head>
+          <p xml:id="gd-p2c21q2-d1e120"> Quoniam diuersarum ecclesiaram clerici suas, in quibus
+            ordinati sunt, ecclesias relinquentes, ad alios concurruntepiscopos, et ignorante*
+            proprio episcopo in alienis constituuntur ecclesiis, ubi contingit** eos sine sui
+            examinationepermanere, precipimus amodo, ut nullus omnino clericorum, in quocumque gradu
+            sit, licentiam habeat sine dimissoriislitteris sui episcopi in altera constitui
+            ecclesia. Qui uerohoc amodo non obseruauerit, ad obprobrium eius***, quiordinauerit eum,
+            deponatur tam ipse, quam qui eum sineratione suscepit. </p>
+        </div>
+        <div xml:id="gd-p2c21q2-Dd1e124">
+          <head xml:id="gd-p2c21q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c21q2-Hd1e129" type="question-title"> Ad aliam ecclesiam clerico
+            transire non licet, si propriis ministris sua fuerit destituta. </head>
+          <p xml:id="gd-p2c21q2-d1e132"> Item ex Concilio S palen si [II. c. 3.]° </p>
+          <p xml:id="gd-p2c21q2-d1e135"> Placuit, ut si quis clericus ministris ecclesiae propriae
+            destitutis ad aliam transitum fecerit, conpellente, ad quem confugerit, sacerdote, ad
+            ecclesiam, quam priusincoluerat, reuertatur. Qui uero eum susceperit, nec statim sine
+            ullo nisu exceptionis ad propriam ecclesiam remittendum elegerit, quamdiu eum restituat,
+            communione se </p>
+          <p xml:id="gd-p2c21q2-d1e138"> E riuatum cognoscat. Desertorem autem clericum cingulo
+            onoris atque ordinis sui exutum aliquo tempore monasterio religari conuenit, sicque
+            postea in ministerio s ecclesiastici ordinis reuocari. Nam non poterit in
+            talibuspropagationis* aboleri licentia, nisi fuerit in eis percorrectionem disciplinae
+            subsecuta correctio. </p>
+          <p xml:id="gd-p2c21q2-d1e142"> Gratian. Obicitur autem illud Calcedonensis Concilii [c.
+            io.]: </p>
+        </div>
+        <div xml:id="gd-p2c21q2-Dd1e147">
+          <head xml:id="gd-p2c21q2-Hd1e149">C. III</head>
+          <head xml:id="gd-p2c21q2-Hd1e152" type="question-title"> Nichil commune habeat cum priori
+            qui ab%* una m aliam transfertur °. </head>
+          <p xml:id="gd-p2c21q2-d1e155"> II. Pars. Si quis iam translatus est ab una eccle- </p>
+
+
+
+
+          <p xml:id="gd-p2c21q2-d1e158"> sia in aliam, nichil habeat commune cum priori siue sub f
+            ecclesia constitutis martiribus&amp;, siue in ptochiis xenodochiis, aut eorum negociis.
+            Eos uero, qui ausifuerint post ordinationem huius magnae et uniuersalis sinodiagere que
+            prohibita sunt statuit sancta sinodus cadere deproprio gradu. </p>
+          <p xml:id="gd-p2c21q2-d1e161"> Gratian. Sed aliud est tranferri, atque^k aliud propria
+            temeritate transire. Illud apostolica auctoritate fieri licet, hocuero omnibus modis
+            prohibetur. </p>
+          <p xml:id="gd-p2c21q2-d1e165"> III. Pars. §. i. Sicut autem duabus ecclesiis
+            unuspreponinon debet, ita nec una ecclesia inter plures diuidi ualet. </p>
+          <p xml:id="gd-p2c21q2-d1e168"> Unde in Remensi Concilio legitur : </p>
+        </div>
+        <div xml:id="gd-p2c21q2-Dd1e172">
+          <head xml:id="gd-p2c21q2-Hd1e174">C. IV</head>
+          <head xml:id="gd-p2c21q2-Hd1e177" type="question-title"> Una ecclesia duobus sacerdotibus
+            diuidi non potest.</head>
+          <p xml:id="gd-p2c21q2-d1e180"> Sicut in unaquaque ecclesia unus presbiter debet esse, ita
+            ipsa, que sponsa uel uxor eius dicitur, non potestdiuidi inter plures presbiteros, sed
+            unum tantummodo habebit sacerdotem, qui eam caste et sinceriter regat. Undeinterdicimus,
+            ut nullus presumat ecclesiam inter duos uelplures diuidere, quia ecclesia Christi uxor
+            et sponsa debet esse, non scortum, sicut Papa Calixtus testatur. </p>
+          <p xml:id="gd-p2c21q2-d1e183"> IV. Pars. Gratian. Conductitiis quoque ^ presbiteris
+            ecclesia conmitti non debet. </p>
+          <p xml:id="gd-p2c21q2-d1e186"> Unde Innocentius II. [in Sinodo Romana, c. io.]*: </p>
+        </div>
+        <div xml:id="gd-p2c21q2-Dd1e190">
+          <head xml:id="gd-p2c21q2-Hd1e192">C. V</head>
+          <head xml:id="gd-p2c21q2-Hd1e195" type="question-title"> Conductitiis presbiteris
+            ecclesiae non conmittantur . </head>
+          <p xml:id="gd-p2c21q2-d1e198"> Precipimus etiam, ne conductitiis presbiteris ecclesiae
+            conmittantur, et unaqueque ecclesia, cui facultas suppetit, proprium habeat sacerdotem.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

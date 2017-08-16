@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO 1</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO 1</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c27q1">
+
+
+        <head xml:id="gd-p2c27q1-Hd1e103"> QUESTIO 1</head>
+
+        <p xml:id="gd-p2c27q1-d1e106"> I. Pars. Quod uero* uouentes matrimonia contrahere non
+          possunt , multis auctoritatibus probatur. </p>
+        <p xml:id="gd-p2c27q1-d1e109"> In Concilio namque Cartaginensi c. CIV. statutum inuenitur de
+          uiduis , que professam continentiampreuaricate sunt : </p>
+        <div xml:id="gd-p2c27q1-Dd1e112">
+          <head xml:id="gd-p2c27q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c27q1-Hd1e117" type="question-title"> Excommunicentur uiduae , que
+            religioso habitu abiecto nuptias elegerint . </head>
+          <p xml:id="gd-p2c27q1-d1e120"> Sicut bonum est castitatis premium, ita et maiori
+            ob-seruantia et preceptione custodiendum est, ut si que uiduae, quamlibet adhuc in
+            minoribus annis positae, etinmatura* etate a uiro relictae, se deuouerint Deo °, etueste
+            laicali abiecta sub testimonio episcopi et ecclesiaein religioso habitu apparuerint,
+            postea uero ad secularestransierint nuptias, secundum Apostolum dampnatio-nem habebunt,
+            quia fidem castitatis, quam Deououerunt, irritam facere uisae sunt. Tales ergo personae
+            a Christianorum conmunione sequestrentur, neque inconuiuio^** cum Christianis
+            conmunicent. Nam si adulterii*** coniuges reae sunt si suis obnoxiae uiris non fuerint,
+            quanto magis uiduae, que Dei religiositatemmutauerunt, crimine adulterii notabuntur, si
+            deuotionem, quam sponte, non coactae, Deo obtulerunt, libidinosacorriperunt uoluptate,
+            atque ad secundas nuptiastransitum fecerint? Que etsi uiolentia irruente ab
+            aliquooppressae fuerint, ac postea delectatione libidinis permanere in coniugio raptori
+            uel uiolento uiro consenserint, dampnatione superius dicta teneantur obnoxiae. Detalibus
+            Apostolus ait: , , Cum enim luxuriatae fuerint, nubere in Christo uolunt, habentes
+            dampnationem, quiaprimam fidem irritam fecerunt.“ </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e124">
+          <head xml:id="gd-p2c27q1-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c27q1-Hd1e129" type="question-title"> De uiduis et uirginibus , que a
+            religionis proposito discedunt. </head>
+          <p xml:id="gd-p2c27q1-d1e132"> Item ex epistola Gregor i i missa ad B onifatium *. </p>
+
+          <p xml:id="gd-p2c27q1-d1e135"> Viduas a proposito discedentes uiduitatis, super quibus nos
+            consulere uoluit dilectio tua, frater karissime, credote nosse a S. Paulo et a multis
+            sanctis Patribus, nisiconuertantur, olim esse dampnatas. Quas nos apostolica auctoritate
+            dampnandas, et a conmunione fideliumatque a liminibus ecclesiae arcendas fore censemus,
+            usquequo obediant episcopis suis, et ad bonum, quodceperunt, inuite aut uoluntarie
+            reuertantur. §. i. Deuirginibus autem non uelatis, si deuiauerint, a sanctaememoriae
+            predecessore nostro Papa Innocentio taliter decretum habemus: „He uero, que necdum sacro
+            uelaminetectae, tamen in proposito uirginali semper se simulaue-rint permanere, licet
+            uelatae non fuerint, tamen sinupserint, aliquanto tempore his agenda penitencia est,
+            quia sponsio earum a Domino tenebatur. Si enim interhomines solet bonae fidei contractus
+            nulla ratione dis-solui, quanto magis ista pollicitatio, quam cum Deopepigit, solui sine
+            uindicta non poterit, etc.“ §. 2. Siuirgines nondum uelatae taliter penitencia publica
+            puniuntur, et a cetu fidelium usque ad satisfactionem excluduntur, quanto magis uiduae,
+            que perfectioris etatis etmaturioris sapientiae atque consilii existunt,
+            uirorumqueconsortio multociens usae sunt, et habitum religionis assumpserunt, et demum
+            apostatauerunt, atque ad prioremuomitum sunt reuersae, a nobis et ab omnibus fidelibus
+            aliminibus ecclesiae et a cetu fidelium usque ad satisfactionem sunt eliminandae, et
+            carceribus tradendae, qualiteriuxta apostolum Paulum tradentes huiusmodi
+            hominemsathanae, ut spiritus eius sit saluus in die Domini. Detalibus enim Dominus per
+            Moysen loquitur, dicens:„ Auferte malum de medio uestri.“ De quibus s perProphetam ait:
+            „Letabitur iustus, cum uiderit uindictaminpiorum: manus suas lauabit in sanguine
+            peccatoris.^De talibus namque, et eorum similibus, atque eisdemconsentientibus dicitur:
+            , , Quia non solum qui faciunt, sedetiam qui consentiunt facientibus rei sunt.“ </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e140">
+          <head xml:id="gd-p2c27q1-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c27q1-Hd1e145" type="question-title"> Transire non possunt uiduae et
+            uirgines post religionis propositum ad nuptias.</head>
+          <p xml:id="gd-p2c27q1-d1e148"> Item ex Decreto Gei a sii Papae ad Sicilienses Episcopos
+            misso , c. 9. </p>
+          <p xml:id="gd-p2c27q1-d1e151"> Neque uiduas ad nuptias transire patimur, que in religioso
+            proposito diuturna obseruatione permanserunt. Similiter uirgines nubere prohibemus, quas
+            annis plurimis in monasteriis etatem peregisse contigerit. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e155">
+          <head xml:id="gd-p2c27q1-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c27q1-Hd1e160" type="question-title"> Ex quolibet sensu corporis mulier
+            corrumpi potest^.</head>
+          <p xml:id="gd-p2c27q1-d1e163"> Item Ciprianus ad Pomponium de uirginitate . </p>
+          <p xml:id="gd-p2c27q1-d1e166"> Nec aliqua putet se posse hac excusatione defendi, quod
+            inspici et probari possit, an uirgo sit, cum et manusobstetricum et oculus sepe
+            fallatur, et, si incorrupta </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e169"> inuenta fuerit uirgo ea parte, jua mulier potest esse,
+            poterit tamen ex alia corporis parte peccasse, que corrumpi potest, et tamen inspici non
+            potest. Certe ipse concubitus, ipse conplexus, ipsa confabulatio, et osculatio, et
+            coniacentium duorum turpis et feda dormitio, quantumdedecoris et criminis confitetur? Si
+            superueniens maritussponsam suam iacentem cum altero uideat, nonne indignatur et fremit,
+            et per zeli dolorem, portat gladium , inmanu sua? Ets Christus Dominus et iudex noster,
+            cum uirginem suam sibi dicatam et sanctitati suae destinatam iacere cum altero cernit,
+            quam indignatur etirascitur? et quas penas in scelestis huiusmodi con-iunctionibus
+            conminatur? Cuius ut gladium spiritalem etuenturum iudicii diem unusquisque fratrum
+            possit euadere, omni consilio prouidere et elaborare debemus. </p>
+          <p xml:id="gd-p2c27q1-d1e173"> [C. V.] </p>
+          <p xml:id="gd-p2c27q1-d1e176"> Idem [in eadem epistola]. </p>
+          <p xml:id="gd-p2c27q1-d1e179"> Quod si penitenciam huius illiciti concubitus sui egerint,
+            et a se inuicem recesserint, inspiciantur iterum* uir-gines ab obstetricibus diligenter,
+            et si uirgines inuentae fuerint, accepta conmunione ad ecclesiam admittantur; hactamen
+            interminatione, ut, si ad eosdem masculos postmodum reuersae fuerint, aut si cum eisdem
+            in una domo et subeodem tecto simul habitauerint, grauiore censura eiciantur, nec in
+            ecclesia postmodum facile recipiantur.Si autem de eis aliqua corrupta fuerit et
+            deprehensa, agat penitenciam plenam, que hoc crimen admisit queiam non mariti, sed
+            Christi adultera est, et ideo esti-mato iusto tempore, postea exomoloysi sui factaad
+            ecclesiam redeat. Quod si obstinate perseuerant, necse ab inuicem separant, sciant se
+            cum hac sua inpu-dica obstinatione numquam a nobis admitti in ecclesiamposse, ne
+            exemplum ceteris ad ruinass delictis suis facereincipiant, nec putent sibi uitae aut
+            salutis constare rationem, si episcopis et sacerdotibus obtemperare noluerint. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e183">
+          <head xml:id="gd-p2c27q1-Hd1e185">C. VI</head>
+          <head xml:id="gd-p2c27q1-Hd1e188" type="question-title"> Clericus deponatur , laicus
+            excommunicetur , qui cum moniali mediatus fuerit. </head>
+          <p xml:id="gd-p2c27q1-d1e191"> Item ex VI. Sinodo [in Trullo, c. 4.] </p>
+          <p xml:id="gd-p2c27q1-d1e194"> Si quis episcopus, presbiter, aut diaconus, aut
+            subdiaconus, aut lector, aut psalmista, aut hostiarius cummuliere sanctificata Deo
+            mechatus fuerit, deponatur, quiasponsam Christi corrupit; si uero laicus,
+            excommunicetur. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e198">
+          <head xml:id="gd-p2c27q1-Hd1e200">C. VII</head>
+          <head xml:id="gd-p2c27q1-Hd1e203" type="question-title"> Viduae et puellae , que post
+            religionis habitum nubunt , a conmunione suspendantur. </head>
+          <p xml:id="gd-p2c27q1-d1e206"> Item ex Concilio Tolletano IV., c. 8.* </p>
+          <p xml:id="gd-p2c27q1-d1e209"> De uiduis et puellis, que habitum religionis in domibus
+            propriis tam a parentibus, quam per se mutauerunt, si postea contra instituta patrum uel
+            precepta canonum coniugia crediderint copulanda, tam diu utri quehabeantur a conmunione
+            suspensi, quousque quod illiciteperpetrauerunt emendent. Quod si emendare neglexerint, a
+            conmunione uel omnium Christianorum con-uiuio perpetuo sint sequestrati. </p>
+          <p xml:id="gd-p2c27q1-d1e212"> [PALE A*. </p>
+          <p xml:id="gd-p2c27q1-d1e216"> C. VIII. De eodem. </p>
+          <p xml:id="gd-p2c27q1-d1e219"> Item ex Concilio Martini Papae. </p>
+          <p xml:id="gd-p2c27q1-d1e222"> Viduas autem uelare pontificum nullus attemptet, prout
+            statutum est in decretis Gelasii Papae capituloXIII.**, quod nec auctoritas diuina, nec
+            canonum formap restituit. Quod si propria fuerit uoluntate continentiam professa, in
+            eiusdem Gelasii capitulo XXI.legitur, eius intentio pro se reddat rationem Deo,
+            quia*sicut secundum Apostolum, si se continere non poterat, nullatenus nubere uetabatur,
+            sic secum habita deliberatione promissam fidem pudicitiae Deo debet custodire.
+            Nosautem*** auctoritate Patrum suffulti in hoc sancto concilio sancimus et libere
+            iudicamus, si sponte uelamenquamuis non consecratum sibi inposuerit, et in ecclesiainter
+            uelatas Deo oblationem obtulerit, uelit nolit, sanctimoniae habitum ulterius habere
+            debet, licet sacramentoconfirmare uelit, eo tenore et ratione sibi uelamen in-posuisse,
+            ut iterum posset deponere.] </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e226">
+          <head xml:id="gd-p2c27q1-Hd1e228">C. IX</head>
+          <head xml:id="gd-p2c27q1-Hd1e231" type="question-title"> De his , que uotum uirginitatis
+            habentes nubunt , necdum sacro uelamine tectae. </head>
+          <p xml:id="gd-p2c27q1-d1e234"> Item ex Decretis Innocentii Papae , c. 20.[ in Codice
+            canonum, et epist. 2. ad Victricium, c. 13.]He uero, que nondum sacro uelamine sunt
+            tectae, tamen in proposito uirginali semper simulauerant se permanere» etc. et infra. </p>
+          <p xml:id="gd-p2c27q1-d1e237"> [PALE A. </p>
+          <p xml:id="gd-p2c27q1-d1e240"> Licet uelatae non fuerint, si forte nupserint, hisagenda*
+            aliquanto tempore penitencia est, quia sponsioearum a Domino tenebatur. Si enim inter
+            homines </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e244"> solet bonae fidei contractus nulla ratione dissolui, quanto
+            magis ista pollicitatio, quam cum Deo pepigit, solui sineuindicta non debet ?] </p>
+          <p xml:id="gd-p2c27q1-d1e247"> Nam si Apostolus illas, que a proposito uiduitatis
+            discesserunt, dixerat habere dampnationem, quiaprimam fidem irritam fecerunt; quanto
+            magis uirgines, que frangere fidem conatae sunt s? </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e251">
+          <head xml:id="gd-p2c27q1-Hd1e253">C. X</head>
+          <head xml:id="gd-p2c27q1-Hd1e256" type="question-title"> Non sunt admittendae ad
+            penitenciam uirgines sacrae , si publice™* nupserint. </head>
+          <p xml:id="gd-p2c27q1-d1e259"> Item ex Decreto eiusdem , cap. 19. [in Codice canonum, in
+            epistola autem ad Victricium c. 12.]Que Christo spiritualiter nubunt *, si
+            postea**publice nupserint, non eas admittendas esse ad penitenciam, nisi hii, quibus se
+            iunxerant, de mundorecesserint. Si enim de hominibus hec ratio custoditur, ut quecumque
+            uiuente uiro alteri nupserit, adulterahabeatur, nec ei agendae penitenciae licentia
+            conceditur, nisi unus de his fuerit defunctus, quanto magis de illatenenda est, que ante
+            se inmortali sponso coniunxerat, et postea ad humanas transmigrauit nuptias? </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e264">
+          <head xml:id="gd-p2c27q1-Hd1e266">C. XI</head>
+          <head xml:id="gd-p2c27q1-Hd1e269" type="question-title"> Ab ecclesia eliminandae et
+            ergastulis retrudendae^ sunt monachorum uel monacharum inpudicae personae. </head>
+          <p xml:id="gd-p2c27q1-d1e272"> Item ex Concilio Triburiensi , c. 6.* </p>
+          <p xml:id="gd-p2c27q1-d1e275"> Inpudicas detestabilesque personas monachorum scilicet
+            atque monacharum, que abiecto proposito sanctitatis illicita ac sacrilega contagione se
+            miscuerunt, etin arbitrium** conscientiae desperatione perductae, deillicitis
+            conplexibus libere filios procreauerint, a monasteriorum cetu ecclesiarumque conuentibus
+            eliminandas essemandamus, quatinus retrusae in suis ergastulis tantumfacinus continua
+            lamentatione deflentes purificatorio possintpenitudinis igne decoqui, ut eis uel ad
+            mortem soliusmisericordiae intuitu per conmunionis gratiam possitsubueniri. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e279">
+          <head xml:id="gd-p2c27q1-Hd1e281">C. XII</head>
+          <head xml:id="gd-p2c27q1-Hd1e284" type="question-title"> Monachus et uirgo Domino
+            consecrata si nupserint , excommunicentur. </head>
+          <p xml:id="gd-p2c27q1-d1e287"> Item ex eodem *. </p>
+          <p xml:id="gd-p2c27q1-d1e290"> Virginem, que se Deo consecrauerit, similiter et monachum
+            decernimus non licere nuptialia iura contrahere. Quod si hoc inuenti fuerint
+            perpetrantes, excommunicentur. Confitentibus autem decreuimus, uthabeat auctoritatem
+            eiusdem loci episcopus misericordiamhumanitatemque largiri. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e294">
+          <head xml:id="gd-p2c27q1-Hd1e296">C. XIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e299" type="question-title"> Dum uiuunt , lamentis penitenciae
+            se afficiant qui sanctimonialibus scienter copulantur . </head>
+          <p xml:id="gd-p2c27q1-d1e302"> Item ex eodem 216 *. </p>
+          <p xml:id="gd-p2c27q1-d1e305"> Hii igitur, qui scientes sanctimonialibus inmatrimonio sunt
+            ad iniuriam Christi copulati, iuxta censuram zeli Christiani separentur, et numquam eis
+            concedaturiugali uinculo religari, sed in penitenciae lamentis seuehementer, dum uiuunt,
+            afficiant. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e309">
+          <head xml:id="gd-p2c27q1-Hd1e311">C. XIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e314" type="question-title"> A sacra conmunione priuentur qui
+            sacris uirgini-bus se sociant.</head>
+          <p xml:id="gd-p2c27q1-d1e317"> Item ex eodem 224 *. </p>
+          <p xml:id="gd-p2c27q1-d1e320"> Virginibus sacris se quosdam temere sociare cognouimus, et
+            post dicatum Deo propositum incestafedera sacrilegaque miscere. Quos protinus equum est
+            asacra conmunione detrudi, et nisi per publicam proba-tamque penitenciam omnino non
+            recipi. Sed tamen his uiaticum de seculo transeuntibus, si dignepenituerint, non
+            negetur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e324">
+          <head xml:id="gd-p2c27q1-Hd1e326">C. XV</head>
+          <head xml:id="gd-p2c27q1-Hd1e329" type="question-title"> In monasterio reuocetur ac
+            recludatur que a fornicatione recedere noluerit . </head>
+          <p xml:id="gd-p2c27q1-d1e332"> Item Gregorius *. </p>
+          <p xml:id="gd-p2c27q1-d1e335"> Peruenit ad nos, quod quidam uir nequissimus diabolico
+            instinctu de monasterio suaserat exire quandam Deosacratam, atque a quodam uiro, unde
+            exierat, sit reuocata, </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e338"> rursusque eam uir ille nequissimus iniqua suasione de
+            monasterio eiciens, apud se retineat inpudice. Volumusautem, ut episcopatus tui
+            auctoritate in monasterio reuoce-tur ac recludatur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e342">
+          <head xml:id="gd-p2c27q1-Hd1e344">C. XVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e347" type="question-title"> Non est fas uiduis post susceptum
+            uelamen a sacro proposito discedere.</head>
+          <p xml:id="gd-p2c27q1-d1e350"> Item ex Concilio Aurelianensi , c. 3. </p>
+          <p xml:id="gd-p2c27q1-d1e353"> Viduae , que spontanea uoluntate ab altari sacrae
+            conuersationis uelamen suscipiunt, decreuit sinodus 250 c i eodem proposito permanere.
+            Non enim fasesse decreuimus, postquam se semel Domino subuelo consecrauerint, iterum eis
+            concedi Spiritui sanctomentiri. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e358">
+          <head xml:id="gd-p2c27q1-Hd1e360">C. XVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e363" type="question-title"> Qui sacro tectam uelamine in
+            coniugium ducit anathema sit.</head>
+          <p xml:id="gd-p2c27q1-d1e366"> Item ex eodem 256 *. </p>
+          <p xml:id="gd-p2c27q1-d1e369"> Si quis sacro'uelamine consecratam in coniugium duxerit, et
+            post dicatum Deo propositum incesta federa sacrile-gaque miscuerit, ut in constitutis
+            Gelasii Papae capitulo XX . legitur, protinus equum est a sacra conmunionedetrudi, et
+            nisi per publicam probatamque penitenciam nonrecipi omnino. Si penituerint,
+            transeuntibus de seculouiaticum non negetur. §. 1. In Calcedonensi concilio cap. XF//.:
+            , , Hoc perpetrantes excommunicentur; con-fitentibus auctoritate episcopi misericordia
+            largiatur. “§. 2. ih epistola Syricii Papae cap. 6.: , , Velatae et Deo consecratae, si
+            abiecta proposito sanctitatis clanculo sacrilega contagione se miscuerint, et illicitis
+            conplexibuspublice et libere filios procreauerint, has nuptias dete-stabilesque personas
+            a monasteriorum cetu et s ecclesiarum conuentibus eliminandas esse iudicatum est,
+            quatinusdetrusae ergastulis tantum facinus continua lamentationedefleant.“ Unde et uerbo
+            Domini, et canonica auctoritatein hac sancta Sinodo precipimus, ut omnino separentur,
+            etiuramento colligentur*, ut ulterius sub uno non cohabitent tecto. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e373">
+          <head xml:id="gd-p2c27q1-Hd1e375">C. XVIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e378" type="question-title"> Ad habitum redire cogatur , et
+            recludatur </head>
+          <p xml:id="gd-p2c27q1-d1e381"> m monasterio , qui religiosam uestem abiecit °. </p>
+          <p xml:id="gd-p2c27q1-d1e384"> Item Gregorius Vitaliano , Episcopo Sipontino , </p>
+          <p xml:id="gd-p2c27q1-d1e387"> [lib. VII. Indict. 1. epist. 9.] </p>
+
+          <p xml:id="gd-p2c27q1-d1e391"> Si custos religiosi habitus, aut esse nosses episcopus,
+            filiam gloriosae memoriae Tulliani magistri militiae, te illic posito proiectis
+            religiosis uestibus nec ad secularem reuerti habitum, nec ad nos licuisset peruersam
+            epistolam destinare. Sed quia nimia desidia ac torporedeprimeris, in tuo dedecore res ad
+            presens illicita inpuneconmissa est. Nam sicut, prefati sumus, si sollicitusextitisses,
+            prius ad nos ultio mulieris prauissimae quamculpa debuit peruenire. Quia ergo tantum
+            hebes tantumque es negligens, ut, nisi canonicam in te fueris coher-cionem expertus, in
+            aliis districtionem et disciplinamnescias custodire, qualiter debeas esse sollicitus
+            congruotibi, si Domino placuerit, tempore demonstrabimus.§. 1. Presentia igitur scripta
+            suscipiens, euigila et excitatussaltim exequere* quod pressus nunc usque ignauia
+            distulisti. Instantiae ergo tuae sit predictam mulierem una cumSergio defensore nostro
+            conprehendere, et statim nonsolum ad male contemptum habitum sine excusationealiqua
+            reuocare, sed etiam in monasterio, ubi omninodistricte ualeat custodiri, detrudere, et
+            ita omnem circa illamsollicitudinem exhibere, ut quam sit nefarium quod conmisitex tua
+            possit districtione cognoscere. §. 2. Qua in re siquis (quod non credimus) laicorum
+            aliquo tibi ingeniotemptauerit obsistendum, a sanctissimae eum con-munionis
+            participatione suspende nobisque renunciarefestina, ut quantum sit execrabile quod
+            presumit, postquam consideratione propria non aduertit, emendationisqualitate cognoscat.
+            §.3. In his autem omnibus ita cautumstude te uigilantemque ostendere, ut culpam tuam
+            nongeminare neglectus, sed aliquantisper ualeas sollicitudine minuere. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e395">
+          <head xml:id="gd-p2c27q1-Hd1e397">C. XIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e400" type="question-title"> Districtae custodiae tradatur
+            que^W* a religionis proposito ad secularem habitum rediit . </head>
+          <p xml:id="gd-p2c27q1-d1e403"> Idem Sergio Defensori , [lib. VII. Indict. 1. ep. 10.] </p>
+          <p xml:id="gd-p2c27q1-d1e406"> Si homo esses, aut discretionem aliquam habuisses, ita
+            regularis disciplinae debuisti custos existere, ut ea, queillicite conmittuntur, ante
+            uindicta corrigerentur, quam ad nos eorum nuncius perueniret. Sed dum nimiate facit
+            stulticia negligentem, non solum de illis offendimur, sed etiam ad ulciscendum desidiam
+            tuam nichilominusprouocamur. Omni ergo dilatione omnique excusationepostposita filiam
+            gloriosae memoriae Tulliani magistri mili-ciae, que proiectis, quas sponte assumpsit,
+            religiosisuestibus, indumentis se laicis deturpauit, una cum fratre etcoepiscopo nostro
+            Vitaliano festina conprehendere, atquead religiosum rursus habitum reuocare, ac in
+            monasterio mittere, ubi districte omnino ualeat custodiri, nec eius custodiam
+            aliquatenus releuari permittas, quousquedenuo nostra scripta susceperis. Nam si quolibet
+            modo inhac re negligens uel lentus extiteris, ita in te districtissimenoueris
+            uindicandum, ut quod ex te nescis pena possisresecante cognoscere, quia, sicut s
+            diximus, siintellectum hominis habuisses, que facere modo pre-ciperis, ante debueras
+            etiam cum ultione a tefacta cognoscere. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e410">
+          <head xml:id="gd-p2c27q1-Hd1e412">C. XX</head>
+          <head xml:id="gd-p2c27q1-Hd1e415" type="question-title"> Non tribuitur^* licentia nubendi
+            , qui continentiam seruare decreuerunt. </head>
+          <p xml:id="gd-p2c27q1-d1e418"> Item Augustinus de conflictu uiciorum atque uirtutum, [cap.
+            24.] </p>
+          <p xml:id="gd-p2c27q1-d1e421"> Nubendi licentia quibusdam tribuitur: illis uidelicet, qui
+            uirginitatem uel castitatem uidualem nequaquam professi sunt. Quibusdam autem non
+            tribuitur:illis uidelicet, qui uirgines uel continentes esse decreuerunt. Fornicatio
+            autem nulli inpune conceditur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e425">
+          <head xml:id="gd-p2c27q1-Hd1e427">C. XXL Peiores sunt adulteris ^m </head>
+          <head xml:id="gd-p2c27q1-Hd1e430" type="question-title"> continentiae propositum
+            uiolant.</head>
+          <p xml:id="gd-p2c27q1-d1e433"> Idem in libro de bono coniugii *. </p>
+          <p xml:id="gd-p2c27q1-d1e436"> Proposito meliore lapsas, si nupserint, feminas a castitate
+            sanctiori, que uouetur Deo, adulteris esse peiores manifestum est. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e440">
+          <head xml:id="gd-p2c27q1-Hd1e442">C. XXII</head>
+          <head xml:id="gd-p2c27q1-Hd1e445" type="question-title"> Monachus et uirgo, que- se Deo
+            dedicauit, nuptiis iungi non possunt. </head>
+          <p xml:id="gd-p2c27q1-d1e448"> Item ex Concilio Calcedonensi, [c. 16.]* </p>
+          <p xml:id="gd-p2c27q1-d1e451"> Si qua uirgo se dedicauerit Deo, similiter monachus, non
+            licet eis nuptiis iungi. Si uero fuerint inuenti hocfacientes, maneant excommunicati.
+            Statuimus uero posseeis fieri humanitatem, si ita probauerit episcopus loci. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e456">
+          <head xml:id="gd-p2c27q1-Hd1e458">C. XXIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e461" type="question-title"> Diaconissa, que post ordinationem
+            nubit, anathema sit.</head>
+          <p xml:id="gd-p2c27q1-d1e464"> Item ex eodem, [c. 15.] </p>
+          <p xml:id="gd-p2c27q1-d1e467"> Diaconissam non debere ante annos quadraginta ordinari
+            statuimus, et hoc cum diligenti probatione. Si uero susceperit ordinationem, et
+            quantocumque temporeobseruauerit ministerium, et postea se nuptiis tradiderit, iniuriam
+            faciens gratiae Dei, hec anathema sitcum eo, qui in illius nuptiis conuenerit. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e471">
+          <head xml:id="gd-p2c27q1-Hd1e473">C. XXIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e476" type="question-title"> Inter bigamas reputantur qui
+            uirginitatem pollicitam preuaricantur.</head>
+          <p xml:id="gd-p2c27q1-d1e479"> Item ex Sinodo Anchiritana, [c. i8.] </p>
+          <p xml:id="gd-p2c27q1-d1e482"> Quotquot uirginitatem pollicitam preuaricatae sunt
+            professione contempta, inter digamos, id est qui adsecundas nuptias transierunt, haberi
+            debent. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e486">
+          <head xml:id="gd-p2c27q1-Hd1e488">C. XXV</head>
+          <head xml:id="gd-p2c27q1-Hd1e491" type="question-title"> Virginibus Deo dedicatis riec in
+            fine danda est conmunio, si libidini seruierint . </head>
+          <p xml:id="gd-p2c27q1-d1e494"> Item ex Concilio Elibertano, [c. 13.]Virgines, que Deo se
+            dedicauerunt, si perdiderint*pactum uirginitatis, atque eidem libidini seruierint,
+            nonintelligentes quid amiserint, placuit nec in fine dandameis esse conmunionem. Quod si
+            semet** persuaserint, quod infirmitate corporis lapsae fuerint, et*** temporeuitae suae
+            penitenciam egerint, et a coitu se abstinuerint f, placuit eas in fine conmunionem
+            acciperedebere. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e498">
+          <head xml:id="gd-p2c27q1-Hd1e500">C. XXVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e503" type="question-title"> Cogatur ad penitenciam filia
+            clerici, si deuota maritum duxerit.</head>
+          <p xml:id="gd-p2c27q1-d1e506"> Item ex Concilio Martini Papae, [c. 30.] De filia episcopi
+            uel presbiteri, siue diaconi, sideuota fuerit, et maritum duxerit, si eam pater uel
+            mater inaffectum receperit, a conmunione habeantur alieni.Pater uero in concilio causas
+            se nouerit prestaturum.Mulier uero non admittatur ad conmunionem, nisi maritodefuncto
+            egerit penitenciam Si autem uiuente eo secesserit, et penitenciam, egerit, uel petierit
+            conmunionem, in ultimo fine uitae suae deficiens eam accipiat. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e510">
+          <head xml:id="gd-p2c27q1-Hd1e512">C. XXVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e515" type="question-title"> Deuota, nisi peccare desierit,
+            non est in ecclesia recipienda.</head>
+          <p xml:id="gd-p2c27q1-d1e518"> Item ex Concilio Tollet ano I., [c. 16.]Deuotam peccantem
+            non recipiendam esse in ecclesia nisi peccare desierit, et, si desinens egeritaptam
+            penitenciam decem annis, recipiat conmunionem. Prius autem, quam in ecclesia
+            admittaturad orationem, ad nullius conuiuium Christianae mulierisaccedat. Quod si
+            admissa fuerit, etiam hec, que eamreceperit, habeatur in absentia*. Corruptorem etiampar
+            pena constringat. Que autem maritum acceperit nonadmittatur ad penitenciam, nisi aut
+            uiuente maritocaste uiuere ceperit, aut postquam ipse decesserit. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e522">
+          <head xml:id="gd-p2c27q1-Hd1e524">C. XXVIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e527" type="question-title"> De monacha, que ad lapsum
+            adulterii deducitur.</head>
+          <p xml:id="gd-p2c27q1-d1e530"> Item Gregorius I oh anni, Episcopo Caralitano, </p>
+          <p xml:id="gd-p2c27q1-d1e533"> [lib. III. epist. 9.] </p>
+          <p xml:id="gd-p2c27q1-d1e536"> Si qua monacharum uel per antiquiorem licentiam, uel per
+            inpunitatis prauam consuetudinem ad lapsumadulterii deducta fuerit, aut in futurum
+            fuerit perducta uoraginem, hanc post conpetentis seueritatem uindictae </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e540"> in aliud districtius monasterium uirginum in penitenciam
+            uolumus redigi, ut illic orationibus atque ieiuniis* uacet, et sic penitendo proficiat,
+            et metuendum ceterisartioris disciplinae prestet exemplum. Is autem, qui cumhuiusmodi
+            feminis in aliqua fuerit iniquitate repertus, con-munione priuetur, si laicus : si uero
+            clericus est, asuo remotus quoque offitio pro suis continue s lugendisexcessibus in
+            monasterium detrudatur. </p>
+          <p xml:id="gd-p2c27q1-d1e543"> C. XXIX. Post dignam penitenciam communionem, recipiant qui
+            in religiosas mulieres excedunt. </p>
+          <p xml:id="gd-p2c27q1-d1e546"> Idem Ianuario Episcopo, [lib. III. epist. 24.] </p>
+          <p xml:id="gd-p2c27q1-d1e549"> Eos autem, qui in mulieres, que egressae sunt de
+            monasteriis, excesserunt, et nunc dicuntur conmunionesuspensi*, si fraternitas tua de
+            tali facinore digne peni-tuisse preuiderit, ad sacram conmunionem uolumus te re-uocare.
+          </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e554">
+          <head xml:id="gd-p2c27q1-Hd1e556">C. XXX</head>
+          <head xml:id="gd-p2c27q1-Hd1e559" type="question-title"> De legibus inperatorum.</head>
+          <p xml:id="gd-p2c27q1-d1e562"> Item ex Nouellis Iustiniani Inperaioris . </p>
+          <p xml:id="gd-p2c27q1-d1e565"> Si quis rapuerit, uel sollicitauerit, uel corruperit
+            as-6istriam*, uel diaconissam, uel monastriam, uelaliam mulierem religiosam uitam uel
+            habitum habentem, bona ipsius, et eorum, qui huius sceleris conmunionecontaminati sunt,
+            religioso loco uendicentur, in quotalis mulier habitabat, per religiosos episcopos, et
+            ycono-mos, et presides prouinciarum, et offitiales eorum; ipsiautem capitali periculo
+            subiciantur. Mulier autem ubique inuestigetur, et cum suis rebus monasterio
+            cautioritradatur. Sin autem diaconissa fuerit liberos habenslegitimos, pars legitima
+            liberis eius prestetur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e569">
+          <head xml:id="gd-p2c27q1-Hd1e571">C. XXXI</head>
+          <head xml:id="gd-p2c27q1-Hd1e574" type="question-title"> Caste obseruent religionis
+            habitum , que religionis obtentu uelantur. </head>
+          <p xml:id="gd-p2c27q1-d1e577"> Item ex Decreto Eugenii Papae [II. in Concilio Romano, c.
+            29.]* </p>
+          <p xml:id="gd-p2c27q1-d1e580"> Mulieres obtentu religionis uelatae aut in monasterio
+            regulariter uiuant, aut in domibus suis susceptum habitumcaste obseruent. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e584">
+          <head xml:id="gd-p2c27q1-Hd1e586">C. XXXII</head>
+          <head xml:id="gd-p2c27q1-Hd1e589" type="question-title"> Monachus uxorem ducens numquam
+            sacri gradus sortiatur offitium. </head>
+          <p xml:id="gd-p2c27q1-d1e592"> Item ex Concilio Aurelianensi [I., c. 22. et 23.]Monacho
+            orarium in monasterio uel zonas habere non liceat. Et si postea* uxori fuerit sociatus,
+            tantaepreuaricationis reus numquam ecclesiastici gradus sortiaturoffitium. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e596">
+          <head xml:id="gd-p2c27q1-Hd1e598">C. XXXIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e601" type="question-title"> Ante professam continentiam^
+            nubant uiduae quibus uolunt.</head>
+          <p xml:id="gd-p2c27q1-d1e604"> Item Augustinus de bono uiduitatis , [c. 28.]Viduae, que se
+            non continent, nubant ante, quam professae* continentiam Deo uoueant. Quod nisi reddant,
+            iuredampnantur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e608">
+          <head xml:id="gd-p2c27q1-Hd1e610">C. XXXIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e613" type="question-title"> Non permittatur uidua ^ post
+            professionem continentiae uotum deserere. </head>
+          <p xml:id="gd-p2c27q1-d1e616"> Item Nykolaus Car olo A rchiepiscopo, et eius Suffraganeis
+            . </p>
+          <p xml:id="gd-p2c27q1-d1e619"> Vidua quidem, que capiti sacrum uelamen inposuit, si inter
+            ceteras uelatas feminas in ecclesia orauerit, etoblationes* cum illis obtulerit, si
+            professa estin eodem habitu permanere, spondens numquam uelamenreligionis deponere, a
+            religionis obseruantia discederenon presumat. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e623">
+          <head xml:id="gd-p2c27q1-Hd1e625">C. XXXV</head>
+          <head xml:id="gd-p2c27q1-Hd1e628" type="question-title"> Professio uiduitatis coram
+            episcopo facta post habitum susceptum nulli uiolari permittitur. </head>
+          <p xml:id="gd-p2c27q1-d1e631"> Item ex Concilio Aurasico , [c. 27.]Viduitatis seruandae
+            professionem coram episcopo insecretario habitam, inposita coram episcopo* ueste
+            ui-duali, dicimus non esse uiolandam. Ipsam**talis professionis desertricem merito esse
+            dampnandamdecernimus. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e636">
+          <head xml:id="gd-p2c27q1-Hd1e638">C. XXXVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e641" type="question-title"> Modus et solempnitas faciendae
+            professionis hoc ordine seruetur.</head>
+          <p xml:id="gd-p2c27q1-d1e644"> Item ex Concilio Tollet ano [X., c. 5.J* </p>
+          <p xml:id="gd-p2c27q1-d1e647"> Omnes feminae uenientes ad sacram religionem </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e650"> pallio capita contegant, et conscriptam robora-tamque
+            professionem faciant, post quam scripturam non sinantur relabi ad preuaricationis
+            audaciam. §. i. Que ueroex omnibus his fuerint repertae animum aut uestem
+            intransgressionem dedisse, excommunicationis sentenciam ferant, et rursus mutato habitu
+            in monasteriis, donecdiem ultimum claudant, sub erumpnis arduae penitenciaepermaneant
+            religatae. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e654">
+          <head xml:id="gd-p2c27q1-Hd1e656">C. XXXVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e659" type="question-title"> Filii sunt perditionis qui
+            uiolant corpora feminarum Deo sacratarum . </head>
+          <p xml:id="gd-p2c27q1-d1e662"> Item ex Concilio Arei at en si . </p>
+          <p xml:id="gd-p2c27q1-d1e665"> Sciendum est omnibus, quod Deo sacratarum feminarum corpora
+            per uotum propriae sponsionis et uerba sacerdotis Deo consecrata esse templa
+            scripturarum testimoniis conprobantur, et ideo uiolatores earum sacrilegi, ac iuxta
+            Apostolum filii perditionis esse noscuntur. </p>
+          <p xml:id="gd-p2c27q1-d1e668"> [PALE A. </p>
+          <p xml:id="gd-p2c27q1-d1e672"> C. XXXVIII. De eodem. </p>
+          <p xml:id="gd-p2c27q1-d1e675"> Item. </p>
+          <p xml:id="gd-p2c27q1-d1e678"> Viduae, si prius, quam continentiam profiteantur, nubere
+            elegerint, illis nubant, quos propria uoluntateuoluerint habere maritos. Similis
+            conditio et deuirginibus habeatur, nec extra uoluntatem parentumuel suam cogantur
+            accipere maritos.] </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e682">
+          <head xml:id="gd-p2c27q1-Hd1e684">C. XXXIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e687" type="question-title"> In monasteriis retrudantur^*
+            monachi uxoribus sociati.</head>
+          <p xml:id="gd-p2c27q1-d1e690"> Item Gregorius Arternio Subdiacono , in epist. 41. </p>
+          <p xml:id="gd-p2c27q1-d1e693"> [lib. I.]* </p>
+          <p xml:id="gd-p2c27q1-d1e696"> Et quia aliquos monachorum usque ad tantum nefas
+            prosiluisse cognouimus, ut uxores publice sortiantur, precipimus ut sub omni uigilantia
+            requiras, et inuentoshabita cohercione in monasteriis, quo s monachifuerant, remitti
+            facias. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e700">
+          <head xml:id="gd-p2c27q1-Hd1e702">C. XL</head>
+          <head xml:id="gd-p2c27q1-Hd1e705" type="question-title"> De monacha que ad lapsum
+            adulterii deducitur . </head>
+          <p xml:id="gd-p2c27q1-d1e708"> Item Innocentius Papa [II. in Concilio Romano, c. 7. §. Ut
+            lex.] </p>
+          <p xml:id="gd-p2c27q1-d1e711"> Ut lex continentiae et Deo placens mundicia in
+            ecclesiasticis personis et sacris ordinibus dilatetur, statuimus, quatinus episcopi,
+            presbiteri, diaconi, subdiaconi, regulares canonici, monachi atque conuersi professi,
+            qui sacrumtransgredientes propositum uxores sibi copulare presumpserint, separentur.
+            Huiusmodi namque copulationem, quamcontra ecclesiasticam regulam constat esse
+            contractam, matrimonium non esse censemus. Qui etiam ab inuicemseparati pro tantis
+            excessibus condignam penitenciam agant.Id ipsum quoque de sanctimonialibus feminis, si
+            (quod absit) nubere adtemptauerint, obseruari decernimus. </p>
+
+          <p xml:id="gd-p2c27q1-d1e714"> Gratian. His omnibus auctoritatibus uouentes prohibentur*
+            contrahere matrimonia , et quidam eorum , si contraxerint , separari iubentur. </p>
+          <p xml:id="gd-p2c27q1-d1e718"> II. Pars. Augustinus econtra talium separationes peccatum
+            asserit esse , zVa dicens [in libro de bono uiduitatis, c. 8.] : </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e722">
+          <head xml:id="gd-p2c27q1-Hd1e724">C. XLI</head>
+          <head xml:id="gd-p2c27q1-Hd1e727" type="question-title"> Coniugici uouentium non sunt
+            dissoluenda.</head>
+          <p xml:id="gd-p2c27q1-d1e730"> Nuptiarum bonum semper quidem est bonum, quod bonum semper
+            in populo Dei fuit, sed aliquandofuit legis obsequium, nunc est infirmitatis remedium,
+            inquibusdam uero humanitatis solatium. Filiorum quippeprocreationi operam dare, non
+            canino more per usum promiscuum feminarum, sed honesto ordine coniugali, nuncest in
+            homine probandus affectus: et ipsum tamenlaudabilius transcendit et uincit celestia
+            cogitans animusChristianus. Sed quoniam, sicut ait Dominus, non omnescapiunt uerbum hoc,
+            qui potest capere capiat, que se noncontinet nubat, que non cepit deliberet, que
+            eggressa^est perseueret; nulla aduersario detur occasio, nulla subtrahatur Christo
+            oblatio. §. 1. In coniugali quippe uinculo, si pudicitia non conseruatur, dampnatio non
+            timetur.Sed in uirginali et uiduali continentia excellentia munerisamplioris expetitur,
+            qua expetita et electa, et uoti debitooblata, iam non solum capescere nuptias, sed,
+            etiamsi non nubant, nubere uelle dampnabile est. Nam uthoc demonstraret Apostolus, non
+            ait, cum in deliciisegerint, in Christo nubunt, sed: , , nubere uolunt, habentes “
+            (inquit) „ dampnationem, quoniam primam fidem irritam fecerunt, “ etsi non nubendo,
+            tamen uolendo; nonquia ipsae nuptiae uel etiam i talium dampnandae iudicen-tur, sed
+            dampnatur propositi fraus, dampnatur fractiuoti fides, dampnatur non susceptio a bono
+            inferiore, sedruina ex bono superiore. Postremo dampnantur tales, nonquia coniugalem
+            fidem posterius inierunt, sed quia continentiae primam fidem irritam fecerunt. Quod ut
+            breui-ter insinuaret Apostolus, noluit eas dicere habere dampnationem, que post
+            amplioris sanctitatis propositum nubunt, non quia non dampnantur, sed ne in eis ipsae
+            nuptiaedampnari putarentur; sed cum dixisset: „nubere uolunt, continuo addidit:
+            „habentes dampnationem, et dixitquare: , , quoniam priorem fidem irritam fecerunt, “
+            utuoluntas, que a proposito cecidit, appareat esse dam-pnata, siue subsequantur nuptiae
+            siue desint. §. 2.Proinde, qui dicunt talium nuptias non esse nuptias, sedpotius
+            adulteria, non michi uidentur satis acute ac diligenter considerare quid dicant. Fallit
+            quippe eos similitudoueritatis. Quia enim coniugium Christi dicuntur eligereque
+            Christiana sanctitate non °* nubunt, hinc argumentantur quidam, dicentes: Si uiro suo
+            uiuo que alteri nubitadultera est, sicut ipse Dominus in euangelio diffini-uitP, uiuit
+            autem Christus % cui mors ultra non domi- </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e733"> nabitur, que ergo coniugium eius elegerat, si homini nubit,
+            adultera est. §. 3. Qui dicunt hoc acute quidem mouentur, sed parum adtendunt, hanc
+            argumentationem quanta rerum sequatur absurditas. Cum enimlaudabiliter etiam uiuente
+            uiro ex eius consensu continentiam femina Christo uoueat, secundum istorum rationemnulla
+            hoc facere debet, ne ipse Christus (quod sentire nefas est) adulterium faciat, cui
+            uiuente marito nubit. Deinde cum primae nuptiae melioris sintmeriti quam secundae,
+            absit, ut sanctarum uiduarum istesit sensus, ut Christus eis uideatur quasi secundus
+            maritus.Ipsum enim habebant et antea (quando uiris suis subditaefideliter seruiebant)
+            non carnaliter, sed spiritualiter uirum, cui ipsa ecclesia, cuius membra sunt, coniunx
+            est, que fidei, spei et karitatis integritate non solum 7 in uirginibussacris, sed etiam
+            in coniugatis fidelibus tota uirgoest. Uniuersae quippe ecclesiae, cuius illa
+            omniamembra sunt, Apostolus dicit: „Aptaui uos uni uiro uir-ginem castam exhibere
+            Christo.“ Nouit autem ille uirginemconiugem sine corruptione fetare, quem in ipsa carne
+            etiampotuit mater sine corruptione procreare. §. 4. Fit autemper hanc minus consideratam
+            oppinionem, qua putant lapsarum a sancto proposito feminarum, si nupserint, non
+            esseconiugia, non paruum malum, ut a maritis separentur uxores, quasi adulterae sint,
+            non uxores; et, cum uolunt easseparatas reddere continentiae, faciunt maritos
+            earumadulteros ueros, cum suis uxoribus uiuis alteras ducunt.§. 5. Quapropter non possum
+            quidem dicere, a proposito meliore lapsas si nupserint feminas, adulteria esse, non
+            coniugia: sed plane non dubitauerim dicere, lapsus etruinas a castitate sanctiore, que
+            uouetur Deo, adulteriis essepeiores. Si enim (quod nullo modo dubitandum est)
+            adoffensionem Christi pertinet, cum membrum fidem nonseruat marito, quanto grauius
+            offenditur, cum illi ipsi nonseruatur fides in eo, quod exigit oblatum quod nonexegerat
+            offerendum? Cum enim quisque non reddit quodnon inperio conpulsus, sed consilio
+            conmonitus uouit, tantomagis fraudati uoti auget iniquitatem, quanto minus habuituouendi
+            necessitatem. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e737">
+          <head xml:id="gd-p2c27q1-Hd1e739">C. XLII</head>
+          <head xml:id="gd-p2c27q1-Hd1e742" type="question-title"> De uiduis, que primam fidem
+            irritam fecerunt . </head>
+          <p xml:id="gd-p2c27q1-d1e745"> Item Gelasius [in epistola ad Episcopos Lucaniae et
+            Brutiorum, cap. 23.J </p>
+          <p xml:id="gd-p2c27q1-d1e748"> De uiduis sub nulla benedictione uelandis superius late
+            sufficienterque prediximus. Que si propriauoluntate professam pristini coniugii
+            castitatem mutabilimente calcauerint, periculi earum intererit, quali Deumdebeant
+            satisfactione placare, quia iuxta Apostolumprimam fidem irritam fecerunt. Sicut enim, si
+            se forsitancontinere non poterant, secundum Apostolum nullatenus nubere uetabantur, sic
+            habita secum deliberationepromissam Deo pudicitiae fidem debent custodire. Nosautem
+            nullum talibus laqueum inicere, sed solum adhortationes premii sempiterni penasque
+            proponere diuiniiudicii, ut et nostra sit absoluta conscientia, et illarumpro se
+            rationem Deo reddat intentio. Cauendum estquippe quod de earum moribus actibusque B.
+            Paulustestatur apostolus. Quod plenius exponere preteri- </p>
+
+          <p xml:id="gd-p2c27q1-d1e751"> mus, ne sexus instabilis non tam deterreri quam </p>
+          <p xml:id="gd-p2c27q1-d1e755"> admoneri uideatur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e760">
+          <head xml:id="gd-p2c27q1-Hd1e762">C. XLIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e765" type="question-title"> De eodem. Item Theodorus™.</head>
+          <p xml:id="gd-p2c27q1-d1e768"> Si quis votum virginitatis habens, etc. </p>
+          <p xml:id="gd-p2c27q1-d1e771"> Gratian. Quod autem uouentes premissis auctoritatibus
+            iubentur ab inuicem discedere, quorum uero coniugia auctori-tate Augustini et Theodori
+            soluenda non sunt, in capitulode ordinatione clericorum euidenter ostenditur. §. i.
+            Illud autemInnocentii™, quo uirgines sacrae publice nubentes, illo niuente, cui se
+            coniunxerant, prohibentur admitti ad penitenciam, non itaintelligendum est, ut aliquo
+            tempore excludantur a penitencia quedigne penitenciam agere uoluerint; sed prohibentur
+            admitti adpenitenciam que ab incesti copula discedere noluerint. Post propositum namque
+            sacrae religionis non potest Deo per penitenciamreconciliari que ad habitum professionis
+            suae redire neglexerit.Tunc enim ille , cui se iunx er at, ei defunctus erit, cum ab
+            eius illicitis amplexibus hec penitus recesserit, ut iste sit sensus capituli: , , Que
+            Christo spiritualiter nubunt, si postea publice nupse^rint, non eas admittendas esse ad
+            penitenciam censemus, nisi hii, quibus se iunxerant, de mundo recesserint , “ eis,
+            subaudiendumest, nubentibus. Tunc enim uiri de mundo recedunt, tunc defunguntur, cum ab
+            eorum concupiscentia ipsae penitus sealienauerint, sicut mundus ei dicitur mortuus, quem
+            suis illecebrisnon astringit, et ille perhibetur mortuus mundo, qui nichil ^mundi
+            concupiscit. Hoc autem sic intelligendum esse, ex sub-sequenti exemplo idem Innocentius
+            ostendit, dicens : „ Quecumque uiro uiuente alteri nupserit adultera habeatur , nec
+            eiagendae penitenciae locus conceditur ^d, {{ Jii fueritdefunctus. Hoc de derelicta
+            intelligendum est, que, si uiuenteuiro suo alteri nubit, adultera est, nec ad
+            penitenciam admittitur, nisi uel primus reuertatur in puluerem, de quo sumptus est,
+            uelsecundus, ab eius copula cessando, ei moriatur, ut supra dictumest. Quia ergo
+            Christus, cui spiritualiter nubunt, iam non moritur, mors illi ultra non dominabitur,
+            restat, ut ille, cui secundonubunt, eis moriatur. In utroque autem, nisi sic
+            intelligeretur, esset contrarius Domino, dicenti per Prophetam „In quacumque hora
+            peccator conuersus fuerit, etc. et cunctis interpretibus diuinae legis inueniretur
+            aduersus . Probatur illud idemauctoritate illius capituli , quo deuota, que maritum
+            acceperit, prohibetur ad penitenciam admitti, nisi uel uterque continentiamprofessus
+            fuerit, uel ille, cui se iunxerat, de hoc mundo disces-serit *&gt; </p>
+          <p xml:id="gd-p2c27q1-d1e774"> QUESTIO II. </p>
+          <p xml:id="gd-p2c27q1-d1e778"> GRATIANUS. </p>
+          <p xml:id="gd-p2c27q1-d1e781"> I. Pars. Sequitur secunda questio, qua queritur, an puellae
+            alteri desponsatae possint renunciare priori condicioni, et transferre sua uota ad
+            alium. (Qu. I.) Hic primum uidendum est, an sit coniugium inter eos? (Qu. II.) Secundo,
+            an possint abinuicem discederef §. i. Hos autem coniuges esse, et ex diffinitione
+            coniugii, et auctoritate multorum facile probatur. Suntenim nuptiae siue matrimonium
+            uiri mulierisque coniunctio, indiuiduam uitae consuetudinem retinens. Inter hos autem
+            fuitconiunctio, que indiuiduam uitae consuetudinem exigebat. Fuitenim inter eos
+            consensus, qui est efficiens causa matrimonii, iuxtaillud YsidorP: „ Consensus facit
+            matrimonium . Item Iohan- </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e784"> nes Chrisostomus super Matheum &amp;, [id est auctor operis
+            imperfecti, homil. XXXII. in Math.]: </p>
+          <p xml:id="gd-p2c27q1-d1e787"> [C. I.] </p>
+          <p xml:id="gd-p2c27q1-d1e790"> , , Matrimonium quidem non facit coitus, sed uoluntas, et
+            ideo non soluit illud separatio corporis, sed uoluntatis . Ideoqui dimittit coniugem
+            suam, et aliam non accipit , adhuc estmaritus. Nam etsi corpore iam separatus est, tamen
+            adhucuoluntate coniunctus est. Cum ergo aliam acceperit, tunc plene dimittit. Non ergo
+            qui dimittit mechatur, sed qui alteramducit X </p>
+          <p xml:id="gd-p2c27q1-d1e793"> [C. II.] </p>
+          <p xml:id="gd-p2c27q1-d1e797"> Item Nykolaus Papa [ad consulta Bulgarorum, c. 3.]* </p>
+          <p xml:id="gd-p2c27q1-d1e800"> „ Sufficiat solus secundum leges consensus eorum, de quorum
+            quarumque coniunctionibus agitur. QuD solus si defuerit , cetera etiam cum ipso coitu
+            celebratafrustrantur. </p>
+          <p xml:id="gd-p2c27q1-d1e803"> [Gratian.] Cum ergo inter istos consensus intercesserit,
+            qui solus matrimonium facit, patet hos coniuges fuisse. Sed queritur, quis consensus
+            facit matrimonium, an consensus cohabita-tionis, an carnalis copulae, an uterque ? Si
+            cohabitationis consensus facit matrimonium, tunc frater cum sorore potest contrahere
+            matrimonium; si carnalis copulae, inter Mariam etIoseph non fuit coniugium. Vouerat enim
+            Maria se uirginemperseueraturam. Unde ait angelo ; „ Quomodo fiet istud, quoniam uirum
+            non cognosco ?“ id est, me non cognituram proposui. Neque enim quia tunc uirum non
+            cognoscebat, necesseerat inquiri, quomodo posset habere filium, sed quia numquam
+            secognituram proposuerat. §. 1. Si ergo contra suum propositumpostea consensit in
+            carnalem copulam, rea facta est uoti uirgina-lis mente, etsi non opere uiolati . Quod de
+            ea sentire nefas est, sed, sicut Augustinus ait*: </p>
+          <p xml:id="gd-p2c27q1-d1e806"> [C. III.] </p>
+          <p xml:id="gd-p2c27q1-d1e809"> „ Beata Maria proposuit se conseruaturam uotum uirginitatis
+            in corde, sed ipsum uotum uirginitatis non expressit ore. Subiecit se diuinae
+            dispositioni, dum proposuit se perseueraturam uirginem, nisi Deus ei aliter reuelaret.
+            Conmittens ergouirginitatem suam diuinae dispositioni consensit in carnalemcopulam, non
+            illam appetendo, sed diuinae inspirationi in utroqueobediendo. Postea uero filium genuit
+            quod corde conceperatsimul cum uiro labiis expressit , et uterque in uirginitate
+            permansit. §. 1. Consensus ergo cohabitandi et indiuiduam uitaeconsuetudinem retinendi
+            interueniens eos coniuges facit . In-diuidua uero consuetudo est talem se in omnibus
+            exhibereuiro , qualis ipsa sibi est, et e conuerso. Ad indiuiduam itaqueconsuetudinem
+            pertinet absque consensu legitimi uiri^ orationi aliquando non posse uacare, nec
+            continentiam profiteri. Quia </p>
+
+          <p xml:id="gd-p2c27q1-d1e812"> ergo iste consensus fuit inter istos , patet hoss coniuges
+            fuisse </p>
+          <p xml:id="gd-p2c27q1-d1e816"> [PALE A. C. IV. </p>
+          <p xml:id="gd-p2c27q1-d1e819"> Iohannes Chrisostomus, id est auctor operis imperfecti,
+            hom. XXXII. in Math.* </p>
+          <p xml:id="gd-p2c27q1-d1e822"> Omnis res, per quascumque causas nascitur, per easdem
+            dissoluitur. Matrimonium enim non facit coitus, sed uoluntas, et ideo non soluit illud
+            separatio corporis, sedseparatio uoluntatis. Ideo qui dimittit coniugem suam, et aliam
+            non accipit, adhuc maritus est. Nam etsi corporeiam separatus est, tamen adhuc uoluntate
+            coniunctus est.Cum ergo aliam acceperit, tunc plane dimittit. Non ergoqui dimittit
+            mechatur, sed qui alteram ducit.] </p>
+          <p xml:id="gd-p2c27q1-d1e825"> Gratian. Item auctoritate probantur^* coniuges. Ait enim
+            Ambrosius in libro de uirginibus, [c. 6.] </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e829">
+          <head xml:id="gd-p2c27q1-Hd1e831">C. V</head>
+          <head xml:id="gd-p2c27q1-Hd1e834" type="question-title"> Coniugalis pactio, non
+            uirginitatis defloratio facit matrimonium . </head>
+          <p xml:id="gd-p2c27q1-d1e837"> Cum initiatur coniugium, coniugii nomen asscisci-tur. Non
+            defloratio uirginitatis facit coniugium, sed pactio coniugalis. Denique cum iungitur
+            uiro, coniugium est, non cum uiri admixtione cognoscitur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e841">
+          <head xml:id="gd-p2c27q1-Hd1e843">C. VI</head>
+          <head xml:id="gd-p2c27q1-Hd1e846" type="question-title"> A prima fide desponsationis
+            coniuges appellantur. </head>
+          <p xml:id="gd-p2c27q1-d1e849"> Item Y sido rus Ethimologiarum lib. IX., c. 7. </p>
+          <p xml:id="gd-p2c27q1-d1e852"> Coniuges uerius appellantur a prima desponsationis fide,
+            quamuis adhuc inter eos ignoretur coniugalis concubitus. </p>
+          <p xml:id="gd-p2c27q1-d1e855"> [PALE A 83 *. C. VII. </p>
+          <p xml:id="gd-p2c27q1-d1e859"> Quod condicio interposita non ualeat, ex concilio
+            Aflri-cano probatur.] </p>
+          <p xml:id="gd-p2c27q1-d1e862"> [PALE A*. </p>
+          <p xml:id="gd-p2c27q1-d1e865"> C. VIII. De eodem. </p>
+          <p xml:id="gd-p2c27q1-d1e868"> Quicumque sub condicionis nomine aliquam desponsa-uerit, et
+            eam postea relinquere uoluerit, dicimus quod condicio frangatur, et desponsatio
+            irrefragabiliter teneatur.] </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e872">
+          <head xml:id="gd-p2c27q1-Hd1e874">C. IX</head>
+          <head xml:id="gd-p2c27q1-Hd1e877" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c27q1-d1e880"> Item Augustinus de bono coniugalis *, [lib. I. c. 11.] </p>
+          <p xml:id="gd-p2c27q1-d1e883"> Coniunx uocatur a prima desponsationis fide, quam concubitu
+            non agnouerat, nec fuerat cogniturus, necperierat, nec mendax manserat coniugis
+            appellatio, ubinec fuerat, nec futura erat carnis ulla conmixtio. §. i.Propter quod
+            fidele coniugium ambo parentes Christi uocarimeruerunt, non solum illa mater, uerum
+            etiam ille patereius, sicut et coniunx matris eius, utrumque mente, non carne. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e887">
+          <head xml:id="gd-p2c27q1-Hd1e889">C. X</head>
+          <head xml:id="gd-p2c27q1-Hd1e892" type="question-title"> Triplex bonum coniugii fuit in
+            parentibus Christi.</head>
+          <p xml:id="gd-p2c27q1-d1e895"> Item in eodem [lib. et capite]. </p>
+          <p xml:id="gd-p2c27q1-d1e898"> Omne itaque nuptiarum bonum inpletum est in illisparentibus
+            Christi, fides, sacramentum, proles. Prolemcognoscimus ipsum Dominum, fidem: quia nullum
+            adulterium; sacramentum: quia nullum diuortium; solus ibinuptialis concubitus non fuit,
+            quia in carne peccati fieri nonpoterat sine pudenda concupiscentia carnis, que acciditex
+            peccato, sine qua concipi uoluit qui futurus eratsine peccato. </p>
+          <p xml:id="gd-p2c27q1-d1e901"> Gratian. Item in Leuitico precepit Dominus Moysi, dicens:
+            „Si quis sponsam alterius in agro oppresserit , mortemoriatur , quia uxorem alterius
+            uiolauit. §. i. Item in legibusprincipum sponsa iubetur lugere mortem sponsi tamquam
+            uiri sui. </p>
+          <p xml:id="gd-p2c27q1-d1e905"> Item in Canonibus inuenitur : </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e909">
+          <head xml:id="gd-p2c27q1-Hd1e911">C. XI</head>
+          <head xml:id="gd-p2c27q1-Hd1e914" type="question-title"> Frater sponsam fratris post
+            mortem eius non potest ducere.</head>
+          <p xml:id="gd-p2c27q1-d1e917"> Si quis desponsauerit sibi aliquam, et preueniente mortis
+            articulo eam cognoscere non potuerit, frater eius non potest eam in uxorem ducere. </p>
+          <p xml:id="gd-p2c27q1-d1e920"> [C. XII.] </p>
+          <p xml:id="gd-p2c27q1-d1e923"> Item Gregorius Mauricio Inperatori, ob quendam comitem , </p>
+          <p xml:id="gd-p2c27q1-d1e927"> qui nepotis sui mortui desponsatum duxit uxorem *. </p>
+          <p xml:id="gd-p2c27q1-d1e930"> Qui desponsatam puellam proximi sui acceperit in
+            con-iugium, anathema sit ipse, et omnes consentientes ei, quia secundum legem Dei mori
+            decernitur. §. i. Nam diuinaelegis mos est, sponsas appellare coniuges, ut in
+            euangelio:, , Accipe Mariam coniugem tuam, “ et illud in Deuteronomio: „Si quis
+            cuiuslibet hominis desponsatam puellamin agro uel in quolibet loco oppresserit, uel
+            adduxeritin domum suam, moriatur, quia uxorem proximi suiuiolauit;“ non que iam uxor
+            erat, sed que a parentibusuxor fieri debebat. Et infra: §. 2. Sicut nulli
+            Christianolicet de sua consanguinitate uel quam cognatus habuitin matrimonium assumere,
+            ita et de consanguinitateuxoris suae. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e935">
+          <head xml:id="gd-p2c27q1-Hd1e937">C. XIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e940" type="question-title"> Uxore mortua licet uiro aliam
+            accipere^*, sed non repudiatam uel desponsatam.</head>
+          <p xml:id="gd-p2c27q1-d1e943"> Item Ieronimus *. </p>
+          <p xml:id="gd-p2c27q1-d1e946"> Additur aliud quartum legitimum coniugium. Dum mortua
+            fuerit uxor cuiuslibet, licet illi accipere aliam, sed </p>
+
+          <p xml:id="gd-p2c27q1-d1e949"> non repudiatam, nec desponsatam uiro, sed liberam;
+            similiter et mulier debet. Unde et Paulus ait: „Mulier, que sub uiro est, ligata est sub
+            lege uiri, quamdiu uiuituir eius.“ Viro igitur uiuente uocabitur adultera, siiuncta
+            fuerit alteri uiro. Si autem mortuus fuerit uireius, liberata est a lege uiri ita, ut
+            non sit adultera, si iuncta fuerit alteri uiro. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e953">
+          <head xml:id="gd-p2c27q1-Hd1e955">C. XIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e958" type="question-title"> Post mortem alicuius nullus de
+            consanguinitate eius sponsam accipiat. </head>
+          <p xml:id="gd-p2c27q1-d1e961"> Item Gregorius . </p>
+          <p xml:id="gd-p2c27q1-d1e964"> Si quis uxorem desponsauerit, uel eam subarrauerit,
+            quamquam postmodum preueniente die mortis eius nequi-uerit eam ducere in uxorem, tamen
+            nulli de consanguinitate eius licet accipere eam in coniugio, et si inuentumfuerit
+            factum, separetur omnino. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e968">
+          <head xml:id="gd-p2c27q1-Hd1e970">C. XV</head>
+          <head xml:id="gd-p2c27q1-Hd1e973" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c27q1-d1e976"> Item Iulius Papa*, </p>
+          <p xml:id="gd-p2c27q1-d1e979"> Si quis desponsauerit uxorem uel subarrauerit, etsiue
+            preueniente die mortis, siue irruentibus quibusdamaliis causis minime eam cognouerit,
+            neque superstes eiusfrater, neque ullus de consanguinitate eius eandem sibitollat in
+            uxorem ullo umquam tempore. </p>
+          <p xml:id="gd-p2c27q1-d1e982"> II. Pars. Gratian. His omnibus auctoritatibus probantur
+            isti coniuges esse. Sed Augustinus contra testatur, dicens *: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e986">
+          <head xml:id="gd-p2c27q1-Hd1e988">C. XVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e991" type="question-title"> Non est inter eos matrimonium,
+            quos non copulat conmixtio sexuum . </head>
+          <p xml:id="gd-p2c27q1-d1e994"> Non dubium est, illam, mulierem non pertinere ad
+            matrimonium, cum qua docetur non fuisse conmixtio sexus. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e998">
+          <head xml:id="gd-p2c27q1-Hd1e1000">C. XVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1003" type="question-title"> Illa mulier non pertinet ad
+            matrimonium, cum qua non celebratur nuptiale misterium . </head>
+          <p xml:id="gd-p2c27q1-d1e1006"> Item Leo Papa *. </p>
+          <p xml:id="gd-p2c27q1-d1e1009"> Cum societas nuptiarum ita a principio sit instituta, ut
+            preter conmixtionem sexuum non habeant in se nuptiaeChristi et ecclesiae sacramentum,
+            non dubium est, illam mulierem non pertinere ad matrimonium, inqua docetur non fuisse
+            nuptiale misterium. </p>
+          <p xml:id="gd-p2c27q1-d1e1012"> [PALEA. C. XVIII. </p>
+          <p xml:id="gd-p2c27q1-d1e1016"> Benedictus seruus seruorum Dei Grandensi Patriarchae
+            salutem, etc.*. </p>
+          <p xml:id="gd-p2c27q1-d1e1019"> Lex diuinae constitutionis apostolicam cathedram totius </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e1022"> posuit orbis terrarum magistram, ut quicquid ubique
+            locorum dubitatur, ab ea ratio eiusdem requiratur. Affatusest autem nos suis litteris
+            eiusdem cathedrae sessorem, acpercunctatus est quidam uestras nomine Iohannes,
+            proconubio filiae suae superstitis, cuius soror defuncta cuidamiuueni, Stephano nomine,
+            simplicibus uerbis fuerat desponsata, et ante, quam ad nuptias perueniret, morte
+            preuenta:utrum scilicet cum eodem iuuene possit matrimonium celebrari superstitis
+            filiae, nec ne. Namque testatus est huiusrei rationem apud uos haberi ambiguam. Quam Deo
+            docentereddimus his uerbis certissimam. Protoplastus ille, radixet origo nostra,
+            detractam sibi costam in mulierem uidensformatam, prophetico spiritu inter alia
+            protulit: „Propterhoc relinquet homo patrem et matrem, et adherebit uxorisuae, et erunt
+            duo in carne una.** Quibus uerbis innotuit, non aliter uirum et mulierem posse fieri
+            unam carnem, nisicarnali copula sibi cohereant. Qui ergo nequaquam mixtusest extraneae
+            mulieri federe nuptiali, quo pacto per nudasponsionis uerba possunt una caro fieri,
+            nullatenus ualemusintueri. Propinquitas enim sanguinis uerbis dicitur, nonuerbis
+            efficitur. Sed neque osculum parit propinquitatem, quod nullam facit sanguinis
+            conmixtionem. Quoniam ueroita prorsus sese habet res Iohannis istius, ut uelit
+            secundamfiliam illi nuptiis copulare, cui primam iam decreueratdesponsare, censura
+            apostolici** magistratus mandamus, hoc absque ullius criminis uicio posse fieri, si
+            utriusquepartis sederit uoluntatif. Nam cur prohibeatur quodprohibendum numquam sancta
+            scriptura declarat? Sed neque mundanae leges connumeratis personis, que interse nuptias
+            non contrahunt f+, de huiusmodi aliquid dicunt. Ne ergo abnegetis quod negandum nulla
+            rationedocetis.] </p>
+          <p xml:id="gd-p2c27q1-d1e1025"> Gratian. Item Apostolus precipit , ut uxor reddat debitum
+            uiro , et uir uxori , nisi forte ex consensu ad tempus , ut expeditius uacent orationi.
+            Unde datur intelligi , quod sineconsensu alterius non licet alteri uacare orationi. §.
+            i. Itempropositum melioris uitae uir sumere non potest sine consensuuxoris , et e
+            conuerso. </p>
+          <p xml:id="gd-p2c27q1-d1e1028"> Unde Gregorius scribit Theutistae Patriciae , [lib. IX.
+            epist. 39.]: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1032">
+          <head xml:id="gd-p2c27q1-Hd1e1034">C. XIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1037" type="question-title"> Causa religionis coniugia solui
+            non debent.</head>
+
+          <p xml:id="gd-p2c27q1-d1e1040"> Sunt qui dicunt, religionis causa coniugia debere
+            dissolui. Verum sciendum est, quia, etsi hoc lexhumana concessit, lex tamen diuina
+            prohibuit. Per se enimueritas dicit: , , Quod Deus coniunxit homo non separet/* Qui
+            etiam ait: , , Non licet dimittere uxorem, excepta causa fornicationis.** Quis ergo huic
+            legislatori contradicat? Scimus, quia scriptum est: , , Eruntduo in carne una.** Si
+            igitur uir et uxor una caro sunt, et religionis causa dimittit uir uxorem, uel mulier
+            uirumin hoc mundo remanentem, uel fortasse ad illicitamigrantem, que est ista
+            conuersio*, in qua una eteadem caro ex parte transit ad continentiam, et ex parteremanet
+            in pollutione? Si uero utrisque conueniat continentem uitam ducere, hoc quis audeat
+            accusare? cum s certum est, quia omnipotens Deus, qui minora concessit, maiora non
+            prohibuit. Duobus enim modis sancti uiri etiama licitis abstinere solent: aliquando, ut
+            merita sibi apudomnipotentem Deum augeant; aliquando, ut anteactae uitaeculpas
+            detergant. §. i. Proinde cum boni coniuges autmeritum augere desiderant, aut anteactae
+            uitae culpasdelere, ut se astringant, et meliorem uitam appetant, licet. Sic enim**
+            multos sanctorum nouimus cumsuis coniugibus et prius continentem uitam duxisse,
+            etpostmodum ad sanctae ecclesiae regimina migrasse. Siuero continentiam, quam uir
+            appetit, mulier nonsequitur, aut quam appetit uxor uir recusat, diuidi con-iugium non
+            potest, quia scriptum est: „Mulier suipotestatem corporis non habet, sed uir; similiter
+            et uirpotestatem sui corporis non habet, sed mulier.** </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1045">
+          <head xml:id="gd-p2c27q1-Hd1e1047">C. XX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1050" type="question-title"> Absque uiri consensu monasterio
+            mulier deputata ad eius consortium redire non prohibetur . </head>
+          <p xml:id="gd-p2c27q1-d1e1053"> Idem Leoni , Episcopo Caianensi , [lib. III. ep.
+            34.]Multorum relatione conperimus, hanc apud uos olimconsuetudinem fuisse, ut
+            subdiacones suis licite miscerentur coniugibus. Quod ne denuo quisquam presumeret, a
+            Seruo dei, sedis nostrae diacone, ex auctoritate nostridecessoris isto est modo
+            prohibitum, ut eodem temporehii, qui iam uxoribus fuerant copulati, unum e
+            duobuseligerent, id est aut certe ministrare nulla ratione pre-sumerent, aut a suis
+            uxoribus abstinerent. Et, quantumdicitur, Speciosus tunc subdiaconus pro hac re ab
+            admini-strationis se suspendit offitio, et usque in obitus sui tempora notarii quidem
+            gessit offitium, et a ministerio, quodsubdiaconum oportuerat exhibere, cessauit. Post
+            cuiusobitum, quia relicta eius Honorata marito est sociata, atua fraternitate in
+            monasterio cognouimus deputatam. Ideoque, si, ut fertur, eius se maritus ab
+            admini-stratione suspendit, antedictae mulieri non debet officere, quod ad secunda uota
+            coniugii migrauerit: presertim, si non tali mente subdiacono iuncta est, ut a
+            carnisuoluptatibus abstineret. Si ergo ita se ueritatem, quemadmodum edocti sumus,
+            habere cognoscis, predictam mulierem de monasterio per omnia conuenit te relaxare, ut
+            adsuum maritum sine aliqua possit formidine remeare. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1057">
+          <head xml:id="gd-p2c27q1-Hd1e1059">C. XXI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1062" type="question-title"> Ad uxorem redire cogitur qui
+            sine eius consensu religiosam uestem suscepit . </head>
+          <p xml:id="gd-p2c27q1-d1e1065"> Idem AdrianOj Panormitano Notario , [lib. IX. epist.
+            44.]Agathosa latrix presentium questa est, uirum </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e1068"> suum contra uoluntatem suam in monasterio Urbici abbatis
+            esse conuersum.Quapropter experientiae tuae pre </p>
+          <p xml:id="gd-p2c27q1-d1e1071"> cipimus, ut diligenti inquisitione discutiat, ne forteeius
+            uoluntate conuersus sit, uel ipsa mutare se promiserit. Et si hoc reppererit, et illum
+            in monasterio permanere® prouideat, et hanc, sicut promisit, mutareconpellat. Si uero
+            nichil horum est, nec quondam fornicationis crimen (propter quod licet uxorem dimittere)
+            predictam mulierem conmisisse cognoueris, neillius conuersio uxori relictae in seculo
+            fieri possit perditionis occasio, uolumus, ut maritum suum illi, etiamsiiam tonsuratus
+            est, reddere debeas omni excusatione cessante, quia, etsi mundana* lex
+            precipitconuersationis s gratia utrolibet inuito solui posse con-iugium, diuina tamen
+            lex fieri non permittit. Nam, nisifornicationis causa, uirum uxorem dimittere nullaratio
+            concedit, quia post, quam copulatione coniugiiuiri atque mulieris unum corpus efficitur,
+            non potest exparte conuerti, et ex parte remanere in seculo. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1075">
+          <head xml:id="gd-p2c27q1-Hd1e1077">C. XXII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1080" type="question-title"> Sine uxoris consensu religionis
+            propositum uir sumere non ualet-, </head>
+          <p xml:id="gd-p2c27q1-d1e1083"> Item ex VIII. Sinodo . </p>
+          <p xml:id="gd-p2c27q1-d1e1086"> Si quis coniugatus * uult conuerti ad monasterium, non est
+            recipiendus, nisi prius a coniuge castimoniam profitentefuerit absolutus. Nam si illa
+            uiuente illo per incontinentiamalteri nupserit, proculdubio adultera erit. Nec
+            recipiturapud Deum eiusdem uiri conuersio, cuius sequiturconiugalis federis prostitutio.
+            Tales igitur tunc sine culpasecuntur Christum derelicto seculo, si habent ex
+            pariuoluntate castitatis consensum. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1090">
+          <head xml:id="gd-p2c27q1-Hd1e1092">C. XXIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1095" type="question-title"> Sine conscientia episcopi uiro
+            et uxori causa religionis diuertere non licet.</head>
+          <p xml:id="gd-p2c27q1-d1e1098"> Item ex Sinodo Eu genii Papae [II., in Sinodo Romana c.
+            36.] </p>
+          <p xml:id="gd-p2c27q1-d1e1101"> Si uir et uxor diuertere pro sola religiosa inter se
+            consenserint uita, nullatenus sine conscientia episcopi fiat, ut ab eo singulariter
+            prouiso constituantur loco. Nam uxorenolente, aut altero eorum, etiam pro tali re
+            matrimoniumnon soluitur. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1105">
+          <head xml:id="gd-p2c27q1-Hd1e1107">C. XXIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1110" type="question-title"> Sine uxoris uoluntate uiro
+            continere non licet.</head>
+          <p xml:id="gd-p2c27q1-d1e1113"> Item Augustinus de adulterinis coniugiis *. </p>
+          <p xml:id="gd-p2c27q1-d1e1116"> Si tu abstines sine uxoris uoluntate, tribuis ei
+            fornicandi licentiam, et peccatum illius tuae inputabitur abstinentiae. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1120">
+          <head xml:id="gd-p2c27q1-Hd1e1122">C. XXV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1125" type="question-title"> Vir non est suscipiendus in
+            monasterium, nisi uxor conuertatur. </head>
+          <p xml:id="gd-p2c27q1-d1e1128"> Item Gregorius Urbico Abbati, [lib. V. ep. 49.] </p>
+          <p xml:id="gd-p2c27q1-d1e1131"> Quia Agatho lator presentium in monasterium dilectionis
+            tuae conuerti desiderat, hortamur, ut eum omni cum dulcedine deuotioneque suscipias. §.
+            i. Quem tamensuscipiendum ita esse cognosce, si et uxor illiussimiliter conuerti
+            uoluerit. Nam dum unum utrorumquecorpus coniugii copulatione sit factum, incongruum
+            estpartem conuerti, et partem in seculo remanere. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1136">
+          <head xml:id="gd-p2c27q1-Hd1e1138">C. XXVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1141" type="question-title"> Continentiae uota non licet
+            uxori suscipere , nisi eandem uir eius elegerit uitam. </head>
+          <p xml:id="gd-p2c27q1-d1e1144"> Item Nyholaus Papa [Carolo Regi]. </p>
+          <p xml:id="gd-p2c27q1-d1e1147"> Scripsit* nobis Theberga regina, se uelle dignitate seu
+            copula exui, et sola uita priuata esse contentam desiderare. Cui nos scripsimus, non hoc
+            aliter fieri posse, nisi eandem uitam coniux eius Lotharius elegerit. §. i. Nam licet**
+            sit scriptum: „QuodDeus coniunxit homo non separet.“ Deus tamen, et nonhomo separat,
+            quando diuini amoris intuitu ex consensuutriusque coniugis matrimonia dissoluuntur.
+            Aliter autemfieri mutuam separationem uestram prohibemus. </p>
+          <p xml:id="gd-p2c27q1-d1e1150"> Gratian. Ecce, quod coniugati sine consensu alterius
+            continentiam profiteri non possunt. Sponsi uero, etiam inconsultis quas sibi
+            desponsauerunt, exemplis et auctoritate™i probantur continentiam posse seruare. Ut enim
+            refert B. Ieronimus , Macharius, precipuus inter Christis heremitas, celebrato
+            nuptiarumconuiuio, cum uespere thalamum esset ingressurus, ex urbe egre-diens
+            transmarina petiit, et heremi solitudinem, sibi elegit. §. 1. Item B. Alexius,
+            Epiphanii™ s clarissimi filius, similiter ex ’ nuptiis diuina gratia uocatus, sponsam
+            deseruit, et nudus Christofamulari cepit . Horum exemplo patet, quod sponsi non
+            exquisitoconsensu suarum sponsarum continentiam profiteri ualent. </p>
+          <p xml:id="gd-p2c27q1-d1e1154"> Probatur idem auctoritate Eusebii Papae dicentis : </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1158">
+          <head xml:id="gd-p2c27q1-Hd1e1160">C. XXVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1163" type="question-title"> Desponsata puella non prohibetur
+            monasterium eligere.</head>
+          <p xml:id="gd-p2c27q1-d1e1166"> Desponsatam puellam non licet parentibus alii uiro
+            tradere; tamen monasterium sibi licet eligere. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1170">
+          <head xml:id="gd-p2c27q1-Hd1e1172">C. XXVIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1175" type="question-title"> Desponsata inpune monasterium
+            potest eligere . </head>
+          <p xml:id="gd-p2c27q1-d1e1178"> Item Gregorius in Registro, [lib. VI. epist. 20. ad
+            Fortunatum]. </p>
+          <p xml:id="gd-p2c27q1-d1e1181"> Decreta legalia desponsatam, si conuerti uoluerit, nullo
+            censuerunt omnino dampno mulctari. </p>
+          <p xml:id="gd-p2c27q1-d1e1184"> Gratian. Cum ergo coniugatorum continentia, nisi ex
+            amborum consensu, Deo offerri non ualeat; cum mV sui corporis potestatem non habeat, sed
+            mulier, sponsae autem monasteriumpossint eligere, et sponsi non exquisito consensu
+            sponsarumpropositum melioris uitae assumere ualeant: patet, quod intersponsum et sponsam
+            coniugium non est. §. 1. Item cum secundum Augustinum * illa mulier non pertineat ad
+            matrimonium, cum qua docetur non fuisse conmixtio sexus. Item^ secundumLeonem illa non
+            pertinet ad matrimonium, «Yj 290 d quadocetur non fuisse nuptiale misterium '*: apparet,
+            quod intersponsum et sponsam coniugium non est. §. 2. Item NykolausPapa precepit , de
+            his, qui ab aduersariis excecantur, aut**membris detruncantur, ut ob hanc infirmitatem
+            talium coniugianon soluantur. §. 3. De his autem, qui causa frigiditatis uxoribus
+            debitum reddere non possunt, statuit Gregorius Papa, ututerque eorum septima manu
+            propinquorum tactis sacrosanctisreliquiis iureiurando dicat, quod numquam permixtione S
+            carnis coniuncti una caro effecti fuissent. Tunc mulier secundasnuptias poterit
+            contrahere; uir autem, qui frigidae naturae est, maneat sine spe coniugii. </p>
+          <p xml:id="gd-p2c27q1-d1e1188"> Unde idem * scribit Venerio, Caralitano Episcopo, ita
+            dicens : </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1192">
+          <head xml:id="gd-p2c27q1-Hd1e1194">C. XXIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1197" type="question-title"> Si mulier probauerit, quod a
+            uiro suo numquam cognita fuerit, separetur . </head>
+          <p xml:id="gd-p2c27q1-d1e1200"> Quod autem interrogasti me de his, qui matrimonio iuncti
+            sunt, et nubere non possunt, si ille aliam, uel illa alium possit accipere, de quibus
+            scriptum**est: Vir et mulier, si se coniunxerint, et postea dixeritmulier de uiro, quod
+            non possit coire cum illa, si potestprobare per uerum iudicium, quod uerum sit,
+            accipiatalium. </p>
+
+          <p xml:id="gd-p2c27q1-d1e1203"> Gratian. Ecce, inpossibilitas coeundi, si post carnalem
+            copulam inuenta fuerit in aliquo, non soluit coniugium . Si ueroante carnalem copulam
+            deprehensa fuerit, liberum facit mulierialium uirum accipere. Unde apparet, illos non
+            fuisse coniuges;alioquin non liceret eis ab inuicem discedere, excepta causa
+            fornicationis; et sic discedentes oportet manere innuptos, aut sibi inuicem
+            reconciliari. §. i. Item si coniunx sponsa esset, mortuosponso remaneret uidua. Si autem
+            uidua esset, uir eius adsacros ordines conscendere non posset. Maritus enim uiduae, eque
+            sicut et bigamus, sacerdos fieri prohibetur. Ex huius autemcopula nullus prohibetur a
+            sacris ordinibus. Ut enim aitPelagius Papa: , , Nichil est (quantum ad hunc
+            articulumattinet) quod ei obuiet de canonicis institutis .“ Apparet ergo, non fuisse hos
+            coniuges . §. 2. Item si coniuges essent, discessioab inuicem esset diuortium. Sed horum
+            separationem negatAmbrosius esse diuortium, dicens de B. Maria, quam Ioseph
+            sibidesponsauerat, et in suam duxerat: „ Ioseph’*"** numquamcognouit eam. Nam si uir
+            iustus eam cognouisset, numquam ase discedere passus esset, nec Dominus, qui uxorem
+            preceperat auiro non discedere, nisi causa fornicationis, conmendans eamdiscipulo,
+            auctor diuortii fuisset. Ecce, conmendatio MariaeIohanni, et detractio Ioseph negatur
+            fuisse diuortium, quiaIoseph non cognouerat eam. Unde apparet, eos non fuisse coniuges.
+            Si autem B. Maria, quam Ioseph sibi desponsauerat, et insuam duxerat, coniux negatur
+            fuisse, multo minus ista, que simpliciter sponsa erat, coniux est appellanda. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1207">
+          <head xml:id="gd-p2c27q1-Hd1e1209">C. XXX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1212" type="question-title"> Sororem ^ uxoris polluens
+            neutram ualet habere. </head>
+          <p xml:id="gd-p2c27q1-d1e1215"> Item ex Concilio Aureli an en si *. </p>
+          <p xml:id="gd-p2c27q1-d1e1218"> Qui dormierit cum duabus sororibus, et una ex illis ante
+            uxor fuerat nec unam ex ipsis habeat, nec ipsi adulteri umquam in coniugio copulentur.^ </p>
+          <p xml:id="gd-p2c27q1-d1e1221"> Gratian. id est, nec propriae uxori licet sibi reddere
+            debitum, quam sibi reddidit illicitam, sororem eius cognoscendo . Nec etiam post mortem
+            uxoris licet ei, uel adulterae alicuicopulari in coniugium^ . </p>
+          <p xml:id="gd-p2c27q1-d1e1225"> De sponsa uero econtra legitur in Concilio Triburiensi :
+          </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1229">
+          <head xml:id="gd-p2c27q1-Hd1e1231">C. XXXI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1234" type="question-title"> De eo, qui dormiuit cum sponsa
+            fratris sui.</head>
+          <p xml:id="gd-p2c27q1-d1e1237"> Quidam desponsauit uxorem, et dotauit, et cum ea coire non
+            potuit: quam clanculo frater eius corrupitet grauidam reddidit. Decretum est, ut,
+            quamuis nuptanon potuerit esse legitimo uiro, desponsatam tamen fratrifrater habere non
+            possit; sed mechus et mecha fornicationisquidem uindictam sustineant, licita uero
+            coniugia eis nonnegentur. </p>
+          <p xml:id="gd-p2c27q1-d1e1240"> C. XXXII. Qwz sponsam filii sui obprimit^, simul cum ea
+            sine spe coniugii maneat. </p>
+          <p xml:id="gd-p2c27q1-d1e1243"> Item ex eodem . </p>
+          <p xml:id="gd-p2c27q1-d1e1247"> Si quis sponsam filii sui oppresserit, et postea filius
+            eius eam duxerit, pater postmodum non habeatuxorem, nec mulier uirum. Filius, qui
+            facinuspatris ignorauit, aliam accipiat. </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e1250"> Gratian. Si illa, quam uir sororis suae cognouerit, per*
+            petuo copulari prohibetur, hic uero , sponsam fratris sui </p>
+          <p xml:id="gd-p2c27q1-d1e1253"> corrupit , peracta penitencia matrimonium contrahere
+            permittitur, apparet, hanc non fuisse coniugem fratris eius. §. i. Item mulier causa
+            fornicationis a uiro suo dimissa aut ei reconciliabitur, aut illo uiuente manebit
+            innupta. De sponsa uero contrainueniiur in I. libro Capitularium [c. 105. et 1 . VII. c.
+            183., ] in quo ita legitur S**: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1258">
+          <head xml:id="gd-p2c27q1-Hd1e1260">C. XXXIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1263" type="question-title"> Si sponsus raptam recipere
+            noluerit, liceat sibi nubere alii.</head>
+          <p xml:id="gd-p2c27q1-d1e1266"> Raptor publica penitencia mulctetur. Raptam uero, si
+            sponsus recipere noluerit, et ipsa eidem crimini consentiens non fuerit, licentia
+            nubendi alii non negetur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1270">
+          <head xml:id="gd-p2c27q1-Hd1e1272">C. XXXIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1275" type="question-title"> De eadem.</head>
+          <p xml:id="gd-p2c27q1-d1e1278"> Item ex Concilio Tollet ano *. </p>
+          <p xml:id="gd-p2c27q1-d1e1281"> Statutum est a sacro conuentu, ut si quis sponsam alterius
+            rapuerit, publica penitencia mulctetur, et sine speconiugii maneat. Et si ipsa eidem
+            crimini consentiens nonfuerit, licentia nubendi alii non negetur. Quod sipost hec
+            coniungere se presumpserint, utri que usquead satisfactionem** anathematizentur. </p>
+          <p xml:id="gd-p2c27q1-d1e1284"> III. P ars. Gratian. Apparet ergo, hanc non fuisse
+            coniugem, cui uiuente sponso alteri nubendi licentia non negatur. Quomodo ergo secundum
+            Ambrosium et reliquos Patres sponsaeconiuges appellantur, et his omnibus argumentis
+            coniuges nonesse probantur ? Sed sciendum est, quod coniugium desponsationeinitiatur,
+            conmixtione perficitur. Unde inter sponsum et sponsam coniugium est, sed initiatum;
+            inter copulatos est coniugiumratum. </p>
+          <p xml:id="gd-p2c27q1-d1e1288"> Unde Ambrosius 361 *: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1292">
+          <head xml:id="gd-p2c27q1-Hd1e1294">C. XXXV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1297" type="question-title"> In desponsatione coniugium
+            initiatur. </head>
+          <p xml:id="gd-p2c27q1-d1e1300"> Cum initiatur coniugium, coniugii nomen asciscitur, non
+            cum puella uiri admixtione cognoscitur. </p>
+          <p xml:id="gd-p2c27q1-d1e1303"> Gratian. Ecce, quod in desponsatione coniugium initiatur,
+            non perficitur. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1307">
+          <head xml:id="gd-p2c27q1-Hd1e1309">C. XXXVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1312" type="question-title"> Coniunctorum permixtio
+            matrimonium perficit . </head>
+          <p xml:id="gd-p2c27q1-d1e1315"> Item Ambrosius in lib . [I.] de Patriarchis *. </p>
+          <p xml:id="gd-p2c27q1-d1e1318"> In omni matrimonio coniunctio intelligitur spiritualis,
+            quam confirmat et perficit coniunctorum conmixtio corporalis. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1322">
+          <head xml:id="gd-p2c27q1-Hd1e1324">C. XXXVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1327" type="question-title"> Matrimonium sponsali conuentione
+            initiatur , conmixtione perficitur. </head>
+          <p xml:id="gd-p2c27q1-d1e1330"> Item Ieronimus super Abdiam . </p>
+          <p xml:id="gd-p2c27q1-d1e1333"> „Quapropter in filiabus uestris fornicabuntur, et sponsae
+            uestrae adulterae erunt.“ Notandum, quod infiliabus dicit futuram fornicationem, et in
+            coniugiis^ adulteria, que sponsali conuentione initiantur, et conmixtionecorporum
+            perficiuntur. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1337">
+          <head xml:id="gd-p2c27q1-Hd1e1339">C. XXXVIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1342" type="question-title"> Cum desponsata fuerit tradita et
+            in usum deducta , recte coniunx appellatur. </head>
+          <p xml:id="gd-p2c27q1-d1e1345"> Item Ambrosius ad Paternum , [epist. LXVI.] </p>
+          <p xml:id="gd-p2c27q1-d1e1348"> Si quis desponsata sibi et tradita utatur* coniugium
+            uocatur. </p>
+          <p xml:id="gd-p2c27q1-d1e1351"> Gratian. Quare autem post nuptialia pacta non statim
+            tradantur, Augustinus in libro IV. Confessionum [c. 3.] ostendit, dicens ; </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1356">
+          <head xml:id="gd-p2c27q1-Hd1e1358">C. XXXIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1361" type="question-title"> Quare sponsae post pactum non
+            statim tradantur.</head>
+          <p xml:id="gd-p2c27q1-d1e1364"> Institutum est, ut iam pactae sponsae non statim
+            tradantur, ne uilem habeat maritus datam, quam suspira-uerit sponsus dilatam. </p>
+          <p xml:id="gd-p2c27q1-d1e1367"> Gratian. Iuxta hanc distinctionem intelligenda est auctorU
+            tas illa Augustini : „ Non dubium est, illam mulierem nonpertinere ad matrimonium, cum
+            qua docetur non fuisse conmixtiosexus .“ Ad matrimonium perfectum subintelligendum est,
+            taleuidelicet, quod habeat in se Christi et ecclesiae sacramentum. Itaet illud Leonis
+            Papae intelligendum est. §. 1. Sed obiciturillud Augustini : „ Inter Mariam et Ioseph
+            fuit perfectum coniugium. “ Sed perfectum intelligitur non ex offitio, sed ex his , que
+            comitantur coniugium , ex fide uidelicet, prole e£ sacramento. Que omnia inter parentes
+            Christi fuisse auctoritateAugustini probantur. Cuncta ergo, que de non separando
+            con-iugio inducta sunt, de perfecto intelliguntur, quod sponsali coniunctione est
+            initiatum, et offitio corporalis conmixtionis estconsummatum. Illa uero, quibus
+            separabile coniugium ostenditur, de initiato intelliguntur, quod nondum offitio sui
+            perfectumest. §. 2. Potest et aliter distingui. Sponsae appellantur coniuges
+            consuetudine scripturae spe futurorum, non effectu presentium. Unde Ambrosius, cum
+            dixisset : „Cum initiatur coniugium, non addidit^: tunc res uel effectus, sed: „tunc
+            nomenconiugii asciscitur , “ ostendens, tales nomen coniugii habere, nonrem uel
+            effectum. Item Augustinus, cum de parentibus Dominiloqueretur, ait: „coniuges fuerunt
+            mente, non carne, sicut etpar entes. “ Ex quo datur intelligi, quod sicut Ioseph
+            paterDomini dictus est non effectu geniturae, sed offitio et cura proui-dendi: sic et
+            coniux matris eius appellatus est non coniugiieffectu, sed subministratione
+            necessariorum, et indiuiduae mentisaffectu . Hinc Augustinus ait: „ Noli timere accipere
+            Mariamconiugem tuam; coniugem nominauit, quia futura erat uxor » Hinc e£ Beda super
+            Leuiticum: , , Si quis sponsam alteriusuiolauerit, etc. sponsam uxorem dixit, non que
+            tunc esset, ^Ssed que futura erat uxor. Hinc e£ Ieronimus super Mat - theum in euangelio
+            : „Cum esset desponsata . </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1371">
+          <head xml:id="gd-p2c27q1-Hd1e1373">C. XL</head>
+          <head xml:id="gd-p2c27q1-Hd1e1376" type="question-title"> Consuetudine scripturae sponsae
+            coniuges, et sponsi uiri appellantur.</head>
+          <p xml:id="gd-p2c27q1-d1e1379"> „ Genuit Ioseph uirum Mariae “. Cum uirum audieris*
+            suspicio tibi non subeat nuptiarum, sed recordare consuetudinis scripturarum, quod
+            sponsi uiri, et sponsae uocenturuxores. Et infra: §. 1. Non ab alio inuenta est, nisi
+            aIoseph, qui pene licentia maritali futurae uxoris omnianouerat. Et infra: §.2. „Ioseph
+            fili Dauid, etc.“ Iam </p>
+
+
+
+
+          <p xml:id="gd-p2c27q1-d1e1382"> ut supra diximus, sponsas uxores appellari, quod plenius
+            liber aduersus Heluidium docet. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1386">
+          <head xml:id="gd-p2c27q1-Hd1e1388">C. XLI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1391" type="question-title"> De eodem. Idem super Genesim *. </head>
+          <p xml:id="gd-p2c27q1-d1e1394"> „ Egressus itaque Loth locutus est ad generos suos, qui
+            accepturi erant filias suas.“ In sequentibus filiae Lothuirgines fuisse dicuntur. Et
+            ipse ad Sodomitas dixit:, , Ecce duae filiae meae, que non cognouerunt uirumetc.“ Nunc
+            autem dicitur habuisse generos. Sedquidam arbitrantur eas, que uiros habuerunt, in
+            Sodomisperisse, et que uirgines erant, cum patre exisse. SedHebraica ueritas habet: „ E
+            gressus Loth locutus est adsponsos suos, “ quod magis esse uidetur ex hocquod sequitur:
+            qui accepturi erant filias suas**. </p>
+          <p xml:id="gd-p2c27q1-d1e1397"> Gratian. Unde datur intelligi , quod scriptura sponsos
+            generos uocat . </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1401">
+          <head xml:id="gd-p2c27q1-Hd1e1403">C. XLII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1406" type="question-title"> Maria coniunx dicitur more
+            scripturae, cum simpliciter sponsa esset.</head>
+          <p xml:id="gd-p2c27q1-d1e1409"> Item I oh anne s Os aureum in eod. euangA „Prius, quam
+            conuenirent.“ Non dixit, prius, quamin sponsi adduceretur domum. Hunc enim morem
+            ser-uabat antiquitas, ut sponsae in sponsorum domibus haberentur. Ut autem generi Loth
+            apud socerum leguntur habitare cum sponsis nondum sibi copulatis legeconiugii, sic et
+            Maria habitabat cum sponso. Et infra: §. i. Neque enim expellere eam de {domo uoluit,
+            seddimittere. Et infra: §. 2. , , Noli timere accipere Mariamconiugem tuam:“ Quo sermone
+            sponsam similiter indi-cauit, sicut etiam eos, qui adhuc sponsi sunt, generos appellare
+            consueuit scriptura. Quid est autems accipere? domiprofecto retinere. Iam enim illam
+            mente dimiserat. Etinfra: §. 3. Sicut enim illam postea conmendat Christusipsi
+            discipulo, sic etiam nunc angelus copulat sponso, non in fedus solempne coniugii, sed in
+            consortium con-munis habitaculi. </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1413">
+          <head xml:id="gd-p2c27q1-Hd1e1415">C. XLIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1418" type="question-title"> Dominus non conmendasset matrem
+            discipulo , si eam Ioseph cognouisset. </head>
+          <p xml:id="gd-p2c27q1-d1e1421"> Idem in eodem om. V. [ad idem c. 1. Matth.]Si enim
+            cognouisset eam, et loco uxoris habuisset, quomodo illam Dominus quasi absque solatio,
+            et nichil penitushabentem discipulo conmendaret, iubens illi, ut reciperet eam in suam?
+          </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1425">
+          <head xml:id="gd-p2c27q1-Hd1e1427">C. XLIV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1430" type="question-title"> Maria uxor Ioseph appellatur,
+            quia sic ah eo putabatur futura.</head>
+          <p xml:id="gd-p2c27q1-d1e1433"> Item Origenes in eodem, [hom. I. Euang.]„Inuenta est
+            habens in utero.“ A B. Ioseph, qui, licet eam non contingeret, futurae tamen, ut
+            putabat, uxoris omnia nouerat. Et infra: §. 1. Si tibi uxor nominatur, si in
+            desponsatione* tibi esse dicitur, non tamentibi uxor est, sed Dei unigeniti mater est
+            eterna. Etinfra: §. 2. Coniugem dico propterea, ut diabolo uirginita-tem eius occultem,
+            ut legis instituta non destruam. Insequentibus demonstrabo, quod nec ista tua
+            coniuxsecundum consuetudinem coniugii habeatur, nec iste, quigeneratur, tuus filius esse
+            credatur. </p>
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1438">
+          <head xml:id="gd-p2c27q1-Hd1e1440">C. XLV</head>
+          <head xml:id="gd-p2c27q1-Hd1e1443" type="question-title"> Ad nuptias Mariae Ioseph non
+            peruenit.</head>
+          <p xml:id="gd-p2c27q1-d1e1446"> Item Gregorius in expositione Euang. cum esset sero die
+            illa^*, [hom. XXVI.] </p>
+          <p xml:id="gd-p2c27q1-d1e1449"> Sic quippe discipulum post resurrectionem suam dubitare
+            permisit, nec tamen in dubitatione deseruit, sicutante natiuitatem suam habere Mariam
+            sponsum uoluit, quitamen ad eius nuptias non peruenit. Nam ita factus estdiscipulus
+            dubitans et palpans testis uerae resurrectionis, sicut sponsus matris fuerat custos
+            integerrimae uir-ginitatis. </p>
+          <p xml:id="gd-p2c27q1-d1e1452"> Gratian. Ex his omnibus apparet, sponsas coniuges
+            appellari spe futurorum, non re presentium. Quomodo ergoconiuges a prima fide
+            desponsationis appellantur, si ista, quesponsa asseritur, coniux esse negatur ? Sed a
+            prima fide desponsationis coniunx dicitur appellari, non quod in ipsa desponsationefiat
+            coniunx, sed quia ex fide , quam ex desponsatione sibi inuicemdebent, postea efficiuntur
+            coniuges, sicut per fidem dicunturremitti peccata, non quod ante baptisma ^ per fidem
+            remittantur, sed quia fides est causa, quare in baptismate ^ a peccatisemundamur. §. 1.
+            Illud autem Iohannis Crisostomi^: „ Matrimonium non facit coitus, sed uoluntas ; item
+            illud Ambrosii : „Non defloratio uirginitatis, sed pactio coniugalis matrimoniumfacit ,
+            “ ita intelligendum est: Coitus sine uoluntate contrahendimatrimonium, et defloratio
+            uirginitatis sine pactione coniugalinon facit matrimonium, sed precedens uoluntas
+            contrahendimatrimonium , et coniugalis pactio facit, ut mulier in defloratione suae
+            uirginitatis uel in coitu dicatur nubere uiro, uel nuptiascelebrare. §. 2. Item Siricius
+            Papa discessionem sponsae asponso uocat coniugalem separationem, Sed talis discessio
+            dicitur uiolatio coniugii non iam existentis, sed futuri, ut ex ipsadesponsatione
+            sperabatur. Sic et diabolus dicitur cecidisse abeatitudine, non solum quam tunc habebat,
+            sed etiam ad quamhabendam creatus erat. Sic qui merito suae uitae uel scientiaein
+            sacerdotem uel m episcopum eligitur, si interim electionemsuam cassari meruerit, dicitur
+            amittere sacerdotalem uel episcopalem unctionem, non quam iam acceperat, sed ad
+            quamaccipiendam electus erat. Non ergo illa auctoritate sponsaconiux potest probari. §.
+            3. Sed concedatur, quod sponsa nonsit coniux, tamen queritur, utrum liceat ei renunciare
+            priori condicionif </p>
+          <p xml:id="gd-p2c27q1-d1e1456"> Hoc autem prohibetur auctoritate AnchiritanA^l Concilii
+            [c. 11.] in quo statutum &amp;a legitur: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1460">
+          <head xml:id="gd-p2c27q1-Hd1e1462">C. XLVI</head>
+          <head xml:id="gd-p2c27q1-Hd1e1465" type="question-title"> Puellae desponsatae prioribus
+            reddendae sunt , si eis raptae fuerint. </head>
+          <p xml:id="gd-p2c27q1-d1e1468"> Desponsatas puellas et post ab aliis raptas placuit erui,
+            et eis reddi, quibus ante fuerant desponsatae, etiamsi eis a raptoribus uis illata
+            constiterit. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1472">
+          <head xml:id="gd-p2c27q1-Hd1e1474">C. XLVII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1477" type="question-title"> Conmunione priuetur sponsa, nisi
+            raptorem deserere, et ad sponsum suum redire uoluerit. </head>
+          <p xml:id="gd-p2c27q1-d1e1480"> Item Iohannes VIII.* Rostano Archiepiscopo . </p>
+          <p xml:id="gd-p2c27q1-d1e1483"> Atto presentium lator, dum in nostro seruitio fideliter
+            excubaret, quendam uirum feminam sibi desponsatam queritur rapuisse. Et ideo fraternitas
+            tua nostra auctoritate suffulta suffraganeos suos episcopos presentialiterconuocet,
+            sicque unanimi sentencia, si sponsam huicraptor non reddiderit, tam idem, quam rapta, si
+            ad pristinum sponsum remeare noluerit, omni conmunione pri-uentur. </p>
+          <p xml:id="gd-p2c27q1-d1e1486"> IV. Pars. Gratian. Sed aliud est priori condicioni
+            renunciare, et de nuptiis cum alio agere; aliud est rapi, hoc estillicite constuprari. </p>
+          <p xml:id="gd-p2c27q1-d1e1490"> Unde Ysidorus Ethimolog. lib. V. c. 24. ait : </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1494">
+          <head xml:id="gd-p2c27q1-Hd1e1496">C. XLVIII</head>
+          <head xml:id="gd-p2c27q1-Hd1e1499" type="question-title"> Quid sit raptus?</head>
+          <p xml:id="gd-p2c27q1-d1e1502"> Raptus est illicitus coitus, a corrumpendo dictus; unde
+            qui rapto potitur stupro fruitur. </p>
+          <p xml:id="gd-p2c27q1-d1e1505"> Gratian. Hec autem non ab alio rapta, sed alii desponsata
+            monstratur. Raptam uero talem dici prohibet Gelasius Papa, ita dicens : </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1509">
+          <head xml:id="gd-p2c27q1-Hd1e1511">C. XLIX</head>
+          <head xml:id="gd-p2c27q1-Hd1e1514" type="question-title"> Ibi raptus admittitur, ubi
+            puella abducitur, de cuius ante nuptiis nichil actum^^ probatur. </head>
+          <p xml:id="gd-p2c27q1-d1e1517"> Lex illa preteritorum principum ibi raptum dixit esse
+            conmissum, ubi puella, de cuius ante nuptiis nichil actumfuerit, uideatur abducta. </p>
+          <p xml:id="gd-p2c27q1-d1e1520"> V. Pars. Gratian. Quod autem in fine capituli subiungi- </p>
+          <p xml:id="gd-p2c27q1-d1e1523"> tur : , , etiam si eis a raptoribus uis illata constiterit
+            , ideo additum est, quia raptarum aliae se rapiendas exponunt, aliaeuiolenter
+            abducuntur. Quolibet ergo modo rapiantur , priori- 2 ws reddendae sunt. Hec autem, ut
+            supra dictum est, noninter raptas, sed inter alias desponsatas connumeratur, et ideonon
+            est huic auferenda, et priori reddenda .§. 1. Secuntur </p>
+          <p xml:id="gd-p2c27q1-d1e1527"> aliae auctoritates, quibus ista prohibetur nubere secundo,
+            et iubetur redire ad priora uota. </p>
+          <p xml:id="gd-p2c27q1-d1e1530"> Ait enim Siricius Papa Himerio, Episcopo Terra-conensi,
+            [epist. I. c. 4.]: </p>
+        </div>
+        <div xml:id="gd-p2c27q1-Dd1e1534">
+          <head xml:id="gd-p2c27q1-Hd1e1536">C. L</head>
+          <head xml:id="gd-p2c27q1-Hd1e1539" type="question-title"> Puellam alteri desponsatam alter
+            accipere non ualeat . </head>
+          <p xml:id="gd-p2c27q1-d1e1542"> De coniugali uiolatione requisisti, si puellam
+            alteridesponsatam alter in matrimonium possit accipere. Taleigitur* conubium
+            anathematizamus, et modis omnibusne fiat prohibemus, quia illa benedictio, quam
+            nupturaesacerdos inponit, apud fideles cuiusdam sacrilegii instar est, si ulla
+            transgressione uioletur. </p>
+          <p xml:id="gd-p2c27q1-d1e1545"> Gratian. Sed auctoritate hac Siricii illa prohibetur ad
+            secunda uota transire, que in propria domo est ducta , etcum sponso suo est uelata et
+            benedicta. Talium discessione uio-latur benedictio, quam nupturae sacerdos inponit.
+            Verum hancnecdum sponsus in suam duxerat, nec cum ea benedictionem acceperat. iVec ergo
+            hac auctoritate huius copula prohibetur. </p>
+
+          <p xml:id="gd-p2c27q1-d1e1548"> §. 1. Item illud Eusebii Papae : , , Desponsatam puellam
+            non licet parentibus alii uiro traderesimiliter de huiusmodidesponsata intelligitur ,
+            que uidelicet cum sponso est uelata etbenedicta. §. 2. Item obicitur illud Gregorii : „
+            Que propterfrigiditatem a uiro suo separata est, et alii nupta, si uir eiusaliam
+            cognouerit, illa est detrahenda secundo, et reddenda primo .“ Sed eodem modo soluitur,
+            quia ista uidelicet cum illo benedictionem acceperat. </p>
+          <p xml:id="gd-p2c27q1-d1e1552"> [PALE A". </p>
+          <p xml:id="gd-p2c27q1-d1e1555"> C. LI. Si quis alicui mulieri consensus fidem fecerit, non
+            licet illi aliam ducere. </p>
+          <p xml:id="gd-p2c27q1-d1e1558"> Augustinus de fide pactionis, et consensus*. </p>
+          <p xml:id="gd-p2c27q1-d1e1561"> Duobus modis dicitur fides, pactionis et consensus. Si
+            aliquis alicui mulieri fidem fecerit pactionis, non debet aliamducere. Si aliam duxerit,
+            penitenciam debet agere defide mentita: maneat tamen cum illa, quam duxit. Nonenim
+            rescindi debet tantum sacramentum. Si autem feceritfidem consensus, non licet aliam
+            ducere. Si autem duxerit, dimittet eam, et adherebit priori. </p>
+          <p xml:id="gd-p2c27q1-d1e1564"> „ Est autem fides pactionis, quando aliquis promittit
+            fidem alicui, quod eam ducet, si permiserit ei rem secumhabere, uel etiam pro consensu.
+            Fides autem consensus est, quando, etiamsi non stringit manum, corde tamen et
+            oreconsentit ducere, et mutuo se concedunt unus alii, et mutuose suscipiunt/] </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

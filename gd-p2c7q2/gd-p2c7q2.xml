@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c7q2">
+        <head xml:id="gd-p2c7q2-Hd1e103">QUESTIO II.</head>
+        <p xml:id="gd-p2c7q2-d1e106"> Quod autem iste ualetudine recepta suam repetit* cathedram,
+          nulla auctoritate ratum habetur. Celebrationem uero sacrificiorum, si causa infirmitatis
+          dimiserit, ualitudine recuperataexequi non prohibetur. </p>
+        <p xml:id="gd-p2c7q2-d1e109"> Unde Alexander II. scribit Gebonardo Iuuauiensi Archiepiscopo
+          *: </p>
+        <div xml:id="gd-p2c7q2-Dd1e112">
+          <head xml:id="gd-p2c7q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c7q2-Hd1e117" type="question-title"> De quodam presbitero, qui caduco
+            morbo laborabat.</head>
+          <p xml:id="gd-p2c7q2-d1e120"> In litteris tuis continebatur sic: Hic clericus ordinem
+            habet presbiteri; sed quia caduco morbo laborat, et ipsihoc in presentiarum agnouimus,
+            non ausi fuimus sibi concedere ut offerret uel missam celebraret. Quia uero languornon
+            in culpa est, super hac re auctoritatis nostrae decretoconsulendum deliberauimus.
+            Consulimus itaque, ut, sifrequenter hoc morbo tangitur, ab oblatione et
+            missarumcelebratione omnimodis prohibeatur. Indecens enim estet periculosum, ut in
+            consecratione eucharistiae morbouictus epilentico cadat. Si uero Dei misericordia
+            con-ualuerit, quandoquidem non culpa, sed infirmitas est incausa, eum sacrificare iam
+            non interdicimus. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c7q2-Dd1e124">
+          <head xml:id="gd-p2c7q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c7q2-Hd1e129" type="question-title"> A regimine ecclesiae suspendatur
+            qui in terram^ frequenter eliditur.</head>
+          <p xml:id="gd-p2c7q2-d1e132"> Item Gelasius Papa Rustico et Fortunato Episc , </p>
+          <p xml:id="gd-p2c7q2-d1e135"> Nuper Foropopulensis ecclesiae clerici una cum Sabino et
+            Pelagio laicis, propria suggestione reserarunt, presulem suum graui quadam necessitate
+            uexari, cuius eumdicerent incursione frequenter elisum. Quod ne scandalumfidelibus
+            uideretur ingerere, et ecclesiam Dei ubique positam hac offensione turbare, precipue cum
+            eodem ipsouolente huc se perrexisse firmarent, ad dilectionem uestramscripta direximus,
+            ut ecclesiae, cuius rector tali casu teneturastrictus, uisitationem congruam redderetis.
+            Verum, quia nunc idem ipse uenit huc pontifex, falsaque omniaae se iactata disseminat,
+            sub diuini contemplatione iudicii, uestraeque conscientiae estimationisque respectu,
+            rerumfide sollertissime perquisita, scilicet si aliquando, uel indomo, uel in
+            processione, uel in alio quocumque loco probatur repente collapsus, uocesque dedisse
+            confusas, et spumas ore iactasse, quanta fieri potest examinatione queratur.Quod tamen
+            siue non possit aliquorum factum testificatione firmari siue numquam contigisse dicatur,
+            non putandum est posse sufficere, sed certum manifestumque documentum, quia de tanta re
+            non segnius agendum est. Faciatrem tua dilectio, frater Rustice, sui moris, et aptam
+            magnopontifici, ut eum uel triginta* diebus tecum esse constituas, eumque carnibus
+            indifferenter uti necessaria probatione conpellas. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c20q3">
+        <head xml:id="gd-p2c20q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c20q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c20q3-d1e109"> I. Pars. Quod autem qui inuitus propositum religionis
+          susceperit non sit cogendus ad inuiti propositi obseruationem, testatur Leo Papa [epist.
+          XC. aliter XCII. ad RusticumEpiscopum, c. 12.] dicens: </p>
+        <div xml:id="gd-p2c20q3-Dd1e112">
+          <head xml:id="gd-p2c20q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c20q3-Hd1e117" type="question-title"> Non potest deseri propositum
+            monachi sponte susceptum.</head>
+          <p xml:id="gd-p2c20q3-d1e120"> Propositum monachi proprio arbitrio et uoluntate susceptum
+            deseri non potest absque peccato. Quod enim quis uouet Deo debet et reddere. Unde qui
+            relictasingularitatis professione ad miliciam uel ad nuptias deuo-lutus est, publicae
+            penitenciae satisfactione purgandus est, quia, etsi innocens milicia, et honestum potest
+            esse con-iugium, electionem tamen meliorum deseruisse transgressio est. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c20q3-Dd1e124">
+          <head xml:id="gd-p2c20q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c20q3-Hd1e129" type="question-title"> Qui religiosum habitum sponte
+            susceptum deserere uoluerit ad ipsum redire cogatur. </head>
+          <p xml:id="gd-p2c20q3-d1e132"> Item ex Concilio Tollet an o VII., [c. 6.]Procliuis autem
+            cursus est ad uoluptatem et imitatrix natura uitiorum. Quamobrem quisquis uirorumuel
+            mulierum habitum semel induerit spontanee religiosum, aut si uir deditus ecclesiae, uel°
+            femina fueritdelegata puellarum monasterio, in utroque sexu preuari-cator inuitus
+            reuerti cogatur, ut uir detondeatur, etpuella ad monasterium regrediatur-. Si autem
+            quolibetpatrocinio desertores permanere uoluerint, sacerdotali sen-tentia^ a
+            Christianorum cetu habeantur extorres, ut neclocus* eis ullus sit conmunionis. §. i.
+            Viduae quoque(sicut iam dudum uniuersalis statuit sinodus) professionum uel habitus sui
+            desertrices superiori sententia condempnentur. </p>
+        </div>
+        <div xml:id="gd-p2c20q3-Dd1e137">
+          <head xml:id="gd-p2c20q3-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c20q3-Hd1e142" type="question-title"> Semel in clero taxati , uel
+            monasteriis deputati , ad miliciam non redeant . </head>
+          <p xml:id="gd-p2c20q3-d1e145"> Item ex Concilio Calcedonensi , [c. 7.]Eos, qui semel in
+            clero taxati fuerint, siue in monasterio deputati, decreuimus neque ad miliciam, neque
+            adhonores seculares uenire. Eos autem, qui hoc ausi fuerintfacere, et non eius rei
+            penitere maluerint, ut ad hoc idemreuertantur, quod ante non obtentu Dei sibi
+            proposuerunt, conuenit anathematizari. </p>
+          <p xml:id="gd-p2c20q3-d1e148"> II. Pars. Gratian. Cum dicitur , propositum monachi proprio
+            arbitrio et uoluntate susceptum , intelligitur , quod si propria uoluntate susceptum non
+            fuerit , obseruari non cogitur. </p>
+          <p xml:id="gd-p2c20q3-d1e151"> Unde Ny coi au s Papa scribit omnibus Episcopis in Regno
+            Lodoici . </p>
+
+        </div>
+        <div xml:id="gd-p2c20q3-Dd1e155">
+          <head xml:id="gd-p2c20q3-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c20q3-Hd1e160" type="question-title"> Monasterialibus disciplinis
+            nullus subiciatur inuitus. Presens clericus, nomine Lambertus, una cum patre suo, nomine
+            Atto, quondam uidelicet comite, nunc autem clerico, ad limina apostolorum properans
+            adiit presentiam nostram, asserens qualiter idem pater eius in laicali adhuc ordinein
+            prediis propriis edificasset duo monasteria, uoluntatemgerens, ut post suum decessum
+            presens eius filius Lambertus in locum ei succederet, quem, infra tenerametatem inter
+            octauum et decimum annum constitutum, memoratus pater proprio arbitrio absque regulari
+            institutione extra omnem illius uoluntatem cucullam induit. Igiturpost quoddam ipsius
+            temporis spacium (ut ipse dicit) Salomon episcopus cum quibusdam aliis absque patris
+            oblatione uel abbatis percepta benedictione eundem Lam-bertum monastico induere fecit
+            habitu (ut ferunt)inuitum, et sub hac occasione paterna seu materna hereditatea
+            fratribus suis priuatum esse, atque contra omnem (utdictum est) uoluntatem suam quasi
+            regularem illum monachum permanere uoluit. Super qua re diligenti curainuestigantes,
+            etiam sub adiuratione patrem ipsius, si uerumdiceret, interrogauimus; sed idem clericus
+            Atto respondit, se talem habuisse et habere uoluntatem, ut filius suusuerus fieret
+            monachus, et in locum ei succederet.Sub testificatione autem iurando firmauit, quod,
+            quando primitus ei cucullam induit, idem Lambertus semperrestitit, et numquam se fieri
+            monachum consensit; sed demum ab insequentibus monachico e est habitu uiolenterindutus,
+            asserens, quia numquam regulam aliquandopromisit, neque ego, pater eius, palla^ altaris
+            indutumillum obtuli, neque a quocumque sacerdote uel abbate (utmos poscit) benedictione
+            percepta regulae umquam semonachum subiectum futurum promisit. Super hisomnibus
+            protestatus est prefatus clericus Atto, quia sieo tempore tam durae obseruantiae
+            monasticam intellexisset regulam, numquam eundem filium suumLambertumcoegisset portare
+            cucullam. §. 1. Quapropter consulte psalmographi uerba recolentes, quibus uoluntarie se
+            Deosacrificare pronunciat, et uoluntaria oris sui beneplacitafieri in conspectu Dei
+            obsecrat, presentem, ut dictum est, clericum nomine Lambertum minime debere
+            existimaui-mus sub tali uiolentia fieri monachum. Quod enim quisnon elegit, nec optat,
+            profecto non diligit; quod autemnon diligit facile contempnit. Nullum ergo p bonum
+            nisiuoluntarium. Idcirco etu Dominus non ferendam in uiauirgam, per quam uiolentia ulli
+            inferatur, precepit. Quapropter consultius agitur, si piis suasionibus contemptummundi
+            et amorem Dei predicando, quam uiolentiam inferendo ad celestem amorem illum
+            accenderitis. Unde omniumuestrum karitati hanc nostri apostolatus mandare decreuimus
+            epistolam, monentes atque precipientes, quatinus (siita uerum est, ut isti dicunt)
+            nullus episcopus uel abbas, seumonachorum reliquorum conuentus, monasticis regulis
+            inuitum illum subiacere conpellat; neque ullo modo fratreseius per hanc occasionem
+            licentiam habeant paterna seumaterna illum hereditate priuare; sed usque dum
+            diuinainspiratione conpunctus propria uoluntate regulae sesubdat, liceat eum a mundanis
+            et laicalibus remotum ua-gationibus uel negociis inter religiosos et ecclesiasticos
+            uirosin canonica degere uita. Non enim putamus (quod absit)religiosos canonicos a
+            sanctorum monachorum consortioseiunctos, quia unusquisque secundum Apostolum propriam
+            mercedem accipiet secundum suum laborem. </head>
+          <p xml:id="gd-p2c20q3-d1e163"> III. Pars. Gratian. Si uero episcopi uel abbatis
+            promissionibus illecti aliqui tonsuram uel religionis uestem susceperint , ipsi quidem
+            in eo , quod ceperunt , permaneant , res uero eorumheredibus suis restituantur. </p>
+          <p xml:id="gd-p2c20q3-d1e166"> Unde in Maguntiensi Concilio legitur *. </p>
+        </div>
+        <div xml:id="gd-p2c20q3-Dd1e170">
+          <head xml:id="gd-p2c20q3-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c20q3-Hd1e175" type="question-title"> Restituantur heredibus res eorum
+            , qui ab episcopis uel abbatibus decepti comas deposuerunt. </head>
+          <p xml:id="gd-p2c20q3-d1e178"> Constituit sane sacer iste conuentus, ut episcopi siue </p>
+
+
+
+
+          <p xml:id="gd-p2c20q3-d1e181"> abbates, qui non in fructum animarum, sed in auariciam et
+            turpe lucrum inhiantes, quoslibet homines circumueniendototonderunt, et res eorum tali
+            persuasione subripuerunt, penitenciae canonicae utpote turpis lucri sectatores
+            subiaceant. Hii uero, qui illecti comam deposuerunt, in eo, quodceperunt, perseuerare
+            cogantur, res uero eorum heredibusreddantur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

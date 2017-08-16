@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VIII.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VIII.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c2q8">
+        <head xml:id="gd-p2c2q8-Hd1e103">QUESTIO VIII.</head>
+        <p xml:id="gd-p2c2q8-d1e106"> I. Pars. De accusationibus uero, qualiter fieridebeat, in
+          canonibus aperte discernitur . </p>
+        <p xml:id="gd-p2c2q8-d1e109"> Ait enim Calix tus Papa [ad Episcopos Galliae, ep. II.]*: </p>
+        <div xml:id="gd-p2c2q8-Dd1e112">
+          <head xml:id="gd-p2c2q8-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c2q8-Hd1e117" type="question-title"> Accusatio semper fiat in
+            scriptis.</head>
+          <p xml:id="gd-p2c2q8-d1e120"> Accusatorum personae sine scripto numquam recipiantur nec
+            absente eo, quem accusare uoluerint, quibuslibet accusare permittatur. </p>
+          <p xml:id="gd-p2c2q8-d1e123"> [C. II.] « a </p>
+          <p xml:id="gd-p2c2q8-d1e126"> Cod. lib. IV. tit. De probationibus, [ 1 . fin.] </p>
+          <p xml:id="gd-p2c2q8-d1e130"> Sciant cuncti accusatores, eam rem se deferre debere in
+            publicam notionem, que munita sit testibus idoneis, uelinstructa apertissimis
+            documentis, uel indiciis ad probationem indubitatis et luce clarioribus expedita. </p>
+        </div>
+        <div xml:id="gd-p2c2q8-Dd1e134">
+          <head xml:id="gd-p2c2q8-Hd1e136">C. III</head>
+          <head xml:id="gd-p2c2q8-Hd1e139" type="question-title"> Accusatio semper debet fieri in
+            scriptis.</head>
+          <p xml:id="gd-p2c2q8-d1e142"> Item Euticianus Papa [Episcopis Siciliae, ep. II.] </p>
+          <p xml:id="gd-p2c2q8-d1e145"> Quisquis ille est, qui crimen intendit, in iudicium ueniat,
+            nomen rei indicet, uinculum inscriptionis arripiat, custodiaesimilitudinem* (habita
+            tamen dignitatis estimatione) potiatur , nec sibi nouerit licentiam mentiendi, cum
+            calum-pniantes ad uindictam poscat similitudo suplicii. §. i.Qui uero ad sortilegos
+            magosque concurrunt, nullatenusad accusationem sunt admittendi. </p>
+        </div>
+        <div xml:id="gd-p2c2q8-Dd1e150">
+          <head xml:id="gd-p2c2q8-Hd1e152">C. IV</head>
+          <head xml:id="gd-p2c2q8-Hd1e155" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q8-d1e158"> Item Sixtus Papa [III. in epist. ad Episcopos orientales,
+            cap. 4»] </p>
+          <p xml:id="gd-p2c2q8-d1e161"> Qui crimen obicit, scribat se probaturum *. Etqui non
+            probauerit quod obiecit, penam, quam intulerit, ipse patiatur. </p>
+          <p xml:id="gd-p2c2q8-d1e164"> Sed Stephanus Papa contra uidetur scribere, dicens [ep. II.
+            c. 4.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q8-Dd1e168">
+          <head xml:id="gd-p2c2q8-Hd1e170">C. V</head>
+          <head xml:id="gd-p2c2q8-Hd1e173" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q8-d1e176"> Per scripta nullius accusatio suscipiatur, sed propria uoce
+            (si legitima et condigna accusatoris persona fuerit)presente uidelicet eo, quem accusare
+            desiderat, quia nullumabsens accusare potest, nec ab aliquo accusari. </p>
+          <p xml:id="gd-p2c2q8-d1e179"> Gratian. Sed Calixtus Papa precepit , ut accusator presente
+            eo, quem accusat, in scriptis accusationem iudici offerat, et propria uoce litteras suae
+            accusationis legat. Stephanus autemprohibet, ne absens aliquem per epistolam accusare
+            audeat. </p>
+
+          <p xml:id="gd-p2c2q8-d1e182"> II. Pars. §. i. Que uero sit forma accusationis, quis%modus
+            concipiendorum libellorum, Paulus in Digestis, libro de publicis iudiciis, titulo de
+            accusationibus et inscriptionibus, [lege 3.] ostendit, dicens: §. 2. , , Libellorum
+            inscriptionis conceptio talis est: Consul et dies. Apud illum pretorem uel
+            con-sulem^&amp; Lucius Titius professus est, se Meuiam lege lulia deadulteriis ream
+            deferre, quod dicat eam cum Gaio Seio in ciuitate iV, domo illius^, mense iV, consulibus
+            N s, commisisse adulterium. Utique enim et locus designandus est, in quoadulterium
+            commissum est, et persona, cum qua admissum dicitur, et mensis. Hoc enim lege lulia
+            publicorum ^* cauetur, et generaliter precipitur omnibus, qui aliquem reum deferunt .
+            Nequeautem diem, neque horam inuitus conprehendanP'. Quod silibelli inscriptionum
+            legitime ordinati non fuerint, rei nomenaboletur, et ex integro repetendi reum potestas
+            fiet. §. 3. Itemsubscribere debebit is, qui dat libellumse professum esse, uelalius pro
+            eo, si litteras nesciat.' Sed s/ aliud crimen obiciat, ueluti^ quod domum suam prebuit,
+            ut stuprum materfamiliaspateretur, quod adulterum deprehensum dimiserit, quod pretiumpro
+            conperto stupro acceperit, et s£ quid simile, id ipsumlibello conprehendendum erit. Si
+            accusator decesserit, aliauecausa eum inpedierit, quo minus accusare possit, et si
+            quidsimile , nomen rei aboletur postulante reo, idque et^ lege luliade ui, et
+            senatusconsulto cautum est, ita ut liceat alii ex integro repetere reum. Sed intra quod
+            tempus, uidebimus; et utiqueXXX. dies utiles obseruandi sunt. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

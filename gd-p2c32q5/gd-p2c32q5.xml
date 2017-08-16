@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO V</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO V</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c32q5">
+        <head xml:id="gd-p2c32q5-Hd1e103">QUESTIO V</head>
+
+        <p xml:id="gd-p2c32q5-d1e106"> I. Pars. Quod autem pudicitia uiolenter eripi non possit,
+          multorum auctoritatibus probatur. Est enim uirtus animi, queuiolentiam non sentit. Corpori
+          namque uis infertur, non animo.Unde , quamuis corpus uiolenter corrumpatur, si pudicitia
+          mentisseruetur illesa, tamen castitas duplicatur. Sicut B. Luciafertur dixisse Pascasio .
+          „Si inuitam me feceris uiolari, castitasmichi duplicabitur ad coronam.“ 3 * De sensibus
+          enim et uo-luntatibus iudicat Deus. </p>
+        <p xml:id="gd-p2c32q5-d1e109"> Hinc Ambrosius scribit in lib. V. de uirginibus : </p>
+        <div xml:id="gd-p2c32q5-Dd1e112">
+          <head xml:id="gd-p2c32q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c32q5-Hd1e117" type="question-title"> Melior est uirginitaS mentis quam
+            carnis. Tollerabilius est mentem uirginem, quam carnem habere. Utrumque bonum, si
+            liceat; si non liceat, saltim nonhomini casti*, sed Deo simus. §. i. Virgo
+            prostituipotest, adulterari non potest. Ubicumque Dei uirgo est, templum Dei est; nec
+            lupanaria infamant castitatem, sedcastitas etiam loci abolet infamiam. </head>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e121">
+          <head xml:id="gd-p2c32q5-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c32q5-Hd1e126" type="question-title"> Mente incorrupta non corrumpitur
+            caro.</head>
+          <p xml:id="gd-p2c32q5-d1e129"> Idem [ad uirginem lapsam, c. 4.] Reuera non potest caro
+            ante corrumpi, nisi mensfuerit ante corrupta. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e134">
+          <head xml:id="gd-p2c32q5-Hd1e136">C. III</head>
+          <head xml:id="gd-p2c32q5-Hd1e139" type="question-title"> Aliena libido neminem
+            polluit.</head>
+          <p xml:id="gd-p2c32q5-d1e142"> Item Augustinus de ciuit. Dei, [lib. I. c. 18.]Ita, ne*
+            aliquem polluat aliena libido, metuitur? Nonpolluet, si aliena erit, si autem polluet,
+            non aliena erit.Sed cum pudicitia sit uirtus animi, comitemque habeatfortitudinem,
+            potius quelibet mala tollerare, quam maloconsentire decernat, nullus autem magnanimus et
+            pudicusin potestate habet quid de sua carne fiat, sed tantumquod annuat mente uel
+            rennuat: quis tandem sana scilicet mente putauerit, se perdere pudicitiam, si forte
+            inapprehensa uel oppressa carne sua exerceatur et expleatur libido non sua? </p>
+          <p xml:id="gd-p2c32q5-d1e145"> [C. IV.] Idem [ibidem]. </p>
+          <p xml:id="gd-p2c32q5-d1e148"> Proposito animi permanente, per quod etiam corpus
+            sanctificari meruit, ipsi corpori non aufert sanctitatemviolentia libidinis alienae,
+            quam seruat perseverantia suaecontinentiae. An uero, si aliqua femina mente corrupta,
+            uiolatoque proposito, quod Deo uouerat, pergat uicianda adsuum deceptorem, adhuc eam
+            pergentem sanctam uel corpore dicimus, ea sanctitate animi, per quam corpus
+            sanctificatur, amissa atque destructa? Absit hic error, ethinc potius ammoneamur, ita
+            amitti* corporis sanctitatem, etiam intacto corpore. Idem [c. 19.]: §. 1. </p>
+
+
+
+
+          <p xml:id="gd-p2c32q5-d1e152"> Lucretiam £, matronam nobilem ueteremque Romanam, magnis
+            pudicitiae laudibus efferunt. Huius corpore cumuiolentus Tarquinii regis filius
+            libidinose potitus esset, illa scelus inprobissimi iuuenis marito Collatino, et
+            propinquo Bruto, uiris clarissimis et fortissimis, indicauit, eosquead uindictam
+            constrinxit. Deinde fedi in se conmissiegra atque inpatiens se peremit. Quid dicimus?
+            adulterahec, an casta dicenda est? Quis in hac controuersialaborabit? Egregie quidam ex
+            hoc et ueraciterdeclamans ait: „Mirabile dictu; duo fuerunt, et adulteriumunus admisit.“
+            Splendide atque uerissime. Intuensenim in duum? corporum conmixtione unius
+            inquinatissimam cupiditatem, unius q castissimam uoluntatem, etnon quod corporum
+            coniunctione, sed quod animorum diuersitate ageretur, attendens: „Duo, “ inquit, , ,
+            fuerunt, et unus adulterium admisit.“ </p>
+          <p xml:id="gd-p2c32q5-d1e155"> [PALE A 5 i. </p>
+          <p xml:id="gd-p2c32q5-d1e158"> C. V. Idem in eodem libro, cap. 27. </p>
+          <p xml:id="gd-p2c32q5-d1e161"> Non fidelibus* Christi sit tedio uestra uita, si ludibrio
+            fuit hostibus castitas uestra. Habetis magnam ueramqueconsolationem, si fidam
+            conscientiam retinetis, non consensisse peccatis eorum, qui in uos peccare permissi
+            sunt.Idem in libro de duabus animabus, [c. io.]: §. 1. Nonnisi uoluntate peccatur.] </p>
+          <p xml:id="gd-p2c32q5-d1e164"> [C. VI.] a </p>
+          <p xml:id="gd-p2c32q5-d1e167"> Idem in lib. I. de libero arbitrio , [c. 5.] </p>
+          <p xml:id="gd-p2c32q5-d1e171"> De pudicitia quis dubitauit, quin ea sit in
+            animoconstituta, quandoquidem uirtus est? Unde a uiolento stupratore nec ipsa eripi
+            potest. Item leronimus * superepistolam ad Romanos l. i.: §. 1. Fieri non potest, ut,
+            nisiquis prius mechetur in corde, mechari possit in corpore. </p>
+          <p xml:id="gd-p2c32q5-d1e174"> [PALEA. </p>
+          <p xml:id="gd-p2c32q5-d1e177"> Idem super Lucam** in lib.2.: §. 2. Finge in persecutione
+            aliquam uirginem prostitutam; hec apud euangelium, quia uoluntate non peccat, uirgo
+            suscipitur, in lege quasi corrupta repudiatur. Idem in libro hebraicarumquestionum (in
+            Genes, ad cap. 12.): §. 3. Corpus mulieris non uis maculat, sed uoluntas.] </p>
+          <p xml:id="gd-p2c32q5-d1e180"> Item Augustinus in libro de sancta uirginitate, [c. 8.]: §.
+            4. Sicut nemo inpudice utitur corpore, nisi prius spirituconcepta nequitia: ita nemo
+            seruat pudicitiam in corpore, nisi spiritui prius insita castitate. </p>
+
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e184">
+          <head xml:id="gd-p2c32q5-Hd1e186">C. VII</head>
+          <head xml:id="gd-p2c32q5-Hd1e189" type="question-title"> In corpore pudicitia uiolari non
+            potest , si mens inuiolata seruetur . </head>
+          <p xml:id="gd-p2c32q5-d1e192"> Idem Victoriano , [epist. CXXII.] </p>
+          <p xml:id="gd-p2c32q5-d1e195"> Ad Deum ingemiscentibus omnino suis aderit qui suis adesse
+            consueuit, et aut nichil in earum castissimis membrislibidine hostili perpetrare
+            permittit, aut si permittit, cum earum animus nulla consensionis turpitudine maculatur,
+            etiam carnem suam defendunt a crimine, etquicquid in ea nec conmisit, nec permisit
+            libido patientis, solius erit culpae facientis, omnisque illa uiolencia nonpro
+            corruptionis turpitudine, sed pro passionis uulnere de^putabitur. Tantum enim ualet in
+            mente integritas castitatis, ut illa inuiolata nec in corpore possit pudicitia uiolari,
+            cuiusmembra potuerunt superari. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e199">
+          <head xml:id="gd-p2c32q5-Hd1e201">C. VIII</head>
+          <head xml:id="gd-p2c32q5-Hd1e204" type="question-title"> Caro non peccat , si a contagione
+            anima fuerit munda . </head>
+          <p xml:id="gd-p2c32q5-d1e207"> Item Ysidorus in Sinonimis , lib. II. [c. i.] </p>
+          <p xml:id="gd-p2c32q5-d1e210"> Non potest corpus corrumpi, nisi prius animus corruptus
+            fuerit. Munda namque a contagione animi caro non peccat. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e214">
+          <head xml:id="gd-p2c32q5-Hd1e216">C. IX</head>
+          <head xml:id="gd-p2c32q5-Hd1e219" type="question-title"> Pudicitia carnis non eripitur ,
+            si mente seruatur . </head>
+          <p xml:id="gd-p2c32q5-d1e222"> Item Augustinus Honorato Episcopo , [ep. CLXXX.] </p>
+          <p xml:id="gd-p2c32q5-d1e225"> Magis timeamus, ne sensu interiore corrupto pereat castitas
+            fidei, quam ne feminae constuprentur uiolenter incarne, quia uiolentia non uiolatur
+            pudicitia, si mente seruatur, quoniam nec in carne uiolatur, quando uoluntas patientis
+            turpiter carne non utitur, sed sine consensionetollerat quod alius operatur. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e229">
+          <head xml:id="gd-p2c32q5-Hd1e231">C. X</head>
+          <head xml:id="gd-p2c32q5-Hd1e234" type="question-title"> Nec peccatum, nec iusticia opere
+            sine uoluntate perficitur. </head>
+          <p xml:id="gd-p2c32q5-d1e237"> Item Iohannes Crisostomus , [id est auctor operis
+            imperfecti] super Mattheum , [hom. XXXII. ad. c. 19.]" </p>
+          <p xml:id="gd-p2c32q5-d1e240"> Sicut enim peccatum opus sine uoluntate non facit, ita et
+            iusticia ex opere non consummatur, nisi et uoluntas affuerit. Multi enim corpore quidem
+            castitati student, adulterium quidem uoluntate conmittunt cum Dominusdicat: „ Qui
+            uiderit mulierem ad concupiscendum eam, iam mechatus est eam in corde suo.“ Ergo
+            uoluntas sineopere frequenter peccat. Illa est ergo gloriosa continentia, non quam
+            transgredi non potest necessitas debilitatis £ corporis, sed quam conplectitur uoluntas
+            sanctipropositi. </p>
+
+
+
+
+          <p xml:id="gd-p2c32q5-d1e243"> Item Ieronimus in epistola ad Eustochium, [de custodia
+            uirginitatis] *. </p>
+          <p xml:id="gd-p2c32q5-d1e247"> H. Pars. Si Paulus apostolus uas electionis, et pre-paratus
+            in euangelio Christi, ob camis aculeos et incentiua uiciorum reprimit corpus suum, et
+            seruitutisubicit, ne aliis predicans ipse reprobus inueniatur, et tamen uidet aliam
+            legem in membris suis, repugnantemlegi mentis suae, et captiuantem se in lege peccati;
+            si post nuditatem, ieiunia, famem, carceres, flagella, supplicia, in semet reuersus
+            exclamat: „Infelix ego homo, quis me liberabit de corpore mortis huius ?“tu te putas
+            securam esse debere? Caue, queso, ne quandoet s de te dicat Deus: „Virgo Israel cecidit,
+            et nonest qui suscitet eam.“ Audenter dicam: cum omniapossit Deus, suscitare uirginem
+            non potest post ruinam.Valet quidem liberare de pena, sed non ualet coronarecorruptam.
+            §. i. Timeamus illam prophetiam, ne in nobisetiam conpleatur: „Et uirgines bonae
+            deficient.“Qbserua quid dicat: Et uirgines bonae deficient, quia sunt et uirgines
+            malae.„ Qui uiderit, “ inquit, </p>
+          <p xml:id="gd-p2c32q5-d1e250"> , , mulierem ad concupiscendum eam, iam mechatus est eam in
+            corde suo.“ Perit ergo et mente uirginitas. Istae suntuirgines malae, uirgines carne,
+            non spiritu; uirgines stultae, que oleum non habentes excluduntur a sponso. Siautem et
+            illae, que uirgines sunt, ob alias tamen culpasuirginitate corporum non saluantur, quid
+            fiet illis, queprostituerunt membra Christi, et inmutauerunt templumsancti Spiritus in
+            lupanar? Illico audient prophetam dicentem : , , Descende, sede in terra uirgo filia
+            Babilonis, sede in terra; non est filiae Chaldeorum thronus; nonuocaberis ultra mollis
+            et delicata. Accipe molam, molefarinam, discooperi uelamen tuum, denuda crura tuap,
+            transi flumina, reuelabitur ignominia tua, apparebunt opprobria tua.“ Et hoc post Dei
+            filii thalamum q, post osculafratruelis et sponsi; illa, de qua quondam sermo
+            propheticusconcinebat: , , Astitit regina a dextris tuis in uestitu deaurato, circumdata
+            uarietate, “ nudabitur, et posteriora eiusponentur in faciem ipsius. Sedebit ad aquas
+            solitudinis, et posito uase diuaricabit pedes suos omni transeunti , et usque ad
+            uerticem polluetur. Rectius fuerathominem subisse coniugium, et ambulasse per plana,
+            quam ad altiora tendentem in profundum inferni cadere.Non fiat, obsecro, ciuitas
+            meretrix filia Syon, nepost Trinitatis hospitium ibi demones saltent, et
+            Syrenaenidificent et hericii. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e254">
+          <head xml:id="gd-p2c32q5-Hd1e256">C. XII</head>
+          <head xml:id="gd-p2c32q5-Hd1e259" type="question-title"> Corpore intacto ^nonnumquam
+            castitas amittitur.</head>
+          <p xml:id="gd-p2c32q5-d1e262"> Item Augustinus de fide Christiana'^ </p>
+
+          <p xml:id="gd-p2c32q5-d1e265"> III. Pars. Nec solo tactu et affectu sed aspectuquoque
+            concupiscentia appetitur et appetit feminarum.Nec dicatis uos habere animos pudicos, si
+            habeatis oculosinpudicos, quia inpudicus oculus inpudici cordis est nuncius, et, cum se
+            inuicem sibi, etiam tacente lingua, conspectumutuo corda nunciant inpudica, et secundum
+            concupiscentiam carnis alterutro delectantur ardore, etiam intactisab inmunda uiolatione
+            corporibus fugit ipsa castitas demoribus. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e270">
+          <head xml:id="gd-p2c32q5-Hd1e272">C. XIII</head>
+          <head xml:id="gd-p2c32q5-Hd1e275" type="question-title"> Adulterium perpetratur, cum uel
+            innupta uel nupta turpiter concupiscitur. </head>
+          <p xml:id="gd-p2c32q5-d1e278"> Item Gregorius [in Moralibus, lib. XXI. c. 9.] </p>
+          <p xml:id="gd-p2c32q5-d1e281"> „ Qui uiderit mulierem ad concupiscendum eam, iam mechatus
+            est eam in corde suo.“ Quia enim greco uerboadulter mechus dicitur, cum non aliena
+            coniux, sed mulieruideri prohibetur, aperte ueritas ostendit, quia etiam solouisu, cum
+            turpiter uel innupta concupiscitur, adulteriumperpetratur. Quod tamen plerumque ex loco
+            uelordine concupiscentium discernitur, quia sic huncstudiosa in sacro ordine
+            concupiscentia, sicut illum adulterii inquinat culpa, in personis tamen non dissimilibus
+            idemluxuriae distinguitur reatus. </p>
+          <p xml:id="gd-p2c32q5-d1e284"> IV. Pars. Gratian. Quamuis autem uiolenter oppressae
+            pudicitiam non amiserint, incontaminatis tamen se non audeantexequare uirginibus . </p>
+          <p xml:id="gd-p2c32q5-d1e288"> Unde Leo Papa, [epist. LXXXV. al. LXXXVII. ad Episcopos
+            Afric., c. 5.]: </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e292">
+          <head xml:id="gd-p2c32q5-Hd1e294">C. XIV</head>
+          <head xml:id="gd-p2c32q5-Hd1e297" type="question-title"> Que n opprimuntur incontaminatis
+            se uirginibus conparare non audeant. </head>
+          <p xml:id="gd-p2c32q5-d1e300"> Illae autem famulae Dei, que integritatem pudoris
+            oppressione barbarica perdiderunt, laudabiliores erunt in humilitate ac uerecundia, si
+            se incontaminatis non audeant conparare uirginibus. Quamuis enim omne peccatum
+            exuoluntate nascatur, et potuerit corruptione carnis mens in-uita non pollui, minus
+            tamen hoc illis oberit, siquod potuerunt animo non amittere doleant se uel
+            corporeperdidisse. </p>
+          <p xml:id="gd-p2c32q5-d1e303"> Gratian. Cum ergo hec, que uiolentiam passa est, pudicitiam
+            amisisse probari non potest, nullo modo conuincitur fornicationis uel adulterii crimen
+            incurrisse. Ut enim Augustinus ait in libro de bono coniugali, [c. 4.]: , , Adulterium
+            commititur, cum uel propriae libidinis instinctu, uel alienae consensu cumaltera uel
+            altero contra pactum coniugale concumbitur, atque itafrangitur fides, que in re&amp;ws
+            corporeis et abiectis magnumanimi bonum est, et ideo ei * salutem quoque corporalem,
+            quaetiam uita ista continetur, certum est debere postponi. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e307">
+          <head xml:id="gd-p2c32q5-Hd1e309">C. XV</head>
+          <head xml:id="gd-p2c32q5-Hd1e312" type="question-title"> Mechatur qui alicui preter
+            matrimonii™ fedus miscetur.</head>
+          <p xml:id="gd-p2c32q5-d1e315"> Item Ysidorus super Exodum, [c. 29.] </p>
+          <p xml:id="gd-p2c32q5-d1e318"> „Non mediaberis, “ id est, nec quisquam preter matrimonii
+            federa aliis feminis admisceatur ad explendam libidinem. Nam adulterium facit qui preter
+            suam ad alteram accedit. </p>
+
+
+
+
+          <div xml:id="gd-p2c32q5-Dd1e321"> </div>
+          <div xml:id="gd-p2c32q5-Dd1e325">
+            <head xml:id="gd-p2c32q5-Hd1e327">C. XVI</head>
+            <head xml:id="gd-p2c32q5-Hd1e330" type="question-title"> Qui uiuente uxore sua alteram
+              cognoscit adulterium conmittit.</head>
+            <p xml:id="gd-p2c32q5-d1e333"> Item Augustinus de adulterinis coniugiis, [I. II. c.
+              13.]Puto Christianum neminem reluctari, adulterum esse, qui uel diu languente, uel diu
+              absente, uel continenter uiuerecupiente sua uxore, alteri conmixtus est feminae. </p>
+            <p xml:id="gd-p2c32q5-d1e336"> V. Pars. Gratian. Cum ergo nichil horum in ista
+              deprehendatur fuisse, quia nec propriae libidinis instinctu, necalienae consensu, nec
+              uiro languente uel absente, uel continenter uiuere cupiente alii adhesit, sed
+              uiolenter aliena libidineoppressa uim pertulit &gt; apparet, quod nec fornicaria, nec
+              adulteradici potest. Unde nec aliqua occasione ualet dimitti. Cum enimquererent Iudei
+              a Christo, utrum liceret homini dimittereuxorem suam quacumque ex causa, respondit
+              eis: „ Numquam legistis, quia qui fecit eos ab inicio masculum et feminam creauit eos?
+              Quod ergo Deus coniunxit homo non separet.Deinde ita sermonem suum conclusit, ut
+              diceret, neminem possedimittere uxorem suam, excepta causa fornicationis. Hinc
+              Apostolus ait in epistola ad Chorinthios : „ His, qui matrimonioiuncti sunt, precipio
+              non ego, sed Dominus, uxorem a uironon discedere. Unde datur intelligi, quod
+              qualiscumque fue-rit uir et Uxor, ex quo coniugali affectu sibi adheserint, ulterius
+              ab inuicem discedere non ualent. </p>
+            <p xml:id="gd-p2c32q5-d1e339"> Unde Ambrosius in Hexameron, tit. diei quartae, scribit ;
+            </p>
+          </div>
+          <div xml:id="gd-p2c32q5-Dd1e343">
+            <head xml:id="gd-p2c32q5-Hd1e345">C. XVII</head>
+            <head xml:id="gd-p2c32q5-Hd1e348" type="question-title"> Qualiscumque sit uir, ex quo
+              semel placuit, non est dimittendus.</head>
+            <p xml:id="gd-p2c32q5-d1e351"> Plorrendus* et incultus est uir qui semel placuit;
+              numquid uir alius est eligendus? Conparem suumequus diligit, et, si mutetur alius,
+              trahere iugum nescit con-par alterius, et se. non totum putat. Tu iugalem repudias
+              tuum, et sepe mutandum putas? muta et si unodefecerit die, superduc riualem, et
+              statim, incognitacausa, quasi cognitam pudoris exequeris iniuriam? </p>
+          </div>
+          <div xml:id="gd-p2c32q5-Dd1e355">
+            <head xml:id="gd-p2c32q5-Hd1e357">C. XVIII</head>
+            <head xml:id="gd-p2c32q5-Hd1e360" type="question-title"> Similiter de uxore
+              intelligitur^*.</head>
+            <p xml:id="gd-p2c32q5-d1e363"> Item Augustinus [de^sermone Domini in monte, lib. I. c.
+              32.] </p>
+            <p xml:id="gd-p2c32q5-d1e366"> Si uxorem quis habeat sterilem, siue corpore deformem
+              siue debilem membris, uel cecam, uel surdam, uel claudam, uel si quid aliud, siue
+              morbis, uel laboribus doloribus que , confectam, et quicquid (excepta fornicatione)
+              cogitari potest uehementer horrible, pro societatefideque sustineat. </p>
+          </div>
+          <div xml:id="gd-p2c32q5-Dd1e370">
+            <head xml:id="gd-p2c32q5-Hd1e372">C. XIX</head>
+            <head xml:id="gd-p2c32q5-Hd1e375" type="question-title"> Non licet uiro uxorem dimittere
+              nisi causa fornicationis.</head>
+            <p xml:id="gd-p2c32q5-d1e378"> Item Ieronimus ad Oceanum de morte Fahiolae^. Precepit
+              Dominus, uxorem non debere dimitti, excepta </p>
+          </div>
+          <p xml:id="gd-p2c32q5-d1e382"> causa fornicationis, et, si dimissa fuerit, 'manere
+            innuptam. Quicquid uiris precipitur, hoc consequenter redundatad 221 d feminas. Neque
+            enim adultera uxor dimittenda est, et uir mechus tenendus est. </p>
+          <p xml:id="gd-p2c32q5-d1e385"> [C. XX.} Item . </p>
+          <p xml:id="gd-p2c32q5-d1e389"> Apud nos quod non licet feminis eque non licet uiris, et
+            eadem seruitus pari condicione censetur. </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e393">
+          <head xml:id="gd-p2c32q5-Hd1e395">C. XXI</head>
+          <head xml:id="gd-p2c32q5-Hd1e398" type="question-title"> Conmunione priuetur qui citra
+            fornicationis causam uxorem suam dimittit. </head>
+          <p xml:id="gd-p2c32q5-d1e401"> Item ex Concilio Tollet ano XII. [c. 8.] </p>
+          <p xml:id="gd-p2c32q5-d1e404"> VI. Pars. Preceptum Domini est, ut excepta
+            causafornicationis uxor a uiro dimitti non debeat, et ideo quicumque citra culpam
+            criminis supradicti uxorem suam quacumque occasione reliquerit, quia quod Deus
+            iunxitille separare disposuit, tamdiu ab ecclesiastical conmunione priuatus, et a cetu
+            omnium Christianorummaneat alienus, quamdiu societatem relictae coniugissinceriter
+            amplectatur et foueat. Itaque qui iam admoniti a sacerdote semel et bis et ter^ ut
+            corrigantur f, ad suae coniugis noluerint redire consortium *°s, ipsi se suis meritis et
+            a palatinae dignitatis offitio separabunt, et insuper generosae dignitatis testimonium,
+            quamdiu in culpa fuerint, amissuri sunt, quia carnem suamdiscidii iugulo tradiderunt. </p>
+          <p xml:id="gd-p2c32q5-d1e407"> [C. XXII.] Item^*.. </p>
+          <p xml:id="gd-p2c32q5-d1e411"> NyJcolaus ad consulta Bulgarorum, [c. 96.] </p>
+          <p xml:id="gd-p2c32q5-d1e414"> Quicquid mulier contra te cogitauerit, uel si te
+            accusauerit, non est, excepta causa fornicationis, reiciendauel prorsus odio habenda *. </p>
+          <p xml:id="gd-p2c32q5-d1e417"> VII. Pars. Gratian. Sed queritur, cum sit par
+            utriusquecondicio, cur communicantes uiri cum adulteris uxoribus non con-ueniant, cum
+            econtra uxores in consortio^ adulterorum uir orummanere uideantur. </p>
+          <p xml:id="gd-p2c32q5-d1e420"> De his ita scribit Innocentius Papa [epist. III., ad
+            Exsuperium Episcopum, c. 4.]: </p>
+        </div>
+        <div xml:id="gd-p2c32q5-Dd1e424">
+          <head xml:id="gd-p2c32q5-Hd1e426">C. XXIII</head>
+          <head xml:id="gd-p2c32q5-Hd1e429" type="question-title"> In utroque sexu adulterium pari
+            ratione punitur.</head>
+          <p xml:id="gd-p2c32q5-d1e432"> Christiana religio adulterium in utroque sexu pari ratione
+            condempnat. Sed uiros suos mulieres non facile de adulterio accusant, et non habent
+            latentia peccata uindictam.Viri autem liberius uxores adulteras apud sacerdotes deferre
+            consueuerunt, et ideo mulieribus, prodito earumcrimine, conmunio denegatur; uirorum
+            autem latente con-misso non facile quisquam ex suspicionibus abstinetur;qui utique
+            submouebitur, si eius flagicium detegatur.:Cum enim par causa sit, interdum probatione
+            cessanteuindictae ratio conquiescit. </p>
+
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAUSA I, QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>CAUSA I, QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1q1">
+        <head xml:id="gd-p2c1q1-Hd1e103">CAUSA I, QUESTIO I.</head>
+        <p xml:id="gd-p2c1q1-d1e106"> I. Pars. Quod autem spiritualia emere peccatum sit, probatur
+          multorum auctoritatibus . </p>
+        <p xml:id="gd-p2c1q1-d1e109"> Ait enim Leo Papa: </p>
+        <div xml:id="gd-p2c1q1-Dd1e112">
+          <head xml:id="gd-p2c1q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c1q1-Hd1e117" type="question-title"> Symoniaci gratiam non prestant,
+            quam querant uendere.</head>
+
+          <p xml:id="gd-p2c1q1-d1e120"> Gratia* si non gratis datur uel accipitur, gratia non est.
+            Symoniaci autem non gratis accipiunt: igitur gratiam, quemaxime in ecclesiasticis
+            ordinibus operatur, non accipiunt.Si autem accipiunt, non habent; si autem non habent,
+            nequegratis, neque non gratis cuiquam dare possunt. Quid ergodant? profecto quod habent?
+            quid autem habent? spiritumutique mendatii. Quomodo hoc probamus? quia si
+            spiritusueritatis (testante ipsa ueritate, de qua procedit) gratisaccipitur, proculdubio
+            spiritus mendatii esse conuincitur, qui non gratis accipitur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e124">
+          <head xml:id="gd-p2c1q1-Hd1e126">C. II.</head>
+          <head xml:id="gd-p2c1q1-Hd1e129" type="question-title">Inaniter sacerdos dicitur,
+            quicumque symoniace ordinatur.</head>
+          <p xml:id="gd-p2c1q1-d1e132"> Item Gregorius Siagrio Episcopo Augustodunensi, </p>
+          <p xml:id="gd-p2c1q1-d1e135"> [lib. VII. epist. no.]* </p>
+          <p xml:id="gd-p2c1q1-d1e138"> Quicumque studet precii datione sacrum ordinempercipere ,
+            sacerdos non est, sed concupiscit inaniter tantummodo dici. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e143">
+          <head xml:id="gd-p2c1q1-Hd1e145">C. III.</head>
+          <head xml:id="gd-p2c1q1-Hd1e148" type="question-title">Spolietur honore, qui ecclesiam per
+            pecuniam obtinet</head> . <p xml:id="gd-p2c1q1-d1e151"> Item in Registro *. </p>
+          <p xml:id="gd-p2c1q1-d1e154"> Presbiter si ecclesiam per pecuniam obtinuerit, non solum
+            ecclesia priuetur, sed etiam sacerdotii honorespolietur, quia altare, et decimas, et
+            Spiritum sanctumuendere uel emere, symoniacam heresim esse, nullus fide-»lium ignorat.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e158">
+          <head xml:id="gd-p2c1q1-Hd1e160">[C.IV.]</head>
+          <p xml:id="gd-p2c1q1-d1e163"> Idem [Gregorius I. dicta epist. no. lib. VII.]* </p>
+          <p xml:id="gd-p2c1q1-d1e166"> Benedictio illi in maledictionem conuertitur, qui ad hoc, ut
+            fiat hereticus, promouetur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e170">
+          <head xml:id="gd-p2c1q1-Hd1e172">C. V.</head>
+          <head xml:id="gd-p2c1q1-Hd1e175" type="question-title">Partem habebit cum Symone, qui
+            contra symoniacos uehementer non exarserit</head> . <p xml:id="gd-p2c1q1-d1e178"> Idem
+            in eodem *. </p>
+          <p xml:id="gd-p2c1q1-d1e181"> Quisquis per pecuniam ordinatur, ad hoc, ut fiat hereticus,
+            promouetur. Quisquis ergo contra symoniacam et neophitorum heresim pro offitii sui loco
+            uehementer nonarserit, cum eo se non dubitet habiturum portionem, qui prius commisit hoc
+            piaculare flagitium. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e185">
+          <head xml:id="gd-p2c1q1-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c1q1-Hd1e190" type="question-title"> Symonis dampnatio dantem pariter
+            et accipientem inuoluit.</head>
+          <p xml:id="gd-p2c1q1-d1e193"> Item Gelasius Papa [ad Episcopos per Lucaniam constitutos,
+            epist. I. cap. 26.] Quos constiterit indignos meritis, sacram mercatos esseprecio
+            dignitatem, conuictos oportet arceri, non sine periculo facinus tale patrantes, quia
+            dantem pariter et accipientem dampnatio Symonis, quam sacra lectio testatur, inuoluit.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e197">
+          <head xml:id="gd-p2c1q1-Hd1e199">C. VII.</head>
+          <head xml:id="gd-p2c1q1-Hd1e202" type="question-title">Anathematis sententia dampnatur qui
+            symoniace ordinatur.</head>
+
+          <p xml:id="gd-p2c1q1-d1e205"> Item Ambrosius* in libro pastorali . Reperiuntur
+            quamplurimi, negotiatione munerismercari uelle gratiam Spiritus sancti, dum illi precium
+            donant, ut pontificalis ordinis sublimitatem accipiant, obliti uerborum Petri, qui dixit
+            ad Symonem:„ Pecunia tua tecum sit in perdicione, quoniam existimastidonum Dei pecunia
+            possidere/* s Proinde quia etusitatum est tantum malum, et maiorum frequenter
+            extatmucrone succisum, nos quoque huic uulneri cancerosoignitum (quod superest adhuc)
+            inicimus ferrum, decernentes omnino, ut, quicumque deinceps pro accipiendadiuini doni
+            dignitate quodlibet premium detectus fueritobtulisse, ex eodem tempore se nouerit
+            anathematis obpro-brio condempnatum, atque a participatione corporis etsanguinis Christi
+            alienum, ex quo illum constat execrabileChristo perpetrasse flagitium. Quod si aliquis
+            eius accusator extiterit, ille, qui hunc ordinem munerum fueritdatione lucratus, et
+            suscepto honoris gradu priuetur, etin monasterio sub perenni penitentia trudatur. Illi
+            uero, qui hac causa munerum acceptores extiterint, si clericifuerint, honoris sui
+            amissione mulctentur, si uero laici, perpetuo anathemate condempnentur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e209">
+          <head xml:id="gd-p2c1q1-Hd1e211">C. VIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e214" type="question-title"> Dampnatur episcopus , qui per
+            pecuniam ordinationem facit. </head>
+          <p xml:id="gd-p2c1q1-d1e217"> Item ex Concilio Calcedonensi , [c. 2.]Si quis episcopus per
+            pecuniam ordinationem fecerit, </p>
+
+          <p xml:id="gd-p2c1q1-d1e220"> et sub precio redegerit spiritus sancti gratiam, que uendi
+            non potest, ordinaueritque per pecuniam presbiterumaut diaconum, uel quemlibet de his,
+            qui cognominanturin clero , promouerit etiam dispensatorem, aut defensorem s, uel
+            quemlibet, qui subiectus est regulae, pro sui turpissimi lucri commodo, is, cui hoc
+            attemptanti probatum fuerit, proprii gradus periculosubiacebit, et qui ordinatus est,
+            nichil ex hac ordinationeuel promotione, que est per negotiationem facta, proficiat, sed
+            sit alienus a dignitate uel sollicitudine, quampecuniis adquisiuit. Si quis uero
+            mediator tam turpibuset nefandis datis uel acceptis extiterit, siquidem clericus fuerit,
+            proprio gradu decidat, si uero laicus p anathematizetur . </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e225">
+          <head xml:id="gd-p2c1q1-Hd1e227">C. IX</head>
+          <head xml:id="gd-p2c1q1-Hd1e230" type="question-title"> A sacer datio sit alienus , qui
+            per pecunias ordinat uel ordinatur. </head>
+          <p xml:id="gd-p2c1q1-d1e233"> Item ex VIII * Sinodo . </p>
+          <p xml:id="gd-p2c1q1-d1e236"> Qui per pecunias quemquam consecrauerit, uel ab alio
+            consecratus est, alienus a sacerdotio sit. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e240">
+          <head xml:id="gd-p2c1q1-Hd1e242">C. X</head>
+          <head xml:id="gd-p2c1q1-Hd1e245" type="question-title"> Nec ordinari , nec promoueri in
+            ecclesia Dei per pecuniam aliquis ualet. </head>
+          <p xml:id="gd-p2c1q1-d1e248"> Item Calix tus Papa [II.] </p>
+          <p xml:id="gd-p2c1q1-d1e251"> Sanctorum Patrum exempla sequentes et offitii nostri debito
+            innouantes, ordinari quemquam per pecuniam inecclesia Dei uel promoueri, auctoritate
+            sedis apostolicaemodis omnibus prohibemus. Si quis uero in ecclesia ordinationem uel
+            promotionem taliter adquisierit, adquisitaprorsus dignitate careat. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e255">
+          <head xml:id="gd-p2c1q1-Hd1e257">C. XI</head>
+          <head xml:id="gd-p2c1q1-Hd1e260" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e263"> Item Gregorius Nazanzenus *. </p>
+          <p xml:id="gd-p2c1q1-d1e266"> Qui studet donum Dei precio mercari, in sacro ordine nulla
+            ratione de cetero permanere aut reuocari posse dubium non est. Talis a communione
+            omnibusmodis abscidatur. Nam Spiritus sancti donum precioconparari quid aliud est quam
+            capitale crimen et symoniacaheresis? quod quam detestabiliter in utroque testamento </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e269"> uindicatum sit, multorum exemplis facile apparet. Giezi
+            gratiam sanitatis Naaman Siro uendidit; eandem gratiam sanitatis Eliseo uindicante
+            leprosus factus amisit.ludas omnium redemptorem uendidit, mox laqueo suspensus eandem
+            redemptionis gratiam non obtinuit, et merito, quia nemo potest retinere quod uendidit.
+            Symon etiammagus cum eandem Spiritus sancti gratiam emere uellet, dampnationis suae
+            sententiam a Petro audiuit: „ Pecuniatua tecum sit in perdicione, quia donum Dei
+            existimasti pecunia possidere.“ Dominus etiam, utuendentes et ementes huius gratiae
+            expertes ostenderet, cunctos peccatores per gratiam in templo dimisit, singulariter
+            uendentes et ementes increpans et flagellans detemplo eiecit, in quo uenditores et
+            emptores suos gratiaSpiritus sancti constat destitutos esse et uacuos. Quos enimChristus
+            eiecit de templo numquid Spiritus Christi facietsibi templum? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e273">
+          <head xml:id="gd-p2c1q1-Hd1e275">C. XII</head>
+          <head xml:id="gd-p2c1q1-Hd1e278" type="question-title"> Symoniaci sacerdotes esse non
+            possunt Item Gregorius *. </head>
+          <p xml:id="gd-p2c1q1-d1e281"> Qui sacros ordines uendunt aut emunt, sacerdotes esse non
+            possunt. Unde scriptum est: , , Anathema dandi, anathema accipiendi, hoc est symoniaca
+            here-sis.“ Quomodo ergo, si anathema sunt et sancti nonsunt, sanctificare alios possunt?
+            Et cum in Christi corporenon sunt, quomodo Christi corpus tradere uel acciperepossunt?
+            Qui maledictus est quomodo benedicere potest? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e285">
+          <head xml:id="gd-p2c1q1-Hd1e287">[C. XIII.]</head>
+
+          <p xml:id="gd-p2c1q1-d1e290"> Idem [Gregorius Siagrio, et aliis Episcopis, lib. VII.
+            epist. no.] </p>
+          <p xml:id="gd-p2c1q1-d1e293"> Cum liqueat hanc heresim ante omnes* radice pestifera
+            subrepsisse, atque in ipsa sua origine apostolicaesse detestacione dampnatam, cur non
+            cauetur? cur nonperpenditur, quia benedictio illi in maledictionem con-uertitur, qui ad
+            hoc, ut fiat hereticus promouetur? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e297">
+          <head xml:id="gd-p2c1q1-Hd1e299">C. XIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e302" type="question-title"> Qui precio ordinat , lepram, non
+            offitium confert. Item Ambrosius de ministeriis, [seu de dignitate sacerdotali, cap. 5.] </head>
+          <p xml:id="gd-p2c1q1-d1e305"> Cum ordinaretur episcopus, quod dedit aurum fuit, quod
+            perdidit anima fuit; cum alium ordinaret, quodaccepit aurum fuit, quod dedit lepra fuit. </p>
+          <p xml:id="gd-p2c1q1-d1e308"> [C. XV.]Item [ibidem]. </p>
+          <p xml:id="gd-p2c1q1-d1e311"> Gratiam, cum ordinareris, non suscepisti, quia gratuito eam
+            non meruisti. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e316">
+          <head xml:id="gd-p2c1q1-Hd1e318"> [C. XVI.]</head>
+
+          <p xml:id="gd-p2c1q1-d1e321"> Item de Giezi™. </p>
+          <p xml:id="gd-p2c1q1-d1e324"> Cito turpem sequitur lepra mercedem, et pecunia male quesita
+            corpus animam que commaculat. §. i.Vides, quia facto auctoris successio dampnatur
+            heredis.Inexpiabilis est enim uenditi culpa ministerii, et uin-dicta gratiae celestis
+            transit in posteros. Denique Moabi-tae et ceteri non intrabunt in ecclesiam Dei s usque
+            interciam et quartam generationem, tamdiu uidelicet, (utsimplicius interpretemur), donec
+            culpam auctorum multiplicis successio generationis aboleret. Sed cum illi, qui inDeum
+            ydololatriae errore deliquerunt, in quartam* generationem uideantur esse mulctati,
+            profecto durior uideturesse sententia, qua Giezi semen usque in eternum dampnatur, pro
+            cupiditate habendi prophetica auctoritate presertim cum Dominus noster Iesus Christus
+            per lauacriregenerationem dederit omnibus remissionem peccatorum**.Cur ergo Giezi semen
+            in eternum dampnatur*, nisi utuitiorum magis quam generis semen intelligas? Sicut
+            enimqui filii promissionum sunt existimantur in semenbonum, ita etiam qui erroris sunt
+            existimantur insemen malum. Nam et Iudei ex patre diabolo sunt p, non utique carnis
+            successione, sed criminis. Ergo omnescupidi, omnes auari Giezi lepram cum diuitiis suis
+            possident, et male quesita mercede non tam patrimonii facultatem 3 , quam thesaurum
+            criminum congregarunt eterno supplicio etbreui fructu. </p>
+          <p xml:id="gd-p2c1q1-d1e327"> II. Pars. Gratian. Quia ergo auctoritate Leonis Papae
+            symoniaci non nisi spiritum mendacii accipiunt; secundum Grego - rium apud symoniacos
+            sacerdotium non subsistit ***, benedictioeorum in maledictionem conuertiiur , apud eos
+            manet anathemadandi et accipiendi ^, cum sancti non sint nec in Christi
+            corporeconstituti, cum sint maledicti, nec sanctificare alios possunt, necChristi corpus
+            tradere uel accipere, nec benedicere aliis ualent;secundum Ambrosium uero anathematis
+            obprobrio condempnentur , atque a participatione corporis et sanguinis Christi
+            alienantur , cum accipiatur aurum et lepra detur, cum inexpiabilis sit culpauenditi
+            ministerii ™; secundum Calcedonense concilium ex taliordinatione nichil proficere
+            iudicantur; secundum GelasiumSymonis dampnatione inuoluuntur; secundum Gregorium
+            Nazan-zenum in sacro ordine permanere aut renouari nulla rationepossunt, ab Eliseo lepra
+            perfunduntur, a Petro in per dicionem dampnantur, a Christo uero de templo eiciuntur:
+            quid aliudsymoniacus symoniaco in sua ordinatione potest conferre, nisi quodInnocentius
+            de ceteris hereticis testatur, dicens [epist XVIII.ad Alexandrum, cap. 3.] : </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e331">
+          <head xml:id="gd-p2c1q1-Hd1e333">C. XVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e336" type="question-title"> Qui perfectionem Spiritus™ non
+            habent, ipsam dare non possunt *. </head>
+          <p xml:id="gd-p2c1q1-d1e339"> Qui perfectionem Spiritus, quam acceperant, perdiderunt, non
+            dare eius plenitudinem possunt, que maxime operatur in ordinationibus, quam per suam
+            perfidiam perdiderunt. Et iterum : §. i. Qui honorem non habuit, honorem dare non
+            potuit, nec aliquid accepit ille, quianichil erat in dante, sed dampnationem, quam
+            habuit, perprauam manus inpositionem dedit, </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e343">
+          <head xml:id="gd-p2c1q1-Hd1e345">C. XVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e348" type="question-title"> Symoniacus per prauam manus
+            inpositionem non consecrationem , sed dampnationem prestat. </head>
+          <p xml:id="gd-p2c1q1-d1e351"> Idem [Rufo, et aliis Episcopis, epist. XXII. c. 3.] </p>
+          <p xml:id="gd-p2c1q1-d1e354"> Ventum est ad terciam questionem, que pro sui difficultate
+            longiorem exigit disputacionem. Cum nos dicimus ab hereticis ordinatos, uulneratum per
+            illam manus inpositionem habere caput, ubi uulnus infixum est, medicina est adhibenda,
+            qua possit recipere sanitatem. Quesanitas post uulnus secuta sine cicatrice esse non
+            poterit, atque ubi penitentiae remedium necessarium est, illic ordinationis honorem
+            locum habere non posse. Namsicut legitur, qui tetigerit inmundum inmunduserit, quomodo
+            ei tribuetur quod munditia et puritas*consueuit accipere? §. 1. Sed econtra^ asseritur,
+            eum, qui honorem amisit, honorem dare non posse, nec illum aliquid accepisse, quia
+            nichil in dante erat, quod ille possetaccipere. Acquiescimus, et uerum est certe, quia
+            quodnon habuit dare non potuit. Dampnationem utique, quamhabuit, per prauam manus
+            inpositionem dedit, et quiparticeps factus est dampnati, quomodo debeathonorem accipere
+            inuenire non possum. §. 2. Sed dicitur uera et iusta legitimi sacerdotis benedictio
+            auferreomne uitium, quod a uitioso fuerat iniectum. Ergo si itaest, applicentur ad
+            ordinationem sacrilegi*, atque omniumcriminum rei, quia benedictione ordinationis
+            crimina ueluitia putentur auferri; nullus sit penitentiae locus, quiaid potest prestare
+            ordinatio, quod longa satisfactio prestareconsueuit. Sed nostrae lex ecclesiae est,
+            uenientibus abhereticis, qui tamen illic baptizati sunt, per manus inpositionem laicam
+            tantum tribuere communionem, nec ex hisaliquem in clericatus uel exiguum subrogare
+            honorem. </p>
+
+          <p xml:id="gd-p2c1q1-d1e357"> III. Pars. Gratian. Sed obicitur: Alii heretici a fide
+            exorbitant , symoniaci autem , etsi gratiam Spiritus sancti uenalemputant , tamem a fide
+            non sunt alieni , atque ideo , quod ab Inno-centio de ceteris hereticis decernitur , non
+            ualet consequenter deillis intelligi. His ita respondetur: Symoniaci , etsi fidemtenere
+            uideantur , infidelitatis tamen perdicioni subiciantur . </p>
+          <p xml:id="gd-p2c1q1-d1e361"> Unde B. Ambrosius in I. lib. de penit. ad Nouatianum
+            scribens , dixit : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e365">
+          <head xml:id="gd-p2c1q1-Hd1e367">C. XIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e370" type="question-title"> Symoniaci fidei integritatem non
+            habent.</head>
+          <p xml:id="gd-p2c1q1-d1e373"> Petrus, cum Symon magicae artis consuetudine de-prauatus
+            putasset, quod gratiam Christi per inpositionem manus et^ infusionem Spiritus sancti
+            pecunia conpararet, ait: „Non est tibi sors neque pars, in hac fide*, quiacor tuum non
+            est rectum apud Deum.“ Vides, quodhunc magica uanitate condempnat apostolica auctoritate
+            blasphemantem in Spiritu sancto, et eo magis, quod&amp; puram conscientiam fidei non
+            habebat. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e377">
+          <head xml:id="gd-p2c1q1-Hd1e379">C. XX</head>
+          <head xml:id="gd-p2c1q1-Hd1e382" type="question-title"> Symoniacus infidelis esse
+            probatur.</head>
+          <p xml:id="gd-p2c1q1-d1e385"> Item Gregorius in Registro . </p>
+          <p xml:id="gd-p2c1q1-d1e388"> Cum omnis auaritia ydolorum sit seruitus, quisquis hanc et
+            maxime in dandis ecclesiasticis honoribus uigilanternon precauet, infidelitatis
+            perdicioni subicitur, etiamsitenere fidem, quam negligit*, uideatur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e392">
+          <head xml:id="gd-p2c1q1-Hd1e394">C. XXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e397" type="question-title"> Symoniacorum heresis ceteris
+            dampnabilior esse probatur.</head>
+          <p xml:id="gd-p2c1q1-d1e400"> Item ex epist. Th ara sii Constantinopolitani Episcopi ,
+            missa Papae Adriano *. </p>
+          <p xml:id="gd-p2c1q1-d1e403"> Eos, qui per pecunias manus inposuerunt uel in- </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e406"> ponunt, Petrus diuinus apostolus (cuius cathedram sortita
+            est sanctitas uestra) tamquam Symonem magum deponit. §. 1.234 aTollerabilior enim est
+            Macedonii et eorum, qui circa ipsumsunt, sancti Spiritus inpugnatorum inpia heresis.
+            Illi enimcreaturam et seruum Dei Patris et Filii 235 Spiritum sanctumdelirando fatentur,
+            isti 236 b suum eundem Spiritum sanctum 237 c efficiunt seruum. Omnis enim dominus quod
+            habet, si uult, uendit, siue seruum siue aliquid 238 aliud eorum, quepossidet. Similiter
+            et qui emit, dominus eius uolens essequod emerit, per precium pecuniae illud adquirit.
+            Ita etqui hanc iniquam actionem 233 operantur, detrahunt Spiritui 24=0 sancto, equaliter
+            peccantes his, qui blasphemauerunt, dicentes, Christum in Beelzebub eicere demonia,
+            atque, utuerius dicamus, Iudae conparantur proditori^ quiludeisDei occisoribus Christum
+            uendidit. Cum ergo Spiritussanctus consubstancialis sit Christo, eiusdem ipsi portionis
+            erunt. Et proculdubio in 6 eis non est gratia Spiritussancti, id est sacerdotii
+            sanctitas. Nam quod non acceperunt non habent 248 . Ait enim Petrus Symon: , , Non
+            estpars tibi neque sors in sermone isto, quia existimasti donumDei pecunia possidere. §.
+            2. Nam et uicesimusnonus canon sanctorum apostolorum, et Actus eorundem, et tercius et
+            quartus liber Regnorum, alienum omnino asacerdotio pronunciant eum, qui aliquando
+            dederit uel acceperit pecuniam in aliquo tempore, siue ante manus in-positionem^, siue
+            post inpositionetn. Accipere enimest quandocumque accipere. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e411">
+          <head xml:id="gd-p2c1q1-Hd1e413">C. XXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e416" type="question-title"> Et qui dat , et qui accipit , ut
+            ordines sacri pre-stentur , anathema sit. </head>
+          <p xml:id="gd-p2c1q1-d1e419"> Item ex Concilio Bracarensi II. [c. 3.] </p>
+          <p xml:id="gd-p2c1q1-d1e422"> Placuit, ut de ordinatione clericorum episcopi munera nulla
+            suscipiant 257 ad sicut scriptum est 58 qod gratisdonante Deo accipiunt gratis dent. Non
+            aliquo precio Dei 9 gratia et inpositio manuum uenundetur, quia antiqua diffinitio
+            Patrum ita de ecclesiasticis ordinationibus statuit, dicens: „Anathema sit danti et
+            accipienti. Propterea, quia aliquanti 264 multis sceleribus obruti, sancto
+            altarioindigne ministrantes, non hoc 265 testimonio bonorum operum 266bd profusione
+            munerum obtinent, oportet268non per gratiam munerum, sed per diligentem discussionem
+            prius, deinde per multorum testimonium clericosordinare. </p>
+          <p xml:id="gd-p2c1q1-d1e425"> Gratian. Ex hac$ auctoritate Ambrosii™ &amp; i Gregorii
+            patet , quod symoniaci {sicut et alii heretici) a fide exorbitant , et ideo consequenter
+            de illis intelligitur , quod de aliis decernitur. </p>
+          <p xml:id="gd-p2c1q1-d1e429"> IV. Pars. §. 1. Item opponitur , quod prophetia donum
+            Spiritus sancti est , hec autem in ueteri testamento a sanctisprophetis uendi
+            consueuerat. Unde Saul ad Samuelem prouaticinio expetendo non nisi cum munere ire
+            presumpsit. Uxor </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e432"> etiam Ieroboam ad hominem Dei non nisi cum munere accessit.
+            Item Christus a Iuda uenditus auriculam serui sanauit. Exemploitaque Saulis et uxoris
+            Ieroboam patet, quod donum Spiritussancti emere uel uendere non est peccatum. Exemplo
+            Christiliquet, quod Spiritus sanctus, etsi iniuste a symoniacis uenalisputetur, uirtutis
+            tamen suae non obliuiscitur, nec desinit effectumsuae gratiae etiam uenditus prestare .
+            Sed de prophetia B.Ieroni-mus in [c. 3.] Michea conpetenter soluit, malos
+            tantumaccepisse, non bonos denuncians : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e436">
+          <head xml:id="gd-p2c1q1-Hd1e438">C. XXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e441" type="question-title"> Mali prophetae, non boni
+            prophetiam uendebant *. </head>
+          <p xml:id="gd-p2c1q1-d1e444"> „ Duces, “ inquit, „eius in muneribus iudicabant, sacerdotes
+            eius in mercede respondebant, et prophetae eius in pecunia diuinabant, et super Dominum
+            requiescebant, dicentes; Nonne Dominus est in nobis? non uenient supernos mala. Idcirco
+            propter uos Sion quasi ager arabitur, et Ierusalem ut custodia pomerii erit.“ Nemo
+            ambigat, Ierusalem propter scelera, que in hoc capitulo leguntur^ fuisse subuersam. Et
+            paullo post °s: |. 1. PoteratPetrus Symoni mago uendere quod petebat; imo
+            poteratsimulare uendentem, (Spiritus enijji sanctus nec uendi, nec emi potest); sed
+            oblatam pecuniam cum offerentedampnauit. §. 2. Nec moueat quemquam illud, quodin primo
+            libro Regnorum legimus, Saulem uolentem iread Samuelem dixisse puero suo, ad eum se ire
+            non posse, „ quia precium, non est in manu mea, “ et adiecit: „ quartapars sicli in manu
+            mea est, hanc dabo uiro Dei, etadnunciabit uiam nostram. “ Non enim scriptum est, quod
+            Samuel acceperit, aut quod illi obtulerint, quin potiuspascuntur a propheta. Sed fac eum
+            accepisse: stipes magis estimandae sunt tabernaculi quam muneraprophetae p. Siclus enim
+            uiginti obolos habet. Quarta parsergo q sicli quinque sunt oboli. Nostri igitur
+            sacerdotes, si uolunt uendere prophetiam, et columbam incathedris suis proponere, quas
+            Dominus flagello subuertit, quinque tantum obolorum sint mercede contenti, qui** utinam
+            non precium uillarum, sed quinque obolosacciperent. §. 3. Hoc ipsum sonat in tercio
+            Regnorum libro, de uxore Ieroboam ad hominem Dei, pergente, que non nisi decem panes***
+            obtulit et crustulam et uas mellis. Hec magis + in sumptusprophetae reputanda sunt quam
+            muneray prophetiae, licet potuerint hi, qui ad ariolos ire consueuerantex3iiaa mala
+            eorum consuetudine id ipsum existimasse de prophetis, et uoluisse sanctis uiris offerre </p>
+
+          <p xml:id="gd-p2c1q1-d1e447"> quod diuinis offerre consueuerant. §. 4. Unde in quartoft
+            libro Regum legitur: „quod Eliseus uenitDamascum, et Benadad rex Siriae egrotabat,
+            nunciauerunt-que ei, dicentes: Venit uir Dei huc, ait rex adAzahel°gs: Tolle tecum
+            munera, et uade in occursum uiriDei, et consule Dominum per eum, dicens, si euadere
+            dehac infirmitate potero. luit ergo Azahel in occursum eius, habens secum munera, et
+            omnia bona Damasci, onera quadraginta camelorum. “Sed non sunt credendi ac </p>
+          <p xml:id="gd-p2c1q1-d1e450"> cepisse, sicut de eodem Eliseo legitur, quod Naaman mundatus
+            a lepra obtulit ei munera, dicens: „Obsecro, ut accipias benedictionem a seruo tuo. At
+            ille respondit:Viuit Dominus, ante quem sto, quia non accipiam. Cumqueuim faceret,
+            penitus non acquieuit.“ </p>
+          <p xml:id="gd-p2c1q1-d1e454"> [C. XXIV.] Idem in eodem * </p>
+          <p xml:id="gd-p2c1q1-d1e457"> Numquam diuinatio in bonam partem accipitur 326 d.
+            Videbantur sibi quidem esse prophetae, sed quia pecuniam accipiebant, prophetia eorum
+            facta estdiuinatio. </p>
+          <p xml:id="gd-p2c1q1-d1e460"> Gratian. Cum ergo secundum Ieronimum boni prophetae non
+            munera prophetiae accipiebant, sed stipes tabernaculi, mulis autem, qyi accipiebant,
+            prophetia, que donum Dei uidebatur , in diuinationem, que diabolica est, conuertebatur,
+            quid aliud colligitur, nisi quod symoniacis {quod superius dictum est) nulla spiritualis
+            gratia cooperatur ? Cum enim in sacramentis „ neque qui plantat^, neque qui rigat, ests
+            aliquid, sed quiincrementum dat, Deus, quis operatur in m, si Dominus''^, , qui
+            incrementum dat, in eis non lucet, sed est otiosus S®$ Item, quod dicitur de Christo,
+            quod sicut Christus uenditus restituitauriculam Maleo, et fecit miracula, sic et
+            Spiritus sanctus possituendi, et in ipsa uendicione gratiam suam operari, non ualethec
+            similitudo. Non enim hoc operatur Spiritus sanctus spiritualiter in perfidis mercimoniis
+            auaritiae, quod Christus gessit corporaliter certi misterii causa ad exemplum
+            patientiae. Si enimomnifaria est similitudo, cum credatur posse uendi, w£ Christus,
+            credatur etiam Spiritus sanctus posse crucifigi, quod inpos-sibile est. Potest etiam
+            intelligi {ut a similitudine non recedamus ), quod sicut Christus uenditus non uenditori
+            uel ementi, sed eis, quinescientes aderant, dona suae gratiae contulit, pro quibus
+            etiamin cruce supplicauit, sic et Spiritus sanctus non uendenti uelementi, sed his, qui
+            de manibus eorum ignorantia ducti sacramentadominica accipiunt, suae gratiae effectum
+            largiri probatur. §. 1. Item obicitur , quod etsi malum sit ecclesiastica emere, tamen </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e463"> sepe sinistra principia ad felices perueniunt exitus. Ut
+            Iacob per subplantacionem peruenit ad benedictionem, ut seges, que leprosamanu seritur,
+            munda tamen metitur, ut e# adulterino concubitu pulcra soboles nascitur : sic et
+            pecunia, que per symo-niam acquiritur, felicem habet exitum, cum pauperibus profature t
+            erogatur. Sed nichil horum symoniacis patrocinatur. </p>
+          <p xml:id="gd-p2c1q1-d1e466"> Ait enim Leo [Episcopus] ad Mauros Episcopos, [epist. LXXXV.
+            al. LXXXVII.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e470">
+          <head xml:id="gd-p2c1q1-Hd1e472">C. XXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e475" type="question-title"> Que malo inchoantur^ principio,
+            non bono peraguntur exitu.</head>
+          <p xml:id="gd-p2c1q1-d1e478"> Principatus, quem aut seditio extorsit, aut ambitus
+            occupauit, etiamsi moribus atque actibus non offendit, ipsius tamen uitii sui est
+            perniciosus exemplo. Etdifficile est, ut bono peragantur exitu, que malo sunt inchoata
+            principio. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e482">
+          <head xml:id="gd-p2c1q1-Hd1e484">C. XXVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e487" type="question-title"> Non super edificatur bonum opus,
+            ubi Christus fundamentum non est.</head>
+          <p xml:id="gd-p2c1q1-d1e490"> Item Gregorius [Anastasio], Aniioceno Episcopo, </p>
+          <p xml:id="gd-p2c1q1-d1e493"> [lib. VII. epist. 47. Indict. 2.]* </p>
+          <p xml:id="gd-p2c1q1-d1e496"> Cum Paulus dicat: „Fundamentum aliud nemo potest ponere,
+            preter id, quod positum est, quod est ChristusIesus, “ consequenter probatur, quia ubi
+            Christus non estfundamentum, nullum boni operis est superedificium; </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e500">
+          <head xml:id="gd-p2c1q1-Hd1e502">C. XXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e505" type="question-title"> Non potest fieri elemosina ex
+            pecunia symo-niace adquisita.</head>
+          <p xml:id="gd-p2c1q1-d1e508"> Idem Siagrio Episcopo, [lib. VII. epist. no.] </p>
+          <p xml:id="gd-p2c1q1-d1e511"> Non est putanda elemosina, si pauperibus dispensetur, quod
+            ex illicitis rebus adquiritur, quia qui hac intentione male accipit, ut bene dispenset,
+            grauaturpotius quam iuuetur*. §. i.369e Unde etiam certumest, quia etsi monasteria uel s
+            xenodochia, uel quidaliud ex pecunia, que pro sacris ordinibus datur, construantur, non
+            proficit mercedi. §. 2. Ne ergo subobtentu elemosinae cum peccato aliquid studeamus
+            accipere, prohibet scriptura, dicens: „Hostiae inpiorumabhominabiles sunt, que
+            offeruntur ex scelere.“ Quic-quid enim in Dei sacrificio ex scelere offertur,
+            omnipotentis Dei non placat iracundiam, sed irritat. Hincrursus scriptum est: „Honora
+            Dominum de tuis iustislaboribus. Qui ergo male tollit, ut quasi bene prebeat, constat
+            sine dubio, quia Dominum non honorat. Hinc quoque per Salomonem dicitur: „Qui offert
+            sacrificium desubstantia pauperis", ac si uictimet filium in conspectu patris.“ Quantus
+            autem dolor sit patris, perpendamus, si in eius Conspectu filius uictimetur, et
+            hincfacile cognosciturp, quantus ^ apud Deum dolor exasperatur, quando ei sacrificium ex
+            rapina tribuitur. Nimisergo declinandum est, sub obtentu elemosinae peccatasymoniacae
+            hereseos perpetrare. Nam aliud est propterpeccata elemosinas facere, aliud propter
+            elemosinas peccatacommittere** Et post pauca : §. 3. Quisquis igitursacerdotium non ad
+            elationis pompam, sed ad utilitatemadipisci desiderat, prius uires suas cum eo *, quod
+            estsubiturus, onere metiatur, ut si est inpar abstineat, etad id cum metu etiam, cui se
+            sufficere existimat, accedat. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e515">
+          <head xml:id="gd-p2c1q1-Hd1e517">C. XXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e520" type="question-title"> Pastor symoniacus nullam ouibus
+            prebet medelam . </head>
+          <p xml:id="gd-p2c1q1-d1e523"> Idem Theodorico et Theoberto Regibus Francorum, [libro VII.,
+            ep. 114.] </p>
+          <p xml:id="gd-p2c1q1-d1e526"> Fertur symoniaca heresis (que prima contra Dei ecclesiam
+            diabolica subplantatione subrepsit, et in ipsoortu suo zelo apostolicae ultionis
+            percussa atque dam-pnata est) in regni uestri finibus dominari, cum in sacerdotibus
+            fides sit eligenda cum uita. Si enim uita deest, fides meritum non habet, B. Iacobo
+            attestante, qui ait:, , Fides sine operibus mortua est.“ Que enim opera esseualeant
+            sacerdotis, qui honores tanti sacramenti con-uincitur obtinere per premium? Et post
+            pauca: §. 1. Hincigitur non solum in ordinatoris et ordinati anima letaleuulnus
+            infigitur, uerum etiam excellentiae uestrae regi-men episcoporum uestrorum^ culpa
+            (quorum magisintercessionibus iuuari debuerat) pregrauatur. Si enim isdignus sacerdotio
+            creditur, cui non actionis merita, sedpremiorum copia suffragatur, restat, ut nichil
+            sibi inecclesiasticis honoribus grauitas, nichil sibi defendatindustria, sed totum auri
+            profanus amor obtineat. Et, dumuitia honor remunerat, in locum ultdris is fortasse, qui
+            fuerat ulciscendus, adducitur, atque hinc sacerdotes non proficere, sed perire potius
+            iudicantur.Vulnerato namque pastore quis curandis ouibus adhi-betk medicinam? aut
+            quomodo populum orationisclipeo tueatur, qui iaculis hostium se feriendum exponit? aut
+            qualem fructum de se producturus est, cuius graui peste radix infecta est? Maior ergo
+            metuendaest locis illis calamitas", ubi tales intercessores ad locum </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e529"> regiminis adducuntur, qui Dei in se magis
+            iracundiamprouocent, quam per semetipsos placare debuerant. </p>
+          <p xml:id="gd-p2c1q1-d1e533"> Gratian. Cwm ergo secundum Leonem symonia non bono peragatur
+            exitu, secundum Gregorium nullum boni operis sequatur edificium , nec est^° putanda
+            elemosinas que exprecio symoniae erogatur pauperibus, uulnerato pastoremedicina non
+            adhibetur P curandis ouibus, de infecta radicefructus non producitur, maior etiam
+            calamitas in futurometuitiir q, do tam sinistro principio quis felix exitussperatur ? </p>
+          <p xml:id="gd-p2c1q1-d1e536"> Hinc Augustinus ait : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e541">
+          <head xml:id="gd-p2c1q1-Hd1e543">C. XXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e546" type="question-title"> Symoniacorum sacramenta effectu
+            gratiae carent.</head>
+          <p xml:id="gd-p2c1q1-d1e549"> Sicut eunuchus fuit, qui Ioseph conparauit, ita qui gratiam
+            mercatur, uiuum semen non habet siccis genitalibus.Sic quoque ignis sacrificii, qui per
+            septuaginta annosBabilonicae captiuitatis sub aqua uixerat, extinctus est, Antiocho
+            Iasoni uendente sacerdotium, quod significauitignem Spiritus sancti non lucere in
+            symoniacis sacramentis. </p>
+          <p xml:id="gd-p2c1q1-d1e552"> Gratian. Quid in his similitudinibus B. Augustinus notare
+            uoluit, nisi quia sacramenta symoniacorum (sicut et ceterorum hereticorum) licet sint
+            uera quantum ad formam, inania tamen etfalsa sunt quantum ad effectum , cum non possint
+            in cordibus hominum gignere uel accendere celestem gratiam ? </p>
+          <p xml:id="gd-p2c1q1-d1e555"> V. Pars. §. i. Sed obicitur illud Augustini contra hereticos
+            [tractatu V. super euangelium Iohannis] : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e559">
+          <head xml:id="gd-p2c1q1-Hd1e561">C. XXX</head>
+          <head xml:id="gd-p2c1q1-Hd1e564" type="question-title"> Siue bonus, siue malus sit
+            minister, per utrumque Deus effectum gratiae confert *. </head>
+          <p xml:id="gd-p2c1q1-d1e567"> Si fuerit iustus minister, conputo eum cum Paulo, qui
+            gloriam suam non querit, dicens: „Ego plantaui, Apollo rigauit, Deus autem incrementum
+            dedit.“ Quiuero superbus fuerit minister, cum zabulo conputatur;sed non contaminatur
+            donum Christi, quia per illum**purus fluuius transit, et uenit ad fertilem terram. Scio,
+            quia lapis ex aqua fructum ferre non potest, et perlapideos canales transit aqua ad
+            areolas, in canali lapideonichil generat; sed ortus plurimum fructum affert. Spiritualis
+            enim uirtus sacramenti ut lux puraab illuminandis excipitur; sed per inmundos
+            transiensnon coinquinatur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e571">
+          <head xml:id="gd-p2c1q1-Hd1e573">C. XXXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e576" type="question-title"> De eodem</head>
+          <p xml:id="gd-p2c1q1-d1e579"> Item ad Vincentium Donatistam , [ep. XLVIII.] </p>
+
+          <p xml:id="gd-p2c1q1-d1e582"> Ex catholica ecclesia sunt omnia sacramenta dominica, que
+            sic habetis et datis, sicut habebantur et dabanturprius, quam inde exiretis. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e586">
+          <head xml:id="gd-p2c1q1-Hd1e588">C. XXXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e591" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e594"> Item ad Donatistas, [lib. V. c. 19.]Sic autem Deus adest
+            sacramentis et uerbis suis, per quoslibet administrentur, quorum sacramenta etuerba
+            recta sunt, sicut mali homines, quibtis nichilprosunt, ubique peruersi sunt id est intus
+            et foris. </p>
+          <p xml:id="gd-p2c1q1-d1e597"> [C. XXXIII .] </p>
+          <p xml:id="gd-p2c1q1-d1e600"> Item [lib IV. de bapt. contr. Donatistas, c. i2.]Nec foris
+            ergo, nec intus quisquam, qui ex partediaboli est, potest in se, uel in quoquam
+            macularesacramentum, quod Christi est. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e604">
+          <head xml:id="gd-p2c1q1-Hd1e606">C. XXXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e609" type="question-title"> Sacramenta , que non mutantur ,
+            catholicis et hereticis communia probantur. </head>
+          <p xml:id="gd-p2c1q1-d1e612"> Idem [Augustinus] ad Emeritum , [epist. CLXIV .]Sacramenta,
+            que non mutastis, sicut habetis approbantur a nobis, ne forte, cum uestram prauitatem
+            corrigereuolumus, illis ministeriis, que° in uestra prauitatedeprauata non sunt,
+            sacrilegam faciamus iniuriam. NequeSaul deprauauerat unctionem, quam acceperat, cui
+            unctioni Dauid, pius, exhibuit sepius tantum honorem. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e616">
+          <head xml:id="gd-p2c1q1-Hd1e618">C. XXXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e621" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e624"> Idem ad Donatistas ^*. </p>
+          <p xml:id="gd-p2c1q1-d1e627"> Sicut ficti ueraciter non ficte recipiunt, nec eorum
+            baptisma reprobatur, sic et illa, que scismatici etheretici, non aliter habent, nec
+            aliter agunt quam ueraecclesia, dum ad nos ueniunt, non emendamus, sed potius
+            approbamus. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e632">
+          <head xml:id="gd-p2c1q1-Hd1e634">C. XXXVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e637" type="question-title"> Non fugiantur ^ sacramenta ^, a
+            quocumque ministrentur. </head>
+          <p xml:id="gd-p2c1q1-d1e640"> Idem contra Petilianum, [lib. III. c. 9.]* </p>
+          <p xml:id="gd-p2c1q1-d1e643"> Neque in homine bono aliquis Dei sacramenta fugiat, neque in
+            homine malo. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e647">
+          <head xml:id="gd-p2c1q1-Hd1e649">C. XXXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e652" type="question-title"> Hominum malitia sacramenta non
+            profanat.</head>
+          <p xml:id="gd-p2c1q1-d1e655"> Idem in libro de baptismo [contra Donatistas, </p>
+          <p xml:id="gd-p2c1q1-d1e658"> 1 . VI. c. 44.J </p>
+          <p xml:id="gd-p2c1q1-d1e661"> Nonne Sodomitae ethnici erant, id est gentiles? Peiores </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e665"> ergo Iudei, quibus Dominus dicit: „Tollerabilius erit
+            Sodomis in die iudicii quam uobis, “ et quibus Prophetadixit: , , Iustificastis Sodomam,
+            “ id est, conparationeuestra iusta facta est. Numquid tamen ideo sacramenta diuina, que
+            apud Iudeos talia erant, quales etsipsi erant? que Dominus quoque ipse suscepit*, et ad
+            eacelebranda leprosos, quos mundauerat, misit, et eaZachariae ministranti angelus
+            astitit, eumque in templosacrificantem exauditum esse nuntiauit. Hec eadem sacramenta et
+            in bonis hominibus illius temporis erant, et in malispeioribus quam sint ethnici,
+            quandoquidem in malicia Sodomitis prelati sunt, et tamen illa sacramenta in utrisque
+            erantintegra et diuina. Nam et ipsi gentiles, si quid diuinumet rectum in doctrinis
+            silis habere potuerunt, non in-probauerunt sancti nostri, quamuis illi per suas
+            super-sticiones, et ydololatriam, et superbiam, ceterosque perditos mores detestandi
+            essent, et, nisi corrigerentur, diuinoiudicio puniendi. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e669">
+          <head xml:id="gd-p2c1q1-Hd1e671">C. XXXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e674" type="question-title"> Sacramenta mali habere possunt,
+            licet uir-tutem Spiritus sancti habere non possint^. </head>
+          <p xml:id="gd-p2c1q1-d1e677"> Idem [lib. III. cap. i6.] </p>
+          <p xml:id="gd-p2c1q1-d1e680"> Multae autem operationes sunt Spiritus sancti, quas idem
+            Apostolus cum quodam loco commemo-rasset, ita conclusit: „Omnia autem hec operatur
+            unusatque idem Spiritus, diuidens propria unicuique proutuult.“ Cum ergo aliud sit
+            sacramentum, quod habere etiamSymon magus potuit, aliud prophetia' que in malis
+            etiamhominibus fieri solet, ut in Saul, aliud operatio eiusdemSpiritus, quam nisi boni
+            habere non possunt, id estkaritas; quodlibet heretici et scismatici accipiant,
+            jjkaritas, que operit s multitudinem peccatorum, “ proprium donum est catholicae
+            unitatis et pacis, nec eiusdonum in omnibus, quia nec omnes sunt eius. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e684">
+          <head xml:id="gd-p2c1q1-Hd1e686">C. XXXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e689" type="question-title"> Licet sacramenta mali ministrent,
+            remissionem peccatorum non prestant.</head>
+          <p xml:id="gd-p2c1q1-d1e692"> Idem [eodem libro, c. i8.]Remissionem peccatorum auari non
+            dant, queper orationem, id est per columbae gemitum, datur, quicumque baptizet, si ad
+            eius pacem illi pertinent, quibus datur. Non enim raptoribus et feneratoribus dicit
+            Dominus: „Si cui dimiseritis peccata, dimittun-tur 563 f ilii- i i tenueritis,
+            tenebuntur. Foris quidem necligari aliquis&amp; potest, nec solui, ubi non sit qui
+            aliumligare possit, aut soluere, sed soluitur qui cum columbafecerit pacem, et ligatur
+            qui cum columba non habet pacem, siue aperte foris sit, siue intus esse uideatur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e695"> Gratian. Si ergo sacramenta in modum lucis ab inmundis
+            coinquinari non possunt, si in morem ^ puri fluuiiper lapideoscanales ad fertiles
+            areolas perueniunt, patet quod symoniaci sacramentum unctionis Sibi quidem inutiliter et
+            perniciose habent, aliisautem utiliter et salubriter eandem unctioriem administrant.
+            Sicutergo sunt uera sacramenta hereticorum quantum ad formam, itasunt uera et non inania
+            quantum ad effectum. </p>
+          <p xml:id="gd-p2c1q1-d1e698"> VI. Pars. Sed notandum est, quod sacramentorum alia sunt
+            dignitatis, alia necessitatis. Quia enim necessitasnon habet legem, sed ipsa sibi facit
+            legem, illa sacramenta, quesaluti sunt necessaria, quia iterari non possunt, cum sint
+            uera, auferri uel amitti non debent, sed cum penitentia rata esse permittuntur. Illa
+            uero sacramenta, que sunt dignitatis, nisi dignefuerint administrata, ita ut digni digne
+            a dignis prouehantur , dignitates esse desinunt™, non ut minuatur ueritas sacramenti,
+            sed ut cesset offitium administrandi, uel loco, uel tempore, uelpromotione. </p>
+          <p xml:id="gd-p2c1q1-d1e702"> Loco, ut ait Leo [ad Rusticum Narbonensem Episcopum,
+            epistola XC. al XCII. cap. I.]*: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e706">
+          <head xml:id="gd-p2c1q1-Hd1e708">C. XL</head>
+          <head xml:id="gd-p2c1q1-Hd1e711" type="question-title"> De his qui a pseudoepiscopis
+            ordinantur.</head>
+          <p xml:id="gd-p2c1q1-d1e714"> Si qui a pseudoepiscopis ordinati fuerint, potest rata
+            haberi talis ordinatio, ita ut in ipsis ecclesiis perseuerent. Aliter^ uana habenda
+            estordinatio talis . </p>
+          <p xml:id="gd-p2c1q1-d1e717"> Gratian. Ecce aliquis a pseudo episcopis^ ordinatus, si
+            locum, suae ordinationis mutauerit, uana est et sine ammini-stratione erit talis
+            ordinatio. </p>
+          <p xml:id="gd-p2c1q1-d1e720"> Tempore ut ait Innocentius [epist. XXII. c. 5.] de ordinatis
+            a Bonoso : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e724">
+          <head xml:id="gd-p2c1q1-Hd1e726">C. XLI</head>
+          <head xml:id="gd-p2c1q1-Hd1e729" type="question-title"> Que pro necessitate conceduntur,
+            eadem cessante cessabunt.</head>
+          <p xml:id="gd-p2c1q1-d1e732"> Quod pro necessitate temporis statutum est, cessante
+            necessitate debet cessare pariter quod urgebat, quia alius est ordo legitimus, alia
+            usurpatio**. </p>
+          <p xml:id="gd-p2c1q1-d1e735"> Gratian. Ergo aliquis alio tempore ab eo, qui Bonoso sit
+            similis, ordinatus, cessabit ob amministratione, que pro necessitate illius temporis
+            fuit permissa^. </p>
+          <p xml:id="gd-p2c1q1-d1e738"> Item promotione, ut ait Leo [epistola III. ad Iulianum
+            Aquilegiensem] : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e743">
+          <head xml:id="gd-p2c1q1-Hd1e745">C. XLII</head>
+          <head xml:id="gd-p2c1q1-Hd1e748" type="question-title"> Qui ab hereticos redeunt , sine
+            spe promotionis in suis ordinibus recipi possunt. </head>
+          <p xml:id="gd-p2c1q1-d1e751"> Si quis hereticae communionis contagione se macula- </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e754"> rit*, hoc in magno beneficio habet, si adempta omni spe
+            promotionis in quo inuenitur ordine permaneat. </p>
+          <p xml:id="gd-p2c1q1-d1e757"> Gratian. Ecce si clericus uel ordinatione, uel quolibet
+            sacramento hereticis communicat, cessans a promotione uixin suo ordine perseuerat ° 3 .
+            Non est enim de hoc sacramento utde ceteris; cetera enim uel ad culpas abluendas dantur,
+            ut baptismus et penitentia, uel pro culpis non in eternum, sed ad horamnegantur, ut
+            eucharistia, que in articulo mortis penitenti etiamde nefariis peccatis conceditur: hoc
+            solum non solum pro culpa, sed etiam pro infamia interdicitur , etiam pro inminuta
+            mundiciae suae, uel extrinsecae, uel intrinsecae perfectionis prerogatiua, ut bigamis ,
+            uel uiduae maritis, uel illiteratis, uelcorporis qualibet parte uitiatis denegatur,
+            quibus tamen baptismusuel eucharistia non negatur °. Potest etiam talis cuncta
+            sacramenta administrare, qui istud solum non ualet conferre. </p>
+          <p xml:id="gd-p2c1q1-d1e761"> Unde Leo ait [ad Episcopos Africae, epist. LXXXV. al. </p>
+          <p xml:id="gd-p2c1q1-d1e764"> LXXXVII. cap. 2.] 6 i 3 </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e768">
+          <head xml:id="gd-p2c1q1-Hd1e770">C. XLIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e773" type="question-title"> De episcopis, qui consecrant*,
+            qualem consecrare non licet.</head>
+          <p xml:id="gd-p2c1q1-d1e776"> Si qui episcopi talem consecrauerinti 5 sacerdotem, qualem
+            esse non liceat, etiamsi aliquo modo dampnumproprii honoris euaserint, ordinationis
+            tamen ius ulteriusnon habebunt, nec illi umquam sacramento intererunt, quod inmerito 6 i
+            9 c prestiterunt. </p>
+          <p xml:id="gd-p2c1q1-d1e779"> Gratian. Ecce ' cum honoris periculum euadant, ut cetera
+            sacramenta sacerdotaliter administrare permittantur, ab hoc solonon modo pro heresi uel
+            qualibet maiori culpa, sed etiam pronegligentia remouentur. In quibus omnibus sollicite
+            notandumest, quod sacramentum sacerdotalis promotionis pre ceteris omnibus magis
+            accurate et digne dandum uel accipiendum est, quianisi ita collatum fuerit, eo desinet
+            esse ratum, quo nonfuerit rite perfectum . Cetera enim sacramenta unicuique </p>
+          <p xml:id="gd-p2c1q1-d1e782"> propter se dantur, et unicuique talia fiunt quali corde uel
+            conscientia accipiuntur. Istud solum non propter se solum, sed propter alios datur, et
+            ideo necesse est, ut uero corde mundaqueconscientia, quantum ad se, sumatur , quantum ad
+            alios ueronon solum sine omni 630 culpa, sed etiam sine omni infamia, propter fratrum
+            scandalum, ad quorum utilitatem, non solum utpresint, sed etiam ut prosint, sacerdotium
+            datur. </p>
+          <p xml:id="gd-p2c1q1-d1e786"> Unde Ieronimus in Michea . </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e790">
+          <head xml:id="gd-p2c1q1-Hd1e792">C. XLIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e795" type="question-title"> Symoniaci rei sunt infidelitatis
+            eorum, qui scandalizantur 635 b. </head>
+
+          <p xml:id="gd-p2c1q1-d1e798"> Hii, quoscumque de asseclis 636 suis ordinantes, et 638 d
+            uitam eorum in scandalum populi 639 e exponentes, reisunt infidelitatis eorum, qui
+            scandalizantur. </p>
+          <p xml:id="gd-p2c1q1-d1e801"> Gratian. Reuera enim, qui ad hoc eliguntur, ut ceteris
+            presint, sicut preordinantur dignitate, sic preminere debentsanctitate. Alioquin cur
+            ceteris preferuntur, qui nulla meritorumgratia a ceteris assumuntur? Unde Sim acus 644
+            Laurentio Mediolanensi Episcopo : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e805">
+          <head xml:id="gd-p2c1q1-Hd1e807">C. XLV</head>
+          <head xml:id="gd-p2c1q1-Hd1e810" type="question-title"> Sicut honore, ita et scientia
+            quisque precellere debet 646 . </head>
+          <p xml:id="gd-p2c1q1-d1e813"> Vilissimus conputandus* est, nisi precedat scientia et
+            sanctitate 618 , qui est honore prestancior. </p>
+          <p xml:id="gd-p2c1q1-d1e816"> VII. Pars. Gratian. Patet ergo illud Augustini (sacramenta
+            uidelicet Christi per hereticos ministrata suo non carereeffectu) non de omnibus
+            intelligi generaliter, sed de sacramentobaptismatis . </p>
+          <p xml:id="gd-p2c1q1-d1e819"> Unde idem Augustinus ait [tract. V. in Iohannem]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e823">
+          <head xml:id="gd-p2c1q1-Hd1e825">C. XLVT</head>
+          <head xml:id="gd-p2c1q1-Hd1e828" type="question-title"> Baptismus siue per bonum, siue per
+            malum ministretur, reiterari non debet.</head>
+          <p xml:id="gd-p2c1q1-d1e831"> Dedit baptismum ludas, et non est baptizatum post ludam,
+            dedit Iohannes, et baptizatum est post Iohannem, quia qui datus est a Iuda’, baptismus
+            Christi est5 ia qui a 52 bIohanne, Iohannis 653 c t. Non ludam Iohanni, sed baptisma
+            Christi, etiam per Iudae manus 654 datum, Iohannisbaptismo 655 rected preponimus. Item:
+            §. i. Quos 658 ludas 659 f baptizauito t6ig Christus 662 hj ergo qs </p>
+          <p xml:id="gd-p2c1q1-d1e834"> baptizat 663 i ebrius 664 homicida 665 k adulter 666F Chri </p>
+          <p xml:id="gd-p2c1q1-d1e837"> stus 667 m baptizat 668 n. item 669 o §. 2. Sacramentum 670
+            p ecclesiae 671 q tam magnum 672 r est, ut nec homicida 673 ministrante 674 polluatur.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e841">
+          <head xml:id="gd-p2c1q1-Hd1e843">C. XLVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e846" type="question-title"> De eodem 675 . </head>
+          <p xml:id="gd-p2c1q1-d1e849"> Item contra Donatistas, [lib. IV. c. 4.] 676 a </p>
+          <p xml:id="gd-p2c1q1-d1e852"> Sicut urgeri uideor, cum mihi dicitur: ergo hereticus
+            dimittit peccatum8b? jt go urgeo, cum dico: ergocum iuste baptizat c auarus 80 d
+            religionis simulator 681 edimittit682f peccata? Si 683 per uim sacramenti 684 g
+            sicutille 685 et 686 i ille; i p meritum suum, nec ille, nec ille.Illud enim 687
+            sacramentum et 688 i 689 malis hominibus 690 Christi esse cognoscitur 69 i in corpore
+            autem unicae columbae, inmaculatae nec ille, nec ille inuenitur 694 . </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e855"> Ut* si cuius manus esset arida, uerum quidem esset membrum,
+            qamuis sine sanguine inefficax esset, etmortuum, sic et fides, cum sit uera, tamen sine
+            operibusmortua est. item : §. i. Sic in heresi baptizatusin nomine sanctae Trinitatis
+            non fit tamen templum Dei, siab heresi non recesserit, quomodo neque in auaritia ineodem
+            nomine baptizatus fit templum Dei, si ab auaritia nonrecedat, que est ydolorum seruitus, </p>
+          <p xml:id="gd-p2c1q1-d1e859"> VIII. Pars. Gratian. Ex his itaque uerbis apparet, baptisma,
+            quod ab hereticis tribuitur, uirtute sua remissionem conferre peccatorum. </p>
+          <p xml:id="gd-p2c1q1-d1e862"> Sed idem Augustinus econtra testatur in libro [VI.] de
+            baptismo [contra Donatistas, c. i.] dicens : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e867">
+          <head xml:id="gd-p2c1q1-Hd1e869">C. XLVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e872" type="question-title"> Baptisma Christi, etsi nulla
+            peruersitate uioletur, apud hereticos tamen caret effectu. </head>
+          <p xml:id="gd-p2c1q1-d1e875"> Etiam corde tardiores intelligunt, baptismum Christi nulla
+            peruersitate dantis uel accipientis posse uiolari.Sed quia aliud* est sacramentum ab
+            effectu sacramenti, cumeos, qui in ipsa unitate ecclesiae perdite uiuunt, constet
+            remissionem peccatorum nec dare, nec habere posse, quia nonmalignis, sed bonis filiis
+            dictum est: , , Si cui dimiseritispeccata, dimittentur, cui tenueritis, tenebuntur,
+            '“patet ergo hereticos dare tantum uel accipere sacramentum baptismi s. </p>
+          <p xml:id="gd-p2c1q1-d1e878"> [C. XLIX.] </p>
+          <p xml:id="gd-p2c1q1-d1e881"> Item in uerbis Domini, de blasphemia Spiritus^*, </p>
+          <p xml:id="gd-p2c1q1-d1e885"> Corporalia sacramenta, que portant et celebrant
+            etiamsegregati ab unitate corporis Christi, formam haberepietatis possunt. Virtus uero
+            inuisibilis et spiritualis itain eis esse non potest, quemadmodum sensus non
+            sequiturmembrum, quando amputatur a corpore. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e889">
+          <head xml:id="gd-p2c1q1-Hd1e891">C. L</head>
+          <head xml:id="gd-p2c1q1-Hd1e894" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e897"> Item Ambrosius in libro de initiandis rudibus . </p>
+          <p xml:id="gd-p2c1q1-d1e900"> Non sanat baptismus perfidorum, non mundat, sed polluit*,
+            quia in diluuio aquarum ad Deum non approximabunt», quia, ut per Apostolum dicitur,
+            „quic-quid ex fide non est, peccatum est, “ et ipsis, qui faciunt, et quibus faciunt non
+            solum non prodest, sed ad iudicium est. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e904">
+          <head xml:id="gd-p2c1q1-Hd1e906">C. LI</head>
+          <head xml:id="gd-p2c1q1-Hd1e909" type="question-title"> Per manus inpositionem
+            confirmantur qui ab hereticis baptisma accipiunt. </head>
+          <p xml:id="gd-p2c1q1-d1e912"> Item Leo Papa ad N icet em Episcopum, [epist. LXXVII. al.
+            LXXIX. c. 7.] </p>
+          <p xml:id="gd-p2c1q1-d1e915"> Hi, qui baptismum ab hereticis acceperuut, cum antea
+            baptizati non fuissent, sola Spiritus sancti inuocatione perinpositionem manus
+            confirmandi sunt, quia formamtantum baptismi sine sanctificationis uirtute sumpserunt.Et
+            hanc regulam, ut scitis, seruandam in omnibusecclesiis predicamus, ut lauacrum semel
+            initum nulla itera-cione uioletur, dicente Apostolo: „Unus Deus, unafides, unum
+            baptisma, “ cuius ablutio nulla iteracionetemeranda est, sed, ut diximus, sola
+            sanctificatio sanctiSpiritus inuocanda, ut quod ab hereticis nemo accipita catholicis
+            sacerdotibus consequatur. </p>
+          <p xml:id="gd-p2c1q1-d1e918"> IX. Pars. Gratian. Sed notandum est, quod heretici,
+            utArriani et Sabelliani, quorum alii inequalitatem, alii indiscretionempersonarum
+            confitebantur, baptisma non in forma ecclesiae, sedsuae peruersitatis ministrabant. §.
+            1. De his specialiter Ambrosius locutus est, dicens: „Non sanat baptismus perfidorum,
+            etc. ut etiam^s rebaptizentur et reordinentur , im 7 e inNi ceno Concilio [c. 19.]
+            statutum est: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e922">
+          <head xml:id="gd-p2c1q1-Hd1e924">C. LII</head>
+          <head xml:id="gd-p2c1q1-Hd1e927" type="question-title"> Rebaptizentur et ordinentur qui de
+            Paulianistis et Cathafrigis ad ecclesiam redeunt. </head>
+          <p xml:id="gd-p2c1q1-d1e930"> Si quis confugerit ad ecclesiam catholicam de Paulianistis
+            et Cathafrigis*, statutum sit, rebaptizari eos omnino debere. Si qui uero clerici erant
+            apud eos, siquidem inculpati fuerint et irreprehensibiles, rebaptizandisunt, rursus
+            etiam ordinentur ab episcopo ecclesiaecatholicae. Si uero examinati minus apti fuerint
+            deprehensi, deponi eos oportet. Similiter autem et circa diacones**, et de omnibus, qui
+            in eodem clero inueniuntur, eadem forma seruabitur. </p>
+          <p xml:id="gd-p2c1q1-d1e933"> [C. LIII.] </p>
+          <p xml:id="gd-p2c1q1-d1e936"> Item Innocentius [ad Episcopos Macedoniae, epist. XXII. c.
+            5.] </p>
+          <p xml:id="gd-p2c1q1-d1e940"> Paulianistae in nomine Patris, et Filii, et Spiritus sancti
+            minime baptizant, et Nouatiani iisdem nominibustremendis baptizant, nec apud istos de
+            unitate potestatis diuinae, hoc est Patris, Filii ei Spiritus sancti, questioaliquando
+            commota est etc. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e943"> Gratian. Alii ™ formam ecclesiae in baptizando seruant. Sed
+            dum ab eis baptizantur, qui in heresi uel scismate eis communicant, sacramentum quidem
+            baptismi ab eis accipiunt, uirtutem uero non consecuntur, quam sine fide nullus
+            consequipotest. Unde de Domino dicitur, quod in patria sua non poteratfacere signum
+            propter incredulitatem eorum. </p>
+          <p xml:id="gd-p2c1q1-d1e946"> Item Augustinus in omelia LXXX ^C. LIV. Dum uerbum accedit
+            ad elementum, fit sacramentum. </p>
+          <p xml:id="gd-p2c1q1-d1e949"> Detrahe uerbum, quid est aqua nisi aqua? accedit uerbum ad
+            elementum, et fit sacramentum. §. i.Unde ista tanta uirtus aquae, ut corpus tangat et
+            cor abluat, nisi faciente uerbo? non quia dicitur, sed quia creditur.Nam et in ipso
+            uerbo aliud est sonus transiens, aliud uirtus manens. </p>
+          <p xml:id="gd-p2c1q1-d1e952"> Gratian. De his etiam, qui in heresi uel scismate
+            baptizantur, scribit Augustinus , ad Petrum Diaconum, [c. 36.] dicens: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e956">
+          <head xml:id="gd-p2c1q1-Hd1e958">C. LV</head>
+          <head xml:id="gd-p2c1q1-Hd1e961" type="question-title"> Extra ecclesiam baptizati si ad
+            ecclesiam non redierint perniciem sibi accumulant . </head>
+          <p xml:id="gd-p2c1q1-d1e964"> Firmissime tene et nullatenus dubites, extra ecclesiam
+            baptizatis, si ad ecclesiam non redierint, baptismo cumulari perniciem. Tantum enim
+            ualet ecclesiasticae societatiscommunio ad salutem, ut baptismo non saluetur cui ibinon
+            datur, ubi oportet ut detur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e968">
+          <head xml:id="gd-p2c1q1-Hd1e970">C. LVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e973" type="question-title"> Inutilia . sunt dona, que preter
+            ecclesiae unitatem habentur. </head>
+          <p xml:id="gd-p2c1q1-d1e976"> Idem [tractatu XIII. ad c. 3. Iohannis]. </p>
+          <p xml:id="gd-p2c1q1-d1e979"> Teneamus, unitatem fratres mei. Preter unitatem et qui facit
+            miraculum nichil est; in unitate erat populus Israel, et non faciebat miracula; preter
+            unitatem erantmagi Pharaonis, et faciebant similia Moysi. PopulusIsrael, ut dixi, non
+            faciebat miracula. Qui erant sal-uandi apud Deum, qui faciebant miracula, an quinon
+            faciebant? Petrus apostolus resuscitauit mortuum.Symon magus fecit multa. Erant quidam s
+            Christiani, qui non poterant facere quod faciebat Petrus, nec quodfaciebat Symon. Sed
+            inde gaudebant? quia nominaeorum scripta erant in celo. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e984">
+          <head xml:id="gd-p2c1q1-Hd1e986">C. LVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e989" type="question-title"> Baptisma semel traditum non est
+            reiterandum:.</head>
+          <p xml:id="gd-p2c1q1-d1e992"> Item Leo ad N icet em Episcopum , [epist. LXXVII. al. LXXIX.
+            c. 7.] a </p>
+          <p xml:id="gd-p2c1q1-d1e995"> Hanc regulam seruandam in omnibus ecclesiis predicamus, ut
+            lauacrum semel initum nulla iteracione uioletur, dicente Apostolo: „Unus Deus, una
+            fides, unum baptismacuius ablutio nulla reiteracione uio-landa est, sed, sola s
+            sanctificatio Spiritus in-uocanda, ut quod ab hereticis nemo accipit a
+            catholicissacerdotibus consequatur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e998"> X. Pars. Gratian. Nemo in heresi uel*® scismate constitutus
+            intelligendus est. Ceterum, si cum fidei integritate etanimi puritate de manu
+            hereticorum aliquis in forma ecclesiaebaptisma acceperit, tunc inpletur illud Augustini
+            : „Perlapideum canalem aqua transit ad areolas .“ Et iterum: </p>
+          <p xml:id="gd-p2c1q1-d1e1002"> , -, Spiritualis uirtus sacramenti, etc. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1006">
+          <head xml:id="gd-p2c1q1-Hd1e1008">C. LVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1011" type="question-title"> Etiam per malos boni
+            colliguntur.</head>
+          <p xml:id="gd-p2c1q1-d1e1014"> Item [Augustinus], de blasphemia Spiritus sancte’. </p>
+          <p xml:id="gd-p2c1q1-d1e1017"> Spiritus sanctus in sancta ecclesia etiam isto tempore, quo
+            uelud granum attrituratur cum palea, , sic operatur, ut nullius ueram confessionem
+            aspernetur, nullius simulatione fallatur, atque ita reprobos fugiat, ut etiamper illorum
+            ministerium probos colligat. </p>
+          <p xml:id="gd-p2c1q1-d1e1020"> Gratian. Ecce quando ab hereticis baptisma cum sua uirtute
+            accipitur, cuius tam necessaria amministracio est, ut nec etiam a paganis datum possit
+            reiterari. Unde in ecclesiasticaystoria legitur , quod Alexander episcopus Alexandriae,
+            cumPetri Martiris solempnia celebraret, post expleta missarum sacramenta uidit super
+            oram maris puerorum ludum, imitantium , utsolet fieriepiscopum, et gerentium ea, que in
+            ecclesia geri mosest. Mox eos ad se perduci iubet, et quid egissent percunctatur.Illi
+            rei ordinem, pandunt, baptizatos a se esse quosdam caihecu-minos confitentur per
+            Athanasium puerum, qui illis fuerat episcopus simulatus. Ubi ex responsis eorum uidit
+            secundumreligionis nostrae ritum cuncta constare, statuitis Hiis, quibusintegris
+            interrogationibus et responsionibus aqua fuerat infusa, iterari baptismum non debere,
+            sed adinpleri ea, que sacerdotibus est mos. </p>
+          <p xml:id="gd-p2c1q1-d1e1024"> Hinc etiam Ysidorus ait *: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1028">
+          <head xml:id="gd-p2c1q1-Hd1e1030">C. LIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1033" type="question-title"> De his, qui per ignorantiam
+            ordinantur antequam baptizentur ^. </head>
+          <p xml:id="gd-p2c1q1-d1e1036"> Si quis per ignorantiam ordinatur antequam baptizetur,
+            debent ab eo baptizati iterum rebaptizari, et ipseulterius non ordinetur. Sed Romanus
+            Pontifex non hominem iudicat, qui baptizat, sed Spiritum Dei subministraregratiam credit
+            baptismi, licet paganus sit, qui baptizat. </p>
+          <p xml:id="gd-p2c1q1-d1e1039"> [PALE A*. </p>
+          <p xml:id="gd-p2c1q1-d1e1042"> C. LX. </p>
+          <p xml:id="gd-p2c1q1-d1e1046"> Ex Concilio apud Compendium. </p>
+          <p xml:id="gd-p2c1q1-d1e1049"> Si presbiter ordinatus deprehenderit se non esse
+            baptizatum, baptizetur et ordinetur iterum**.] </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1052"> Gratian. Quod autem cetera sacramenta ab hereticis
+            ministrari non possint , testatur leronimus in Aggeo Propheta [cap. 2.J: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1056">
+          <head xml:id="gd-p2c1q1-Hd1e1058">C. LXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1061" type="question-title"> Non placent Deo que ab hereticis
+            offeruntur.</head>
+          <p xml:id="gd-p2c1q1-d1e1064"> Sic populus* iste hereticorum omnium est in conspectu meo,
+            dicit Dominus, omne, quod fecerint, quod mihiobtulerint, uel uota**, uel pro salute, uel
+            pacifica, uel propeccato, uel holocaustis, siue elemosinas, siue ieiunia uel corporis
+            castitatem, contaminataerunt in conspectu meo. Quamuis enim sancta uideanturspecie sui
+            que offerunturs, tamen, quia tractata suntab illo i, qui pollutus est in anima,
+            polluuntur omnia. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1068">
+          <head xml:id="gd-p2c1q1-Hd1e1070">C. LXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1073" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e1076"> Item in Amos Propheta, [c. 5.]Odit Deus sacrificia
+            hereticorum et a se proicit, et quotiens in nomine eius congregati fuerint,
+            detestaturfetorem eorum et claudit nares suas. </p>
+          <p xml:id="gd-p2c1q1-d1e1079"> [C. LXIII.] </p>
+          <p xml:id="gd-p2c1q1-d1e1082"> Item in Oseae [cap. 6.] </p>
+          <p xml:id="gd-p2c1q1-d1e1086"> Illi offerunt panem sacrilegum, et dant elemosinas, et
+            sectari uidentur humilitatem. Que ego, si uere fiant, holocausta interpretor. Cum autem
+            scientiam Dei dereliquerint, frustra truncato capite fidei cetera membra haberese
+            iactant. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1090">
+          <head xml:id="gd-p2c1q1-Hd1e1092">C. LXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1095" type="question-title"> Sine fide et karitate nec
+            euangelium habetur, nec prosunt aliqua bona.</head>
+          <p xml:id="gd-p2c1q1-d1e1098"> Idem in epistol. ad Galat. [c. i. u. n.]Marcion et
+            Basilides, et ceterae hereticorum pestes nonhabent Dei euangelium, quia non habent
+            Spiritum sanctum, sine quo humanum fit euangelium quod docetur. Nec putemus in uerbis
+            scripturarum esse euangelium, sed in sensu;non in superficie, sed in medulla; non in
+            sermonum foliis, sed in radice rationis. </p>
+          <p xml:id="gd-p2c1q1-d1e1101"> [C. LXV.] </p>
+          <p xml:id="gd-p2c1q1-d1e1104"> Idem [ad cap. 5. eiusdem epistolae u. 14.]Vide, quantum
+            bonum est karitas. Si ita martiriumfecerimus, ut nostras uelimus ab hominibus
+            reliquiashonorari, et si opinionem uulgi sectantes intrepidi sanguinem fuderimus, et
+            substantiam nostram usque ad mendicitatem propriam dederimus, huic operi non tam premium
+            quam pena debetur, et perfidiae magis tormenta suntquam corona uictoriae. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1109">
+          <head xml:id="gd-p2c1q1-Hd1e1111">C. LXVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1114" type="question-title"> Hereticorum benedictio maledictio
+            est.</head>
+          <p xml:id="gd-p2c1q1-d1e1117"> Item ex Concilio Laudicensi, [c. 32.]Non oportet
+            hereticorum benedictiones accipere, quoniam maledictiones magis sunt quam benedictiones.
+            . </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1121">
+          <head xml:id="gd-p2c1q1-Hd1e1123">C. LXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1126" type="question-title"> Neque cum hereticis, neque cum
+            scismaticis licet orare.</head>
+          <p xml:id="gd-p2c1q1-d1e1129"> Item ex Concilio Martini Papae , [c. 70.] </p>
+          <p xml:id="gd-p2c1q1-d1e1132"> Non liceat clericis uel laicis ab hereticis eulogias
+            accipere, quia maledictiones sunt magis quam benedictiones, neque liceat aut cum
+            hereticis, aut scismaticis orare. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1136">
+          <head xml:id="gd-p2c1q1-Hd1e1138">C. LXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1141" type="question-title"> Extra ecclesiam non sunt uera
+            sacrificia.</head>
+          <p xml:id="gd-p2c1q1-d1e1144"> Item Leo ad Anatholium Constantinopolitanum Episcopum,
+            [epist. XLVI 1 I. cap. 2.] </p>
+          <p xml:id="gd-p2c1q1-d1e1147"> In ecclesia Dei, que corpus Christi est, aliter nec rata
+            sunt sacerdotia, nec uera sacrificia, nisi in proprietatesuae naturae uerus nos pontifex
+            reconciliet. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1151">
+          <head xml:id="gd-p2c1q1-Hd1e1153">C. LXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1156" type="question-title"> Inpiorum manibus diuina
+            sacramenta se subducunt . </head>
+          <p xml:id="gd-p2c1q1-d1e1159"> Idem Leoni Augusto, [epist. LXXIII.] </p>
+          <p xml:id="gd-p2c1q1-d1e1162"> Manifestum est, per crudelissimam et insanissimam uesaniam
+            in Alexandrina sede omne celestiumsacramentorum lumen exstinctum. Intercepta est
+            sacrificiioblatio, deficit erismatis sanctificatio, et parricidalibusmanibus inpiorum
+            omnia sese subtraxere misteria. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1166">
+          <head xml:id="gd-p2c1q1-Hd1e1168">C. LXX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1171" type="question-title"> Sacramenta extra ecclesiam
+            ministrari possunt, salutem uero conferre non possunt. </head>
+          <p xml:id="gd-p2c1q1-d1e1174"> Item B. Martir Ciprianus in epistola contra hereticos ***. </p>
+          <p xml:id="gd-p2c1q1-d1e1177"> Si quis, inquit, de ecclesia heretica presumptione exierit,
+            a semetipso dampnatus est. Cum huiusmodi secundumApostolum, nec cibum quidem sumere
+            debemus. Declaratur hoc in libro Regnorum, ubi, cum homo Dei ad Iero-boam missus esset,
+            qui peccata sua exprobraret atqueultionem futuram prediceret, panem apud illum edere
+            etaquam bibere prohibitus est. Quod cum non custo-disset, diuina sententia inde rediens,
+            morsu leonis in itinereinteriit. §. 1. An debet quisquam dicere, sacramentumsalutare ,
+            et gratiam celestem communem cum hereticisesse posse, cum quibus nec terrestris cibus,
+            nec secularispotus debet esse communis? Constat autem oleum, undebaptizati tinguntur,
+            sanctificari, et eucharistiam fieri apudillos omnino non posse, ubi spes nulla est et
+            fides falsa, ubiomnia per mendacium geruntur. Nam hereticus more symia-rum, que cum
+            homines non sint, formam humanam imitantur g, uultum ecclesiae catholicae et
+            auctoritatem sibi etueritatem uendicant, cum ipse in ecclesia non sit. Benedicit cum a
+            Deo sit maledictus, uitam pollicetur cumsit mortuus, Deum inuocat blasphemus,
+            sacerdotiumamministrat profanus, ponit altare sacrilegus. Ad hecomnia accedit et illud
+            malum, ut antistes diaboli audeat </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1180"> eucharistiam facere, cum nec sanctificari oblatio illic
+            possit, ubi Spiritus sanctus non sit, nec cuiquam Dominusper eius preces et orationes
+            prosit, qui Deum ipse uio-lauit. Si enim qui ecclesiam uiolant ethnici, et publicani
+            habentur, multo magis rebelles p et hostes, falsa altaria, et illicita sacerdotia, et
+            sacrificia sacrilega etomnia q adulteria fingentes, inter ethnicos et publicanos necesse
+            est ut conputentur, quos omnes constat akaritate atque unitate ecclesiae catholicae
+            recessisse. Ergo omnia, quecumque faciunt heretici, carnaliasunt, inania et falsa, ita
+            ut nichil eorum, que illi gesserint, a nobis probari debeat. Non statim suscipiendasunt
+            et assumenda que iactantur in Christi nomine, sed quegeruntur in Christi ueritate.
+            Quomodo enim perficereque agunt aut inpetr^re aliquid illicitis conatibus a Deo possunt,
+            qui contra Deum quod eis non licet moliuntur?9.2. Quare, qui hereticis et scismaticis
+            patrocinantur , censura** diuina in eorum probantur facinore et penis nonsolum duces et
+            auctores, sed etiam participes destinari, nisise a communione malorum separauerint,
+            precipienteDomino per Moysen: „Separamini a tabernaculis hominum istorum durissimorum,
+            et nolite tangere de y omnibus, que sunt in eis, ne simul pereatis in peccatis eo-rum.“
+            Et quod comminatus Dominus per Moysen fueratinpleuit, ut, quisquis se a Chore, et
+            Dathan, et Abironnon separasset, penas statim pro inpia communione sol-ueret. Sicut
+            etiam per Osee prophetam Spiritus sanctustestatur dicens : , , Sacrificia eorum tamquam
+            panis luctus;omnes, qui manducant ea, contaminabunturdocensscilicet et ostendens omnes
+            omnino cum auctoribus supplicio coniungi, qui fuerint peccato eorum contaminati. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1184">
+          <head xml:id="gd-p2c1q1-Hd1e1186">C. LXXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1189" type="question-title"> Vera sacrificia non nisi in fide
+            ecclesiae celebrantur.</head>
+          <p xml:id="gd-p2c1q1-d1e1192"> Item Augustinus [lib. Sententiarum per Prosperum
+            Aquitanicum Episcopum Reg. collectarum c. 15.]: </p>
+          <p xml:id="gd-p2c1q1-d1e1195"> Extra catholicam ecclesiam non est locus ueri sacrificii. </p>
+          <p xml:id="gd-p2c1q1-d1e1198"> Item Gregorius in III. lib. Dialog. [cap. 31.] ait de
+            Erminigildo Rege Leouigildi filio : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1203">
+          <head xml:id="gd-p2c1q1-Hd1e1205">C. LXXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1208" type="question-title"> De manu hereticorum communio non
+            est recipienda.</head>
+          <p xml:id="gd-p2c1q1-d1e1211"> Superueniente pascalis festiuitatis die intempestae noctis
+            silentio ad eum pater perfidus Arrianum episcopummisit, ut ex eius manu consecrationis
+            sacrilegae communionem perciperet, atque per hoc ad patris gratiam rediremereretur. Sed
+            uir Deo deditus Arriano episcopo uenientiexprobrauit ut debuit, eiusque a se perfidiam
+            dignis increpationibus repulit. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1215">
+          <head xml:id="gd-p2c1q1-Hd1e1217">C. LXXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1220" type="question-title"> Sacerdotes hereticorum Christi
+            honoribus non habentur digni. </head>
+          <p xml:id="gd-p2c1q1-d1e1223"> Item Innocentius capitulo F//. </p>
+          <p xml:id="gd-p2c1q1-d1e1226"> Arrianos preterea ceterasque huiusmodi pestes*, quia eorum
+            laicos conuersos ad Dominum sub imaginepenitentiae ac Spiritus sanctificatione per manus
+            inpo-sitionem suscipimus, non uidentur clerici eorum cumsacerdotii aut cuiuspiam
+            ministerii suscipiendi essedignitate. Quoniam quibus solum baptisma ratum
+            essepermittimus (quod utique in nomine Patris, et Filii, et Spiritus sancti percipitur),
+            nec Spiritum sanctum eos habere ex illo baptismate illisque ministeriis arbitramur,
+            quoniam, cum a catholica fide auctores eorum discederente, perfectionem Spiritus, quam
+            acceperant, amiserunt, nec dare eius plenitudinem possunt, que maximein ordinationibus
+            operatur, qui per inpietatis suae perfidiam fidem domini perdiderunt. Propteruod fieri
+            non potest, ut eorum profanos sacerdotesignos Christi honoribus arbitremur, quorum
+            laicos inper-fectos, ut dixi, ad sancti Spiritus percipiendam gratiam cumpenitentiae
+            imagine recipimus. Item : §. 1. Legitur, , Qui tetigerit** inmundum inmundus erit, “
+            quomodoergo ei tribuetur qui inmunditiamP et spurci-tiasi consueuit accipere? Et infra:
+            §. 2. Qui particepsfactus est dampnati, quomodo honorem debeat accipere, inuenire non
+            possumus . </p>
+          <p xml:id="gd-p2c1q1-d1e1229"> Gratian. Ex eo autem , quod manus Inpositio iterari
+            precipiti , sacramentum non esse ostenditur. </p>
+          <p xml:id="gd-p2c1q1-d1e1233"> Unde Augustinus de baptismo lib. III. [contra Dona-tistas,
+            c. 16.]. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1237">
+          <head xml:id="gd-p2c1q1-Hd1e1239">C. LXXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1242" type="question-title"> Manus inpositio non est
+            sacramenti iteracio . </head>
+          <p xml:id="gd-p2c1q1-d1e1245"> Manus inpositio non, sicut baptismus, repeti non potest.
+            Quid enim est aliud, nisi oratio super hominem? </p>
+          <p xml:id="gd-p2c1q1-d1e1248"> Gratian. Cum ergo Innocentius solum baptisma hereticis
+            ratum esse permittat; cum Gregorius sacrilegam uocet consecrationem Arrianorum ; cum
+            Ciprianus quecumque ab hereticis fiunt carnalia , inania*, et falsa iudicet; cum
+            Ieronimusomnia , que ab eis offeruntur , contaminata in conspectu Do- mmi asserat; cum
+            Leo extra ecclesiam nec rata esse sacerdotia , nec uera sacrificia testetur: patet ,
+            quod sacramentaecclesiastica preter baptisma (ut supra dictum esi) ac
+            hereticisministrari non possunt . </p>
+          <p xml:id="gd-p2c1q1-d1e1251"> Item obicitur illud Ieronimi ad Luciferianum *: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1255">
+          <head xml:id="gd-p2c1q1-Hd1e1257">C. LXXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1260" type="question-title"> Qui in baptismo sanctus est , ad
+            altare peccator non erit. </head>
+          <p xml:id="gd-p2c1q1-d1e1263"> Sicut Christus est qui baptizat, ita ipse est qui </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1266"> sanctificat. Unde oro te, ut aut sacrificandi licentiam ei
+            tribuas, cuius baptisma probas, aut reprobes eius ba-tisma, quem non putes esse
+            sacerdotem. Neque enimeri potest, ut qui in baptismo sanctus est sit ad altarepeccator. </p>
+          <p xml:id="gd-p2c1q1-d1e1269"> Gratian. Sed hoc de peccatore ** tantum catholico ", non
+            heretico intelligendum est. Qui quicquid cum fide S pro offitio suo facit licet
+            indignus, tamen diuinagratia cooperante ratum esse creditur'. Alioquin si de here-ticis
+            dictum intelligitur^, ipse sibi contrarius esset , cumdicat in Oseae : „ Sacrificia
+            eorum etc “. Et alibiin persona Domini : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1273">
+          <head xml:id="gd-p2c1q1-Hd1e1275">C. LXXVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1278" type="question-title"> Benedictionibus hereticorum Deus
+            maledicit.</head>
+          <p xml:id="gd-p2c1q1-d1e1281"> „ Maledicam* benedictionibus uestris“: hoc est, quicquid a
+            uobis benedicetur per me erit maledictum. </p>
+          <p xml:id="gd-p2c1q1-d1e1284"> XI. Pars. Gratian. Hoc igitur intelligendum est 1015 d de
+            heretico, illud autem ad Luciferianum de peccatore ecclesiastico. De quo Augustinus* ait
+            in libro decorpore Domini. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1288">
+          <head xml:id="gd-p2c1q1-Hd1e1290">C. LXXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1293" type="question-title"> Boni et mali sacerdotes eque
+            corpus Christi conficiunt.</head>
+          <p xml:id="gd-p2c1q1-d1e1296"> Intra ecclesiam catholicam in ministerio corporis et
+            sanguinis Domini nichil a bono maius, nichil a malo minusperficitur sacerdote, quia non
+            in merito consecrantis, sed in uerbo perficitur creatoris et uirtute Spiritus sancti.Si
+            io$J2b enim in merito sacerdotis, nequaquam ad Christum pertineret. Nunc autem sicut
+            ipse est quibaptizat, ita ipse est qui per Spiritum sanctum hanc suamefficit carnem et
+            transfundit in sanguinem. Credendum**est enim, quod in uerbis Christi sacramenta
+            conficiantur.Cuius prius creantur inperio, eius utique uerbo recreantur ad melius. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1301">
+          <head xml:id="gd-p2c1q1-Hd1e1303">C. LXXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1306" type="question-title"> De eodem*.</head>
+          <p xml:id="gd-p2c1q1-d1e1309"> Idem in lib. II. contra epistolam Parmeniani, [c. io.] </p>
+          <p xml:id="gd-p2c1q1-d1e1312"> Omnia sacramenta cum obsint indigne tractantibus, prosunt
+            tamen per eos digne sumentibus, sicut et uerbumDei. Unde dictum est: „Que dicunt facite,
+            queautem faciunt facere nolite.“ </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1316">
+          <head xml:id="gd-p2c1q1-Hd1e1318">C. LXXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1321" type="question-title"> De his, qui sanctis male
+            utuntur.</head>
+          <p xml:id="gd-p2c1q1-d1e1324"> Idem tractatu epistolae Iohannis !°35a* </p>
+          <p xml:id="gd-p2c1q1-d1e1327"> Prophetauit Saul malus rex, cum etiamsanctum Dauid
+            persequeretur. Non ergo se iactent quiforte sine karitate habent munus s Dei sanctum,
+            sed uideant, qualem rationem habituri sintcum Deo, qui sanctis non sancte utuntur. Ex
+            his erunt, quidicturi sunt in iudicio: , , In nomine tuo prophetauimus.“Quibus non
+            dicetur: Mentimini, sed: „Non nouiuos, etc.“ </p>
+          <p xml:id="gd-p2c1q1-d1e1330"> Gratian. Spiritum ergo prophetiae dicendi sunt habuisse,
+            non meritum. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1334">
+          <head xml:id="gd-p2c1q1-Hd1e1336">C. LXXX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1339" type="question-title"> Quisque non tam sanctificatur ex
+            hostiis, quam peccato polluitur . </head>
+          <p xml:id="gd-p2c1q1-d1e1342"> Item Ieronimus in [cap. 2.] Aggeo 5 ib* </p>
+          <p xml:id="gd-p2c1q1-d1e1345"> Propheta, qui altari extructo tantum et domo mea diruta
+            hostias mihi offers in altari, et uictimis eius sanctificari te putas, scito, quoniam
+            sanctum est quidem quodoffertur in altari, sed non tam sanctificaris ex hostiis, quamex
+            operibus mortuis pollueris. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1349">
+          <head xml:id="gd-p2c1q1-Hd1e1351">C. LXXXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1354" type="question-title"> Contra Spiritum sanctum uerbum
+            dicitur, cum ex dispersione numquam reditur.</head>
+          <p xml:id="gd-p2c1q1-d1e1357"> Item Augustinus in lib. de uerbis Domini, [serm. XI. circ.
+            fin.] </p>
+          <p xml:id="gd-p2c1q1-d1e1360"> Ita fit uerbum contra Spiritum sanctum, cum ex dispersione
+            ad congregationem numquam uenitur, que ad remittenda peccata accipit Spiritum sanctum.
+            Ad quamcongregationem etsi per malum clericum, sed tamencatholicum ministrum, reprobum
+            et fictum, si aliquisaccesserit corde non ficto, in ipso Spiritus sanctus*operatur
+            remissionem peccatorum, qui in sancta ecclesia ita operatur, ut reprobos fugiat, et
+            tamen per eorumministerium probos colligat. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1364">
+          <head xml:id="gd-p2c1q1-Hd1e1366">C. LXXXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1369" type="question-title"> Non hominum meritis, sed uirtute
+            Spiritus sancti peccata remittuntur.</head>
+          <p xml:id="gd-p2c1q1-d1e1372"> Idem in sermone de remissione peccatorum. </p>
+          <p xml:id="gd-p2c1q1-d1e1375"> Ut euidenter ostenderet Dominus, a Spiritu sancto, quem
+            donauit suis fidelibus, dimitti peccata, nonmeritis hominum, quodam loco sic ait: „
+            Accipite Spiri- </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1378"> tum sanctumet continuo subierit: „Si cui dimiseritis
+            peccata, remittentur ei:“ hoc est, Spiritus dimittit, nonuos. Proinde* sicut is, quem
+            sacerdos in ecclesia tollit, est tamen extra ecclesiam, et extra corpus, cuius caputest
+            Christus, si ei ostiarius non aperit**, ita non ideoextra ecclesiam est, et non est de
+            corpore, si quis pastorispreiudicio conpellitur foris esse. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1382">
+          <head xml:id="gd-p2c1q1-Hd1e1384">C. LXXXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1387" type="question-title"> Non merita personarum , sed
+            offitia sacerdotum dominus considerat. </head>
+          <p xml:id="gd-p2c1q1-d1e1390"> Item Ambrosius de sacramentis . </p>
+          <p xml:id="gd-p2c1q1-d1e1393"> Cum scriptura testetur, quod ad preces Ieroboaignis
+            descendit de celo, et rursus precante Heliaignis missus est, qui sacrificia consumeret,
+            daturintelligi*, quod Deus non merita personarum considerat, sed offitia sacerdotum. §.
+            i Ille ignis uisibilis mittebatur, ut crederent: nobis inuisibilis operatur, qui
+            credimus. §. 2. g Crede ergo, aclesse Dominum Iesuminuocatum precibus sacerdotum, qui
+            ait: „Ubi fuerintduo uel tres, ibi sum in medio eorum.“ </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1398">
+          <head xml:id="gd-p2c1q1-Hd1e1400">C. LXXXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1403" type="question-title"> Non merita sacerdotum , sed
+            uirtus diuina sacramenta sanctificat. </head>
+          <p xml:id="gd-p2c1q1-d1e1406"> Item Gregorius Papa *. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1409"> Multi secularium hominum, cum plus sacerdotum uitam quam
+            suam discutiunt, in magnum contemptionis diuinorum sacramentorum crimen incurrunt. Magna
+            enim trabeuulneratos habentes oculos, eamque negligentes festucamtenuem in aliorum
+            conspiciunt oculis, quam dum incautefestinant auellere, erroris in foueam dilabuntur,
+            minusuidem considerantes, quod non eos sacerdotum uita le-eret, si ipsi humiliter bonis
+            sacerdotum admonitionibusaurem accommodarent. Sed dum ypocritarum more plusillorum famam
+            quam propriam uitam uel uitae negligen-tias diiudicant, spernunt sancta monita et
+            spiritualiadona. Unde fit, ut non solum ab eis dicta respuant, sed(quod est deterius)
+            diuina etiam misteria contempnant, utnec corporis communionem aut sanguinis Domini
+            nostriIesu Christi eorum ministerio confectam assumant, putantes, hanc minus esse
+            sanctificatam, si illorum fiat offitio., quorumuita eorum oculis uidetur ignobilis. §.
+            i. Heu in quammagnum laqueum incidunt, ut diuina et occulta misteria plusab aliis
+            sanctificata posse fieri credant, cum unus idemqueSpiritus sanctus in ecclesia diffusa
+            per totum orbem terrarum inconprehensibiliter ea misteria et occulte atqueinuisibiliter
+            et operando sanctificet et benedicendo benedicat. §.2. Misterium itaque**, fratres, ob
+            hoc dicitur, quod secretam et reconditam habeat dispensationem; sa-crifitium autem,
+            quasi sacrum factum, quia prece misticaconsecratur pro nobis in memoriam dominicae
+            passionis.§. 3. Sacramentum uero est in aliqua celebratione, cumres gesta ita sit, ut
+            aliquid significare accipiamus, quod sancte accipiendum est. Sunt autem
+            sacramenta:baptisma, crisma, corpus et sanguis, que ob id sacramenta dicuntur, quia sub
+            tegumento corporalium rerum diuina uirtus secretius salutem eorundem sacramentorum
+            operatur. Unde a secretis uirtutibus uel sacris sacramentadicuntur. Que ideo fructuose
+            penes ecclesiam fiunt, quia sanctus in ea manens Spiritus eundem s sacramentorum
+            latenter operatur effectum. Cuius panis et calicis sacramentumgrece eucharistia dicitur,
+            latine bona gratia interpretatur.Et quid melius corpore et sanguine Christi? §. 4.
+            Siueergo per bonos, siue per malos ministros intra ecclesiam» dispensetur, sacrum tamen
+            est, quia Spiritus sanctus mistice ille uiuificat, qui quondam apo-stolico in tempore
+            uisibilibus aparebat operibus. Necbonorum meritis dispensatorum ampliantur, nec malorum
+            attenuantur, quia , , neque qui plantat est aliquid, neque qui rigat, sed qui
+            incrementum dat Deus.“Hoc de corpore et sanguine Domini nostri Iesu Christi, hocetiam de
+            baptismate et crismate sentiendum est ettenendum, quia uirtus diuina secretius operatur
+            in eis, et diuinae solummodo est hec uirtus siue potestas, nonhumanae efficaciae.
+            Polluimus*** itaque panem, id estcorpus Christi, quando indigni accedimus ad altare
+            etsordidi mundum sanguinem bibimus. Et infra: §. 5. Maledicam f, inquit, benedictionibus
+            uestris, hoc est, hisp, que nunc meis benedictionibus possidetis, seu quicquid
+            benedicitur a u obis i, uel quoniam ++ non benedicunt sanctis ex uero corde, uel quia
+            qui inique agunt benedicuntur ab eis, adulanturque peccatoribus, dummodo diuitessunt.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1413">
+          <head xml:id="gd-p2c1q1-Hd1e1415">C. LXXXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1418" type="question-title"> Non sacerdotum uitam , sed que
+            docent et ministrant considerare debemus. </head>
+          <p xml:id="gd-p2c1q1-d1e1421"> Item Fabianus Papa Episcopis Orientalibus , [epist. II.] </p>
+          <p xml:id="gd-p2c1q1-d1e1424"> Significastis insuper plerosque attendere, multos in ipsis
+            honoribus ecclesiasticis non congruenter uiuere sermonibus et sacramentis, que per eos
+            populis ministrantur. O miseros homines, qui hos intuendo Christum obliui-scuntur! qui
+            et multo ante predixit, ut legi Dei potiusobtemperetur, quam imitandi uideantur illi,
+            qui ea, quedicunt, non faciunt, et traditorem suum tolerans usque infinem etiam
+            euangelizaturum cum ceteris misit. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1427"> Nam apostoli talem consuetudinem non habuerunt, nec
+            habendam docuerunt. </p>
+          <p xml:id="gd-p2c1q1-d1e1431"> C.LXXXVL De eodem. </p>
+          <p xml:id="gd-p2c1q1-d1e1434"> Item Nicolaus Papa Michaeli Inperatori , [in epist. que
+            incipit: „Proposueramus. “] Non quales sacerdotes Domini, sed quid deDomino loquantur,
+            est uobis magnopere preuidendum, nec in uicariis B. Petri apostoli uobis est
+            attendendumquid sint, sed quid pro correctione ecclesiarum, quid pro salute uestra
+            satagant. Nec enim illos inferioresdicetis scribis et phariseis sedentibus super
+            cathedramMoysi, de quibus Dominus precepit, dicens: „Quecumque dixerint uobis facite,
+            secundum opera eorumnolite facere.“ Ergo, inperator, considera, si illos dixitaudiendos,
+            qui super cathedram Moysi sedebant, quantopotius, qui super cathedram Petri resident,
+            esse existimatis obaudiendos g? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1438">
+          <head xml:id="gd-p2c1q1-Hd1e1440">C. LXXXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1443" type="question-title"> Sacerdotum inmunditia sacramentum
+            non polluit. </head>
+          <p xml:id="gd-p2c1q1-d1e1446"> Item Augustinus contra Petilianum , [lib. II. c.
+            22.]Dominus declarauit in uno cetu hominum eadem sacramenta sumentium, non obesse mundis
+            aliquorum in-munditiam. §. i. Petilianus dixit: At si quisquamcarmina sacerdotis
+            memoriter teneat, numquid inde sacerdos est, quod ore sacrilego carmen publicat
+            sacerdotis?Augustinus respondit: Ita istud dicis, quasi modo que-ramus, quis sit uerus
+            sacerdos, et non quid sit uerumbaptisma. Ut enim quisque uerus sit sacerdos, oportet, ut
+            non solum sacramento, sed iustitia quoque induatur, sicut scriptum est: „Sacerdotes tui
+            induantur iustitia. “Qui autem solo sacramento sacerdos est, sicut fuit pontifexCaiphas,
+            persecutor unius et uerissimi sacerdotis, quamuisipse uerax non est£, quod, dat tamen
+            uerum est, si nondet suum, sed Dei. item: §. 2. „ Cretenses i, malae bestiae, pigri
+            corde.“ Si ergo apostolus nescio cuius alienigenae testimonium, quia uerumconperit,
+            etiam ipse attestatus est, cur nos, apud quemcum-que inuenerimus quod Christi est et
+            uerum est, etiamsiille, apud quem inuenitur, peruersus et fallax est, nondiscernimus
+            propter uicium, quod homo habet, uerita-temP, quam non suam, sed Christiq habet, et
+            dicimus, sacramentum hoc uerum est, sicut ille ait: „Testimonium hoc uerum est?“ Numquid
+            ideo dicimus: etiam ipsehomo uerax est, quia dicimus: sacramentum hoc uerum est?§.
+            3.1168r Vos autem necesse est ut semper erretis, quamdiu propter hominum uicia Dei
+            sacramenta uiolatis, aut nospropter Dei sacramenta, que in uobis uiolare nolumus, etiam
+            uestri scismatis sacrilegium assumere putatis. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1449"> item: §. 4. Baptismi ergo puritas a puritate uel inmunditia
+            conscientiae siue dantis siue accipientis omnino distincta est. Jtem: §. 5. Memento
+            sacramentis Deinichil obesse mores malorum hominum, quo illa uel nonsint, uel minus
+            sancta sint. Jtem: §. 6. Si non habebat Saul sacramenti sanctitatem, quid in eo Dauid
+            uenera-batur? Si autem habebat innocentiam, quare innocentempersequebatur? Nam eum
+            propter sacramenti unctionem et honorauit uiuum, et uindicauit occisum. Et quia
+            uelpanniculum ex eius ueste abscidit, percusso corde tre-pidauit. Ecce Saul non habebat
+            innocentiam, et tamen habebat sanctitatem, non uitae suae*, (nam hoc sineinnocentia non
+            y potest), sed sacramenti Dei, quodet in malis hominibus sanctum est. Jtem: §. 7.
+            Nosdicimus tale cuique sacrificium fieri, qualis accedit ut offerat, et qualis accedit
+            ut sumat, et eos de sacrificiis taliummanducare, qui ad illud tales accedunt, quales et
+            illisunt. Itaque si offerat Deo malus, et accipiat inde bonus, tale cuique est, qualis
+            quisque fuerit, quia et illudscriptum est: , , Omnia munda mundis.“ Per hanc sententiam
+            ueridicam et catholicam etiam uos Optati sacrificionon estis polluti, si facta eius
+            displicebant uobis. Namutique panis illius panis luctus erat, sub cuius iniquitatibus
+            Africa tota lugebat, sed panem luctus omnibus uobisesse communem omnium uestrum malum
+            scismatisfacit, item: §.8. Gratias Deo, quia tandem confessuses, posse ualere inuocatum
+            nomen Christi ad aliorum salutem, etiam si a peccatoribus inuocetur. Hinc ergo
+            intel-ligite, cum Christi nomen inuocatur non obessealiorum saluti aliena peccata. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1453">
+          <head xml:id="gd-p2c1q1-Hd1e1455">C. LXXXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1458" type="question-title"> Etiam per malum ministrum dona
+            Dei ad eos perueniunt , qui cum fide accipiunt. </head>
+          <p xml:id="gd-p2c1q1-d1e1461"> Idem in libro Psalmorum . </p>
+          <p xml:id="gd-p2c1q1-d1e1464"> Christus quid fecit uobis, qui tanta patientia traditorem
+            suum pertulit, ut ei primam eucharistiam confectam manibus suis et ore suo commendatam
+            traderet, sicut ceterisapostolis? Quid uobis fecit Christus, qui eundemtraditorem suum,
+            quem diabolum nominauit, qui antetraditionem Domini nec loculis dominicis fidem
+            potuitexhibere, cum ceteris discipulis ad predicandum regnumcelorum misit, ut
+            monstraret, dona Dei peruenire adeos, qui cum fide accipiunt, etiam si talis sit, per
+            quemaccipiunt, qualis ludas fuit? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1468">
+          <head xml:id="gd-p2c1q1-Hd1e1470">C. LXXXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1473" type="question-title"> Sacramentis malitia non nocet
+            episcopi.</head>
+          <p xml:id="gd-p2c1q1-d1e1476"> Item Gregorius . </p>
+          <p xml:id="gd-p2c1q1-d1e1479"> Non nocet malitia episcopi, neque ad baptismum infantis,
+            neque ad consecrationem ecclesiae, quia baptisma a Deodatur, non ab homine uenit; sic et
+            eucharistia, et alia, </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1482"> quecumque in altari pronuntur, non ab homine, sed a Deo
+            sanctificationem accipiunt. </p>
+          <p xml:id="gd-p2c1q1-d1e1486"> Gratian. Sed obicitur illud Ieronimi in Sophonia, </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1490">
+          <head xml:id="gd-p2c1q1-Hd1e1492">C. XC</head>
+          <head xml:id="gd-p2c1q1-Hd1e1495" type="question-title"> Sacerdotis non uerba, sed merita
+            eucharistiam faciunt.</head>
+          <p xml:id="gd-p2c1q1-d1e1498"> Sacerdotes, qui eucharistiae seruiunt, et sanguinem Domini
+            populis eius diuidunt, inpie agunt in legem Christi, putantes eucharistiam inprecantis
+            facere uerba, nonuitam, et necessariam esse tantum solempnem orationem, et non
+            sacerdotum merita, de quibus dicitur: „Sacerdos, in (juacumque fuerit macula, non
+            accedat offerre oblationes Domino.“ </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1503">
+          <head xml:id="gd-p2c1q1-Hd1e1505">C. XCI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1508" type="question-title"> Tanto facilius sacerdotes
+            exaudiuntur, quanto apud Deum sunt digniores.</head>
+          <p xml:id="gd-p2c1q1-d1e1511"> Item Alexander, [epist. II .] </p>
+          <p xml:id="gd-p2c1q1-d1e1514"> Ipsi sacerdotes pro populo interpellant et peccata populi
+            comedunt, quia suis precibus ea delent atqueconsumunt; qui, quanto digniores fuerint,
+            tanto faciliusin 1226 b necessitatibus, pro quibus clamant, exaudiuntur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1518">
+          <head xml:id="gd-p2c1q1-Hd1e1520">C. XCII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1523" type="question-title"> Non adest Spiritus sanctus
+            sacramentis, que per criminosos ministrantur.</head>
+          <p xml:id="gd-p2c1q1-d1e1526"> Item Gelasius Elphidio Episcopo . </p>
+          <p xml:id="gd-p2c1q1-d1e1529"> Sacrosancta religio, que catholicam continet disciplinam,
+            tantam sibi reuerentiam uendicat, ut ad eam quilibet nisi pura conscientia non audeat
+            peruenire. Nam quomodoad diuini misterii consecrationem celestis Spiritus in-uocatus
+            adueniet, si sacerdos, et qui eum adesse deprecatur, plenus actionibus criminosis
+            reprobetur? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1533">
+          <head xml:id="gd-p2c1q1-Hd1e1535">C. CXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1538" type="question-title"> Manus inmunda tacta coinquinat ,
+            mundat . </head>
+          <p xml:id="gd-p2c1q1-d1e1541"> Item Gregorius in Registro, [lib. I. epist. 24.] </p>
+          <p xml:id="gd-p2c1q1-d1e1544"> Necesse est, ut munda sit manus, que diluere sordes curat,
+            ne tacta queque deterius inquinet, si sordida sequens lutum tenet: scriptum namque est:
+            „Mundamini, qui fertis uasa Domini/* Domini etenim uasaferunt, qui proximorum animas ad
+            interiora perducendasin conuersationis suae exemplo suscipiunt. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1548">
+          <head xml:id="gd-p2c1q1-Hd1e1550">C. XCIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1553" type="question-title"> Eque seruandum est uerbum Christi
+            et corpus Christi.</head>
+          <p xml:id="gd-p2c1q1-d1e1556"> Item Augustinus [lib. L. homiliarum, homil. 26.] </p>
+          <p xml:id="gd-p2c1q1-d1e1559"> Interrogo uos, fratres uel sorores, dicite mihi, quid uobis
+            plus esse uidetur, corpus Christi an uerbum Christi? Siuultis uerum respondere, hoc
+            dicere debetis, quodnon sit minus uerbum Dei quam corpus Christi. Et ideo, quanta
+            sollicitudine obseruamus, quando nobis corpus Christiministratur, ut nichil ex ipso de
+            manibus nostris in terramcadat, tanta sollicitudine obseruemus, ne uerbum Dei, quodnobis
+            erogatur, dum aliud aut cogitamus, aut loquimur, decorde puro depereat, quia non minus
+            reus erit quiuerbum Dei negligenter audierit, quam ille, qui corpusChristi sua
+            negligentia in terram cadere permiserit. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1562"> [C. XCV.] </p>
+          <p xml:id="gd-p2c1q1-d1e1566"> Item [lib. IV. de Trinitate, c. 14.] </p>
+          <p xml:id="gd-p2c1q1-d1e1569"> Neque enim id potest rite offerri nisi per sacerdotem
+            iustum et sanctum, nec nisi ab eis accipiatur quod offertur, pro quibus offertur, atque
+            id sine uicio sit, ut pro uiciosis mundandis possit offerri. Hoc certe omnes cupiunt,
+            qui prose offerri sacrificium Deo uolunt. </p>
+          <p xml:id="gd-p2c1q1-d1e1572"> Gratian. Cum uita sacerdotum eucharistiae necessaria esse
+            dicitur, non consecrationi, sed effectui intelligendum est; nonenim effectum confert
+            salutis ei, quem merita faciunt indignum;potius conpletur in eo illud Apostoli : „ Qui
+            manducat et bibit indigne, iudicium sibi manducat et bibit. Ergo contra eos, qui crebra
+            oblatione sacrificii se putant posse mundari, non cessantes inpie agere in lege De/,
+            intelligitur illud essedictum Ieronimi . Quod uero sacerdos, etiamsi malus sit, tamen
+            pro offitio suae dignitatis gratiam transfundat hominibus, testatur Augustinus in lib .
+            questionum ueteris test. [c. 11.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1576">
+          <head xml:id="gd-p2c1q1-Hd1e1578">C. XCVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1581" type="question-title"> Sacerdotes nomen Domini inuocant,
+            Dominus autem benedictionem prestat.</head>
+          <p xml:id="gd-p2c1q1-d1e1584"> Dictum est a Domino in Numeris ad Aaron: „Vos ponite nomen
+            meum super filios Israel, ego Dominusbenedicam eos, ** ut gratiam traditio per
+            ministeriumordinati transfundat hominibus, nec uoluntas sacerdotis obesse aut prodesse
+            possit, sed meritum benedictionemposcentis. §. 1. Quanta autem dignitas sit sacerdotalis
+            offitiil 1263 e ordinis, hinc aduertamus. Dictum est autem denequissimo Caipha,
+            interfectore Saluatoris, inter cetera:„Hoc autem a semetipso non dixit, sed, cum esset
+            pontifex s sacerdotum anni illius, prophetavit/* Per quodostenditur, Spiritum sanctum
+            gratiarum non personam sequi digni, aut indigni, sed ordinem traditionis, ut, quamuis
+            aliquis boni meriti sit, non tamen possitbenedicere, nisi fuerit ordinatus, ut offitium
+            ministeriiexhibeat. Dei autem est effectum tribuere benedictionis. </p>
+          <p xml:id="gd-p2c1q1-d1e1587"> Gratian. Quod uero per hereticos sacramenta dignitatis
+            ministrata dicuntur carere effectu, inprobatur auctoritate Ana-stasii Papae, qui
+            ordinationem Aeacii, quamuis heretici, ita ratamapprobat, ut etiam eis, quos post
+            dampnationem suam baptizauit, uel ordinauit, in nullo ream personam nocuisse asserat .
+            Sedhoc eum * illicite, et non canonice, imo contra decreta suorumpredecessorum et
+            successorum fecisse, probat Felix etGelasius, qui Aeacium ante Anastasium
+            excommunicauerunt, etHormisda, qui ab ipso Anastasio tertius eundem Aeacium dam-pnauit.
+            IJnde etiam ab ecclesia Romana repudiatur, et a Deofuisse percussus legitur in gestis
+            Romanorum Pontificum hocmodo: „Anastasius secundus natione Romanus, efc/*Require retro
+            in tractatu decretalium epistolarum. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1590"> Item obicitur illud Augustini ad Parmenianum de Jiereticis
+            etiam dampnatis™*: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1594">
+          <head xml:id="gd-p2c1q1-Hd1e1596">C. XCVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1599" type="question-title"> Qui recedit ab ecclesia, nec
+            baptisma , nec «dandi amittit . </head>
+          <p xml:id="gd-p2c1q1-d1e1602"> Quod quidam dicunt, baptisma, quod accepit*, non amittit
+            qui recedit ab ecclesia, ius tamen dandi, quod accepit, amittit, multis modis aparet
+            frustra et inaniterdici §. i. Primo, quia nulla ostenditur causa, cur ille, qui ipsum
+            baptismum amittere non potest, ius dandiamittere possit. Utrumque enim sacramentumest,
+            et quadam consecratione homini datur utrumque, illud, cum baptizatur, illud, cum
+            ordinatur; ideonon licet a» f catholico s utrum que iterari. §. 2. Namsi quando ex ipsa
+            parte uenientes etiam prepositipro bono pacis, correcto scismatis errore, suscepti sunt,
+            etsi uisum est opus esse, ut eadem offitia gererent, que agebant, non sunt rursus
+            ordinandi, sed sicut baptismus in eis, ita ordinatio mansit integra, quia in
+            precisionefuerat uiciuni (quod unitate pacis est correctum), non insacramentis, que
+            ubicumque sunt ipsa suntEt cumipsi k expedire uidetur ecclesiae, ut prepositieorum,
+            uenientes ad catholicam societatem, honoressuos ibi non administrent, non eis tamen ipsa
+            ordinationissacramenta detrahuntur, sed manent super eos.Ideoque non eis manus
+            inponitur, ne non homini, sed ipsi sacramento fiat iniuria. §. 3. Sicut autem in
+            baptismo est p quod per eos dari possit, sic inordinatione ius dandi est q; utrumque ad
+            perniciemsuam, quamdiu karitatem non habent unitatis; sed tamenaliud est non habere,
+            aliud perniciose habere, aliudsalubriter habere. Quicquid non habetur dandum est, cum
+            opus est dari, quod uero perniciose habetur, percorrectionem depulsa pernicie agendum
+            est, utsalubriter habeatur.Quod si laicus alicui </p>
+          <p xml:id="gd-p2c1q1-d1e1605"> pereunti necessitate conpulsus baptisma dederit, quod, cum
+            ipse acciperet, quomodoy dandum esset addidicit, nescio, an quisquam dixerit pie esse
+            repetendum. Nulla enim necessitate cogente si fiat, alieni muneris usurpatio est. Si
+            autem necessitas urgeat, aut nullum, aut ueniale delictum est. Sed si nulla
+            necessitateusurpetur, et a quolibet cuilibet detur, quod datum fueritnon potest dici non
+            datum, quamuis recte dici possit illicite </p>
+
+          <p xml:id="gd-p2c1q1-d1e1608"> datum. Illiciti ergo usurpationem corrigit reminiscen-tis
+            et penitentis affectus. Quod si non correxerit, manebit ad penam usurpatoris quod datum
+            est, uel eius, qui illicite dedit, uel eius, qui illicite accepit: non tamen pronon dato
+            habebitur** §. 4. Si enim aliqui furtimet extraordinarie, non in monetis publicis, aurum
+            uelargentum*** percutiendo signauerint, cum fuerit deprehensum, nonne illis punitis uel
+            indulgentia liberatis cognitum regale signum thesauris regalibus cogeretur®. Et 1ff
+            paulo post: §.5. Si forte miliciae^ caracteremin corpore suo non militans pauidus
+            exhorruerit, et adclementiam inperatoris confugerit, et inpetrata ueniamilitare iam
+            ceperit, numquia homine liberato atque correcto caracter ille repetitur, ac non potius
+            agnitus approbatur? An forte minus habent sacramenta Christiana quam corporalis hec
+            nota, cum uideamus, nec apostatascarere baptismo, quibus utique per penitentiam
+            redeuntibusnon restituitur, et ideo amitti non posse iudicatur? §. 6.De his, qui ab
+            ecclesiae catholicae unitate separati sunt, nulla iam questio est, quin habeant, etdare
+            possint, sed perniciose habeant pp, perniciosequetradant, quia°qq extra uinculum pacis
+            sunt. §. y.is&amp;ssNeutri sacramento iniuria facienda est. §. 8. Sicut nonrecte habet
+            qui ab unitate discedit, sed tamenhabet, et ideo redeunti non redditur, sic etiamnon
+            recte dat qui ab unitate discedit, sed dat tamen, etideo quod ab eo accepit uenienti ad
+            unitatem non iteratur. ira/ra: §. 1. Sicut redeunti non redditur quodet foris habebat,
+            sic uenienti repetendum non est quodforis yy acceperat. Unde consequenter
+            intelligiturperuersitatem hominum esse corrigendam, sanctitatem autem sacramentorum in
+            nullo peruerso esse uiolandam. Constat enim, eam in peruersis hominibus et sceleratis,
+            siue ineis, qui intus sunt, siue in eis, qui foris, inpol-lutam atque inuiolabilem
+            permanere, et quod dicuntur eam mali polluere, quantum in ipsis est dicuntur, cum illa
+            inpolluta permaneant; sed in bonispermanent ad premium, in malis permanent ad iudicium.
+            /n/ra: §. 10. Quomodo catholici non clarificantDominum, qui sacramenta eius tam debita
+            uene-ratione prosecuntur, utssg, etiam si ab indignis tractatafuerint, illis sua
+            peruersitate dampnatis, illa intemeratasanctitate permanere demonstrantur? </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1612"> XII. Pars. Gratian. Ex his uerbis Augustini constat, in
+            omnibus tam apostatis quam hereticis uel dampnatispermanere Christi sacramenta uera,
+            quantum ad se, et sancta, et nisi penitentia uel indulgentia subuentum fuerit, ad
+            dampna-tionem usurpatoris peruenient, uel habentis, uel dantis, uel accipientis. Quid
+            ergo prodest, quod uera et sancta sunt, cum usurpatores suos eque perimant, ac si essent
+            mala et noxia?Crassus aurum sitiuit, aurum !395 iii Mbit; eque periit uero auro, sicut
+            uero ueneno. §. i. Item aurum eque uerum estin arca furis, sicut in thesauris regis. Sed
+            a fure, quia illicite habetur, illicite datur uel accipitur; a rege autem licite
+            habetur, datur et accipitur; ideo ipse furet communicator furti?* (nisi forte de
+            conscientia furti se pur-gauerit ), ut perhibet Gelasius ad Anastasium inperatorem,
+            uterque iuste et digne dampnabitur. §. 2. Opponitur autem </p>
+          <p xml:id="gd-p2c1q1-d1e1615"> huic sententiae Augustini: Potestas dandi baptismum, et ius
+            consecrandi dominicum corpus, et largiendi sacros ordines, plurimum inter se differunt.
+            Suspenso enim uel deposito sacerdote, nulla ei relinquitur potestas sacrificandi.
+            Sacramentum tamen baptismi non solum a sacerdote deposito uel laico catholico,
+            uerumetiam ab heretico uel pagano si ministratum fuerit, nullareiteratione uiolabitur;
+            nulla autem ratio sinit, ut inter sacerdotes habeantur, qui de manibus laici uel pagani
+            oleum sacrae{imo execrandae) unctionis assumunt. Non ergo consequentercolligitur, ut, si
+            recedentibus a fide ius baptizandi relinquitur, potestas etiam distribuendi sacros
+            ordines eis relinquatur, quam-uis utrumque consecratione proueniat. Degradatus
+            enimepiscopus potestatem largiendi sacros ordines non habet, facultatem baptizandi tamen
+            non amisit. §. 3. Sed ne Augustinum f in hac sententia penitus reprobemus, intelligamus
+            aliud esse potestatem distribuendi sacros ordines, aliud esse executionemillius
+            potestatis. Qui intra unitatem catholicae ecclesiae constituti sacerdotalem uel
+            episcopalem unctionem accipiunt, offitium et executionem sui offitii ex consecratione
+            adipiscuntur . Recedentes uero ab integritate fidei, potestatem acceptamsacramento tenus
+            retinent, effectu suae potestatis penituspriuan-tur 5 , sicut coniugati ab inuicem
+            discedentes coniugium semelinitum non dissoluunt, ab opere tamen coniugali
+            inueniunturalieni. §. 4. De his ergo, qui accepta sacerdotali potestate abunitate
+            catholicae ecclesiae recedunt, loquitur Augustinus, non deillis, qui in scismate uel
+            heresi positi sacerdotalem unctionem accipiunt; alioquin esset contrarius Calcedonensi
+            concilio, in quo ordinati a symoniacis in nullo proficere indicantur, et Innocentio ,
+            qui ordinatos a ceteris hereticis per prauammanus inpositionem solam dampnationem et
+            uulnus capitis assecutos testatur. §. 5. Quamuis possit generaliter dici, sacramenta,
+            que apud hereticos non aliter quam in ecclesia Deicelebrantur, uera et rata esse quantum
+            ad se, falsa uero et inaniaquantum ad effectum, et in his ppp, a quibus male tractantur,
+            et in illis , a quibus male suscipiuntur. Nec mirum, ipsa enimsalus nostra bucellam
+            Iudae dedit; statim cum bucella nonbonus, sed malignus spiritus intrauit: quare? non
+            quia bonus nondaret bonum, sed quia malus male accepit bonum; sicque bonumeffectum bonum
+            non habuit, quia ubi illud faceret non inuenit. §. 6. Item Dominus in patria sua presens
+            et uerus affuit; nonper malum ministrum, sed per semet?* «m ipsum nichil potuit, </p>
+
+          <p xml:id="gd-p2c1q1-d1e1618"> quia fidem non inuenit; pro perfidia aliorum non caruit sua
+            ueritate , sed effectus boni uirtute. §. 7. Quod ut plane inomnibus sacramentis
+            ostenderet, bis est transfiguratus, cumesset in carne. In una transfiguratione sicut sol
+            aparuitmirabilis, ut fides credentium augeretur ad contemplandamcelestem gloriam super
+            se eleuatam. In altera ut peregrinuset incognoscibilis de se dubitantibus ire se longius
+            finxit, et, ne agnosceretur, eorum oculos tenuit: ad quid aliud, nisi ut, quiaper fidem
+            non erat in cordibus eorum, longius se ab iis recedere ostenderet, et quia ipsum non
+            credebant esse quod erat, uiderent etiam 1433 rrr alium quam eratf Ecce in
+            utraqueuisione sua erat praesentia et ueritas: sed in una exercebaturfides, ut magis
+            crederent quam credebant, in altera tenebaturincredulitas, ne etiam agnoscerent quod
+            uidebant. Sacramentumergo corporis et sanguinis sui aliis est ad salutem, aliis
+            adiudicium . Fides etiam, quamuis sit uera, tamen sine operibus mortua est. Sic et omnes
+            decem uirgines equaliter erantuirgines , sed ex his erant quihque fatuae et quinque
+            prudentes.Equa erat uirginitatis ueritas, sed pro eiusdem uirginitatisintentione non
+            omnibus equa meriti identitas °. Sic etiam estes sonans aut cymbalum tinniens martirium
+            uel elemo-sina, quam nescit karitas. Si uero cecus ceco lucernaeministret ueritatem,
+            neuter tamen ideo magis suam illuminatcecitatem. Sic et malus ministrat malo uera
+            sacramenta, sednon ideo dona spiritualia, quia malis eorum meritis Spiritussanctus
+            inpeditur, ne in eis quod suum est operetur. Unde Innocentius, cum hereticorum baptisma
+            concedat esse ratum, nontamen ex illo baptismate concedit haberi Spiritum sanctum.Et Leo
+            hos, qui formam baptismatis acceperunt °, non sinitrebaptizari, sed iubet Spiritum
+            sanctum, quem ab hereticis nemoaccepit &amp;, per eius inuocationem et manus
+            inpositionem acatholicis sacerdotibus consequi. Sciendum uero est, quodsacramenta
+            hereticorum dicuntur irrita, uel etiam dampnanda, falsa et inania, non quantum ad se,
+            cum sint sancta et ueraetiam ab heretico celebrata, sed quia, cum illicite
+            dantibusperfidis sint ad iudicium, illicite ab eis accipientibus non conferunt Spiritum
+            sanctum. Irrita et non uera dicuntur, quia quodpromittunt et conferre creduntur non
+            tribuunt, et ideo dampnanda, ut ea dari uel recipi ab hereticis non approbetur
+            sedinterdicatur. Non enim quantum ad se polluta sunt, quamuis abhereticis pollui
+            dicantur. Unde Gregorius communionem Arii uocat execrationem, et Innocentius uocat
+            Bonosi ordinationem dampnationem, non quod ita in se sint, sed quia maledantibus uel
+            accipientibus id efficiunt. Sic etiam Ieroni-mus in Osee sacrificia eorum panem luctus
+            uocatnon quantum ad se, sed quantum ad effectum, quod ipse-met ostendit, subiungens: „
+            Quicumque comederint ex eo, contaminabuntur , quia sibi ad iudicium sument. </p>
+          <p xml:id="gd-p2c1q1-d1e1621"> Hinc etiam Augustinus in lib. II. contra epist. Parmeniani,
+            [cap. 5.] </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1626">
+          <head xml:id="gd-p2c1q1-Hd1e1628">C. XCVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1631" type="question-title"> Sacramenta quamuis obsint indigne
+            tractantibus, prosunt tamen per eos digne sumentibus. * </head>
+          <p xml:id="gd-p2c1q1-d1e1634"> Per Ysaiam dicit Dominus: ^Facinorosus, qui sacrificat mihi
+            uitulum, quasi canem occidat, et qui </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1637"> coquit* similaginem, cjuasi sanguinem porcinum, et qui
+            offert thus in memoriam, quasi blasphemus.“§. i. i80 d Quilibet ubilibet offert
+            sacrificium tali cordeuel factis, ut hoc mereatur audire, perniciem sibi infert, non
+            illis bonis, qui accipiunt ab eis eadem sacramenta, qui secundum prophetam Ezechielem
+            gemunt et merentpeccata et iniquitates, que fiunt in medio eorum, quamuis non se inde
+            corporaliter separent. /n/ra:§. 2. Sacrificia inpiorum eis oberunt s, qui offeruntinpie.
+            Nam unum atque idem sacrificium est propter nomen Domini, quod ibi inuocatur, et semper
+            est sanctum, et tale cuique fit, quali corde ad accipiendum accesserit.„ Qui enim
+            manducat et bibit indigne, iudicium sibi manducat et bibitnon aliis sed sibi. InfraE* §.
+            3. Hocpene in omnibus talibus questionibus intelligendum admonemus, quia scilicet omnia
+            sacramenta, cum obsintindigne tractantibus, prosunt tamen per eos digne sumentibus.
+            ih/ra: §. 4. Spiritus sanctus in ecclesiae preposito uel ministro sic inest, ut, si
+            fictus non est, opereturper eum, et eius mercedem in salutem sempiternamet eorum
+            regenerationem uel edificationem, qui per eumsiue consecrantur siue euangelizantur. Si
+            autem fictus est, quoniam uerissime scriptum est:„Spiritus san </p>
+          <p xml:id="gd-p2c1q1-d1e1640"> ctus? disciplinae effugiet fictum, “ desit i quidem saluti
+            eius, et auferat se a cogitationibus eius, quesunt sine intellectu, ministerium tamen
+            eius non deserat, quo per eum salutem operatur aliorum. </p>
+          <p xml:id="gd-p2c1q1-d1e1644"> Gratian. Constat ergo, ut Innocentius ait, de ceteris
+            hereticis, ordinatos a symoniacis per prauam manus inpositionemsymoniacae uulneratum
+            habere caput. §. 1. Sed obicitur, quodin ordinatione symoniacorum hoc solum
+            reprehensibile inueniatur, quod gratia Spiritus sancti sub pretio redigi putetur,
+            aliorsumautem in omnibus integra forma sacramentorum seruetur. Cumergo illicita
+            sacramenti usurpatio per penitentiam correctafuerit, ut gratia Spiritus sancti gratuita
+            et non uenalis existimetur, integer debet adesse unctionis effectus; imo etiam, si non
+            sequaturpenitentia, licet symoniace, tamen reuera consecratus reputetur, sicut illi, qui
+            quondam nonnisi pretio dato, ad sacri baptismatis regenerationem, nec ad sanctae
+            communionis participationemadmittebantur, licet symoniace, tamen non ideo minus
+            baptizati, uel sacrae communionis participes reputati sunt. Sed hoc tantumsacris
+            canonibus constitutum est, ne de cetero sacramenta Christisymoniace distribuantur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1647"> Unde Gelasius [ad Episcopos per Lucaniam, epist. I., cap.
+            7.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1651">
+          <head xml:id="gd-p2c1q1-Hd1e1653">C. XCIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1656" type="question-title"> A baptizandis uel consignandis
+            pretia non exigantur.</head>
+          <p xml:id="gd-p2c1q1-d1e1659"> Baptizandis consignandisque fidelibus sacerdotes pretia
+            nulla prefigant, nec illationibus quibuslibet inpositis exagitare cupiant renascentes,
+            quoniam quodgratis accepimus gratis dare mandamur, fet ideo nichila predictis prorsus
+            exigere moliantur, quo uel paupertatecogente deterriti, uel indignatione reuocati
+            redemptionissuae causas iure despiciant, certum habentes, quod quiprohibita deprehensi
+            fuerint admisisse, uel commissa nonpotius sua sponte correxerint, periculum
+            subeantproprii honoris. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1663">
+          <head xml:id="gd-p2c1q1-Hd1e1665">C. C</head>
+          <head xml:id="gd-p2c1q1-Hd1e1668" type="question-title"> A percipiente gratiam communionis
+            pretium exigi non debet . </head>
+          <p xml:id="gd-p2c1q1-d1e1671"> Item de Sexta Syngdo, [c. 23.]Nullus episcopus, aut
+            presbiter, aut diaconus, qui sacramdispensat communionem, a percipiente gratiam*
+            communionis aliquod pretium exigat. Neque enim uenditur gratia, neque pro pretio
+            Spiritus sancti gratiam damus, sed dignismunere sine defraudatione participare
+            concedimus.Si quis uero eorum, qui connumerantur in clero, ab eo, cuisacram communionem
+            dispensat, aliquod pretium exegerit, deponatur, sicut imitator symoniacae fraudis. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1675">
+          <head xml:id="gd-p2c1q1-Hd1e1677">C. CI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1680" type="question-title"> Munera inuisibilis gratiae
+            questibus non sunt conparanda . </head>
+          <p xml:id="gd-p2c1q1-d1e1683"> Item ex Concilio Tollet ano XI., [c. 8.]Quicquid
+            inuisibilis gratiae consolatione* tribuitur, numquam questibus** uel quibuslibet premiis
+            uenundaripenitus debet, dicente Domino: , , Quod gratis accepistisgratis date.“ Et ideo
+            quicumque deinceps in ecclesiastico ordine constitutus aut pro baptizandis
+            consignandisque fidelibus, crismate, uel promotionibus graduumprecia quelibet uel premia
+            (nisi*** uoluntarieoblata) pro huiusmodi ambitione susceperit, equidem, sisciente loci
+            episcopo tale quicquam a subditis perpetratumfuerit, idem episcopus duobus mensibus
+            excommunicationi subiaceat pro eo, quod inscientia+ mala contexit et correctionem
+            necessariam non acquisiuit. </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1686"> Sin autem suorum quispiam, eodem nesciente, quicquamd 1544
+            f supradictis capitulis s accipiendum sibi essecrediderit, si presbiter est, quatuor
+            mensium excommunicatione plectatur; si diaconus, trium; subdiaconusuero uel clericus his
+            cupiditatibus seruiens competenti ++pena, et debita excommunicatione plectendus est.
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1690">
+          <head xml:id="gd-p2c1q1-Hd1e1692">C. CI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1695" type="question-title"> Nichil a sacerdotibus exigatur
+            pro balsamo, quod in crismate ^ ponitur. </head>
+          <p xml:id="gd-p2c1q1-d1e1698"> Item ex Concilio Bracarensi II. [c. 4.]* Placuit, ut nullus
+            episcoporum pro balsami modico, quod benedictum pro baptismi sacramento per
+            ecclesiasdatur, quia singuli tremissem pro ipso exigere solent, aliquid ulterius exigat,
+            ne forte quod pro saluteanimarum per inuocationem sancti Spiritus consecratur, sicut
+            Symon magus donum Dei pecunia uoluit emere, ita nos uenundantes dampnabiliter
+            uenundemur. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1702">
+          <head xml:id="gd-p2c1q1-Hd1e1704">C. CIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1707" type="question-title"> Non est aliquid exigendum ab his
+            i», qui infantes suos ad baptizandum adducunt. </head>
+          <p xml:id="gd-p2c1q1-d1e1710"> Item ex eodem, [cap. 7.]Placuit, ut unusquisque episcopus
+            per ecclesias suashoc faciat, ut hi, qui infantes suos ad baptismum offerunt, si quid
+            uoluntarie pro uoto suo offerunt, suscipiaturab eis. Si uero per necessitatem
+            paupertatis aliquidnon habeant quod offerant, nullum eis pignusuiolenter tollatur a
+            clericis. Nam multi pauperes, hoc timentes, filios suos a baptismo retrahunt, qui forte,
+            dumdifferuntur, si sine gratia baptismi de hac uita recesserint, necesse est, ut ab
+            illis eorum perditio requiratur, quorum spolia pertimescentes a baptismi gratia se
+            subtraxerunt. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1715">
+          <head xml:id="gd-p2c1q1-Hd1e1717">C. CIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1720" type="question-title"> Qui baptizantur nullus ™ in
+            coneam nummos^ mittere co^a£. </head>
+          <p xml:id="gd-p2c1q1-d1e1723"> Item ex Concilio Eliberitano, [c. 48.]Emendari placuit, ut
+            qui baptizantur (ut fieri solebat)nummos in coneam non mittant, ne sacerdos quod
+            gratisaccepit precio distrahere uideatur. Neque pedes eorumlauandi sunt a sacerdotibus
+            uel clericis. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1727">
+          <head xml:id="gd-p2c1q1-Hd1e1729">C. CV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1732" type="question-title"> Pro perceptione erismatis uel
+            baptismi aliquid exigi non debet.</head>
+          <p xml:id="gd-p2c1q1-d1e1735"> Item ex Concilio Triburiensi . </p>
+          <p xml:id="gd-p2c1q1-d1e1738"> Dictum est, solere in quibusdam locis pro perceptione
+            erismatis nummos dari, similiter pro baptismo etcommunione. Hoc symoniacae heresis
+            detestataest sancta sinodus et anathematizauit, et ut de cetero necpro ordinatione, nec
+            pro crismate, uel baptismo, uel balsamo, nec pro sepultura, uel communione
+            quicquamexigant, statuit; sed gratis dona Christi gratuita dispensatione donentur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1741"> C. CVI. iVec pro dedicandis basilicis nec pro ceteris
+            sacramentis conferendis aliquid exigi debet. </p>
+          <p xml:id="gd-p2c1q1-d1e1745"> Item ex Concilio Cabillonensi, [tempore Caroli M. c. 16.] </p>
+          <p xml:id="gd-p2c1q1-d1e1748"> Statuimus, ut, sicut pro dedicandis basilicis et dandis
+            ordinibus nichil accipiendum est, ita etiam pro balsamo siuepro luminaribus emendis
+            nichil presbiteri crisma accepturi dent. Episcopi itaque de facultatibus ecclesiae
+            balsamum emant, et luminaria singuli in ecclesiissuis. </p>
+          <p xml:id="gd-p2c1q1-d1e1751"> XIII. Pars. Gratian. Sicut ergo hec sacramenta, licet
+            symoniace ministrentur, tamen effectum benedictionis conferuntaccipienti, sic et
+            sacerdotalis ^ unctio, licet symoniace ministretur, suo tamen non debet carere effectu.
+            Sed, sicut supra dictum est, illa sacramenta sunt necessitatis, hec dignitatis, etideo
+            priuilegia eorum non possunt generare communem legemistorum. Habent ergo symoniaci
+            uulnefratum caput per symoniacae manus prauam inpositionem. Hoc autem de illis
+            intelligitur , quos nec excusat ignorantia, nec attractionis uiolentia, qui ab Hiis
+            ordinantur, quos indubitanter sciunt esse symoniacos, siue symoniace siue non symoniace
+            ordinenturs ab eis. Utenim Nicolaus Papa distinguit, alii symoniace ordinantur a
+            symo-niacis, alii symoniace a non symoniacis, alii non symoniace asymoniacis . Hanc
+            distinctionem innuit cap. II. dicens <span/>
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1757">
+          <head xml:id="gd-p2c1q1-Hd1e1759">C. CVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1762" type="question-title"> De multiplici ^ genere
+            symoniacorum. </head>
+          <p xml:id="gd-p2c1q1-d1e1765"> Statuimus decretum de symoniacis symoniace ordinatoribus
+            uel ordinatis et de symoniacis symoniace a non symoniacis, et symoniacis non symoniace a
+            symoniacis.§. 1. Symoniaci symoniace ordinati uel ordinatores secundum ecclesiasticos
+            canones a proprio gradu decidant. Symoniaci quoque symoniaOe a non symoniacis ordinati
+            similiterab offitio male accepto remoueantur. §. 2. Symoniacos autem non symoniace a
+            symoniacis ordinatos misericorditerper manus inpositionem pro temporis necessitate in
+            offitioconcedimus permanere. </p>
+          <p xml:id="gd-p2c1q1-d1e1768"> Gratian. Sed hoc intelligendum est de his , qui ordinantur
+            a symoniacis, quos ignorabant esse symoniacos. Hos facit symoniacos non reatus criminis,
+            sed ordinatio symoniaci. </p>
+          <p xml:id="gd-p2c1q1-d1e1771"> De quibus Urbanus Papa [II. in Concilio Placentino, cap. 3.
+            et 4.] ait: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1775">
+          <head xml:id="gd-p2c1q1-Hd1e1777">C. CVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1780" type="question-title"> De his , qui non symoniace a
+            symoniacis ordinantur. </head>
+          <p xml:id="gd-p2c1q1-d1e1783"> Si qui a symoniacis non symoniace ordinati sunt, siquidem
+            probare potuerint se, cum ordinarentur, nescisse eos synomiacos esse, et tunc* pro
+            catholicis habebantur in </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1786"> ecclesia, talium ordinationes sustinemus misericorditer, si
+            tamen eos laudabilis uita commendat. Qui uero scienterse a symoniacis consecrari (imo
+            execrari) permiserint, eorumconsecrationem omnino irritam esse decernimus. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1790">
+          <head xml:id="gd-p2c1q1-Hd1e1792">C. CIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1795" type="question-title"> De eo, qui ordinatur ab illo,
+            quem scit symoniacum esse.</head>
+          <p xml:id="gd-p2c1q1-d1e1798"> Item* Nicolaus iunior. [Hoc idem Alexander II.]* </p>
+          <p xml:id="gd-p2c1q1-d1e1801"> De cetero statuimus, ut, si quis in posterum ab eo, quem
+            symoniacum esse non dubitat, se consecrari permiserit, etconsecrator, et consecratus non
+            disparem dampnationis sententiam subeant; sed uterque depositus penitentiamagat, et
+            priuatus propria dignitate persistat. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1805">
+          <head xml:id="gd-p2c1q1-Hd1e1807">C. CX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1810" type="question-title"> Symoniacis in dignitate seruanda
+            nulla est incendenda misericordia.</head>
+          <p xml:id="gd-p2c1q1-d1e1813"> Idem [paulo inferius]. </p>
+          <p xml:id="gd-p2c1q1-d1e1816"> Erga symoniacos nullam misericordiam in dignitate seruanda
+            habendam esse decreuimus, sed iuxta canonum sanctionem et sanctorum Patrum decreta eos
+            omninodampnamus ac deponendos apostolica auctoritate sancimus. </p>
+          <p xml:id="gd-p2c1q1-d1e1819"> Gratian. Subaudiendum est, nisi uiolenter attractus fue-rit
+            . De his enim et a quibuslibet hereticis uiolenter ordinatis ait ^ Innocentius [ad
+            Episcopos Macedoniae, epist. XXII. c. 5.]:: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1824">
+          <head xml:id="gd-p2c1q1-Hd1e1826">C. CXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1829" type="question-title"> De his , qui inuiti ad
+            hereticorum ordinationem trahuntur. </head>
+          <p xml:id="gd-p2c1q1-d1e1832"> Constat multos uim passos, atque inuitos attractos,
+            repugnantesque ab hereticis ordinatos; sed huiusmodi aliquis, si post talem ordinationem
+            non interfuit, cum illi conficerent sacramenta, si communioni eorum participatus nonest,
+            si statim discedentibus illis* pessimo conciliabuloeorum abrenunciauit et ad ecclesiam
+            rediit, iste talispotest habere colorem aliquem excusationis. Ceterum, quipost mensem
+            aut amplius redierunt, cum se considerentab hereticis ordinatos, certe qui nichil ab eis
+            acceperunt, rei sunt usurpatae dignitatis. </p>
+          <p xml:id="gd-p2c1q1-d1e1835"> Gratian. Tales plerumque ex intuitu pietatis reformat
+            catholicae manus inpositio cum satisfactione et medicina peniten-tiae; sed dampnationem
+            symoniacorum et eorum, qui eisconsenserunt, legimus, medicinam uero autenticam ex
+            hacheresi nominatim non legimus , nisi quod, sicut usurpatumest in Nouacianis uel
+            Donatistis, minoribus utique hereticis, non canonice, sed ex intuitu pietatis, ita etiam
+            ex his possefieri colligimus, ideo etiam, quia aliorsum per omnia orthodoxam habent
+            fidem, nisi quod Spiritum sanctum credunt esseuenalem. Et, ut ait B. Augustinus,
+            heretici cum redierint, qua parte se sciderint * ab ecclesia, curentur, qua uero parte
+            adheserint , cognoscantur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e1838"> Hinc ei Leo scribit Ia nuar io Episcopo* [Aquilegiensi,
+            epist. III.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1842">
+          <head xml:id="gd-p2c1q1-Hd1e1844">C. CXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1847" type="question-title"> Qui ab heresi ad ecclesiam
+            redeunt, in quo inue-niuntur ordine ex beneficio perscuerent. </head>
+          <p xml:id="gd-p2c1q1-d1e1850"> Omnis cuiuslibet ordinis clericus, qui catholicam deserens
+            unitatem, hereticae uel scismaticae coniunctioniscontagione se maculauerit, si ad
+            ecclesiam redierit cum legitima satisfactione et erroris sui dampnatione, hoc in
+            magnobeneficio habeat, si, adempta spe omnis promotionis, in quo inuenitur ordine
+            permaneat. </p>
+          <p xml:id="gd-p2c1q1-d1e1853"> Gratian. De his autem, qui ordinantur symoniace a non
+            symoniacis (utpote illi, qui data pecunia archidiacono uel consiliariis episcopi,
+            episcopo ignorante, hoc efficiunt, ut de manueius sacros ordines accipiant) scribit
+            Gregorius VII. [lib. 6. Reg. in Synodo Romae habita, A. D. 1078. die19. Nou., cap. 5.] :
+          </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1857">
+          <head xml:id="gd-p2c1q1-Hd1e1859">C. CXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1862" type="question-title"> Ordinationes, que symoniace
+            fiunt, diiudican-tur 1656 a falsae. </head>
+          <p xml:id="gd-p2c1q1-d1e1865"> Ordinationes, que interueniente pretio uel precibus, uel
+            obsequio alicui personae ea intentione inpenso, uel quenon communi consensu cleri et
+            populi secundum canonicas sanctiones fiunt, et ab his, ad quos consecratiopertinet, non
+            conprobantur, falsas esse diiudicamus, quoniam qui taliter ordinantur non per ostium, id
+            est perChristum, intrant, sed, ut ipsa ueritas testatur, furessunt et latrones. </p>
+          <p xml:id="gd-p2c1q1-d1e1868"> XIV. Pars. Gratian. Quia ergo tripliciter symonia in hoc*
+            capitulo notatur, uidendum est, quot modis pretium inhac heresi detur. </p>
+          <p xml:id="gd-p2c1q1-d1e1871"> Hoc^ B. Gregorius in euangeliorum tractatu [hom. 4. in
+            fine] euidenter exponit, dicens : </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1875">
+          <head xml:id="gd-p2c1q1-Hd1e1877">C. CXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1880" type="question-title"> De multiplici genere
+            symoniacorum. </head>
+          <p xml:id="gd-p2c1q1-d1e1883"> Sunt nonnulli, qui quidem nummorum premia ex ordinatione
+            non accipiunt, et tamen sacros ordines pro humana gratia largiuntur, atque de ipsa
+            largitatelaudis solummodo retributionem querunt. Hi nimirumquod gratis accipiunt gratis
+            non tribuunt, quia deinpenso offitio sanctitatis nummum expetunt fauoris. Undebene, cum
+            uirum iustum Propheta describeret, ait: „Qui excutit manus suas ab omni iminere.*Non
+            enim dixit solum £ a munere, sed ': </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e1886"> „ab omni munere, “ quia aliud est munus ab obsequio, aliud
+            a manu, aliud a lingua. Munus ab obsequio est seruitus indebite inpensa. Munus a
+            manupecunia est; munus a lingua fauor. Qui ergo sacrosordines tribuit, tunc ab omni
+            munere manus excutit, quandoin diuinis rebus non solum pecuniam nullam, sed nec petiam
+            humanam gratiam requirit. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1890">
+          <head xml:id="gd-p2c1q1-Hd1e1892">C. CXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e1895" type="question-title"> Eternam dampnationem inueniet qui
+            quolibet munere ad sacrum ordinem accedit. </head>
+          <p xml:id="gd-p2c1q1-d1e1898"> Idem in Registro. </p>
+          <p xml:id="gd-p2c1q1-d1e1901"> Si quis neque sanctis pollens moribus, uel neque a clero
+            populoque uocatus uel pulsatione coactus, inpu-denter Christi sacerdotium, iam quolibet
+            facinore pollutus, iniusto cordis amore, uel sordidis precibus oris, siue comitatu, siue
+            manuali seruitio, siue fraudulento munusculo episcopalem seu sacerdotalem, non lucro
+            animarum, sedinanis gloriae auaritia fultus, dignitatem acceperit, et in uitasua non
+            sponte reliquerit, eumque inaspera* mors peni-tentia non inuenerit, proculdubio in
+            eternum peribit. </p>
+          <p xml:id="gd-p2c1q1-d1e1904"> Hinc Gregorius scribit I ob an ni Corinthiorum Episcopo ,
+            [lib. IV. ep. 55.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1908">
+          <head xml:id="gd-p2c1q1-Hd1e1910">C. CXVI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1913" type="question-title"> Pro ordinationibus nichil omnino
+            accipiatur . </head>
+          <p xml:id="gd-p2c1q1-d1e1916"> De ordinationibus aliquid accipere sub districta
+            interdictione decreuimus. Oportet ergo, ut neque per donum, neque per gratiam, neque per
+            quorundam suplicationem aliquos ad sacros ordines consentias uel permittas adduci. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1921">
+          <head xml:id="gd-p2c1q1-Hd1e1923">C. CXVII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1926" type="question-title"> Nec pretio, nec gratia , weZ
+            suplica-tione aliqui ad sacros ordines accedant. </head>
+          <p xml:id="gd-p2c1q1-d1e1929"> Idem uniuersis Episcopis per Elladam^ prouinciam
+            constitutis , [eod. lib. epist. 56.] </p>
+          <p xml:id="gd-p2c1q1-d1e1932"> Quibusdam narrantibus agnoui, quod in illis partibus nullus
+            ad sacrum ordinem sine commodi datione perueniat.Quod si ita est, flens dico, gemens
+            denuncio, quia, cum sacerdotalis ordo intus ortus occidit, forisquoque diu stare non
+            poterit. Scimus quippe ex euangelio, quid redemptor noster per semetipsum fecerit, quia
+            ingressus templum cathedras uendentium columbas euer-tit. Columbas enim s uendere est de
+            sancto Spiritu (quemDeus omnipotens consubstantialem sibi per inpositionemmanuum
+            hominibus tribuit) commodum temporale percipere.Ex quo, ut predixi, malo iam euenire
+            crediturquia, qui in templo Dei columbas uendere presumpserunt, eorum, Deo iudice,
+            cathedrae ceciderunt. §. 1. Qui uidelicet errorin subditis propagatur cum augmento. Nam
+            ipso quoque, quisque ad sacrum ordinem perducitur, in ipsaiam prouectus sui radice
+            uiciatus, paratior est aliis uenun-dare quod emit. Et ubi est quod scriptum est:„ Gratis
+            accepistis, gratis date?“ Et cum primo contra sanctam ecclesiam symoniaca heresis sit
+            exorta, cur non perpenditur, cur non uidetur, quia eum, quem cum*precioquis ordinat,
+            prouehendo agit, ut hereticus fiat? Ideoquehortamur, ut uestrum nullus denuo hoc fieri
+            patiatur, sedneque gratia alicuius neque suplicatione aliquos ad sacrosordines audeat
+            promouere, nisi eum, quem uitae etactionis qualitas ad hoc dignum esse monstrauerit. Nam
+            sialiter factum senserimus denuo, districta et canonicaillud noueritis ultione conpesci. </p>
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1936">
+          <head xml:id="gd-p2c1q1-Hd1e1938">C. CXVIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e1941" type="question-title"> Ad episcopalem honorem nullus per
+            ambitum accedat.</head>
+          <p xml:id="gd-p2c1q1-d1e1944"> Item Simacus [ad Caesarium, epist. I. c. 5.] </p>
+          <p xml:id="gd-p2c1q1-d1e1947"> Nullus itaque per ambitum ad episcopalem honorem
+            permittatur accedere. Nam cum hic excessus in laicaliconuersatione culpetur, quis
+            dubitat, quin religiosis etDeo seruientibus incutiat obprobrium? </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1951">
+          <head xml:id="gd-p2c1q1-Hd1e1953">C. CXIX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1956" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e1959"> Item Gregorius [Adeodato Episcopo, lib. II. Indict. XI.
+            epist. 48.] * </p>
+          <p xml:id="gd-p2c1q1-d1e1962"> Estote ergo precipue in ordinatione solliciti, et ad sacros
+            ordines nisi prouectiores etate et mundos opere nullatenus admittatis. Eorum enim, qui
+            in sacro ordine suntcollocandi, prius uitam moresque discutite, et ut dignos huicoffitio
+            adhibere possitis, non uobis potentia, aut suplicatioquarumlibet subripiat personarum.
+            Quando igiturde his tractari necesse est, graues expertosque uiros consiliiuestri
+            adhibete participes et cum eis communi hocdeliberatione pensate. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1966">
+          <head xml:id="gd-p2c1q1-Hd1e1968">C. CXX</head>
+          <head xml:id="gd-p2c1q1-Hd1e1971" type="question-title"> Neque fauore , neque uenalitate
+            ad sacros ordines quisquam promoueatur. </head>
+          <p xml:id="gd-p2c1q1-d1e1974"> Idem Columbo Episcopo , [lib. II. Indict. XI. ep. 47.] </p>
+          <p xml:id="gd-p2c1q1-d1e1977"> Pueri ad sacros ordines nullatenus admittantur, ne tanto
+            periculosius cadant, quanto citius conscendere ad altiorafestinant. Nulla sit in
+            ordinatione uenalitas; potentia uelsuplicatio personarum nichil aduersus hec, que
+            prohibemus, obtineat. Nam proculdubio Deus offenditur, si ad sacrosordines quisquam non
+            ex merito, sed ex fauore (quod absit)aut uenalitate prouehitur. </p>
+          <p xml:id="gd-p2c1q1-d1e1980"> Gratian. Econtra idem Gregorius quibusdam supli-cantibus
+            unum acolitum , et alterum diaconum legitur ordinasse , sicut ipse scribit [lib. VII.
+            Indict. I. ep. 2.] Petro * EpiscopoCorsicae inter cetera : </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1984">
+          <head xml:id="gd-p2c1q1-Hd1e1986">C. CXXI</head>
+          <head xml:id="gd-p2c1q1-Hd1e1989" type="question-title"> Episcopo interueniente Papa
+            quemdam acolitum ordinauit.</head>
+          <p xml:id="gd-p2c1q1-d1e1992"> Latorem presentium per intercessionem uestrae sanctitatis
+            acolitum fecimus, quem ad obsequia tua transmisimus, ut, si in lucrandis animabus
+            amplius seruierit, proficere amplius possit. </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e1996">
+          <head xml:id="gd-p2c1q1-Hd1e1998">C. CXXII</head>
+          <head xml:id="gd-p2c1q1-Hd1e2001" type="question-title"> Quisquis in Romana ecclesia
+            ordinem sacrum acceperit, ab ea ulterius egredi non poterit. </head>
+          <p xml:id="gd-p2c1q1-d1e2004"> Idem Heliae Presbitero et Abbati, [lib. IV. epist. 30.] </p>
+          <p xml:id="gd-p2c1q1-d1e2007"> Filium uestrum Epiphanium mandastis ut ad sacrum ordinem
+            promouere deberemus uobisque transmittere. Sed in unouos audiuimus, in altero
+            minimepotuimus audire. Diaconus quidem factus est; sed quisquissemel in hac ecclesia
+            sacrum ordinem acceperit, egrediendi ex ea ulterius licentiam non habet. Si uerouidere
+            uos non potui, hac ex re consolationem habeo, quiain filio uestro requiesco. </p>
+          <p xml:id="gd-p2c1q1-d1e2010"> Gratian. Non itaque quorumlibet precibus ordinationes
+            factae falsae diiudicantur, sed liae demum, que precibus ordinandiuel eius amici, non
+            spirituali, sed carnali affectu porrectisfiunt , cum alias futurae non essent; quas non
+            Icar itas inter-ueniens, sed ambitio suplicans extorquet. Non solum autemclericos
+            cuiuslibet episcopi summus Pontifex in ecclesia Romanaualet ordinare, uerum etiam
+            oportunitate exigente monachos etquoscumque 65 clericos conuocare potest et inuitare. </p>
+          <p xml:id="gd-p2c1q1-d1e2014"> Unde Nicolaus Papa [Michaeli Imperatori in epist., quae
+            incipit: , , Proposueramus “]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e2019">
+          <head xml:id="gd-p2c1q1-Hd1e2021">C. CXXIII</head>
+          <head xml:id="gd-p2c1q1-Hd1e2024" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c1q1-d1e2027"> Per principalem beatorum apostolorum Petri et Pauli
+            potestatem ius habemus non solum in monachos, uerum etiam in quoslibet clericos de
+            quacumque diocesi, cum necesse fuerit, ad nos conuocare atque ecclesiasticis exigentibus
+            oportunitatibus inuitare. </p>
+          <p xml:id="gd-p2c1q1-d1e2030"> XV. Pars. Gratian. Quolibet ergo munere interueniente falsa
+            diiudicatur ordinatio. Sicut autem pretio interuenientesacri ordines non sunt tribuendi,
+            ita nec restituendi. Ut enimait B, Ambrosius, sacri ordines nec sunt pretio emendi,
+            necredimendi. </p>
+          <p xml:id="gd-p2c1q1-d1e2033"> Hinc etiam Gregorius VII. ait [lib. VI. Reg. in Concilio
+            habito A. D. 1078. Pontificatus sui VI. c. 9.]: </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e2037">
+          <head xml:id="gd-p2c1q1-Hd1e2039">C. CXXIV</head>
+          <head xml:id="gd-p2c1q1-Hd1e2042" type="question-title"> Pretio interueniente offitium
+            sacerdotale non restituatur.</head>
+          <p xml:id="gd-p2c1q1-d1e2045"> Nullus episcopus grauamen seu seruile seruitium ex usu
+            contra ecclesiasticam normam abbatibus seu clericis suisinponat, uel interdictum
+            sacerdotale offitium pretio interueniente restituat. Quod si fecerit, offitii sui
+            periculum subeat. </p>
+          <p xml:id="gd-p2c1q1-d1e2048"> Gratian. Qui autem pecuniam accipiunt, ut ordinandis sacros
+            ordines non tribuant, uel ut- canonicae electioniassensum non prebeant, aut ecclesiis
+            edificandis uel consecrandislapidem benedictum uel consecrationem subtrahant, multis
+            argumentis acceptae pecuniae rei et infames esse probantur. </p>
+
+          <p xml:id="gd-p2c1q1-d1e2051"> Ait enim Pascalis II . </p>
+        </div>
+        <div xml:id="gd-p2c1q1-Dd1e2055">
+          <head xml:id="gd-p2c1q1-Hd1e2057">C. CXXV</head>
+          <head xml:id="gd-p2c1q1-Hd1e2060" type="question-title"> Sacrilegi sunt iudicandi qui
+            ecclesias non permittunt regulariter ordinari. </head>
+          <p xml:id="gd-p2c1q1-d1e2063"> Sunt quidam, qui uel uiolentia, uel fauore non permittunt
+            ecclesias regulariter ordinari. Hos etiam decernimus ut sacrilegos iudicandos. </p>
+          <p xml:id="gd-p2c1q1-d1e2066"> [C. CXXVI.] </p>
+          <p xml:id="gd-p2c1q1-d1e2069"> Codicis lib. IX. ad legem luliam repetundarum, Imppp .
+            Gratianus, Valentinianus et Theodosius . </p>
+          <p xml:id="gd-p2c1q1-d1e2073"> Iubemus, hortamur, ut, si quis forte honoratorum,
+            decurionum, possessorum, postremo etiam colonorum, acuiuslibet ordinis iudice fuerit
+            aliqua ratione concussus, si quis scit uenalem de iure fuisse sententiam, si quis
+            penamuel pretio remissam uel uicio cupiditatis ingestam, si quispostremo quacumque de
+            causa inprobum iudicem potueritapprobare, is uel administrante eo, uel post
+            admimstratio-nem depositam in publicum prodeat, crimen deferat, delatum approbet; cum
+            probauerit uictoriam reportaturus, et gloriam. </p>
+          <p xml:id="gd-p2c1q1-d1e2076"> [C. CXXVII.] </p>
+          <p xml:id="gd-p2c1q1-d1e2079"> Item in Digestis lib. III. titulo de calump ni at oribus,
+            Ulpianus lib. X. ad* edictum, [ 1 .] 1. </p>
+          <p xml:id="gd-p2c1q1-d1e2082"> In eum, qui, ut calumpniae causa negotium faceret uel non
+            faceret, pecuniam accepisse dicitur, intra annum** in quadruplum eius pecuniae, quam
+            accepissedicitur, post annum simpli in factum actio conpetit. </p>
+          <p xml:id="gd-p2c1q1-d1e2085"> [C. CXXVIII.] </p>
+          <p xml:id="gd-p2c1q1-d1e2088"> Ibidem lib. XLVII. tit. [13. 1 . 2.] de concussione. </p>
+          <p xml:id="gd-p2c1q1-d1e2092"> Marcellus a /. publicorum iudic .. </p>
+          <p xml:id="gd-p2c1q1-d1e2095"> Concussionis iudicium publicum non est. Sed si ideo
+            pecuniam quis accepit, quod crimen minatus sit, potestpublicum iudicium esse ex
+            senatusconsultis, quibus penalegis Corneliae teneri iubentur qui in accusationem
+            innocentium coierint, quiue ob accusandum uel non accusandum, denunciandum uel non
+            denunciandum testimoniumpecuniam acceperint. </p>
+          <p xml:id="gd-p2c1q1-d1e2098"> [C. CXXIX.] </p>
+          <p xml:id="gd-p2c1q1-d1e2101"> Ibidem lib. XLVIII. tit. 11. de lege Iu lia repetundarum, [
+            1 . 3.] Marcellus lib. I. pubi. iud. </p>
+          <p xml:id="gd-p2c1q1-d1e2104"> Lege Iulia repetundarum tenetur, qui, cum aliquam
+            potestatem haberet, pecuniam ob iudicandum uel non iudican-dum* decernendumue acceperit,
+            Venuleius Saturninus libro III. publicorum iudiciorum uel quo magis autminus quid ex
+            offitio suo faceret. </p>
+          <p xml:id="gd-p2c1q1-d1e2107"> [C. CXXX.]Idem [eod. tit. 1 . 6.] </p>
+          <p xml:id="gd-p2c1q1-d1e2111"> Eadem lege tenentur, qui ob denunciandum uel non
+            denunciandum testimonium pecuniam acceperint*.§. i. Lege Iulia repetundarum cauetur, ne
+            quis ob mili- </p>
+
+
+
+
+          <p xml:id="gd-p2c1q1-d1e2114"> tem legendum mittendumue es accipiat, neue quis ob
+            sententiam in senatu consilioue publico dicendam pecuniam accipiat, uel ob accusandum
+            uel non accusandum.§. 2. Marcellus ibidem®! d L Iulia de repetundis pre- </p>
+          <p xml:id="gd-p2c1q1-d1e2117"> cipit, ne quis ob iudicem arbitrumue dandum, mutan-dumue,
+            iubendumue, neue ob non dandum, uel s non mutandum, non iubendum, neue ob litem
+            esti-mandam, iudiciumue capitis pecuniaeue faciendum uelnon faciendum aliquid acceperit.
+            §. 3. Hodie exlege repetundarum extra ordinem puniuntur, et plerumque uel exilio
+            puniuntur, uel etiam durius, prout admiserint. §. 4. Hac lege dampnatus testimonium
+            publicedare, aut iudex esse postulareue prohibetur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

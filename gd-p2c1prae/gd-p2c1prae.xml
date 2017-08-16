@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAUSA I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>CAUSA I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c1prae">
+        <head xml:id="gd-p2c1prae-Hd1e103">CAUSA I.</head>
+        <p xml:id="gd-p2c1prae-d1e106"> Quidam habens filium obtulit eum ditissimo cenobio; exactus
+          ab abbate et a fratribus decem libras soluit, ut filius susciperetur, ipso tamen beneficio
+          etatis hoc ignorante. Creuit puer, etper incrementa temporum et offitiorum ad uirilem
+          etatem etsacerdotii gradum peruenit. Exinde suffragantibus meritis inepiscopum eligitur,
+          interueniente obsequio et paternis precibus;data quoque pecunia cuidam ex consiliariis
+          archiepiscopi, consecratur iste in antistitem, nescius paterni obsequii et
+          oblataepecuniae. Procedente uero tempore nonnullos per pecuniamordinauit, quibusdam uero
+          gratis benedictionem sacerdotalemdedit; tandem apud metropolitanum suum accusatus et
+          conuictussententiam in se dampnationis accepit. (Qu. I.) Hic primumqueritur, an sit
+          peccatum emere spiritualia? (Qu. II.) Secundo, an pro ingressu ecclesiae sit exigenda
+          pecunia, uel si exactafuerit, an sit persoluendas (Qu. III.) Tertio, an ingressum
+          ecclesiae uel prehendas emere sit symoniacum ? (Qu. IV.) Quarto, aniste sit reus criminis,
+          quod eo ignorante pater admisit ? (Qu. V.) Quinto, an liceat ei esse in ecclesia, uel
+          fungi ea ordinatione, quam paterna pecunia est assecutus S (Qu. VI.) Sexto, an illi, qui
+          ab eo iam symoniaco ignoranter ordinati sunt, sint abiciendi, an nonf (Qu. VII.) Septimo,
+          si renuncians suae heresi sit recipiendus in episcopali dignitate, uel non? </p>
+      </div>
+    </body>
+  </text>
+</TEI>

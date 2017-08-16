@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO V.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO V.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c14q5">
+        <head xml:id="gd-p2c14q5-Hd1e103"> QUESTIO V.</head>
+
+
+        <p xml:id="gd-p2c14q5-d1e106"> I. Pars. Quod uero elemosinae non sint faciendae ex fenore
+          uel usuris, nec ex quolibet male acquisito, Augustinus testaturin libro de uerbis Domini,
+          tractatu XXXV . : </p>
+        <div xml:id="gd-p2c14q5-Dd1e109">
+          <head xml:id="gd-p2c14q5-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c14q5-Hd1e114" type="question-title"> De usuris elemosinae fieri non
+            possunt.</head>
+          <p xml:id="gd-p2c14q5-d1e117"> Nolite uelle elemosinas facere de fenore et usuris. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e121">
+          <head xml:id="gd-p2c14q5-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c14q5-Hd1e126" type="question-title"> Oblatio de rapina reprobatur a
+            Deo.</head>
+          <p xml:id="gd-p2c14q5-d1e129"> Item Augustinus . </p>
+          <p xml:id="gd-p2c14q5-d1e132"> Inmolans ex iniquo oblatio est maculata. Dona iniquorum non
+            probat altissimus, nec respicit in oblationibusiniquorum, nec in multitudine
+            sacrificiorum eorum propitiabitur peccatis. Qui offert sacrificium ex substantia
+            pau-erum, quasi qui uictimat filium in conspectu patris sui.anis egentium uita pauperis
+            est. Qui defraudat illum homosanguinis est. Qui effundit sanguinem, et qui fraudemfacit
+            necessario, fratres sunt. </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e136">
+          <head xml:id="gd-p2c14q5-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c14q5-Hd1e141" type="question-title"> Non est aliquid rapiendum
+            diuitibus , ut detur egenis. </head>
+          <p xml:id="gd-p2c14q5-d1e144"> Item Augustinus in Omelia . </p>
+          <p xml:id="gd-p2c14q5-d1e147"> Forte aliquis cogitat et dicit: Multi sunt Christiani
+            diuites, auari, cupidi; non habeo peccatum, si illisabstulero, et pauperibus dedero.
+            Unde enim illi nil boniagunt, mercedem habere potero. Sed huiusmodicogitatio ei s
+            Diaboli calliditate suggeritur. Nam sitotum tribuat quod abstulerit, potius peccatum
+            additquam minuat. </p>
+          <p xml:id="gd-p2c14q5-d1e150"> [PALEA.* </p>
+          <p xml:id="gd-p2c14q5-d1e154"> C. IV. De eodem. </p>
+          <p xml:id="gd-p2c14q5-d1e157"> Item Ieronimus. </p>
+          <p xml:id="gd-p2c14q5-d1e160"> Nemo, qui rapit, moriens, si habet unde reddat, salua-tur.
+            Si eos, quorum fuit, inuenire non poterit, ecclesiae uel pauperibus tribuat.] </p>
+          <p xml:id="gd-p2c14q5-d1e163"> [PALE A.C. V. De eodem. </p>
+          <p xml:id="gd-p2c14q5-d1e166"> Item Ambrosius. </p>
+          <p xml:id="gd-p2c14q5-d1e169"> Rapinam emere non licet, nisi ea intentione, ut cui est
+            ablata reddatur.] </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e174">
+          <head xml:id="gd-p2c14q5-Hd1e176">C, VI</head>
+          <head xml:id="gd-p2c14q5-Hd1e179" type="question-title"> Furtum conmittit qui inuentum non
+            reddit. </head>
+          <p xml:id="gd-p2c14q5-d1e182"> Item eiusdem . </p>
+          <p xml:id="gd-p2c14q5-d1e185"> Si quid inuenisti, et non reddidisti, rapuisti; quantum
+            potuisti fecisti. Quia plus non inuenisti. Qui alienum negat, si posset et tolleret. §.
+            i. Deus cor interrogat, non manum. </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e189">
+          <head xml:id="gd-p2c14q5-Hd1e191">C. VII</head>
+          <head xml:id="gd-p2c14q5-Hd1e194" type="question-title"> Qui de rebus concessis et bene
+            quesitis ele-mosinam inpendit , illa placet Deo . </head>
+          <p xml:id="gd-p2c14q5-d1e197"> Item Gregorius [lib. VII. epist. no. ad Syagrium.]* </p>
+          <p xml:id="gd-p2c14q5-d1e200"> Elemosina redemptoris nostri oculis illa placet, que non ex
+            illicitis et iniquitate congeritur, sed que derebus concessis et bene acquisitis
+            inpenditur. </p>
+
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e204">
+          <head xml:id="gd-p2c14q5-Hd1e206">C. VIII</head>
+          <head xml:id="gd-p2c14q5-Hd1e209" type="question-title"> Peccat qui rem inuentam non
+            reddit . </head>
+          <p xml:id="gd-p2c14q5-d1e212"> Item Ieronimus in lib. Leuitici . </p>
+          <p xml:id="gd-p2c14q5-d1e215"> Multi sine peccato putant esse, si alienum, quod
+            inuene-rint, teneant, et dicunt, Deus michi dedit, cui habeo reddere? Discant hoc
+            peccatum simile esse rapinae, si quis inuenta non reddat. </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e219">
+          <head xml:id="gd-p2c14q5-Hd1e221">C. IX</head>
+          <head xml:id="gd-p2c14q5-Hd1e224" type="question-title"> Bonus usus non iustificat iniuste
+            quesita.</head>
+          <p xml:id="gd-p2c14q5-d1e227"> Item Augustinus [lib. de bono coniugali, c. 14.]Neque enim
+            si agris inique ac perperam inuasis itaquisque utatur, ut ex eorum fructibus elemosinas
+            largasfaciat, ideo rapinam iustificat. §. 1. Neque si alius ruripaterno, uel iuste
+            quesito auarus incumbat, ideo culpandaest iuris ciuilis regula, qua possessor legitimus
+            factus est.§. 2. Nec tirannicae factionis peruersitas laudabilis erit, si regia
+            clementia tirannos subditos tractet. §. 3. Necuituperetur ordo regiae potestatis, si rex
+            tirannica crudelitate seuiat. Aliud namque est iniusta potestate iusteuelle uti, et
+            aliud est iusta potestate iniuste uelle uti*. </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e231">
+          <head xml:id="gd-p2c14q5-Hd1e233">C. X</head>
+          <head xml:id="gd-p2c14q5-Hd1e236" type="question-title"> Cum alterius detrimento alteri
+            subuenire non licet.</head>
+          <p xml:id="gd-p2c14q5-d1e239"> Item Ambrosius in lib. [III.] de offitiis , [c. 9.]Denique,
+            si non potest alteri subueniri, nisi alter leda-tur, commodius est neutrum iuuari quam
+            alterum grauari.Ideoque in causis pecuniariis interuenire non est sacerdotale, in quibus
+            non potest fieri, quin frequenter alterledatur, qui uincitur, quoniam intercessoris
+            beneficio se ui-ctum arbitratur. Sacerdotis igitur est nulli nocere, prodesse uelle
+            omnibus; posse autem solius Dei est. </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e243">
+          <head xml:id="gd-p2c14q5-Hd1e245">C. XI</head>
+          <head xml:id="gd-p2c14q5-Hd1e248" type="question-title"> Elemosinae et sacrificia non
+            placent Deo , que offeruntur ex scelere. </head>
+          <p xml:id="gd-p2c14q5-d1e251"> Item Gregorius in Registro , [lib. VII. Indict. 2. epist.
+            126. Reccaredo Regi.] </p>
+          <p xml:id="gd-p2c14q5-d1e254"> Scriptum est: „Victimae inpiorum abhominabiles sunt Deo:
+            uota iustorum placabilia;“ neque enim inomnipotentis Dei iudicio quid, sed a quo detur
+            inspicitur. Hinc est enim quod scriptum est: , , RespexitDeus ad Abel, et ad munera
+            eius; ad Cain autem etad munera eius non respexit/ Dictur.us quippe, quiaDominus
+            respexit ad munera, premisit sollicite, quia respexit ad Abel. Ex qua re patenter
+            ostenditur, quia nonofferens a muneribus, sed munera ab offerente placuerunt*.„Dona
+            quippe iniquorum non probat altissimus, nec respicit in oblationibus s eorum, nec in
+            multitudine sacrificiorum propitiabitur peccatis eorum. Idem: „ Longe estDominus ab
+            inpiis, et orationes iustorum exaudiet/ </p>
+          <p xml:id="gd-p2c14q5-d1e257"> II. Pars. Gratian. Contra™ in Exodo legitur , quod filii
+            Israel , exituri de Egypto , a uicinis suis acceperunt mutuo </p>
+
+
+
+
+          <p xml:id="gd-p2c14q5-d1e261"> uasa aurea et argentea , ex quibus postea edificauerunt
+            tabernaculum Domino. His respondet Augustinus in lib. quest. Exod. [quest. 39O: </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e266">
+          <head xml:id="gd-p2c14q5-Hd1e268">C. XII</head>
+          <head xml:id="gd-p2c14q5-Hd1e271" type="question-title"> Non licet aliena rapere exemplo
+            Israelitarum spoliantium Egyptios.</head>
+          <p xml:id="gd-p2c14q5-d1e274"> Dixit Dominus ad Moysen: „Petat uir a proximo, et mulier a
+            proxima, uasa aurea et argentea, et ues-tem.“ Non hinc quisque sumendum exemplum
+            putaredebet ad exspoliandum isto modo proximum. Hoc enimDeus iussit, qui nouerat quid
+            quemque pati oporteat.Nec Israelitae furtum fecerunt, sed Deo iubenti ministerium
+            prebuerunt. </p>
+          <p xml:id="gd-p2c14q5-d1e277"> III. Pars. Gratian. Item obicitur: Aliena rapere non est
+            contra preceptum: nullo siquidem Dei mandato rapina uideturprohibita. Sed nomine furti
+            omnis illicita usurpatio rei alienaeintelligitur. </p>
+          <p xml:id="gd-p2c14q5-d1e280"> Unde Augustinus in eodem lib. [quest. 71.]: </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e284">
+          <head xml:id="gd-p2c14q5-Hd1e286">C. XIII</head>
+          <head xml:id="gd-p2c14q5-Hd1e289" type="question-title"> Maioris penae est uiolenter
+            aliquid eripere , quam furari. </head>
+          <p xml:id="gd-p2c14q5-d1e292"> Penale est occulte auferre: multo maioris penae est
+            uisibiliter eripere. Auferre ergo nolenti, siue occulte siue </p>
+          <p xml:id="gd-p2c14q5-d1e295"> E alam, habet preceptum suum. Furti enim* nomine ene
+            intelligitur omnis illicita usurpatio rei alienae. Nonenim rapinam permisit qui furtum
+            prohibuit, sed utiquefurti nomine in lege ueteris testamenti et rapinam intelligi
+            uoluit. A parte enim totum significauit, quicquidillicite rerum proximi aufertur. </p>
+          <p xml:id="gd-p2c14q5-d1e298"> Gratian. His auctoritatibus probatur , quod neque ex rebus
+            inuentis , neque ex male conquisitis elemosinam quisquamfacere potest. </p>
+          <p xml:id="gd-p2c14q5-d1e302"> IV. Pars. §. 1. Sed Augustinus contra testatur [serm. XXXV.
+            de uerbis Domini] dicens : </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e306">
+          <head xml:id="gd-p2c14q5-Hd1e308">C. XIV</head>
+          <head xml:id="gd-p2c14q5-Hd1e311" type="question-title"> De male adquisitis bonum fieri
+            potest . </head>
+          <p xml:id="gd-p2c14q5-d1e314"> Qui habetis aliquid de malo, facite inde bonum. Qui non
+            habetis de malo, nolite acquirere de malo. Esto tubonus, qui facis de malo bonum, et cum
+            ceperis aliquidboni facere de malo, noli remanere tu malus. Nummi tuiconuertuntur in
+            bonum, et tu remanes malus? </p>
+          <p xml:id="gd-p2c14q5-d1e317"> Gratian. Sed hoc multipliciter intelligitur. Facit enim de
+            malo bonum qui reddit quod illicite abstulit. Nomine etiam malicura et sollicitudo
+            mortalium exprimitur. De malo ergo bonumfacit qui pauperibus dispensat quod cum labore
+            et sollicitudineacquisiuit , iuxta illud euangelii : „ Facite uobis amicos de mammona
+            iniquitatis. Vel ex malo acquiritur quod ex turpi causapossidetur , ueluii cum
+            mathematicus ex arte , quam docet , uel exfuturis , que pronunciate , nonnulla lucratur.
+            Que uero de malosic acquiruntur in bonum possunt conuerti. De peccato etiamaliqua
+            nonnumquam acquiruntur , que pauperibus iuste erogantur. </p>
+
+          <p xml:id="gd-p2c14q5-d1e320"> Unde Augustinus ad Macedonium , [epist. LIV.]: </p>
+        </div>
+        <div xml:id="gd-p2c14q5-Dd1e324">
+          <head xml:id="gd-p2c14q5-Hd1e326">C. XV</head>
+          <head xml:id="gd-p2c14q5-Hd1e329" type="question-title"> Que male acquiruntur aliquando
+            bene possunt expendi. </head>
+          <p xml:id="gd-p2c14q5-d1e332"> Non sane quicquid ab inuito sumitur iniuriose aufertur. Nam
+            plerique nec medico uolunt reddere honorem suum, nec operario mercedem; nec tamen hec
+            qui ab inuito accipiunt, per iniuriam accipiunt, que potius per iniuriamnon darentur. §.
+            1. Sed non ideo debet iudex uendereiustum iudicium, aut testis uerum testimonium, quia
+            uenditaduocatus iustum patrocinium et iurisperitus uerum consilium. Illi enim inter
+            utramque partem ad examen adhibentur: isti ex una parte consistunt. Cum autem iudiciaet
+            testimonia, que nec iusta et uera uendenda sunt, iniqua et falsa uenduntur, multo
+            sceleratius utique pecuniasumitur, quia scelerate etiam, quamuis a uolentibus,
+            datur.Ille tamen solet male sibi ablatam pecuniam repetere, qui iustum iudicium emit,
+            quoniam uenale esse non debuit.Qui uero pro iniquo iudicio dedit, uellet quidem
+            repetere, nisi timeret uel puderet emisse. §. 2. Sunt aliae personaeinferioris loci, que
+            ab utraque parte non insolenter accipiunt, sicut offitialis, et qui amouetur, et cui
+            admoueturoffitium. Ab his extorta per inmoderatam inprobitatem repeti solent*; magisque
+            reprehendimus qui talia inusitaterepetiuerunt, quam qui ea de more sumpserunt,
+            quoniammultae necessariae personae rebus humanis uel inuitanturhuiusmodi commodis, uel
+            tenentur. §. 3. Isti, si uiam uitaemutauerint, aut excellentioris conscenderint
+            sanctitatisgradum, facilius ea, que hoc modo acquisierunt, tanquamsua pauperibus
+            largiuntur, quam eis, a quibus accepta sunt, tamquam aliena restituant. §. 4. Qui uero
+            contra iussocietatis humanae furtis, rapinis, calumpniis, obpres-sionibus, inuasionibus
+            aliqua abstulerit, reddenda potiusquam donanda censemus, Zachei publicani exemplo. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

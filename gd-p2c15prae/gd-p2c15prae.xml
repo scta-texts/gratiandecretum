@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> CAUSA XV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> CAUSA XV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15prae">
+        <head xml:id="gd-p2c15prae-Hd1e103"> CAUSA XV. </head>
+        <p xml:id="gd-p2c15prae-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c15prae-d1e109"> Clericus quidam crimine carnis lapsus esse perhibetur ante,
+          quam sacerdotalem benedictionem consequeretur. Postquam uero sacerdotium adeptus est, in
+          furorem uersus quendaminterfecit. Recuperata uero sanitate apud episcopum accusaturab ea,
+          cum qua lapsus esse dicitur. Episcopus autem die dominico causam examinat. Sacerdos
+          inficiatur crimen sibi illatum; quorundam clericorum sibi patrocinia querit; illi uero
+          nonsine precio sibi patrocinantur; tandem episcopus questionibus confessionem extorquet;
+          demum solus et absque sinodali audientiaillum sententia ferit. (Qu. I.) Queritur autem, an
+          ea, que mentealienata fiunt, sint inputandaf (Qu. II.) Secundo, an pro '
+          in-pensispatrociniis liceat clericis munera exigere? (Qu. III.) Tertio, an ex mulieris
+          confessione iste sit condempnandus? (Qu.IV.) Quarto, an die dominico eius causa sit
+          uentilanda? (Qu. V.) Quinto , an sibi neganti purgatio sit deferenda f (Qu. VI.) Sexto, an
+          eius confessio cruciatibus sit extorquendaf (Qu. VII.) Septimo, an absque sinodali
+          audientia episcopus ualeat sacerdotemdampnaref (Qu. VIII.) Octauo, si sponte confessus aut
+          ab aliisconuictus fuerit, quod ante ordinationem peccauerit, an susceptiordinis offitium
+          sibi exequi liceat f </p>
+      </div>
+    </body>
+  </text>
+</TEI>

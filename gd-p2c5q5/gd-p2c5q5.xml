@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO V.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO V.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c5q5">
+        <head xml:id="gd-p2c5q5-Hd1e103">QUESTIO V.</head>
+        <p xml:id="gd-p2c5q5-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c5q5-d1e109"> Nunc autem queritur , an sit aliquis iudicandus maliuolus,
+          quia crimen alterius indicat. De hoc ita* scribit Augustinus fserm. III. de communi uita
+          clericorum, seu regula 3., dicens]: </p>
+        <div xml:id="gd-p2c5q5-Dd1e112">
+          <head xml:id="gd-p2c5q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q5-Hd1e117" type="question-title"> Magis nocet qui crimen celat quam
+            qui amicdbiliter indicat . </head>
+          <p xml:id="gd-p2c5q5-d1e120"> Non uos iudicetis maliuolos, quoniam crimen alterius
+            indicatis. Magis quippe nocentes estis, quam si fratres uestros, quos indicando
+            corrigere potestis, tacendoperire permittitis. Si enim frater tuus uulnus habet
+            incorpore, quod uelit occultari, cum timet secari, nonnecrudeliter a te siletur et
+            misericorditer indicatur? quantoergo potius debes manifestares, ne deterius putrescat
+            incorde? </p>
+        </div>
+        <div xml:id="gd-p2c5q5-Dd1e124">
+          <head xml:id="gd-p2c5q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c5q5-Hd1e129" type="question-title"> Nec qui parcit est amicus, nec qui
+            verberat inimicus.</head>
+          <p xml:id="gd-p2c5q5-d1e132"> Idem ad Vincentium Donatistam et Rogatistam , [epist.
+            XLVIII.] </p>
+          <p xml:id="gd-p2c5q5-d1e135"> Non omnis, qui parcit, amicus est, nec omnis, qui uer-berat,
+            inimicus. „ Meliora sunt uulnera amici quam uolun-taria oscula inimici. Melius est cum
+            seueritate diligere quam cum lenitate decipere. §. 1. Utilius esurienti panistollitur,
+            si de cibo securus iustitiam negligebat, quam esurienti panis frangitur, ut iniustitiae
+            seductus acquiescat.§. 2. Et qui freneticum ligat, et qui lethargicum excitat, ambobus
+            molestus ambos amat. §. 3. Quis nos potest amplius amare quam Deus? Et tamen nos non
+            solum doceresuauiter, uerum etiam salubriter terrere non cessat. Fomentis lenibus,
+            quibus consolatur, sepe etiam mordacissimummedicamentum tribulationis adiungit, exercet
+            fame patriarchas, etiam pios et religiosos; populum contumacempenis grauioribus agitat;
+            non aufert ab Apostolo stimulumcarnis tertio rogatus, ut uirtutem in infirmitate
+            perficiat. Et infra : §. 4. Noueris* aliquando furem auertendis pecoribus pabulum
+            spargere, et pastorem aliquando flagelload gregem pecora errantia reuocare. </p>
+
+        </div>
+        <div xml:id="gd-p2c5q5-Dd1e140">
+          <head xml:id="gd-p2c5q5-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c5q5-Hd1e145" type="question-title"> Non odio habetur, sed diligitur ,
+            qui castigatur et corripitur . </head>
+          <p xml:id="gd-p2c5q5-d1e148"> Item ex sermone [LXXXIV.] Ambrosii*, „Amarior fortasse .“ </p>
+          <p xml:id="gd-p2c5q5-d1e151"> Non osculatur pater filium semper, sed aliquandocastigat.
+            Ergo quando castigatur qui diligitur, tunc circaeum pietas exercetur. Habet enim et amor
+            plagas suas, que dulciores sunt, cum amarius inferuntur. Dulcior estenim castigatio
+            religiosa quam blanda remissio. Undeait Propheta: „Dulciora sunt uulnera amici quam
+            uolun-taria oscula inimici.“ </p>
+          <p xml:id="gd-p2c5q5-d1e154"> Gratian. Ex his uerbis datur intelligi, quod magis
+            contulerit utilitati fraternae, qui crimen accusando uel indicando persequitur , quam
+            qui celando fouere nititur. Eusebius au-tem contra statuere uidetur, dum aliorum crimina
+            sponte confitentes in episcoporum accusatione recipi prohibet dicens [epist. I.ad
+            Episcopos Galliae]; </p>
+        </div>
+        <div xml:id="gd-p2c5q5-Dd1e158">
+          <head xml:id="gd-p2c5q5-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c5q5-Hd1e163" type="question-title"> Ad accusationem non admittantur
+            aliorum crimina sponte confitentes.</head>
+          <p xml:id="gd-p2c5q5-d1e166"> Illi, qui aut in fide catholica, aut inimicitia suspecti
+            sunt, ad pulsationem episcoporum non admittantur.Nec illi, qui aliorum sponte crimina
+            confitentur. Et ideoreplicanda sollicite est ueritas, quam sponte prolata inillis habere
+            uox non potest. Hanc diuersis cruciatibus elatebris suis religiosus tortor exigere
+            debet, ut dum peniscorpora subiciuntur, que gesta sunt fideliter et
+            ueraciterexquirantur. </p>
+        </div>
+        <div xml:id="gd-p2c5q5-Dd1e170">
+          <head xml:id="gd-p2c5q5-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c5q5-Hd1e175" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c5q5-d1e178"> Item in Prouerbiis , [c. 11.] </p>
+          <p xml:id="gd-p2c5q5-d1e181"> Qui ambulat fraudulenter, reuelat archana; qui autem fidelis
+            est, celat animi commissum. Et infra[ c.25.]: §. 1.Que uiderunt oculi tui ne proferas in
+            iurgio cito, ne posteaemendare non possis, cum dehonestaueris amicum tuum. </p>
+          <p xml:id="gd-p2c5q5-d1e184"> Gratian. Sed aliud est ex lcaritate aliorum crimina deferre
+            , ut quos secreta ammonitione corrigere non possumus conuictosiudicis sententia
+            corripiat, atque aliud insidiando falsa obicere , uel insultando uera facile exprobrare.
+            Illud autem karitatis, hoc uero inpietatis est offitium. §. I* Unde in eisdem Prouerbiis
+            [cap. 12.] dicitur : „ Verba inpiorum insidiantur sanguini: osiustorum liberabit eos. Et
+            infra: „ Qui quod nouit loquitur , </p>
+
+
+
+
+          <p xml:id="gd-p2c5q5-d1e188"> iudex * iusiitiae est: qui autem mentitur , testis est
+            fraudulentus “ Item : „ Labium ueritatis firmum erit in perpetuum: qui autemtestis est
+            repentinus , concinnat linguam mendacii Item [c. 13.]:„ Qui custodit os suum , custodit
+            animam suam: qui autem inconsideratus est ad loquendum , sentiet mala. Verbum
+            mendaxiustus detestabitur: inpius autem confundit et confundetur .“ §. 2. Item
+            Augustinus in Psal. 34.: „Si aliquando ** humana infirmitate pedes nostri in aliquod
+            peccatum monentur, insurguntlinguae iniquissimae s inimicorum ; cum fuisset miserendum ,
+            irrident inpii , unde dolent pii. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

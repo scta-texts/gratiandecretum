@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6q3">
+        <head xml:id="gd-p2c6q3-Hd1e103"> QUESTIO III. </head>
+
+        <p xml:id="gd-p2c6q3-d1e106"> Iudicium uero archiepiscopi alterius prouinciae alicui
+          expetere non licet . </p>
+
+        <p xml:id="gd-p2c6q3-d1e109"> Unde Gregorius ait [responS. IX. ad Augustinum Anglorum
+          Episcopum]: </p>
+        <div xml:id="gd-p2c6q3-Dd1e112">
+          <head xml:id="gd-p2c6q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c6q3-Hd1e117" type="question-title"> Alterius parrochianum alicui
+            iudicare non licet.</head>
+          <p xml:id="gd-p2c6q3-d1e120"> Scriptum est in lege: „Per alienam messem transiens falcem
+            mittere non debes, sed manu spicas conterere etmanducare/* Falcem enim iudicii mittere
+            non debes inea segete, que alteri uidetur esse conmissa, sed per affectum® boni operis
+            frumenta dominica uiciorum suorum paleisexpolia, et in ecclesiae corpus admonendo et
+            persuadendo, quasi mandendo, conuertere s. </p>
+        </div>
+        <div xml:id="gd-p2c6q3-Dd1e124">
+          <head xml:id="gd-p2c6q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c6q3-Hd1e129" type="question-title"> Quot duitates unaqueque prouincia
+            habeat ^. </head>
+          <p xml:id="gd-p2c6q3-d1e132"> Item Pelagius Papa [II. ep. VIII.] omnibus Episcopis . </p>
+          <p xml:id="gd-p2c6q3-d1e135"> Scitote certam esse prouinciam, que habet X. aut XI»
+            ciuitates, et unum regem, et totidem minores potestatessub se, et unum metropolitanum,
+            aliosque suffraganeosX. uel XI. episcopos iudices, ad quorum iudicium omnescausae
+            episcoporum, et reliquorum sacerdotum, ac ciuitatum referantur, ut ab his omnibus iuste
+            consona uocediscernatur, nisi ad maiorem auctoritatem fuerit abhis, qui iudicandi sunt,
+            appellatum. Unde non oportet, ut degradetur uel dehonoretur unaqueque prouincia; sedapud
+            semetipsam habeat iudices, sacerdotes et episcopos, singulos uidelicet secundum ordines
+            suos, et quicumquecausam habuerit a suis iudicibus iudicetur, et non abalienis, id est a
+            suae iustis iudicibus prouinciae, et nonab extraneis, nisi (ut iam est prelibatum) a
+            iudicandis fueritappellatum. </p>
+        </div>
+        <div xml:id="gd-p2c6q3-Dd1e140">
+          <head xml:id="gd-p2c6q3-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c6q3-Hd1e145" type="question-title"> Non aliorum, sed primatis sui
+            iudicio quisque se subiciat episcopus. </head>
+          <p xml:id="gd-p2c6q3-d1e148"> Item Nicolaus Papa&amp;. </p>
+          <p xml:id="gd-p2c6q3-d1e151"> Denique si Suffredus, tale in se crimen nouerat, quo recte
+            posset episcopatu priuari, uel infirmitate se sentiebatforsitan pregrauari, qua
+            inpeditus nullis posset proximis sua prelatione prodesse, primatis sui debuerat
+            etnonaliorum dioceseon antistitum prestolari iudicium.Quod si quelibet ambiguitas, uel
+            aliqua fortasse super eiusexaminatione, uel episcopatus abrenunciatione obortafuisset
+            contentio, ex more ad apostolicam sedem referriconuenerat, et nostra in his omnibus
+            debuerant cunctidecreta penitus expectare. Quod quia omissum* hactenus dolemus,
+            dilectissimam mihi gloriam uestram uehe-menter efflagito, ut iam dictus Suffredus
+            episcopus propriorestituatur episcopio, et si quid reprehensione dignumgessit, postea
+            uel correctione, uel digna animaduersionediffinietur. </p>
+
+
+
+          <p xml:id="gd-p2c6q3-d1e154"> Gratian. Est tamen casus, in quo episcopus alterius
+            parrochianum excommunicare ualet. </p>
+          <p xml:id="gd-p2c6q3-d1e158"> Unde in Concilio apud Conpendium, [c. 5.]: </p>
+        </div>
+        <div xml:id="gd-p2c6q3-Dd1e162">
+          <head xml:id="gd-p2c6q3-Hd1e164">C. IV</head>
+          <head xml:id="gd-p2c6q3-Hd1e167" type="question-title"> Quando episcopus parrochianum
+            alterius excommunicare ualet.</head>
+          <p xml:id="gd-p2c6q3-d1e170"> Placuit pro communi utilitate , ut nullus episcoporum
+            grauiter ferat, si eius parrochianum pro depredationiscausaalter episcopus
+            excommunicauerit. </p>
+          <p xml:id="gd-p2c6q3-d1e173"> [PALE A. </p>
+          <p xml:id="gd-p2c6q3-d1e176"> C. V. De eodem. </p>
+          <p xml:id="gd-p2c6q3-d1e180"> Item ex Concilio Mei den si, c. 2.. </p>
+          <p xml:id="gd-p2c6q3-d1e183"> De illis autem, qui intra parrochiam beneficium
+            authereditatem habent, et alterius episcopi parrochiani sunt, et de loco ad locum iter
+            faciunt, et rapinam et depre-dationes peragunt, placuit, ut excommunicentur, necante ex
+            parecia exeant, quam que perpetrarunt digneemendent. Quorum excommunicatio seniori eorum
+            et proprio episcopo significanda est, ne eos recipiat ante, quam illuc redeant, ubi
+            rapinam fecerunt, et ibi omniapleniter emendent]. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

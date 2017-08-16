@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO I. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO I. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c29c1">
+        <head xml:id="gd-p2c29c1-Hd1e103"> QUESTIO I. </head>
+
+        <p xml:id="gd-p2c29c1-d1e106"> Quod autem coniugium sit inter eos, probatur hoc modo.
+          Coniugium siue matrimonium est uiri et mulieris coniunctio, indiuiduam uitae consuetudinem
+          retinens. Item consensus utriusque matrimonium facit. Quia ergo isti coniuncti sunt, ut
+          indiuiduam uitae consuetudinem conseruarent, quia uterque consensitin alterum , coniuges
+          sunt appellandi. §. i. His ita respondetur:Consensus est duorum uel plurium sensus in
+          idem. Qui autemerrat non sentit, non ergo consentit, id est simul cum aliissentit . Hec
+          autem errauit; non ergo consensit: non itaqueconiux est appellanda, quia non fuit ibi
+          consensus utriusque, sinequo nullum matrimonium esse potest. Sicut enim qui ordinatur
+          abeo, quem putat esse episcopum, et adhuc est laicus, errat, nec uo-catur ordinatus, immo
+          adhuc ab episcopo est ordinandus: sic istaerrans nulli est copulata coniugio, immo adhuc
+          est copulanda. §. 2. Ad hec, non omnis error consensum euacuat; qui enimaccipit in uxorem
+          *, quam putat uirginem, uel qui accipit meretricem, quam putat esse castam, uterque errat
+          , quia ille corruptam existimat esse uirginem, et iste meretricem reputat castam . Numquid
+          ergo dicendi sunt non consensisse in eas f autdabitur utrique facultas dimittendi
+          utramque, et ducendi aliam ?Verum est, quod non omnis error consensum excludit; sed
+          erroralius est personae, alius fortunae, alius condicionis, aliusqualitatis. Error
+          personae est, quando hic putatur esse Vir-gilius, et ipse est Plato. Error fortunae,
+          quando putatur essediues qui pauper est, uel e conuerso. Error condicionis, quandoputatur
+          esse liber qui seruus est. Error qualitatis, quandoputatur esse bonus qui malus est. Error
+          fortunae et qualitatisconiugii consensum non excludit. Error uero personae et condicionis
+          coniugii consensum non admittit. Si quis enim pacisceretur, se uenditurum agrum Marcello.,
+          et postea ueniret Paulusdicens se esse Marcellum, et emeret agrum ab illo, numquid
+          cumPaulo conuenit iste de precio, aut dicendus est agrum sibi uendi-disse? Item si quis
+          promitteret, se uenditurum michi aurum, etpro auro offerret michi auricalcum , et ita me
+          deciperet, numquid dicerer consensisse in auricalcum ? Numquam uolui emereauricalcum, nec
+          ergo aliquando in illud consensi, quia consensusnon nisi uoluntatis est. Sicut ergo hic
+          error materiae excluditconsensum, sic et in coniugio error personae. Non enim consensit in
+          hunc, sed in eum, quem hunc putabat esse. §. 3. Sed obicitur : Iacob non consenserat in
+          Liam, sed in Rachel:septem quidem annis pro Rachel seruierat. Cum ergo eo </p>
+
+        <p xml:id="gd-p2c29c1-d1e109"> ignorante Lia esset sibi subposita, non fuit coniugium inter
+          eos, si error personae consensum excludit, quia , ut dictum est, non ineam consenserat,
+          sed in Rachel. His ita respondetur: Consensusest alius precedens, alius subsequens.
+          Precedit consensus, quando ante carnalem copulam in indiuiduam uitae consuetudinem uter
+          que consentit; subsequitur, quando post concubinalemsiue fornicarium coitum consentiunt in
+          idem. Iacob ergo et Liamnon fecit coniuges precedens consensus, sed subsequens; nectamen
+          ex primo concubitu fornicarii iudicantur, cum ille maritaliaffectu eam cognouerit, et illa
+          uxorio affectu sibi debitum persol-uerit, putans lege primogenitarum et paternis irtperiis
+          se sibi iurecopulatam. §. 4. Quod autem error personae nonnullos excuset, illa auctoritate
+          probatur, qua soror uxoris utroque inscio, sororeuidelicet et marito, in lectulums eius
+          iisse\ et a uiro suaesororis cognita perhibetur, que cum sine spe coniugii perpetuomanere
+          censeatur, ille tamen, qui cognouit eam per ignorantiam, excusatur. Aliter etiam hoc
+          probatur. Diabolus nonnumquamse in angelum lucis transformat, nec est periculosus error,
+          si tunccreditur esse bonus, cum se bonum simulat. Si ergo tunc abaliquo simplici quereret,
+          an suae beatitudinis uellet esse particeps, et ille responderet, se in eius consortium
+          uelle transire, numquid dicendus esset ' consensisse in consortium diabolicae
+          dam-pnationis, an non pocius in participationem eternae claritatis?Item, si quis
+          hereticorum, nomine Augustini, uel Ambrosii, uelIeronimi, alicui catholicorum se ipsum
+          offerret, atque eum adsuae fidei imitationem prouocaret, si ille preberet assensum,
+          incuius fidei sentenciam diceretur consensisse ? non in hereticorumsectam, sed in$
+          integritatem catholicae fidei, quam ille hereticusse mentiebatur habere. Quia ergo hec
+          persona decepta errore nonin hunc, sed in eum, quem iste se mentiebatur esse, consensit ,
+          patet, quod eius coniux non fuerit. §. 5. Error fortunae et </p>
+        <p xml:id="gd-p2c29c1-d1e112"> qualitatis non excludit consensum, ueluti si quis consentiret
+          in prelaturam alicuius ecclesiae, quam putaret esse diuitem, et illaesset minus copiosa,
+          quamuis hic deciperetur errore fortunae, nontamen posset renunciare prelaturae acceptae.
+          Similiter, quenubit pauperi, putans illum esse diuitem, non potest renunciarepriori
+          condicioni, quamuis errauerit. Error qualitatis similiternon excludit consensum; utpote si
+          quis emerit agrum uel uineam, quam putaret esse uberrimam, quamuis iste erraret qualitate
+          rerum, rem minus fertilem emendo, non potest tamen uen-ditionem rescindere. Similiter, qui
+          ducit meretricem in uxoremuel corruptam, quam putat esse castam uel uirginem, non
+          potesteam dimittere, et^° aliam ducere. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

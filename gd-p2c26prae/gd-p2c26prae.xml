@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> CAUSA XXVI. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> CAUSA XXVI. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c26prae">
+        <head xml:id="gd-p2c26prae-Hd1e103"> CAUSA XXVI. </head>
+        <p xml:id="gd-p2c26prae-d1e106"> GRATIANUS. </p>
+
+        <p xml:id="gd-p2c26prae-d1e109"> Quidam sacerdos sortilegus esse et diuinus conuincitur apud
+          episcopum; correctus ab episcopo noluit cessare; excommunicatur; tandem agens in extremis
+          reconciliatur a quodam sacerdoteepiscopo inconsulto ; indicitur penitencia sibi sub
+          quantitate temporis canonibus prefixa. (Qu. I.) Primum queritur, qui sintsortilegi? (Qu.
+          II.) Secundo, an sit peccatum esse sortilegum? (Qu. III.) Tertio, a quibus genus
+          diuinationis sumpsit exordium? (Qu. IV.) Quarto, quot sint genera diuinationis? (Qu. V.)
+          Quinto, an sortilegi uel diuini sint excommunicandi, si cessare noluerint? (Qu. VI.)
+          Sexto, an excommunicatusab episcopo possit reconciliari a presbitero, illo inconsulto?
+          (Qu. VII.) Septimo, si monentibus est indicenda penitencia subquantitate temporis ? </p>
+      </div>
+    </body>
+  </text>
+</TEI>

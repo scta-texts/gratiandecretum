@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c28q1">
+        <head xml:id="gd-p2c28q1-Hd1e103">QUESTIO I.</head>
+        <p xml:id="gd-p2c28q1-d1e106"> GRATIANUS, </p>
+        <p xml:id="gd-p2c28q1-d1e109"> I. Pars. Quod* inter infideles coniugium non sit,
+          multisauctoritatibus probatur. Ait enim Paulus : „Omne, quod nonest ex fide, peccatum est.
+          Coniunctio autem infidelium non estex fide, et ideo peccatum est. Non est ergo coniugium,
+          quianullum coniugium peccatum est. Item Augustinus*: „Non estuera pudicitia hominis
+          infidelis cum coniuge sua. Ubi autemuera pudicitia esse non potest , ibi nec uerum
+          coniugium est. ItemAmbrosius**: „Iussit Hesdras dimitti uxores alienigenas , perquas ibant
+          ad Deos alienos. Non est enim putandum matrimonium, quod extra Dei decretum est factum.
+          Sed cum cognoscitur , est emendandum .“ Item Augustinus***: , , Non est ratum </p>
+
+
+
+
+        <p xml:id="gd-p2c28q1-d1e112"> coniugium, quod sine Deo est. His omnibus auctoritatibus
+          probatur, coniugium non esse inter infideles. §. i. Econtra inueniuntur aliae
+          auctoritates, quibus probatur coniugium esseinter infideles . Quarum prima est illud
+          euangelii, quod Christusait: „ Erunt quinque in una domo, duo in tres, et tres in duos
+          dividentur, Deinde, cum personas illas enumeraret , uxoremin uirum esse diuidendam dixit,
+          et e conuerso. Item: „ Qui nonodit patrem, aut matrem, aut sororem aut uxorem, propter me,
+          non est me dignusuxorem infidelem, non fidelem dicit odiohabendam. Item: „ Omnis , qui
+          reliquerit domum, aut patrem, aut matrem, aut sororem, uel uxorem centuplum accipiet
+          etc.Uxorem in hoc loco infidelem significat, que propter Christumdimittitur, dum potius
+          ipsa, quam Christi fides deseritur. ItemApostolus^: „Si quis frater uxorem habet
+          infidelem, et hec consentitis habitare cum illo, non dimittat illam, et si qua mulierhabet
+          uirum infidelem, et hic consentit habitare cum illa, nondimittat uirum, Sanctificatus est
+          enim uir infidelis per mulierem fidelem, et sanctificata est mulier infidelis per uirum
+          fidelem.Item ad Titum i: , , Hortare adolescentulas, ut diligant uir ossuos. Hoc tam de
+          fidelibus quam de infidelibus intelligendumest. Infidelibus namque uiris fideles mulieres
+          propensiuspropter Deum debent obsequi, ut sic uir os suos Christo lucrariualeant. Sicut in
+          passione B. Clementis de Theodora et Sisin-nio legitur mirabiliter contigisse . </p>
+        <div xml:id="gd-p2c28q1-Dd1e115">
+          <head xml:id="gd-p2c28q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c28q1-Hd1e120" type="question-title"> Bigami probantur qui ante
+            baptismum habuerunt unam, et post baptismum alteram.</head>
+          <p xml:id="gd-p2c28q1-d1e123"> Item Innocentius Papa Rufo et Eusebio, Episcopis
+            Macedonibus, [epist. XXII. c. 2.] </p>
+          <p xml:id="gd-p2c28q1-d1e126"> Numquid non erunt admittendi in hereditatis consortium, qui
+            ex ea suscepti sunt, que ante baptismum fuerituxor? eruntque appellandi naturales, quia
+            non estmatrimonium legitimum (ut uobis uidetur) nisi illud, quodpost baptismum
+            assumitur? Ipse Dominus, cum interrogaretur a Iudeis, si liceret dimittere uxorem, atque
+            exponeretfieri non debere, addidit: , , Quod Deus coniunxithomonon separet.“ Ac ne de
+            his putetur esse locutus, quipost baptismum uxores sortiuntur, hoc et a Iudeis
+            interrogatum, et Iudeis esse responsum meminerint. Quero, et sollicitus quero, si una et
+            eadem sit uxor eius, quiante catecuminus, postea fidelis fit, filiosque exea, cum esset
+            catecuminus, susceperit, et postea aliosfilios, cum fidelis, utrum sint fratres
+            appellandi, an nonhabeant postea defuncto patre cum ceteris hereditatisherciscundae
+            consortium, quibus filiorum nomen regeneratio spiritualis dicitur abstulisse? Quod cum
+            itaiudicare atque sentire absurdum est, que ratio est hoc malum defendi, et uacua magis
+            oppinione iactari, quam aliquaauctoritate roborari, cum non possit inter peccata
+            deputariquod lex precipiti, et Deus coniunxit? </p>
+
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e131">
+          <head xml:id="gd-p2c28q1-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c28q1-Hd1e136" type="question-title"> In fidelis potestate sit post
+            baptismum uxorem recipere, quam ante dimiserat.</head>
+          <p xml:id="gd-p2c28q1-d1e139"> Item ex Decreto Euiiciani Papae . </p>
+          <p xml:id="gd-p2c28q1-d1e142"> II. Pars. Si quis gentilis gentilem uxorem dimiseritante
+            baptismum, post baptismum in potestate eius eriteam habere, uel non habere. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e146">
+          <head xml:id="gd-p2c28q1-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c28q1-Hd1e151" type="question-title"> Fidelis infidelem discedentem
+            sequi non cogitur.</head>
+          <p xml:id="gd-p2c28q1-d1e154"> IdemM. </p>
+          <p xml:id="gd-p2c28q1-d1e157"> Simili modo, si unus ex coniugatis baptizatus est, et alter
+            gentilis, et sequi nonuult, sicut dicit Apostolus, infidelis si discedit, discedat. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e161">
+          <head xml:id="gd-p2c28q1-Hd1e163">C. IV</head>
+          <head xml:id="gd-p2c28q1-Hd1e166" type="question-title"> Sine culpa relinquitur uxor, que
+            cum fideli habitare noluerit.</head>
+          <p xml:id="gd-p2c28q1-d1e169"> Item Augustinus de fide et operibus, [c. i6.] </p>
+          <p xml:id="gd-p2c28q1-d1e172"> Uxor* legitima societate coniuncta sine ulla culpa
+            relinquitur, si cum uiro Christiano permanere noluerit. Non adtenditur, eo modo eam
+            rectissime dimitti, si uiro suodicat: Non ero uxor tua, nisi michi uel de
+            latrociniodiuitias congreges, aut nisi solita lenocinia, quibus nostram domum
+            transigebas, etiam Christianus exerceas, autsi quid aliud uel facinorosum aut
+            flagitiosum in uironouerat, quo delectata uel libidinem explebat, uel facilemuictum
+            habebat uel etiam incedebat ornatior. Tunc enimille, cui uxor hec dixit, si ueraciter
+            egerit penitenciamab operibus mortuis, quando ad baptismum accessit, habet-que in
+            fundamento fidem, que per dilectionem operatur, proculdubio plus tenebitur amore diuinae
+            gratiae, quamcarnis luxuria^, et membrum, quod eum scandalizat, fortiter amputabit. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e176">
+          <head xml:id="gd-p2c28q1-Hd1e178">C. V</head>
+          <head xml:id="gd-p2c28q1-Hd1e181" type="question-title"> Licite dimittitur uxor, que uirum
+            suum cogere querit ad malum.</head>
+          <p xml:id="gd-p2c28q1-d1e184"> Idem in sermone Domini in monte, lib. I. [c. 27. et 28.] </p>
+          <p xml:id="gd-p2c28q1-d1e187"> Idolatria, quam secuntur infideles, et quelibet noxia
+            superstitio fornicatio est. Dominus autem permisit causafornicationis uxorem dimitti.
+            Sed quia permisit, et noniussit, dedit Apostolo locum monendi, ut qui uoluerit
+            nondimittat uxorem infidelem, quo sic fortassis possit fidelisfieri. Item [c. 28.I: §.
+            1. Si infidelitas fornicatio est, etidolatria infidelitas, et auaritia idolatria, non
+            est dubitandum, et auaritiam fornicationem esse. Quis ergo iam quamlibet illicitam
+            concupiscentiam potest recte a fornicationisgenere separare, si auaritia fornicatio est?
+            Ex quo intelligitur, quod propter illicitas concupiscentias non tantum quein stupris cum
+            alienis uiris aut feminis conmittuntur, sedomnino quaslibet, que animam corpore male
+            utentem alege Dei aberrare faciunt, et perniciose turpiterque cor- </p>
+
+
+
+
+          <p xml:id="gd-p2c28q1-d1e190"> rumpi, possit sine crimine et uir uxorem suam dimittere, et
+            uxor uirum; quia exceptam facit Dominus causam fornicationis, quam fornicationem (sicut
+            supra consideratum est) generalem et uniuersalem intelligere cogimur.Cum autem ait:
+            „Excepta fornicationis causa, “ nons, cuius ipsorum, uiri aut feminae. Non enim
+            fornicantemtantum uxorem dimittere conceditur, sed quisquis eamquoque uxorem dimittit, a
+            qua ipse cogitur fornicari, causautique fornicationis dimittit; uelut si aliquem cogat
+            uxorsacrificare idolis. Qui talem dimittit causa fornicationisdimittit, non tantum
+            illius, sed et suae; illius, quia fornicatur : suae, ne fornicetur. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e194">
+          <head xml:id="gd-p2c28q1-Hd1e196">C. VI</head>
+          <head xml:id="gd-p2c28q1-Hd1e199" type="question-title"> Que simulacrum facit , nec
+            resipiscit , dimittatur a uiro . </head>
+          <p xml:id="gd-p2c28q1-d1e202"> Idem de adulterinis coniugiis , lib. II .* </p>
+          <p xml:id="gd-p2c28q1-d1e205"> Non solum mechatio est illius, que carnem suam coinquiat,
+            sed etiam que simulacrum facit mechatur.Quod si in his factis perseuerat, et penitenciam
+            non agit, recede ab illa, et noli uiuere cum illa. Sin autem, et tuparticeps eius
+            peccati eris. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e209">
+          <head xml:id="gd-p2c28q1-Hd1e211">C. VII</head>
+          <head xml:id="gd-p2c28q1-Hd1e214" type="question-title"> Amore cuiuslibet non est a fide
+            recedendum.</head>
+          <p xml:id="gd-p2c28q1-d1e217"> Item Ambrosius ad Hylarium*, </p>
+          <p xml:id="gd-p2c28q1-d1e220"> „Si infidelis“ (dicit Apostolus) „discedit, discedat; non
+            est seruituti subiectus frater aut soror in huiusmodi, “id est: si infidelis noluerit
+            esse cum coniuge fideli, hic agnoscat fidelis suam libertatem, ne ita se subiectum putet
+            seruituti, ut ipsam dimittat fidem, ne con-iugem amittat infidelem. Hoc et de filiis
+            atque parentibus, hoc et de fratribus atque sororibus intelligitur, propter Christum
+            dimittendos esse, cum ponitur istacondicio, ut Christum** dimittat, si eum s secum
+            habere desiderat. Hoc ergo et de domo et de agris, et deceteris rebus, que iure
+            pecuniario possidentur, in-telligendum est. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e225">
+          <head xml:id="gd-p2c28q1-Hd1e227">C. VIII</head>
+          <head xml:id="gd-p2c28q1-Hd1e230" type="question-title"> Quod infideles sunt coniuges , et
+            quod fideli licet dimittere infidelem. </head>
+          <p xml:id="gd-p2c28q1-d1e233"> Item Augustinus ad Pollentium , [lib. I. de adulter,
+            coniugiis, c. 13. et 14.] </p>
+
+          <p xml:id="gd-p2c28q1-d1e236"> III. Pars. Iam nunc illud uideamus, quod ait Apostolus: „
+            Ceteris autem ego dico, non Dominus, adinparia scilicet, ubi non ambo Christiani
+            fuerant, con-iugia locuturus. Quod michi uisum est eum monendodixisse. Quia enim coniux
+            fidelis relinquere coniugem licitepotest infidelem, ideo hoc fieri non Dominus, sed
+            Apostolus prohibet. Quod enim Dominus prohibet fieri omninonon licet. Monet ergo
+            Apostolus, quod possit essemultorum occasio lucrandorum, ut fideles coniuges in
+            relinquendis infidelibus permissa licentia non utantur. Tibiautem uidetur, infideles
+            quoque dimitti a fidelibus nonlicere, quia hoc uetat Apostolus, cum ego dicam licere,
+            quia hoc non uetat Dominus; non tamen expedire, quiahoc ne fiat monet Apostolus, qui
+            reddit etiam rationem, cur fieri non expediat, quamuis liceat. „ Quid enimscis“ (inquit)
+            „mulier, si uirum saluum facies? aut undescis uir, si uxorem saluam facies ?“ cum etiam
+            superiusdixisset: , , Sanctificata ests uir infidelis in mulierefideli, et mulier
+            infidelis sanctificata est in fratre “ (hocest in Christiano). „Alioquin filii uestri,
+            inmundi essent:nunc autem sancti sunt.“ Sic ad lucrandos coniuges et filiosChristo etiam
+            exemplis, que iam prouenerant, uidetur hortatus. Cur ergo non expediat etiam
+            infidelesconiuges dimitti a fidelibus, causa euidenter expressa est.Non enim propter
+            uinculum cum talibus coniugale seruandum, sed ut querantur in Christo, recedi ab
+            infidelibus coniugibus Apostolus uetat. Multa sunt autemfacienda non iubente lege, sed
+            libera karitate, et ea suntin nostris offitiis gratiora, que, cum liceret nobis etiamnon
+            inpendere, tamen causa dilectionis inpendimus. UndeDominus ipse prior, cum se tributum
+            non debere mon-strasset, soluit tamen, ne scandalizaret eos, quibus adeternam salutem
+            gerens morem consulebat. Iam ueroApostolus, quemadmodum ista conmendet, eius
+            uerbatestantur, ubi dicit: „Cum sim liber ex omnibus, omnium ne seruum feci, ut plures
+            lucrifacerem, “ cum paulosuperius dixisset: „Numquid non habemus licentiammanducandi et
+            bibendi? numquid non habemus licentiamsororem mulierem circumducendi, sicut et p ceteri
+            Apostoli, et fratres Domini, et Cephas? An ego solus, etBarnabas non habemus potestatem
+            hoc operandi? Quismilitat suis stipendiis umquam? Quis plantat uineam, etde fructu eius
+            non edit? Quis pascit gregem, et de lactegregisi non comedit?^ Et paulo post; „Si alii,
+            “ inquit, , , potestatis uestrae iure participant, nonnemagis nos? sed non sumus usi hac
+            potestate, sed omniatolleramus, ne quod inpedimentum demus euangelio Christi. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e240">
+          <head xml:id="gd-p2c28q1-Hd1e242">C. IX</head>
+          <head xml:id="gd-p2c28q1-Hd1e245" type="question-title"> Ab infidelibus coniugibus licet
+            alicui recedere^ sed non expedit. </head>
+          <p xml:id="gd-p2c28q1-d1e248"> Item [ibidem, c. 18. et sequentibus.] </p>
+
+          <p xml:id="gd-p2c28q1-d1e251"> Sic enim neque recedere ab uxoribus infidelibus uel maritis
+            fideles uiri uel feminae non prohibentur a Domino, ut neque iubeantur. Nam si dimittere
+            tales coniugesiuberentur, nullus locus esset consilio monentis Apostoli, nehoc fieret.
+            Nullo modo enim quod Dominus iubet seruusDomini prohibet. Item : Cum ergo
+            cepissetgentibus euangelium predicari, iunctos^ gentilesgentilibus conperit coniugibus.
+            Ex quibus si nonambo crederent, sed unus aut una et infidelis cum fideliconsentiret
+            habitare, nec prohiberi a Domino debuitfidelis infidelem dimittere, nec iuberi: ideo
+            scilicet nonprohiberi, quia iusticia permittit a fornicante discedere, etinfidelis
+            hominis fornicatio est maior in corde, nec uera eiuspudicitia cum coniuge quidem dici
+            potest, quia omne, quod non est ex fide, peccatum est, quamuis ueram fidelishabeat
+            pudicitiam etiam cum infideli coniuge, que nonhabet ueram. Ideo autem nec iuberi
+            debuerunt fideles abinfidelibus separari, quia non contra iussionem Dominigentiles
+            fuerunt ambo coniuncti. §. i. Quoniam ergo abinfideli fidelem discedere non prohibet,
+            nec iubet Dominus: ideo, ut non discedat, Apostolus dicit, nonDominus, habens utique
+            Spiritum sanctum, in quo dareposset utile et fidele consilium. Unde cum dixisset
+            demuliere, cuius uir mortuus fuerit: „Beatior autem erit, sisic permanserit, secundum
+            consilium meum/’' ne quis hocconsilium tamquam humanum, non diuinum, contem-pnendum
+            putaret, adierit: „Puto autem, quod et egospiritum Dei habeam.“ Proinde intelligendum
+            est, etiamipsa, que a Domino non iubentur, sed a sancto eius famuloutiliter suadentur,
+            eodem Domino inspirante suaderi. Absit enim, ut quisquam catholicus dixerit, quod
+            suadetSpiritus sanctus non Dominum suadere, cum et ipseDominus sit, et inseparabilia
+            sint opera Trinitatis. Dicittamen Apostolus: , , De uirginibus autem preceptumDomini non
+            habeo; consilium autem do, “ non ut hoc consilium alienum existimemus a Domino, cum
+            continuosequatur, et dicat: , , tamquam misericordiam consecutus aDomino, ut fidelis
+            essem.“ Secundum Deum ergo datconsilium fidele in eodem p spiritu, de quo ait:
+            „Putoautem, quod et ego spiritum Dei habeam.“ §. 2.Verumtamen aliud est Domini iubentis
+            inperium, aliudserui q secundum misericordiam karitatis, que illi a Domino est inspirata
+            atque donata, fidele consilium. Aliudenim ibi facere non licet, hic autem licet, ita
+            sane, ut licitum ipsum partim quidem expediat, partim uero nonexpediat. Expedit tunc,
+            quando non solum propteriusticiam, que coram Deo est, permittitur, sed etiamhominibus
+            nullum ex hoc inpedimentum salutis infertur;uelut cum dat consilium non nubendi
+            Apostolus uirginibus(unde preceptum Domini se non habere testatur), licet aliudfacere,
+            id est nubere, etminus continentiae bonumtenere in nuptiis, ipsumque licitum etiam
+            expedit, quoniam in uetita et illicita ruituram carnis infirmitatemsic excepit*
+            honestate nubendi, ut neminem inpediatad salutem, quamuis magis expediret magisque
+            honestumesset, si uirgo consilium, quo preceptum eam non conpellit, arriperet. Tunc
+            autemy non expedit id, quod licitumest, quando permittitur quidem, sed usus ipsius
+            potestatisaliis affert inpedimentum salutis, sicut est (unde iamdiuloquimur) discessio
+            coniugis fidelis ab infideli, quam nonprohibet Dominus precepto legis, quia coram illo
+            iniustanon est, sed prohibet Apostolus consilio karitatis, quia infidelibus affert
+            inpedimentum salutis non solum, quiaperniciosissime scandalizantur offensi, uerum etiam,
+            quia, cum in alia coniugia ceciderint uiuentibus eis, a quibusdimittuntur, adulterinis
+            nexibus colligati difficile resol-uuntur. §. 3. Ideo hic, ubi, quod licet, non expedit,
+            non potest dici, si dimiserit infidelem, bene facit, sinon dimiserit, melius facit,
+            sicut dictum est: „Qui datnuptum bene facit, et qui non dat nuptum melius facit;quoniam
+            illud non solum sed utrumque pariterlicet (unde ad nichil horum precepto Domini
+            quisqueconpellitur), sed utrumque expedit, aliud minus, aliudamplius. Unde ad id, quod
+            amplius expedit, consilioApostoli quicumque potest capere prouocatur. Hic autem, ubi de
+            dimittendo uel non dimittendo infidelis cumfideli coniugio queritur, utrumque quidem
+            pariter licitum est per iusticiam, que coram Domino est, et ideo nichilhorum prohibet
+            Dominus; sed utrumque non expedit propter infirmitatem ss hominum, et ideo id, quod
+            nonexpedit, Apostolus prohibet, Domino dante sibi liberumprohibendi locum, quia neque
+            id, quod monet Apostolus, prohibet Dominus, neque id, quod prohibet Apostolus, iubet
+            Dominus. Quod nisi ita esset, neque contra prohibitionem Domini Apostolus aliquid
+            moneret, neque contraiussionem eius aliquid prohiberet. §. 4. Proinde in hisduabus
+            causis, una de nubendo uel non nubendo, alterade infideli coniuge dimittenda uel non
+            dimittenda, aliquid simile est in uerbis Apostoli, aliquid dissimile. Simile quidem est
+            illud, quod et ibidicit: , , Preceptum Domini non habeo, consilium autemdo, “ et hic
+            dicit: „Ego dico, non Dominus.“ Quale estenim: „preceptum Domini non habeo, “ tale est:
+            „non dicitDominus, “ et quale est: „consilium do, “ tale est: „egodico.“ Illud autem
+            dissimile est, quia de nubendo uelnon nubendo dici potest, hoc bene fieri potest,
+            illudautem pp melius, quoniam utrumque expedit, unum minus, aliud magis: at uero de
+            coniuge infideli dimittendo uel non dimittendo, quoniam unum horum nonexpedit, aliud
+            expedit, dici non oportet, qui dimittit benefacit, et qui non dimittit melius facit: sed
+            dici oportet, non dimittat, quia scilicetnon expedit. Sic ergopossumus dicere, melius
+            esse infidelem coniugem nondimittere, quamuis liceat et dimittere, quemadmodumrecte
+            dicimus melius esse quod licet et expedit, quamid, quod licet et non expedit. §. 5. His
+            de causis factum </p>
+
+
+
+
+          <p xml:id="gd-p2c28q1-d1e254"> est, ut exponens Domini sermonem, quem prolixum in monte
+            habuit, ubi uentum est ad questionem de coniugi-bus dimittendis uel non dimittendis,
+            adhibuerim abApostolo , non preceptum Domini, ubi ait: „Ceterisautem ego dico, non
+            Dominus, monens eos, qui habentconiuges infideles, ut consentientes habitare secum
+            nondimitterent. Quod utique ideo monendum, non iubendumfuit, quia non tanto pondere
+            prohibentur homines facerelicita, quamuis non expediant, quanto pondere prohibendasunt
+            illicita. Si autem alicubi Apostolus etiam illa, que iubenda sunt, monere dignatur, hoc
+            facit xx parcendo infirmitati, non preiudicando iussioni. Unde sicdixit: „Non ut
+            confundam uos, hec scribo, sed utfilios karissimos moneoquid habet questionis, ubiait:
+            „Ego dico, non Dominusitem, ubi ait: , , Ecce egoPaulus dico uobis, quia, si
+            circumcidamini, Christus uobisnichil proderit?“ Numquid etiam hic dixit: Ecceego dico,
+            non Dominus? Non sunt itaque ista similia, quiaetiam illa, que iubet Dominus, non est
+            indignum uelcontrarium, si eadem monet Apostolus. Monemus enimquos karos habemus, ut
+            faciant Domini precepta uel iussa.Cum uero dicit: „Ego dico, non Dominus, satisostendit,
+            Dominum non prohibere quod ipse prohibebat.Prohibuisset autem Dominus, si esset
+            illicitum. Ergo secundum ea, que supra diximus multumque uersaui-mus, licitum erat per
+            iusticiam; sed etiam licitum nonerat faciendum propter liberam beniuolentiam. §.6.
+            Tuautem, cui placet ita non licere quod non uetat Dominus, sed Apostolus, quemadmodum
+            non licet quod uetatDominus, cum exponere uoluisses, quid sibi uelitsgg quodait: „Ego
+            dico, non Dominus/ cum alloqueretur fideles, quibus essent coniuges infideles, dixisti,
+            quia Dominusiussit, ne coniugia sibimet diuersae religionis copularentur, et ipsum
+            adhibuisti testimonium Domini dicentis:„Non accipies uxorem filio tuo de filiabus
+            alienigenarum, ne traducat eum post Deos suos, ut pereat animaeius. Addidisti etiam
+            uerba Apostoli, ubi ait: „Mulieralligata est, quamdiu uir eius uiuit; quod si
+            mortuusfuerit uir eius, liberata est; cui uult nubat: tantum inDomino/ Quod ita
+            exposuisti, ut adiungeres: id estChristiano. Deinde secutus es, et addidisti: Hoc est
+            ergoDomini preceptum tam in ueteri testamento quam innouo, et hoc iubet Dominus, hoc
+            docet Apostolus, ut nonnisi eiusdem religionis et fidei maneant copulata coniugia: quare
+            contra Domini iussum, contra doctrinamsanctam , contra preceptum ueteris et noui
+            testamentiiubet Apostolus*, ut diuersae fidei maneant coniugia copulata? Quia Paulus,
+            inquit, Predicator gentium et apostolus, iam in coniugio positos non solum monet, sed
+            etiamiubet, ut si alter ex coniugibus credidisset, alterum ppp non credentem, secum
+            habitare tamen consentientem, non dimitteret. His uerbis tuis aliud hoc esse, aliud
+            illud, satis euidenter ostendis. Illud enim de hisconiugiis agitur, que non sunt
+            primitus copulata wi, nenubat femina nisi suae religionis uiro, uel ne uir talemducat
+            uxorem; id enim (ut dicis) iubet Dominus, docetApostolus, utrumque precipit testamentum.
+            Hoc autemdiuersum esse quis abnuat, ibi agitur non de con-iungendis, sed de coniunctis?
+            Ambo quippe unius eiusdem-que infidelitatis fuerunt, quando coniuncti sunt;
+            sedeuangelium cum uenisset, alter sine altera, uel altera sinealtero credidit. Si ergo
+            aliud est hoc (quod sine scrupuloullius dubitationis apparet), cur fidelem cum infideli
+            con-iuge permanere non licet nonne etiamDominus, sicut Apostolus iubet? Nisi forte loco
+            isto uacatillud quod tam fideliterxxx Apostolus ait:„ An uultis experimentum accipere
+            eius, qui in me loquiturChristus? Et utique Dominus est Christus. §. 7. Intelli-gisne
+            quid dicam? An in hoc explanando aliquanto diligentius inmorabor? Attende, utrem ipsam
+            explanandam tamquam in conspectu declarandam planiore sermoneponamus. Ecce, coniuges duo
+            unius infidelitatis itafuerunt, quando iuncti sunt. Nulla de his questioest, que
+            pertineat ad illam Domini iussionem, doctrinamqueapostolicam, et preceptum testamenti
+            ueteris et noui, quoprohibetur fidelis cum infideli copulare coniugium. Iamsunt
+            coniuges, et ambo adhuc sunt infideles; adhuc talessunt, quales fuerunt ante, quam
+            coniungerentur, quales que coniuncti sunt. Venitque euangelii Predicator, credidit eorum
+            autgggg unus, aut una; sed ita, ut infidelis cum fideli habitare consentiat. Iubet
+            fideliDominus, ut infidelem dimittat, an non iubet? Sidixeris, iubet, reclamat
+            Apostolus: „Ego dico, non Dominus. Si dixeris, non iubet, causam requiro. Neque
+            illammichi responsurus es, quam tuis litteris indidisti, quia Dominus uidelicet prohibet
+            fideles infidelibus iungi. Hicenim nullo modo est ista causa; de iam iunctis loquimur,
+            non de coniungendis. Si ergo tuamcausam non inuenisti, cur non uetet Dominus quod
+            prohibet 353 mmmm Apostolus: (cernis iam, ut estimo, non esse ipsam, quam esse
+            putaueras)pppp. </p>
+
+          <p xml:id="gd-p2c28q1-d1e258"> IV. Pars. Gratian. Contra^ inuenitur in Concilio Tollet ano
+            IV. [c. 62.]; </p>
+
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e262">
+          <head xml:id="gd-p2c28q1-Hd1e264">C. X</head>
+          <head xml:id="gd-p2c28q1-Hd1e267" type="question-title"> Nisi ad fidem ludeus accesserit,
+            separetur ab uxore fideli.</head>
+          <p xml:id="gd-p2c28q1-d1e270"> Iudei, qui Christianas mulieres in coniugio habent,
+            admoneantur ab episcopo ciuitatis illius, ut, si cum eis permanere cupiunt, Christiani
+            efficiantur. Quod si admonitinoluerint, separentur, quia non potest infidelis in eius
+            permanere coniunctione, que iam in Christianam translata estfidem. Filii autem, qui ex
+            talibus nati sunt, fidem atque condicionem matris sequantur. Similiter illi,
+            quiprocreati sunt de infidelibus mulieribus et fidelibus uiris, Christianam sequantur
+            religionem, non Iudaicam supersti-cionem. </p>
+          <p xml:id="gd-p2c28q1-d1e273"> Gratian. Verum hoc ideo statutum est, ne, dum fidelis
+            salutem querit infidelis, pocius ipse cum eo infidelitatis perditionem inueniat. Unde in
+            eodem Concilio £c. 59.] tam de filiis ludeorum quam de ceteris ad fidem uementibus
+            statutum est, ut infidelium consortia euitent : </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e277">
+          <head xml:id="gd-p2c28q1-Hd1e279">C. XI</head>
+          <head xml:id="gd-p2c28q1-Hd1e282" type="question-title"> A parentum* separentur consortio
+            fideles , ne eorum inuoluantur erroribus. </head>
+          <p xml:id="gd-p2c28q1-d1e285"> ludeorum filios uel filias, ne parentum ultra inuoluantur
+            erroribus, ab eorum consortio separari decernimus, deputatos aut monasteriis, aut
+            Christianis mulieribus ac uiris, Deum timentibus, ut sub eorum conuersa-tione cultum
+            fidei discant, atque melius institutitam in moribus quam in fide proficiant. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e289">
+          <head xml:id="gd-p2c28q1-Hd1e291">C. XII</head>
+          <head xml:id="gd-p2c28q1-Hd1e294" type="question-title"> Iudeis ad fidem uenientibus cum
+            infidelibus™ nulla sit conmunio. </head>
+          <p xml:id="gd-p2c28q1-d1e297"> Item [in eodem, c. 61.] </p>
+          <p xml:id="gd-p2c28q1-d1e300"> Sepe malorum consortia etiam bonos corrumpunt; quanto magis
+            eos, qui ad uicia proni sunt? Nulla igitur ultraconmunio sit Hebreis ad fidem
+            Christianam [translatis cumhis, qui adhuc in ueteri ritu consistunt, ne forte
+            eorumparticipatione subuertantur. Quicumque ergo amodoex his, qui baptizati sunt,
+            infidelium consortia non uitaue-rint, et hi Christianis donentur, et illi publicis
+            cedibus deputentur. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e304">
+          <head xml:id="gd-p2c28q1-Hd1e306">C. XIII</head>
+          <head xml:id="gd-p2c28q1-Hd1e309" type="question-title"> Cum Iudeis nec manducandum, nec
+            habitandum, nec ab eis medicamentum accipiendum est . </head>
+          <p xml:id="gd-p2c28q1-d1e312"> Item ex VI. Sinodo, [c. 11.] </p>
+          <p xml:id="gd-p2c28q1-d1e315"> Nullus eorum, qui in sacro sunt ordine, aut laicus azima
+            eorum manducet, aut cum eis habitet aut aliquemeorum in infirmitatibus suis uocet, aut
+            medicinam abeis percipiat, aut cum eis in balneo lauet. Si uero quisquam hoc fecerit, si
+            clericus est, deponatur, laicus uero, excommunicetur. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e320">
+          <head xml:id="gd-p2c28q1-Hd1e322">C. XIV</head>
+          <head xml:id="gd-p2c28q1-Hd1e325" type="question-title"> Clerici siue laici ludeorum
+            conuiuia uitent, nec ad sua consortia eos recipiant . </head>
+          <p xml:id="gd-p2c28q1-d1e328"> Item ex Concilio Agat en si, [c. 40.] </p>
+
+          <p xml:id="gd-p2c28q1-d1e331"> Omnes deinceps clerici siue laici ludeorum conuiuia uitent,
+            nec eos quisquam ad conuiuium excipiat, quia, cum apud Christianos conmunibus cibis non
+            utantur, indignum atque sacrilegum est eorum cibos a Christianissumi, cum ea, que
+            Apostolo permittente nos sumimus, abillis iudicentur inmunda, ac sic inferiores
+            Christiani incipient esse, quam Iudei, si nos que ab illis apponunturutamur, illi uero a
+            nobis oblata contempnant. </p>
+          <p xml:id="gd-p2c28q1-d1e334"> V. Pars. Gratian. Ex his itaque euidenter colligitur ,
+            coniugium esse inter infideles. Illud uero Apostoli: „ Quic-quid non est ex fide,
+            peccatum est , “ non ita intelligendum est , ut quicquid ab infidelibus fit peccatum
+            esse credatur, sed omne, quod contra conscientiam fit, edificat ad gehennam.
+            UndeAmbrosius *: „ Peccatum est, quod aliter fit quam probatum est.§. 1. Item
+            Augustinus** super eundem locum: , , Omne, quodaliter fit quam probatur *, peccatum est;
+            non tamen omne , quod fit cum fide, bonum est. Ignorantia enim, que est ex culpanocete
+            Hinc etiam Apostolus ait : , , Beatus, qui non iudicatsemetipsum in eo , quod probat , “
+            id est qui non facit dampnabi-lem*** semetipsum, aliter faciendo quam probet esse
+            faciendum . Vel omne, quod non est ex fide, dicitur esse peccatum, quia quicquid non fit
+            ea fide, ut ad eternam ualeat salutem, inutile reputatur apud Dominum . Unde Augustinus
+            ait: „ Omnis uitainfidelium peccatum est, nec ualet bonum esse quod fit absqueDeo +. Ubi
+            enim deest agnitio eternae et inconmutabilis ueritatis, falsa uirtus est etiam in
+            optimis moribus .“§. 2. Item cum </p>
+          <p xml:id="gd-p2c28q1-d1e338"> dicitur: „non est uera pudicitia hominis infidelis cum
+            coniuge sua, negatur pudicitia esse uer a quantum ad effectum, adpremium uidelicet
+            eternae salutis. Sicut enim apud hereticossacramenta negantur esse uera, non quantum ad
+            formam, sedquantum ad uirtutem, sic et uirtutes negantur apud infideles esseuerae, non
+            quin uerae sint in eis, iuxta illud Ieronimi: „ Virtutibus ++ Romani promeruerunt
+            inperium, sed quia effectu carenteternae salutis. §. 3. Item illud Ambrosii*^: „Non est
+            in-putandum * f matrimonium, quod extra Dei decretum factum est;sed cum cognoscitur, est
+            emendandum , “ non ostendit coniugium non esse inter infideles. Nullo enim Domini
+            preceptogentiles prohibentur coniungi gentilibus. Nec ergo eorum coniugium extra i. e.
+            contra*s Dei decretum fit. Illa itaque auctoritate iubentur separari ab inuicem qui
+            contra Dei uel ecclesiaedecretum copulati sunt, utpote infideles cum fidelibus *,
+            consanguinei * cum consanguineis, uel affines cum affinibus. Hiiomnes, si sibi inuicem
+            copulati fuerint, separandi sunt. </p>
+          <p xml:id="gd-p2c28q1-d1e341"> Hinc etiam idem Ambrosius in libro de Patriarchis, </p>
+          <p xml:id="gd-p2c28q1-d1e344"> [lib. I. de Abraham, c. 9.]: </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e348">
+          <head xml:id="gd-p2c28q1-Hd1e350">C. XV</head>
+          <head xml:id="gd-p2c28q1-Hd1e353" type="question-title"> Fideles infidelibus non sunt
+            coniugio sociandi** . </head>
+          <p xml:id="gd-p2c28q1-d1e356"> Caue, Christiane, gentili aut Iudeo filiam tuam tradere,
+            Caue, inquit, gentilem, aut Iudeam atque alienigenam, hoc est hereticam, et omnem
+            alienam a fide tua uxoremaccersas tibi. Prima coniugii fides gratia castitatis est.§. i.
+            Si Christiana sit, non est satis, nisi ambo initiatisitis sacramento baptismatis. Simul
+            ad orationem nocteuobis surgendum est, et coniunctis precibus obsecrandusDeus. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e360">
+          <head xml:id="gd-p2c28q1-Hd1e362">C. XVI</head>
+          <head xml:id="gd-p2c28q1-Hd1e365" type="question-title"> Cum hereticis catholici non
+            misceant coniugia . Item ex Concilio Agat en si, [c. 67.] </head>
+          <p xml:id="gd-p2c28q1-d1e368"> Non oportet cum omnibus hereticis miscere conubia, et uel
+            filios uel filias dare, sed potius accipere, si tamen se profitentur Christianos esse
+            futuros etcatholicos. </p>
+        </div>
+        <div xml:id="gd-p2c28q1-Dd1e372">
+          <head xml:id="gd-p2c28q1-Hd1e374">C. XVII</head>
+          <head xml:id="gd-p2c28q1-Hd1e377" type="question-title"> Christiana conmunione careat qui
+            Iudaicae prauitati coniugali uinculo se sociat. </head>
+          <p xml:id="gd-p2c28q1-d1e380"> Item ex Concilio Aruernensi *. </p>
+          <p xml:id="gd-p2c28q1-d1e383"> Si quis Iudaicae prauitati coniugali societate iungi-tur,
+            siue Christiana Iudeo, siue Iudea Christiano mulier carnali consortio misceatur,
+            quicumque eorumtantum nefas admisisse cognoscitur, a Christiano cetuatque conuiuio, et a
+            conmunione ecclesiae protinus segregetur. </p>
+          <p xml:id="gd-p2c28q1-d1e386"> Gratian. Item illud Augustini : „Non est ratum con-iugium,
+            quod sine Deo est, “ non negat coniugium esse inter infideles. Coniugium enim aliud est
+            legitimum et non ratum, aliud ratum et non legitimum, aliud legitimum et ratum.
+            Legitimumconiugium est, quod legali institutione uel prouinciae moribuscontrahitur. IIoc
+            inter infideles ratum non est, quia non estfirmum et inuiolabile** coniugium eorum. Dato
+            enim libellorepudii licet eis discedere ^inuicem, et aliis copulari lege </p>
+          <p xml:id="gd-p2c28q1-d1e390"> fori, non lege poli, quam non secuntur. Inter fideles uero
+            ratum coniugium est, quia coniugia, semel inita inter eos, ulterius soluinon possunt.
+            Horum quedam sunt legitima, ueluti cum uxor aparentibus traditur, a sponso dotatur, et
+            'a sacerdote benedicitur.Hec talia coniugia legitima et rata appellantur. Illorum
+            ueroconiugia, qui contemptis omnibus illis solempnitatibus solo affectualiquam sibi in
+            coniugem copulant, huiuscemodi^ coniugiumnon legitimum, sed ratum tantummodo esse
+            creditur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

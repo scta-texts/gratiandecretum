@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO II. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c20q2">
+        <head xml:id="gd-p2c20q2-Hd1e103"> QUESTIO II. </head>
+
+        <p xml:id="gd-p2c20q2-d1e106"> I. Pars. De his uero, qui preter uoluntatem parentumtonsuram,
+          uel religiosam uestem susceperint, sic diffinitur in Concilio X. Tolletano [c. 6.]: </p>
+        <div xml:id="gd-p2c20q2-Dd1e109">
+          <head xml:id="gd-p2c20q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c20q2-Hd1e114" type="question-title"> Tonsura uel uestis religiosa in
+            minori etate suscepta a parentibus irrita fieri potest. </head>
+          <p xml:id="gd-p2c20q2-d1e117"> Si in qualibet minori etate uel religionis tonsuram uel
+            religioni debitam uestem, in utroque sexu filiis aut unus autambo parentes dederint
+            forte*, aut nolentibus uel nescientibus se susceptam non mox uisam in filiis
+            abdicauerint, sed uel coram se, uel coram episcopo, palamque in con-uentu eosdem filios
+            talia habere permiserint, ad secularemreuerti habitum ipsis filiis quandoque penitus non
+            licebit, sedconuicti, quod tonsuram aut religiosam uestem aliquandohabuerint, mox ad
+            religionis cultum habitumque reuocen-tur, et sub strenua districtione huiusce
+            obseruantiaeinseruire cogantur. §. i. Parentibus sane filios suos religionicontradere
+            non amplius quam usque ad decimum**e tatis eorum annum licentia poterit esse; postea
+            uero, an cum uoluntate parentum, an si suae deuotionis sitsolitarium uotum, erit filiis
+            licitum religionis assumere cultum* §. 2. Quisquis autem uel abolitione tonsurae,
+            uelsecularis uestis assumptione detectus fuerit attigisse transgressionem, et
+            excommunicationis censuram accipiat, etreligioni semper inhereat. </p>
+        </div>
+        <div xml:id="gd-p2c20q2-Dd1e121">
+          <head xml:id="gd-p2c20q2-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c20q2-Hd1e126" type="question-title"> Usque ad annos XII. paternae
+            uoluntatis puella subiaceat arbitrio. </head>
+          <p xml:id="gd-p2c20q2-d1e129"> Item ex Concilio Triburiensi, [c. 24.] </p>
+
+          <p xml:id="gd-p2c20q2-d1e132"> Puella, si ante XII. etatis annos sponte sua sacrum sibi
+            assumpserit uelamen, possunt statim parentes eius ueltutores id factum irritum facere,
+            si uoluerint. At siannum et diem dissimulando consenserint, ulterius necipsi, nec ipsa
+            mutare poterunt. §. 1. Si uero infortiori etate adolescentula uel adolescens seruire Deo
+            elegerintj non est potestas parentibus prohibendi. </p>
+          <p xml:id="gd-p2c20q2-d1e135"> II. Pars. Gratian. Velamen autem nulli sanctimonia-lium
+            alteri inponere licet. </p>
+          <p xml:id="gd-p2c20q2-d1e139"> Unde Eutycianus Papa ait : </p>
+          <p xml:id="gd-p2c20q2-d1e142"> [C. III.] </p>
+          <p xml:id="gd-p2c20q2-d1e145"> Statuimus, ut si abbatissa aut quelibet sanctimonialis post
+            hanc diffinitionem in tantam audaciam proruperit, ut aut uiduam, aut puellam uirginem
+            uelare presumatiudicio canonico usque ad satisfactionem subdatur. </p>
+          <p xml:id="gd-p2c20q2-d1e148"> III. Pars. Gratian. Hac auctoritate predicta^ et
+            paternaprofessione docetur astringi quilibet in puerilibus annis, et preteruoluntatem
+            eorum proposito suscepto perhibetur teneri, nisi tonsuram uel religiosam uestem parentes
+            mox uisam abdicauerint.Paruuli uero, dum offeruntur , nonnisi sub multorum
+            testimoniosuscipiendi sunt. </p>
+          <p xml:id="gd-p2c20q2-d1e151"> Unde in nona Sinodo legitur *: </p>
+        </div>
+        <div xml:id="gd-p2c20q2-Dd1e155">
+          <head xml:id="gd-p2c20q2-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c20q2-Hd1e160" type="question-title"> Infantes oblati a parentibus sub
+            plurimorum testimonio suscipiantur.</head>
+          <p xml:id="gd-p2c20q2-d1e163"> Oportet infantes cum uoluntate et consensu parentum, imo ab
+            ipsis parentibus oblatos, sub testimonio plurimorumsuscipi, ut omnis occasio maledicti
+            gratia excludatur hominum pessimorum**. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

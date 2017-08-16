@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO IV. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO IV. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6q4">
+        <head xml:id="gd-p2c6q4-Hd1e103"> QUESTIO IV. </head>
+
+        <p xml:id="gd-p2c6q4-d1e106"> Porro cuius iudicium sibi expetendum sit, si iudices electi
+          inter se discordare ceperint, in Laudicensi Concilio [c. 14.], sic inuenitur diffinitum *: </p>
+        <div xml:id="gd-p2c6q4-Dd1e109">
+          <head xml:id="gd-p2c6q4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c6q4-Hd1e114" type="question-title"> A quo sit ferenda sententia,
+            quando conprouinciales episcopi discordant. </head>
+          <p xml:id="gd-p2c6q4-d1e117"> Si quis episcopus criminaliter in iudicio episcoporum fuerit
+            accusatus, contingat autem episcopos prouinciae, quiconuenerint, diuersas habere
+            sententias, et alios quideminnocentem eum pronunciare, alios reum, propter huiusmodi
+            controuersiam amputandam placuit sanctae Sinodometropolitanum** episcopum alterius
+            uicinae prouinciaeaduocari, et aliquantos cum eo episcopos alios, qui pariterresidentes
+            quecumque fuerit &gt; dirimant questionem, propter hoc, ut sit firmum iudicium, quod ab
+            unius prouinciaeepiscopis fuerit promulgatum. </p>
+
+        </div>
+        <div xml:id="gd-p2c6q4-Dd1e121">
+          <head xml:id="gd-p2c6q4-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c6q4-Hd1e126" type="question-title"> Quando electi iudices inter se de
+            sententia discordes extiterint^, de uicina prouincia archiepiscopus aduocetur. </head>
+          <p xml:id="gd-p2c6q4-d1e129"> Item ex Concilio Martini Papae . </p>
+          <p xml:id="gd-p2c6q4-d1e132"> Si quis episcopus in aliquibus iudicatur, et uiderit ipsos
+            episcopos, qui in prouincia sua sunt, inter se iudiciodiscrepare, ut alii uideantur eum,
+            qui iudicatur, iustificare, alii condempnare, pro diffinitione huius dissensionis
+            hocplacuit sanctae smodo , ut de prouincia uicina alter metropolitanus conuocetur
+            episcopus, ut per eum confirmetur quodsecundum rectum placuerit canonem. </p>
+          <p xml:id="gd-p2c6q4-d1e135"> Gratian. Nisi eadem prouincia primatem habuerit, ad quem
+            negotia, que per metropolitanum terminari non ualent, referendasunt . </p>
+          <p xml:id="gd-p2c6q4-d1e139"> Unde Bonifatius Papa, Episcopis * Galliae: </p>
+        </div>
+        <div xml:id="gd-p2c6q4-Dd1e143">
+          <head xml:id="gd-p2c6q4-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c6q4-Hd1e148" type="question-title"> Primati deferantur negotia, que
+            metropolitanus explicare non ualet.</head>
+          <p xml:id="gd-p2c6q4-d1e151"> Si inter episcopos eiusdem concilii dubitatio emerserit de
+            ecclesiastico iure uel de aliis negotiis, primum metropolitanus eorum cum aliis
+            quibusdam in concilio considerans rem diiudicet, et si non adquiescat utraquepars
+            iudicatis, tunc primas regionis inter ipsos audiat, et quod ecclesiasticis canonibus et
+            legibus nostris consentaneum sit, hoc diffiniat, et nulla pars calculo eius
+            ualeatcontradicere. </p>
+          <p xml:id="gd-p2c6q4-d1e154"> [PALE A. </p>
+          <p xml:id="gd-p2c6q4-d1e157"> C. IV. De eodem. </p>
+          <p xml:id="gd-p2c6q4-d1e161"> Item Alexander Papa. </p>
+          <p xml:id="gd-p2c6q4-d1e164"> Si metropolitanus a quocumque conprouinciali episcopo* in
+            causa propria appellatus eum audire distulerit, in proxima Sinodo negotii sui habeat
+            licentiam exercendi, et quicquid per iustitiam a conprouincialibus suisfuerit statutum
+            debet custodiri]. </p>
+          <p xml:id="gd-p2c6q4-d1e167"> Gratian. Sed^ si omnium conprouincialium concordi sententia
+            fuerit dampnatus, manebit erga eum inmobilis censura.Unde in Laudicensi Concilio, [cap.
+            15.] legitur: </p>
+        </div>
+        <div xml:id="gd-p2c6q4-Dd1e172">
+          <head xml:id="gd-p2c6q4-Hd1e174">C. V</head>
+          <head xml:id="gd-p2c6q4-Hd1e177" type="question-title"> Episcopus, qui ab episcopis suae
+            prouinciae consonam sententiam reportauerit, ob aliis iudicari non poterit . </head>
+          <p xml:id="gd-p2c6q4-d1e180"> Si quis episcopus criminaliter accusatus ab omnibus, qui
+            sunt intra prouinciam, episcopis exceperit unam con- </p>
+
+
+
+          <p xml:id="gd-p2c6q4-d1e183"> sonamque sententiam, ab aliis ulterius iudicari non poterit,
+            sed manere circa eum oportet tamquam conuenientem, queab omnibus prolata est, firmam
+            ratamque sententiam. </p>
+          <p xml:id="gd-p2c6q4-d1e186"> Gratian. Subintelligendum uero est, nisi ad iudicem maioris
+            auctoritatis fuerit prouocatum . Tunc enim per appellationemsoluta sententia firmitatem
+            non obtinet. </p>
+          <p xml:id="gd-p2c6q4-d1e190"> Unde Nicolaus Papa ait [in epist. ad Carolum Regem, cuius
+            initium: „Numquam dolorem generat."]: </p>
+        </div>
+        <div xml:id="gd-p2c6q4-Dd1e194">
+          <head xml:id="gd-p2c6q4-Hd1e196">C. VI</head>
+          <head xml:id="gd-p2c6q4-Hd1e199" type="question-title"> Semel diffinitum retractari non
+            licet, nisi ubi maior auctoritas fuerit . </head>
+          <p xml:id="gd-p2c6q4-d1e202"> Quod bene semel diffinitum est et interpositis iura-mentis
+            deliberatum, nulla debet iteratione, nisi fortassis ubi fuerit maior auctoritas,
+            retractari. </p>
+        </div>
+        <div xml:id="gd-p2c6q4-Dd1e206">
+          <head xml:id="gd-p2c6q4-Hd1e208">C. VII</head>
+          <head xml:id="gd-p2c6q4-Hd1e211" type="question-title"> In renouatione iudicii memoria B.
+            Petri est habenda.</head>
+          <p xml:id="gd-p2c6q4-d1e214"> Item ex Concilio Sardicensi, [c. 4.]. </p>
+          <p xml:id="gd-p2c6q4-d1e217"> Osius episcopus dixit: „Quod si aliquis episcopus
+            adiudicatus fuerit in aliqua causa, et putat se bonamcausam habere, alterum iudicium
+            renouetur, si uobislacet, S. Petri apostoli memoriam honoremus, ut scri-atur uel ab his,
+            qui examinauerunt, uel etiam ab aliisepiscopis, qui in prouincia proxima morantur,
+            Romano episcopo. Et si iudicauerit renouandum esse iudicium, renouetur et det iudices.
+            Si autem probauerit talem causam, ut ea non refricentur, que acta sunt, que
+            decreueritRomanus episcopus confirmata erunt. Si hoc ergo omnibusplacet, statuatur."
+            Sinodus respondit: Placet. </p>
+          <p xml:id="gd-p2c6q4-d1e220"> Codicis lib. IV. tit. de probationibus : Actor , quod
+            as-seuerat profitendo se probare non posse, reum necessitate monstrandi contrarium non
+            astringit, cum per rerum naturamfactum negantis probatio nulla sit. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

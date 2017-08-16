@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c32q3">
+        <head xml:id="gd-p2c32q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c32q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c32q3-d1e109"> De tercia uero questione Pelagius diffinit, scribens Potent
+          io Defensori : </p>
+        <div xml:id="gd-p2c32q3-Dd1e112">
+          <head xml:id="gd-p2c32q3-Hd1e114">C. UN</head>
+          <head xml:id="gd-p2c32q3-Hd1e117" type="question-title"> Arbitrium liberi aui, non
+            originarii patris, puellam in nuptiis sequi oportet.</head>
+          <p xml:id="gd-p2c32q3-d1e120"> Patrem puellae ecclesiae uestrae famulum, auum uero liberis
+            ortum constat esse natalibus, et ideo aui magis electionem de coniunctione neptis, quam
+            patris eius, cuius nullo modo liberum potest esse arbitrium, decernimusattendi. </p>
+          <p xml:id="gd-p2c32q3-d1e123"> Gratian. Quia ergo electione aui huic ista nupsisse
+            probatur , hanc constat legitime sibi copulatam. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO I. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO I. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c10q1">
+        <head xml:id="gd-p2c10q1-Hd1e103"> QUESTIO I. </head>
+
+        <p xml:id="gd-p2c10q1-d1e106"> I. Pars. De prima questione sic diffinitur in
+          ConcilioYlerdensi , [cap. 3.]: </p>
+        <div xml:id="gd-p2c10q1-Dd1e109">
+          <head xml:id="gd-p2c10q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c10q1-Hd1e114" type="question-title"> Basilica , que consecratur , a
+            diocesiana lege non segregetur. </head>
+          <p xml:id="gd-p2c10q1-d1e117"> Si ex laicis quisquam a se factam basilicam consecrari
+            desiderat, nequaquam eam sub monasterii specie, ubi congregatio non colligitur*, a
+            diocesiana lege audeat segregare. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e121">
+          <head xml:id="gd-p2c10q1-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c10q1-Hd1e126" type="question-title"> Ecclesiae cum dotibus suis in
+            episcopi potestate consistant . </head>
+          <p xml:id="gd-p2c10q1-d1e129"> Item ex Concilio Tolletano III. [c. 19.] </p>
+          <p xml:id="gd-p2c10q1-d1e132"> Sic quidam contra omnem auctoritatem ecclesias, quas
+            edificauerint, postulant consecrari, ut dotem, quam eidem ecclesiae contulerint,
+            censeant ad episcopiordinationem non pertinere. Quod factum taliter* in preterito
+            corrigatur, ut et in futuro ne fiat prohibeatur, et omnia secundum constitutionem
+            antiquam ad episcopi ordinationem et potestatem pertineant. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e136">
+          <head xml:id="gd-p2c10q1-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c10q1-Hd1e141" type="question-title"> Ecclesiae et omnia iura earum ad
+            episcopi ordinationem pertinent . </head>
+          <p xml:id="gd-p2c10q1-d1e144"> Item ex Concilio II. Cabillonensi. </p>
+          <p xml:id="gd-p2c10q1-d1e147"> Decretum est ut omnes ecclesiae cum dotibus suis, et
+            decimis, et omnibus suis*, in episcopi potestate consistant, atque ad ordinationem suam
+            semper pertineant. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e152">
+          <head xml:id="gd-p2c10q1-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c10q1-Hd1e157" type="question-title"> Unaqueque parrochia episcopi
+            prouisione regatur . </head>
+          <p xml:id="gd-p2c10q1-d1e160"> Item Leo IV. [in epistola ad Episc. Britanniae, c. 2.] </p>
+          <p xml:id="gd-p2c10q1-d1e163"> Regenda est unaqueque parrochia sub provisione ac tuitione
+            episcopi per sacerdotes uel ceteros clericos, quosipse cum Dei timore preuiderit cui
+            iure pertinere uidetur, et circuire, ut sibi necessarium uisum fuerit
+            ecclesiasticautilitate cogente. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e167">
+          <head xml:id="gd-p2c10q1-Hd1e169">C. V</head>
+          <head xml:id="gd-p2c10q1-Hd1e172" type="question-title"> Iudicio et potestate episcopi res
+            ecclesiasticae gubernentur. </head>
+          <p xml:id="gd-p2c10q1-d1e175"> Item ex Concilio Antioceno , [c. 24.] </p>
+
+          <p xml:id="gd-p2c10q1-d1e178"> Quecumque* res ecclesiasticae sunt conuenit cum omni
+            diligentia et bona fide, que Deo debetur, qui omniapreuidet et cuncta iudicat, gubernari
+            et dispensaricum iudicio et potestate episcopi, cui totius plebis animaeuidentur esse
+            conmissae. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e182">
+          <head xml:id="gd-p2c10q1-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c10q1-Hd1e187" type="question-title"> Basilicarum conditores in rebus
+            ecclesiarum nullam se potestatem habere cognoscant. </head>
+          <p xml:id="gd-p2c10q1-d1e190"> Item ex Concilio Tolletano IV. [c. 32.]Nouerint conditores
+            basilicarum, in rebus, quas eisdemecclesiis conferunt, nullam se potestatem habere,
+            sediuxta canonum instituta sicut ecclesiam, ita et dotemeius ad ordinationem episcopi
+            pertinere. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e194">
+          <head xml:id="gd-p2c10q1-Hd1e196">C. VII</head>
+          <head xml:id="gd-p2c10q1-Hd1e199" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c10q1-d1e202"> Item ex Concilio Aurelianensi [I. c. 17.]De his, que
+            parrochiis in terris, uineis, mancipiisatque peculiis quicumque fideles obtulerint,
+            antiquorumcanonum statuta seruentur, ut in episcoporumpotestate consistant. De his
+            tamen, que altario accesserint, tertia pars fideliter episcopis deferatur. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e206">
+          <head xml:id="gd-p2c10q1-Hd1e208">C. VIII</head>
+          <head xml:id="gd-p2c10q1-Hd1e211" type="question-title"> De his , que altario offeruntur ^
+            , medietatem sibi episcopus uendicet. </head>
+          <p xml:id="gd-p2c10q1-d1e214"> Item ex eodem , [c. 16.] </p>
+          <p xml:id="gd-p2c10q1-d1e217"> Antiquos canones relegentes priora statuta
+            credimusrenouanda, ut de his, que in altario oblationes fideliumconferuntur, medietatem
+            sibi episcopus uendicet, et medietatem sibi dispensandam secundi gradus clerus accipiat
+            tam de propriis prediis, quam de omni commoditate in episcoporum potestate durantibus.
+          </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e221">
+          <head xml:id="gd-p2c10q1-Hd1e223">C. IX</head>
+          <head xml:id="gd-p2c10q1-Hd1e226" type="question-title"> De episcopis , qui diocesim suam
+            uisitare contempnunt et ad redimendas mansiones , que uisitantibus debentur , clericos
+            cogunt . </head>
+          <p xml:id="gd-p2c10q1-d1e229"> Item ex Concilio Tolletano *. </p>
+          <p xml:id="gd-p2c10q1-d1e232"> Relata est coram sancta Sinodo querimonia plebium, quod
+            sint quidam episcopi nolentes ad predicandum uelad confirmandum suas per annum
+            parrochias circuire, qui tamen exigunt, ut mansiones, quibus in profectione
+            utidebuerant, alio precio redimant qui parare debent.Que duplex infamia, negligentiae et
+            auaritiae sanctaeSinodo magno fuit horrori. Statuerunt itaque, ne quisultra exerceat id
+            cupiditatis ingenium, et ut sollicitioressint episcopi de suis gregibus uisitandis. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e237">
+          <head xml:id="gd-p2c10q1-Hd1e239">C. X</head>
+          <head xml:id="gd-p2c10q1-Hd1e242" type="question-title"> Annuis uicibus ecclesiae ab
+            episcopis uisitentur.</head>
+          <p xml:id="gd-p2c10q1-d1e245"> Item ex Concilio Terraconensis [c. 8.] </p>
+          <p xml:id="gd-p2c10q1-d1e248"> Decreuimus, ut antiquae consuetudinis ordo seruetur, et
+            annuis uicibus ab episcopo dioceses uisitentur, et si quaforte basilica fuerit reperta
+            destituta, ordinatori* eiusreparari precipiatur, ab episcopis autem tertia parsex
+            omnibus" accipiatur sicuti antiqua traditione nouimus esse statutum. </p>
+          <p xml:id="gd-p2c10q1-d1e251"> II. Pars. Gratian. Si autem episcopus inualitudine
+            in-peditus dioceses suas per semetipsum uisitare non poterit , uisita-tionis offitium
+            aliis conmittat. </p>
+          <p xml:id="gd-p2c10q1-d1e255"> Unde in Tollet ano Concilio IV. [c. 35.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e259">
+          <head xml:id="gd-p2c10q1-Hd1e261">C. XI</head>
+          <head xml:id="gd-p2c10q1-Hd1e264" type="question-title"> Inualitudine grauatus episcopus
+            uisitationis offitium aliis conmittat.</head>
+          <p xml:id="gd-p2c10q1-d1e267"> Episcopum per cunctas dioceses parrochiasque suas per
+            singulos annos ire oportet, ut exquirat, quo unaquequebasilica in reparatione sui
+            indigeat. Quod si ipse autlanguore detentus aut aliis occupationibus inplicatusadinplere
+            nequiuerit, presbiteros probabiles autdiacones mittat, qui et redditus basilicarum, et
+            reparationes, et uitam ministrantium inquirant. </p>
+          <p xml:id="gd-p2c10q1-d1e270"> III. Pars. Gratian. Visitantes autem episcopi quid
+            aclericis suis exquirere debeant , et quid eos docere , in ConcilioBracarensi /J. [cap.
+            1.] sic statutum legitur: </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e274">
+          <head xml:id="gd-p2c10q1-Hd1e276">C. XII</head>
+          <head xml:id="gd-p2c10q1-Hd1e279" type="question-title"> Que uisitantes episcopi a
+            clericis suis exquirere debent . </head>
+          <p xml:id="gd-p2c10q1-d1e282"> Placuit omnibus episcopis, ut per singulas ecclesias
+            episcopi et per dioceses ambulantes primum discutiant clericos, quomodo ordinem baptismi
+            teneant uel missarum, et qualiter quecumque offitia in ecclesiaperagant. Et si recte
+            quidem inuenerint, Deo gratias; sin autem minime, docere debent ignaros, et hoc modis
+            omnibus precipere, sicut antiqui canonesiubent, ut ante dies uiginti baptismi ad
+            purgationemexorcismi cathecumini currant, in quibus uiginti diebusomnino cathecumini
+            symbolum, quod est, , Credo in DeumPatrem omnipotentem/ specialiter doceantur. Postquam
+            ergo hoc suos clericos discusserint uel docuerintepiscopi, alia die, conuocata plebe
+            ipsius ecclesiae, doceantillos, ut errores fugiant ydolorum, uel diuersa crimina, idest
+            homicidium, adulterium, periurium, falsum testimonium et reliqua peccata mortifera, et
+            quod nolunt sibi fierialteri ne faciant, et ut credant resurrectionem omnium et diem
+            iudicii, in quo unusquisque secundumopera sua recepturus sit. Et sic postea episcopus
+            deecclesia illa proficiscatur ad aliam. </p>
+
+          <p xml:id="gd-p2c10q1-d1e285"> /iem leronimus ad Damasum Papam [de oblationibus altaris]:
+          </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e289">
+          <head xml:id="gd-p2c10q1-Hd1e291">C. XIII</head>
+          <head xml:id="gd-p2c10q1-Hd1e294" type="question-title"> Oblationes ecclesiae laicis
+            usurpare^ non licet</head>
+          <p xml:id="gd-p2c10q1-d1e297"> IV. Pars. Quia sacerdotes pro omnibus orare solent*, quorum
+            elemosinas et oblationes accipiunt, qua fronte presumunt laici oblationes, quas
+            Christiani pro peccatis suisofferunt, uel ipsi comedere, uel aliis concedere, cum
+            ipsinon debeant ex offitio** pro populo orare? Ob hoc, Papagloriose, mittere oportet
+            illos presumptores in excommunicationem perpetuam, uts ceteri metum habeant, et amplius
+            hec in ecclesia non fiant. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e301">
+          <head xml:id="gd-p2c10q1-Hd1e303">C. XIV</head>
+          <head xml:id="gd-p2c10q1-Hd1e306" type="question-title"> Minime auferantur a laicis
+            oblationes altaribus uel crucibus factae. </head>
+          <p xml:id="gd-p2c10q1-d1e309"> Item Calix tu s Papa [II.]* </p>
+          <p xml:id="gd-p2c10q1-d1e312"> Sanctorum Patrum canonibus consona sancientes, oblationes
+            de sacratissimo et reuerentissimo altari B.Petri, et Saluatoris, et S. Mariae rotundae,
+            aut de Dauliis ecclesiarum altaribus siue crucibus, a laicis auferri penitus
+            interdicimus et sub districtione anathematis prohibemus, et ecclesias a laicis
+            incastellari aut in seruitutem redigiauctoritate apostolica prohibemus. </p>
+        </div>
+        <div xml:id="gd-p2c10q1-Dd1e316">
+          <head xml:id="gd-p2c10q1-Hd1e318">C. XV</head>
+          <head xml:id="gd-p2c10q1-Hd1e321" type="question-title"> Ecclesiarum oblationes sub
+            laicorum dominio non detineantur . </head>
+          <p xml:id="gd-p2c10q1-d1e324"> Item Dama sus Papa °. </p>
+          <p xml:id="gd-p2c10q1-d1e327"> Hanc consuetudinem, que contra sanctam ecclesiam catholicam
+            augeri uidetur, omnino interdicimus, ut nullo modo umquam ullo tempore oblationes, que
+            intra sanctam ecclesiam offeruntur, sub dominio laicorumdetineantur. Sed tantummodo
+            sacerdotibus, qui cottidieDomino seruire uidentur, illis solis licet comedereet bibere,
+            quia in ueteri testamento prohibuit Dominuspanes sanctos comedere filiis Israel, nisi
+            tantummodoAaron et filiis eius, qui longe erant ab istis panibus, quinunc in sancta
+            ecclesia offeruntur, quia illi sub umbra legiserant, qui uero modo sub gratia Spiritus
+            sancti totomundo euangelio coruscante lucidiores esse uidentur.Qua fronte aut qua
+            consciencia oblationes uultis accipere, </p>
+
+
+
+
+          <p xml:id="gd-p2c10q1-d1e330"> qui uix ualetis pro uobis, nedum pro aliis Deo preces
+            offerre? quia prauum est et contra preceptum dominicum detrimentum suae animae infert
+            qui illud agere conatur, quod ei nulla ratione conceditur. Quia omnibus sanctisPatribus
+            nostrisque prioribus placuit hanc sanctionem fieri, et nos similiter in eisdem
+            persistere uolumus, ut nullusaudeat irritum facere hoc, quod constitutum est, si
+            inperpetua dampnatione noluerit persistere. Si quis uerocontra hanc regulam nostram et
+            contra regulam sanctorum Patrum CCC., qui in Niceno concilio hoc constituerunt,
+            temerarius presumptor fuerit, et ulterius s oblationes de sacris ecclesiis molitus
+            auferre fuerit, subanathematis uinculo sit colligatus et condempnatus. Responderunt
+            omnes: Fiat, fiat. </p>
+          <p xml:id="gd-p2c10q1-d1e334"> Gratian. Premissis auctoritatibus ecclesiae cum omnibus
+            rebus suis ad episcopi ordinationem pertinere monstrantur , et tamecclesiae quam
+            oblationes et facultates earum a laicorum dispositione probantur esse inmunes. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

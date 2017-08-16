@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO V. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO V. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15q5">
+        <head xml:id="gd-p2c15q5-Hd1e103"> QUESTIO V. </head>
+        <p xml:id="gd-p2c15q5-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c15q5-d1e109"> Purgationem uero neganti* prestandam, Stephanus scribit
+          Leoni, Thianensi Episcopo*: </p>
+        <div xml:id="gd-p2c15q5-Dd1e112">
+          <head xml:id="gd-p2c15q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c15q5-Hd1e117" type="question-title"> Diaconus, si de crimine conuinci
+            non poterit, apud episcopum se ipsum secreto purificet. </head>
+          <p xml:id="gd-p2c15q5-d1e120"> De crimine sibi illato diaconus tuus uerissime fatebatur se
+            inmunem. Verumtamen si suspicio habetur, et accusatores ydonei reperiuntur, et testes,
+            quales sacricanones sanciunt, accito tecum certo episcoporum numeroueniant accusatores,
+            uocetur et ipse Aldericus diaconus, et, si negauerit, uentiletur causa canonice, et, si
+            uel sponte confessus, uel legitimis testibus fuerit approbatus, canonicaferiatur
+            sententia. Quod si nec sponte confitetur, necaccusatores et testes legitimi reperti
+            fuerint, et mala famacrebrescit, non publico examine, sed coram te, et aliquantis
+            reuerentissimis presbiteris et diaconibus tuae ecclesiae secreto iuramento se purificet.
+            Et deinceps bonitestimonii eum annuncia, et conpesce et conmone ecclesiae tuae filios,
+            ne sacerdotem Dei ulterius infamare presumant, timentes, quod Cam maledictus est, qui
+            uerenaapatris derisit. </p>
+
+        </div>
+        <div xml:id="gd-p2c15q5-Dd1e124">
+          <head xml:id="gd-p2c15q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c15q5-Hd1e129" type="question-title"> Non est spoliandus presbiter uel
+            diaconus, nisi sponte confessus aut legitime conuictus fuerit. </head>
+          <p xml:id="gd-p2c15q5-d1e132"> Item Nicolaus Salomoni Constantiensi Episcopo. </p>
+          <p xml:id="gd-p2c15q5-d1e135"> Presbiter aut diaconus, quem asseris crimina nolle publice
+            confiteri, sed uelle cum sacramento defendere se, et si tamen notum sit episcopo esse
+            scelus ipsius perpetratum, non potest per aliquam penitenciam sacerdotaliuel diaconali
+            offitio potiri. Sed mirandum, si ipse confessus non fuerit, quomodo notum possit esse
+            episcopo scelus ab ipso perpetratum, nisi accusatore forte, ydoneo pertestes ydoneos
+            approbante. Unde si examinante episcopocausam presbiteri uel diaconi non fuerit per
+            testium approbationem presbiter uel diaconus forte conuictus, nonest scelus episcopo
+            legitime manifestum, nisi sua sponteipsum confiteatur. Quod nisi fecerit, interim non
+            uidemussuo debere presbiterum uel diaconum offitio priuari. Solaergo spontanea
+            confessio, et canonicus numerus, uelqualitas testium (decernentibus episcopis, et
+            accusatorequod obiecerat conprobante) clericum priuat proprio gradu. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

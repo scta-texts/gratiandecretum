@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO IV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO IV.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c2q4">
+        <head xml:id="gd-p2c2q4-Hd1e103">QUESTIO IV.</head>
+
+        <p xml:id="gd-p2c2q4-d1e106"> I. Pars. Quod uero quarto loco querebatur: An duorumtestimonio
+          episcopus sit condempnandus? multorum auctoritateprobatur. Sicut enim in euangelio
+          Iohannis legitur , ait Christusad Iudeos: „ In lege uestra scriptum est, quoniam duorum
+          hominum testimonium uerum est. Hinc consequenter argumentaturcontra eos, dicens: „Si
+          testimonium duorum hominum uerumest, quare testimonium meum et Patris non
+          accipitisItemPaulus in epistola ad Corintios : , , In ore duorum uel triumtestium stabit
+          omne uerbum. Item in epistola ad Ebreos':„ Quis preuaricans legem Moisi, duobus uel tribus
+          testibusconuictus, sine miseratione lapidabatur .“ </p>
+        <div xml:id="gd-p2c2q4-Dd1e109">
+          <head xml:id="gd-p2c2q4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c2q4-Hd1e114" type="question-title"> Quot testibus quisque clericorum
+            conuinci debeat.</head>
+          <p xml:id="gd-p2c2q4-d1e117"> Item ex Concilio Bracarensi II. [c. $.] </p>
+          <p xml:id="gd-p2c2q4-d1e120"> Placuit, ut si quis aliquem clericorum
+            maculationefornicationis inpetit, secundum preceptum Pauli apostoliduo uel tria
+            testimonia requirantur ab illo. Quod si nonpotuerit datis testimoniis approbare quod
+            dixit, excommunicationem accusati accusator accipiat. </p>
+
+          <p xml:id="gd-p2c2q4-d1e123"> II. Pars. Gratian. Ex premissis itaque colligitur,
+            quodduorum uel trium testimonio episcopus potest conuinci et dampnari. Porro Siluester
+            Papa in generali Sinodo residensdixit econtra : </p>
+        </div>
+        <div xml:id="gd-p2c2q4-Dd1e127">
+          <head xml:id="gd-p2c2q4-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c2q4-Hd1e132" type="question-title"> Quot testibus episcopus, uel
+            presbiter , uel reliqui clerici sint conuincendi. </head>
+          <p xml:id="gd-p2c2q4-d1e135"> Presul non dampnetur nisi cum LXXII. testibus *. Presbiter
+            autem cardinalis nisi in LXIV. testibusnon deponatur; diaconus cardinalis urbis
+            Romaenisi ins XXVII. testibus non condempnabitur. Subdiaconus, acolitus, exorcista,
+            lector, hostiarius nisiin septem testibus non condempnabitur. Testesautem et accusatores
+            sine aliqua sint infamia. </p>
+        </div>
+        <div xml:id="gd-p2c2q4-Dd1e139">
+          <head xml:id="gd-p2c2q4-Hd1e141">C. III</head>
+          <head xml:id="gd-p2c2q4-Hd1e144" type="question-title"> Episcopi non nisi sub LXXII.
+            testibus condempnari sunt. </head>
+          <p xml:id="gd-p2c2q4-d1e147"> Item Leo IV. [in epistola Episcopis Britanniae]. </p>
+          <p xml:id="gd-p2c2q4-d1e150"> Nullam dampnationem episcoporum umquam esse censemus, nisi
+            aut ante legitimum episcoporum numerum (qui fit per duodecim episcopos), aut certe
+            probata sententiaper LXXII. idoneos testes, qui tales sint qui et accusarepossint. §. 1.
+            Et prius ad sacra Christi quatuor euangeliasacramenta prestent, quod nil falsum
+            depromant, sicutnobis* B. Siluester tradidit, et Romana sancta uidetur ecclesia tenere.
+            Et si inter eos, quos dampnandos esse dixerint homines, fuerit episcopus, qui suam
+            causam in presentiaRomanae sedis episcopi petierit audiri, nullus super illumfinitiuam
+            presumat dare sentenciam, sed omnino eumaudiri decernimus. </p>
+          <p xml:id="gd-p2c2q4-d1e153"> Gratian. Sed hoc uel speciali priuilegio de clericis Romanae
+            ecclesiae intelligitur, uel propter inprobitatemquorumdam, qui, cumnon sint spectatae
+            uitae et scientiae, in accusatione ^ ministrorum Dei repente prosiliunt. Quorum uero
+            uita adeo laudabilisest, ut omnibus imitanda apareat, de quorum assertione
+            nulladubitatio nasci poterit, eorum testimonio duorum uel trium testiumquilibet iure
+            conuinci et dampnari poterit, </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

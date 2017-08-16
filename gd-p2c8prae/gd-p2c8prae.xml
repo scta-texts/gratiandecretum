@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> CAUSA VIII. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> CAUSA VIII. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c8prae">
+        <head xml:id="gd-p2c8prae-Hd1e103"> CAUSA VIII. </head>
+
+        <p xml:id="gd-p2c8prae-d1e106"> In extremis agens quidam episcopus successorem sibi ex
+          testamento instituit; inde suorum amicorum patrocinio in eundemepiscopatum eligitur; post
+          electionem pro indempnitate ecclesiaecanonicis iuramentum prebuit; accusatur de symonia,
+          tamquammunus ab obsequio prestiterit; ante tempus sententiae a clericissuis derelinquitur;
+          sine litteris apostolici ad ecclesiam suamepiscopus reuertiiur. (Qu. I.) Hic primo^
+          queritur, an liceatepiscopo successorem sibfi instituere? (Qu. II.) Secundo, anamicorum
+          patrocinia in electione debeant conualescere ? (Qu. III.) Tertio, an habendus sit
+          symoniacus qui post electionem huiusce-modi iuramentum canonicis prestat? (Qu. IV.)
+          Quarto, anliceat clericis ante sententiae tempus ab episcopo suo discedere? (Qu. V.)
+          Quinto, an sine litteris apostolici debeat redire adpropriam ecclesiam? </p>
+      </div>
+    </body>
+  </text>
+</TEI>

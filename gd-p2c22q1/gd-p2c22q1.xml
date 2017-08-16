@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO L </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO L </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c22q1">
+        <head xml:id="gd-p2c22q1-Hd1e103"> QUESTIO L </head>
+
+        <p xml:id="gd-p2c22q1-d1e106"> I. Pars. Quod iuramentum prestandum non sit, auctoritate
+          scripturae canonicae probatur. Ait enim Christus in euangelioapostolis : „ Sit sermo
+          uester: Est est, non non; quod autemamplius est a malo est. Item Iacobus in epistola: , ,
+          Anteomnia, fratres mei, nolite iurare omnino. Utraque auctoritateiuramentum prohibemur
+          prestare. Sed aliud est ad iuran-dum sponte accedere, aliud uel ad asserendam
+          innocentiamsuam, uel ad federa pacis confirmanda , uel ad persuadendumauditoribus, quando
+          pigri sunt credere quod eis utile est, iuramentum offerre. Pi'imum prohibetur, secundum
+          conceditur. Nonenim iurare omnino peccatum est. </p>
+        <p xml:id="gd-p2c22q1-d1e109"> Unde in Tollet ano Concilio VIII. [c. 2.] legitur : </p>
+        <div xml:id="gd-p2c22q1-Dd1e112">
+          <head xml:id="gd-p2c22q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c22q1-Hd1e117" type="question-title"> Iuramentum pro federe pacis est
+            faciendum.</head>
+          <p xml:id="gd-p2c22q1-d1e120"> Omne, quod in federa pacis uenit, tunc solidius subsistit,
+            cum iuramenti hoc interpositio roborat. Sed et omne, quod amicorum animos conciliat,
+            tunc fideliusdurat, cum eos sacramenti uincula ligant. Omne enim, quod testis
+            adstipulatur, uerius constat, cum idiurationis adiectio affirmat. Quod et si testis*
+            deficiat, innocentis fidem sola iurisiurandi taxatio manifestat. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e124">
+          <head xml:id="gd-p2c22q1-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c22q1-Hd1e129" type="question-title"> Iuratio non est prohibenda, nec
+            tamquam bonum appetenda.</head>
+          <p xml:id="gd-p2c22q1-d1e132"> Item Augustinus super epistolam ad Galathas, </p>
+          <p xml:id="gd-p2c22q1-d1e135"> [cap. 1. in fine]. </p>
+          <p xml:id="gd-p2c22q1-d1e138"> Non est contra preceptum Domini iuratio, que a malo, non
+            iurantis est, sed increduli a quo iurare cogitur.Nam hinc intelligitur, ita Dominum
+            prohibuisse a iure-iurando, ut, quantum in ipso est, quisque non iuret;quod multi
+            faciunt, in ore habentes iurationem tamquammagnum atque suaue aliquid. Nam utique
+            Apostolusnouit preceptum Domini, et tamen iurauit. Non enimaudiendi sunt qui has
+            iurationes esse non putant. Quidenim facient de illa: „Cottidie morior, per
+            gloriamuestram, fratres, quam habeo in Christo Iesu Domino nostro quam greca exemplaria
+            manifestissimam iurationemesse ostendunts. Prohibemur ergo* iurare cupiditateaut
+            dilectione iurandi. Quamuis enim iuramentum amplius sit, quam est est, non non, et ideo
+            a malo sit, nontamen a malo tuo, sed infirmitatis aut incredulitatis eorum, qui non
+            aliter mouentur ad fidem. </p>
+
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e143">
+          <head xml:id="gd-p2c22q1-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c22q1-Hd1e148" type="question-title"> Peierare peccatum est, non
+            iurare.</head>
+          <p xml:id="gd-p2c22q1-d1e151"> Item Augustinus in epist. [CLIV.] ad Publicolam . </p>
+          <p xml:id="gd-p2c22q1-d1e154"> In nouo testamento dictum est, ne omnino iuremus. Quod
+            michi quidem propterea dictum uidetur, non quiaiurare peccatum est, sed quia periurare
+            inmane peccatum est, a quo nos longe esse uoluit qui omnino ne iuremus conmonuit, </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e158">
+          <head xml:id="gd-p2c22q1-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c22q1-Hd1e163" type="question-title"> In necessariis uerum iurare non
+            est peccatum . </head>
+          <p xml:id="gd-p2c22q1-d1e166"> Idem [sermone XXX. de uerbis Apostoli]: </p>
+          <p xml:id="gd-p2c22q1-d1e169"> Ut noueritis, uerum iurare non esse peccatum, in-uenimus
+            etiam apostolum Paulum iurasse: „Cottidie morior ego, per uestram gloriam, fratres, quam
+            habeo inChristo Iesu Domino nostro.“ Per uestram gloriam iuratioest; non enim sic ait,
+            per uestram gloriam morior, quasiuestra gloria me facit mori, quomodo, si diceretur
+            peruenenum*, per gladium, per bestiam, per inimicum mortuusest, intelligeretur faciente
+            inimico, faciente gladio, facienteueneno mortuus est. </p>
+          <p xml:id="gd-p2c22q1-d1e172"> C. V. iVec tamquam bonum appetendum, nec tamquam malum
+            iuramentum est uitandum. </p>
+          <p xml:id="gd-p2c22q1-d1e176"> Idem de sermone Domini, [lib. I. c. 30.]Ita ergo
+            intelligitur precepisse Dominum, ne iurare-tur, ne quisquam sicut bonum appetat
+            iusiurandum, etassiduitate iurandi ad periurium per consuetudinem delabatur. Quapropter
+            qui intelligit non in bonis, sed in necessariis iurationem habendam, refrenat se quantum
+            potest, ut non ea utatur, nisi necessitas cogat, uidelicet, cum uidetpigros esse homines
+            ad credendum quod eis utile est credere, nisi iuratione firmetur. Ad hoc utique
+            pertinetquod sic dicitur: , , Sit autem sermo uester: Est est, nonnon.“ Hoc bonum est et
+            appetendum, „quod autem ampliusest a malo est;“ id est: si iurare cogeris, scias de
+            necessitate uenire infirmitatis eorum, quibus aliquid suades, queinfirmitas utique malum
+            est, unde nos cottidie liberari deprecamur, cum dicimus:, , Libera nos a malo.“ Itaque
+            nondixit, quod autem amplius est malum est. Tu enim nonmalum facis, qui bene uteris
+            iuratione. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e180">
+          <head xml:id="gd-p2c22q1-Hd1e182">C. VI</head>
+          <head xml:id="gd-p2c22q1-Hd1e185" type="question-title"> Iurare non est peccatum.</head>
+          <p xml:id="gd-p2c22q1-d1e188"> Item Augustinus de sermone Domini in monte lib. 7 .Tu malum
+            non facis, qui bene uteris iuratione, que, etsi*non bona, tamen necessaria est, ut
+            alteri persuadeas quodutiliter suades. Sed a malo est illius, cuius infirmitateiurare
+            cogeris. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e192">
+          <head xml:id="gd-p2c22q1-Hd1e194">C. VII</head>
+          <head xml:id="gd-p2c22q1-Hd1e197" type="question-title"> Per Deum iurare permittitur, ne
+            per idola iuretur.</head>
+          <p xml:id="gd-p2c22q1-d1e200"> Item leronimus in Iheremia, [ad c. 4.]^ </p>
+          <p xml:id="gd-p2c22q1-d1e203"> Et iurabunt*, uiuit Dominus in ueritate, et in iudicio, et
+            in iustitia, et benedicent eum gentes, ipsumque laudabunt. Quomodo ergo euangelium
+            iurare nos prohibet?Sed hic: iuramentum!, pro confessione dicitur, et adcondempnationem
+            idolorum, per que iurabat Israel. Denique auferuntur offendicula, et mrat per Dominum,
+            quodque dicitur: „uiuit Dominus; in testamento ueteri iusiu-randum est ad
+            condempnationem mortuorum, per quosiurauit omnis idolatra. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e207">
+          <head xml:id="gd-p2c22q1-Hd1e209">C. VIII</head>
+          <head xml:id="gd-p2c22q1-Hd1e212" type="question-title"> Infirmis iurare
+            conceditur.</head>
+          <p xml:id="gd-p2c22q1-d1e215"> Item leronimus super Mattheum in lib. [in c. 5.]Considera,
+            quod Saluator non per Deum iurare prohibuerit, sed per celum, et per terram, et per
+            Iheroso-limam, et per caput tuum. Et hoc quasi paruulis fuerat legeconcessum, ut quomodo
+            uictimas inmolabant Deo, ne easinmolarent idolis, sic et iurare permitterentur in
+            Deum;non quod recte hoc facerent, sed quod melius esset Deoid exhibere quam demoniis.
+          </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e219">
+          <head xml:id="gd-p2c22q1-Hd1e221">C. IX</head>
+          <head xml:id="gd-p2c22q1-Hd1e224" type="question-title"> Excommunicetur clericus per
+            creaturas pertinaciter iurans.</head>
+          <p xml:id="gd-p2c22q1-d1e227"> Item ex Concilio Cartaginensi /E, [c. 61. et 62.]Clericum
+            per creaturas iurantem acerrime obiurgan-dum; si perstiterit in uicio, excommunicandum.
+            Interepulas uero cantantem supradictae sententiae seueri-tate cohercendum. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e232">
+          <head xml:id="gd-p2c22q1-Hd1e234">C. X</head>
+          <head xml:id="gd-p2c22q1-Hd1e237" type="question-title"> Clericus deponatur, laicus
+            anathematizetur, per capillum uel caput Dei iurans. </head>
+          <p xml:id="gd-p2c22q1-d1e240"> Item Pius Papa *. </p>
+          <p xml:id="gd-p2c22q1-d1e243"> Si quis per capillum Dei uel caput iurauerit, uel alio modo
+            blasphemia contra Deum usus fuerit, si ex ecclesiastico ordine est, deponatur; si
+            laicus, anathematizetur.Et si quis per creaturas iurauerit, acerrime castigetur, et
+            iuxta id, quod sinodus diiudicauerit, peniteat. §. 1. Siquis autem talem hominem non
+            manifestauerit, non estdubium, quin diuina condempnatione coherceatur. §. 2.Et si
+            episcopus ista emendare neglexerit, acerrimecorripiatur. </p>
+          <p xml:id="gd-p2c22q1-d1e246"> II. Pars. Gratian. Queritur, quis magis teneatur, an ille,
+            qui per Deum, an ille, qui super sacra euangelia iuratf Huicquestioni Iohannes
+            Crisostomus respondet, dicens : </p>
+
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e250">
+          <head xml:id="gd-p2c22q1-Hd1e252">C. XI</head>
+          <head xml:id="gd-p2c22q1-Hd1e255" type="question-title"> Non est maius per euangelia **,
+            quam per Deum iurare. </head>
+          <p xml:id="gd-p2c22q1-d1e258"> Si aliqua causa fuerit, modicum uidetur facere qui iurat
+            per Deum. Qui autem per euangelium, maius aliquidfecisse uidetur. Quibus dicendum est:
+            Stulti, scripturae propter Deum sanctae* sunt, non Deus propterscripturas. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e262">
+          <head xml:id="gd-p2c22q1-Hd1e264">C. XII</head>
+          <head xml:id="gd-p2c22q1-Hd1e267" type="question-title"> Non solum in altari uel
+            reliquiis, sed etiam in communi loquela periurium caueatur.</head>
+          <p xml:id="gd-p2c22q1-d1e270"> Item leronimus'*'. </p>
+          <p xml:id="gd-p2c22q1-d1e273"> Habemus in lege Dei scriptum: „Non periura-bis in nomine
+            meo, nec pollues nomen Dei tui in uanum. Ideo ammonendi sunt omnes, ut diligentercaueant
+            periurium, non solum in altari seu sanctorum reliquiis, sed etiam in communi loquela.
+          </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e277">
+          <head xml:id="gd-p2c22q1-Hd1e279">C. XIII</head>
+          <head xml:id="gd-p2c22q1-Hd1e282" type="question-title"> Non prohibet Deus
+            iurare^*-.</head>
+          <p xml:id="gd-p2c22q1-d1e285"> Item Ysidorus Sententiarum lib. II., [c, 31.] </p>
+          <p xml:id="gd-p2c22q1-d1e288"> Non est contra Dei preceptum iurare; sed dum iurandi usum
+            facimus, periurii crimen incurrimus. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e292">
+          <head xml:id="gd-p2c22q1-Hd1e294">C. XIV</head>
+          <head xml:id="gd-p2c22q1-Hd1e297" type="question-title"> luratio non est peccatum.</head>
+          <p xml:id="gd-p2c22q1-d1e300"> Item Augustinus de uerbis Apostoli, sermone 28. [al. 30.] </p>
+          <p xml:id="gd-p2c22q1-d1e303"> Si peccatum esset iuratio, nec in ueteri lege diceretur:
+            „Non periurabis; reddes Domino iuramentatua.“ Non enim peccatum preciperetur nobis.
+            Item: §. 1. Non uobis dicimus, nos non iurare. Si enim hoc dicimus, mentimur. Quantum ad
+            me pertinet, non iuro, sed quantum michi uidetur, magna necessitate conpulsus, cum
+            uideo, nisi faciam, michi non credi, et ei, qui michinon credit, non expedire, quod non
+            credit. Hac perpensaratione et consideratione librata cum magno timore dico:„ Coram Deo,
+            “ aut, „ testis est michi£ Deus, “aut, „scitChristus, quod sic est in meo animo/ et
+            uideo, quodplus est, id est quod amplius est quam est est, nonnon. Sed hoc quod est
+            amplius a malo est, non iurantis, sed non credentis. </p>
+          <p xml:id="gd-p2c22q1-d1e306"> 111 . Pars. Gratian. Ex premissis colligitur, quod iurare
+            non est peccatum; non tamen tamquam bonum est appetendum, ne consuetudine iurandi
+            labamur in periurium. Sed cum dicaturprocedere a malo non credentis, uidetur, quod, etsi
+            iurare peccatum non sit, iuramentum tamen recipere malum sit. Sednomine mali non
+            malicia, Sted pena peccati intelligitur. Ex penalienim infirmitate incredulitas illa
+            processit, qua ad iurandum </p>
+
+
+
+
+          <p xml:id="gd-p2c22q1-d1e310"> conpellimur. Ipsum autem iurare sicut peccatum non esi, ita
+            iuramentum ab aliquo recipere malum non est. </p>
+          <p xml:id="gd-p2c22q1-d1e313"> Unde Augustinus scribit ad Publicolam, </p>
+          <p xml:id="gd-p2c22q1-d1e316"> [epist. CLIV.] </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e320">
+          <head xml:id="gd-p2c22q1-Hd1e322">C. XV</head>
+          <head xml:id="gd-p2c22q1-Hd1e325" type="question-title"> Iuramentum accipere non
+            prohibemur.</head>
+          <p xml:id="gd-p2c22q1-d1e328"> Quamuis dictum sit, ne iuremus, nusquam in scripturis
+            sanctis me legisse memini, ne ab aliquo iura-tionem recipiamus. </p>
+          <p xml:id="gd-p2c22q1-d1e331"> IV. Pars. Gratian. Sed queritur, an sii utendum fide eius,
+            qui per demonia iurat? De his ita scribit Augustinus [eadem epist. CLIV.] ad Publicolam
+            : </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e336">
+          <head xml:id="gd-p2c22q1-Hd1e338">C. XVI</head>
+          <head xml:id="gd-p2c22q1-Hd1e341" type="question-title"> Licet uti fide eius, qui, ut eam
+            seruet, per demonia iurat.</head>
+          <p xml:id="gd-p2c22q1-d1e344"> Mouet te, utrum eius fide utendum sit, qui, ut eam seruet,
+            per demonia iurauerit. Ubi te uolo prius considerare, utrum si quispiam per Deos falsos
+            iurauerit se fidem serua-turum, et eam non seruauerit, non tibi uidetur bispeccasse? Si
+            enim tali iuratione promissam seruaretfidem, ideo tantum peccasse iudicaretur, quia per
+            Deosfalsos iurauerit. Illud autem nemo reprehenderet, quia fidem seruauit. Nunc uero,
+            quia et iura-uit per quos non debuit, et contra pollicitam fecit fidemquod non debuit,
+            bis utique peccauit, ac per hoc qui utiturfide illius, quem constat iurasse per falsos
+            Deos, et utiturnon ad malum, sed ad licitum et bonum, non peccatoillius se sociat, quo
+            per demonia iurauit, sed bonopacto eius, quo fidem seruauit. Neque hic eam fidemdico
+            seruari, qua fideles uocantur qui baptizantur in Christo* Illa enim longe alia est
+            longeque discreta a fidehumanorum placitorum atque pactorum. Verumtamen sineulla
+            dubitatione minus malum est per Deos falsos iurareueraciter, quam per Deum uerum
+            fallaciter. Quanto enimper quod iuratur magis sanctum est, tanto magis penale
+            estperiurium. §. i. Alia s questio est, utrum non peccetqui per falsos Deos sibi iurari
+            facit? quia ille*, qui eiiurat, iurat per falsos Deos, quos colit. Cui questionipossunt
+            illa testimonia suffragari, que ipse conmemorasti deLaban et Abimelech, si tamen
+            Abimelech per Deos suosiurauit, sicut Laban per Deum Sabaoth**. </p>
+
+          <p xml:id="gd-p2c22q1-d1e347"> Gratian. Sic etiam cum in libro Machabeorum Romani legantur
+            pacem firmasse cum Iudeis, intelligendi sunt iurasseper falsos Deos, sicut et Iudei
+            iurauerunt per Deum uerum.Sic etiam de iuramento, quod fit per creaturas,
+            inielligendumest, quod ipsum quidem iurare per creaturas, malum est, quia aDeo
+            prohibitum est; sed seruare quod iuratur, bonum est, uteuitetur peccatum mendacii et
+            dolositatis. §. i. Sed obicitur, quod Ioseph, uir sanctus, per creaturas iurauit, dum
+            dixit fratribus suis : „Per salutem Pharaonis, non exibitis hinc. §. 2. Sed sciendum
+            est, quod sancti non tam per creaturas , quam perauctorem creaturarum iurabant, nec in
+            creaturis aliud quamcreatorem ipsarum uenerabantur, sicut Ioseph, qui per
+            Pharaonemiurando hoc in eo ueneratus est, quod Dei iudicio positus erat ininfimis. Unde
+            Apostolus ait: „ Omnis potestas a Domino Deo estP Item Christus Pilato : „ Non haberes
+            in me potestatem, nisi esset tibi datum desuper .“ Deus autem per creaturasiurare
+            prohibuit, ne uel more gentilium aliquod numen deitatiscreaturis inesse crederetur, uel
+            ne creaturas contemptibiles iudi-cando per eas promissa pro nicliilo duceremus. §.3. Sed
+            queritur, quid grauius sit, an per creaturas, an per creatorem iurarefallaciter?
+            Dupliciter enim reus est qui per creaturas iurat mendaciter, quia et contra
+            prohibitionem iurat per quod sibi iurarenon licet, (a quo peccato est inmunis, qui non
+            nisi per creatoremiurat, ) et proximum dolo capit, quod facit etiam per
+            creatoremmendaciter iurans. Sed si periurium tanto magis penale est, quanto sanctius
+            illud , , per quod iuratur, apparet, quod, etsiper creaturas mendaciter iurans
+            dupliciter peccet, grauiori tamense subicit penae qui per creatorem iurat mendaciter. </p>
+          <p xml:id="gd-p2c22q1-d1e350"> V. P a r s. §. 4. Periurii autem pena grauissima est, quam
+            si quis timens ad confessionem uenire noluerit, a fidelium consortio est abiciendus. </p>
+          <p xml:id="gd-p2c22q1-d1e354"> Unde Euticianus Papa*. </p>
+        </div>
+        <div xml:id="gd-p2c22q1-Dd1e358">
+          <head xml:id="gd-p2c22q1-Hd1e360">C. XVII</head>
+          <head xml:id="gd-p2c22q1-Hd1e363" type="question-title"> Fidelium consortio careat qui
+            penitenciam periurii agere noluerit.</head>
+          <p xml:id="gd-p2c22q1-d1e366"> Predicandum est etiam, ut periurium fideles caueant, et ab
+            hoc summopere abstineant, scientes hoc grande scelusesse, et in lege, et in Prophetis,
+            et in euangelio prohibitum. Audiuimus autem, quosdam paruipendere hocsceluS, et leuem
+            quodammodo periuris penitenciae moduminponere; qui etiam nosse debent, talem de
+            periuriopenitenciam inponi debere, qualem et de adulterio, de fornicatione, et de
+            homicidio sponte conmisso, etde ceteris criminalibus uiciis. §. 1. Si quis uero
+            perpetratoperiurio aut quolibet criminali peccato, timens penitenciam longam, ad
+            confessionem uenire noluerit, ab ecclesiarepellendus est, siue a communione et consortio
+            fidelium, ut nullus cum eo comedat, neque bibat**, neque insua domo eum recipiat. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c5q2">
+        <head xml:id="gd-p2c5q2-Hd1e103">QUESTIO II.</head>
+
+        <p xml:id="gd-p2c5q2-d1e106"> Vocatio autem eius , qui inpetitur , non semel , sed bis et
+          tertio per congruum spatium rationabilibus scriptis fieri debet. </p>
+        <p xml:id="gd-p2c5q2-d1e109"> Unde Dama sus Papa [Stephano Archiepiscopo epist. III.]
+          scribit , dicens: </p>
+        <div xml:id="gd-p2c5q2-Dd1e112">
+          <head xml:id="gd-p2c5q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q2-Hd1e117" type="question-title"> Vocatio ad sinodum eius , qui
+            inpetitur, in scriptis , et per spatium fiat congruum. </head>
+          <p xml:id="gd-p2c5q2-d1e120"> Vocatio ad sinodum iuxta decreta Patrum canonica eius, qui
+            inpetitur, rationabilibus scriptis* per spatium debetfieri congruum atque canonicum,
+            quia, ni^i canonice uocatusfuerit suo tempore et canonica ordinatione, licet uenerit
+            adconuentum quacumque necessitate, nisi sponte uoluerit, nullatenus suis respondebit
+            insidiatoribus. </p>
+
+        </div>
+        <div xml:id="gd-p2c5q2-Dd1e124">
+          <head xml:id="gd-p2c5q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c5q2-Hd1e129" type="question-title"> Quibus temporum spatiis reus
+            uocetur ad causam.</head>
+          <p xml:id="gd-p2c5q2-d1e132"> Item Siluester Papa. </p>
+          <p xml:id="gd-p2c5q2-d1e135"> Presenti decreto censemus, ut inprimis paternaliteruocentur,
+            et per septem dies expectentur, nullius ecclesiasticae rei interdicta licentia. Huic
+            uero expectationi iterumaddantur dies septem, interdicta licentia ecclesiam intrandiet
+            omnia diuina offitia audiendi. Post uero adiciantur duodies, quibus a pace et communione
+            sanctae ecclesiae sintsuspensi. Deinde uero iterum aliis duobus diebus subeadem
+            expectatione deportentur*. Quibus uno die superaddito, omni expectatione ueluti iam
+            desperata, reus moxanathematis gladio feriatur. </p>
+        </div>
+        <div xml:id="gd-p2c5q2-Dd1e140">
+          <head xml:id="gd-p2c5q2-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c5q2-Hd1e145" type="question-title"> Nullius accusatio pef scripta
+            suscipiatur^.</head>
+          <p xml:id="gd-p2c5q2-d1e148"> Item Damasus Papa [ad Episcopos Italiae, epist. VI.] </p>
+          <p xml:id="gd-p2c5q2-d1e151"> Relatum est ad sedem apostolicam, uos accusationes fratrum
+            per scripta suscipere absque legitimo accusatore.Quod deinceps in omni terrarum orbe
+            fieri apostolica auctoritate prohibemus, et quod nuper factum est absque
+            ullaretardatione corrigere curamus, nec umquam prius perscripta eorum, qui accusantur,
+            causas discutere quamper querelantium institutionem uocati canonice ad sinodumueniant,
+            et presens per presentem agnoscat ueraciter et in-telligat que ei obiciuntur. §. i.
+            Leges enim seculi accusatores presentes exigunt, et non per scripta absentes.Unde
+            canonica Patrum constituta non semel, sed sepissimeclamant, nec accusationes, nec
+            testimonia ullum perscripta proferre posse, nec de aliis negotiis quicumque testimonium
+            dicant, nisi de his, que sub eorum presentia actaesse noscuntur. Similiter et qui
+            accusare alium elegeritpresens per se, et non per alium accuset, inscriptione uidelicet
+            premissa. Neque ullus umquam iudicetur ante, quamaccusatores legitimos presentes habeat,
+            locumque defendendi accipiat ad abluenda crimina. Curandum quoque est, ne ira cuiquam
+            subripiat, faciatque citius omnequod non licet. </p>
+        </div>
+        <div xml:id="gd-p2c5q2-Dd1e155">
+          <head xml:id="gd-p2c5q2-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c5q2-Hd1e160" type="question-title"> Vi aut timore eiecti , aut suis
+            rebus expoliati , ad sinodum non euocentur . </head>
+          <p xml:id="gd-p2c5q2-d1e163"> Item Felix Papa [II.] Athanasio , et omnibus orientalibus
+            Episcopis , [epist. I. c. 3.] . </p>
+          <p xml:id="gd-p2c5q2-d1e166"> Si primates accusatores episcoporum cum eis pacificate </p>
+
+
+
+
+          <p xml:id="gd-p2c5q2-d1e169"> familiariter minime potuerint, tunc tempore legitimo eos ad
+            sinodum canonice conuocatam non infra angustatempora canonice conuocent, et non prius,
+            quam eisper scripta significent quid eis opponitur, ut ad responsionem preparari
+            adueniant. Nam si aut ui, aut timore eiecti, aut suis rebus expoliati fuerint, nec
+            canonice uocari adsinodum possunt, nec respondere emulis debent ante, quamcanonice
+            restituantur, et sua omnia eis legaliter reddantur. </p>
+          <p xml:id="gd-p2c5q2-d1e173"> Gratian. His auctoritatibus^ euidentissime datur intelligi,
+            quod nisi quis canonice uocatus fuerit, etiamsi aliqua occasionead sinodum ueniat, suis
+            nullatenus cogitur respondere insidiatoribus. Canonica autem uocatio est, quando seruato
+            dierum interstitio, secundum auctoritatem B. Siluestri, causae suae litterisadesse
+            iubetur, quibus quid ei obiciatur auctoritate Felicis Papaesignificari oportet. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

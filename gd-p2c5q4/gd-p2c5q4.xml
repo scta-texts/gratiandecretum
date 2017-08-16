@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO IV.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO IV.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c5q4">
+        <head xml:id="gd-p2c5q4-Hd1e103">QUESTIO IV.</head>
+        <p xml:id="gd-p2c5q4-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c5q4-d1e109"> Quod autem absque smodali audientia dampnari non debeat
+          auctoritate Iulii Papae*probatur, qui [epist. I.] ait: </p>
+        <div xml:id="gd-p2c5q4-Dd1e112">
+          <head xml:id="gd-p2c5q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q4-Hd1e117" type="question-title"> Nisi in legitima Sinodo episcopus
+            iudicari uel audiri non debet.</head>
+          <p xml:id="gd-p2c5q4-d1e120"> Nullus episcopus, nisi in legitima Sinodo et suo tempore
+            apostolica auctoritate conuocata, super quibusdam criminationibus pulsatus audiatur, uel
+            iudicetur uel dam-pnetur. Sin aliter presumptum a quibusdam fuerit, inuanum deducatur
+            quod egerint, nec inter ecclesiastica statuta* ullo modo reputetur. </p>
+        </div>
+        <div xml:id="gd-p2c5q4-Dd1e124">
+          <head xml:id="gd-p2c5q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c5q4-Hd1e129" type="question-title"> Episcopus accusatus a duodecim
+            audiatur, finis uero causae ad apostolicam sedem deferatur . </head>
+          <p xml:id="gd-p2c5q4-d1e132"> Item Zepherinus Urbis Romae Episcopus , [epist. I.] omnibus
+            Episcopis. </p>
+          <p xml:id="gd-p2c5q4-d1e135"> Duodecim iudices quilibet episcopus accusatus, si necesse
+            fuerit, eligat, a quibus eius causa iudicetur, nec prius audiatur, aut excommunicetur
+            uel iudicetur, quam ipsiper se eligantur, et regulariter uocatus ad suorum conuen-tum
+            primo episcoporum, per eos eius causa iuste audiatur, et rationabiliter discernatur.
+            Finis uero eius causae adsedem apostolicam deferatur, ut ibidem terminetur, necante
+            finiatur, quam eius auctoritate fulciatur. </p>
+          <p xml:id="gd-p2c5q4-d1e138"> Gratian. Quod uero absque sinodali audientia episcopus
+            dampnari prohibetur, sine preiudicio Romanae sedis intelligioportet, que sua auctoritate
+            quosque ualet dampnare uel dampna-tos absoluere. Unde Gelasius: „Ipsi sunt canones
+            etc.“infra causa S: „Sententia excommunicationis notatus.“ §. 1. Item Adrianus [c. 8.]:
+            „Salvo Romanae ecclesiae in omnibusprimatu, manifestum est, quod illa, que sunt per
+            unamquamqueprouinciam ipsius prouinciae sinodus dispenset, sicut Nicenoconstat esse
+            decretum concilio . Cum uero accusatus ad concilium uenerit, quicquid considentium
+            consultationibus agitur, autab accusantium parte proponitur, non contentiosis uocibus,
+            sedmitissima uerborum relatione proferatur. </p>
+          <p xml:id="gd-p2c5q4-d1e142"> Unde in Tollet ano Concilio XI. [c. 1.] legitur : </p>
+        </div>
+        <div xml:id="gd-p2c5q4-Dd1e147">
+          <head xml:id="gd-p2c5q4-Hd1e149">C. III</head>
+          <head xml:id="gd-p2c5q4-Hd1e152" type="question-title"> In cognitione causarum contentiosi
+            locum non habeant K</head>
+          <p xml:id="gd-p2c5q4-d1e155"> In loco benedictionis considentes Domini sacerdotes nullus
+            debet aut indiscretis uocibus perstrepere, aut </p>
+
+
+
+
+          <p xml:id="gd-p2c5q4-d1e158"> quibuslibet tumultibus perturbare , nullus etiam uanis
+            fabulis uel risibus agi, et (quod est deterius) obstinatisdisceptationibus tumultuosas
+            uoces effundere. „Si quisenim (ut Apostolus ait) putat se religiosum esse, nonrefrenans
+            linguam suam, sed seducens cor suum, huius uanaest religio.“ Cultum enim suum iustitia
+            perdit, quandosilentia iudicii obstrepentium turbo confundit, dicentePropheta: „Erit
+            cultus iustitiae silentium.“ Debet ergoquicquid aut considentium consultationibus
+            agitur, autab accusantium parte proponitur, sic mitissima uerborumrelatione proferri, ut
+            nec contentiosis uocibus sensusaudientium turbent, nec iudicii uigorem de
+            tumultueneruent. Quicumque ergo in conuentu concilii hec, quepremissa sunt, uiolanda
+            crediderit, et contra hec interdictaaut tumultu, aut contumeliis uel risibus concilium
+            pertur-bauerit, iuxta diuinae legis edictum, que precipit^:„Eice derisorem, et exibit
+            cum eo iurgium, “ cum omnidedecore de consessione abstractus a communi cetusecedat, et
+            trium dierum excommunicationis sententiamferat b </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

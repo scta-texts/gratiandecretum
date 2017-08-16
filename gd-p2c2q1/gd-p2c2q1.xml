@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO I.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO I.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c2q1">
+        <head xml:id="gd-p2c2q1-Hd1e103">QUESTIO I.</head>
+
+        <p xml:id="gd-p2c2q1-d1e106"> I. Pars. Quod autem nullus sine iudiciario ordine dampnari
+          ualeat, multis auctoritatibus probatur. </p>
+        <p xml:id="gd-p2c2q1-d1e109"> De eo namque ait Augustinus [hom. L. de utilitate
+          penitentiae]: </p>
+        <div xml:id="gd-p2c2q1-Dd1e112">
+          <head xml:id="gd-p2c2q1-Hd1e114">C. 1</head>
+          <head xml:id="gd-p2c2q1-Hd1e117" type="question-title"> Dampnari non ualet nisi aut
+            conuictus aut sponte confessus. </head>
+          <p xml:id="gd-p2c2q1-d1e120"> Nos in quemquam sententiam ferre non possumus, nisi aut
+            conuictum, aut sponte confessum. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e124">
+          <head xml:id="gd-p2c2q1-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c2q1-Hd1e129" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c2q1-d1e132"> Item Constantinus Inperator *. </p>
+          <p xml:id="gd-p2c2q1-d1e135"> Iudex criminosum discutiens non ante sententiam proferat,
+            quam aut reum ipse se confiteatur, aut per innocentes testes conuincatur. </p>
+          <p xml:id="gd-p2c2q1-d1e138"> Gratian. L/oc** idem testatur Augustinus, et eisdem uerbis. </p>
+
+
+
+
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e143">
+          <head xml:id="gd-p2c2q1-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c2q1-Hd1e148" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c2q1-d1e151"> Item Gregorius [lib. VIII. epist. 50.] </p>
+          <p xml:id="gd-p2c2q1-d1e154"> Sicut sine iudicio quemquam nolumus condempnari, ita que
+            iuste* diffinita sunt nulla patimur excusatione differri. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e158">
+          <head xml:id="gd-p2c2q1-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c2q1-Hd1e163" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q1-d1e166"> Item Eleuterius Episcopus [ad Episcopos Galliae]. </p>
+          <p xml:id="gd-p2c2q1-d1e169"> Nichil contra quemlibet accusatum absque legitimo et idoneo
+            accusatore fiat. Nam et Dominus noster IesusChristus ludam furem esse sciebat; sed quia
+            non est accusatus, ideo non est eiectus . </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e173">
+          <head xml:id="gd-p2c2q1-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c2q1-Hd1e178" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q1-d1e181"> Item Felix Papa [I. ad Paternum Episcopum]. </p>
+          <p xml:id="gd-p2c2q1-d1e184"> Primates accusatum discutientes episcopum non ante
+            sententiam proferant dampnationis, quam * aut reum seipse confiteatur, aut per
+            innocentes et canonice, examinatos regulariter testes conuincatur. Aliter irritamesse
+            censemus et iniustam episcoporum dampnationem, etidcirco a Sinodo retractandam, ita ut
+            obpressis ab omnibusin cunctis causis subueniatur. </p>
+          <p xml:id="gd-p2c2q1-d1e187"> Gratian. Idem decernit Zepherinus Papa. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e191">
+          <head xml:id="gd-p2c2q1-Hd1e193">C. VI</head>
+          <head xml:id="gd-p2c2q1-Hd1e196" type="question-title"> Multi per tollerantiam sustinendi
+            sunt, quamuis sententia diuini iudicii sint condempnari. </head>
+          <p xml:id="gd-p2c2q1-d1e199"> Item Augustinus*. </p>
+          <p xml:id="gd-p2c2q1-d1e202"> Unus ex uobis me traditurus est. Bene dixit: ex uobis, et
+            non: ex nobis. Ex uobis enim est, a quibus periudiciariam potestatem confessus aut
+            conuictus exclusus nonest. A me uero, qui nullis indigeo argumentis, et omniacertissime
+            noui, separatus et diuisus est. Tale est, ac sidiceret: Etsi ego per occulti iudicii
+            sententiam eum damp-natum habeo, uos tamen adhuc illum per tollerantiamsustinete. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e206">
+          <head xml:id="gd-p2c2q1-Hd1e208">C. VII</head>
+          <head xml:id="gd-p2c2q1-Hd1e211" type="question-title"> Nullum reseruetur* iudicium, nisi
+            rationabiliter habitum.</head>
+          <p xml:id="gd-p2c2q1-d1e214"> Item Gregorius I oh an ni Defensori, eunti in Yspaniam,
+            [lib. XI. epist. 50.] </p>
+
+          <p xml:id="gd-p2c2q1-d1e217"> Imprimis requirendum est de persona presbiteri, dilectissimi
+            fratris et coepiscopi nostri Ianuarii, et si ita se ueritas habet, sicut eiusdem
+            episcopi peticio continet, in ecclesiaatque loco suo idem presbiter modis omnibus
+            reuocetur.Si autem dictum fuerit, quia contra ipsum causa aliqua motasiue probata est,
+            subtiliter ipso presente et pro se rationemreddente querendum est et genus causae, et
+            modus probationis, ut ex hoc colligere ualeas, utrum adhuc in exilio*demorari, an certe
+            in ecclesia et offitio suo debeat re-uocari. §. 1. De episcopi persona hoc faciendum
+            est, ut, si nulla contra eum criminalis causa, que exilio uel depositione digna est,
+            mota siue probata est, is episcopus quieo superstite peruerse et contra canones in
+            ecclesia eius, ordinari presumpsit, sacerdotio priuatus ab omni ecclesiastico ministerio
+            repellatur. Qui etiam eidem dilectissimo Ianuario fratri et coepiscopo nostro tradendus
+            est, utaut^f ab ipso in custodia habeatur, aut certe ab eo ad nostransmittatur £.
+            Episcopi uero, qui eum ordinauerunt, uelordinationi eius consentientes interfuerunt, sex
+            mensibusdominici corporis communione priuati agere penitenciamin monasterio decernantur,
+            et suprascriptus Ianuarius loco etordini suo modis omnibus reformetur. Si uero
+            communionepriuatis mortis contigerit inminere periculum, benedictioeis uiatici non
+            negetur. Si autem episcopi in preiudiciocondempnationis uel depositionis memorati
+            episcopi semetu iudicis consensisse, ac talia fecisse sua sponte confessi fuerint,
+            tempus eis adbreuiandum est, et moduspenitenciae temperandus. Si uero ille, qui locum
+            eius inuasit, de hac fortasse luce migrauerit et alter est ordinatus, quialeuioris
+            culpae uidetur, non quasi isti superstiti, sedsuccessisse defunctop, episcopatus illi
+            offitium ab ea itantummodo ecclesia interdicatur, ut in alia ecclesia, quesacerdote
+            uacauerit, si electus fuerit, possit esse episcopus, ad Malachitanam tamen ecclesiam
+            numquam aliquo modoreuersurus. §. 2. Gloriosus autem comitiolus quicquid predictus
+            episcopus per uiolentiam atque insecutionem ipsiusexpendisse uel dampnum pertulisse dato
+            sacramento firma-uerit, eidem episcopo restituere condempnetur*. Si autemaliter, quam
+            antefati episcopi peticio continet, actum esseforsitan perhibetur, subtiliter querendum
+            est, et cognitaueritate cum Dei timore quod iusticiae ordo suaserit iudi-candum. §. 3.
+            Quia igitur Stephanus episcopus in odiosuo quedam ficta, et de falsis se capitulis
+            accusatum, neque aliquid ordinabiliter factum, sed iniuste asserit secondempnatum,
+            diligenter querendum est primo, siiudicium ordinabiliter est habitum, si alii
+            accusatores, alii testes fuerunt. Deinde causarum qualitas , si dignaexilio uel
+            depositione fuerit; si eo presentey, sub iure-iurando testimonium contra eum dictum est;
+            si scriptisactum est, si ipse licentiam respondendi ac defendendi sehabuerit. Sed et de
+            personis accusantium ac testifican-tium subtiliter querendum est, cuius conditionis
+            sint, cuiusue opinionis, et ne inopes sint, ne forte aliquascontra prefatum pastorem
+            inimicitias habuissent, utrumss testimonium ex auditu dixerint, aut certespecialiter se
+            scire testati sunt; si scriptis iudicatum est, </p>
+
+
+
+
+          <p xml:id="gd-p2c2q1-d1e220"> et partibus presentibus sententia recitata est. Quod si
+            forte hec solempniter acta non sunt, neque causa probataest, que exilio uel depositione
+            digna sit, in ecclesiam suammodis omnibus reuocetur. Hii uero, qui contra Dei timoremet
+            statuta canonum eum condempnauerunt, excommunicatiin monasterio “ ad agendam penitentiam
+            sex mensibussunt mittendi, ita sane, ut, si cuiquam eorum mortis contigeritinminere
+            discrimen, uiatici ei benedictio non negetur.Ipse autem, qui eo uiuente locum eius
+            temerarie ambiuit, priuatus sacerdotio ab omni ministerio ecclesiastico repellatur,
+            atque eidem dilectissimo fratri et coepiscopo nostrotradatur, ut eum aut ipse ad nos
+            transmittat, aut apud sein custodia habeat. Episcopi uero, qui eum ordinare
+            pre-sumpserunt, uel peruersae ordinationi illius consensumprebuere, communione priuati
+            sex mensibus adagendam penitentiam in monasterio deputentur etc. ut suprade causa
+            Ianuarii episcopi et infra **. §. 4. Quod si fortealiqua de obiectis contra memoratum
+            Stephanum episcopumprobata sunt, aliqua uero doceri minime potuerunt, cautaomnino
+            consideratione pensandum est, utrum leuiora capitula, an certe grauiora probata sint, ut
+            ex eis qualiter diffinitionem tuam debeas formare possis scire, f. 5. Gloriosusuero
+            comitiolus, si suprascriptus episcopus innocens esseclaruerit, quicquid de rebus eius
+            uel ecclesiae ipsius tulit eisine aliqua dilatione restituat etc. ut supra in causa
+            Ianuariiepiscopi *® pp. Si autem episcopum talem culpametc. et infra in prima causa
+            monachorum . De persona presbiteri, etc. et infra in causa: Clericus aduersusclericum.
+            Et infra [in eadem epistola 54. undecimi libri].§. 6. De persona Ianuarii episcopi
+            sciendum est, grauiteromnino et contra leges actum ut uiolenter de ecclesiatraheretur;
+            dum si quamlibet iniuriam a quocumque episcopus passus fuerit in ecclesia, iniuriantem
+            lex capitali pena percutiat, et sicut maiestatis reum omnibus detillum accusandi
+            licentiam, ut huius legis series loquiturcodicis lib. I. cap. III. constitut. n.: §. 7.
+            „Si quis inhoc genus sacrilegii inruperit, ut in ecclesia catholica^ inruens
+            sacerdotibus et ministris, uel ipsi cultuilocoque aliquid inportet iniuriae, etc.“ Et
+            infra yy §. 8.De persona episcopi Stephani hoc attendendum est, quia nec inuitus ad
+            iudicium trahi, nec ab episcopis alieniconcilii debuit iudicari. §. 9. Contra hoc si
+            dictum </p>
+
+          <p xml:id="gd-p2c2q1-d1e224"> fuerit, quia nec metropolitanum habuit, nec patriarcham,
+            dicendum est, quia a sede apostolica (que omnium ecclesiarum caput est) hec causa
+            audienda fuerat ac dirimenda, sicut et predictus episcopus petisse dinoscitur. Quia
+            ergoepiscopus alieni concilii iudices habuit omnino suspectos, sententia non a suo
+            iudice dicta nichil firmitatisobtineat. §. io. Quod autem dicitur a seruis
+            suisaccusatus, sciendum est, quia audiri minime debuerunt.§. 11. !34ggg si uero de
+            crimine maiestatis accusatus dicitur, nec* ipsum de eo credendum fuit, si uita uel
+            opinio eiustalis ante non extitit. §. i2. Quod autem dicitidem episcopus, quia se
+            absente aliqui uilissimi sint testesexhibiti, hoc si uerum est, nullius est momenti§.
+            13.141 kkk </p>
+          <p xml:id="gd-p2c2q1-d1e227"> Quales autem testes uel cuius opinionis ad testimonium
+            admittendi sunt, plurimae leges ostendunt, que pene nullihabentur incognitae, que etiam
+            illud sanciunt, utuilissimis testibus sine corporali discussione credi non debeat.§. 14.
+            Quod autem dicitur, quia nichil scriptis iudicatumest, legendum est tit. XLIV. libri
+            VII. codicis constitutioultima, qj scriptis debuit iudicari. Nam ibi interalia
+            precipitur, ut sententia, que sine scripto dictafuerit, nec nomen sententiae ppp habere
+            mereatur. </p>
+          <p xml:id="gd-p2c2q1-d1e230"> [PALE A. </p>
+          <p xml:id="gd-p2c2q1-d1e233"> C. VIII. Ultima sententia debet de scripto preferri. </p>
+          <p xml:id="gd-p2c2q1-d1e236"> Item Codicis libro VII.*, titulo de sententiis ex breui-culo
+            recitandis, Imppp. Valentinianus, Valens et Gratianus AAA. </p>
+          <p xml:id="gd-p2c2q1-d1e239"> Statutis generalibus iussimus, ut uniuersi iudices, quibus
+            reddendi iuris in prouinciis permisimus facultatem, cognitiscausis ultimas diffinitiones
+            de scripti recitatione proferant. Huic adicimus sanctioni, ut sententia, que
+            dictafuerit, cum scripta non esset, nec nomen quidem sententiaehabere mereatur, nec ad
+            rescissionem perperam decretorumappellationis solempnitas requiratur.] </p>
+          <p xml:id="gd-p2c2q1-d1e243"> [PALE A. </p>
+          <p xml:id="gd-p2c2q1-d1e246"> Item ex Concilio apud S. Medardum Hincmarus Remorum
+            Archiepiscopus dixit: </p>
+          <p xml:id="gd-p2c2q1-d1e249"> C. IX. De eodem. </p>
+          <p xml:id="gd-p2c2q1-d1e252"> Legum ecclesiasticarum consuetudo et auctoritas talis </p>
+
+
+
+
+          <p xml:id="gd-p2c2q1-d1e255"> est, ut in causis gestorum semper scripturam requirant,
+            adeo, ut qui ad sacrum fontem accedit, suum dare nomenprecipiatur. Qui ad summum
+            sacerdotium prouehitur, decreto manibus omnium roborato eligitur. Ordinatus autema suis
+            ordinatoribus litteras accipere iubetur. Qui etiam abecclesiastica societate quolibet
+            excessu discinditur, libelliinscriptione aut recipitur, aut eicitur. Sed et
+            qui*accusatur aut excommunicatur, seu reconciliatur, perscripturam accusari uel
+            reconciliari iubetur. Et sic in ceterishuiusmodi in tantum scriptura deposcitur, ut
+            sicut B. Gregorius in commonitorio ad Iohannem defensorem ex Romanislegibus sumens
+            scribit: , , Sententia, que sine scriptoprofertur, nec nomen sententiae habere
+            mereatur.“J </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e259">
+          <head xml:id="gd-p2c2q1-Hd1e261">C. X</head>
+          <head xml:id="gd-p2c2q1-Hd1e264" type="question-title"> Restituendus est , quem neque
+            confessum , neque conuictum constat esse eiectum. </head>
+          <p xml:id="gd-p2c2q1-d1e267"> Item Nicolaus Papa Air ardo™* Turonensi Archiepiscopo . </p>
+          <p xml:id="gd-p2c2q1-d1e270"> Notum sit tuae fraternae karitati, quod iste presbiter
+            pauper, nomine Christoforus, de sua angustia ad nostramclementiam lacrimabiliter sit
+            conquestus, dicens, se falsiscriminibus inpetitum, et ab ecclesia non conuictumneque
+            confessum inrationabiliter fuisse reiectum. Nam, ut ipse refert, tua diligentia per tres
+            uices inquisitionefacta, nulla in se neque de fornicationis crimine, neque dehomicidii
+            consensione* potuit culpa reperiri, nisi quiasuae paupertatis causa que petebantur aut
+            consentirenoluit, aut adinplere non potuit. Quod suus tamenemulus ultroneus egit, qui
+            ecclesiam illius iniuste preripuit.Idcirco magnopere monemus reuerentiam tuam, ut s que,
+            forte te ignorante, Gieziaca cupiditate peracta esse uiden-tur, tuae fraternitatis
+            censura celeri emendatione corrigantur, scilicet restituendo ecclesiae propriae iam
+            dictum sacerdotem, atque ei reddendo tua pietate, quem perdiditpristinum honorem, et
+            nullatenus canonica instituta alicuiustemeritate contempni permittas, quia facientem et
+            consentientem par pena constringit. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e275">
+          <head xml:id="gd-p2c2q1-Hd1e277">C. XI</head>
+          <head xml:id="gd-p2c2q1-Hd1e280" type="question-title"> Antequam causa probetur , aliquis
+            excommunicari non debet. </head>
+          <p xml:id="gd-p2c2q1-d1e283"> Item de libro constitucionum . </p>
+          <p xml:id="gd-p2c2q1-d1e286"> Nemo episcopus, nemo presbiter excommunicet aliquem,
+            antequam causa probetur, propter quam ecclesiastici canoneshoc fieri iubent. Si quis
+            autem excommunicauerit aduersus eam aliquem, ille, qui excommunicatus est, maioris
+            sacerdotis auctoritate ad gratiam sanctae communionis redeat; is autem, qui non legitime
+            excommunicauerit, in tantum abstineat tempus, quantum maiorissacerdotis auctoritati
+            uisum fuerit, ut quod iniustefecit ipse iuste patiatur. </p>
+
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e290">
+          <head xml:id="gd-p2c2q1-Hd1e292">C. XII</head>
+          <head xml:id="gd-p2c2q1-Hd1e295" type="question-title"> Incerta et dubia iudicari non
+            possunt.</head>
+          <p xml:id="gd-p2c2q1-d1e298"> Item Augustinus in epistola [CXXXVII.] ad clerum et
+            uniuersalem plebem Ipponensem . </p>
+          <p xml:id="gd-p2c2q1-d1e301"> Nomen presbiteri propterea non ausus sum de numero
+            collegarum eius uel subprimere, uel delere, ne diuinaepotestati, sub cuius examine causa
+            adhuc pendet, facereuiderer iniuriam, si illius iudicium meo uellem iudiciopreuenire;
+            quod nec in negotiis secularibus iudices faciunt, quando ad maiorem potestatem dubitatio
+            defertur, ut pendente relatione aliquid audeant conmutare. Inepiscoporum quoque concilio
+            constitutum est, nullumclericum, qui nondum conuictus est, suspendi a communione debere,
+            nisi ad causam suam examinandam se nonpresentauerit. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e305">
+          <head xml:id="gd-p2c2q1-Hd1e307">C. XIII</head>
+          <head xml:id="gd-p2c2q1-Hd1e310" type="question-title"> Nec ex* suspicionis arbitrio, nec
+            ante uerum et iustum iudicium aliquis condempnetur. </head>
+          <p xml:id="gd-p2c2q1-d1e313"> Item Melciades Papa [Episcopis Hispaniae]. </p>
+          <p xml:id="gd-p2c2q1-d1e316"> Primo semper omnia diligenter inquirite, ut cum iustitia et
+            karitate diffiniatis; neminem condempnetisante iustum et uerum iudicium; nullum
+            iudicetis suspicionisarbitrio; sed primum probate, et postea karitatiuam proferte
+            sententiam, et quod uobis non uultis fieri alterinolite facere. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e320">
+          <head xml:id="gd-p2c2q1-Hd1e322">C. XIV</head>
+          <head xml:id="gd-p2c2q1-Hd1e325" type="question-title"> Qui ab accusatione prohibeantur,
+            et qui recipiantur.</head>
+          <p xml:id="gd-p2c2q1-d1e328"> Dig . lib. XL VIII. iit. de accusationibus et
+            inscriptionibus, [1. qui accusare]. </p>
+          <p xml:id="gd-p2c2q1-d1e331"> Prohibentur accusare alii propter sexum uel etatem, ut
+            mulier et pupillus. Alii propter sacramentum, ut qui stipendium merentur. Alii propter
+            magistratum et potestatem , in qua agentes sine fraude in ius euocari nonpossunt. Alii
+            propter delictum proprium, ut infames. Aliipropter turpem questum, ut qui duo iudicia
+            aduersus duosreos subscripta habent, nummosue ob accusandum uel nonaccusandum
+            acceperint. Alii propter conditionem suam, ut libertini contra patronos. Alii propter
+            suspicionem calumpniae, ut illi, qui falsum testimonium subornatidixerunt. Nonnulli
+            propter paupertatem, ut sunt quiminus quam quinquaginta aureos habent. Hi tamenomnes, $i
+            suam iniuriam exequantur, mortemue propinquorum defendant, ab accusatione non
+            excluduntur. Liberilibertique non sunt prohibendi suarum rerum defendendarum gratia de
+            facto parentum patronorumue queri, ue*luti e si dicant, ui se a possessione ab his
+            expulsos, scilicet non ut crimen uis eis intendant, sed ut possessionem recipiant. Nam
+            et filius non quidem prohibitus estde facto matris queri, si dicat subpositum ab ea
+            partum, quo magis coheredem habeat S; sed eam ream lege Cor- </p>
+
+
+
+
+          <p xml:id="gd-p2c2q1-d1e334"> nelia facere ei permissum non est. §. i. Ab alio delatum
+            alius deferre non potest: sed eum, qui abolicione publicauel priuata interueniente, aut
+            desistente accusatore dereis exemptus est, deferre non prohibetur. §. 2. Mulierem
+            propter publicam utilitatem ad annonam pertinentemaudiri a prefecto annonae deferentem
+            diuus Seuerus etAntoninus rescripserunt. Famosi quoque accusantes sineulla dubitatione
+            admittuntur. Milites quoque, ad hancaccusationem admittendi sunt. Serui quoque
+            deferentesaudiuntur. </p>
+          <p xml:id="gd-p2c2q1-d1e338"> II. Pars. Gratian. His omnibus auctoritatibus datur
+            intelligi, quod nullus est condempnandus, nisi iudicio ordinabiliter habito aut
+            conuincatur, aut reum se ipse confiteatur. Verumhec de illis intelligenda sunt , quorum
+            crimina sunt occulta;ceterum que manifesta sunt iudiciarium ordinem non requirunt. </p>
+          <p xml:id="gd-p2c2q1-d1e341"> Unde Ambrosius *. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e345">
+          <head xml:id="gd-p2c2q1-Hd1e347">C. XV</head>
+          <head xml:id="gd-p2c2q1-Hd1e350" type="question-title"> Sine accusatione manifesta
+            iudicantur*-.</head>
+          <p xml:id="gd-p2c2q1-d1e353"> Manifesta accusatione non indigent. </p>
+          <p xml:id="gd-p2c2q1-d1e356"> G. XVI. De eodem . </p>
+          <p xml:id="gd-p2c2q1-d1e359"> Item Nicolaus Papa Karolo Regi [in epistola, quae incipit:
+            Syllabarum] *. </p>
+          <p xml:id="gd-p2c2q1-d1e363"> Que Lotharius uester nepos rex fecit accusatione non
+            indigent. Manifesta enim sunt opera eius . </p>
+          <p xml:id="gd-p2c2q1-d1e366"> Gratian. In manifestis enim calliditate accusantium reus non
+            opprimitur, nec tergiuersatione propria S crimen celatur, cum culpa sua sponte se oculis
+            omnium ingerat, atque ideo intalibus iudiciarius ordo non requiritur, qui ideo tantum
+            institutus est, ut nec innocentia insidiis pateret aduersantium, necculpa delinquentis
+            sententiam effugeret iusti examinis. </p>
+          <p xml:id="gd-p2c2q1-d1e369"> Unde Stephanus Papa [V.] Leoni Episcopo Thianensi^** ; </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e373">
+          <head xml:id="gd-p2c2q1-Hd1e375">C. XVII</head>
+          <head xml:id="gd-p2c2q1-Hd1e378" type="question-title"> Ordinem iudiciarium manifesta non
+            desiderat causa.</head>
+          <p xml:id="gd-p2c2q1-d1e381"> In manifesta et nota plurimis causa non sunt querendi
+            testes, ut S. Ambrosius in epistola ad Corinthiosdicit, de fornicacione exponens
+            sententiam Apostoli:, , Iudicis, inquam non est sine accusatore dampnare, quia Dominus
+            ludam, cum fuisset s fur, quia nonest accusatus, minime abierit.Cognito autem </p>
+          <p xml:id="gd-p2c2q1-d1e384"> opere isto pellendum illum Apostolus de cetu fraternitatis
+            censuit. Omnes enim crimen eius sciebant, et non arguebant. Publice enim novercam suam
+            loco uxorishabebat, in qua re neque testibus opus erat, neque tergiversatione aliqua
+            poterat tegi crimen. Et paulo post: </p>
+
+          <p xml:id="gd-p2c2q1-d1e387"> Absens facie, presens autem auctoritate Spiritus, qui
+            nusquam abest, iam iudicaui ut presens eum, qui hocadmisit, tradi satanae in interitum
+            carnis.“ </p>
+          <p xml:id="gd-p2c2q1-d1e391"> III. Pars. Gratian. Sed sciendum est, quod eorum, que
+            manifesta sunt, alia sunt nota iudici, et incognita aliis; alia suntocculta iudici et
+            manifesta aliis ; quedam uero sunt nota iudici, et aliis. Que iudici tantum nota sunt,
+            sine examinatione feriri nonpossunt, quia, dum accusatoris persona assumitur,
+            iudiciariapotestas amittitur. In una enim eademque causa nullus simulpotest esse
+            accusator et iudex . </p>
+          <p xml:id="gd-p2c2q1-d1e394"> Unde Augustinus in omelia depenitentia [que est L. c. 12.]:
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e399">
+          <head xml:id="gd-p2c2q1-Hd1e401">C. XVIII</head>
+          <head xml:id="gd-p2c2q1-Hd1e404" type="question-title"> Quando aliqui sunt corrigendi
+            quando tollerandi . </head>
+          <p xml:id="gd-p2c2q1-d1e407"> Multi corriguntur ut Petrus; multi tollerantur, ut ludas;
+            multi nesciuntur, „ donec ueniat Dominus, qui illuminabit abscondita tenebrarum.^ Et
+            infra : §. 1. Nos ueroa communione quemquam prohibere non possumus (quamvis hec
+            prohibitio nondum sit mortalis, sed medicinalis)nisi aut sponte confessum, aut in aliquo
+            siue seculari, siueecclesiastico iudicio nominatum atque conuictum. Quisenim sibi
+            utrumque audet assumere, ut cuiquam ipsesit et accusator, et iudex? Huiusmodi regulam
+            etiamPaulus apostolus in epistola ad Corinthios breuiterinsinuasse intelligitur, cum
+            quibusdam commemoratiscriminibus ecclesiasticis formam ad omnia similia exquibusdam
+            daret. Ait enim: „Scripsi uobis in epistolane commisceamini fornicariis. Non utique
+            huius mundifornicariis, aut auaris, aut raptoribus, aut ydolis seruientibus, alioquin
+            debueratis de hoc mundo exire.“s Non enimpossunt homines in hoc mundo manentes nisi cum
+            talibus uiuere, nec eos possunt lucrifacere Christo, si eorumcolloquium conuictumque
+            uitauerint. Unde et Dominuscum publicanis et peccatoribus comedens: „Non est, inquit,
+            necessarius sanis medicus, sed male habentibus.Non enim ueni uocare iustos, sed
+            peccatores.^. Etideo sequitur Apostolus, et adiungit: „Nuncautem scripsi uobis non
+            commisceri. Si quis fraternominatur aut fornicator, aut ydolis seruiens, autauarus, aut
+            maledicus, aut ebriosus, aut rapax, cum huiusmodi nec cibum sumere. Quid enim mihi de
+            his, qui foris sunt, iudicare? Nonne de his, qui intus sunt, uosiudicatis? De his autem,
+            qui foris sunt, iudicabit Deus.Auferte malum a uobis ipsis.“ Quibus uerbis satis
+            ostendit, non temere, aut quomodolibet, sed per iudicium auferendos esse malos ab
+            ecclesiae communione, ut, si per iudiciumauferri non possunt, tollerentur potius, ne
+            peruerse malos euitando ab ecclesia ipse discedens, eos, quos fugere uide- </p>
+
+
+
+
+          <p xml:id="gd-p2c2q1-d1e410"> tur, uinciat ad gehennam. Quia et ad hoc nobis in scripturis
+            p sunt exempla proposita, uelud in messe, ut palea sufferatur usque ad ultimum
+            uentilabrum, uelintra illa retia, ubi pisces boni cum malis usque ad segregationem, que
+            futura est in litore, id est in fine seculi, equoanimo tollerentur. §. 2. Non enim est
+            contrarium huic locoilludq, quod dicit Apostolus: „Tu, quis es, quiiudicas seruum
+            alienum? suo domino stat aut cadit.“ Noluitenim hominem ab homine iudicari ex arbitrio
+            suspicionis ueletiam extraordinario usurpato iudicio, sed potius ex lege Deisecundum
+            ordinem ecclesiae, siue ultro confessum, siue accusatum atque conuictum. Alioquin illud
+            cur dixit: „ Si quisfrater nominatur aut fornicator, aut ydolis seruiens etc.“nisi quia
+            eam nominationem uult intelligi, que fit inquemquam, cum sententia ordine iudiciario
+            atque integritateprofertur? Nam si nominatio sufficit, multi innocentesdampnandi sunt,
+            quia sepe falso in quoquam criminanominantur. §. 3. Non ergo illi, quos monemus agere
+            penitentiam, querant sibi comites ad suplicia, nec gaudeant, quia plures iuueniunt sibi
+            similes . Nam non propterea minus ardebunt, quia cum multis ardebunt. </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e414">
+          <head xml:id="gd-p2c2q1-Hd1e416">C. XIX</head>
+          <head xml:id="gd-p2c2q1-Hd1e419" type="question-title"> Peccatum , quod iudici tantum
+            notum est , ab eo dampriari non ualet °. </head>
+          <p xml:id="gd-p2c2q1-d1e422"> Idem in eodem . </p>
+          <p xml:id="gd-p2c2q1-d1e425"> Si peccauerit in te frater tuus, corripe eum inter te et
+            ipsum solum. Quare? quia in te peccauit. Quid est:, , In te peccauit?“ Tu scis, quia
+            peccauit. Quia enimsecretum fuit, quando peccauit in te, secretum quere, cumcorrigis
+            quod peccauit. Nam si solus nosti quia peccauit in te, et eum uis coram omnibus arguere,
+            non eriscorrector, sed proditor. Adtende, quemadmodum iu-stus Ioseph tanto flagitio,
+            quod de uxore fuerat suspicatus, tanta benignitate pepercit, antequam sciret unde
+            illaconceperat, quam grauidam senserat, et se ad illam nonaccessisse nouerat. Restabat
+            igitur certa adulterii suspicio, et tamen, quia ipse non nouerat, quod dicit £
+            euangelium? , , Ioseph autem, cum esset iustus, et nolleteam diuulgare, uoluit occulte
+            dimittere eam. §. i.Ergo ipsa corripienda sunt coram omnibus que peccanturcoram omnibus.
+            Ipsa corripienda sunt secretius que peccantur secretius. Distribuite tempora, et
+            concordetscriptura. Sic agamus, et sic agendum est, non solumquando in nos peccatur, sed
+            etiam quando peccatur abaliquo, ut ab altero nesciatur». §. 2. Nescio quemhomicidam
+            nouerit p episcopus, et nemo alius illum nouit.Ego uoloi illum publice corripere, et tu
+            queris inscribere? Prorsus nec prodo, nec^ negligo: corripio insecreto, pono ante oculos
+            Dei iudicium, terreo cruentamconscientiam, persuadeo penitentiam. Hac karitate
+            preditiesse debemus. Unde aliquando homines reprehendunt nos, quod quasi non
+            reprehendamus, aut putant nos scirequod nescimus, aut putant nos tacere si scimus. F
+            orte quod scis et ego scio: non coram te corripio, quia curareuolo, non accusare. §. 3.
+            Sunt homines adulteri in domibussuis, in secreto peccant, aliquando nobis ab uxoribus
+            suis, plerumque zelantibus, aliquando maritorum salutem queren-tibus produntur. Nos non
+            prodimus , sed in secreto arguimus. Ubi contingit malum ibi moriatur y.Non tamen illud
+            uulnus pegligimus, ante omnia ostendentes, homini in tali peccato constituto, sauciatam
+            que conscientiam gerenti, illud uulnus esse mortiferum. </p>
+
+          <p xml:id="gd-p2c2q1-d1e428"> IV. Pars. Gratian. Quando uero crimen est notum aliis , et
+            non iudici , nec tunc sine examinatione feriendum est , quia incrimen sibi occultum
+            iudex sententiam ferre non debet. </p>
+          <p xml:id="gd-p2c2q1-d1e432"> Unde Euaristus Papa ait [epist. II.]: </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e436">
+          <head xml:id="gd-p2c2q1-Hd1e438">C. XX</head>
+          <head xml:id="gd-p2c2q1-Hd1e441" type="question-title"> Sententia non precipitanter
+            ferenda est.</head>
+          <p xml:id="gd-p2c2q1-d1e444"> Deus omnipotens, ut nos a precipitandae sententiae
+            prolatione conpesceret, cum omnia nuda et aperta sintoculis eius, mala tamen Sodomae
+            noluit audita iudicareprius, quam manifeste cognosceret que dicebantur, undeipse ait:
+            „Descendam, et uidebo, utrum clamorem, qui uenit ad me, opere conpleuerint, an non est
+            ita, utsciam.“ Deus omnipotens, cui nichil est absconditum, sed omnia ei manifesta sunt
+            antequam fiant, nonideo hec et alia multa (que ob prolixitatem capitulonon inseruimus)
+            per se inquirere dignatus est, non quod eaignoraret, sed ut nobis exemplum daret, ne
+            precipites indiscutiendis et iudicandis negotiis essemus, et nemala proximorum s prius
+            quisquam presumat crederequam probare. Cuius exemplo monemur, ne ad proferendam
+            sententiam umquam precipites simus, aut temere indi-ligenterque indiscussa quoquo modo
+            iudicemus, dicente ueritatis uoce: „ Nolite iudicare, ut non iudicemini:in quo enim
+            iudicio iudicaueritis iudicabimini, “ et reliqua.Mala uero audita nullum moueant, nec
+            passim dicta absque certa probatione quisquam umquam credat, sed anteaudita diligenter
+            inquirat, nec precipitanter quidaliquis agat. Si enim Deus omnium cognitor Sodomorum
+            mala, quorum clamor ad celum usque peruenerat, omnia sciens prius, nec credere, nec
+            iudicare uoluit, quamipse ea cum fidelibus testibus diligenter inuestigans, que </p>
+
+
+
+
+          <p xml:id="gd-p2c2q1-d1e447"> audierat, opereP conpr obaret q, nos qui sumus homines et
+            peccatores, quibus incognita sunt occulta iu-dicia Dei, hec precauentes", nullum ante
+            ueramiustamque probationem iudicare aut dampnare debemus, manifeste Paulo apostolo
+            dicente; „Tu, quis es, quiiudicas alienum seruum? suo enim domino stat autcadit. </p>
+          <p xml:id="gd-p2c2q1-d1e450"> V. Pars. Gratian. Quando autem crimen notum est iudici et
+            aliis, aliquando reus inficiatur factum, ueluti si quis negaretse 416 x interfecisse
+            eum, quem sub oculis iudicis in conspectu multorum interfecerat * y. Hic, quia se reum
+            negat, sine examinatione feriri non potest. Aliquando ipsa euidentia operis reumtestatur
+            , quando opere publico crimen suum confitetur, tuncpost secundam ‘et tertiam
+            correctionem sine examinationedampnandus est*-, si incorrigibilis extiterit. In hoc
+            itaqueultimo casu intelligenda est auctoritas illa Ambrosii et Nicolai:„ Manifesta
+            accusatione non indigent .“ Fornicator enim ille, in quem sine examinatione sententia
+            apostolica processerat, publice coram omnibus nouercam suam pro uxore habebat.Lotharius
+            quoque, de quo Nicolaus scribit, similiter uxoremsuam publice dimiserat, et aliam
+            superduxerat. </p>
+          <p xml:id="gd-p2c2q1-d1e454"> Unde idem** Nicolaus *^ scribit Archiepiscopis et Episcopis </p>
+          <p xml:id="gd-p2c2q1-d1e457"> per Galliam, Italiam, Germaniam constitutis *: </p>
+        </div>
+        <div xml:id="gd-p2c2q1-Dd1e461">
+          <head xml:id="gd-p2c2q1-Hd1e463">C. XXI</head>
+          <head xml:id="gd-p2c2q1-Hd1e466" type="question-title"> Sine accusatore** manifesta
+            ferienda sunt. </head>
+          <p xml:id="gd-p2c2q1-d1e469"> Scelus, quod Lotharius rex (si tamen ueraciter rex dici
+            possit, qui nullo salubri regimine corporis appetitus refrenat, sed lubrica eneruatione
+            magis illicitis eius motibus cedit)in duabus feminis, Teberga scilicet et Waldrada,
+            commisit, omnibus manifestum est. Sed et dudum episcopos Teugaldum et Guntarium^ in tali
+            facto eum habuisse tutores atque fautores, pene totus orbis undiquead limina seu sedem
+            confluens apostolicam referebat.Igitur decernente nobiscum sancta Sinodo, in
+            presentiadepositi, et ab offitio sacerdotali excommunicati, atque aregimine episcopatus
+            alienati indubitanter existunt. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

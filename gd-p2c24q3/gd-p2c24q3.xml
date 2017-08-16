@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c24q3">
+        <head xml:id="gd-p2c24q3-Hd1e103"> QUESTIO III. </head>
+
+        <p xml:id="gd-p2c24q3-d1e106"> I. Pars. Quod autem pro peccato alicuius tota familia </p>
+
+        <p xml:id="gd-p2c24q3-d1e109"> excommunicanda sit, multorum exemplis probatur. Pro peccato
+          namque Sodomitarum paruuli eorum, qui beneficio etatis paternaflagicia nesciebant, celesti
+          igne sunt consumpti. §. 1. Item propeccato Amalecitarum non solum paruuli eorum, sed etiam
+          brutaanimalia usque ad mingentem ad parietem iussa sunt deleri aDomino. §. 2. Jtem Dathan
+          et Abiron auctores scismatis fuerunt contra Moysen et Aaron nec tantum ipsi soli, sed
+          omnissubstantia eorum cum ipsis descendit ad inferos. §.3. In nouoetiam testamento
+          nonnumquam peccatis exigentibus grauis pestilentia deseuisse legitur, que etiam illos
+          inuoluit, qui peccati conscientiam non habebant. Si ergo tam seuerissime pro
+          peccatisparentum inueniuntur paruuli puniti, nulli dubium est, quinpro peccatis eorundem
+          sentencia excommunicationis pariterferiri ualeant . §. 4. His ita respondetur: Pro
+          peccatis parentum paruulos corporaliter flagellari ex uerbis euangelii apparet , ubi
+          discipuli de ceco nato interrogasse dicuntur : „ Rabbi, quis peccauit, hic, aut parentes
+          eius, ut cecus nasceretur ?“ Inquibus etiam illud conpletur, quod Dominus ait ad Moysen :,
+          , Ego sum Deus zelotes, uisitans peccata patrum in filios usquein tertiam et quartam
+          generationem .“ Spiritualiter autem peccatis parentum paruuli non tenentur, ex quo per
+          sacramentumregenerationis ab originali peccato fuerint emundati. Unde perEzechielem
+          Dominus ait'. „ Anima, quepeccauerit, ipsa morietur ; filius non portabit iniquitatem
+          patris, et pater non portat iniquitatem filii; iustitia iusti super eum erit , et inpietas
+          inpiierit super eum. Quecumque etiam peccata parentes conmise-runt, ex quo filius
+          personaliter ab eis separatus fuerit, ei noninputantur ad penam. Unde peccato Adae ideo
+          omnes posteriteneri dicuntur, quia nondum aliquis ex illo materialiter fueratproseminatus.
+          Quia, uero apud Deum non sentencia sacerdotum, sed uita reorum queritur, patet, quod non
+          est notandus sentenciaquem peccati macula non inficit. Hinc etiam Paulus scribens
+          Chorinthiis ait : „ Si quis frater nominatur fornicator, autauarus, aut idolis seruiens,
+          cum eiusmodU nec cibum sumeredebetis. Ex quibus uerbis datur intelligi, quod nisi
+          primumfuerit aliquis nominatus * de crimine, id est uel coram iudiceaccusatus et
+          conuictus, uel in iure ipse de se fuerit confessus, quod nec sentencia est feriendus, nec
+          ab eius conmunione est abstinendum. Non ergo pro alicuius peccato tota familia
+          excommunicanda est. </p>
+        <p xml:id="gd-p2c24q3-d1e112"> Unde Augustinus scribit ad Auxilium Episcopum, [epist.
+          LXXV.]: </p>
+        <div xml:id="gd-p2c24q3-Dd1e115">
+          <head xml:id="gd-p2c24q3-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c24q3-Hd1e120" type="question-title"> Pro peccato^- patris non est
+            filius anathematizandus.</head>
+          <p xml:id="gd-p2c24q3-d1e123"> Si habes de hac re sentenciam certis rationibus uel
+            scripturarum testimoniis exploratam, nos docere digneris, quomodo recte anathematizetur
+            pro patris peccato filius, aut pro mariti uxor, aut pro domini seruus, aut quisquam </p>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e126"> in domo etiam nondum natus, si eo tempore, quo uniuersa
+            domus est anathemate obligata, nascatur, nec ei possitper lauacrum regenerationis in
+            mortis periculo subueniri.Hec enim fuit* corporalis pena, qua legimus
+            quosdamcontemptores Dei cum suis omnibus, qui eiusdem impietatisparticipes fuerunt,
+            pariter interfectos. Tunc quippe adterrorem uiuentium mortalia corpora perimebantur,
+            quandoque etiam moritura. Spiritualis autem pena, qua fitquod scriptum est: „Quae
+            ligaueris super terram^eruntligata et in celo, “ animas obligat, de quibus dictum
+            est:„Ut anima s patris, et anima filii mea est. Anima, quepeccauerit, ipsa morietur.“ §.
+            i. Audistis fortassis aliquos magni nominis sacerdotes cum domo sua
+            quempiamanathematizasse peccantium. Sed forte, si essent interrogati, reperirentur
+            ydonei inde reddere rationem. Egoautem % si quis a me quesierit, utrum id rectefiat,
+            quid ei respondeam non inuenio, numquam hoc facere ausus sum de quorumdam** facinoribus
+            unanimiteraduersus ecclesiam perpetratis, nisi grauissime conmo-uerer. Sed si tibi quam
+            iuste id fiat Dominusreuelauit, nequaquam iuuenilem etatem tuam, et honorisecclesiastici
+            rudimenta contempno. Senex enim p aiuuenei, et episcopus tot annorum a collega necdum
+            anniculo paratus sum doceri, quomodo possim uel Deo, uel hominibus iustam reddere
+            rationem, si animas innocentes pro scelere alieno quod non trahunt ex Adam, in quo omnes
+            peccauerunt, spirituali supplicio puniamus.Etenim Classitiani filius, etsi traxit ex
+            patre noxamprimi hominis, sacro fonte baptismatis expiandam, tamenquicquid post, quam
+            eum genuit, peccati pater eiusadmisit, ubiy particeps ipse non fuit, ad eum non
+            pertinere quis ambigit? Quid dicam de coniuge***? Quidde tot animabus uniuersae
+            familiae? Unde si unaanima per istam seueritatem, qua tota domus ista anathematizata
+            est, sine baptismate de corpore exeundo perierit, innumerabilium mors corporum, si de
+            ecclesia homines innocentes uiolenter abstrahantur et interficiantur, huic dam-pno non
+            potest conparari. Si ergo de hac re potes reddererationem, utinam et nobis rescribendo
+            prestes, ut possimuset nos. Si autem non potes, quid tibi est inconsulta con-motione
+            animi facere, unde, si interrogatus fueris, responsionem rectam non uales inuenire? Hec
+            autem dixi, etiamsi filius noster Classitianus aliquid admisit, quod tibianathemate
+            plectendum iustissime uideretur. </p>
+          <p xml:id="gd-p2c24q3-d1e129"> II. Pars. Gratian. Ut ergo ex hac auctoritate
+            euiderilissime monstratur, illicite excommunicatur quis pro peccato alterius , </p>
+
+          <p xml:id="gd-p2c24q3-d1e133"> neque aliqua ratione nituntur qui pro peccato unius in
+            totam familiam sentenciam ferunt excommunicationis. Illicita autemexcommunicatio notatum
+            non ledit , sed excommunicantem. </p>
+          <p xml:id="gd-p2c24q3-d1e136"> Unde Gregorius scribit Magno , Episcopo Mediolanensi ,
+            [lib. II. epist. 26.]: </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e141">
+          <head xml:id="gd-p2c24q3-Hd1e143">C. II</head>
+          <head xml:id="gd-p2c24q3-Hd1e146" type="question-title"> Illicite aliquem excommunicans ,
+            semet ipsum , condempnat non illum. </head>
+          <p xml:id="gd-p2c24q3-d1e149"> Conperimus, quod Laurentius quondam frater et coepiscopus
+            noster nullis te culpis extantibus conmu-nione pnuauerit. Ideoque huius precepti nostri
+            auctoritatemunitus offitium tuum securus perage, et conmunionemsine aliqua sume
+            formidine. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e153">
+          <head xml:id="gd-p2c24q3-Hd1e155">C. III</head>
+          <head xml:id="gd-p2c24q3-Hd1e158" type="question-title"> Qui non corde , sed ore
+            maledicunt , labiorum inmundiciam contrahunt. </head>
+          <p xml:id="gd-p2c24q3-d1e161"> Item Ieronimus in Leuitico . </p>
+          <p xml:id="gd-p2c24q3-d1e164"> Qui negligunt oris maledicti consuetudinem resecare,
+            etiamsi non corde maledicant, tamen inmundiciamlabiorum (secundum Ysaiae uerbum) et
+            inquinamenta orisincurrunt. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e168">
+          <head xml:id="gd-p2c24q3-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c24q3-Hd1e173" type="question-title"> Vita , non sentencia ligat
+            quemlibet uel soluit. </head>
+          <p xml:id="gd-p2c24q3-d1e176"> Item . </p>
+          <p xml:id="gd-p2c24q3-d1e179"> Si quis non recto iudicio eorum, qui presunt ecclesiae,
+            depellatur, et foras mittatur, si ipse antea non exiit, hocest, si non ita egit, ut
+            mereretur exire, nichil leditur in eo, quod non recto iudicio ab hominibus uidetur
+            expulsus. Etita fit, ut interdum ille, qui foras mittitur, intus sit, et illeforis, qui
+            intus uidetur retineri. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e183">
+          <head xml:id="gd-p2c24q3-Hd1e185">C. V</head>
+          <head xml:id="gd-p2c24q3-Hd1e188" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c24q3-d1e191"> Item R ab anu s de ecclesiasticis pressuris , lib. 7 . </p>
+          <p xml:id="gd-p2c24q3-d1e194"> Non in perpetuum dampnamur, cum iniuste iudicamur, dicente
+            Psalmista: „Nec dampnabit illum, cum iudica-bitur illi.“ Multi sacerdotum culpam se zelo
+            Dei persequiprofitentur; sed, dum indiscrete hoc agunt, sacrilegiifacinus incurrunt, et
+            dum precipites quasi ad emendandumruunt, ipsi quoque multo magis deterius cadunt. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e198">
+          <head xml:id="gd-p2c24q3-Hd1e200">C. VI</head>
+          <head xml:id="gd-p2c24q3-Hd1e203" type="question-title"> Qua pena feriatur qui illicite
+            aliquem excommunicat.</head>
+          <p xml:id="gd-p2c24q3-d1e206"> Item ex Concilio Parisiensi tempore Lodouici . </p>
+          <p xml:id="gd-p2c24q3-d1e209"> De illicita excommunicatione lex Iustiniani inperatoris
+            catholici, quam probat et seruat catholica ecclesia, constitutione CXXVIII* cap. CCCLI
+            decreuit, ut nemopresbiter excommunicet aliquem ante, quam causa probetur, </p>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e212"> propter quam ecclesiastici canones hoc fieri iubent. Si
+            quis autem aduersus ea aliquem excommunicauerit, ille quidem, qui excommunicatus est,
+            maioris sacerdotis auctoritatead gratiam sanctae conmunionis redeat: is autem,
+            quilegitime non excommunicauerit, in tantum abstineat asacra conmunione tempus, quantum
+            maiori sacerdoti uisumfuerit, ut quod iniuste fecit ipse iuste patiatur. Hincet S.
+            Gregorius ad Iohannem episcopum iniuste excommunicantem inter cetera scripsit, dicens: ,
+            , Cassatisprius atque ad nichilum redactis predictae sentenciaetuae decretis, ex B.
+            Petri principis apostolorum auctoritatedecreuimus^, triginta dierum spacio sacra
+            conmunione priuatum ab omnipotenti Deo tanti excessus ue-niam cum summa penitencia ac
+            lacrimis exorare. Quod sihanc sentenciam nostram te cognouerimus inplesseremissius, non
+            iam tantum iniusticiam, sed contumaciamfraternitatis tuae cognoscas iuuante Domino
+            seueriuspuniendam, “ quia nemo propere uel prepostere, scilicetnon conmonitus neque
+            conuictus est iudicandus. §. i.De conuentione autem huiusmodi inperatoris manifestorum
+            criminum lex dicit: , , Quicumque tribus auctoritatibusiudicis conuentus, uel tribus
+            edictis fuerit ad iudicem prouo-catus, aut uno pro omnibus peremptorio, id est quod
+            causam exstinguit, fuerit uocatusP, et presenciam suam apudeum iudicem, a quo ei
+            denunciatum est, exhibere noluerit, aduersus eum quasi in contumacem iudicari potest.
+            Quinimoretractari nec per appellationem negocia possunt, quociensin contumacem fuerit
+            iudicatum.“ Et hanc sentenciam detribus auctoritatibus conuentis ex euangelica
+            ueritateiCelestinus** ad Nestorium dicens, et Ephesina*** sinodus de eodem decernens, et
+            B. Gregorius ad Iohannemscribens, conprobauit. §. 2. De peremptorio scriptoAffricanum
+            concilium demonstrat de Cresconio, ut, siconuentus resipiscere detrectauerit, suo
+            contemptu etsua contumacia faciente, auctoritate iudiciaria iamprotinus excludatur. Item
+            B. Gregorius de sentenciain contumacem, scribens ad Maximum presumptoremSalonitanum
+            episcopum, dixit: , , Hortamur, ut ad nosuenire omni postposita excusatione festines,
+            quatinus ser-uata iusticia hec, de quibus accusaris, et cognoscere, </p>
+
+          <p xml:id="gd-p2c24q3-d1e216"> et finire secundum canonica instituta Christo reuelante
+            possimus. Ita autem fac, ut ad ueniendum amplius iammoras non ingeras, nec magis ipsa te
+            absencia obnoxiumhis, que dicuntur, assignet, et nos in te hec res, non solumpropter
+            predicta crimina, que purgare subterfugis, sedetiam propter inobedientiae culpam,
+            durius, scilicet ut incontumacem, cogat ex concilio ferre iudicium. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e220">
+          <head xml:id="gd-p2c24q3-Hd1e222">C. VII</head>
+          <head xml:id="gd-p2c24q3-Hd1e225" type="question-title"> Vita, non sentencia aliquem ab
+            ecclesia eicit , uel ad eam reducit. </head>
+          <p xml:id="gd-p2c24q3-d1e228"> Item Origenes super Leuiticum, [hom. XIV. ad c. 24.]* Cum
+            aliquis exiit a ueritate, a timore Dei, a fide, a karitate, exit de castris ecclesiae,
+            etiamsi per episcopi uocem minime abiciatur; sicut e contrario, aliquisnon recto iudicio
+            foras mittitur, sed si ante nonexierit, id est non egerit ut mereretur exire,
+            nichilleditur. Interdum enim qui foras mittitur intus est, etqui foris est intus uidetur
+            retineri. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e233">
+          <head xml:id="gd-p2c24q3-Hd1e235">C. VIII</head>
+          <head xml:id="gd-p2c24q3-Hd1e238" type="question-title"> Et qui aperto sacrilegio, et qui
+            peruersa uita fidelibus non sociatur , ad ecclesiam non pertinere probatur. </head>
+          <p xml:id="gd-p2c24q3-d1e241"> Item Augustinus [serm. XI. de uerbis Domini]*. </p>
+          <p xml:id="gd-p2c24q3-d1e244"> De illis, qui sunt ab ecclesia segregati, non dicit: „Ea,
+            que sunt Spiritus, non percipientesne ad scientiaeperceptionem referretur: sed dictum
+            est: , , Spiritumnon habentes.“ §. i. Hoc utique** non diceretur niside segregatis ab
+            ecclesia, qui dicti sunt Spiritum nonhabentes. Sed nec ille dicendus est esse in
+            ecclesia, et adistam societatem Spiritus pertinere, qui ouibus Christificto corde
+            miscetur. , , Spiritus enim sanctus disciplinaeeffugiet fictum.“ Neque enim non solum***
+            adecclesiam pertinent qui separationis aperto sacrilegio manifesti sunt, sed etiam illi,
+            qui in eius unitate corporalitermixti per pessimam uitam separantur. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e248">
+          <head xml:id="gd-p2c24q3-Hd1e250">C. IX</head>
+          <head xml:id="gd-p2c24q3-Hd1e253" type="question-title"> A Deo separamus, quos inpios
+            demonstramus.</head>
+          <p xml:id="gd-p2c24q3-d1e256"> Item ex V. Sinodo, [collatione 5.]Certum est, quod qui
+            inpius demonstratus estomnino separatus est a Deo, sicut etiam ille, qui ana- </p>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e259"> thematizatus est tamquam inpius separatus est. Nichil enim
+            aliud significat anathema, nisi a Deo separationem. </p>
+          <p xml:id="gd-p2c24q3-d1e262"> III. Pars. Gratian. Illicita ergo excommunicatio, ut ex
+            premissis apparet, non ledit eum, qui notatur, sed a quo notatur, ac per hoc qui
+            innocentes sunt ex alterius crimine condempnari non 'possunt, sicut ab inprudeniibus
+            familiae potentumpro peccatis dominorum consueuerunt notari. Sed adhucobicitur, quod non
+            solum innocentes, sed nec etiam criminosisentencia maledictionis sint feriendi. Ait enim
+            Christus ineuangelio : „ Orate pro persequentibus et calumpniantibus uos, benefacite
+            his, qui oderunt uos. Item Apostolus: benedicite persequentibus uos: benedicite et
+            nolite maledicere .“ Item : , , Maledici regnum Dei non possidebunt </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e266">
+          <head xml:id="gd-p2c24q3-Hd1e268">C. X</head>
+          <head xml:id="gd-p2c24q3-Hd1e271" type="question-title"> Ab omni maledicto fideles inmunes
+            esse oportet.</head>
+          <p xml:id="gd-p2c24q3-d1e274"> Item Ieronimus in epistola ad Titum, [initio cap. 3.] </p>
+          <p xml:id="gd-p2c24q3-d1e277"> Si igitur Michael non fuit ausus diabolo et certe
+            maledictionis dignissimo iudicium inferre blasphemiae, quanto magis nos ab omni
+            maledicto puri esse debemus? Merebatur diabolus maledictum, sed per os archangeli
+            blasphe-mia exire non debuit. Relege ueteres libros, et uide, que tribus in monte
+            Garizim constitutae sunt, utbenedicerent populo, et que in monte altero, ut
+            maledicerent. Ruben, qui maculauerat thorum parentis, et Zabulonnouissimus Liae filius,
+            et ancillarum liberi in monte He-bal ponuntur, ut maledicant his, qui maledictione
+            dignisunt. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e281">
+          <head xml:id="gd-p2c24q3-Hd1e283">C. XI</head>
+          <head xml:id="gd-p2c24q3-Hd1e286" type="question-title"> Quos significent /m ad
+            benedictionem, quiue ad maledictionem de filiis Israel electi sunt. </head>
+          <p xml:id="gd-p2c24q3-d1e289"> Idem in libro Iudicum. </p>
+          <p xml:id="gd-p2c24q3-d1e292"> Cum ergo in singulis quibusque fidelium sit talis propositi
+            uarietas, hoc michi designari uidetur in hoc loco, quod dimidii illi, qui iuxta montem
+            Garizim incedunt(illum, qui ad benedictionem electus est), istos figuraliter indicent,
+            qui non metu penae, sed benedictionum etrepromissionum desiderio ueniunt ad salutem;
+            illi uerodimidii, qui iuxta montem Gebal incedunt, in quomaledictiones prolatae sunt,
+            istos alios indicant, qui, malorum metu et suppliciorum timore conplentes que in
+            legescripta sunt, perueniunt ad salutem. </p>
+
+          <p xml:id="gd-p2c24q3-d1e295"> Gratian. Sed qui pro persecutoribus iussit orare, primos
+            parentes pro transgressione mandati mortis maledicto percussit.Cain quoque, quia primae
+            preuaricationi fratricidium adiunxit, sentenciam maledictionis a Domino reportauit.
+            Abrahae quoquedixit Dominus : „ Maledicam maledicentibus tibi, et
+            benedicambenedicentibus tibi. In euangelio etiam, cum esuriens ueniretad ficum, non
+            inueniens fructum in ea, sua maledictione perpetuasterilitate ipsam dampnauit. §. i.
+            Item Noe, cum uerenda suaa Cham derisa cognosceret, filium eius Chanaan maledixitdicens
+            : , , Maledictus Chanaan sit seruus fratrum suorum. “ Item Ysaac, cum benediceret Iacob
+            filio suo, ait: , , Qui maledixerit tibi, sit ille maledictus, et qui benedixerit tibi
+            benedictionibus repleatur. §. 2. Item, sicut in libro Numerorum Slegitur, Moyses ex
+            precepto Dei duodecim tribus filiorum Israelin duas partes diuisit, et sex tribus
+            iussit, ut iuxta montem Gebal incedentes maledictionem transgredientium legem uocifera-
+            ren£; aliis uero precepit, ut iuxta alium montem incedentesbenedictiones obseruantium
+            inclamarent^. §. 3. In nouo etiamtestamento Petrus apostolus Symoni legitur maledixisse,
+            cumait : „ Pecunia tua tecum sit in per ditione .“ Paulus quoque, qui dixerat : „
+            Benedicite, et nolite maledicerefornicato-rem Chorinthium iussit excommunicari. Item in
+            alia * epistola ait : „Si quis non fuerit secutus doctrinam Domininostri Iesu Christi,
+            sit anathema, maranatha. Item Galathis : , , Si angelus de celo ueniens aliud uobis
+            euangelizauerit, anathema sit. §. 4. Distinguendum est ergo inter maledictum,
+            quodprohibetur, et maledictum, quod a Domino et a sanctisuiris rationabiliter profertur.
+            Maledictum , quod prohibetur, est illud, quod procedit ex uoto ultionis et odio
+            persequentis, nonex amore iusticiae. Maledictum uero, quo sancti maledicunt, estillud,
+            quod procedit ex amore iusticiae , non ex liuore uindictae. </p>
+          <p xml:id="gd-p2c24q3-d1e299"> Unde Gregorius in Moral. ait lib. ///.: </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e303">
+          <head xml:id="gd-p2c24q3-Hd1e305">C. XII</head>
+          <head xml:id="gd-p2c24q3-Hd1e308" type="question-title"> Sancti uiri non ex uoto ultionis,
+            sed amore iusticiae aliquos maledicunt.</head>
+          <p xml:id="gd-p2c24q3-d1e311"> Cum sancti uiri maledictionis sentenciam proferunt, non in
+            hanc ex uoto ultionis, sed ex iusticiae examine prorumpunt. Intus subtile iudicium
+            respiciunt, etmala foris surgentia qua maledictione feriredebeant cognoscunt, et eo
+            maledicto non peccant, quo s ab interno iudice non discordant. Item§. 1. Scriptura sacra
+            duobus modis maledictum memorat:aliud uidelicet, quod approbat, aliud, quod
+            dampnat.Aliter enim maledictum profertur iudicio iusticiae*, ut inipso primo peccante
+            prolatum est, cum audiuit: „ Maledicta terra in opere tuo, etc.“ et sicut Abrahae
+            dicitur: , , Maledicam maledicentibus tibi. Aliter ueroprofertur maledictum, quod non
+            iudicio iusticiae, sed liuoreuindictae promitur, a quo uoce Pauli predicantiscessare
+            ammonemur, qui ait: „Benedicite, et nolitemaledicere.^ </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e315">
+          <head xml:id="gd-p2c24q3-Hd1e317">C. XIII</head>
+          <head xml:id="gd-p2c24q3-Hd1e320" type="question-title"> Errantes et in errorem mittentes
+            excommunicentur . </head>
+          <p xml:id="gd-p2c24q3-d1e323"> Item Pelagius Papa Angellio Episcopo . </p>
+          <p xml:id="gd-p2c24q3-d1e326"> Apostolicae auctoritatis exemplo didicimus, errantium et in
+            errorem mittentium spiritus tradendos esse sathanae, ut blasphemare dediscant. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e331">
+          <head xml:id="gd-p2c24q3-Hd1e333">C. XIV</head>
+          <head xml:id="gd-p2c24q3-Hd1e336" type="question-title"> Delinquentes corrigantur a
+            sacerdotibus, incorri - gibiles inuenti excommunicentur. </head>
+          <p xml:id="gd-p2c24q3-d1e339"> Item Anacletus Papa, [epist. III.]. </p>
+          <p xml:id="gd-p2c24q3-d1e342"> Tam sacerdotes quam reliqui fideles omnes summam debent
+            habere curam de his, qui pereunt, quatinus eorumredargutione aut corrigantur a peccatis,
+            aut, si incorrigibilesapparuerint, ab ecclesia separentur. </p>
+
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e346">
+          <head xml:id="gd-p2c24q3-Hd1e348">C. XV</head>
+          <head xml:id="gd-p2c24q3-Hd1e351" type="question-title"> Secunda uel tertia ammonicione
+            interposita excommunicationis sentencia procedat.</head>
+          <p xml:id="gd-p2c24q3-d1e354"> Item Gregorius [Papa lib. II. epist. 37. ad Natalem
+            Episcopum]. </p>
+          <p xml:id="gd-p2c24q3-d1e357"> De excommunicationis articulo (que tamen interposita
+            condicione gradus*, secundo uel tertio iam, ut ita dicam, ex necessitate subiuncta est)
+            beatitudo uestra inmerito queritur, cum Paulus apostolus dicat: „In promptu
+            habentesulcisci omnem inobedientiam.“ </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e361">
+          <head xml:id="gd-p2c24q3-Hd1e363">C. XVI</head>
+          <head xml:id="gd-p2c24q3-Hd1e366" type="question-title"> Mali ab ecclesia sunt
+            eliminandi.</head>
+          <p xml:id="gd-p2c24q3-d1e369"> Item Ieronimus [in epistolam ad Galatas, c. 5.] </p>
+          <p xml:id="gd-p2c24q3-d1e372"> Secandae* sunt carnes putridae, et scabiosa a caulis ouis
+            repellenda, ne tota domus, massa, corpus etpecora ardeat, corrumpatur, pqtrescat,
+            intereat. Arriusm Alexandria una scintilla fuit, sed quoniam non statimoppressus est,
+            totum orbem eius flamma populata est. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e376">
+          <head xml:id="gd-p2c24q3-Hd1e378">C. XVII</head>
+          <head xml:id="gd-p2c24q3-Hd1e381" type="question-title"> Pro diuersitate culparum subditi
+            a prepositis corripiantur.</head>
+          <p xml:id="gd-p2c24q3-d1e384"> Item Augustinus [in libro de correptione et gratia, c. 15.] </p>
+          <p xml:id="gd-p2c24q3-d1e387"> Corripiantur itaque subditi a prepositis suis
+            correptionibus de karitate uenientibus pro culparum diuersitate diuersis, uel minoribus,
+            uel amplioribus, quia et ipsa, quedampnatio nominatur, quam facit episcopale iudicium
+            (quapena in ecclesia nulla maior est) , potest, si Deus uoluerit, in correptionem
+            saluberrimam cedere atque proficere.Neque enim scimus quid contingat sequenti die.
+            Autante finem huius uitae de aliquo desperandum est? Autcontradici Deo potest, ne
+            respiciat et det penitenciam, et, accepto sacrificio spiritus contribulati cordisque
+            contriti, areatu quamuis iustae dampnationis absoluat dampnatumquem* ipse non dampnet?
+            Pastoris tamen necessitas habet, ne per plures serpant dira contagia, separare abouibus
+            sanis morbidam, ab illo, cui nichil est inpossibile, ipsa forsitan separatione sanandam.
+            Nescientes enim quispertineat ad predestinatorum numerum, quis non pertineat, sic affici
+            debemus karitatis affectu, ut omnes uelimus sal-uos fieri. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e391">
+          <head xml:id="gd-p2c24q3-Hd1e393">C. XVIII</head>
+          <head xml:id="gd-p2c24q3-Hd1e396" type="question-title"> Qui corrigi nolunt
+            excommunicationis ferro debent abscidi . </head>
+          <p xml:id="gd-p2c24q3-d1e399"> Item Prosper [libro de uita contemplatiua, c. 7.] </p>
+          <p xml:id="gd-p2c24q3-d1e402"> Ecce autem crimina quorumlibet, si ipsis criminosis
+            confiteri nolentibus undecumque claruerint quecumque nonfuerint patienciae leni
+            medicamento sanata, ueluti quodam igne piae increpationis urenda sunt et curanda. Quodsi
+            nec sic quidem equanimiter sustinentis ac pie increpantis medela processerit in eis, qui
+            diu portati et'salubriter obiurgati corrigi noluerint, tamquam putridae </p>
+          <div xml:id="gd-p2c24q3-Dd1e405">
+            <p xml:id="gd-p2c24q3-d1e407"> corporis partes debent ferro excommunicationis abscidi,
+              ne, sicut caro morbis emortua, si abscissa non fuerit, salutem reliquae carnis
+              putredinis suae contagione corrumpit, ita isti, qui emendari despiciunt, et in
+              suomorbo persistunt, si moribus deprauatis in sanctarumsocietate permanserint, eos
+              suae perditionis exemplo interficiant®*. </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e412">
+            <head xml:id="gd-p2c24q3-Hd1e414">C. XIX</head>
+            <head xml:id="gd-p2c24q3-Hd1e417" type="question-title"> Excommunicandus est qui simul
+              duas uxores habere presumit. </head>
+            <p xml:id="gd-p2c24q3-d1e420"> Item Nykolaus Papa Lothario Regi. </p>
+            <p xml:id="gd-p2c24q3-d1e423"> An non districta ultione feriendus es, qui in duabus
+              uxoribus adulterium Lamech et flagitium imitatus essedinosceris? Quod Dominus non nisi
+              post septuaginta septemgenerationes suo salutifero aduentu deleuit, cum Cain
+              fratricidium septima generatione aquis abolitum sit cata-clismi. </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e427">
+            <head xml:id="gd-p2c24q3-Hd1e429">C. XX</head>
+            <head xml:id="gd-p2c24q3-Hd1e432" type="question-title"> Falsi testes et homicidae
+              conmunione priuentur.</head>
+            <p xml:id="gd-p2c24q3-d1e435"> Item ex Concilio Agat en si, [c. 37.] Itaque censuimus
+              homicidas et falsos testes aconmunione ecclesiastica submouendos, nisi
+              penitenciaesatisfactione crimina admissa diluerint. </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e439">
+            <head xml:id="gd-p2c24q3-Hd1e441">C. XXI</head>
+            <head xml:id="gd-p2c24q3-Hd1e444" type="question-title"> Excommunicetur potens , qui
+              clericum pauperem religiosum spoliare presumit. </head>
+            <p xml:id="gd-p2c24q3-d1e447"> Item ex Concilio Tollet ano [cap. ii.]Si quis de
+              potentibus clericum, aut quemlibet pauperiorem*, aut religiosum expoliauerit, et
+              mandaueriteum ad se uenire episcopus, ut audiatur, et contempserit, inuicem mox
+              scripta percurrant per omnes pro-uinciae episcopos, et quoscumque adire potuerint, ut
+              excommunicatus habeatur ipse, donec obediat, etreddat aliena. </p>
+            <p xml:id="gd-p2c24q3-d1e450"> [PALE A". </p>
+            <p xml:id="gd-p2c24q3-d1e453"> C. XXII. De eodem. </p>
+            <p xml:id="gd-p2c24q3-d1e457"> Ex dictis Gregorii Papae*. </p>
+            <p xml:id="gd-p2c24q3-d1e460"> Quisquis per dolum manum suam mittit in Christum Domini,
+              id est episcopum uel presbiterum, quia sacrilegium graue conmittit, et si quis
+              ecclesiam Deiuastat, aut inpugnat, aut incendit, quia et hoc grauissi-mum est
+              sacrilegium, placuit sanctae Sinodo, ut inprimis**omnia bona eius proscriptione
+              publicentur; deinde in unoloco, id est in monasterio, inclusus peniteat omnibus diebus
+              uitae suae.] </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e464">
+            <head xml:id="gd-p2c24q3-Hd1e466">C. XXIII</head>
+            <head xml:id="gd-p2c24q3-Hd1e469" type="question-title"> Conmunione priuetur qui
+              Romipetas , etfperegrinos , uel mercatores molestare presumpserit^^. </head>
+            <p xml:id="gd-p2c24q3-d1e472"> Item Calixtus Papa : </p>
+            <p xml:id="gd-p2c24q3-d1e475"> Si quis Romipetas et peregrinos Apostolorum limina, et
+              aliorum sanctorum oratoria uisitantes capere, seu </p>
+          </div>
+          <p xml:id="gd-p2c24q3-d1e479"> rebus, quas ferunt, spoliare, et mercatores nouis
+            teloneorum et pedaticorum exactionibus molestare temptauerit, donec satisfecerit,
+            conmunione careat Christiana. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e483">
+          <head xml:id="gd-p2c24q3-Hd1e485">C. XXIV</head>
+          <head xml:id="gd-p2c24q3-Hd1e488" type="question-title"> Excommunicetur^* qui oratores et
+            ecclesias, earumque^ bona et personas ibidem ^ seruieniesinfestare presumit . </head>
+          <p xml:id="gd-p2c24q3-d1e491"> Item Urbanus , </p>
+          <p xml:id="gd-p2c24q3-d1e494"> Paternarum traditionum exemplis conmoniti, pastoralis
+            offitii debitum persoluentes, ecclesias cum bonis suis, tampersonis quam possessionibus,
+            clericos uidelicet ac monachos, eorumque conuersos*, oratores quoque cumsuis
+            nichilominus rebus, quas ferunt, tutos et sine molestiaesse statuimus. Si quis autem
+            contra hoc facere presumpserit, et post, quam facinus suum recognouerit, infraspacium
+            dierum triginta conpetenter non emendauerit, aljminibus ecclesiae arceatur, et
+            anathematis gladio feriatur. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e499">
+          <head xml:id="gd-p2c24q3-Hd1e501">C. XXV</head>
+          <head xml:id="gd-p2c24q3-Hd1e504" type="question-title"> Qui oratoribus, pauperibus non
+            arma ferentibus in malum obuiauerint, excommunicentur. </head>
+          <p xml:id="gd-p2c24q3-d1e507"> Item Nylcolaus Papa omnibus Episcopis . </p>
+          <p xml:id="gd-p2c24q3-d1e510"> Hii, qui peregrinos, uel oratores cuiuscumque sancti, siue
+            clericos, siue monachos, uel feminas, aut inermespauperes depredati fuerint, uel bona
+            eorum rapuerint, uelin malum eis obuiauerint, anathematis uinculo feriantur, nisi digne
+            emendauerint. §. i. Pax uero illa, quam treu-gam Dei dicimus, sic obseruetur, sicut ab
+            archiepi-scopis uniuscuiusque prouinciae constituta est. Quiautem eam infregerit
+            excommunicationi subdatur. </p>
+          <p xml:id="gd-p2c24q3-d1e513"> IV. Pars. Gratian. Quia uero de hereticis sermo habetur,
+            uidendum est, quid intersit inter scisma et heresim, et qui sintheretici, et quot sint
+            hereticorum sectae? </p>
+          <p xml:id="gd-p2c24q3-d1e517"> Differentiam autem inter scisma et heresim Ieronimus in
+            epist. ad Galathas assignat, dicens: </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e521">
+          <head xml:id="gd-p2c24q3-Hd1e523">C. XXVI</head>
+          <head xml:id="gd-p2c24q3-Hd1e526" type="question-title"> Scismatis et heresis
+            diff'erentia.</head>
+          <p xml:id="gd-p2c24q3-d1e529"> Inter heresim et scisma hoc esse arbitror, quod heresis
+            peruersum dogma habeat, scisma post episcopalem discessionem ab ecclesia* pariter
+            separat.Quod quidem in principio aliqua ex parte intelligi potest** diuersum; ceterum
+            nullum scisma nisi s heresimaliquam sibi confingit, ut recte ab ecclesia
+            uideaturrecessisse. </p>
+          <p xml:id="gd-p2c24q3-d1e532"> Unde autem heresis dicatur, in eadem epistola Ieronimus
+            diffinit, dicens a </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e536">
+          <head xml:id="gd-p2c24q3-Hd1e538">C. XXVII</head>
+          <head xml:id="gd-p2c24q3-Hd1e541" type="question-title"> Unde dicatur heresis f</head>
+          <p xml:id="gd-p2c24q3-d1e544"> Heresis grece ab electione dicitur, quod scilicet eam sibi
+            unusquisque eligat disciplinam, quam putat esse </p>
+          <div xml:id="gd-p2c24q3-Dd1e547">
+            <p xml:id="gd-p2c24q3-d1e549"> meliorem. Quicumque igitur aliter scripturam intelligit,
+              quam sensus Spiritus sancti flagitat, a quo scriptaest, licet ab ecclesia non
+              recesserit, tamen hereticusappellari potest, et de carnis operibus est, eligens
+              quepeiora sunt. </p>
+            <p xml:id="gd-p2c24q3-d1e552"> V. Pars. Gratian. Qy, i uero proprie dicantur heretici,
+              Augustinus [in lib. de utilitate credendi c. i.] ostendensait : </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e556">
+            <head xml:id="gd-p2c24q3-Hd1e558">C. XXVIII</head>
+            <head xml:id="gd-p2c24q3-Hd1e561" type="question-title"> Qui proprie dicantur
+              heretici.</head>
+            <p xml:id="gd-p2c24q3-d1e564"> Hereticus est, qui alicuius temporalis commodi et maxime
+              gloriae principatusque sui gratia falsas ac nouas oppiniones uel gignit, uel sequitur.
+              Ille autem, qui huiusmodi hominibus credit, est imaginatione quadamueritatis illusus.
+            </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e569">
+            <head xml:id="gd-p2c24q3-Hd1e571">C. XXIX</head>
+            <head xml:id="gd-p2c24q3-Hd1e574" type="question-title"> Non sunt heretici, qui non sua
+              audatia, sed aliena seducuntur in errorem . </head>
+            <p xml:id="gd-p2c24q3-d1e577"> Idem [Glorio, Eleusio, et aliis, epist. CLXII.] </p>
+            <p xml:id="gd-p2c24q3-d1e580"> Dixit Apostolus: „Hereticum hominem post primam et
+              secundam correctionem deuita, quia sub-uersus est huiusmodi, et peccat, in semetipso
+              dampnatus/* Sed qui sentenciam suam, quamuis falsam atque peruersam, nulla pertinaci
+              animositate defendunt, presertimquam non audacia suae presumptionis pepererunt, sed a
+              seductis atque in errorem lapsis parentibus acceperunt, querunt autem cauta
+              sollicitudine ueritatem, corrigiparati, cum inuenerint, nequaquam sunt inter
+              hereticosdeputandi. </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e584">
+            <head xml:id="gd-p2c24q3-Hd1e586">C. XXX</head>
+            <head xml:id="gd-p2c24q3-Hd1e589" type="question-title"> Magistri erroris existunt qui
+              ueritatis disciplinam contempnunt.</head>
+            <p xml:id="gd-p2c24q3-d1e592"> Item Leo [Papa epist. X. ad Flauianum]. </p>
+            <p xml:id="gd-p2c24q3-d1e595"> Quid autem iniquius est quam inpia sapere, et
+              sapientioribus doctioribusque non credere? Sed in hancinsipientiam cadunt, qui, cum ad
+              cognoscendam ueritatem aliquo inpediuntur obscuro, non ad propheticasuoces, non ad
+              apostolicas litteras, nec ad euangelicasauctoritates, sed ad semetipsos recurrunt, et
+              ideo magistrierroris existunt, quia ueritatis discipuli non fuerunt. </p>
+          </div>
+          <div xml:id="gd-p2c24q3-Dd1e599">
+            <head xml:id="gd-p2c24q3-Hd1e601">C. XXXI</head>
+            <head xml:id="gd-p2c24q3-Hd1e604" type="question-title"> Heretici sunt qui quod praue
+              sapiunt contumaciter defendunt.</head>
+            <p xml:id="gd-p2c24q3-d1e607"> Item Augustinus contra Maniclieos . </p>
+            <p xml:id="gd-p2c24q3-d1e610"> Qui in ecclesia Christi morbidum aliquid
+              prauumquesapiunt, si correcti, ut sanum rectumque sapiant, resistunt contumaciter,
+              suaque pestifera et mortifera dogmata emendare nolunt, sed defensare persistunt,
+              heretici sunt. </p>
+          </div>
+
+
+
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e615">
+          <head xml:id="gd-p2c24q3-Hd1e617">C. XXXII</head>
+          <head xml:id="gd-p2c24q3-Hd1e620" type="question-title"> Errante dampnabilior est qui eius
+            defendit errorem.</head>
+          <p xml:id="gd-p2c24q3-d1e623"> Item Urbanus Papa . </p>
+          <p xml:id="gd-p2c24q3-d1e626"> Qui aliorum errorem defendit multo est dampnabilior illis,
+            qui errant, quia non solum ille errat, sed etiam aliis offendicula preparat erroris et
+            confirmat. Undequia magister erroris est, non tantum hereticus, sed etiamheresiarcha
+            dicendus est. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e630">
+          <head xml:id="gd-p2c24q3-Hd1e632">C. XXXIII</head>
+          <head xml:id="gd-p2c24q3-Hd1e635" type="question-title"> Qui mendacio ueritatem inmutant
+            patrum terminos transferre probantur. </head>
+          <p xml:id="gd-p2c24q3-d1e638"> Item leronimus [lib. II. Conment. ad cap. 5. Oseae]. </p>
+          <p xml:id="gd-p2c24q3-d1e641"> Transferunt principes Iuda terminos, quos posuerunt patres
+            eorum, quando inmutant mendacio ueritatem, etaliud predicant quam ab Apostolis
+            acceperunt. Idem .§. 1. De hereticis manifestus est sensus, quod sophismatibus suis et
+            arte dialectica sepe opprimant ecclesiasticos./dera: §. 2. Veteres scrutans historias
+            inuenire nonpossum scidisse ecclesiam, et de domo Domini populosseduxisse, preter eos,
+            qui sacerdotes a Deo positi fuerantet prophetae, id est speculatores. Isti ergo
+            uertuntur inlaqueum tortuosum, in omnibus locis ponentes scandalum. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e645">
+          <head xml:id="gd-p2c24q3-Hd1e647">C. XXXIV</head>
+          <head xml:id="gd-p2c24q3-Hd1e650" type="question-title"> Abiciantur qui aduersariorum
+            conueniunt prauitati. </head>
+          <p xml:id="gd-p2c24q3-d1e653"> Item Leo Papa [epistola LXXIV. ad Anatolium]. </p>
+          <p xml:id="gd-p2c24q3-d1e656"> Illud sane plurimum michi displicere significo, quod inter*
+            ditionis tuae clericos quidam esse dicuntur, quiaduersariorum conueniant prauitati, et
+            uesaniae**uasis misericordiae uasa misceantur. Quibus inuesti-gandis et seueritate
+            congrua cohercendis debet diligentiatua uigilanter insistere ita, ut his, quibus
+            prodesse correctio non potuerit, non parcat abscisio. Oportet enimnos euangelici
+            meminisse mandati, quod ab ipsaueritate precipitur, ut, si nos oculus, aut pes, aut
+            dexterascandalizauerit manus, a conpage corporis auferatur, quiamelius sit his in seculo
+            carere membris, quam cum ipsisin eterna supplicia ire. Nam superfluo extra
+            ecclesiampositis resistimus, si ab his, qui intus sunt, in eis, quos decipiunt,
+            uulneramur. Abicienda prorsus pestifera hec asacerdotali uigore patiencia est, que
+            sibimet, peccatis aliorum parcendo, non parcit. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e661">
+          <head xml:id="gd-p2c24q3-Hd1e663">C. XXXV</head>
+          <head xml:id="gd-p2c24q3-Hd1e666" type="question-title"> Et sodalitates et conuiuia
+            hereticorum clerici uitare debent.</head>
+          <p xml:id="gd-p2c24q3-d1e669"> Item ex Concilio Cartaginensi IV. [c. 70. 71. 72.] </p>
+          <p xml:id="gd-p2c24q3-d1e672"> Clericus hereticorum aut scismaticorum tam conuiuia quam
+            sodalitates euitet equaliter. Eorumconuenticula non ecclesia, sed conciliabula sunt
+            appellanda. Cum eis neque orandum est, neque psallendum. </p>
+
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e676">
+          <head xml:id="gd-p2c24q3-Hd1e678">C. XXXVI</head>
+          <head xml:id="gd-p2c24q3-Hd1e681" type="question-title"> Canonum obseruatores cum
+            hereticis nullum debent inire certamen.</head>
+          <p xml:id="gd-p2c24q3-d1e684"> Item Gelasius Papa [in epistola ad Episcopos Dardaniae]. </p>
+          <p xml:id="gd-p2c24q3-d1e687"> Cum quibus erat sinodus ineunda? Catholici pontifices
+            fuerant undique iam depulsi, soli remanserant sociiperfidorum, cum quibus nec iam
+            licebat habere conuen-tum* dicente Psal.: , , Non sedi cum conciliouanitatis, et cum
+            iniqua gerentibus non introibo/ Nececclesiastici moris est cum his, qui pollutam habent
+            conmu-nionem permixtamque cum perfidis, miscere concilium.Recte igitur per Calcedonensis
+            sinodi formam huiusmodipreuaricatio repulsa est potius quam ad* concilium uo-cata, quod
+            nec opus erat post primam sinodum, neccum talibus habere licebat. Idem [in commonitorio
+            adFaustum]: §. 1. Canonum** magistris atque custodibusnobis nullum fas est inire
+            certamen cum hominibus conmu-nionis alienae. </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e691">
+          <head xml:id="gd-p2c24q3-Hd1e693">C. XXXVII</head>
+          <head xml:id="gd-p2c24q3-Hd1e696" type="question-title"> Non contradicit , sed pocius
+            euangelio obedit qui malos excommunicat. </head>
+          <p xml:id="gd-p2c24q3-d1e699"> Item ex epistola Urbani Papae . </p>
+          <p xml:id="gd-p2c24q3-d1e702"> Notandum est, quod cjuidam dicunt contra euangelicam
+            parabolam nos facere, ubi de zizaniis non eradicandis Dominus precepit, cum
+            excommunicatione aliquos dignosexcommunicationi subicimus, et aiunt etiam S.
+            Augustinumhoc contradicere eo in loco, ubi ait:, , Quia non est preci-denda unitas,
+            ferendi sunt mali, non abiciendi/ Quibushoc primum respondendum est: Si heretici et mali
+            homines non sunt excommunicandi, quare ipse pater sanctus Augustinus cum legatis S.
+            Romanae ecclesiae, etcum sanctis episcopis suis Pelagium et Celestinum, nouam heresim in
+            sanctam Dei ecclesiam introducentes, excommunicauit, et ab ecclesia Dei separauit? Quare
+            ipsosDonatistas, contra quos ista et multa his similia loquitur, tam ipse quam omnis
+            ecclesia Dei excommunicatos habuit, et, nisi prius penituissent, et per manus
+            inpositionem reconciliati essent, eis nequaquam conmunicabat? Idem ipseDominus, qui hoc
+            parabolice hic enarrat, aperte alibiexcommunicationem fieri iubet, dicens: „Frater, qui
+            corripitur ab ecclesia, et non obedit, sit tibi sicut ethnicus etpublicanus/ Unde
+            apparet liquido, aliud esse excommunicationem, et aliud eradicationem. Qui
+            excommunicatur enim (ut Apostolus ait) ad hoc excommunicatur, utspiritus eius saluus
+            fiat in die Domini. Disciplina enim estexcommunicatio, et non eradicatio, </p>
+          <p xml:id="gd-p2c24q3-d1e705"> [Gratian.] nisi forte ex contemptu et superbia
+            excommunicati proueniat. </p>
+          <p xml:id="gd-p2c24q3-d1e709"> Unde Augustinus * in lib. Numeri , [hom. XV. ad c. 23.]: C.
+            XXXVIII. Diuina maledictio meritum maledicti designat. </p>
+          <p xml:id="gd-p2c24q3-d1e712"> Deus, quibus maledicit, meritum designat eius, cui </p>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e715"> maledicitur, et sentenciam promit, utpote quem non fallit
+            neque peccati qualitas, neque peccantis affectus.Homo, hoc quia non potest scire (neque
+            enim propositum mentemque alterius alius uidere aut cognoscerepotest), idcirco etiam si
+            iudicantis uel sentenciam promentisintuitu proferat maledictum, non potest esse
+            maledicendicausa, ubi ignoratur peccantis affectus, maxime cum humanum uicium tunc sciat
+            maledicta proferre, cum forteconuiciis aut iniuriis prouocatur. Quod uicium
+            resecareuolens Apostolus, ne maledictis maledicta et conuiciis con-uicia prouocemus,
+            mandatum necessarium ponit, ut benedicamus, quo conuiciandi uicium resecetur, non
+            quoiudicandi ueritas, que homines latet, et pronunciandi auctoritas perimatur. </p>
+          <p xml:id="gd-p2c24q3-d1e718"> Gratian. Sectae uero Jiereticorum quot sint , et unde
+            nomina acceperint , Ysido r us VIII. lib. Etbimologiarum c. 5. determinat^ dicens : </p>
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e722">
+          <head xml:id="gd-p2c24q3-Hd1e724">C. XXXIX</head>
+          <head xml:id="gd-p2c24q3-Hd1e727" type="question-title"> Quot sint sectae
+            Jiereticorum.</head>
+          <p xml:id="gd-p2c24q3-d1e730"> Quidam autem heretici, qui de ecclesia recesserunt, ex
+            nomine auctorum suorum nuncupantur; quidam ueroex causis, quas eligentes instituerunt.
+            §. 1. Symoniani aSymone dicti, magicae disciplinae perito, cui Petrus inActibus
+            Apostolorum maledixit pro eo, quod ab ApostolisSpiritus sancti gratiam pecunia emere
+            uoluisset. Hiidicunt, creaturam non a Deo esse, sed a uirtute creatamquadam superna. §.
+            2. Menandriani a Menandro mago, discipulo Symonis nuncupati, qui mundum non a Deo, sedab
+            angelis factum asseruit. §. 3. Basilidiani a Basilideappellati, qui inter reliquas
+            blasphemias passum Iesum ab-negauit. §. 4. Nykolaitae a Nykolao dicti diacono
+            ecclesiaeIherosolimorum, qui cum Stephano et ceteris constitutus esta Petro; qui,
+            propter pulchritudinem uxorem relinquens, dixit ut qui uellet ea uteretur; uersa est in
+            stuprum talis consuetudo, ut inuicem coniugia conmutarentur.Quos Iohannes in Apokalipsi
+            inprobat dicens: , , Sedhoc habes, quod odisti facta Nykolaitarum.“ §. 5.Gnostici
+            propter excellentiam scientiae se ita appellareuoluerunt. Animam naturam esse Dei
+            dicunt; bonum etmalum Deum suis dogmatibus fingunt. §. 6. Carpocra-tiani a Carpocrate
+            quodam uocantur, qui dixit, Christumhominem fuisse tantum, et de utroque sexu
+            progenitum.§. 7. Cherinthiani a quodam Cherintho nuncupati. Hii intercetera
+            circumcisionem obseruant, mille annos post resurrectionem in uoluptate carnis futuros
+            predicant. Unde etgrece Ciliastae, latine Miliasti sunt appellati. §. 8.Nazarei dicti,
+            qui dum Christum (qui a uico Nazareus estappellatus) filium Dei confiteantur, omnia
+            tamen ueterislegis custodiunt. §. 9. Ofitae a colubro nominati sunt.Coluber enim grece
+            ofis dicitur. Colunt enim serpentem, dicentes, ipsum in paradyso induxisse uirtutis </p>
+          <div xml:id="gd-p2c24q3-Dd1e733">
+            <p xml:id="gd-p2c24q3-d1e735"> cognicionem. §. io. Valentiniani a quodam
+              ValentinoPlatonico sectatore uocati, qui eonas, id est seculaquedam, in originem Dei
+              creatoris induxit, Christum quoque de Virgine nichil corporis assumpsisse, sed per
+              eamquasi per fistulam transisse asseruit. §. 11. Apellitae, quorum auctor Apelles
+              princeps fuit, qui, creatorem angelum nescio quem gloriosum superioris Dei faciens,
+              Deumlegis Israelis illum igneum affirmans qui” dixit, Christum non Deum in ueritate,
+              sed hominem in fantasiaapparuisse. §. 12. Archontiaci a principibus appellantur, quia
+              uniuersitatem, quam Deus condidit, opera essearchangelorum defendunt. §. 13. Adamiani
+              uocati, quiaP Adae imitentur nuditatem. Unde et nudi orant, et nudi inter se mares
+              feminaeque conueniunt. §. 14.Caianii* proinde sunt appellati, quoniam Cainadorant.
+              §.15. Sethiani nomen acceperunt a filio Adae, qui uocatus est Seth, dicentes, eundem
+              esse Christum.§. 16. Melchisedechiani uocati pro eo, quod Melchisedech, sacerdotem
+              Dei, non hominem fuisse, sed uirtutem Deiesse arbitrantur. §. 17. Angelici uocati,
+              quia angelos colunt. §. 18. Apostolici hoc ideo sibi nomen sumpserunt, quod nichil
+              possidentes proprium nequaquam recipianteos, qui aliquo in hoc mundo utuntur. §. 19.
+              Cerdo-niani a Cerdone quodam nominati, qui duo contrariaprincipia asseruit. §. 20.
+              Marcionistae a Marcione, Stoico philosopho, appellati, qui Cerdonis dogma
+              secutusalterum bonum, alterum iustum Deum asseruit, tamquamduo principia creationis et
+              bonitatis. §.21. Artotyritaeab oblatione uocati, panem enim et caseum offerunt,
+              dicentes, a primis hominibus oblationem a fructibus terraeet a fructibus ouium fuisse
+              celebratam. §. 22. Aquarii appellati eo, quod aquam solam offerunt in calice
+              sacramenti.§. 23. Seueriani a Seuero exorti, uinum non bibunt; uetustestamentum et
+              resurrectionem non recipiunt. §. 24. Ta-ciani aTaciano uocati, qui et Enchratitae
+              dicti, quiacarnes abhominantur. §. 25. Alogii uocantur tamquamsine uerbo, logos enim
+              grece uerbum dicitur. Deumenim uerbum non credunt, respuentes Iohannis Euangelium et
+              Apokalipsim. §. 26. Catafrigiis nomen prouincia Frigia dedit, quia ibi extiterunt
+              auctores eorumMontanus, Prisca et Maximilla. Hii aduentum Spiritus sancti non in
+              Apostolis, sed in se traditum asserunt.§. 27. Cathareaey propter mundiciam ita se
+              nominaue-runt: gloriantes enim de suis meritis negant penitentibusueniam peccatorum;
+              uiduas, si nupserint, tamquam adulterasdampnant; mundiores se ceteris predicant. Qui
+              nomensuum si cognoscere uellent, mundanos pocius se quammundos uocarent. §. 28.
+              Pauliani a Paulo Samosatenoexorti sunt, qui dixit, non semper fuisse Christum, sed
+              aMaria sumpsisse inicium. §. 29. Ermogeniani ab Ermogenequodam uocati, qui materiam
+              non natam** introducens, </p>
+          </div>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e739"> Deo non nato eam conparauit, matremque qlementorum et Deam
+            asseruit, quos Apostolus inprobat elementisseruientes. §. 30. Manichei a quodam
+            extiterunt Persa, qui uocatus est Manes. Hic duas naturas et substanciasintroduxit, id
+            est bonam et malam, et animas ex Deoquasi ex aliquo fonte manare asseruit; testamentum
+            uetusrespuunt, nouum ex parte recipiunt. §.31. Antropo-morfitae* dicti pro eo, quod
+            simplicitate rustica Deumhabere membra humana, que in diuinis libris scripta sunt,
+            arbitrantur; antropos enim grece latine homo interpretatur, ignorantes uocem Domini, qui
+            ait: „Spiritus est Deus.“Incorporeus est enim; nec enim membris distinguitur, nec
+            corporis mole censetur. §. 32. Eraclitae** ab£raclio auctore exorti, monachos tantum
+            recipiunt, coniugia respuunt, regna celorum paruulos habere non credunt. §. 33.
+            Nouatiani a Nouato Romanaeurbis presbitero exorti, qui aduersus Cornelium
+            cathedramsacerdotalem conatus inuadere, heresim instituit, noluit apostatas suscipere
+            etss rebaptizans baptiza-tos. §. 34. Montani*** heretici dicti, quod tempore
+            persecutionis in montibus latuerunt, qua occasione se acatholicae ecclesiae corpore
+            diuiserunt. §. 33. Ebionitaeab Ebione dicti, siue a paupertate; Christum enim
+            perprouectum solum uirum iustum putant effectum. Undeconpetenter Ebionitae pro
+            paupertate intelligentiae appellati sunt. Hii enim Iudei sunt, et ita tenenteuangelium,
+            ut legem carnaliter seruent; aduersus quos adGalathas Apostolus scribens inuehitur. §.
+            36. Fotiniania Fotiniano Gallogreciae Sirmiae episcopo nuncupati, qui Ebionitarum
+            heresim suscitans asseruit, Christuma Maria per Ioseph nuptiali coitu fuisse
+            conceptum.§. 37. Haeriani ab Haerio quodam nuncupati sunt;hii offere sacrificium pro
+            defunctis spernunt. §. 38.Haetiani ab Haetio sunt uocati, idemque Euno-miani ab Eunomio
+            quodam dialectico, Haetii discipulo, ex cuius nomine magis innotuerunt, dissimilem
+            Patriasserentes Filium, et Filio Spiritum sanctum. Dicuntetiam, nullum inputari peccatum
+            in fide manentium.§. 39. Origeniani Origene auctore exorti sunt, dicentes, quod non
+            possit Filius uidere Patrem, nec Spiritus sanctus Filium. Animas quoque in mundi
+            principio dicunt peccasse, et pro diuersitate peccatorum e celis usque adterras aiuersa
+            corpora quasi uincula meruisse, eaquecausa factum esse mundum. §. 40. Noetiani a quodam
+            Noeto uocati, qui dicebant Christum eundemesse et Patrem, et Spiritum sanctum, ipsamque
+            Trinitatem in offitiorum nominibus, non personis accipiunt.Unde et Patripassiani
+            uocantur, quia Patrem passum </p>
+
+          <p xml:id="gd-p2c24q3-d1e743"> dicunt. §. 41. Sabelliani ab eodem Noeto pullulasse
+            dicuntur, cuius discipulum perhibent fuisse Sabellium, excuius nomine maxime
+            innotuerunt, unde et Sabellianiuocati sunt. Hii unam personam Patris, et Filii, et
+            Spiritussancti astruunt. §. 42. Arriani ab Arrio Alexandrinopresbitero exorti pp sunt,
+            qui, coeternum Patri Filiumnon agnoscens, diuersas in Trinitate substantias asseruit,
+            contra illud, quod Dominus ait: „Ego et Pater unumsumus.“ §. 43. Macedoniani a Macedonio
+            episcopo </p>
+          <p xml:id="gd-p2c24q3-d1e746"> sunt dicti, negantes Deum esse Spiritum sanctum. §. 44.
+            Apollinaristae ab Apollinare uocati sunt, dicentes Christumcorpus tantummodo sine anima
+            assumpsisse. §. 45.Antidicomaritae appellati sunt, eo, quod Mariaeuirginitati
+            contradicunt, asserentes eam post Christum natum uiro suo fuisse conmixtam. §. 46.
+            Metangismonitaefideo tale nomen acceperunt, quia angios grece uasdicitur. Asserunt enim
+            sic esse in Patre Filium, tamquamuas minus inter uas maius. §. 47. Patriciani a quodam
+            Patricio nuncupati sunt, qui substantiam humanaecarnis a diabolo conditam dicunt. §. 48.
+            Coliciani aquodam Colitho nominati, qui dicunt, Deum nonfacere mala contra illud, quod
+            scriptum est: „EgoDominus creans mala.“ §.49. Floriani a Florino, quie contrario dicunt
+            Deum creasse mala, contra hoc, quodscriptum est: , , Fecit Deus omnia bona.“ §. 50.
+            Dona-tistae a Donato quodam Afro nuncupati sunt yy, qui, deNumidia ueniens, totam pene
+            Affricam sua persuasionedecepit, asserens minorem Patre Filium, et minorem FilioSpiritum
+            sanctum, et rebaptizans catholicos. §.51. Bono-siani a quodam episcopo Bonoso exorti
+            produntur, qui Christum filium Dei adoptiuum, non proprium asserunt. §. 52.
+            Circumcelliones dicti eo, quod agrestes sint, quos Cotopitas++ uocant,
+            supradictaeheresis habentes doctrinam. Hii amore martyrii semet-ipsos perimunt, ut
+            uiolenter de hac uita discedentesmartyres nominentur. §. 53. Priscillianistae a
+            Priscillianouocati, qui in Hispania ex errore Gnosticorum et Ma-nicheorum permixtum
+            dogma conposuit. §. 54. Luci-feriani a Lucifero Sirmiae episcopo orti, qui episcopos
+            catholicos, qui instanti persecutione perfidiaeArrianorum erant consentientes, et postea
+            correcti incathedram redire delegerunt, dampnantesquod crediderunt siue quod&amp;ss
+            credidisse dissi-mulauerunt, quos ecclesia catholica materno recepitsinu, tamquam Petrum
+            post fletum negationis: hanc illimatris karitatem super accipientes eosreciperenolentes,
+            ab ecclesiae conmunione recesserunt, et cum ipsoLucifero auctore suo, qui mane
+            oriebatur, cadere meruerunt. </p>
+
+
+
+
+          <p xml:id="gd-p2c24q3-d1e749"> §• 55 * Iouinianistae a louiniano quodam monacho dicti,
+            asserentes, nullam nuptiarum kkk t uirginum essedistantiam, nullumque inter abstinentes
+            et simpliciter epulantes esse discrimen. §. 56. Eluidiani ab Eluidio nominati, qui
+            dicunt post natum Christum alios Mariamfilios de uiro Ioseph peperisse. §. 57.
+            Paterniani aPaterno quodam exorti, qui inferiores corporispartes a diabolo factas
+            opinantur. §. 58. Arabici nuncupatieo, quod in Arabia exorti sunt, dicentes animam cum
+            corpore mori, atque in nouissimo utrumque resurgere. §. 59.Tertullianistae dicti a
+            Tertulliano, presbitero Affricanae prouinciae ciuitatis Cartaginensis, animam
+            inmortalemesse, sed corpoream predicantes, et animas peccatorumhominum post mortem in
+            demones uerti putantes. §. 60.Tesserescedecatitae dicti, quod quartadecima luna pascacum
+            Iudeis obseruare contendunt. Nam tesseraquatuor, deka decem significat. §. 61. Nictages
+            a somnonuncupati, quod uigilias noctis respuant, supersticionemesse dicentes, iura
+            temerari diuina, qui noctem ad re-quiem tribuit. §. 62. Pelagiani a Pelagio monacho
+            exorti.Hii liberum arbitrium diuinae gratiae anteponunt, dicentes, sufficere uoluntatem
+            ad inplenda iussa diuina. §. 63. Ne-storiani a Nestorio Constantinopolitano episcopo
+            nuncupati, qui B. uirginem Mariam non Dei, sed hominis tantummodogenetricem ppp
+            asseruit, ut aliam personam carnis, aliam faceret Deitatis, nec unum Christum in uerbo
+            Dei etcarne credidit, sed separatim atque seiunctim alterumfilium Dei, alterum hominis
+            predicauit*. §. 64. Euticianidicti ab Eutice Constantinopolitano abbate, qui
+            Christumpost humanam assumptionem negauit existere de^^duabus naturis, sed solam in eo
+            diuinam asseruit esse naturam. §. 65. Acephalitae dicti, id est sine capite.Nullus enim
+            eorum repperitur auctor, a quo exorti sint.Hii trium Calcedonensium** capitulorum
+            inpugnatores, duarum in Christo substanciarum proprietatem negant, etunam in eius
+            persona naturam predicant. §. 66. Theodosiani f et Gaianitae appellati a Theodosio et
+            Gaiano, qui temporibus Iustiniani principis in Alexandria populiperuersi electione una
+            die ordinati sunt episcopi. Hiierrores Euticis et Dioscori sequentes
+            Calcedonenseconcilium respuunt, ex duabus unam in Christo naturamasserunt, quam
+            Theodosiani corruptam, Gaianitae incorruptam contendunt. §. 67. Gnoitae et Tritoitaef+
+            aTheodosianis exorti sunt, ex quibus Gnoitae ab ignorantiadicti, quia peruersitati, a
+            qua exorti sunt, id adiciunt, quod Christi diuinitas ignoret, que sunt futura scripta
+            dedie et hora nouissima, nec recordantes Christi personam nesciam loqui: , , Diem
+            iudicii in cordemeo.“ §. 68. Tritoitae uero uocati, quod sicut tres per sonas in
+            Trinitate, ita quoque tres asserunt Deos esse, contra illud, quod scriptum est: „ Audi
+            Israel, DominusDeus tuus Deus Unus est.“ §. 69. Sunt et aliaehereses sine auctore et
+            sine nominibus. Ex quibus aliaeputant trinumyyy esse Deum; aliae Christi
+            diuinitatempassibilem dicunt; aliae Christi de patre natiuitati intempore inicium
+            temporis dant; aliae liberationemhominum apud inferos factam Christi descensione
+            noncredunt; aliae animam imaginem Dei negant; aliae animasconuerti in demones et in
+            quecumque animalia existimant;aliae de mundi statu dissentiunt; aliae innumerabiles
+            mundos oppinantur; aliae aquam Deo coeternam faciunt; aliaenudis pedibus ambulant; aliae
+            cum hominibus non manducant. He sunt hereses aduersus catholicam fidem exortae, ab
+            Apostolis, et sanctis Patribus uelconciliis predampnatae, que, dum in se multis
+            erroribusdiuisae inuicem sibi dissentiunt, conmuni tamen nomineaduersus ecclesiam Dei
+            conspirant. §. 70. Sed quicumque aliter scripturam sanctam intelligit, quam
+            sensusSpiritus sancti flagitat, a quo conscripta est, licet de ecclesianon recesserit,
+            tamen hereticus appellari potest. </p>
+
+        </div>
+        <div xml:id="gd-p2c24q3-Dd1e753">
+          <head xml:id="gd-p2c24q3-Hd1e755">C. XL</head>
+          <head xml:id="gd-p2c24q3-Hd1e758" type="question-title"> Quare diuina prouidentia multos
+            errare permittit ^. </head>
+          <p xml:id="gd-p2c24q3-d1e761"> Augustinus [de Genesi contra Manichaeos, lib. I. cap. 1.] 2
+            b </p>
+          <p xml:id="gd-p2c24q3-d1e764"> VI. Pars. Ideo diuina prouidentia multos diuersi er roris
+            hereticos esse permittit, ut, cum interrogant nob ea, que nescimus, sic discutiamus
+            pigriciam, etdiuinas scripturas cupiamus. Proptereas Apostolusait: „ut probati manifesti
+            fiant.“ Hii autemDeo probati sunt, qui bene possunt docere*. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

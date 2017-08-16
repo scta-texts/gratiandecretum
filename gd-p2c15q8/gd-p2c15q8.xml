@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO VIII. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO VIII. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c15q8">
+        <head xml:id="gd-p2c15q8-Hd1e103"> QUESTIO VIII. </head>
+        <p xml:id="gd-p2c15q8-d1e106"> De ultima uero questione sic statutum est in Concilio Neo -
+          cesariensi , [c. 9. et 10.] </p>
+        <div xml:id="gd-p2c15q8-Dd1e109">
+          <head xml:id="gd-p2c15q8-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c15q8-Hd1e114" type="question-title"> Presbiter , qui confitetur , se
+            ante ordinationem corporaliter lapsum , postea non offerat. </head>
+          <p xml:id="gd-p2c15q8-d1e117"> Qui admiserit corporale peccatum, et hic postea presbiter
+            ordinatus est, si confessus fuerit quod ante ordinationem suam peccauerit, non quidem
+            offerat, maneatautem in aliis offitiis propter eius studii utilitatem*. Ceterauero,
+            peccata censuerunt plurimi etiam ordinatione pri-uari**. Quod si de his non fuerit
+            confessus, nec aliquibus potest manifeste conuinci, huic ipsi potestas de se
+            estconmittenda. Similiter et diaconus, si in eodem culpaegenere fuerit inuolutus, sese a
+            ministerio cohibebit. </p>
+        </div>
+        <div xml:id="gd-p2c15q8-Dd1e121">
+          <head xml:id="gd-p2c15q8-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c15q8-Hd1e126" type="question-title"> Deseruientes altario si carnis
+            fragilitate deliquerint , episcopi arbitrio subiacebunt . </head>
+          <p xml:id="gd-p2c15q8-d1e129"> Item ex Concilio Ylerdensi, [c. 5.]Hii, qui altario Dei
+            deseruiunt, si subito in flendafragilitate carnis corruerint, et Deo respiciente digne
+            pe-nituerint, ita ut mortificato corpore cordis contriti Deo sacrificium offerant,
+            maneat in potestate pontificis uel uera-citer afflictos non diu suspendere, uel
+            desidiosos prolixioretempore ab ecclesiae corpore segregare; ita tamen, ut sicoffitiorum
+            suorum loca recipiant, ne possint ad altioraoffitia ulterius promoueri. Quod si iterato
+            uelut canes aduomitum reuersi fuerint, non solum dignitate offitii careant, sed etiam
+            sanctam communionem, nisi in exitu, nonpercipiant. </p>
+        </div>
+        <div xml:id="gd-p2c15q8-Dd1e133">
+          <head xml:id="gd-p2c15q8-Hd1e135">C. III</head>
+          <head xml:id="gd-p2c15q8-Hd1e138" type="question-title"> Ex ministris ecclesiae geniti in
+            seruitutem eiusdem deuocentur.</head>
+
+          <p xml:id="gd-p2c15q8-d1e141"> Jtem ex Concilio Tolletano /X, [c. io.]Cum multae super
+            innocentiam ordinis clericorumhactenus emanauerint sententiae Patrum, et nullatenus
+            ipsorum formari quiuerit correctio morum, usque adeo sententiam iudicantium protraxere
+            conmissa culparum, ut nontantum ferretur ultio in actores scelerum, uerumetiam in
+            progeniem dampnatorum. Ideoque quilibetab episcopo usque ad subdiaconum deinceps uel ex
+            ancillae uel ex ingenuae detestando conubio in honore constituti filios procreauerint,
+            illi quidem, ex quibus geniti probabuntur, canonica censura dampnentur; proles autem,
+            aliena pollutione nata, non solum hereditatem numquamaccipiet, sed etiam in seruitute
+            eius ecclesiae, de cuiussacerdotis uel ministri ignominia nati sunt, iure
+            perhennimanebunt. </p>
+        </div>
+        <div xml:id="gd-p2c15q8-Dd1e146">
+          <head xml:id="gd-p2c15q8-Hd1e148">C. IV</head>
+          <head xml:id="gd-p2c15q8-Hd1e151" type="question-title"> Qui confitetur se ante
+            ordinationem peccasse non sacrificet; conuictus autem deponatur. </head>
+          <p xml:id="gd-p2c15q8-d1e154"> Item ex Concilio Martini Papae , [c. 35-]Si quis presbiter
+            ante ordinationem peccauerit nonofferat, sed tantum pro religione nomen presbiteri
+            portet.Si autem non ipse confessus fuerit, sed ab alio publice conuictus, nec hoc ipsum
+            habeat ut nomen presbiteri portet. Similiter et de diaconibus obseruandum est, ut,
+            siipsi confessi fuerint, ordinem subdiaconi accipiant. </p>
+        </div>
+        <div xml:id="gd-p2c15q8-Dd1e158">
+          <head xml:id="gd-p2c15q8-Hd1e160">C. V</head>
+          <head xml:id="gd-p2c15q8-Hd1e163" type="question-title"> De manu sacerdotis , qui ab
+            ecclesia tolleratur , licite sacramenta sumuntur. </head>
+          <p xml:id="gd-p2c15q8-d1e166"> Item Nicolaus ad consulta Bulgarorum , [c.
+            71.]Sciscitantibus uobis, si a sacerdote, qui fuerit con-prehensus in adulterio, siue de
+            hoc sola fama respersusest, debeatis communionem suscipere, necne? respondemus: Non
+            potest aliquis, quantumcumque pollutus sit, sacramenta diuina polluere, que purgatoria
+            cunctarum contagionum existunt. Qualiscumque enim sacerdos sit, quesancta sunt
+            coinquinari non possunt. Idcirco ab eo, usquequo episcoporum iudicio reprobetur,
+            communio percipienda est, quoniam mali bona ministrando se tantummodo ledunt, et cerea*
+            fax accensa sibi quidem detrimentum prestat, aliis uero lumen in tenebris administrat,
+            etunde aliis commodum exhibet inde sibi dispendium prebet.§. 1. Sumite ergo ab omni
+            sacerdote intrepide Christimisteria, quoniam&amp; omnia in fide Christi purgantur.Fides
+            enim est, que uincit hunc mundum, et quia nondantis, sed accipientis sit i, dicente B.
+            Ieronimo**: „Adcredendum omni animae baptismum perfectum esse, ’et in omni sacerdote
+            corpus est perfectum.“ Qui rursus sacrae scripturae concordans ait: „Prius, quam audias, </p>
+
+
+
+
+          <p xml:id="gd-p2c15q8-d1e169"> ne iudicaueris quemquam, atque ante probationem
+            accusationis illatae neminem a communione tua suspendas, quia non statim qui accusatur
+            reus est, sed qui conuincitur criminosus. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

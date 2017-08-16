@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. </title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title> QUESTIO III. </title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c28q3">
+        <head xml:id="gd-p2c28q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c28q3-d1e106"> GRATIANUS. </p>
+        <p xml:id="gd-p2c28q3-d1e109"> Utrum uero bigamus sit reputandus qui ante baptismum habuerit
+          unam, et post baptismum alteram, auctoritate Ier onimipatet. Ait enim super epistolam
+          Pauli ad Timotheum*: </p>
+        <div xml:id="gd-p2c28q3-Dd1e112">
+          <head xml:id="gd-p2c28q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c28q3-Hd1e117" type="question-title"> Non est bigamus qui ante
+            baptismum habuerit unam, et post baptismum alteram.</head>
+          <p xml:id="gd-p2c28q3-d1e120"> Oportet episcopum esse unius uxoris uirum. Verum hoc post
+            baptismum. Ceterum, si ante baptismum habueritunam, et post baptismum habuerit alteram,
+            non est reputandus bigamus, cui prorsus innouato per baptismumomnia uetera sunt dimissa. </p>
+          <p xml:id="gd-p2c28q3-d1e123"> Augustinus uero contra testatur, et Innocentius. Ait enim
+            Augustinus super epistolam Pauli ad Titum*: </p>
+        </div>
+        <div xml:id="gd-p2c28q3-Dd1e127">
+          <head xml:id="gd-p2c28q3-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c28q3-Hd1e132" type="question-title"> Non debet fieri episcopus qui
+            ante baptismum habuerit unam, et post baptismum alteram. </head>
+          <p xml:id="gd-p2c28q3-d1e135"> Acutius uero intelligant, qui nec eum ordinandum
+            censuerunt, qui ante baptismum habuerit unam, et postbaptismum alteram. In baptismate
+            enim crimina abolentur, non federatio coniugii dissoluitur. Sicut illa, que
+            catecuminauitiata est, inter Dei uirgines consecrari non potest, sic etqui ante
+            baptismum habuit unam, et post baptismum alteram, non nisi bigamus reputandus est.
+            Amisit enim quiddam non ad uitae meritum, sed ad signaculi sacramentum. </p>
+          <p xml:id="gd-p2c28q3-d1e138"> Gratian. Item Innocentius Rufo et Eusebio episcopis </p>
+
+
+
+
+          <p xml:id="gd-p2c28q3-d1e141"> Macedoniae multis argumentis probat, talem bigamum
+            reputari. Quia ergo iste, cuius causa in presenti agitur, cmte baptismumhabuit unam, et
+            post baptismum alteram, bigamus iudicatur , et, licet uitae merito et industria
+            scientiae* polleat, tamen in episcopum ordinari non potest. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

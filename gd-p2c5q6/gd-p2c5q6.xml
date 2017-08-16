@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO VI</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO VI</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+          <witness xml:id="Fa" n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c5q6">
+        <head xml:id="gd-p2c5q6-Hd1e103">QUESTIO VI</head>
+        <p xml:id="gd-p2c5q6-d1e106"> I. Pars. Qui autem quod intulit probare non ualet , puniendus
+          est. </p>
+        <p xml:id="gd-p2c5q6-d1e109"> Unde Adrianus Papa ait [in capitulis, c. 41.]: </p>
+        <div xml:id="gd-p2c5q6-Dd1e112">
+          <head xml:id="gd-p2c5q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q6-Hd1e117" type="question-title"> Puniatur qui aliis falsa
+            intulerit.</head>
+          <p xml:id="gd-p2c5q6-d1e120"> Omnis, qui aliis falsa intulerit, puniatur, et pro falsitate
+            ferat infamiam. </p>
+          <p xml:id="gd-p2c5q6-d1e123"> C.II. De eodem**. </p>
+          <p xml:id="gd-p2c5q6-d1e126"> Item Gregorius *. </p>
+          <p xml:id="gd-p2c5q6-d1e130"> Qui calumpniam illatam non probat, penam debet incurrere,
+            quam, si probasset, reus utique sustineret. </p>
+          <p xml:id="gd-p2c5q6-d1e133"> C III. Qua pena feriatur qui crimen illatum non probat. </p>
+          <p xml:id="gd-p2c5q6-d1e136"> Idem in Registrot *. </p>
+          <p xml:id="gd-p2c5q6-d1e139"> Quia iuxta canonicas Patrum sententias qui calumpniam
+            illatam non probat penam debet incurrere, ac per hoc, quia subdiaconus crimen diacono
+            probare non potuit, quoniam inpositionem manus (qua carere potuisset)non habuit, non
+            solum** sacerdotio, sed offitio caruit, et tamquamreuera infamis meruit uerberibus
+            castigari. Nam cui cumtribus testibus ueluti laico crimen quodlibet approbatur, nonest
+            mirum, quod obierit dum probare non sufficit, si corporali infamiae quemadmodum laicus
+            ex iuris similitudinesubiugatur. Quod enim esset diacono gradum amittere, hoc fuit
+            subdiacono famae plenitudine caruisse. </p>
+          <p xml:id="gd-p2c5q6-d1e142"> Codice libro I., titulo de episcopis et clericis, [ 1 , 8.]
+            In-perator Theodosius: </p>
+
+          <p xml:id="gd-p2c5q6-d1e145"> II. Pars. §. 1. Presbiteri citra iniuriam
+            questionumstestimonium dicant, ita tamen, ut falsa non simulent. Ceteri uero clerici,
+            qui eorundem gradum uel ordinemsecuntur, si ad testimonium dicendum petiti fuerint,
+            prout leges precipiunt, audiantur. Salua tamen sit litigatoribus falsi actio, si forte
+            presbiteri, qui suo 'nomine superioris loci testimonium dicere citra aliquam
+            corporaleminiuriam sunt precepti, hoc ipso, quod nichil metuunt, uera suppresserint.
+            Multo magis etenim pena suntdigni, quibus cum plurimum honoris per nostram iussio^nem
+            delatum est occulto p inueniuntur^ in crimine. Eadem IX. in coli. iX; §. 2. Presbiteri,
+            diaconi, sifalsum testimonium dixerint, si quidem in re pecuniaria*diuino ministerio
+            duntaxat per XII. annos separati monasterio tradantur: si in criminali, clericatus
+            honore nudatilegitimis penis subiciantur. Ceteri clerici sine***delectu^ causae legitime
+            coherceantur. </p>
+        </div>
+        <div xml:id="gd-p2c5q6-Dd1e149">
+          <head xml:id="gd-p2c5q6-Hd1e151">C. IV</head>
+          <head xml:id="gd-p2c5q6-Hd1e154" type="question-title"> Ad sanctae communionis ministerium
+            non accedatqui crimen illatum non probat. </head>
+          <p xml:id="gd-p2c5q6-d1e157"> Idem Ianuario Episcopo , [lib. III. ep. 24.]. </p>
+          <p xml:id="gd-p2c5q6-d1e160"> III. Pars. Epiphanium* presbiterum quorumdam sacerdotum
+            litteris criminaliter accusatum, cuius nos, utualuimus, causam discutientes, nichilque
+            in eo obiectorumreperientes, ut ad locum suum reuerteretur absoluimus.Criminis ergo eius
+            auctores uolumus te perscrutari, etnisi qui eandem transmisit epistolam paratus fuerit
+            hoc, quod obierit, canonicis atque districtissimis probationibusedocere, nullatenus ad
+            sanctae communionis ministeriumaccedat. </p>
+        </div>
+        <div xml:id="gd-p2c5q6-Dd1e165">
+          <head xml:id="gd-p2c5q6-Hd1e167">C. V</head>
+          <head xml:id="gd-p2c5q6-Hd1e170" type="question-title"> Qua pena feriendus sit
+            delator.</head>
+          <p xml:id="gd-p2c5q6-d1e173"> Item ex decreto Adriani Papae , [cap. 49-]*. </p>
+          <p xml:id="gd-p2c5q6-d1e176"> Delatori autem lingua capuletur, aut conuicto caput
+            amputetur. §. 1. Delatores autem sunt qui inuidia produnt alios. </p>
+          <p xml:id="gd-p2c5q6-d1e179"> [PALE A. </p>
+          <p xml:id="gd-p2c5q6-d1e183"> C. VI. De eodem. </p>
+          <p xml:id="gd-p2c5q6-d1e186"> Item ex Concilio Eliberitano. </p>
+          <p xml:id="gd-p2c5q6-d1e189"> Delator si quis extiterit fidelis, et per delationem eius
+            aliquis fuerit proscriptus uel interfectus, placuit, non nisi* in fine accipere
+            communionem. Si leuior </p>
+
+
+
+
+          <p xml:id="gd-p2c5q6-d1e192"> causa fuerit, infra quinquennium accipere poterit
+            communionem. Si catecuminus fuerit, post quinquennii tempora admittatur ad baptismum.]
+          </p>
+        </div>
+        <div xml:id="gd-p2c5q6-Dd1e196">
+          <head xml:id="gd-p2c5q6-Hd1e198">C. VII</head>
+          <head xml:id="gd-p2c5q6-Hd1e201" type="question-title"> De eodem . </head>
+          <p xml:id="gd-p2c5q6-d1e204"> Item ex VIII. Sinodo *. </p>
+          <p xml:id="gd-p2c5q6-d1e207"> Si quis falsum dixerit, uel personam innocentis falso
+            crimine maculauerit, iuxta sacerdotis arbitrium diuturnapenitentia expurgetur. </p>
+        </div>
+        <div xml:id="gd-p2c5q6-Dd1e211">
+          <head xml:id="gd-p2c5q6-Hd1e213">C. VIII</head>
+          <head xml:id="gd-p2c5q6-Hd1e216" type="question-title"> A communione coherceatur secularis
+            , uel laicus </head>
+          <p xml:id="gd-p2c5q6-d1e219"> qui ecclesiam uel clericum per calumpniam fatigauerit. </p>
+          <p xml:id="gd-p2c5q6-d1e222"> Item ex Concilio Ag a t en s i , [c. 32.] . </p>
+          <p xml:id="gd-p2c5q6-d1e225"> Si quis uero secularium per calumpniam ecclesiam aut
+            clericum fatigare presumpserit, et conuictus fuerit, ab ecclesiae liminibus et
+            catholicorum communione, nisi digne penituerit, coherceatur. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
