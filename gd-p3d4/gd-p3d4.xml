@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -368,8 +366,15 @@
             baptismate operatur. </p>
           <p xml:id="gd-p3d4-d1e495"> Idem super Iohannem part. i. tractat. V. </p>
           <p xml:id="gd-p3d4-d1e498"> [ad c. i.] 271 a </p>
-          <p xml:id="gd-p3d4-d1e501"> Baptismus talis est, qualis ille est, in cuius potestatedatur,
-            non qualis ille est, per cuius ministerium datur./tem: §. i. Quid nouerat Iohannes
+          <p xml:id="gd-p3d4-d1e501"> 
+            <cit>
+              <quote xml:id="gd-p3d4-Qd1e505" ana="#Augustine_InIohanne_5_6_a">
+                Baptismus talis est, qualis ille est, in cuius potestatedatur,
+                non qualis ille est, per cuius ministerium datur
+              </quote>
+              <bibl>Augustinus, In Ioan Evang., tr. 5, n. 6</bibl>
+            </cit>
+            : §. i. Quid nouerat Iohannes
             Baptista? Dominum. Quid non nouerat? potestatem baptismi dominiciin nullum hominem
             transituram a Domino, sed ministerium plane transiturum; potestatem a Domino in neminem,
             sed ministerium in bonos, et malos.Non exhorreat columba ministerium malorum;
