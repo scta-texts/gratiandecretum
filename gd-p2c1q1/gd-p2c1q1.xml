@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -84,10 +82,12 @@
         <div xml:id="gd-p2c1q1-Dd1e143">
           <head xml:id="gd-p2c1q1-Hd1e145">C. III.</head>
           <head xml:id="gd-p2c1q1-Hd1e148" type="question-title">Spolietur honore, qui ecclesiam per
-            pecuniam obtinet</head> . <p xml:id="gd-p2c1q1-d1e151"> Item in Registro *. </p>
-          <p xml:id="gd-p2c1q1-d1e154"> Presbiter si ecclesiam per pecuniam obtinuerit, non solum
+            pecuniam obtinet</head>
+          <p xml:id="gd-p2c1q1-d1e154"> 
+            Item in <ref xml:id="gd-p2c1q1-Rd1e153">Registro *.</ref> 
+            <cit><quote xml:id="gd-p2c1q1-Qd1e157">Presbiter si ecclesiam per pecuniam obtinuerit, non solum
             ecclesia priuetur, sed etiam sacerdotii honorespolietur, quia altare, et decimas, et
-            Spiritum sanctumuendere uel emere, symoniacam heresim esse, nullus fide-»lium ignorat.
+            Spiritum sanctumuendere uel emere, symoniacam heresim esse, nullus fide-»lium ignorat.</quote></cit>
           </p>
         </div>
         <div xml:id="gd-p2c1q1-Dd1e158">
@@ -99,12 +99,19 @@
         <div xml:id="gd-p2c1q1-Dd1e170">
           <head xml:id="gd-p2c1q1-Hd1e172">C. V.</head>
           <head xml:id="gd-p2c1q1-Hd1e175" type="question-title">Partem habebit cum Symone, qui
-            contra symoniacos uehementer non exarserit</head> . <p xml:id="gd-p2c1q1-d1e178"> Idem
-            in eodem *. </p>
-          <p xml:id="gd-p2c1q1-d1e181"> Quisquis per pecuniam ordinatur, ad hoc, ut fiat hereticus,
-            promouetur. Quisquis ergo contra symoniacam et neophitorum heresim pro offitii sui loco
-            uehementer nonarserit, cum eo se non dubitet habiturum portionem, qui prius commisit hoc
-            piaculare flagitium. </p>
+            contra symoniacos uehementer non exarserit</head>
+          <p xml:id="gd-p2c1q1-d1e181">
+            Idem
+            <ref xml:id="gd-p2c1q1-Rd1e184">in eodem *.</ref>
+            <cit>
+              <quote xml:id="gd-p2c1q1-Qd1e189">
+                Quisquis per pecuniam ordinatur, ad hoc, ut fiat hereticus,
+                promouetur. Quisquis ergo contra symoniacam et neophitorum heresim pro offitii sui loco
+                uehementer nonarserit, cum eo se non dubitet habiturum portionem, qui prius commisit hoc
+                piaculare flagitium.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c1q1-Dd1e185">
           <head xml:id="gd-p2c1q1-Hd1e187">C. VI</head>
@@ -332,14 +339,13 @@
           <head xml:id="gd-p2c1q1-Hd1e394">C. XXI</head>
           <head xml:id="gd-p2c1q1-Hd1e397" type="question-title"> Symoniacorum heresis ceteris
             dampnabilior esse probatur.</head>
-          <p xml:id="gd-p2c1q1-d1e400"> Item ex epist. Th ara sii Constantinopolitani Episcopi ,
-            missa Papae Adriano *. </p>
-          <p xml:id="gd-p2c1q1-d1e403"> Eos, qui per pecunias manus inposuerunt uel in- </p>
-
-
-
-
-          <p xml:id="gd-p2c1q1-d1e406"> ponunt, Petrus diuinus apostolus (cuius cathedram sortita
+          <p xml:id="gd-p2c1q1-d1e403">
+            <ref xml:id="gd-p2c1q1-Rd1e412"> Item ex epist. Th ara sii Constantinopolitani Episcopi ,
+              missa Papae Adriano *. 
+            </ref>
+            <cit>
+              <quote xml:id="gd-p2c1q1-Qd1e417">Eos, qui per pecunias manus inposuerunt uel inponunt, 
+            Petrus diuinus apostolus (cuius cathedram sortita
             est sanctitas uestra) tamquam Symonem magum deponit. §. 1.234 aTollerabilior enim est
             Macedonii et eorum, qui circa ipsumsunt, sancti Spiritus inpugnatorum inpia heresis.
             Illi enimcreaturam et seruum Dei Patris et Filii 235 Spiritum sanctumdelirando fatentur,
@@ -356,7 +362,7 @@
             2. Nam et uicesimusnonus canon sanctorum apostolorum, et Actus eorundem, et tercius et
             quartus liber Regnorum, alienum omnino asacerdotio pronunciant eum, qui aliquando
             dederit uel acceperit pecuniam in aliquo tempore, siue ante manus in-positionem^, siue
-            post inpositionetn. Accipere enimest quandocumque accipere. </p>
+            post inpositionetn. Accipere enimest quandocumque accipere.</quote></cit> </p>
 
         </div>
         <div xml:id="gd-p2c1q1-Dd1e411">
