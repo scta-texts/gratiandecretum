@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -57,7 +55,7 @@
       <div xml:id="gd-p2c35q10">
         <head xml:id="gd-p2c35q10-Hd1e103"> QUESTIO X. </head>
 
-        <p xml:id="gd-p2c35q10-d1e106"> De ea autem*, que ad secundas nuptias transit, utrum in
+        <p xml:id="gd-p2c35q10-d1e106"> De ea autem, que ad secundas nuptias transit, utrum in
           eadem affinitate consanguineorum prioris uiri remaneat , an sobo-les ex secundis nuptiis
           suscepta consanguineis prioris uiri copularipossit, merito queritur. </p>
         <p xml:id="gd-p2c35q10-d1e109"> De his ita scribit Gregorius Venerio, Caralitano Episcopo : </p>
@@ -77,14 +75,13 @@
             inter homines, eo inspirantedixit Adam: „Quamobrem relinquet homo patrem suumet matrem,
             et adherebit uxori suae, et erunt duo in carneuna." Deinde cum ueritas oriretur de terra
             in terram, etuisibilis appareret in humanitate, interrogatus est, silicitum esset homini
-            uxorem relinquere. Quod prohibens s uetuit, nisi forte fornicatio excluderet mari- </p>
-          <p xml:id="gd-p2c35q10-d1e123"> talem copulam. Unde statim protulit in medium eandem ipsam
+            uxorem relinquere. Quod prohibens s uetuit, nisi forte fornicatio excluderet maritalem copulam. 
+            Unde statim protulit in medium eandem ipsam
             sentenciam, quam ante secula manens cum Patreuerbum inspirauerat Adae, ipse confirmans
             quodipse primus protulit homo: „ Quamobrem relinquethomo patrem et matrem, et adherebit
             uxori suae, eterunt duo in carne una.** Si una caro fiunt, quomodopotest aliquis eorum
-            propinquus uni pertinere, nisi </p>
-          <p xml:id="gd-p2c35q10-d1e126"> ? ertineat alteri? Hoc minime fieri posse credendum est. </p>
-          <p xml:id="gd-p2c35q10-d1e130"> 'orro uno defuncto in superstite affinitas non deletur,
+            propinquus uni pertinere, nisi ertineat alteri? Hoc minime fieri posse credendum est. 
+            'orro uno defuncto in superstite affinitas non deletur,
             nec alia copula coniugalis affinitatem prioris copulae soluereualet. Sed neque alterius
             coniunctionis soboles placetad affinitatis prioris uiri consortium transire, pro eo,quod
             uerbum Domini ualidum est et forte, et, ut inquiensdixit Propheta: „Verbum Domini stabit
@@ -112,29 +109,41 @@
           <head xml:id="gd-p2c35q10-Hd1e136">C. II</head>
           <head xml:id="gd-p2c35q10-Hd1e139" type="question-title"> Soboles ex secundis nuptiis
             genita consanguineis prioris uiri copulari non debet.</head>
-          <p xml:id="gd-p2c35q10-d1e142"> Item Innocentius . </p>
-          <p xml:id="gd-p2c35q10-d1e145"> Si cuius patruus uel auunculus uxoratus obierit, et illa
+          <p xml:id="gd-p2c35q10-d1e145">
+            <ref xml:id="gd-p2c35q10-Rd1e134">Item Innocentius .</ref>
+            Si cuius patruus uel auunculus uxoratus obierit, et illa
             uirum alium postea duxerit, filios filiasue ex illo genuerit,cum his modis omnibus
-            conmisceri prohibemus, quia uir etmulier una caro est. </p>
-
-          <p xml:id="gd-p2c35q10-d1e148"> [C. III.] ^ </p>
-          <p xml:id="gd-p2c35q10-d1e152"> Item ex Romana Sinodo °. </p>
-          <p xml:id="gd-p2c35q10-d1e155"> Si qua mulier ad secundas nuptias transierit, et ex eis
+            conmisceri prohibemus, quia uir etmulier una caro est. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c35q10-Dd1e140">
+          <head xml:id="gd-p2c35q10-Hd1e142">[C. III.]</head>
+          <p xml:id="gd-p2c35q10-d1e155">
+            <ref xml:id="gd-p2c35q10-Rd1e143">Item ex Romana Sinodo</ref>
+            Si qua mulier ad secundas nuptias transierit, et ex eis
             sobolem genuerit, nullo modo potest ad consortium cognationis prioris uiri pertingere. </p>
-          <p xml:id="gd-p2c35q10-d1e158"> [PALE A. </p>
-          <p xml:id="gd-p2c35q10-d1e161"> C. IV. De eodem. </p>
-          <p xml:id="gd-p2c35q10-d1e164"> Item Higinus Papa. </p>
-          <p xml:id="gd-p2c35q10-d1e167"> Si qua mulier transierit ad secundas nuptias, et ex eis
+          <p xml:id="gd-p2c35q10-d1e158"> [PALEA. </p>
+        </div>
+        <div xml:id="gd-p2c35q10-Dd1e153">
+          <head xml:id="gd-p2c35q10-Hd1e155">C. IV.</head>
+          <head xml:id="gd-p2c35q10-Hd1e158" type="question-title">De eodem.</head>
+          <p xml:id="gd-p2c35q10-d1e167">
+            <ref xml:id="gd-p2c35q10-Rd1e163">Item Higinus Papa. </ref>
+            Si qua mulier transierit ad secundas nuptias, et ex eis
             prolem habuerit, ipsa proles non potest se copulare cognationi prioris uiri usque ad
-            quartam generationem.] </p>
+            quartam generationem.
+          </p>
+          <p xml:id="gd-p2c35q10-d1e177"> [PALEA.</p>
         </div>
         <div xml:id="gd-p2c35q10-Dd1e172">
-          <head xml:id="gd-p2c35q10-Hd1e174">[PALEA.</head>
-          <p xml:id="gd-p2c35q10-d1e177"> Unde Innocentius Papa: </p>
-          <p xml:id="gd-p2c35q10-d1e180"> C. V. De eodem. </p>
-          <p xml:id="gd-p2c35q10-d1e183"> Si qua mulier ad secundas transierit nuptias, et filios et
+          <head xml:id="gd-p2c35q10-Hd1e173"> C. V. </head>
+          <head xml:id="gd-p2c35q10-Hd1e176" type="question-title">De eodem. </head>
+          <p xml:id="gd-p2c35q10-d1e183">
+            <ref xml:id="gd-p2c35q10-Rd1e181">Unde Innocentius Papa: </ref>
+            Si qua mulier ad secundas transierit nuptias, et filios et
             filias ad secundum maritum genuerit, debere easnepotibus prioris mariti coniungi, sancta
-            Romana sinodusprorsus inhibuit.] </p>
+            Romana sinodusprorsus inhibuit. 
+          </p>
         </div>
       </div>
     </body>
