@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -231,13 +229,18 @@
         </div>
         <div xml:id="gd-p2c15q1-Dd1e220">
           <head xml:id="gd-p2c15q1-Hd1e222">C. VIII</head>
-          <head xml:id="gd-p2c15q1-Hd1e225" type="question-title"> Inobedientia uel^ concupiscentia
+          <head xml:id="gd-p2c15q1-Hd1e225" type="question-title"> Inobedientia uel concupiscentia
             non habet culpam in corpore non consentientis . </head>
-          <p xml:id="gd-p2c15q1-d1e228"> Item Augustinus I. lib. de ciuitate Dei, [c. 25.]Si
-            concupiscentia uel* inobedientia, que adhuc inmembris moribundis habitat, preter nostrae
-            uoluntatis legem </p>
-          <p xml:id="gd-p2c15q1-d1e231"> 3 uasi lege sua mouetur, si absque culpa est in corpore
-            ormientis, quanto magis absque culpa est in corpore non consentientis. </p>
+          <p xml:id="gd-p2c15q1-d1e228"> 
+            Item <ref xml:id="gd-p2c15q1-Rd1e230">Augustinus I. lib. de ciuitate Dei, [c. 25.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c15q1-Qd1e235" source="http://scta.info/resource/adcd-l1-d1e149">
+                Si concupiscentia uel inobedientia, que adhuc in membris moribundis habitat, praeter nostrae
+                uoluntatis legem quasi lege sua mouetur, si absque culpa est in corpore
+                ormientis, quanto magis absque culpa est in corpore non consentientis.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c15q1-Dd1e236">
           <head xml:id="gd-p2c15q1-Hd1e238">C. IX</head>
@@ -256,12 +259,7 @@
             nostrae uoluntati. Nemo nostrum tenetur ad culpam, nisi uoluntate propria deflexerit.
             Non habentcrimen que inferuntur reluctantibus. Voluntaria tantumconmissa sequitur
             delictorum inuidia, quam in alios deri-uamus. Voluntarium sibi militem elegit Christus,
-            uo-luntarium sibi seruum diabolus actionatur**. Neminem </p>
-
-
-
-
-          <p xml:id="gd-p2c15q1-d1e262"> iugo seruitutis astrictum possidet, nisi se ei prius
+            uo-luntarium sibi seruum diabolus actionatur**. Neminem iugo seruitutis astrictum possidet, nisi se ei prius
             peccatorum ere uendiderit. </p>
         </div>
         <div xml:id="gd-p2c15q1-Dd1e266">

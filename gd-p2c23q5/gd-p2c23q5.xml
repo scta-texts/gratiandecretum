@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -243,13 +241,17 @@
             bono aclicito, unde non possit i inrogari pernicies? </p>
           <p xml:id="gd-p2c23q5-d1e234"> III. Pars. Gratian. Se ipsum autem perimere nullalegis
             auctoritate alicui permittitur. </p>
-          <p xml:id="gd-p2c23q5-d1e238"> Unde Augustinus lib. I. de ciuitate Dei, [c. 17.]: </p>
+          
         </div>
         <div xml:id="gd-p2c23q5-Dd1e242">
           <head xml:id="gd-p2c23q5-Hd1e244">C. IX</head>
           <head xml:id="gd-p2c23q5-Hd1e247" type="question-title"> Qui Deo auctore bella gesserunt,
             preceptum non occidendi nequaquam transgressi sunt. </head>
-          <p xml:id="gd-p2c23q5-d1e250"> Si non licet priuata potestate alicui hominem occidere
+          <p xml:id="gd-p2c23q5-d1e250"> 
+            Unde <ref xml:id="gd-p2c23q5-Rd1e248">Augustinus lib. I. de ciuitate Dei, [c. 17.]:</ref> 
+            <cit>
+              <quote xml:id="gd-p2c23q5-Qd1e253" source="http://scta.info/resource/adcd-l1-d1e149">
+                Si non licet priuata potestate alicui hominem occidere
             innocentem, cuius occidendi licentiam lex nulla concedit, profecto etiam qui se ipsum
             occidit homicida est, et tanto fit nocentior, cum se occiderit, quanto innocentiorin ea
             causa fuit, qua se occidendum putauit. Nam siIudae merito factum detestamur, eumque
@@ -261,7 +263,14 @@
             finiuit hanc uitam, quia, licet propter scelus, alio tamen suo scelere occisus est. §.
             1. Curautem homo, qui nichil mali fecit, sibi malefaciat, et seipsum interficiendo
             hominem interficiat innocentem, nealium patiatur nocentem, atque in se perpetret
-            peccatumproprium, ne in eo perpetretur alienum? Item [c. 20.]: §. 2.<quote source="http://scta.info/resource/adcd-l1">in sanctis
+            peccatumproprium, ne in eo perpetretur alienum?
+            </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c23q5-d1e258">
+            <ref xml:id="gd-p2c23q5-Rd1e260">Item [c. 20.]:</ref> 
+            <cit>
+            <quote xml:id="gd-p2c23q5-Qd1e265" source="http://scta.info/resource/adcd-l1-d1e124">§. 2. in sanctis
             canonicis que libris nobis nusquam diuinituspreceptum permissumue reperiri potest, ut
             uel ipsius in-mortalitatis adipiscendae, uel ipsius cauendi curan-diue causa
             nobismetipsis necem inferamus. Nam et prohibitos nos esse intelligendum est, ubi lex ait:
@@ -275,29 +284,50 @@
             non recte intelligentibus uideri non esse prohibitum, ut aduersus se ipsum quisque
             falsus testis assistat:quanto magis intelligendum est, non licere homini seipsum
             occidere, cum in eo, quod scriptum est: „Non occides/ nichil deinde addito, nec p ipse
-            utique, cui precipiti, intelligatur q exceptus?</quote> /item: §. 3. „Nonoccides/ nec te, nec
-            alterum. Neque enim qui se occiditaliud quam hominem occidit. §. 4. Quasdam uero
+            utique, cui precipiti, intelligatur q exceptus?</quote></cit>
+          </p>
+          <p xml:id="gd-p2c23q5-d1e269">
+            item: 
+            <cit>
+              <quote xml:id="gd-p2c23q5-Qd1e273" source="http://scta.info/resource/adcd-l1-d1e124">§. 3. „Nonoccides/ nec te, nec
+            alterum. Neque enim qui se occiditaliud quam hominem occidit. 
+            </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c23q5-d1e279">
+            §. 4. 
+            <cit>
+              <quote xml:id="gd-p2c23q5-Qd1e283" source="http://scta.info/resource/adcd-l1-d1e127">
+                Quasdam uero
             exceptiones eadem ipsa diuina fecit auctoritas, sed hisexceptis, quos Deus occidi iubet,
-            siue data lege, adpersonam pro tempore expressa iussione, siue ipse qui*occidit,
+            siue data lege, ad personam pro tempore expressa iussione, siue ipse qui*occidit,
             ministerium debet iubenti, sicut gladius ammini-culum utenti. Et ideo nequaquam contra
-            hoc preceptumfecerunt, quod dictum est: „Non occides/ qui Deoauctore bella gesserunt,
-            aut personam gerentes publicaepotestatis secundum ius°y legis, hoc est iustissimae
-            rationisinperium, sceleratos morte punierunt. Et Abraham nonsolum non est culpatus
-            crudelitatis crimine, uerum etiamlaudatus est nomine pietatis, quod uoluit filium
+            hoc preceptum fecerunt, quod dictum est: „Non occides/ qui Deoauctore bella gesserunt,
+            aut personam gerentes publicae potestatis secundum ius°y legis, hoc est iustissimae
+            rationis inperium, sceleratos morte punierunt. Et Abraham nons olum non est culpatus
+            crudelitatis crimine, uerum etiam laudatus est nomine pietatis, quod uoluit filium
             nequaquamscelerate, sed obedienter occidere. Et merito queritur, utrum pro iussu Dei sit
             habendum, quod Iephte filiam, que patri occurrit, occidit, cum id uouisset se
-            inmola-turum, quod ei uictori redeunti de prelio primitusoccurrisset. Nec Samson aliter
-            excusatur, quod se ipsumcum hostibus ruina domus obpressit, nisi quia Spirituslatenter
-            hoc iusserat, qui per illum miracula faciebat. Hisigitur exceptis, quos uel lex iusta
-            generaliter, uel ipsefons iustitiae Deus specialiter iubet occidi, quisquis hominem uel
-            se ipsum uel quemlibet occiderit, homicidii crimineinnectitur. Item [c. 26.]: §. 5. Hoc
-            dicimus, hoc asserimus, hoc modis omnibus approbamus, neminem spontaneammortem sibi
-            inferre debere, uelut fugiendo molestias temporales, ne incidat in perpetuas; neminem
-            propter alienapeccata, ne hoc ipso incipiat habere grauissimum proprium; neminem propter
-            sua preterita peccata, que magis in hac uita opus est, ut possint penitendosanari;
-            neminem uelut desiderio melioris uitae, que postmortem speratur, quia reum suae mortis
-            melior postmortem uita non suscipit. </p>
-
+            inmola-turum, quod ei uictori redeunti de prelio primitus occurrisset. Nec Samson aliter
+            excusatur, quod se ipsum cum hostibus ruina domus obpressit, nisi quia Spiritus latenter
+            hoc iusserat, qui per illum miracula faciebat. His igitur exceptis, quos uel lex iusta
+            generaliter, uel ipse fons iustitiae Deus specialiter iubet occidi, quisquis hominem uel
+            se ipsum uel quemlibet occiderit, homicidii crimine innectitur.</quote></cit>
+          </p>
+          <p xml:id="gd-p2c23q5-d1e287">
+            Item [c. 26.]: §. 5. 
+            <cit>
+              <quote xml:id="gd-p2c23q5-Qd1e291" source="http://scta.info/resource/adcd-l1-d1e152">
+                Hoc
+                dicimus, hoc asserimus, hoc modis omnibus approbamus, neminem spontaneammortem sibi
+                inferre debere, uelut fugiendo molestias temporales, ne incidat in perpetuas; neminem
+                propter alienapeccata, ne hoc ipso incipiat habere grauissimum proprium; neminem propter
+                sua preterita peccata, que magis in hac uita opus est, ut possint penitendosanari;
+                neminem uelut desiderio melioris uitae, que postmortem speratur, quia reum suae mortis
+                melior postmortem uita non suscipit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c23q5-Dd1e254">
           <head xml:id="gd-p2c23q5-Hd1e256">C. X</head>
@@ -392,9 +422,6 @@
           <head xml:id="gd-p2c23q5-Hd1e381">C. XIX</head>
           <head xml:id="gd-p2c23q5-Hd1e384" type="question-title"> Nonnumquam pocius peccat qui
             causam mortis prebet, quam ille, qui occidit.</head>
-          <a/>
-          <h2>
-            <a/> Z^m, </h2>
           <p xml:id="gd-p2c23q5-d1e394"> Cum homo ab homine occiditur, multum distat, utrum fiat
             nocendi cupiditate, uel iniuste aliquid auferendi (sicutfit ab inimico, sicut a
             latrone), an ulciscendi uel obediendiordine (sicut a iudice, sicut a carnifice), uel
@@ -422,13 +449,7 @@
             Sepe perregnum terrenum celeste regnum proficit, ut qui intra ecclesiam positi contra
             fidem et disciplinam agunt rigoreprincipum conterantur, ipsamque disciplinam, quam
             ecclesiae utilitas exercere non preualet, ceruicibus superborum potestas principalis
-            inponat, et, ut ueneratio- </p>
-
-
-
-
-          <div xml:id="gd-p2c23q5-Dd1e412">
-            <p xml:id="gd-p2c23q5-d1e414"> nem &amp;* mereatur , uirtutem potestatis inpertiatur.
+            inponat, et, ut ueneratio nem &amp;* mereatur , uirtutem potestatis inpertiatur.
               Cognoscant principes seculi Deo se debere esse rationemreddituros propter ecclesiam,
               quam Christo s tuendamsuscipiunt. Nam siue augeatur pax et disciplina ecclesiaeper
               fideles principes, siue soluatur, ille ab eis rationemexigit, qui eorum potestati suam
@@ -478,9 +499,7 @@
             <p xml:id="gd-p2c23q5-d1e479"> Si apud dominos carnales in minimis fideles fuerint,
               incipient eis apud Dominum maiora conmitti. Ornatautem doctrinam Domini qui ea, que
               condicioni suae aptasunt, facit, ut e diuerso confundit eam qui non estsubiectus in
-              omnibus, cui condicio sua displicet, qui con- | </p>
-          </div>
-          <p xml:id="gd-p2c23q5-d1e483"> tradictor atque fraudator in nullo bonam fidem ostendit.
+              omnibus, cui condicio sua displicet, qui contradictor atque fraudator in nullo bonam fidem ostendit.
             Quomodo enim potest fidelis esse in substantia Dei quicarnali domino fidem exhibere non
             potuit? </p>
         </div>
