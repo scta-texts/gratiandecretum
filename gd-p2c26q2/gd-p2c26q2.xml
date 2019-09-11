@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -136,41 +134,90 @@
         <div xml:id="gd-p2c26q2-Dd1e191">
           <head xml:id="gd-p2c26q2-Hd1e193">C. VI</head>
           <head xml:id="gd-p2c26q2-Hd1e196" type="question-title"> Instituciones hominum que sint
-            supersticiosae uel non. Idem in l. [II.] de doctrina Christiana , [c. 19. et 20. et 21.] </head>
-
-          <p xml:id="gd-p2c26q2-d1e199"> Illud, quod est secundum institutiones hominum, partim
-            supersticiosum est, partim non est supersticiosum. Superstitiosum est quicquid
-            institutum est ab hominibus adfacienda ydola et colenda pertinens, uel ad colendam
-            sicutDeum creaturam, partemue ullam creaturae, uel ad consultationes et pacta quedam
-            significationum cum dejnonibusplacita atque federata, qualia sunt molimina
-            magicarumartium, que quidam conmemorare pocius quam doceresolent poetae. Ex quo genere
-            sunt, sed quasi licentioriuanitate, aruspicum et augurum libri. §. 1. Ad hoc etiamgenus
-            pertinent omnes ligaturae atque remedia, que medicorum quoque disciplina condempnat,
-            siue in precantationi-bus, siue in quibusdam notis, quas karacteres uocant, siue in
-            quibuscumque rebus suspendendis atque ligandis, uel etiam saltandis quodammodo, non ad
-            temperationemcorporum, sed ad quasdam significationes aut occultas, aut manifestas, que
-            eminentiori nomine uocant physicam, ut quasi non superstitionem inplicare, sed naturae
-            prodesse uideantur, sicut sunt inaures in summosingularum aurium, aut de struthionum
-            ossibus ansulaein digitis, aut cum tibi dicitur singultienti, ut dexteramanu pollicem
-            teneas. His adiunguntur milia inanissimarum obseruationum, si membrum aliquod salierit,
-            si iun-ctim ambulantibus amicis lapis s, aut puer medius inter-uenerit. §. 2. Hinc etiam
-            sunt illa, limen calcare, cumante domum suam transit; redire ad lectum, si quis, dum
-            secalciat, sternutauerit; redire ad domum, si procedensoffenderit; uel si uestis a
-            soricibus roditur. §. 3. Neque ab hoc genere superstitionis perniciosae segregandisunt,
-            qui olim genethliaci propter naturalium considerationes dierum, nunc autem p mathematici
-            uocantur.Nam et ipsi, quamuis ueram stellarum positionem, cumquisque nascitur,
-            consecuntur^, et aliquando peruesti-gant, tamen quod inde conantur uel actiones nostras,
-            uelactionum euenta producere, nimis errant. §. 4.Hoc autem genus fornicationis animae
-            salubriter diuinaauctoritas non tacuit, neque ab ea sic deterruitanimam, ut propterea
-            talia negaret esse sectanda, quia falsadicuntur a professoribus eorum, sed , , etiamsi
-            dixerintuobis, “ inquit, „ et ita euenerit, ne credatis eis.“ Non enimquia imago
-            Samuelis mortui Sauli uera pronunciauit, propterea talia sacrilegia, quibus illa imago
-            presentataest, minus execranda sunt, aut quia in Actibus Apostolorum femina uentriloqua
-            uerum testimonium perhibuitApostolis Domini, ideo Paulus apostolus pepercit
-            spirituiilli, ac non pocius feminam illius demonii correctioneyatque exclusione
-            mundauit. §. 5. Omnes igitur artes huiusmodi uel nugatoriae uel noxiae supersticionis,
-            ex quadampestifera societate hominum et demonum quasi pacta infidelis et dolosae
-            amicitiae constituta, penitus sunt repudiandae et fugiendae Christiano. </p>
+            supersticiosae uel non.</head>
+          <p xml:id="gd-p2c26q2-d1e199"> 
+            Idem in 
+            <ref xml:id="gd-p2c26q2-Rd1e201">l. [II.] de doctrina Christiana , [c. 19. et 20. et 21.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e206" source="http://scta.info/resource/addc-l2-d1e363 http://scta.info/resource/addc-l2-d1e374">
+              Illud, quod est secundum institutiones hominum, partim 
+              supersticiosum est, partim non est supersticiosum. 
+              <!-- starts august paragraph http://scta.info/resource/addc-l2-d1e374 here -->
+              Superstitiosum est quicquid
+              institutum est ab hominibus ad facienda ydola et colenda pertinens, uel ad colendam
+              sicut Deum creaturam, partemue ullam creaturae, uel ad consultationes et pacta quedam
+              significationum cum dejnonibus placita atque federata, qualia sunt molimina
+              magicarum artium, que quidam conmemorare pocius quam docere solent poetae. Ex quo genere
+              sunt, sed quasi licentiori uanitate, aruspicum et augurum libri
+            </quote>
+            </cit>.
+          </p>
+          <!-- reason for division here in Friedberg not clear to me -->
+          <p xml:id="gd-p2c26q2-d1e215">
+            §. 1. 
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e219" source="http://scta.info/resource/addc-l2-d1e374">
+                Ad hoc etiam genus
+                pertinent omnes ligaturae atque remedia, que medicorum quoque disciplina condempnat,
+                siue in precantationi-bus, siue in quibusdam notis, quas karacteres uocant, siue in
+                quibuscumque rebus suspendendis atque ligandis, uel etiam saltandis quodammodo, non ad
+                temperationemcorporum, sed ad quasdam significationes aut occultas, aut manifestas, que
+                eminentiori nomine uocant physicam, ut quasi non superstitionem inplicare, sed naturae
+                prodesse uideantur, sicut sunt inaures in summosingularum aurium, aut de struthionum
+                ossibus ansulaein digitis, aut cum tibi dicitur singultienti, ut dexteramanu pollicem
+                teneas. His adiunguntur milia inanissimarum obseruationum, si membrum aliquod salierit,
+                si iun-ctim ambulantibus amicis lapis s, aut puer medius interuenerit.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c26q2-d1e225">
+            §. 2. 
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e229" source="http://scta.info/resource/addc-l2-d1e379">
+                Hinc etiam
+                sunt illa, limen calcare, cumante domum suam transit; redire ad lectum, si quis, dum
+                secalciat, sternutauerit; redire ad domum, si procedensoffenderit; uel si uestis a
+                soricibus roditur.</quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c26q2-d1e234">
+            §. 3.
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e238" source="http://scta.info/resource/addc-l2-d1e390">
+                Neque ab hoc genere superstitionis perniciosae segregandi sunt,
+                qui olim genethliaci propter naturalium considerationes dierum, nunc autem p mathematici
+                uocantur. Nam et ipsi, quamuis ueram stellarum positionem, cum quisque nascitur,
+                consecuntur, et aliquando peruestigant, tamen quod inde conantur uel actiones nostras,
+                uelactionum euenta producere, nimis errant.
+                </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c26q2-d1e243">
+            §. 4.
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e247" source="http://scta.info/resource/addc-l2-d1e418">
+                Hoc autem genus fornicationis animae
+                salubriter diuina auctoritas non tacuit, neque ab ea sic deterruit animam, ut propterea
+                talia negaret esse sectanda, quia falsa dicuntur a professoribus eorum, sed , , etiamsi
+                dixerint uobis, “ inquit, „ et ita euenerit, ne credatis eis.“ Non enim quia imago
+                Samuelis mortui Sauli uera pronunciauit, propterea talia sacrilegia, quibus illa imago
+                presentataest, minus execranda sunt, aut quia in Actibus Apostolorum femina uentriloqua
+                uerum testimonium perhibuit Apostolis Domini, ideo Paulus apostolus pepercit
+                spiritui illi, ac non pocius feminam illius demonii correctioney atque exclusione
+                mundauit.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c26q2-d1e252">
+            §. 5. 
+            <cit>
+              <quote xml:id="gd-p2c26q2-Qd1e256" source="http://scta.info/resource/addc-l2-d1e423">
+                Omnes igitur artes huiusmodi uel nugatoriae uel noxiae supersticionis,
+                ex quadampestifera societate hominum et demonum quasi pacta infidelis et dolosae
+                amicitiae constituta, penitus sunt repudiandae et fugiendae Christiano.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c26q2-Dd1e203">
           <head xml:id="gd-p2c26q2-Hd1e205">C. VII</head>

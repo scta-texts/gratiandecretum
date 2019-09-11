@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -139,11 +137,19 @@
           <head xml:id="gd-p2c1q3-Hd1e187">C. VI</head>
           <head xml:id="gd-p2c1q3-Hd1e190" type="question-title"> Quicquid possidetur nomine
             pecuniae intelligitur.</head>
-          <p xml:id="gd-p2c1q3-d1e193"> Item Augustinus de doctrina *® Christiana. </p>
-          <p xml:id="gd-p2c1q3-d1e196"> Totum, quicquid homines habent in terra, omnia, quorum
-            Domini sunt, pecunia uocatur, seruus, uas, ager, arbor, pecus; quicquid horum est
-            pecunia dicitur.§. i.** Ideo autem pecunia uocata est, quia antiqui, quod habebant, in
-            pecoribus habebant. </p>
+          <p xml:id="gd-p2c1q3-d1e196">
+            Item 
+            <ref xml:id="gd-p2c1q3-Rd1e195" corresp="#gd-p2c1q3-Qd1e200">Augustinus de doctrina Christiana.</ref>
+            <cit>
+              <quote xml:id="gd-p2c1q3-Qd1e200">
+                <!-- I can't find this in de doctrina -->
+                Totum, quicquid homines habent in terra, omnia, quorum
+                Domini sunt, pecunia uocatur, seruus, uas, ager, arbor, pecus; quicquid horum est
+                pecunia dicitur.§. i.Ideo autem pecunia uocata est, quia antiqui, quod habebant, in
+                pecoribus habebant.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c1q3-Dd1e200">
           <head xml:id="gd-p2c1q3-Hd1e202">C. VII</head>

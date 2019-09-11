@@ -61,8 +61,8 @@
           <head xml:id="gd-p1d19-Hd1e117">C. I.</head>
           <head xml:id="gd-p1d19-Hd1e120" type="question-title">Decretales epistolae uim auctoritatis babent.</head>
           <p xml:id="gd-p1d19-d1e123">
-            <ref>De bis ita scribit Nicolaus Papa arcbiepiscopis et episcopis per Gallias constitutis.</ref>
-            <cit><quote>Si Romanorum Pontificum decreto ceterorum opuscula tractatorum approbantur uel
+            <ref xml:id="gd-p1d19-Rd1e122">De bis ita scribit Nicolaus Papa arcbiepiscopis et episcopis per Gallias constitutis.</ref>
+            <cit><quote xml:id="gd-p1d19-Qd1e126">Si Romanorum Pontificum decreto ceterorum opuscula tractatorum approbantur uel
             reprobantur, ita ut, quod uere sedes apostolica probauit, hodie teneatur acceptum, et quod illa repulit, hactenus
             inefficax habeatur: quanto potius, que, ipsa pro catholica fide, pro sanis dogmatibus,
             pro uariis et multifariis ecclesiae necessitatibus et fidelium moribus diuerso tempore
@@ -184,17 +184,26 @@
           <head xml:id="gd-p1d19-Hd1e209">C. VI.</head>
           <head xml:id="gd-p1d19-Hd1e212" type="question-title">Inter canonicas scripturas decretales epistolae
             connumerantur.</head>
-          <p xml:id="gd-p1d19-d1e215">Item Augustinus de doctrina Christiana, lib. II.</p>
-          <p xml:id="gd-p1d19-d1e218">[cap. 8.]"*</p>
-
-          <p xml:id="gd-p1d19-d1e221">In canonicis scripturis ecclesiarum catholicarum quamplurimum diuinarum scripturarum
-            sollertissimus indagator auctoritatem sequatur, inter quas sane illae sint, quas
-            apostolicas sedes habere et ab ea merueruntaccipere epistolas. §. i. Tenebit igitur hunc
-            modum in scripturis canonicis, ut eas, que ab omnibus recipiuntur ecclesiis, preponat
-            eis, quas quidam non accipiunt. In eis uero, que non accipiuntur ab omnibus, preponat
-            eas, quas plures grauioresque accipiunt, eis, quas pauciores minorisque auctoritatis
-            ecclesiae tenent. §. 2. Si autem alias inuenerit a pluribus, alias a grauioribus haberi
-            (quamquam hoc inueniri non possit) equalis tamen auctoritatis eas habendas puto.</p>
+          <p xml:id="gd-p1d19-d1e221">
+            Item 
+            <ref xml:id="gd-p1d19-Rd1e215">Augustinus de doctrina Christiana, lib. II. [cap. 8.]</ref>
+            <cit>
+              <quote xml:id="gd-p1d19-Qd1e220" source="http://scta.info/resource/addc-l2-d1e209">
+                In canonicis scripturis ecclesiarum catholicarum quamplurimum diuinarum scripturarum
+                sollertissimus indagator auctoritatem sequatur, inter quas sane illae sint, quas
+                apostolicas sedes habere et ab ea meruerunt accipere epistolas.
+                <!-- continuous quote here; why does frieberg add breaks here; elswhere I've turned these into seperate paragraphs with separate quotes
+                  but usually because the quotation is not continuous and the reason for the break seems obvioius -->
+                §. i. Tenebit igitur hunc
+                modum in scripturis canonicis, ut eas, que ab omnibus recipiuntur ecclesiis, preponat
+                eis, quas quidam non accipiunt. In eis uero, que non accipiuntur ab omnibus, preponat
+                eas, quas plures grauioresque accipiunt, eis, quas pauciores minorisque auctoritatis
+                ecclesiae tenent. 
+                §. 2. Si autem alias inuenerit a pluribus, alias a grauioribus haberi
+                (quamquam hoc inueniri non possit) equalis tamen auctoritatis eas habendas puto.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p1d19-Dd1e225">
           <head xml:id="gd-p1d19-Hd1e227">C. VII.</head>
