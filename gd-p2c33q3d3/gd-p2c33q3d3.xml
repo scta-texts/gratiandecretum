@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -68,48 +66,121 @@
           <head xml:id="gd-p2c33q3d3-Hd1e114">[C. I.]</head>
           <p xml:id="gd-p2c33q3d3-d1e117"> „Penitencia est et mala preterita plangere, et plangenda
             iterum non conmittere , </p>
-          <p xml:id="gd-p2c33q3d3-d1e120"> [C. II.] Idem in lib. [II.] de unica penit., [c. 10.] </p>
-          <p xml:id="gd-p2c33q3d3-d1e123"> „ Repperiuntur * qui sepius penitenciam agendam putant,
-            qui luxuriantur in Christo. Nam si uere in Christo penitenciam agerent, iterandam postea
-            non putarent; quia , sicut unumbaptisma, ita unica ** est penitencia. Verum preteriti
-            nossemper debet penitere peccati: sed hec delictorum leuiorum.At ego facilius inueni qui
-            recte seruauerit innocentiam , quam qui congrue egerit penitenciam . </p>
-          <p xml:id="gd-p2c33q3d3-d1e126"> [C. III.] Item Augustinus [libro de dogmatibus
-            ecclesiasticis, c. 54.] </p>
-          <p xml:id="gd-p2c33q3d3-d1e130"> „ Satisfactio penitenciae est peccatorum causas excidere,
-            nec earum suggestionibus aditum indulgere . </p>
-          <p xml:id="gd-p2c33q3d3-d1e133"> [C. IV.] Idem in lib. de penit., [c. 8.] </p>
-          <p xml:id="gd-p2c33q3d3-d1e136"> „ Penitencia est quedam dolentis uindicta, puniens in se
-            quod dolet conmisisse . Et infra [c. 19.]: §. 1. ,, Continue dolen-dum est de peccato:
-            quod declarat ipsa dictionis uirtus.Penitere enim est penam tenere, ut semper in se
-            puniat ulciscendoquod conmisit peccando. Pena enim proprie dicitur lesio, quepunit et
-            uindicans quod quisque conmisit. Ille penamtenet, qui semper uindicat quod commisisse
-            dolet . </p>
-          <p xml:id="gd-p2c33q3d3-d1e139"> [Gratian.] Penitencia itaque est uindicta semper puniens
-            in se quod dolet conmisisse. </p>
-          <p xml:id="gd-p2c33q3d3-d1e142"> [C. V.] In eodem, [c. I3.] </p>
-          <p xml:id="gd-p2c33q3d3-d1e145"> „Si Apostolus etiam peccata per baptismum dimissa
-            continue plorat, nobis* super fundamentum Apostolorum positis quid preter plorarer
-            estat? quid, nisi semper doler e in uitaf Ubienim dolor finitur, deficit et penitencia.
-            Si autem penitenciafinitur, quid relinquitur de uenia ? Tamdiu enim gaudeat et speretde
-            gratia, quamdiu sustentatur a penitencia. Dicit enimDominus: „ „ Vade, et amplius noli
-            peccare . Non dixit: ne pecces, sed: nec uoluntas peccandi in te oriatur. Quodquomodo
-            seruabitur, nisi dolor in penitencia continue custodiatur ?Hinc semper doleat, et de
-            dolore gaudeat, et de doloris penitencia, si contigerit, semper doleat, et non satis
-            sit, quod doleat,sed ex fide doleat, et non semper do luisse doleat .“ </p>
-          <p xml:id="gd-p2c33q3d3-d1e149"> [C. VI.] Item Gregorius in estiuum tempus, [id est homil.
-            XXXIV. Euang.] </p>
-          <p xml:id="gd-p2c33q3d3-d1e152"> ,,Penitenciam agere digne non possumus, nisi modum quoque
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e121">
+          <head xml:id="gd-p2c33q3d3-Hd1e123">[C. II.]</head>
+          <p xml:id="gd-p2c33q3d3-d1e123">
+            Idem in <ref xml:id="gd-p2c33q3d3-Rd1e128">lib. [II.] de unica penit., [c. 10.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e133">
+                Repperiuntur qui sepius penitenciam agendam putant,
+                qui luxuriantur in Christo. Nam si uere in Christo penitenciam agerent, iterandam postea
+                non putarent; quia , sicut unumbaptisma, ita unica ** est penitencia. Verum preteriti
+                nossemper debet penitere peccati: sed hec delictorum leuiorum. At ego facilius inueni qui
+                recte seruauerit innocentiam , quam qui congrue egerit penitenciam.
+              </quote>
+              <bibl>XXX</bibl>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e143">
+          <head xml:id="gd-p2c33q3d3-Hd1e145">[C. III.]</head>
+          <p xml:id="gd-p2c33q3d3-d1e130">
+            Item <ref xml:id="gd-p2c33q3d3-Rd1e150">Augustinus [libro de dogmatibus ecclesiasticis, c. 54.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e155">
+                Satisfactio penitenciae est peccatorum causas excidere, 
+                nec earum suggestionibus aditum indulgere
+              </quote>
+            </cit>. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e161">
+          <head xml:id="gd-p2c33q3d3-Hd1e163">[C. IV.]</head>
+          <p xml:id="gd-p2c33q3d3-d1e136">
+            Idem in <ref xml:id="gd-p2c33q3d3-Rd1e168">lib. de penit., [c. 8.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e173">
+                Penitencia est quedam dolentis uindicta, puniens in se
+                quod dolet conmisisse .
+              </quote>
+              <bibl>XXX</bibl>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c33q3d3-d1e181">
+            Et 
+            <ref xml:id="gd-p2c33q3d3-Rd1e183">infra [c. 19.]</ref>: 
+            §. 1.
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e188">
+                Continue dolendum est de peccato:
+                quod declarat ipsa dictionis uirtus. Penitere enim est penam tenere, ut semper in se
+                puniat ulciscendo quod conmisit peccando. Pena enim proprie dicitur lesio, que punit et
+                uindicans quod quisque conmisit. Ille penam tenet, qui semper uindicat quod commisisse
+                dolet.
+              </quote>
+              <bibl>XXX</bibl>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c33q3d3-d1e139">
+            [Gratian.] Penitencia itaque est uindicta semper puniens
+            in se quod dolet conmisisse. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e200">
+          <head xml:id="gd-p2c33q3d3-Hd1e202">[C. V.]</head>
+          <p xml:id="gd-p2c33q3d3-d1e145">
+            In <ref xml:id="gd-p2c33q3d3-Rd1e207">eodem, [c. I3.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e212">
+                Si Apostolus etiam peccata per baptismum dimissa
+                continue plorat, nobis* super fundamentum Apostolorum positis quid preter plorarer
+                estat? quid, nisi semper doler e in uitaf Ubienim dolor finitur, deficit et penitencia.
+                Si autem penitencia finitur, quid relinquitur de uenia ? Tamdiu enim gaudeat et speretde
+                gratia, quamdiu sustentatur a penitencia. Dicit enim Dominus: „ „ Vade, et amplius noli
+                peccare . Non dixit: ne pecces, sed: nec uoluntas peccandi in te oriatur. Quodquomodo
+                seruabitur, nisi dolor in penitencia continue custodiatur? Hinc semper doleat, et de
+                dolore gaudeat, et de doloris penitencia, si contigerit, semper doleat, et non satis
+                sit, quod doleat,sed ex fide doleat, et non semper do luisse doleat.
+              </quote>
+              <bibl>XXX</bibl>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e221">
+          <head xml:id="gd-p2c33q3d3-Hd1e223">[C. VI.]</head>
+          <p xml:id="gd-p2c33q3d3-d1e152"> 
+            Item 
+            <ref xml:id="gd-p2c33q3d3-Rd1e228">Gregorius in estiuum tempus, [id est homil. XXXIV. Euang.]</ref> 
+            <cit><quote xml:id="gd-p2c33q3d3-Qd1e232">,,Penitenciam agere digne non possumus, nisi modum quoque
             eiusdem penitenciae cognoscamus. Penitenciam quippeest agere et perpetrata mala
             plangere, et plangenda non perpetrare. Nam qui sic alia deplorat, ut tamen alia
             conmittat,adhuc penitenciam agere aut ignorat, aut dissimulat. Quidenim prodest, si
-            peccata quis luxuriae defleat, et tamen adhucauaritiae estibus anhelat ? Idem [lib. IX.
-            epist. 39. ad Theo-ctistam]*: §. 1. „*$Y autem dicunt, pauci temporis penitenciam contra
-            peccatum debere sufficere, ut iterum liceat ad peccatum redire, recte hos pastoris primi
-            sentencia percutit, quiait!: „ „ Canis reuersus ad suum uomitum, et sus lota in
-            uoluta-bro lutiMagna est enim contra peccatum uirtus penitenciae,sed si quis in eadem
-            penitencia perseueret. §. 2. Penitenciamuere agere est conmissa plangere, sed iterum
-            plangenda declinare . </p>
+            peccata quis luxuriae defleat, et tamen adhucauaritiae estibus anhelat ?</quote></cit>.
+          </p>
+          <p xml:id="gd-p2c33q3d3-d1e236">
+            <ref xml:id="gd-p2c33q3d3-Rd1e238">Idem [lib. IX. epist. 39. ad Theo-ctistam]*:</ref> 
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e243">
+                §. 1. „*$Y autem dicunt, pauci temporis penitenciam contra
+                peccatum debere sufficere, ut iterum liceat ad peccatum redire, recte hos pastoris primi
+                sentencia percutit, quiait!: „ „ Canis reuersus ad suum uomitum, et sus lota in
+                uoluta-bro lutiMagna est enim contra peccatum uirtus penitenciae, sed si quis in eadem
+                penitencia perseueret.
+              </quote>
+              <bibl>XXX</bibl>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c33q3d3-d1e251">
+            <cit>
+              <quote xml:id="gd-p2c33q3d3-Qd1e255">
+                §. 2. Penitencia muere agere est conmissa plangere, 
+                sed iterum plangenda declinare.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d3-Dd1e261">
           <p xml:id="gd-p2c33q3d3-d1e155"> [C. VII.] Idem [tract. CXXIV. in c. 21. </p>
           <p xml:id="gd-p2c33q3d3-d1e158"> Iohannis.] </p>
           <p xml:id="gd-p2c33q3d3-d1e161"> „Productior est pena, quam culpa, ne parua putaretur
