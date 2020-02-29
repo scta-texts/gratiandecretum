@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -57,14 +55,21 @@
       <div xml:id="gd-p3d1">
         <head xml:id="gd-p3d1-Hd1e103">DISTINCTIO I.</head>
         <div xml:id="gd-p3d1-Dd1e106">
-
-
           <head xml:id="gd-p3d1-Hd1e108"> [C. I.]* </head>
-          <p xml:id="gd-p3d1-d1e111"> ,, De eccclesiarum consecratione , ei missarum celebrationibus
-            non alibi quam in sacratis Domino locis absque magna necessitate fieri debere, liquet
-            omnibus, quibus sunt nota nouiet ueteris testamenti precepta .“ </p>
-          <p xml:id="gd-p3d1-d1e114"> [C. II.] </p>
-          <p xml:id="gd-p3d1-d1e117"> ,, Tabernaculum enim Moysen Domino precipiente fecisse et
+          <p xml:id="gd-p3d1-d1e111">
+            <cit>
+              <quote xml:id="gd-p3d1-Qd1e115">
+                De eccclesiarum consecratione , ei missarum celebrationibus
+                non alibi quam in sacratis Domino locis absque magna necessitate fieri debere, liquet
+                omnibus, quibus sunt nota nouiet ueteris testamenti precepta
+              </quote>
+            </cit>
+          </p>
+        </div>
+        <div xml:id="gd-p3d1-Dd1e121">
+          <head xml:id="gd-p3d1-Hd1e123">[C. II.] </head>
+          <p xml:id="gd-p3d1-d1e117"> 
+            Tabernaculum enim Moysen Domino precipiente fecisse et
             sacrasse , cara mensa et altari eius, et er eis uasis et utensilibusad diuinum cultum
             explendum legimus, et non solum diuinis precibus ea sacrasse , sed etiam sancti olei
             unctione, Dominoiubente, per linisse nouimus . Qualiter autem hec facta sunt ,ei non
@@ -78,12 +83,11 @@
             diuinumcultum peragendum consecrauit , in libro Regum legitur. §. i. 3 i« Fecit ergo*
             Salomon in tempore illo festiuitatem celebrem, et omnis Israel cum eo, multitudo magna
             ab introitu Emathusque ad riuum Egipti coram Domino Deo nostro septem diebuset septem
-            diebus, id est quatuordecim diebus, et in die octauo </p>
-
-          <p xml:id="gd-p3d1-d1e120"> dimisit populos. §. 2. Iudei ergo loca, in quibus Domino
+            diebus, id est quatuordecim diebus, et in die octauo dimisit populos. 
+            §. 2. Iudei ergo loca, in quibus Domino
             sacrificabant, diuinis habebant supplicationibus consecrata, necm aliis, quam in Deo
-            dicatis Io os, munera Domino offerebant. Si enim Iudei,umbrae legis deseruiebant, Aec </p>
-          <p xml:id="gd-p3d1-d1e124"> faciebant, multo magis quibus ueritas patefacta , ei gratia et
+            dicatis Io os, munera Domino offerebant. Si enim Iudei,umbrae legis deseruiebant, Aec
+            faciebant, multo magis quibus ueritas patefacta , ei gratia et
             ueritas per Iesum data est, templa Domino edificare, ei,proni possumus melius, ornare,
             eaque diuinis precibus, ei sanctisunctionibus suis cum altaribus, ei uasis, uestibus
             quoque et reliquis ad diuinum cultum explendum utensilibus deuote et solempniter
@@ -96,34 +100,38 @@
             eis, qui ad eos gradus sunt consecrati, quibus fungi debent , offitia agi debent uel
             sacrificia offerri Z2cei+f. Qnod autem, ut paulosuperius prelibatum est, oblationes in
             domibus offem non debent , in eodem concilio c. 59. prohibitum habetur ita:„ „ Non
-            oportet in domibus oblationes celebrari ab episcopis ne/pres&amp;»fem.‘ff+ </p>
+            oportet in domibus oblationes celebrari ab episcopis ne/pres&amp;»fem.‘ff+ 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e128">
           <head xml:id="gd-p3d1-Hd1e130">C. III</head>
           <head xml:id="gd-p3d1-Hd1e133" type="question-title"> Ecclesiarum consecratio absque missa
             fieri non debet.</head>
-          <p xml:id="gd-p3d1-d1e136"> Item Iginus Papa, c. 5.* </p>
-          <p xml:id="gd-p3d1-d1e139"> II. Pars. Omnes basilicae cum missa debent semperconsecrari.
+          <p xml:id="gd-p3d1-d1e139"> 
+            Item <ref xml:id="gd-p3d1-Rd1e140">Iginus Papa, c. 5.* </ref>
+            II. Pars. Omnes basilicae cum missa debent semperconsecrari.
             §. 1. Et ecclesiae destructae, ubi autemplures sunt, quam necesse sit, aut maioris
-            magnitudinis, </p>
-          <p xml:id="gd-p3d1-d1e142"> quam ut ex rebus ad eas pertinentibus restaurari possint,
+            magnitudinis, quam ut ex rebus ad eas pertinentibus restaurari possint,
             episcopi prouidentia modus inueniatur, qualiter consisterepossint. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e146">
           <head xml:id="gd-p3d1-Hd1e148">C. IV</head>
           <head xml:id="gd-p3d1-Hd1e151" type="question-title"> Absque precepto sedis apostolicae
             noua non dedicetur ecclesia.</head>
-          <p xml:id="gd-p3d1-d1e154"> Geiasius, c. 34. </p>
-          <p xml:id="gd-p3d1-d1e157"> III. Pars. De locorum consecratione, quamuissuperius strictim
+          <p xml:id="gd-p3d1-d1e157">
+            <ref xml:id="gd-p3d1-Rd1e155">Geiasius, c. 34.</ref> 
+            III. Pars. De locorum consecratione, quamuissuperius strictim
             fuerit conprehensum, michi quoquepatefactum est, quod absque precepto sedis
-            apostolicaenonnulli factas ecclesias uel oratoria sacrare presumant. </p>
+            apostolicaenonnulli factas ecclesias uel oratoria sacrare presumant. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e161">
           <head xml:id="gd-p3d1-Hd1e163">C. V</head>
           <head xml:id="gd-p3d1-Hd1e166" type="question-title"> Sine auctoritate summi Pontificis
             nowa non dedicetur ecclesia. * </head>
-          <p xml:id="gd-p3d1-d1e169"> Idem . </p>
-          <p xml:id="gd-p3d1-d1e172"> Precepta sinodalia, que ante paucos menses de sede nostra ad
+          <p xml:id="gd-p3d1-d1e172">
+            <ref xml:id="gd-p3d1-Rd1e171">Idem .</ref> 
+            Precepta sinodalia, que ante paucos menses de sede nostra ad
             prouinciam sunt directa, et antiquis canonibus*consentiunt, et ea, que minus esse
             probantur, addidimus, etin utraque parte constat, sine summi Pontificis
             auctoritateecclesiam nouiter conditam non posse dedicari; teque exhac basilica, que
@@ -132,14 +140,16 @@
             frater karissime, eorum martirum nomine, quorum relatio continet, auctoritatis nostrae
             suscepta serie consecrabis, ut populorum frequentatio, quamillic auide conuenire
             mandasti, seruatis regulis ecclesiasticis et canonibus, integrum habeat firmata
-            religioneconuentum. </p>
+            religioneconuentum. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e177">
           <head xml:id="gd-p3d1-Hd1e179">C. VI</head>
           <head xml:id="gd-p3d1-Hd1e182" type="question-title"> Non dedicentur basilicae, que preter
             auctoritatem apostolicae sedis fuerint edificatae . </head>
-          <p xml:id="gd-p3d1-d1e185"> Idem [Episcopis per Lucaniam, c. 6.]* </p>
-          <p xml:id="gd-p3d1-d1e188"> Basilicas nouiter institutas, non petitis ex more
+          <p xml:id="gd-p3d1-d1e188"> 
+            <ref xml:id="gd-p3d1-Rd1e186">Idem [Episcopis per Lucaniam, c. 6.]*</ref> 
+            Basilicas nouiter institutas, non petitis ex more
             pre-ceptionibus, dedicare nemo audeat, nec ambiant sibi-met episcopi uendicare clericos
             potestatis alienae. [Et c. ii.J: §. i. Cum enim decreta uenerabilium sanctionumnos
             quoque magnopere custodire nitamur, ac sine eorumdispendio etiam illa, que pro alicuius
@@ -149,15 +159,16 @@
             tenere proposito: satis indignumest, quemquam uel pontificum uel ordinum
             stlbsequentiumhanc obseruantiam refutare, quam B. Petri sedem et sequiuideat et docere;
             satisque conueniens sit, ut totum corpusecclesiae in hac sibimet obseruatione concordet,
-            quamillic uigere conspiciat, ubi Dominus ecclesiae totius posuitprincipatum. </p>
-
+            quamillic uigere conspiciat, ubi Dominus ecclesiae totius posuitprincipatum. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e192">
           <head xml:id="gd-p3d1-Hd1e194">C. VII</head>
           <head xml:id="gd-p3d1-Hd1e197" type="question-title"> Publicae processiones^ non fiant in
             oratoriis, que preter auctoritatem sedis apostolicae consecrantur. </head>
-          <p xml:id="gd-p3d1-d1e200"> Idem I ob anni, Episcopo Sorano . </p>
-          <p xml:id="gd-p3d1-d1e203"> Certum est quidem nostris preceptionibus constitutum, ne quis
+          <p xml:id="gd-p3d1-d1e203">
+            Idem <ref xml:id="gd-p3d1-Rd1e201">I ob anni, Episcopo Sorano .</ref> 
+            Certum est quidem nostris preceptionibus constitutum, ne quis
             in ecclesia aut in oratorio, quod sedis nostrae non legitur permissione dedicatum,
             processionem publicamputaret inpendi, ne conditores furtiuis subreptionibus
             contraregularum statuta prosilirent. Sed quia Megetia spectabilis femina petitorii nobis
@@ -165,46 +176,54 @@
             fraterkarissime, humanitatis intuitu, quod priora statuta nonmaculet funeribus et
             sepulchris, tantum in conprehensispetitorio locis ministeria noueris pro solempnitate
             pre-standa, ut defunctorum nomine solummodo diuina celebrentur offitia, publica
-            frequentatione et processione cessante. </p>
+            frequentatione et processione cessante. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e207">
           <head xml:id="gd-p3d1-Hd1e209">C. VIII</head>
           <head xml:id="gd-p3d1-Hd1e212" type="question-title"> Sine nutu sedis apostolicae ecclesia
             non debet institui.</head>
-          <p xml:id="gd-p3d1-d1e215"> Item Nykolaus Papa Clero et Plebi Nonensis Ecclesiae . </p>
-          <p xml:id="gd-p3d1-d1e218"> Ecclesia, id est catholicorum collectio, quomodo sine
+          <p xml:id="gd-p3d1-d1e218">
+            Item <ref xml:id="gd-p3d1-Rd1e216">Nykolaus Papa Clero et Plebi Nonensis Ecclesiae</ref>
+            Ecclesia, id est catholicorum collectio, quomodo sine
             apostolicae sedis instituetur nutu, quando iuxta sacra decreta nec ipsa debet absque
             preceptione Papae basilicanouiter construi, que ipsam catholicorum intra semetamplecti
-            cateruam dinoscitur? </p>
+            cateruam dinoscitur? 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e222">
           <head xml:id="gd-p3d1-Hd1e224">C. IX</head>
           <head xml:id="gd-p3d1-Hd1e227" type="question-title"> Sine designatione^^ episcopi^ non e
             edificetur ecclesia. </head>
-          <p xml:id="gd-p3d1-d1e230"> Item ex Concilio Aureli an en sP . </p>
-          <p xml:id="gd-p3d1-d1e233"> IV. Pars. Nemo ecclesiam edificet ante, quam ciuitatis
+          <p xml:id="gd-p3d1-d1e233"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e231">Concilio Aureli an en sP .</ref> 
+            IV. Pars. Nemo ecclesiam edificet ante, quam ciuitatis
             episcopus ueniat, et ibidem crucem figat, publiceatrium designet, et ante prefiniat, qui
             edificare uult,que ad luminaria, et ad custodiam, et stipendia custodum sufficiant, et
             ostensa donatione sic domum edificet,et post, quam consecrata* fuerit, atrium eiusdem
-            ecclesiae sancta aqua conspergat. </p>
+            ecclesiae sancta aqua conspergat. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e237">
           <head xml:id="gd-p3d1-Hd1e239">C. X</head>
           <head xml:id="gd-p3d1-Hd1e242" type="question-title"> Non consecretur ecclesia, que pro
             questu cupiditatis edificalur.</head>
-          <p xml:id="gd-p3d1-d1e245"> Item ex Concilio Bracarensi [II., c. 6.] </p>
-          <p xml:id="gd-p3d1-d1e248"> Si quis basilicam non pro deuotkme fidei, sed pro questu
+          <p xml:id="gd-p3d1-d1e248">
+            Item ex <ref xml:id="gd-p3d1-Rd1e246">Concilio Bracarensi [II., c. 6.]</ref> 
+            Si quis basilicam non pro deuotkme fidei, sed pro questu
             cupiditatis edificat, ut quicquid de oblationepopuli colligitur medium cum clericis
             diuidat, eo quod basilicam in terra sua condiderit, hoc de cetero obseruari debet, ut
             nullus episcoporum tam abhominabili uotoconsentiat, nec basilicam, que non pro sanctorum
-            patrocinio,sed magis sub tributaria condicione est condita, audeat consecrare. </p>
+            patrocinio,sed magis sub tributaria condicione est condita, audeat consecrare. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e252">
           <head xml:id="gd-p3d1-Hd1e254">C. XI</head>
           <head xml:id="gd-p3d1-Hd1e257" type="question-title"> Sacrificia non nisi super altare et
             m locis Deo consecratis offerantur. </head>
-          <p xml:id="gd-p3d1-d1e260"> Item Felix Episcopus omnibus orthodoxis, [ep. I.]* </p>
-          <p xml:id="gd-p3d1-d1e263"> V. Pars. Sicut non alii, quam sacrati Domino sacerdotes debent
+          <p xml:id="gd-p3d1-d1e263"> 
+            Item <ref xml:id="gd-p3d1-Rd1e262">Felix Episcopus omnibus orthodoxis, [ep. I.]* </ref>
+            V. Pars. Sicut non alii, quam sacrati Domino sacerdotes debent
             missas celebrare, nec sacrificia superaltare offerre, sic nec in aliis, quam Domino
             consecratislocis, id est in tabernaculis** diuinis precibus a pontificibus delibatis,
             missas cantare, aut sacrificia offerrelicet, nisi summa coegerit necessitas. Satius
@@ -218,45 +237,51 @@
           <head xml:id="gd-p3d1-Hd1e270">C. XII</head>
           <head xml:id="gd-p3d1-Hd1e273" type="question-title"> Non nisi in locis sacratis missarum
             solempnia celebrentur. </head>
-          <p xml:id="gd-p3d1-d1e276"> Item ex Concilio Triburiensi ^*. </p>
-          <p xml:id="gd-p3d1-d1e279"> Missarum solempnia non ubicumque, sed in locis ab episcopo
+          <p xml:id="gd-p3d1-d1e279"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e277">Concilio Triburiensi ^*.</ref> 
+            Missarum solempnia non ubicumque, sed in locis ab episcopo
             consecratis, uel ubi ipse permiserit, celebranda esse censemus. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e283">
           <head xml:id="gd-p3d1-Hd1e285">C. XIII</head>
           <head xml:id="gd-p3d1-Hd1e288" type="question-title"> Precibus diuinis consecrentur
             ecclesiae.</head>
-          <p xml:id="gd-p3d1-d1e291"> Item Clemens [epist. II. ad Iacobum]. </p>
-          <p xml:id="gd-p3d1-d1e294"> Ecclesias per congrua et utilia facite loca, que diuinis
-            precibus sacrare oportet*, et non a quoquam grauari. </p>
+          <p xml:id="gd-p3d1-d1e294"> 
+            Item <ref xml:id="gd-p3d1-Rd1e292">Clemens [epist. II. ad Iacobum].</ref>
+            Ecclesias per congrua et utilia facite loca, que diuinis
+            precibus sacrare oportet*, et non a quoquam grauari. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e298">
           <head xml:id="gd-p3d1-Hd1e300">C. XIV</head>
           <head xml:id="gd-p3d1-Hd1e303" type="question-title"> Sacrificare et missas celebrare non
             licet, nisi in locis sacratis . </head>
-          <p xml:id="gd-p3d1-d1e306"> /dem. </p>
-          <p xml:id="gd-p3d1-d1e309"> Hic ergo, id est in presenti uita positos, oportet uos
-            agnoscere uoluntatem Dei, ubi et agendi, etsacrificandi locus est, quoniam in aliis
+          <p xml:id="gd-p3d1-d1e309">
+            <ref xml:id="gd-p3d1-Rd1e307">Idem.</ref> 
+            Hic ergo, id est in presenti uita positos, oportet uos
+            agnoscere uoluntatem Dei, ubi et agendi, et sacrificandi locus est, quoniam in aliis
             locis sacrificariet missas celebrari non licet, nisi in his, in quibus episcopus
             iusserit, aut ab episcopo regulariter ordinato, tenente uidelicet ciuitatem, consecrata
-            fuerint.Aliter enim non sunt hec agenda, nec rite celebranda. </p>
-
-          <p xml:id="gd-p3d1-d1e312"> Item Siluester Papa [in generali residens Sinodo dixit]: </p>
+            fuerint. Aliter enim non sunt hec agenda, nec rite celebranda. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e316">
           <head xml:id="gd-p3d1-Hd1e318">C. XV</head>
-          <head xml:id="gd-p3d1-Hd1e321" type="question-title"> Abiciatur^- sacerdos, qui in locis
-            non consecratis missas celebrare presumit Nullus presbiter missas celebrare presumat,
+          <head xml:id="gd-p3d1-Hd1e317" type="question-title">Abiciatur sacerdos, qui in locis non consecratis missas celebrare presumit</head>
+          <p xml:id="gd-p3d1-d1e320">
+            Item <ref xml:id="gd-p3d1-Rd1e322">Siluester Papa [in generali residens Sinodo dixit]:</ref> 
+            Nullus presbiter missas celebrare presumat,
             nisi in sacratis ab episcopo locis, qui sui particeps de ceterouoluerit esse sacerdotii.
-          </head>
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e325">
           <head xml:id="gd-p3d1-Hd1e327">C. XVI</head>
           <head xml:id="gd-p3d1-Hd1e330" type="question-title"> Singulis annis dedicationum
             solempnitates celebrentur, et consecretur etiam ecclesia, de cuius consecratione
             dubitatur. </head>
-          <p xml:id="gd-p3d1-d1e333"> Item Felix Papa omnibus orthodoxis, [ep. I. c. i. et 2.]* </p>
-          <p xml:id="gd-p3d1-d1e336"> VI. Pars. Solempnitates dedicationum ecclesiarum,ti 74 a**
+          <p xml:id="gd-p3d1-d1e336"> 
+            Item <ref xml:id="gd-p3d1-Rd1e337">Felix Papa omnibus orthodoxis, [ep. I. c. i. et 2.]* </ref>
+            VI. Pars. Solempnitates dedicationum ecclesiarum,ti 74 a**
             sacerdotum, per singulos annos sunt celebrandae. §. i. De ecclesiarum consecrationibus
             quociens clubitatur, ut nec certa scriptura, nec testesexistunt, a quibus consecratio
             sciatur, absque ulla dubitatione scitote eas esse sacrandas; nec talis*** trepidatio
@@ -266,71 +291,85 @@
           <head xml:id="gd-p3d1-Hd1e342">C. XVII</head>
           <head xml:id="gd-p3d1-Hd1e345" type="question-title"> De eodem%, et quod octo diebus
             dedicationum solempnitas est celebranda. </head>
-          <p xml:id="gd-p3d1-d1e348"> Item Gregorius *. </p>
-          <p xml:id="gd-p3d1-d1e351"> Solempnitates dedicationum ecclesiarum** sunt solempniter
+          <p xml:id="gd-p3d1-d1e351">
+            Item <ref xml:id="gd-p3d1-Rd1e353">Gregorius *.</ref> 
+            Solempnitates dedicationum ecclesiarum** sunt solempniter
             celebrandae per singulos annos, ipso Dominoexemplum dante, qui ad festum dedicationis
             templi, omnibus id faciendi dans formam, cum reliquis populis eandem festiuitatem
             celebraturus uenit, sicut scriptumest: „Facta sunt encenia in Ierosolimis, et
             hiempserat, et ambulabat Iesus in templo in porticu Salomonis.“Quod autem octo diebus
-            encenia sint celebranda, inlibro Regum perlecta dedicatione templi reperies°. </p>
+            encenia sint celebranda, inlibro Regum perlecta dedicatione templi reperies°. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e356">
           <head xml:id="gd-p3d1-Hd1e358">C. XVIII</head>
           <head xml:id="gd-p3d1-Hd1e361" type="question-title"> Consecrentur ecclesiae, de quarum
             consecratione dubitatur.</head>
-          <p xml:id="gd-p3d1-d1e364"> Item ex Concilio Mei den si, c. 8. </p>
-          <p xml:id="gd-p3d1-d1e367"> VII. Pars. Ecclesiae uel altaria, que ambigua suntde
-            consecratione, consecrentur, et superflua altariadestruantur. </p>
+          <p xml:id="gd-p3d1-d1e367">
+            Item ex <ref xml:id="gd-p3d1-Rd1e368">Concilio Mei den si, c. 8. </ref>
+            VII. Pars. Ecclesiae uel altaria, que ambigua suntde
+            consecratione, consecrentur, et superflua altariadestruantur.
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e371">
           <head xml:id="gd-p3d1-Hd1e373">C. XIX</head>
           <head xml:id="gd-p3d1-Hd1e376" type="question-title"> Quando ecclesia est denuo*
-            consecranda,</head>
-          <p xml:id="gd-p3d1-d1e379"> \et salibus tantum exorcizanda. </p>
-          <p xml:id="gd-p3d1-d1e382"> Item Iginus Papa. </p>
-          <p xml:id="gd-p3d1-d1e385"> Si motum fuerit altare, denuo consecretur ecclesia; si
+            consecranda, et salibus tantum exorcizanda.</head>
+          <p xml:id="gd-p3d1-d1e385"> 
+            Item <ref xml:id="gd-p3d1-Rd1e383">Iginus Papa.</ref> 
+            Si motum fuerit altare, denuo consecretur ecclesia; si
             parietes mutantur, et non altare, salibus tantum exorcizetur. §. i. Si homicidio uel
             adulterio ecclesia uiolatafuerit, diligentissime expurgetur et denuo consecretur. </p>
-          <p xml:id="gd-p3d1-d1e389"> G. XX. Ecclesia semel Deo consecrata quando s#iterum
-            consecranda. </p>
-          <p xml:id="gd-p3d1-d1e392"> Item ex Hic eno Concilio . </p>
-          <p xml:id="gd-p3d1-d1e395"> Ecclesiis semel Deo consecratis non debet iterum consecratio
+        </div>
+        <div xml:id="gd-p3d1-Dd1e388">
+          <head xml:id="gd-p3d1-Hd1e390">C. XX</head>
+          <head xml:id="gd-p3d1-Hd1e393" type="question-title">Ecclesia semel Deo consecrata quando sit iterum consecranda.
+          </head>
+          <p xml:id="gd-p3d1-d1e395">
+            Item ex <ref xml:id="gd-p3d1-Rd1e398">Niceno Concilio</ref> . 
+            Ecclesiis semel Deo consecratis non debet iterum consecratio
             adhiberi, nisi aut ab igne exustae, aut sanguinis effusione, aut cuiusquam semine
             pollutae fuerint; quiasicut infans, a qualicumque sacerdote in nomine Patris, etFilii,
             et Spiritus sancti semel baptizatus, non debet iterumbaptizari: ita nec locus Deo
             dicatus iterum consecrandusest, nisi propter eas causas, quas superius nominauimus;
-            sitamen fidem sanctae Trinitatis tenuerint qui eum conse-crauerunt. </p>
+            sitamen fidem sanctae Trinitatis tenuerint qui eum conse-crauerunt.
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e399">
           <head xml:id="gd-p3d1-Hd1e401">C. XXI</head>
           <head xml:id="gd-p3d1-Hd1e404" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p3d1-d1e407"> Item I oh anne s Papa [Episcopis Italiae]. </p>
-          <p xml:id="gd-p3d1-d1e410"> Ecclesias Arrianorum ubicumque inueneritis, catholicas eas
+          <p xml:id="gd-p3d1-d1e410">
+            Item <ref xml:id="gd-p3d1-Rd1e413">Iohannes Papa [Episcopis Italiae].</ref>
+            Ecclesias Arrianorum ubicumque inueneritis, catholicas eas
             diuinis precibus et operibus absque ulla mora consecrate, sicut et nos fecimus cum pro*
-            causa Theodorici regis Constantinopolim fuissemus. </p>
+            causa Theodorici regis Constantinopolim fuissemus.
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e414">
           <head xml:id="gd-p3d1-Hd1e416">C. XXII</head>
           <head xml:id="gd-p3d1-Hd1e419" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p3d1-d1e422"> Item Gregorius in Dialogo, [lib. III. c. 30.] </p>
-          <p xml:id="gd-p3d1-d1e425"> Arrianorum ecclesia in regione urbis huius , que Subura
+          <p xml:id="gd-p3d1-d1e425">
+            Item <ref xml:id="gd-p3d1-Rd1e428">Gregorius in Dialogo, [lib. III. c. 30.] </ref>
+            Arrianorum ecclesia in regione urbis huius , que Subura
             dicitur, cum clausa usque biennium permansisset, placuit, ut in fide catholica
             (introductis illic B. Sebastiani,et S. Agathae* martiris reliquiis) dedicari debuisset,
-            quod et factum est. </p>
-
+            quod et factum est. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e429">
           <head xml:id="gd-p3d1-Hd1e431">C. XXIII</head>
-          <head xml:id="gd-p3d1-Hd1e434" type="question-title"> Deeodem™**.</head>
-          <p xml:id="gd-p3d1-d1e437"> Agapitus Papa uas catholicum, euangelii tuba, preco iusticiae,
+          <head xml:id="gd-p3d1-Hd1e434" type="question-title"> De eodem</head>
+          <p xml:id="gd-p3d1-d1e437"> 
+            Agapitus Papa uas catholicum, euangelii tuba, preco iusticiae,
             sacra altaris sedisque uelamina, sacrilegis An-timi infecta fabulis, suis catholicis
             precibus eluit. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e441">
           <head xml:id="gd-p3d1-Hd1e443">C. XXIV</head>
           <head xml:id="gd-p3d1-Hd1e446" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p3d1-d1e449"> Item lulius Papa [ad Eutherium, epist. I. c. 4 ] 240 a* </p>
-          <p xml:id="gd-p3d1-d1e452"> De fabrica uero cuiuslibet ecclesiae instauranda, si diruta
+          <p xml:id="gd-p3d1-d1e452"> 
+            Item <ref xml:id="gd-p3d1-Rd1e456">Iulius Papa [ad Eutherium, epist. I. c. 4 ] 240 a*</ref>
+            De fabrica uero cuiuslibet ecclesiae instauranda, si diruta
             fuerit, et si in eo loco consecrationis solempnitasdebeat iterari, in quo sanctuaria non
             fuerint, nichiliudicamus officere, si per eam minime aqua exorci-zata iactetur, quia
             consecrationem cuiuslibet ecclesiae,in qua Spiritus sancti ara non ponitur,
@@ -344,93 +383,105 @@
           <head xml:id="gd-p3d1-Hd1e459">C. XXV</head>
           <head xml:id="gd-p3d1-Hd1e462" type="question-title"> Absque episcopi permissu^ in
             ecclesia consecrata non erigatur altare. </head>
-          <p xml:id="gd-p3d1-d1e465"> Item ex Decretis Ormisdae Papae, c . 10. </p>
-          <p xml:id="gd-p3d1-d1e468"> VIII. Pars. Nullus presbiter in ecclesia consecrataaliud
+          <p xml:id="gd-p3d1-d1e468">
+            Item ex <ref xml:id="gd-p3d1-Rd1e471">Decretis Ormisdae Papae, c . 10.</ref> 
+            VIII. Pars. Nullus presbiter in ecclesia consecrataaliud
             altare erigat, nisi quod ab episcopo loci fueritsanctificatum* uel permissum, ut sit
             discretio inter sacrumet non sacrum; nec dedicationem fingat, nisi sit. Quodsi fecerit,
-            degradetur, si clericus est; si laicus, anathematizetur. </p>
+            degradetur, si clericus est; si laicus, anathematizetur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e472">
           <head xml:id="gd-p3d1-Hd1e474">C. XXVI</head>
           <head xml:id="gd-p3d1-Hd1e477" type="question-title"> Euertantur altaria, que sine
             sanctorum reliquiis eriguntur.</head>
-          <p xml:id="gd-p3d1-d1e480"> Item ex Concilio Affricano, c. 50. </p>
-          <p xml:id="gd-p3d1-d1e483"> Placuit, ut altaria, que passim per agros et per uillas
+          <p xml:id="gd-p3d1-d1e483">
+            Item ex <ref xml:id="gd-p3d1-Rd1e486">Concilio Affricano, c. 50.</ref> 
+            Placuit, ut altaria, que passim per agros et per uillas
             tamquam memoriae martirum constituntur, inquibus nullum corpus aut reliquiae martiris
             conditae probantur, ab episcopis, qui eisdem locis presunt, si fieri potest,euertantur.
             Si autem hoc propter tumultus popularesnon sinitur, plebes ammoneantur, ne illa loca
             frequentent, ut qui recte sapiunt nulla ibi superstitione deuictiteneantur. Et omnino
-            nulla memoria martirum probabiliter </p>
-          <p xml:id="gd-p3d1-d1e486"> accipiatur, nisi ubi aut corpus aut certae suntreliquiae, aut
+            nulla memoria martirum probabiliter accipiatur, nisi ubi aut corpus aut certae suntreliquiae, aut
             ubi origo alicuius habitationis, uel possessionis, uel passionis fidelissima origine
             traditur. Nam queper sompnia et per inanes quasi reuelationes quorumlibetnominum
-            ubicumque constituuntur altaria, omnimodo reprobentur. </p>
+            ubicumque constituuntur altaria, omnimodo reprobentur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e490">
           <head xml:id="gd-p3d1-Hd1e492">C. XXVII</head>
           <head xml:id="gd-p3d1-Hd1e495" type="question-title"> Non est consecranda ecclesia, in qua
             paganus sepultus inuenitur.</head>
-          <p xml:id="gd-p3d1-d1e498"> Item ex Concilio Aurelianensi, c. 3.283 </p>
-          <p xml:id="gd-p3d1-d1e501"> Ecclesiam, ubi paganus sepultus est, non liceat consecrari,
-            neque missas in ea celebrare, sed iactareforas, et mundari oportet. </p>
+          <p xml:id="gd-p3d1-d1e501">
+            Item ex <ref xml:id="gd-p3d1-Rd1e501">Concilio Aurelianensi, c. 3.283</ref> 
+            Ecclesiam, ubi paganus sepultus est, non liceat consecrari,
+            neque missas in ea celebrare, sed iactareforas, et mundari oportet. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e505">
           <head xml:id="gd-p3d1-Hd1e507">C. XXVIII</head>
           <head xml:id="gd-p3d1-Hd1e510" type="question-title"> De ecclesia, in qua cadauera
             fidelium siue infidelium sepeliuntur. </head>
-          <p xml:id="gd-p3d1-d1e513"> Item ex Concilio Agrippinens i. </p>
-          <p xml:id="gd-p3d1-d1e516"> Ecclesiam, in qua mortuorum cadauera infideliumsepeliuntur,
+          <p xml:id="gd-p3d1-d1e516">
+            Item ex <ref xml:id="gd-p3d1-Rd1e516">Concilio Agrippinens i.</ref>
+            Ecclesiam, in qua mortuorum cadauera infideliumsepeliuntur,
             sanctificare non licet; sed si apta uidetur adconsecrandum, inde euulsis corporibus, et
             rasis parietibus uel tignis eius loci,reedificetur. Sed si hecconsecrata prius fuerit,
-            missas in ea celebrarelicet; si tamen fideles fuerunt qui in ea sepulti sunt. </p>
+            missas in ea celebrarelicet; si tamen fideles fuerunt qui in ea sepulti sunt. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e520">
           <head xml:id="gd-p3d1-Hd1e522">C. XXIX</head>
           <head xml:id="gd-p3d1-Hd1e525" type="question-title"> Super monumenta in campo sacra non
             distribuantur misteria. </head>
-          <p xml:id="gd-p3d1-d1e528"> Item ex Concilio Martini Papae [Bracarensis, c. 68. et 69.
-            sinod. grecarum] . </p>
-          <p xml:id="gd-p3d1-d1e531"> Non oportet clericos ignaros et presumptores super monumenta
+          <p xml:id="gd-p3d1-d1e531"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e532">Concilio Martini Papae [Bracarensis, c. 68. et 69.
+            sinod. grecarum]</ref>. 
+            Non oportet clericos ignaros et presumptores super monumenta
             in campum ministeria portare, aut distribuere sacramenta; sed aut in ecclesia, aut in
             basilica, ubimartirum reliquiae sunt depositae, ubi pro defunctisofferri oblationes
             solent. §. 1. Nec liceat Christianis prandia ad defunctorum sepulchra deferre, et
-            sacrificare mortuis. </p>
+            sacrificare mortuis. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e535">
           <head xml:id="gd-p3d1-Hd1e537">C. XXX</head>
           <head xml:id="gd-p3d1-Hd1e540" type="question-title"> Quomodo in ecclesia conbusta missa
             possit celebrari.</head>
-          <p xml:id="gd-p3d1-d1e543"> Item ex Concilio Triburiensi *. </p>
-
-          <p xml:id="gd-p3d1-d1e546"> Concedimus etiam, ut sicubi (quod peccatis nostris exigentibus
+          <p xml:id="gd-p3d1-d1e546">
+            Item ex <ref xml:id="gd-p3d1-Rd1e547">Concilio Triburiensi *.</ref> 
+            Concedimus etiam, ut sicubi (quod peccatis nostris exigentibus
             perplurimum factum est) a Normanis, et aSclauis, ab Ungaris, et a malis Christianis, seu
             alioqualicumque modo ecclesiae fuerint incensae et con-bustae, in capellis cum tabula
             consecrata missas interimcelebrari permittimus, donec ecclesiae ipsae restaurariqueant.
             In itinere uero positis, si ecclesia defuerit, subdiuo, seu in tentoriis, item c i
             tabula altaris consecrata ceteraque sacra misteria ad id offitium pertinentia ibi
-            affuerint, missarum solempnia celebrariconcedimus . </p>
+            affuerint, missarum solempnia celebrariconcedimus . 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e551">
           <head xml:id="gd-p3d1-Hd1e553">C. XXXI</head>
           <head xml:id="gd-p3d1-Hd1e556" type="question-title"> Crismate non ungantur altaria, nisi
             fuerint lapidea.</head>
-          <p xml:id="gd-p3d1-d1e559"> Item ex Concilio Epaonensi, c. 6.* </p>
-          <p xml:id="gd-p3d1-d1e562"> Altaria, si non sint lapidea, erismatis unctionenon
+          <p xml:id="gd-p3d1-d1e562">
+            Item ex <ref xml:id="gd-p3d1-Rd1e562">Concilio Epaonensi, c. 6.*</ref>
+            Altaria, si non sint lapidea, erismatis unctionenon
             consecrentur. Ad celebranda autem diuina offitiaordinem, quem metropolitani tenent,
-            conprouincialeseorum obseruare debebunt. </p>
+            conprouincialeseorum obseruare debebunt. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e566">
           <head xml:id="gd-p3d1-Hd1e568">C. XXXII</head>
           <head xml:id="gd-p3d1-Hd1e571" type="question-title"> Crismatis unctione et sacerdotali
             benedictione sacrentur altaria.</head>
-          <p xml:id="gd-p3d1-d1e574"> Item ex Concilio Agat en si, [c. 14.] Altaria placuit non
+          <p xml:id="gd-p3d1-d1e574"> Item ex <ref xml:id="gd-p3d1-Rd1e577">Concilio Agat en si, [c. 14.]</ref> Altaria placuit non
             solum unctione crismatis, sedetiam sacerdotali benedictione sacrari. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e578">
           <head xml:id="gd-p3d1-Hd1e580">C. XXXIII</head>
           <head xml:id="gd-p3d1-Hd1e583" type="question-title"> In priuatis oratoriis licet orare ,
             sed non Tramas celebrare. </head>
-          <p xml:id="gd-p3d1-d1e586"> Item ex Concilio Aurelianensi, c. 3.* Unicuique fidelium,
+          <p xml:id="gd-p3d1-d1e586"> Item ex <ref xml:id="gd-p3d1-Rd1e592">Concilio Aurelianensi, c. 3.*</ref> Unicuique fidelium,
             licet in domo sua oratorium habere,et ibi orare; missas autem ibi celebrare non licet.
           </p>
         </div>
@@ -438,7 +489,7 @@
           <head xml:id="gd-p3d1-Hd1e592">C. XXXIV</head>
           <head xml:id="gd-p3d1-Hd1e595" type="question-title"> In priuatis oratoriis absque
             consensu episcopi nullus ministrare presumat.</head>
-          <p xml:id="gd-p3d1-d1e598"> Item ex VI. Sinodo , [c. 31.]Clericos, qui ministrant in
+          <p xml:id="gd-p3d1-d1e598"> Item <ref xml:id="gd-p3d1-Rd1e607">ex VI. Sinodo , [c. 31.]</ref> Clericos, qui ministrant in
             oratoriis, que intra domossunt, cum consensu episcopi loci illius hoc facere precipimus.
             Si quis uero hoc non obseruauerit, deponatur. </p>
         </div>
@@ -446,7 +497,8 @@
           <head xml:id="gd-p3d1-Hd1e604">C. XXXV</head>
           <head xml:id="gd-p3d1-Hd1e607" type="question-title"> Qui extra parrochias habent
             oratoria, his diebus ad parrochias redire cogantur.</head>
-          <p xml:id="gd-p3d1-d1e610"> Item ex Concilio Agat ensi, [c. 21.]Si quis etiam extra
+          <p xml:id="gd-p3d1-d1e610"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e623">Concilio Agat ensi, [c. 21.]</ref> Si quis etiam extra
             parrochias, in quibus legitimusest ordinariusque conuentus, oratorium habere
             uoluerit,reliquis festiuitatibus, ut ibi missas audiat, propter fatigationem familiae
             iusto ordine permittimus. Pasca uero,Natale Domini, Epiphaniam, Ascensionem Do mini,
@@ -458,8 +510,10 @@
         <div xml:id="gd-p3d1-Dd1e614">
           <head xml:id="gd-p3d1-Hd1e616">C. XXXVI</head>
           <head xml:id="gd-p3d1-Hd1e619" type="question-title"> Quibus ex causis loca sanctorum
-            mutanda sint. Item Augustinus™.</head>
-          <p xml:id="gd-p3d1-d1e622"> IX. Pars. Tribus ex causis loca sanctorum transmutanda sunt.
+            mutanda sint. </head>
+          <p xml:id="gd-p3d1-d1e622">
+            Item <ref xml:id="gd-p3d1-Rd1e638">Augustinus</ref>.
+            IX. Pars. Tribus ex causis loca sanctorum transmutanda sunt.
             Prima, cum necessitas persecutorum locaeorum grauauerit. Secunda, cum difficultas
             locorum fuerit.Tercia, cum malorum societate grauantur. </p>
         </div>
@@ -467,16 +521,18 @@
           <head xml:id="gd-p3d1-Hd1e629">C. XXXVII</head>
           <head xml:id="gd-p3d1-Hd1e632" type="question-title"> Quando alicui corpora sanctorum de
             loco ad locum transferre non licet. </head>
-          <p xml:id="gd-p3d1-d1e635"> Item ex Concilio Maguntiensi [I.], c. 51. </p>
-          <p xml:id="gd-p3d1-d1e638"> Corpora sanctorum de loco ad locum nullus transferre presumat
+          <p xml:id="gd-p3d1-d1e638">
+            Item ex <ref xml:id="gd-p3d1-Rd1e653">Concilio Maguntiensi [I.], c. 51.</ref> 
+            Corpora sanctorum de loco ad locum nullus transferre presumat
             sine consilio principis, uel episcoporum san-ctaeque sinodi licentia. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e642">
           <head xml:id="gd-p3d1-Hd1e644">C. XXXVIII</head>
           <head xml:id="gd-p3d1-Hd1e647" type="question-title"> In usum laicorum non conuerti licet
             ligna ecclesiae dedicatae. </head>
-          <p xml:id="gd-p3d1-d1e650"> Item Iginus Papa . </p>
-          <p xml:id="gd-p3d1-d1e653"> X. Pars. Ligna ecclesiae dedicatae* non debentad aliud opus
+          <p xml:id="gd-p3d1-d1e653"> 
+            Item <ref xml:id="gd-p3d1-Rd1e668">Iginus Papa .</ref> 
+            X. Pars. Ligna ecclesiae dedicatae* non debentad aliud opus
             iungi, nisi ad aliam ecclesiam, uel igniconburenda, uel ad profectum in monasterio
             fratribus;in laicorum opera non debent admitti. </p>
         </div>
@@ -484,20 +540,22 @@
           <head xml:id="gd-p3d1-Hd1e659">C. XXXIX</head>
           <head xml:id="gd-p3d1-Hd1e662" type="question-title"> Vestimenta sacra et uasa pre
             uetustate consumpta incendantur , et cineres eorum in locaocculta proiciantur. </head>
-          <p xml:id="gd-p3d1-d1e665"> Item Clemens*®*^ Iacobo , Iherosolimitanorum Episcopo ,
-            [epist. II.] </p>
-          <p xml:id="gd-p3d1-d1e668"> Altaris palla, cathedra, candelabrum, et uelum, si fuerint
+          <p xml:id="gd-p3d1-d1e668"> 
+            Item <ref xml:id="gd-p3d1-Rd1e683">Clemens Iacobo , Iherosolimitanorum Episcopo , [epist. II.]</ref> 
+            Altaris palla, cathedra, candelabrum, et uelum, si fuerint
             uetustate consumpta,incendio dentur, quoniamnon licet ea, que in sacrario fuerint, male
             tractari, sed incendio uniuersa tradantur. Cineres quoque eorum in baptisterio
             inferantur, ubi nullus transitum habeat; autin pariete, aut in fossis pauimentorum
-            iactentur, ne introeuntium pedibus coinquinentur. </p>
-
+            iactentur, ne introeuntium pedibus coinquinentur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e672">
           <head xml:id="gd-p3d1-Hd1e674">C. XL</head>
           <head xml:id="gd-p3d1-Hd1e677" type="question-title"> Mortui non obuoluantur uestimentis
-            altaris. Idem**.</head>
-          <p xml:id="gd-p3d1-d1e680"> Nemo per ignorantiam clericus mortuum credat ad-uoluendum aut
+            altaris.</head>
+          <p xml:id="gd-p3d1-d1e680"> 
+            <ref xml:id="gd-p3d1-Rd1e698">Idem**.</ref>
+            Nemo per ignorantiam clericus mortuum credat ad-uoluendum aut
             eius scapulas operire uelit palla, que fuit in altari, aut certe que diacono data est
             inmensa Domini. Qui hoc fecerit, uel leuiter, quasinichil et negligenter habuerit,
             diaconus triennio sexquemensibus a dominico erit remotus s altari, graui
@@ -519,19 +577,21 @@
           <head xml:id="gd-p3d1-Hd1e686">C. XLI</head>
           <head xml:id="gd-p3d1-Hd1e689" type="question-title"> Sacra uasa non nisi a sacratis
             contrectentur hominibus.</head>
-          <p xml:id="gd-p3d1-d1e692"> Item Sixtus , [epist. II.] </p>
-          <p xml:id="gd-p3d1-d1e695"> In sancta apostolica sede statutum est, ut sacra uasa non ab
+          <p xml:id="gd-p3d1-d1e695"> 
+            Item <ref xml:id="gd-p3d1-Rd1e714">Sixtus , [epist. II.] </ref>
+            In sancta apostolica sede statutum est, ut sacra uasa non ab
             aliis, quam a sacratis Dominoque dicatis contrectentur hominibus*. Ne pro talibus
-            presumptionibus iratusDominus plagam inponat populo suo, et hi etiam, qui non
+            presumptionibus iratus Dominus plagam inponat populo suo, et hi etiam, qui non
             peccauerunt, pereant, quia perit iustus se-pissime pro inpio. </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e699">
           <head xml:id="gd-p3d1-Hd1e701">C. XLII</head>
           <head xml:id="gd-p3d1-Hd1e704" type="question-title"> Non nisi a sacratis hominibus
             uestimenta sacra ferentur. </head>
-          <p xml:id="gd-p3d1-d1e707"> Item Stephanus Episcopus familiari amico Hilaria, [epist. I.
-            c. 5.] </p>
-          <p xml:id="gd-p3d1-d1e710"> Vestimenta ecclesiae, quibus Domino ministratur, et sacrata
+          <p xml:id="gd-p3d1-d1e710"> 
+            Item <ref xml:id="gd-p3d1-Rd1e729">Stephanus Episcopus familiari amico Hilaria, [epist. I.
+            c. 5.]</ref> 
+            Vestimenta ecclesiae, quibus Domino ministratur, et sacrata
             debent esse et honesta, quibus in aliis usibus non debent frui, quam ecclesiasticis et
             Deo dignis offitiis; que nec ab aliis debent contingi aut offerri, nisia sacratis
             hominibus, ne ultio, que Baltasar regem percussit, super hoc transgredientes ueniat, et
@@ -541,14 +601,18 @@
           <head xml:id="gd-p3d1-Hd1e717">C. XLIII</head>
           <head xml:id="gd-p3d1-Hd1e720" type="question-title"> Diuina misteria ^ * nuptiarum non
             prestantur ornatibus. </head>
-          <p xml:id="gd-p3d1-d1e723"> Item ex Concilio Aurelianensi . </p>
-          <p xml:id="gd-p3d1-d1e726"> Ad nuptiarum ornatum misteria* diuina non pre-stentur, ne, dum
+          <p xml:id="gd-p3d1-d1e726">
+            Item ex <ref xml:id="gd-p3d1-Rd1e744">Concilio Aurelianensi.</ref>
+            Ad nuptiarum ornatum misteria* diuina non pre-stentur, ne, dum
             inproborum tactu uel pompa secularis luxuriae polluuntur, ad offitium sacri mi-sterii
             uideantur indigna. </p>
-          <p xml:id="gd-p3d1-d1e729"> C. XLIV. /n ligneis uasculis dominici corporis et sanguinis
-            sacramenta non sunt celebranda. </p>
-          <p xml:id="gd-p3d1-d1e733"> Item ex Concilio Triburiensi, c. 9. </p>
-          <p xml:id="gd-p3d1-d1e736"> XI. Pars. Vasa, quibus sacrosancta conficiunturmisteria,
+        </div>
+        <div xml:id="gd-p3d1-Dd1e749">
+          <head xml:id="gd-p3d1-Hd1e751">C. XLIV.</head>
+          <head xml:id="gd-p3d1-Hd1e754" type="question-title">In ligneis uasculis dominici corporis et sanguinis sacramenta non sunt celebranda.</head> 
+          <p xml:id="gd-p3d1-d1e736">
+            Item ex <ref xml:id="gd-p3d1-Rd1e759">Concilio Triburiensi, c. 9.</ref> 
+            XI. Pars. Vasa, quibus sacrosancta conficiunturmisteria,
             calices sunt et patenae, de quibus Bonifatiusmartir et episcopus, interrogatus, si
             liceret in uasculis ligneissacramenta conficere, respondit: Quondam sacerdotesnon aureis
             sed ligneis calicibus utebantur. Zephe-rinus, XVI. Romanus episcopus, patenis uitreis
@@ -558,11 +622,15 @@
             decusmatris ecclesiae minuatur, sed magis cumuletur et amplificetur, statuimus, ut
             deinceps nullus sacerdos sacrummisterium corporis et sanguinis Domini nostri Iesu
             Christiin ligneis uasculis ullo modo conficere presumat, ne, undeplacari debet, inde
-            irascatur Deus. </p>
-
-          <p xml:id="gd-p3d1-d1e739"> C. XLV. Zfo qua materia calix cum patena fieri debeat. </p>
-          <p xml:id="gd-p3d1-d1e742"> Item ex Concilio Remensi, c. 6. </p>
-          <p xml:id="gd-p3d1-d1e745"> Ut calix Domini cum patena, si non ex auro, omnino ex argento
+            irascatur Deus. 
+          </p>
+        </div>
+        <div xml:id="gd-p3d1-Dd1e764">
+          <head xml:id="gd-p3d1-Hd1e766">C. XLV.</head>
+          <head xml:id="gd-p3d1-Hd1e769" type="question-title">Ex qua materia calix cum patena fieri debeat.</head>
+          <p xml:id="gd-p3d1-d1e745">
+            Item ex <ref xml:id="gd-p3d1-Rd1e774">Concilio Remensi, c. 6. </ref>
+            Ut calix Domini cum patena, si non ex auro, omnino ex argento
             fiat. §. i. Si quis autem tampauper est, saltim uel stagneum calicem habeat. §. 2.De ere
             autem aut ex auricalco non fiat, quia obuini uirtutem eruginem pariterque uomitum
             prouocat.§. 3. Nullus autem in ligneo aut in s uitreo calice presumat missam cantare.
@@ -572,17 +640,21 @@
           <head xml:id="gd-p3d1-Hd1e751">C. XLVI</head>
           <head xml:id="gd-p3d1-Hd1e754" type="question-title"> Non in serico, sed m puro lintheo
             sacrificium consecretur altaris. </head>
-          <p xml:id="gd-p3d1-d1e757"> Item ex epistola Eusebii et Siluestri Papae . </p>
-          <p xml:id="gd-p3d1-d1e760"> Consulto omnium constituimus, ut sacrificium altaris non in
+          <p xml:id="gd-p3d1-d1e760">
+            Item ex <ref xml:id="gd-p3d1-Rd1e789">epistola Eusebii et Siluestri Papae</ref> .
+            Consulto omnium constituimus, ut sacrificium altaris non in
             serico panno aut intincto quisquam celebrare missam presumat, sed in puro lineo ab
             episcopo consecrato, terreno scilicet lino procreato atque contexto; sicut corpus Domini
-            nostri Iesu Christi in sindonelinea munda sepultum fuit. </p>
+            nostri Iesu Christi in sindonelinea munda sepultum fuit. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e764">
           <head xml:id="gd-p3d1-Hd1e766">C. XLVII</head>
           <head xml:id="gd-p3d1-Hd1e769" type="question-title"> A quibus sx 7 tradita missarum
-            celebratio. Item ex VI. Sinodo, [c. 32.] </head>
-          <p xml:id="gd-p3d1-d1e772"> XII. Pars. Iacobus frater Domini secundum carnem,cui primum
+            celebratio.</head>
+          <p xml:id="gd-p3d1-d1e772"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e805">VI. Sinodo, [c. 32.] </ref>
+            XII. Pars. Iacobus frater Domini secundum carnem,cui primum
             credita est Iherosolimitana ecclesia, et Basilius,episcopus Cesariensis, cuius claritas
             per totum orbem refulsit, in scripturis addiderunt* nobis missae celebrationem. </p>
         </div>
@@ -590,9 +662,10 @@
           <head xml:id="gd-p3d1-Hd1e778">C. XLVIII</head>
           <head xml:id="gd-p3d1-Hd1e781" type="question-title"> Qua hora sm/ missarum solempnia
             celebranda. </head>
-          <p xml:id="gd-p3d1-d1e784"> Item Thelesphorus Papa VII. a Petro, [in epistola ad omnes, c.
-            2.] </p>
-          <p xml:id="gd-p3d1-d1e787"> XIII. Pars. Nocte sancta Natiuitatis Domini salua-toris missas
+          <p xml:id="gd-p3d1-d1e787"> 
+            Item <ref xml:id="gd-p3d1-Rd1e820">Thelesphorus Papa VII. a Petro, [in epistola ad omnes, c.
+            2.]</ref> 
+            XIII. Pars. Nocte sancta Natiuitatis Domini salua-toris missas
             celebrent presbiteri, et ymnum angelicum ineis solempniter decantent, quoniam et eadem
             nocteab angelo pastoribus est nunciatus. §. i. Et subitofacta est cum angelo multitudo
             miliciae celestis laudantium Deum, et dicentium: „Gloria in excelsis Deo, et in terra
@@ -604,8 +677,9 @@
           <head xml:id="gd-p3d1-Hd1e793">C. XLIX</head>
           <head xml:id="gd-p3d1-Hd1e796" type="question-title"> Non nisi a ieiunis hominibus
             sacramenta celebrentur altaris. </head>
-          <p xml:id="gd-p3d1-d1e799"> Item ex Concilio Cartaginensi , c. 8. </p>
-          <p xml:id="gd-p3d1-d1e802"> XIV. Pars. Sacramenta altaris non nisi a ieiunishominibus
+          <p xml:id="gd-p3d1-d1e802"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e835">Concilio Cartaginensi , c. 8.</ref> 
+            XIV. Pars. Sacramenta altaris non nisi a ieiunishominibus
             celebrentur, excepto uno die anniuersario, quocena Domini celebratur. Nam si aliquorum
             promeridianotempore defunctorum, siue episcoporum siue ceterorum,conmendatio facienda
             est, solis orationibus fiat, si illi, quifaciunt, iam pransi inueniantur. </p>
@@ -614,8 +688,9 @@
           <head xml:id="gd-p3d1-Hd1e808">C. L</head>
           <head xml:id="gd-p3d1-Hd1e811" type="question-title"> Ante missarum solempnia , circa
             horam nonam decantata nulli , in Quadragesima comedere licetis. </head>
-          <p xml:id="gd-p3d1-d1e814"> Item ex Concilio Cabilonensi^*. </p>
-          <p xml:id="gd-p3d1-d1e817"> XV. Pars. Solent plures, qui se ieiunare putant
+          <p xml:id="gd-p3d1-d1e817"> 
+            Item ex Concilio Cabilonensi^*. 
+            XV. Pars. Solent plures, qui se ieiunare putant
             inQuadragesima, mox ut signum audierint ad horam nonam, manducare . Qui nullatenus
             ieiunare credendi sunt,si ante manducauerint, quam uespertinum celebretur offitium.
             Concurrendum est enim ad missam, et auditismissarum solempnibus et
@@ -628,15 +703,15 @@
             ^Ordinationes presbiter orum. Item Pelagius : „ Dilectionis tuaerescripta.&amp; Require
             in tractatu ordinandorum. Primaquoque parte diei missarum solempnia non incongrue
             celebrantur. </p>
-          <p xml:id="gd-p3d1-d1e824"> Unde Leo Papa Dioscoro , Alexandrino Episcopo , [epist. LXXIX.
-            al. LXXXI. c. 2.]: </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e829">
           <head xml:id="gd-p3d1-Hd1e831">C. LI</head>
           <head xml:id="gd-p3d1-Hd1e834" type="question-title"> Etiam prima parte diei missas
             celebrare licet.</head>
-
-          <p xml:id="gd-p3d1-d1e837"> Necesse est autem, ut quedam pars populi sua deuo-tione
+          <p xml:id="gd-p3d1-d1e837"> 
+            Unde <ref xml:id="gd-p3d1-Rd1e865">Leo Papa Dioscoro , Alexandrino Episcopo , [epist. LXXIX.
+            al. LXXXI. c. 2.]:</ref> 
+            Necesse est autem, ut quedam pars populi sua deuo-tione
             priuetur, si unius tantum missae more seruato sacrificium offerre non possunt, nisi
             prima parte diei conuenerint. Studiose ergo fraternitatem tuamfamiliariter ammonemus, ut
             quod nostrae consuetudini exforma paternae traditionis insedit tua quoque cura
@@ -649,19 +724,22 @@
           <head xml:id="gd-p3d1-Hd1e843">C. LII</head>
           <head xml:id="gd-p3d1-Hd1e846" type="question-title"> Missae peculiares non sunt in
             publico cantandae . </head>
-          <p xml:id="gd-p3d1-d1e849"> Item Augustinus . </p>
-          <p xml:id="gd-p3d1-d1e852"> Et hoc attendendum est, ut missae peculiares, que per dies
+          <p xml:id="gd-p3d1-d1e852"> 
+            Item <ref xml:id="gd-p3d1-Rd1e880">Augustinus</ref> . 
+            Et hoc attendendum est, ut missae peculiares, que per dies
             solempnes a sacerdotibus fiunt, non ita in publicofiant, utper eas populus a publicis
             missarum solempnibus, que hora tercia canonice fiunt, abstrahatur. §. i.Sed sacerdotes,
-            qui in circuitu urbis, aut in eadem urbesunt, et populus in unum ad publicam missarum
-            celebrationem conueniant*. </p>
+            qui in circuitu urbis, aut in eadem urbe sunt, et populus in unum ad publicam missarum
+            celebrationem conueniant*.   
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e856">
           <head xml:id="gd-p3d1-Hd1e858">C. LIII</head>
           <head xml:id="gd-p3d1-Hd1e861" type="question-title"> Quot missas in die sacerdotibus
             celebrare liceat . </head>
-          <p xml:id="gd-p3d1-d1e864"> Item Alexander Papa, </p>
-          <p xml:id="gd-p3d1-d1e867"> XVII. Pars. Sufficit sacerdoti unam in die una celebrare
+          <p xml:id="gd-p3d1-d1e867"> 
+            Item <ref xml:id="gd-p3d1-Rd1e896">Alexander Papa,</ref> 
+            XVII. Pars. Sufficit sacerdoti unam in die una celebrare
             missam, quia Christus semel passus est, et totummundum redemit. Non modica res est unam
             missam facere,et ualde felix qui unam digne celebrare potest. Quidamtamen pro defunctis
             unam faciunt, et alteram de die, sinecesse sit. Qui uero pro pecuniis aut
@@ -672,8 +750,9 @@
           <head xml:id="gd-p3d1-Hd1e873">C. LIV</head>
           <head xml:id="gd-p3d1-Hd1e876" type="question-title"> Ex Saluatoris et Apostolorum docemur
             exemplo ymnos cantare . </head>
-          <p xml:id="gd-p3d1-d1e879"> Item ex Concilio Tolletano III. [c. I2.] </p>
-          <p xml:id="gd-p3d1-d1e882"> XVIII. Pars. De ymnis canendis et Saluatoris, etApostolorum
+          <p xml:id="gd-p3d1-d1e882"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e911">Concilio Tolletano III. [c. I2.]</ref> 
+            XVIII. Pars. De ymnis canendis et Saluatoris, etApostolorum
             habemus exemplum. Nam et ipse Dominus ymnum dixisse perhibetur, Mattheo euangelista
             testante: ,,Et ymno dicto exierunt in montem 01iueti.“Et Paulus apostolus ad Ephesios
             scribit dicens: „In-plemini Spiritu, loquentes uobis in psalmis, etymnis, et canticis
@@ -692,17 +771,17 @@
             hortaturTymotheum apostolus, dicens: „Obsecro igitur primoomnium&amp; fieri
             obsecrationes, orationes, postulationes,gratiarum actiones pro omnibus hominibus, pro
             regibus,pro 641 h omnibus, qui in sublimitate sunt.“ Sicut igituriorationes, ita et
-            ymnos in laudem Dei conpositos, nullus nostrum ulterius inprobet. </p>
-
+            ymnos in laudem Dei conpositos, nullus nostrum ulterius inprobet. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e886">
           <head xml:id="gd-p3d1-Hd1e888">C. LV</head>
           <head xml:id="gd-p3d1-Hd1e891" type="question-title"> In nouo testamento qui ymni ab
             angelis decantati inueniuntur.</head>
-          <p xml:id="gd-p3d1-d1e894"> Leo /X </p>
-          <p xml:id="gd-p3d1-d1e897"> Hii duo solummodo ymni ab angelis in nouo testamento
-            inueniuntur decantati: „ Alleluia,“ atque: ,,Gloria in </p>
-          <p xml:id="gd-p3d1-d1e900"> — excelsis Deo.“ Quos pariter in Septuagesima
+          <p xml:id="gd-p3d1-d1e897">
+            <ref xml:id="gd-p3d1-Rd1e926"> Leo /X</ref> 
+            Hii duo solummodo ymni ab angelis in nouo testamento
+            inueniuntur decantati: „ Alleluia,“ atque: ,,Gloria in  — excelsis Deo.“ Quos pariter in Septuagesima
             intermittimus,quia peccato hominis ueteris a conuentu angelicae iubila-tionis expulsi in
             huius miserae uitae Babilonem, superflumina eius sedemus, et flemus, dum recordamur
             illiusSion, in qua Deum decet ymnus. Quod nouem ebdoma-dibus Alleluia intermittimus, non
@@ -719,23 +798,27 @@
             perstatdeuotus. Quem et nos pro modulo nostro imitantes, aSeptuagesima, quando lapsus
             protoplasti recitatur inecclesia, Alleluia nouem ebdomadibus intermittimus,
             scilicetusque in Pasca, ubi Christus resurgens a mortuis tristiciamnostram in gaudium
-            uertit, et Alleluia nobis reddit. </p>
+            uertit, et Alleluia nobis reddit. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e904">
           <head xml:id="gd-p3d1-Hd1e906">C. LVI</head>
           <head xml:id="gd-p3d1-Hd1e909" type="question-title"> In cena Domini Gloria in excelsis
             decantetur.</head>
-          <p xml:id="gd-p3d1-d1e912"> Nykolaus Rodulfo , Bituricensi Archiep . </p>
-          <p xml:id="gd-p3d1-d1e915"> Porro Gloria in excelsis Deo ab episcopis in cena Domini inter
+          <p xml:id="gd-p3d1-d1e915"> 
+            <ref xml:id="gd-p3d1-Rd1e941">Nykolaus Rodulfo , Bituricensi Archiep .</ref> 
+            Porro Gloria in excelsis Deo ab episcopis in cena Domini inter
             missarum solempnia more nostro dicenda est. Pallio uero apostolico* eadem die uti illis
-            est licitum, quibus est ab apostolica sede permissum. </p>
+            est licitum, quibus est ab apostolica sede permissum. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e920">
           <head xml:id="gd-p3d1-Hd1e922">C. LVII</head>
           <head xml:id="gd-p3d1-Hd1e925" type="question-title"> Cum baculo aut capite uelato ad
             celebrandum missarum solempnia clericus non ingrediatur. </head>
-          <p xml:id="gd-p3d1-d1e928"> Zacharias * Papa [in Sinodo Romana, c. 13. et i4.] </p>
-          <p xml:id="gd-p3d1-d1e931"> XIX. Pars. Nullus episcopus aut presbiter,seu diaconus ad
+          <p xml:id="gd-p3d1-d1e931"> 
+            <ref xml:id="gd-p3d1-Rd1e956">Zacharias * Papa [in Sinodo Romana, c. 13. et i4.]</ref>
+            XIX. Pars. Nullus episcopus aut presbiter,seu diaconus ad
             celebrandum missarum solempniapresumat cum baculo introire, aut uelato capite altario
             Deiassistere, quoniam et Apostolus prohibet uiros uelatocapite orare in ecclesia; et si®
             temere presumpseritconmunione priuetur. Cum uero ingressus fuerit episcopus aut
@@ -744,9 +827,12 @@
             suppleantur solempnia; sed qui inicium ponitsuppleat usque in finem. Si quis uero
             presumpserit,preter quod posuimus, agere, a sacro corpore et sanguineDomini nostri Iesu
             Christi sit suspensus. </p>
-          <p xml:id="gd-p3d1-d1e934"> [PALE A. C. LVIII. </p>
-          <p xml:id="gd-p3d1-d1e938"> Item ex Decretis Soteris Papae. </p>
-          <p xml:id="gd-p3d1-d1e941"> Ut illud diuini oraculi singuli precaueant, quo scribitur:
+        </div>
+        <div xml:id="gd-p3d1-Dd1e961">
+          <head xml:id="gd-p3d1-Hd1e963">[PALE A. C. LVIII. ]</head>
+          <p xml:id="gd-p3d1-d1e941"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e968">Decretis Soteris Papae.</ref> 
+            Ut illud diuini oraculi singuli precaueant, quo scribitur:
             „Vae soli, quia, cum ceciderit, non habet subleuan-tem,“ summopere uerendum nobis est
             atque cauendum, ne horis illis atque temporibus, quibus Deo psallitur uelsacrificatur,
             unicuique diuinis singulariter offitiis insistentiperniciosa passio uel corporis
@@ -762,129 +848,145 @@
           <head xml:id="gd-p3d1-Hd1e947">C. LIX</head>
           <head xml:id="gd-p3d1-Hd1e950" type="question-title"> Quot testes episcopus sacrificans
             secum habere debeat.</head>
-          <p xml:id="gd-p3d1-d1e953"> Anacletus seruus Christi Iesu, omnibus Episcopis , </p>
-          <p xml:id="gd-p3d1-d1e956"> [epist. I.] </p>
-          <p xml:id="gd-p3d1-d1e959"> XX. Pars. Episcopus Deo sacrificans secum testeshabeat. In
-            solempnioribus quippe diebus aut se- </p>
-
-
-
-          <p xml:id="gd-p3d1-d1e963"> ptem, aut quinque, aut tres diaconos, qui oculi eius dicuntur,
+          <p xml:id="gd-p3d1-d1e959"> 
+            <ref xml:id="gd-p3d1-Rd1e984">Anacletus seruus Christi Iesu, omnibus Episcopis , [epist. I.]</ref>
+            XX. Pars. Episcopus Deo sacrificans secum testeshabeat. In
+            solempnioribus quippe diebus aut septem, aut quinque, aut tres diaconos, qui oculi eius dicuntur,
             et subdiaconos, atque reliquos ministros secum habeat, qui sacris induti uestimentis in
             fronte et atergo, et presbiteri e regione dextra leuaque, corde contrito et humiliato
-            spiritu, ac prono stent uultu, custodienteseum a maleuolis hominibus, et consensum
+            spiritu, ac prono stent uultu, custodientes eum a maleuolis hominibus, et consensum
             prebentes sacrificio. Peracta autem consecratione omnes con-municent, qui noluerint
-            ecclesiasticis carere liminibus. </p>
+            ecclesiasticis carere liminibus. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e967">
           <head xml:id="gd-p3d1-Hd1e969">C. LX</head>
           <head xml:id="gd-p3d1-Hd1e972" type="question-title"> Episcopi sine religiosis testibus
             Domini sacramenta non conficiant. </head>
-          <p xml:id="gd-p3d1-d1e975"> Item Lucius Papa omnibus Episcopis . </p>
-          <p xml:id="gd-p3d1-d1e978"> Iubemus apostolica* auctoritate, ut semper testes uobis-cum
+          <p xml:id="gd-p3d1-d1e978"> 
+            Item <ref xml:id="gd-p3d1-Rd1e999">Lucius Papa omnibus Episcopis .</ref> 
+            Iubemus apostolica* auctoritate, ut semper testes uobis-cum
             sacerdotes habeatis et Leuitas. Et licet conscientia possit sufficere propria, tamen
             propter maliuolos iuxta Apostolum etiam testimonium uos oportet habere bonumab his, qui
             foris sunt. Igitur duo presbiteri, ettres diaconi in omni loce episcopum non deserant,
-            proptertestimonium ecclesiasticum. </p>
+            proptertestimonium ecclesiasticum. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e982">
           <head xml:id="gd-p3d1-Hd1e984">C. LXI</head>
           <head xml:id="gd-p3d1-Hd1e987" type="question-title"> Nisi duobus presentibus presbiter
             missam celebrare non presumat.</head>
-          <p xml:id="gd-p3d1-d1e990"> Item Sotber Papa *. </p>
-          <p xml:id="gd-p3d1-d1e993"> Hoc quoque statutum est, ut nullus presbiterorum missarum
+          <p xml:id="gd-p3d1-d1e993"> 
+            Item <ref xml:id="gd-p3d1-Rd1e1014">Sotber Papa *.</ref> 
+            Hoc quoque statutum est, ut nullus presbiterorum missarum
             solempnia celebrare presumat, nisi duobus presentibus sibique respondentibus ipse
             tercius habeatur;quia, cum pluraliter dicitur ab eo: „Dominus uobiscum,“et illud in
-            secretis: ,,Orate pro me,“ aptissime conuenit, utipsius respondeatur salutationi. </p>
+            secretis: ,,Orate pro me,“ aptissime conuenit, utipsius respondeatur salutationi. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e997">
           <head xml:id="gd-p3d1-Hd1e999">C. LXII</head>
           <head xml:id="gd-p3d1-Hd1e1002" type="question-title"> Communione priuentur qui usque ad
             finem missarum solempnia non audiunt . </head>
-          <p xml:id="gd-p3d1-d1e1005"> Item ex Canone Apostolorum [io.] </p>
-          <p xml:id="gd-p3d1-d1e1008"> XXI. Pars. Omnes fideles, qui conueniunt insolempnitatibus
+          <p xml:id="gd-p3d1-d1e1008"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e1029">Canone Apostolorum [io.]</ref>
+            XXI. Pars. Omnes fideles, qui conueniunt insolempnitatibus
             sacris* ad ecclesiam, et scripturas Apostolorum et euangelium audiant. Qui autem** non
             per-seuerant in oratione, usque dum missa peragatur, necsanctam conmunionem percipiunt,
-            uelut inquietudinesecclesiae conmouentes conuenit conmunione priuari. </p>
+            uelut inquietudinesecclesiae conmouentes conuenit conmunione priuari.
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1012">
           <head xml:id="gd-p3d1-Hd1e1014">C. LXIII</head>
           <head xml:id="gd-p3d1-Hd1e1017" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p3d1-d1e1020"> Item ex Concilio Cartaginensi IV., [c. 24.] </p>
-          <p xml:id="gd-p3d1-d1e1023"> Sacerdote uerbum in ecclesia faciente qui egressus de
-            auditorio fuerit, excommunicetur. </p>
-
+          <p xml:id="gd-p3d1-d1e1023"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e1044">Concilio Cartaginensi IV., [c. 24.]</ref>
+            Sacerdote uerbum in ecclesia faciente qui egressus de
+            auditorio fuerit, excommunicetur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1028">
           <head xml:id="gd-p3d1-Hd1e1030">C. LXIV</head>
           <head xml:id="gd-p3d1-Hd1e1033" type="question-title"> Die dominico missas ex integro
             seculares audire debent.</head>
-          <p xml:id="gd-p3d1-d1e1036"> Item ex Concilio Agat en si, [c. 47.] </p>
-          <p xml:id="gd-p3d1-d1e1039"> Missas die dominica secularibus totas audirespeciali ordine
+          <p xml:id="gd-p3d1-d1e1039">
+            Item ex <ref xml:id="gd-p3d1-Rd1e1059">Concilio Agat en si, [c. 47.]</ref>
+            Missas die dominica secularibus totas audirespeciali ordine
             precipimus ita, ut ante benedictionemsacerdotis egredi populus non presumat. Quod si
-            fecerint, ab episcopo publice confundantur. </p>
+            fecerint, ab episcopo publice confundantur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1043">
           <head xml:id="gd-p3d1-Hd1e1045">C. LXV</head>
           <head xml:id="gd-p3d1-Hd1e1048" type="question-title"> Populus non ante discedat, quam
             missa ex integro celebretur.</head>
-          <p xml:id="gd-p3d1-d1e1051"> Item ex Concilio Aurelianensi [I., c. 28.] </p>
-          <p xml:id="gd-p3d1-d1e1054"> Cum ad celebrandas missas in nomine Dei con-uenitur populus
+          <p xml:id="gd-p3d1-d1e1054"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e1075">Concilio Aurelianensi [I., c. 28.]</ref>
+            Cum ad celebrandas missas in nomine Dei conuenitur populus
             non ante discedat, quam missae solempnitas conpleatur, et ubi episcopus non fuerit,
-            benedictionem accipiat sacerdotis. </p>
+            benedictionem accipiat sacerdotis. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1058">
           <head xml:id="gd-p3d1-Hd1e1060">C. LXVI</head>
           <head xml:id="gd-p3d1-Hd1e1063" type="question-title"> Excommunicetur qui pretermisso
             ecclesiae conuentu ad spectacula uadit.</head>
-          <p xml:id="gd-p3d1-d1e1066"> Item ex Concilio Cartaginensi IV., [c. 88.] </p>
-          <p xml:id="gd-p3d1-d1e1069"> Qui die solempni pretermisso ecclesiae conuentu ad spectacula
-            uadit, excommunicetur. </p>
+          <p xml:id="gd-p3d1-d1e1069">
+            Item ex <ref xml:id="gd-p3d1-Rd1e1090">Concilio Cartaginensi IV., [c. 88.]</ref>
+            Qui die solempni pretermisso ecclesiae conuentu ad spectacula
+            uadit, excommunicetur. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1073">
           <head xml:id="gd-p3d1-Hd1e1075">C. LXVII</head>
           <head xml:id="gd-p3d1-Hd1e1078" type="question-title"> Usque ad missam catecuminorum
             nullus ecclesiam ingredi prohibeatur. </head>
-          <p xml:id="gd-p3d1-d1e1081"> Item ex Concilio Cartaginensi IV., [c. 84.] </p>
-          <p xml:id="gd-p3d1-d1e1084"> XXII. Pars. Episcopus nullum prohibeat ingrediecclesiam, et
+          <p xml:id="gd-p3d1-d1e1084"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e1105">Concilio Cartaginensi IV., [c. 84.]</ref>
+            XXII. Pars. Episcopus nullum prohibeat ingrediecclesiam, et
             audire uerbum Dei, siue gentilem, siuehereticum, siue Iudeum, usque ad missam
-            catecuminorum. </p>
+            catecuminorum. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1088">
           <head xml:id="gd-p3d1-Hd1e1090">C. LXVIII</head>
           <head xml:id="gd-p3d1-Hd1e1093" type="question-title"> Euangelia non sedendo, sed stando
             audire debemus.</head>
-          <p xml:id="gd-p3d1-d1e1096"> Item Anastasius Episcopus omnibus Episcopis, </p>
-          <p xml:id="gd-p3d1-d1e1099"> [epist. I. c. i.] </p>
-          <p xml:id="gd-p3d1-d1e1102"> XXIII. Pars. Apostolica auctoritate mandamus, dumsancta
+          <p xml:id="gd-p3d1-d1e1102"> 
+            Item <ref xml:id="gd-p3d1-Rd1e1120">Anastasius Episcopus omnibus Episcopis,  [epist. I. c. i.]</ref>
+            XXIII. Pars. Apostolica auctoritate mandamus, dumsancta
             euangelia in ecclesia leguntur, ut sacerdotes etceteri omnes non sedentes, sed
             uenerabiliter curui*et in conspectu euangelii'stantes dominica uerba intenteaudiant, et
-            fideliter adorent. </p>
+            fideliter adorent. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1106">
           <head xml:id="gd-p3d1-Hd1e1108">C. LXIX</head>
           <head xml:id="gd-p3d1-Hd1e1111" type="question-title"> Ad missarum solempnia semper
             aliquid est offerendum.</head>
-          <p xml:id="gd-p3d1-d1e1114"> Item Gregorius VII. [in Sinodo Romana habita anno Domini
-            1078., c. 13.] </p>
-          <p xml:id="gd-p3d1-d1e1117"> XXIV. Pars. Omnis Christianus procuret ad missarum solempnia
-            aliquid Deo offerre, et ducere ad memoriam, quod Deus per Moysen dixit: „Non apparebis
-            in conspectu meo uacuus." Et in collectis sanctorumPatrum liquido apparet, quod omnes
+          <p xml:id="gd-p3d1-d1e1117">
+            Item <ref xml:id="gd-p3d1-Rd1e1135">Gregorius VII. [in Sinodo Romana habita anno Domini
+            1078., c. 13.]</ref>
+            XXIV. Pars. Omnis Christianus procuret ad missarum solempnia
+            aliquid Deo offerre, et ducere ad memoriam, quod Deus per Moysen dixit: <quote xml:id="gd-p3d1-Qd1e1138" source="http://scta.info/resource/ex23_15">Non apparebis
+            in conspectu meo uacuus</quote>. Et in collectis sanctorum Patrum liquido apparet, quod omnes
             Christiani offerrealiquid Deo ex usu sanctorum Patrum debent. Ad ipsum*enim prius est
             confugiendum, qui nostrae animae possitcurare passiones. Verum homines prepostero ordine
             antesibi opem ab hominibus accersiunt. Ubi autem humanasubsidia defecerint, tunc
-            opinantur diuini fauoris gratiampostulandam. </p>
+            opinantur diuini fauoris gratiampostulandam. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1122">
           <head xml:id="gd-p3d1-Hd1e1124">C. LXX</head>
           <head xml:id="gd-p3d1-Hd1e1127" type="question-title"> Quare „ Sursum corda “ in
             prefatione dicatur . </head>
-          <p xml:id="gd-p3d1-d1e1130"> Item Ciprianus [sermone VI. de oratione dominica.] </p>
-          <p xml:id="gd-p3d1-d1e1133"> XXV. Pars. Quando autem stamus ad orationem,fratres
+          <p xml:id="gd-p3d1-d1e1133"> 
+            Item <ref xml:id="gd-p3d1-Rd1e1153">Ciprianus [sermone VI. de oratione dominica.] </ref>
+            XXV. Pars. Quando autem stamus ad orationem,fratres
             dilectissimi, inuigilare et incumbere ad precestoto corde debemus; cogitatio hominis
-            carnalis et secularis abscedat, nec quicquam tunc animus quam idsolum cogitet, quod
+            carnalis et secularis abscedat, nec quicquam tunc animus quam id solum cogitet, quod
             precatur. Ideo et sacerdos ante orationem prefatione premissa parat fratrum mentes,
-            dicendo:„Sursum corda," ut dum respondet plebs: „habemus adDominum," ammoneatur, nichil
+            dicendo:„Sursum corda," ut dum respondet plebs: „habemus ad Dominum," ammoneatur, nichil
             aliud se quam Dominumcogitare debere. Claudatur contra aduersarium pectus, etsoli Deo
             pateat, nec ad se hostem Dei tempore orationisuenire patiatur. </p>
         </div>
@@ -892,21 +994,23 @@
           <head xml:id="gd-p3d1-Hd1e1139">C. LXXI</head>
           <head xml:id="gd-p3d1-Hd1e1142" type="question-title"> Que prefationes in missa sunt
             cantandae.</head>
-          <p xml:id="gd-p3d1-d1e1145"> Pelagius Romanae ecclesiae et apostolicae sedis Episcopus </p>
-          <p xml:id="gd-p3d1-d1e1148"> uniuersis Germaniarum atque Galliarum Episcopis . </p>
-          <p xml:id="gd-p3d1-d1e1151"> XXVI. Pars. Inuenimus has nouem prefationes in sacrocatalogo
+          <p xml:id="gd-p3d1-d1e1151"> 
+            <ref xml:id="gd-p3d1-Rd1e1169">Pelagius Romanae ecclesiae et apostolicae sedis Episcopus 
+            uniuersis Germaniarum atque Galliarum Episcopis .</ref>
+            XXVI. Pars. Inuenimus has nouem prefationes in sacrocatalogo
             tantummodo recipiendas, id est: unam inAlbis pascalibus, aliam die Ascensionis Domini,
             tertiam die Pentecosten, quartam de Natali Domini, quintam de Apparitione Domini, sextam
             de Apostolis, septimam de sancta Trinitate, octauam de Cruce,nonam de ieiunio in
-            Quadragesima tantummodo dicendam. </p>
+            Quadragesima tantummodo dicendam. 
+          </p>
         </div>
         <div xml:id="gd-p3d1-Dd1e1155">
           <head xml:id="gd-p3d1-Hd1e1157">C. LXXII</head>
           <head xml:id="gd-p3d1-Hd1e1160" type="question-title"> In omnibus missarum solempnibus pro
             defunctis oratio fiat.</head>
-          <p xml:id="gd-p3d1-d1e1163"> Item ex Concilio Cabillonensi [II., c. 39.] </p>
-
-          <p xml:id="gd-p3d1-d1e1166"> XXVII. Pars. Visum preterea est nobis, ut in omnibusmissarum
+          <p xml:id="gd-p3d1-d1e1166"> 
+            Item ex <ref xml:id="gd-p3d1-Rd1e1184">Concilio Cabillonensi [II., c. 39.]</ref> 
+            XXVII. Pars. Visum preterea est nobis, ut in omnibusmissarum
             solempnibus pro defunctorum spiritibus lococonpetenti ecclesia Dominum deprecetur. Sicut
             enimnulla dies excipitur, qua non pro uiuentibus et proquibuslibet necessitatibus
             deprecetur: ita nimirum nulladies excipi debet, quin pro animabus fidelium preces
@@ -922,9 +1026,10 @@
           <head xml:id="gd-p3d1-Hd1e1172">C. LXXIII</head>
           <head xml:id="gd-p3d1-Hd1e1175" type="question-title"> Ante preces non sunt a sacerdote
             nomina recitanda.</head>
-          <p xml:id="gd-p3d1-d1e1178"> Item Innocentius Episcopus Urbis Romae Decenti0 Eugubino,
-            [epist. I. c. 2.] </p>
-          <p xml:id="gd-p3d1-d1e1181"> De nominibus recitandis ante, quam sacerdos precem faciat,
+          <p xml:id="gd-p3d1-d1e1181"> 
+            Item <ref xml:id="gd-p3d1-Rd1e1199">Innocentius Episcopus Urbis Romae Decenti0 Eugubino,
+            [epist. I. c. 2.]</ref> 
+            De nominibus recitandis ante, quam sacerdos precem faciat,
             atque eorum oblationes, quorum nomina recitanda sunt, sua oratione conmendet, quam
             superfluum sit, et ipse per tuam prudentiam recognoscis; ut cuiushostiam necdum Deo
             offeras, eius ante nomen insinues,quamuis illi nichil sit incognitum. </p>
