@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -58,12 +56,18 @@
         <head xml:id="gd-p2c33q3d7-Hd1e103">DISTINCTIO VII.</head>
         <p xml:id="gd-p2c33q3d7-d1e106"> I. Pars. Tempus uero penitenciae est usque ?Yi
           ultimumarticulum uitae. </p>
-        <p xml:id="gd-p2c33q3d7-d1e109"> Unde Leo Papa, [ep. XC. ad XCII. ad Rusticum, c. 5.3: [C.
-          I.] </p>
-        <p xml:id="gd-p2c33q3d7-d1e112"> „ Nemo desperandus est, dum in hoc corpore constitutus est,
-          quia nonnumquam quod diffidentia eiatis differtur consilio maturiore perficitur .“ </p>
-        <p xml:id="gd-p2c33q3d7-d1e115"> II. Pars. [Gratian.] Quamquam de differentibus penitenciam
-          Augustinus scribat [in lib. L. Homil., hom. 41.]*; </p>
+      </div>
+      <div xml:id="gd-p2c33q3d7-Dd1e110">
+        <head xml:id="gd-p2c33q3d7-Hd1e112">[C. I.] </head>
+        <p xml:id="gd-p2c33q3d7-d1e112"> 
+          Unde <ref xml:id="gd-p2c33q3d7-Rd1e117">Leo Papa, [ep. XC. ad XCII. ad Rusticum, c. 5.3:</ref>
+          „ Nemo desperandus est, dum in hoc corpore constitutus est,
+          quia nonnumquam quod diffidentia eiatis differtur consilio maturiore perficitur .“ 
+        </p>
+        <p xml:id="gd-p2c33q3d7-d1e115"> 
+          II. Pars. [Gratian.] Quamquam de differentibus penitenciam
+          Augustinus scribat [in lib. L. Homil., hom. 41.]*; 
+        </p>
         <div xml:id="gd-p2c33q3d7-Dd1e119">
           <head xml:id="gd-p2c33q3d7-Hd1e121">[C. II.]</head>
           <p xml:id="gd-p2c33q3d7-d1e124"> „Si quis** positus in ultima necessitate suae egritudinis
@@ -75,36 +79,77 @@
             dico tibi,quia securus es, quia penitenciam egisti eo tempore, quopeccare** * potuisti.
             Si autem uis agere penitenciam, quandoiam peccare non potes, peccata te dimiserunt, non
             tu illa. </p>
-          <p xml:id="gd-p2c33q3d7-d1e127"> [C. III.] Idem [in eadem homilia, paulo superius.] </p>
-          <p xml:id="gd-p2c33q3d7-d1e130"> „ Qui egerit penitenciam ueraciter, et solutus fuerit a
-            ligamento, quo erat obstrictus , et a Christi corpore separatus,et bene post penitenciam
-            uixerit, sicut ante penitenciam uiueredebuit, post reconciliationem quandocumque
-            defunctus fuerit, adDeum uadit, ad requiem uadit, regno Dei non priuabitur, a
-            populodiaboli separabitur .“ </p>
-          <p xml:id="gd-p2c33q3d7-d1e133"> [C. IV.] 20 a </p>
-          <p xml:id="gd-p2c33q3d7-d1e137"> ,,Si quis autem* etc. Et infra: „Baptizatus ad horam
-            securus hinc exit; fidelis bene uiuens securus hinc exit; agenspenitenciam, et
-            reconciliatus, cum sanus est et postea beneuiuens, hinc securus exit. Agens penitenciam
-            ad ultimum, etreconciliatus, si securus hinc exit, ego non sum securus. Undesum securus,
-            dico, et do securitatem; unde non sum securus,penitenciam dare possum, securitatem dare
-            non possum .“ Et postpauca: §. i. ,,Sed unde scis**, inquit , ne forte Deus
-            dimittatmichif uerum dicis : illud scio; hoc nescio. Nam ideo do tibipenitenciam, quia
-            nescio; nam si scirem nichil tibi prodesse, nontibi darem. Item si scirem, tibi
-            prodesse, non te ammonerem, nonte terrerem. Duae sunt res: aut ignoscitur tibi, aut non
-            ignoscitur. Quid 5 d horum tibi futurum sit, nescio . Ergo tene certum,et dimitte
-            incertum .“ </p>
+        </div>
+        <div xml:id="gd-p2c33q3d7-Dd1e133">
+          <head xml:id="gd-p2c33q3d7-Hd1e135">[C. III.]</head>
+          <p xml:id="gd-p2c33q3d7-d1e130">
+            <ref xml:id="gd-p2c33q3d7-Rd1e140">Idem [in eadem homilia, paulo superius.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c33q3d7-Qd1e145">
+                Qui egerit penitenciam ueraciter, et solutus fuerit a
+                ligamento, quo erat obstrictus , et a Christi corpore separatus,et bene post penitenciam
+                uixerit, sicut ante penitenciam uiueredebuit, post reconciliationem quandocumque
+                defunctus fuerit, ad Deum uadit, ad requiem uadit, regno Dei non priuabitur, a
+                populodiaboli separabitur .
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d7-Dd1e152">
+          <head xml:id="gd-p2c33q3d7-Hd1e154">[C. IV.]</head>
+          <p xml:id="gd-p2c33q3d7-d1e137"> 
+            <cit>
+              <quote xml:id="gd-p2c33q3d7-Qd1e161">
+                Si quis autem* etc.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c33q3d7-d1e166">
+            Et infra:
+            <cit>
+              <quote xml:id="gd-p2c33q3d7-Qd1e170">
+                Baptizatus ad horam
+                securus hinc exit; fidelis bene uiuens securus hinc exit; agenspenitenciam, et
+                reconciliatus, cum sanus est et postea beneuiuens, hinc securus exit. Agens penitenciam
+                ad ultimum, et reconciliatus, si securus hinc exit, ego non sum securus. Undesum securus,
+                dico, et do securitatem; unde non sum securus,penitenciam dare possum, securitatem dare
+                non possum .
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c33q3d7-d1e175">
+            Et postpauca: §. i. 
+            <cit>
+              <quote xml:id="gd-p2c33q3d7-Qd1e179">
+                Sed unde scis**, inquit , ne forte Deus
+                dimittatmichif uerum dicis : illud scio; hoc nescio. Nam ideo do tibipenitenciam, quia
+                nescio; nam si scirem nichil tibi prodesse, nontibi darem. Item si scirem, tibi
+                prodesse, non te ammonerem, nonte terrerem. Duae sunt res: aut ignoscitur tibi, aut non
+                ignoscitur. Quid 5 d horum tibi futurum sit, nescio . Ergo tene certum,et dimitte
+                incertum .
+              </quote>
+            </cit> 
+          </p>
           <p xml:id="gd-p2c33q3d7-d1e140"> [Gratian.] Hoc autem quare Augustinus dixerit, Ciprianus
             ostendit, [lib. IV. epist. 2. ad Antonianum] dicens : </p>
-          <p xml:id="gd-p2c33q3d7-d1e143"> [C. V.] </p>
-          <p xml:id="gd-p2c33q3d7-d1e146"> ,, Idcirco, frater karissime, penitenciam non agentes,
+        </div>
+        <div xml:id="gd-p2c33q3d7-Dd1e188">
+          <head xml:id="gd-p2c33q3d7-Hd1e190">[C. V.]</head>
+          <p xml:id="gd-p2c33q3d7-d1e146"> 
+            Idcirco, frater karissime, penitenciam non agentes,
             nec in dolore delictorum suorum toto corde manifestam lamentationis suae professionem
             testantes, prohibendos omnino censuimusa spe conmunionis et pacis, si in infirmitate
             atque periculoceperint deprecari, quia rogare illos non delicti penitencia, sedmortis
             urgentis ammonitio conpellit, nec dignus est in morte accipere solaiium qui se non
-            cogitauit moriturum .“ </p>
-          <p xml:id="gd-p2c33q3d7-d1e149"> [C. VI.] Item Augustinus in libro de penitencia*, </p>
-          <p xml:id="gd-p2c33q3d7-d1e152"> [cap. 17. et 18.] </p>
-          <p xml:id="gd-p2c33q3d7-d1e156"> „ Nullus expectet, quando*** peccare non potest**.
+            cogitauit moriturum .
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q3d7-Dd1e197">
+          <head xml:id="gd-p2c33q3d7-Hd1e199">[C. VI.]</head>
+          <p xml:id="gd-p2c33q3d7-d1e152"/>
+          <p xml:id="gd-p2c33q3d7-d1e156"> 
+            Item <ref xml:id="gd-p2c33q3d7-Rd1e206">Augustinus in libro de penitencia*,  [cap. 17. et 18.]</ref>  
+            Nullus expectet, quando*** peccare non potest**.
             Arbitrii enim querit libertatem, ut delere possit conmissa, nonnecessitatem. Qui prius
             itaque a peccatis relinquitur, quamipse relinquat, ea non libere, sed quasi*® *
             necessitate condem-pnat. Licet enim latro ueniam meruisset in fine de omni*scrimine, non
@@ -119,7 +164,10 @@
             uiuithomo . Quem ergo sero penitet, oportet non solum timere Deumiudicem, sed ** iustum
             diligere; non tantum ** penam timeat sedanxietur pro gloria. Debet enim dolere de
             crimine, et de omnieius predicta uarietate. Quod quoniam uix licet*, de eius
-            saluteAugustinus potuit dubitare. §. 1. Credo quidem ** illi, qui dixit : Quacumque hora
+            salute Augustinus potuit dubitare.
+          </p>
+          <p xml:id="gd-p2c33q3d7-d1e210">
+            §. 1. Credo quidem ** illi, qui dixit : Quacumque hora
             peccator**** ingemuerit, et conuersus fuerit,uita uiuet. “ Dixit conuersum, non tantum
             uersum uiuere . Versum quidem puto qui dolet de crimine; conuersum, qui doletde omni
             eius", quam exposuimus, uarietate. Vertitur a peccatoqui iam uult dimittere peccatum;
@@ -135,22 +183,27 @@
             quoniam multa sunt, que inpediunt et languentemretrahunt, periculosissimum est, et
             interitui uicinum, ad mortemprotrahere penitenciae remedium. Sed magnum est, cui
             Deustunc inspirat ueram penitenciam qui exspectat , Dei clementiam, maiorem sentiens Dei
-            bonitatem sua nequicia. §. 2. Sed si etiam sic conuersus fuerit , uita uiuaU** et non
+            bonitatem sua nequicia.
+          </p>
+          <p xml:id="gd-p2c33q3d7-d1e213">
+            §. 2. Sed si etiam sic conuersus fuerit , uita uiuaU** et non
             moriatur'*, nony promittimus, quod euadat omnem penam. Namprius purgandus est igne
             purgationis qui in aliud seculum distulit fructum conuersionis. Hic autem ignis, etsi
             eternus non sit , miro modo est grauis. Exellit enim omnem penam, quamumquam passus est
             aliquis in hac uita. Numquam in carnetanta inuenta est pena, licet mirabilia martires
             passi sint tormenta,et multi nequiter quanta sepe sustinuerunt supplicia.Studeat ergo
-            quisque ^ szc delicta corrigere, pos£ mortem </p>
-          <p xml:id="gd-p2c33q3d7-d1e159"> non oporteat ^ penam tollerare. §. 3. Quedam enim peccata
+            quisque ^ szc delicta corrigere, pos£ mortem non oporteat ^ penam tollerare.
+          </p>
+          <p xml:id="gd-p2c33q3d7-d1e217">
+            §. 3. Quedam enim peccata
             sunt, que^ e mortalia, ?Vipenitencia"* sunt"ss uitalia 9 °, tamen statim sanata . *Sepe
             emra esJ moreretur , H&amp;t medicaretur. Non statim sanatur “; languet uicturusqui
             prius erat moriturus. Qui autem inpenitens moritur omninomoritur, e* eternaliter
-            cruciatur . enim" inpenitens fini </p>
-          <p xml:id="gd-p2c33q3d7-d1e162"> tur, si semper uiueret, semper peccaret. At Dei est
-            miserentis, quod operatur finem peccanti 10011; etiam sine fine tor </p>
-          <p xml:id="gd-p2c33q3d7-d1e165"> quetur , numquam uirtute ditatur ; semper plenus
-            iniquitate, semper sine karitate, torquetur " sine fine. </p>
+            cruciatur . enim" inpenitens finitur, si semper uiueret, semper peccaret. At Dei est
+            miserentis, quod operatur finem peccanti 10011; etiam sine fine torquetur , 
+            numquam uirtute ditatur ; semper plenus
+            iniquitate, semper sine karitate, torquetur " sine fine.
+          </p>
         </div>
       </div>
     </body>
