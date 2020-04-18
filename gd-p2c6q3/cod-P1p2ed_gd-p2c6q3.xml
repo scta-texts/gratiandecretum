@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO III. [Leipzig, Universitätsbibliothek, Fragment. lat. 268]</title>
+        <author ref="#Gratian">Gratian</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO III. [Leipzig, Universitätsbibliothek, Fragment. lat. 268]</title>
+          <date when="2020-04-18">April 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="P1p2ed">Leipzig, Universitätsbibliothek, Fragment. lat. 268</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-04-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="1-v"/>
+        <cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6q3">
+        <head xml:id="gd-p2c6q3-Hd1e103"> QUESTIO III. </head>
+        <p xml:id="gd-p2c6q3-d1e106">
+          <lb ed="#L"/>Iudicium 
+          <lb ed="#L"/>uero archiepiscopi alterius prouinciae <pc type="#punctus"/> alicui expetere 
+          <lb ed="#L"/>non licet
+        </p>
+        <div xml:id="gd-p2c6q3-Dd1e112">
+          <head xml:id="gd-p2c6q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c6q3-Hd1e117" type="question-title">
+            Alterius parrochianum 
+            alicui iudicare non licet <pc type="#punctus"/>
+          </head>
+          <p xml:id="gd-p2c6q3-d1e120"> 
+            Unde <ref xml:id="gd-p2c6q3-Rd1e119">Gregorius ait</ref> 
+            <lb ed="#L"/><quote xml:id="gd-p2c6q3-Qd1e124">Scriptum est in lege <pc type="#punctus"/> 
+            <lb ed="#L"/>Per alienam messem transiens falcem mittere 
+            <lb ed="#L"/>non debet sed manu spicas conterere et manduca<lb ed="#L"/>re 
+            falcem enim iudicii mittere non potes in ea se<lb ed="#L"/>gete 
+            que alteri uidetur esse conmissa <pc type="#punctus"/> sed per affectum 
+            <lb ed="#L"/>boni operis <pc type="#punctus"/> frumenta dominica uiciorum suorum 
+            <lb ed="#L"/>paleis expolia <pc type="#punctus"/> et in ecclesiae corpus admonen<lb ed="#L"/>do 
+            et persuadendo quasi mandendo conuertere <pc type="#punctus"/></quote>
+          </p>
+        </div>
+        <div xml:id="gd-p2c6q3-Dd1e124">
+          <head xml:id="gd-p2c6q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c6q3-Hd1e129" type="question-title"> 
+            Quot duita<!--break-->tes 
+            unaqueque prouincia
+            habeat
+          </head>
+          <p xml:id="gd-p2c6q3-d1e135"> 
+            <lb ed="#L"/>Item <ref xml:id="gd-p2c6q3-Rd1e140">pelagius papa omnibus episcopis</ref>
+            <lb ed="#L"/><quote xml:id="gd-p2c6q3-Qd1e145">Scitote certam esse prouin<lb ed="#L"/>ciam 
+            que habet X aut XI ciuitates 
+            <lb ed="#L"/>et unum regem <pc type="#punctus"/> et totidem minores potestates</quote>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
