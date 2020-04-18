@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,48 +53,66 @@
     </front>
     <body>
       <div xml:id="gd-p2c6q2">
-
         <head xml:id="gd-p2c6q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c6q2-d1e106"> Quod autem queritur, si episcopus accusationem in accusatorem
+        <p xml:id="gd-p2c6q2-d1e106"> 
+          Quod autem queritur, si episcopus accusationem in accusatorem
           uertere noluerit, an suae simplici assertioni fides sit habenda ? facile soluitur, si
           sanctorum Patrum auctoritas diligenter inspiciatur. Ut enim sancti Patres diffiniunt,
           nullius personae, quantumlibet exercitatae, confessioni fides est adhibenda,
-          nisiconpetentes probationes adhibeat. </p>
+          nisiconpetentes probationes adhibeat. 
+        </p>
         <div xml:id="gd-p2c6q2-Dd1e112">
           <head xml:id="gd-p2c6q2-Hd1e114">C. I</head>
           <head xml:id="gd-p2c6q2-Hd1e117" type="question-title"> Episcopus crimen alicui obiciens,
             in Sinodo probet quod obicit.</head>
           <p xml:id="gd-p2c6q2-d1e120"> 
-            Unde in <ref>IV. Cartaginensi Concilio [c. 29.]</ref> legitur : 
-            Episcopus, si clerico uel laico crimen inposuerit, deducatur
-            ad probationem in sinodum. </p>
-          <p xml:id="gd-p2c6q2-d1e123"> Gratian. Sed obicitur : Si se solum alieni sceleris conscium
-            nouerit, probare illud testibus non ualet; quid ergo tunc sibifaciendum sit, ex Concilio
-            Vasensi\l . c. 8.] sic diffinitur: </p>
+            Unde in <ref xml:id="gd-p2c6q2-Rd1e119">IV. Cartaginensi Concilio [c. 29.]</ref> legitur : 
+            <cit>
+              <quote xml:id="gd-p2c6q2-Qd1e124">
+                Episcopus, si clerico uel laico crimen inposuerit, deducatur
+                ad probationem in sinodum.</quote>
+            </cit> 
+          </p>
+          <p xml:id="gd-p2c6q2-d1e123">
+            Gratian. Sed obicitur : Si se solum alieni sceleris conscium
+            nouerit, probare illud testibus non ualet; quid ergo tunc sibi faciendum sit, ex <ref xml:id="gd-p2c6q2-Rd1e131">Concilio
+            Vasensi\l . c. 8.]</ref> sic diffinitur: 
+          </p>
         </div>
         <div xml:id="gd-p2c6q2-Dd1e127">
           <head xml:id="gd-p2c6q2-Hd1e129">C. II</head>
           <head xml:id="gd-p2c6q2-Hd1e132" type="question-title"> Episcopus non proferat quod
             probare non potest. </head>
-          <p xml:id="gd-p2c6q2-d1e135"> Si tantum episcopus alieni sceleris se conscium nouit,
-            quamdiu probare non potest, nichil proferat, sed cum ipsoad conpunctionem eius secretis
-            correctionibus elaboret.Quod si forte correptus pertinacior fuerit, et se communioni
-            publicae ingesserit, etiam si episcopus in redarguendo illum, quem reum iudicat,
-            probatione deficiat, indempnatus* (licet his, qui nichil sciunt, secederead tempus pro
-            personae maioris auctoritate iubeatur)ille tamen, quamdiu nichil probare potest, in
-            communione omnium, preterquam eius, qui eum reum iudicat, permanebit. </p>
+          <p xml:id="gd-p2c6q2-d1e135"> 
+            <cit>
+              <quote xml:id="gd-p2c6q2-Qd1e148">
+                Si tantum episcopus alieni sceleris se conscium nouit,
+                quamdiu probare non potest, nichil proferat, sed cum ipso ad conpunctionem eius secretis
+                correctionibus elaboret. Quod si forte correptus pertinacior fuerit, et se communioni
+                publicae ingesserit, etiam si episcopus in redarguendo illum, quem reum iudicat,
+                probatione deficiat, indempnatus* (licet his, qui nichil sciunt, secedere ad tempus pro
+                personae maioris auctoritate iubeatur) ille tamen, quamdiu nichil probare potest, in
+                communione omnium, preterquam eius, qui eum reum iudicat, permanebit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c6q2-Dd1e140">
           <head xml:id="gd-p2c6q2-Hd1e142">C. III</head>
           <head xml:id="gd-p2c6q2-Hd1e145" type="question-title"> De episcopo, qui sibi soli dicit
             aliquem suum crimen fuisse confessum.</head>
-          <p xml:id="gd-p2c6q2-d1e148"> Placuit, ut si quando episcopus dicit aliquem sibi soli
-            proprium crimen fuisse confessum, atque ille neget, nonputet ad iniuriam suam episcopus
-            pertinere, quod illi solinon creditur. Et si scrupulo propriae conscientiae se
-            dicitneganti nolle communicare*, quamdiu excommunicato noncommunicauerit suus episcopus,
-            eidem episcopo abaliis non communicetur episcopis, ut magis caueat episcopus, ne dicat
-            in quemquam quod aliis documentis conuincerenon potest. </p>
+          <p xml:id="gd-p2c6q2-d1e148">
+            <cit>
+              <quote xml:id="gd-p2c6q2-Qd1e166">
+                Placuit, ut si quando episcopus dicit aliquem sibi soli
+                proprium crimen fuisse confessum, atque ille neget, non putet ad iniuriam suam episcopus
+                pertinere, quod illi soli non creditur. Et si scrupulo propriae conscientiae se
+                dicit neganti nolle communicare*, quamdiu excommunicato non communicauerit suus episcopus,
+                eidem episcopo ab aliis non communicetur episcopis, ut magis caueat episcopus, ne dicat
+                in quemquam quod aliis documentis conuincere non potest.
+              </quote>
+            </cit>
+          </p>
         </div>
       </div>
     </body>

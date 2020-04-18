@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> QUESTIO II. [Leipzig, Universitätsbibliothek, Fragment. lat. 268]</title>
+        <author ref="#Gratian">Gratian</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II. [Leipzig, Universitätsbibliothek, Fragment. lat. 268]</title>
+          <date when="2020-04-18">April 18, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="P1p2ed">Leipzig, Universitätsbibliothek, Fragment. lat. 268</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-04-18" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="1-v"/>
+        <cb ed="#L" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6q2">
+        <head xml:id="gd-p2c6q2-Hd1e103"> QUESTIO II. </head>
+        <p xml:id="gd-p2c6q2-d1e106"> 
+          Quod autem queritur 
+          <lb ed="#L"/>si episcopus in accusatorem accusationem uertere 
+          <lb ed="#L"/>noluerit <pc type="#punctus"/> an suae simplici assertioni sit adhiben<lb ed="#L"/>da 
+          fides <pc type="#punctus"/> facile soluitur <pc type="#punctus"/> si sanctorum patrum auc<lb ed="#L"/>toritas 
+          <pc type="#punctus"/> diligenter inspiciatur <pc type="#punctus"/> ut enim sancti 
+          <lb ed="#L"/>patres diffiniunt nullius personae quantumlibet 
+          <lb ed="#L"/>exercitatae confessioni fides est adhibenda <pc type="#punctus"/>
+          <lb ed="#L"/>nisi competentes probationes adhibeat <pc type="#punctus"/> 
+        </p>
+        <div xml:id="gd-p2c6q2-Dd1e112">
+          <head xml:id="gd-p2c6q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c6q2-Hd1e117" type="question-title"> 
+            episcopus crimen alicui obi<!-- break -->ciens
+            in sinodo probet 
+            quod obicit
+          </head>
+          <p xml:id="gd-p2c6q2-d1e120"> 
+            Unde 
+            <lb ed="#L"/>in <ref xml:id="gd-p2c6q2-Rd1e119">iiii cartaginensi concilio</ref> legitur <pc type="#punctus"/>
+            <quote xml:id="gd-p2c6q2-Qd1e124">Episcopus si clerico uel laico 
+              <lb ed="#L"/>crimen imposuerit deduca<lb ed="#L"/>tur 
+              ad probationem in sinodum
+            </quote>
+          </p>
+          <p xml:id="gd-p2c6q2-d1e123">
+            Sed obicitur 
+            <lb ed="#L"/>si se solum alieni sceleris conscium nouerit <pc type="#punctus"/> et 
+            <lb ed="#L"/><sic>et</sic> probare illud testibus non ualet <pc type="#punctus"/> quid ergo tunc faci<lb ed="#L"/>endum 
+            sit sibi <pc type="#punctus"/> ex <ref xml:id="gd-p2c6q2-Rd1e131">concilio varensi</ref> sic diffinitur <pc type="#punctus"/> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c6q2-Dd1e127">
+          <head xml:id="gd-p2c6q2-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c6q2-Hd1e132" type="question-title"> 
+            Episcopus non proferat quod
+            probare non 
+            potest 
+          </head>
+          <p xml:id="gd-p2c6q2-d1e135">
+            <lb ed="#L"/><quote xml:id="gd-p2c6q2-Qd1e148">Si tantum episcopus alieni sceleris 
+              <lb ed="#L"/>se conscium nouit <pc type="#punctus"/> quamdiu pro<lb ed="#L"/>bare 
+              non potest <pc type="#punctus"/> nichil proferat <pc type="#punctus"/> sed cum ipso 
+              <lb ed="#L"/>ad compunctionem eius secretis correctionibus 
+              <lb ed="#L"/>elaboret Quod si forte correctus pertinacior fuerit 
+              <lb ed="#L"/>et se communioni publicae ingesserit <pc type="#punctus"/> etiam si episcopus 
+              <lb ed="#L"/>in redarguendo illum quem reum iudicat pro<lb ed="#L"/>batione 
+              deficiat indempnatus <unclear>iubeatur</unclear> is 
+              <lb ed="#L"/>qui nichil sciunt secedere ad tempus pro personae 
+              <lb ed="#L"/>maioris auctoritate <pc type="#punctus"/> ille tamen quamdiu ni<lb ed="#L"/>chil 
+              probare potest in communione omnium preter<lb ed="#L"/>quam 
+              eius qui eum reum iudicat permanebit</quote>
+          </p>
+        </div>
+        <div xml:id="gd-p2c6q2-Dd1e140">
+          <head xml:id="gd-p2c6q2-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c6q2-Hd1e145" type="question-title">
+            De eo qui sibi soli dicit 
+            aliquem crimen suum 
+            confessum fuisse
+          </head>
+          <p xml:id="gd-p2c6q2-d1e148">
+            <lb ed="#L"/>Item ex <unclear>conc</unclear> affricano
+            <lb ed="#L"/><quote xml:id="gd-p2c6q2-Qd1e166">placuit ut si quando 
+            <lb ed="#L"/>episcopus dicit aliquem 
+            <lb ed="#L"/>proprium crimen fuisse confessum <pc type="#punctus"/> atque 
+            <lb ed="#L"/>ille neget non putet ad iniuriam suam episcopus perti<lb ed="#L"/>nere 
+            quod illi soli non creditur <pc type="#punctus"/> et si scrupulo propriae 
+            <lb ed="#L"/>conscientiae se dicit neganti nolle communicare <pc type="#punctus"/> quam<lb ed="#L"/>diu 
+            excommunicato non communicauerit suus episcopus
+            <lb ed="#L"/>eidem episcopo ab aliis non communicetur episcopis ut ma<lb ed="#L"/>gis 
+            caueat episcopus ne dicat in quemquam quod aliis 
+            <lb ed="#L"/>documentis conuincere non potest</quote>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
