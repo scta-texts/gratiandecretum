@@ -52,11 +52,14 @@
     <body>
       <div xml:id="gd-p2c6q1">
         <head xml:id="gd-p2c6q1-Hd1e103">QUESTIO I. [Rome 1583]</head>
-        <p xml:id="gd-p2c6q1-d1e106">
-          <lb ed="#R"/>Quod autem crimine irretiti alios accusare non pos<lb ed="#R"/>sunt, 
-          <ref>Anacletus Papa testatur, epistola secunda episco<lb ed="#R"/>pis 
-          Italiae</ref> dicens. 
-        </p>
+        <div xml:id="gd-p2c6q1-Dd1e106">
+          <head xml:id="gd-p2c6q1-Hd1e108">Dictum ante c. 1</head>
+          <p xml:id="gd-p2c6q1-d1e106">
+            <lb ed="#R"/>Quod autem crimine irretiti alios accusare non pos<lb ed="#R"/>sunt, 
+            <ref>Anacletus Papa testatur, epistola secunda episco<lb ed="#R"/>pis 
+            Italiae</ref> dicens. 
+          </p>
+        </div>
         <div xml:id="gd-p2c6q1-Dd1e109">
           <head xml:id="gd-p2c6q1-Hd1e111">C. I</head>
           <head xml:id="gd-p2c6q1-Hd1e114" type="question-title">
@@ -159,6 +162,9 @@
             <lb ed="#R"/>sine aliqua sint infamia, vxores &amp; filios habentes, &amp; Christum om<lb ed="#R"/>nino 
             praedicantes.</quote>
           </p>
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e268">
+          <head xml:id="gd-p2c6q1-Hd1e270">Dictum post c. 6</head>
           <p xml:id="gd-p2c6q1-d1e196">
             <pb ed="#R" n="528"/>
             <lb ed="#R"/>Non solum autem criminosi, sed etiam quilibet alii ab accusatione epis<lb ed="#R"/>coporum 
@@ -222,6 +228,9 @@
             <lb ed="#R"/>faciat ea, quae pati non vult? quia omnis suspicio potius repellenda est 
             <lb ed="#R"/>quam approbanda, vel recipienda.</quote> 
           </p>
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e364">
+          <head xml:id="gd-p2c6q1-Hd1e366">Dictum post c. 9</head>
           <p xml:id="gd-p2c6q1-d1e245">
             <lb ed="#R"/>Ipsa autem detractio, licet ex vitio detrahentium, tamen iusto Dei iu<lb ed="#R"/>dicio 
             nonnumquam aduersus bonos excitatur, vt quos vel domestica prae<lb ed="#R"/>sumptio, 
@@ -259,9 +268,10 @@
             inter per infamiam, &amp; bonam famam, qui etiam dicit: [<quote xml:id="gd-p2c6q1-Qd1e407">Vt sedu<lb ed="#R"/>ctores, 
             &amp; veraces</quote>]</quote> 
           </p>
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e444">
+          <head xml:id="gd-p2c6q1-Hd1e446">Dictum post c. 11</head>
           <p xml:id="gd-p2c6q1-d1e280"> 
-            <!--left off  here with text corrections-->
-            <!-- below are just line break corrections -->
             <lb ed="#R"/>Verum hac auctoritate prohibentur spirituales a carnalibus accusari, 
             <lb ed="#R"/>non carnales a spiritualibus. Quod ex verbis eiusdem datur intelligi, qui<lb ed="#R"/>bus 
             in eodem capitulo subiunxit, dicens. [<quote xml:id="gd-p2c6q1-Qd1e418">Capite languescente facilius re<lb ed="#R"/>liqua 
@@ -296,47 +306,50 @@
         <div xml:id="gd-p2c6q1-Dd1e303">
           <head xml:id="gd-p2c6q1-Hd1e305">C. XIII</head>
           <head xml:id="gd-p2c6q1-Hd1e308" type="question-title"> 
-            Subditi prelatos suos accusare non debent.</head>
+            Subditi prelatos suos accusare non debent.
+          </head>
           <p xml:id="gd-p2c6q1-d1e314"> 
-            <lb ed="#R"/>Item <ref xml:id="gd-p2c6q1-Rd1e427">Anterius Papa epistola unica</ref>. 
-            <cit>
-              <quote xml:id="gd-p2c6q1-Qd1e432">
-                Ex merito plebis nonnumquam episcopi deprauantur, quatinus
-                procliuius cadant qui secuntur. Capite languescente cetera corporis membra inficiuntur.
-                Deterioressunt, qui uitam moresque bonorum corrumpunt, his, qui substantias aliorum
-                prediaque diripiunt. Caueat unusquisque, ne aut linguam, aut aures habeat prurientes, id
-                est, ne aut ipse aliis detrahat, aut alios detrahentes audiat. „ Sedens, inquit, „
-                aduersus fratrem tuum loquebaris detrahendo, , , et aduersus filium matris tuae
-                ponebas scandalum/ etc. Parcant singuli detractioni linguae, custodiantque sermones suos,
-                et sciant, quia cuncta, que de aliis loquuntur, sua sententia iudicabuntur. Nemo inuito
-                auditori libenter refert. Offitium singulorum sit, dilectissimi, non solum oculos castos
-                seruare, sed et linguam, nec quid in cuiusquam domo agatur alia domus umquamper eos
-                nouerit. Habeant omnes simplicitatem columbae, ne cuiquam machinentur dolos et serpentis
-                astutiam, ne aliorum subplantentur insidiis.
-              </quote>
-            </cit> 
+            <lb ed="#R"/>Item <ref xml:id="gd-p2c6q1-Rd1e427">Anterius Papa epistola unica.</ref>.
+            <lb ed="#R"/><quote xml:id="gd-p2c6q1-Qd1e432">Ex merito plebis nonnumquam episcopi deprauantur, quati<lb ed="#R"/>nus
+            procliuius cadant qui sequuntur. Capite languescente ce<lb ed="#R"/>tera 
+            corporis membra inficiuntur. Deteriores sunt qui uitam moresque 
+            <lb ed="#R"/>bonorum corrumpunt, his, qui substantias aliorum praediaque diri<lb ed="#R"/>piunt. 
+            Caueat vnusquisque, ne aut linguam, aut aures habeat prurien<lb ed="#R"/>tes, 
+            idest, ne aut ipse aliis detrahat, aut alios audiat detrahentes. [Se<lb ed="#R"/>dens (inquit)
+            aduersus fratrem tuum loquebaris detrahendo [Et ad<lb ed="#R"/>uersus 
+            filium matris tuae ponebas scandalum &amp;] Parcant singuli de<lb ed="#R"/>tractioni 
+            linguae, custodiantque sermones suos, et sciant, quia cuncta, 
+            <lb ed="#R"/>que de aliis loquuntur, sua sententia iudicabuntur. Nemo inuito au<lb ed="#R"/>ditori 
+            libenter refert. Officii singulorum sit, dilectissimi, non solum 
+            <lb ed="#R"/>oculos castos seruare, sed &amp; linguam, nec quid in cuiusquam domo 
+            <lb ed="#R"/>agatur, alia domus per eos vnquam nouerit. Habeant omnes 
+            <lb ed="#R"/>simplicitatem columbae, nec cuiquam machinentur dolos, &amp; serpen<lb ed="#R"/>tis
+            astutiam, ne aliorum supplantentur insidiis.</quote>
           </p>
         </div>
         <div xml:id="gd-p2c6q1-Dd1e321">
           <head xml:id="gd-p2c6q1-Hd1e323">C. XIV</head>
-          <head xml:id="gd-p2c6q1-Hd1e326" type="question-title"> Bonus nocere non cupit. </head>
+          <head xml:id="gd-p2c6q1-Hd1e326" type="question-title">Sapiens nocere non cupit. </head>
           <p xml:id="gd-p2c6q1-d1e329"> 
-            Item <ref xml:id="gd-p2c6q1-Rd1e448">Lucius Papa [epist. unica, Episcopis Galliae et Hispaniae scribens]:</ref> 
-            <cit><quote xml:id="gd-p2c6q1-Qd1e452">Sapiens non est omnis qui nocet.</quote> </cit>
+            <pb ed="#R" n="530"/>
+            <lb ed="#R"/>Item <ref xml:id="gd-p2c6q1-Rd1e448">Lucius Papa epistola unica, episcopis Galliae, &amp; Hispaniae scribens.</ref> 
+            <lb ed="#R"/><quote xml:id="gd-p2c6q1-Qd1e452">Sapiens non est omnis, qui nocet.</quote> 
           </p>
         </div>
         <div xml:id="gd-p2c6q1-Dd1e333">
           <head xml:id="gd-p2c6q1-Hd1e335">C. XV</head>
-          <head xml:id="gd-p2c6q1-Hd1e338" type="question-title"> Raptoribus deteriores episcoporum
-            sunt detractores.</head>
+          <head xml:id="gd-p2c6q1-Hd1e338" type="question-title">
+            Raptoribus deteriores episcoporum sunt detractores.
+          </head>
           <p xml:id="gd-p2c6q1-d1e344"> 
-            Item <ref xml:id="gd-p2c6q1-Rd1e468">An a cie tu s Papa , [epist. III.].</ref> 
-            <cit><quote xml:id="gd-p2c6q1-Qd1e472">Deteriores sunt, qui doctorum uitam moresque corrumpunt,
-            his, qui substantias aliorum prediaque diripiunt. Ipsi enim ea, que extra nos, licet
-            nostra sint, auferunt; nostri quoque detractores, et morum corruptores nostrorum, siue
-            qui aduersus nos armantur, proprie nos ipsos decipiunt*, et ideo iuste infamessunt, et
-            merito ab ecclesia extorres fiunt. Pro meritis ergo plebis sepe pastores deprauantur
-            ecclesiae, ut procliuiuscorruant qui secuntur,</quote></cit> 
+            <lb ed="#R"/>Item <ref xml:id="gd-p2c6q1-Rd1e468">Anacletus Papa, epist. 3</ref> 
+            <lb ed="#R"/><quote xml:id="gd-p2c6q1-Qd1e472">Deteriores sunt, qui doctorum vitam moresque corrumpunt,
+            <lb ed="#R"/>his, qui substantias aliorum praediaque diripiunt. Ipsi enim ea,
+            <lb ed="#R"/>quae extra nos, licet nostra sint, auferunt: nostri quoque detractores, &amp; 
+            <lb ed="#R"/>morum corruptores nostrorum, siue qui aduersus nos armantur, 
+            <lb ed="#R"/>proprie nos ipsos decipiunt: &amp; ideo iuste infames sunt, &amp; merito ab 
+            <lb ed="#R"/>ecclesia extorres fiunt. Pro meritis ergo plebis saepe pastores deprauan<lb ed="#R"/>tur
+            ecclesiae, ut procliuius corruant, qui sequuntur.</quote> 
           </p>
         </div>
         <div xml:id="gd-p2c6q1-Dd1e349">
@@ -344,20 +357,20 @@
           <head xml:id="gd-p2c6q1-Hd1e354" type="question-title"> De eodem.</head>
           <p xml:id="gd-p2c6q1-d1e360"> 
             Item <ref xml:id="gd-p2c6q1-Rd1e488">Alexander , [epist. III.].</ref> 
-            <cit>
-              <quote xml:id="gd-p2c6q1-Qd1e493">
-                Summa iniquitas est fratres detrahere et accusare. Unde
-                scriptum est; 
-                <cit>
-                  <quote xml:id="gd-p2c6q1-Qd1e497" source="http://scta.info/resource/Iio3_15">
-                    Omnis, qui detrahit fratri suo, homicida est, et omnis homicida non habet
-                    partem in regno Dei
-                  </quote>
-                </cit>.
-              </quote>
-            </cit> 
+            <quote xml:id="gd-p2c6q1-Qd1e493">
+              Summa iniquitas est fratres detrahere et accusare. Unde
+              scriptum est; 
+                <quote xml:id="gd-p2c6q1-Qd1e497" source="http://scta.info/resource/Iio3_15">
+                  Omnis, qui detrahit fratri suo, homicida est, et omnis homicida non habet
+                  partem in regno Dei
+                </quote>.
+            </quote>
           </p>
-          <p xml:id="gd-p2c6q1-d1e363"> Gratian. Patet ergo , ut premissum est , quod carnales
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e586">
+          <head xml:id="gd-p2c6q1-Hd1e588">Dictum post c. 16</head>
+          <p xml:id="gd-p2c6q1-d1e363">
+            Patet ergo , ut premissum est , quod carnales
             prohibentur ab accusatione spiritualium , non spirituales ab accusatione carnalium. </p>
           <p xml:id="gd-p2c6q1-d1e367"> II. Pars. §. i. Cum itaque criminosi et infames ab
             accusationibus prohibeantur , uidendum est , quos canonum sacra auctoritas infames
@@ -417,7 +430,10 @@
               </quote>
             </cit>
           </p>
-          <p xml:id="gd-p2c6q1-d1e415"> Gratian. Sed licet infames ab accusatione episcoporum
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e656">
+          <head xml:id="gd-p2c6q1-Hd1e658">Dictum post c. 19</head>
+          <p xml:id="gd-p2c6q1-d1e415">Sed licet infames ab accusatione episcoporum
             prohibeantur , non tamen isti ab huius accusatione prohibendi sunt , Hereticos namque
             accusare infamibus non prohibetur, ut supra patuit in ea causa, ubi de accusatione
             minorum aduersus maiores disputatum est, </p>
@@ -436,7 +452,7 @@
           </p>
         </div>
         <div xml:id="gd-p2c6q1-Dd1e435">
-          <head xml:id="gd-p2c6q1-Hd1e437">C. XX</head>
+          <head xml:id="gd-p2c6q1-Hd1e437">C. XXI</head>
           <head xml:id="gd-p2c6q1-Hd1e440" type="question-title"> Dubium est, an sciens auarus, an
             nesciens hereticus grauius peccet.</head>
           <p xml:id="gd-p2c6q1-d1e443"> 
@@ -458,7 +474,11 @@
             Item <ref xml:id="gd-p2c6q1-Rd1e608">[c. 20. eiusdem libri]:</ref> §. 1. Utrum catholicum pessimis moribus alicui
             heretico, in cuius uita, preter id, quod hereticus est, non inueniunt homines quod
             reprehendant, preponere debeamus, non audeo precipitare sententiam. </p>
-          <p xml:id="gd-p2c6q1-d1e446"> , IV. Pars. Gratian. Verum hoc Augustini, et illud de
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e707">
+          <head xml:id="gd-p2c6q1-Hd1e709">Dictum post c. 21</head>
+          <p xml:id="gd-p2c6q1-d1e446">
+            Verum hoc Augustini, et illud de
             infamium accusatione, de his intelligendum est, , quos constat esse hereticos, non de
             his, qui se negant in heresim lapsos. Hic autem in omnibus religiosus aparens, dum se
             negat hereticae communionis aliquando macula infectum, infames atque alios huiusmodi a
@@ -488,12 +508,15 @@
             uenia, qui pro talibus umquam apud nos interuenire temptauerint.</quote></cit>
           </p>
           <p xml:id="gd-p2c6q1-d1e632">
-            §. 1. <cit><quote xml:id="gd-p2c6q1-Qd1e635">Sane, si quis
+            §. 1. <quote xml:id="gd-p2c6q1-Qd1e635">Sane, si quis
             exhis in exordio initae factionis, studio uerae laudis accensus, ipse prodiderit^
             factionem, et premio a nobis et honore donabitur . Is uero, qui usus fuerit factione, si
             sero , tamen incognita adhuc consiliorum archana patefecerit, absolutione tantum ac uenia
-            dignus habebitur “.</quote></cit> 
+            dignus habebitur.</quote> 
           </p>
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e740">
+          <head xml:id="gd-p2c6q1-Hd1e742">Dictum post c. 22</head>
           <p xml:id="gd-p2c6q1-d1e459"> [Gratian.] Porro symoniae accusatio ad instar lesae
             maiestatis procedere debet, sicut <ref>Leo inperator in 1. lib. Codicis decreuisse legitur,
             tit. de episcopis et clericis, l.</ref> Si quenquam procedere debet °. Quod de accusatione,
@@ -513,6 +536,9 @@
               </quote>
             </cit> 
           </p>
+        </div>
+        <div xml:id="gd-p2c6q1-Dd1e770">
+          <head xml:id="gd-p2c6q1-Hd1e772">Dictum post c. 23</head>
           <p xml:id="gd-p2c6q1-d1e472"> Gratian. Sed cum omnes illi assumuntur in accusatione
             symoniae, qui possunt accussare de crimine maiestatis, constat, quod sicut ibi non
             dubitatur de crimine maiestatis, sed an reus commiserit illud, sic et hic non negatur

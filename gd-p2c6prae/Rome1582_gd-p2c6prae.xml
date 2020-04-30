@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Initium [Rome 1582]</title>
+        <author ref="#Gratian">Gratian</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Initium [Rome 1582]</title>
+          <date when="2020-04-20">April 20, 2020</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="R" n="Rome1582">Rome 1582</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2020-04-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#R" n="526"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="gd-p2c6prae">
+        <head xml:id="gd-p2c6prae-Hd1e103">Initium</head>
+        <p xml:id="gd-p2c6prae-d1e106">
+          <pb ed="#R" n="526"/>
+          <lb ed="#R" n="1"/>DVo fornicatores, &amp; infamia notati quendam reli<lb ed="#R"/>giosum
+          episcopum de simonia accusare nituntur: 
+          <lb ed="#R"/>reus alterius prouinciae archiepiscopi iudicium ex<lb ed="#R"/>petit: 
+          tandem in probatione deficit accusator: reus 
+          <lb ed="#R"/>cogitur ad suae innocentiae assertionem. 
+          <lb ed="#R"/>Hic primum quaeritur; an crimine irretiti, vel 
+          infamia notati ad huiusmodi accusationem sint admittendi.
+          <lb ed="#R"/>Secundo, si episcopus in eos accusationem uertere voluerit, an simplici 
+          <lb ed="#R"/>assertioni suae sit fides habenda?.
+          <lb ed="#R"/>Tertio , si liceat sibi expetere iudicium archiepiscopi alterius prouinciae. 
+          <lb ed="#R"/>Quarto, cuius iudicium sibi sit expetendum, si circa suam sententiam epi<lb ed="#R"/>scopos 
+          suae prouinciae discordare contigerit? 
+          <lb ed="#R"/>Quinto, si in probatione deficit accusator, an reus sit cogendus ad proba<lb ed="#R"/>tionem 
+          suae innocentiae. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
