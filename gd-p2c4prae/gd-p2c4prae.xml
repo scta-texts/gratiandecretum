@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>CAUSA IV.</title>
+        <title>CAUSA IV., Initium</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,21 +52,23 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="gd-p2c4prae">
-        <head xml:id="gd-p2c4prae-Hd1e103">CAUSA IV.</head>
-        <p xml:id="gd-p2c4prae-d1e106"> Quidam in excommunicatione constitutus episcopum accusare
-          disponit; adolescentem infra decimum et quartum etatis suae*annum ad assertionem suae
+      <div xml:id="gd-p2c4prae" type="g2-p2c4prae-et">
+        <head xml:id="gd-p2c4prae-Hd1e103">Initium</head>
+        <p xml:id="gd-p2c4prae-d1e106"> 
+          Quidam in excommunicatione constitutus episcopum accusare
+          disponit; adolescentem infra decimum et quartum etatis suae annum ad assertionem suae
           causae adducit; prohibitus ab accusatione adolescentem accusatorem et se testem facit;
-          adolescenspersonam accusatoris et testis gerere cupit; die statuta ad electorum iudicum
-          iudicium episcopus minime occurrit; a communionesuspenditur; tandem renouato iudicio
-          accusator culpabilis inaccusatione inuenitur; demum ad assertionem propriae causaeprocedit
-          . (Qu. I.) Hic primum queritur, an in excommunicatione constitutus alium accusare ualeat?
-          (Qu. II.) Secundo, aninfra decimum quartum annum in criminali causa testari quispossit?
-          (Qu. III.) Tertio, utrum^ ob accusatione prohibituspersonam testificantis possit assumere?
-          (Qu. IV.) Quarto, anidem possit esse accusator et testis? (Qu. V.) Quinto, an
-          dieconstituta non occurrens a communione sit remonendus? (Qu. VI.) Sexto, si in
-          episcoporum iudicio accusatoris personaculpabilis inuenta fuerit , an ad assertionem
-          propriae causae decetero sit admittenda? </p>
+          adolescens personam accusatoris et testis gerere cupit; die statuta ad electorum iudicum
+          iudicium episcopus minime occurrit; a communione suspenditur; tandem renouato iudicio
+          accusator culpabilis in accusatione inuenitur; demum ad assertionem propriae causae procedit. 
+          (Qu. I.) Hic primum queritur, an in excommunicatione constitutus alium accusare ualeat?
+          (Qu. II.) Secundo, an infra decimum quartum annum in criminali causa testari quis possit?
+          (Qu. III.) Tertio, utrum ob accusatione prohibitus personam testificantis possit assumere?
+          (Qu. IV.) Quarto, an idem possit esse accusator et testis? (Qu. V.) Quinto, an
+          die constituta non occurrens a communione sit remonendus? (Qu. VI.) Sexto, si in
+          episcoporum iudicio accusatoris persona culpabilis inuenta fuerit , an ad assertionem
+          propriae causae de cetero sit admittenda? 
+        </p>
       </div>
     </body>
   </text>

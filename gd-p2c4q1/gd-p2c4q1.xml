@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,49 +52,66 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="gd-p2c4q1">
+      <div xml:id="gd-p2c4q1" type="gd-p2c4q1-et">
         <head xml:id="gd-p2c4q1-Hd1e103">QUESTIO I.</head>
-
-        <p xml:id="gd-p2c4q1-d1e106"> De prima questione sic statutum legitur in Concilio Carta
-          -ginensfi* VII., cui interfuit Faustinus Romanae ecclesiae legatus: </p>
-        <div xml:id="gd-p2c4q1-Dd1e109">
-          <head xml:id="gd-p2c4q1-Hd1e111">C. I</head>
-          <head xml:id="gd-p2c4q1-Hd1e114" type="question-title"> Ad accusandum non admittitur qui
-            in excommunicatione perseuerat. </head>
-          <p xml:id="gd-p2c4q1-d1e117"> Diffinimus, eum rite ad accusationem non admitti, qui
-            posteaquam excommunicatus fuerit, in ipsa adhuc ex- </p>
-
-
-
-
-          <p xml:id="gd-p2c4q1-d1e120"> communicatione constitutus, siue sit clericus siue laicus,
-            accusare uoluerit. §. i. Omnes etiam infamiae maculis aspersi, id est histriones aut
-            turpitudinibus subiectaepersonae, heretici etiam, siue pagani siue Iudei, ab accusatione
-            prohibentur*. </p>
+        <div xml:id="gd-p2c4q1-Dd1e106" type="gd-p2c4q1ac1-et">
+          <head xml:id="gd-p2c4q1-Hd1e108">Dictum ante c. 1</head>
+          <p xml:id="gd-p2c4q1-d1e106">
+            De prima questione sic statutum legitur in <ref xml:id="gd-p2c4q1-Rd1e113">Concilio Cartaginensfi VII</ref>, 
+            cui interfuit Faustinus Romanae ecclesiae legatus: 
+          </p>
         </div>
-        <div xml:id="gd-p2c4q1-Dd1e124">
+        <div xml:id="gd-p2c4q1-Dd1e109" type="gd-p2c4q1c1-et">
+          <head xml:id="gd-p2c4q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c4q1-Hd1e114" type="question-title"> 
+            Ad accusandum non admittitur qui
+            in excommunicatione perseuerat. 
+          </head>
+          <p xml:id="gd-p2c4q1-d1e117"> 
+            <cit>
+              <quote xml:id="gd-p2c4q1-Qd1e130">
+                Diffinimus, eum rite ad accusationem non admitti, qui
+                posteaquam excommunicatus fuerit, in ipsa adhuc excommunicatione constitutus, 
+                siue sit clericus siue laicus,
+                accusare uoluerit.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c4q1-d1e135">
+            §. i. Omnes etiam infamiae maculis aspersi, id est histriones aut
+            turpitudinibus subiectaepersonae, heretici etiam, siue pagani siue Iudei, ab accusatione
+            prohibentur. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c4q1-Dd1e124" type="gd-p2c4q1c1-et">
           <head xml:id="gd-p2c4q1-Hd1e126">C. II</head>
           <head xml:id="gd-p2c4q1-Hd1e129" type="question-title"> Heretici probantur qui scismate
             uel excommunicatione ab ecclesia sunt separati . </head>
-          <p xml:id="gd-p2c4q1-d1e132"> Item Nicolaus Papa [in epistola ad Michaelem Imperatorem,
-            cuius initium est: „Proposueramus."] </p>
-          <p xml:id="gd-p2c4q1-d1e135"> Quod autem hi, qui iam a fato fratre et con-ministro nostro
-            Ignatio depositi uel excommunicati uel anathematizati fuerant, nullam aduersus eum
-            intorquere dampnationem potuerunt, ex prolato* secundaeuniuersalis sinodi capitulo
-            declaratur, cum dicitur: , , Siuero ecclesiasticum fuerit crimen, quod episcopo
-            illatumfuerit, tunc probari oportet accusantium personas, utprimo quidem hereticis non
-            liceat accusationes contraorthodoxos facere episcopos pro ecclesiasticis negotiis.Sed ne
-            hos hereticos esse denegemus, audite sequentia:„Hereticos autem (inquiunt) dicimus tam
-            eos, qui olimab ecclesia** proiecti sunt, quam qui post hec a nobisanathematizati sunt."
-            Porro, si adhuc nec sic creditis, auditeuod subditur: „Preter hos autem (aiunt) et eos,
-            quidem simulant sanam confiteri, scismaticos esseetiam*** eos qui seorsum a
-            communicantibus nobisepiscopis collectas faciunt. Deinde uero, et si quidam abecclesia
-            super causis quibusdam reprehensi sunt s, et proiecti aut excommunicati, siue ex clero
-            siue ex laicali ordine, nec his licere accusare episcopum ante, quam crimine proprio
-            exuantur primitus. Similiter autem et eos, qui subaccusatione priori existunt, non ante
-            esse acceptabiles inepiscopi accusatione aut aliorum clericorum, quam innoxiossemetipsos
-            illatorum sibi ostenderint criminum." Quidautem periculi regulae huius contemptoribus
-            inmineat, nonignoratis. </p>
+          <p xml:id="gd-p2c4q1-d1e1X5"> 
+            Item <ref xml:id="gd-p2c4q1-Rd1e149">Nicolaus Papa [in epistola ad Michaelem Imperatorem,
+            cuius initium est: „Proposueramus."]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c4q1-Qd1e154">
+                Quod autem hi, qui iam a fato fratre et conministro nostro
+                Ignatio depositi uel excommunicati uel anathematizati fuerant, nullam aduersus eum
+                intorquere dampnationem potuerunt, ex prolato secundae uniuersalis sinodi capitulo
+                declaratur, cum dicitur: <!--quote start; not sure where it ends -->Si uero ecclesiasticum fuerit crimen, quod episcopo
+                illatum fuerit, tunc probari oportet accusantium personas, ut primo quidem hereticis non
+                liceat accusationes contra orthodoxos facere episcopos pro ecclesiasticis negotiis. Sed ne
+                hos hereticos esse denegemus, audite sequentia:<quote xml:id="gd-p2c4q1-Qd1e158">Hereticos autem (inquiunt) dicimus tam
+                eos, qui olim ab ecclesia proiecti sunt, quam qui post hec a nobis anathematizati sunt.</quote>
+                Porro, si adhuc nec sic creditis, audite quod subditur: <quote xml:id="gd-p2c4q1-Qd1e161">Preter hos autem (aiunt) et eos,
+                quidem simulant sanam confiteri, scismaticos esseetiam eos qui seorsum a
+                communicantibus nobis episcopis collectas faciunt. Deinde uero, et si quidam abecclesia
+                super causis quibusdam reprehensi sunt s, et proiecti aut excommunicati, siue ex clero
+                siue ex laicali ordine, nec his licere accusare episcopum ante, quam crimine proprio
+                exuantur primitus. Similiter autem et eos, qui subaccusatione priori existunt, non ante
+                esse acceptabiles inepiscopi accusatione aut aliorum clericorum, quam innoxiossemetipsos
+                illatorum sibi ostenderint criminum.</quote> Quid autem periculi regulae huius contemptoribus
+                inmineat, nonignoratis.
+              </quote>
+            </cit> 
+          </p>
         </div>
       </div>
     </body>
