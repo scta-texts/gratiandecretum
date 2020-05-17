@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -66,19 +64,21 @@
             aut ad annum XIV. nondum peruenerunt, testes esse non possunt. </head>
           <p xml:id="gd-p2c4q2et3-d1e117"> Testes autem ad testimonium non admittendos essecensemus,
             qui nec ad accusationem admitti iussi sunt, ueletiam quos ipse accusator de domo sua
-            produxerit. Adtestimonium autem intra annos quatuordecim etatis suaeconstituti non
+            produxerit. Ad testimonium autem intra annos quatuordecim etatis suaeconstituti non
             admittantur. </p>
-          <p xml:id="gd-p2c4q2et3-d1e120"> [PALE A. </p>
+          
         </div>
         <div xml:id="gd-p2c4q2et3-Dd1e124">
-          <head xml:id="gd-p2c4q2et3-Hd1e126">C. II.</head>
+          <head xml:id="gd-p2c4q2et3-Hd1e126">C. II. [PALE A.]</head>
           <head xml:id="gd-p2c4q2et3-Hd1e129" type="question-title">De eodem.</head>
 
-          <p xml:id="gd-p2c4q2et3-d1e132"> Item ex Concilio Maticensi, c. 6. </p>
-          <p xml:id="gd-p2c4q2et3-d1e135"> Placuit sancto conuentui, ut testes ad testimonium
+          <p xml:id="gd-p2c4q2et3-d1e132">  </p>
+          <p xml:id="gd-p2c4q2et3-d1e135"> Item ex <ref xml:id="gd-p2c4q2et3-Rd1e134">Concilio Maticensi, c. 6.</ref>
+            <cit><quote xml:id="gd-p2c4q2et3-Qd1e138">Placuit sancto conuentui, ut testes ad testimonium
             dicendum precio non conducantur, et ut quique optimi etfideliores in testimonium
             assumantur, ut is, contra quemtestimonium ferre debent, nullam eis possit
-            afferrecalumpniam, et ut nullus testimonium dicat nisi ieiunus.] </p>
+            afferrecalumpniam, et ut nullus testimonium dicat nisi ieiunus.]</quote></cit> 
+          </p>
           <p xml:id="gd-p2c4q2et3-d1e138"> II. Pars. Gratian. Item in criminali causa: , , Produci
             testis non potest, qui ante in eum reum testimonium dixit , sicutin 22. lib. Dig. Ut. de
             testibus, [lege 23.] inuenitur. Item tit. eod. [ 1 . Ob. carmen. §. Si testes:] </p>
@@ -91,114 +91,218 @@
             est, quod naturae negotii conuenit, et quod inimicitiae aut gratiaesuspicione caret,
             confirmabitque iudex motum animi sui ex argumentis et testimoniis, que rei aptiora esse‘
             conpererit. Nonenim ad multitudinem respici oportet, sed ad sinceram testimoniorum
-            fidem, et testimonia, quibus potius lux ueritatis assistit . Item [lege 2., ff. eod.]:
+            fidem, et testimonia, quibus potius lux ueritatis assistit .
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e154">
+            Item [lege 2., ff. eod.]:
             §. 1. In testibus fides, dignitas, mores, grauitas moderanda^s est , et ideo testes, qui
-            aduersus fidem suaetestationis uacillant, audiendi non sunt. Item [lege 3.]:§. 2. </p>
-          <p xml:id="gd-p2c4q2et3-d1e150"> Testium fides diligenter examinanda est, ideoque in
+            aduersus fidem suaetestationis uacillant, audiendi non sunt.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e150">
+            Item [lege 3.]:§. 2. 
+            Testium fides diligenter examinanda est, ideoque in
             persona eorum exploranda erunt inprimis conditio cuiusque, utrum quis decurio , an
             plebeius sit, et an honestae et inculpatae uitae, an uero notatusquis et
             reprehensibilis, an locuples, an egenus sit, ut % lucricausa quid facile admittat, uel
             an ei inimicus sit, aduersus quemtestimonium fert, uel amicus ei sit , pro quo
             testimonium dat . Nam si careat suspicione testimonium, uel propter personam, aqua
-            profertur*, quod honesta sit, uel propter causam , quod </p>
-
-
-
-
-          <p xml:id="gd-p2c4q2et3-d1e153"> neque lucri, neque gratiae, neque inimicitiae causa sit ,
-            admittendum est. Item [eadem lege paulo inferius:] </p>
-          <p xml:id="gd-p2c4q2et3-d1e156"> III. Pars. §.3. Lege Iulia de ui cauetur, ne hac lege in </p>
-          <p xml:id="gd-p2c4q2et3-d1e160"> reum testimonium dicere liceret qui° se ab eo parenteue
+            profertur*, quod honesta sit, uel propter causam , quod neque lucri, neque gratiae, neque inimicitiae causa sit ,
+            admittendum est. Item [eadem lege paulo inferius:] 
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e156"> III. Pars. §.3. Lege Iulia de ui cauetur, ne hac lege in 
+            reum testimonium dicere liceret qui° se ab eo parenteue
             eius liber auerit, quiue impuberes erunt p, quiue iudicio publico dampnatus erit, qui
             eorum in integrum restitutus non erit, quiue ^eorum in uinculis custodiaue publica erit,
             quiue ad bestias, utdepugnaret , se locauerit, quiue palam questum faciet feceritue,
             quiue ob testimonium dicendum uel non dicendum pecuniam accepisse iudicatus uel
-            conuictus erit. Item [ 1 . 4.]: §. 4.Ze^e Iulia indiciorum publicorum cauetur, ne inuito
+            conuictus erit.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e164">
+            Item [ 1 . 4.]: §. 4.Ze^e Iulia indiciorum publicorum cauetur, ne inuito
             denuncietur, ni testimonium dicat aduersus socerum, generum, uitricum, priuignum,
-            sobrinum, sobrinam, sobrino natum, eosue, quipriore gradu sani. §. 5. Item, ne liberto
-            ipsius, libe-rorumue eius, parentum uiri uxoris*. §.6. Item patronipatronae Y, et ut ne
+            sobrinum, sobrinam, sobrino natum, eosue, quipriore gradu sani.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e167">
+            §. 5. Item, ne liberto
+            ipsius, libe-rorumue eius, parentum uiri uxoris*.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e170">
+            §.6. Item patronipatronae Y, et ut ne
             patroni patronae ** aduersus libertos, neque liberti aduersus patronum cogantur
-            testimonium dicere. §. 7. Cum autem excipitur, ne ?ener ani socer inuitus testimonium
+            testimonium dicere.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e173">
+            §. 7. Cum autem excipitur, ne ?ener ani socer inuitus testimonium
             dicere cogatur, generi appellatione sponsum quoque filiaecontineri placet. Item soceri
-            sponsae patrem. Item [lege 6.]:§. 8. Idonei non uidentur esse testes, quibus inperari
-            potest uttestes fiant. Item [lege 7.]: §. 9. tferm responso tunc credendumest, cnm a/?a
-            probatio ad eruendam ueritatem non est. Item [lege 8.]:§. 10. Inuiti testimonium dicere
-            non cogantur </p>
-          <p xml:id="gd-p2c4q2et3-d1e163"> senes, ualitudinarii, uel milites, uel illi , gm cnm
-            magistratu reip. causa absunt, uel quibus uenire non licet. Item [lege 19.]: §. 11.
-            Publicani etiam non dicunt testimonium inuiti. §. 12. Item is, qui non detractandi
-            testimonii causa aberit. §. 13. Item is, qui exercitui prebendam conduxerit. Sed nec
-            pupillis testi </p>
-          <p xml:id="gd-p2c4q2et3-d1e166"> monium denunciari -potest. /iem [ 1 . 20.:] §.14. In
+            sponsae patrem.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e176">
+            Item [lege 6.]:§. 8. Idonei non uidentur esse testes, quibus inperari
+            potest uttestes fiant.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e179">
+            Item [lege 7.]: §. 9. tferm responso tunc credendumest, cnm a/?a
+            probatio ad eruendam ueritatem non est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e183">
+            Item [lege 8.]:§. 10. Inuiti testimonium dicere
+            non cogantur 
+            senes, ualitudinarii, uel milites, uel illi , gm cnm
+            magistratu reip. causa absunt, uel quibus uenire non licet.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e186">
+            Item [lege 19.]: §. 11.
+            Publicani etiam non dicunt testimonium inuiti.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e189">
+            §. 12. Item is, qui non detractandi
+            testimonii causa aberit.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e192">
+            §. 13. Item is, qui exercitui prebendam conduxerit. Sed nec
+            pupillis testi monium denunciari -potest.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e195">
+            Item [ 1 . 20.:] §.14. In
             testimonium accusator citare non debet eum, qui publico iudicio reus erit, aut qui minor
-            uiginti annis erit. [1. 21.] : §«15. 0&amp; carmen famosum dampnatus intestabilis erit
-            ss. Item: §. 16.*Sx res exigit, non tantum priuati, sed etiam magistratus, si inpresenti
+            uiginti annis erit. [1. 21.] :
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e198">
+            §15. 0&amp; carmen famosum dampnatus intestabilis erit
+            ss.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e202">
+            Item: §. 16.*Sx res exigit, non tantum priuati, sed etiam magistratus, si inpresenti
             sint, testimonium dicant. Pretor quoque testimoniumdare debet in iudicio de ' adulterii
-            causa. §. 17. *SV autem ea conditio rei sit, ubi arenarium testem uel similem
-            personamadmittere cogimur , szne tormento testimonio eius credendum non est. Item [
-            I.24.]:§. 18. Testes, quos accu </p>
-          <p xml:id="gd-p2c4q2et3-d1e169"> sator de domo produxerit, interrogari non placuit. [ 1 .
-            25«]PP:§. 19. Patroni quoque in causa, cui patrocinium </p>
-          <p xml:id="gd-p2c4q2et3-d1e172"> prestant qq, testimonium non dicant, quod etiam in
-            execu-toribus negotiorum obseruandum est. Item [lege 16.]: </p>
-          <p xml:id="gd-p2c4q2et3-d1e175"> IV. Pars. §. 20. Qwe falso uel uarie dixerunt, </p>
-
-          <p xml:id="gd-p2c4q2et3-d1e179"> testimonia uel utrique parti prodiderunt a iudicibus
-            conpetenter puniuntur . Item [ 1 . 17.]: §. 21. Pater et filius, qui inpotestate eius
-            est, item duo fratres, qui in eiusdem potestatesunt, utrique in eodem testamento, uel
-            eodem negotio testespossunt fieri, quoniam nichil nocet ex una domo plures
-            testesadhiberi alieno negotio. Item [ 1 . 15.]: §. 22. Hermafroditus anad testamentum
-            adhiberi possit, qualitas sexus incalescentisostendit. Item [ 1 . 9.]: §. 23. Testis
-            idoneus pater filio, autfilius patri non est. [ 1 . io.l: §. 24. Nullus idoneus testis
-            inre sua intelligitur. Item [ 1 . 11.]: §. 25. Ad fidem rei gestaefaciendam etiam non
-            rogatus testis intelligitur. Item [ 1 .12.]: §.26. Ubi numerus testium non adicitur,
-            etiam duo sufficient.Pluralis enim elocutio duorum numero contenta est. Item </p>
-          <p xml:id="gd-p2c4q2et3-d1e182"> P* 3*]i §• 27. In testibus considerandum est, qui
+            causa.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e205">
+            §. 17. *SV autem ea conditio rei sit, ubi arenarium testem uel similem
+            personam admittere cogimur , szne tormento testimonio eius credendum non est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e208">
+            Item [I.24.]:§. 18. Testes, quos accusator de domo produxerit, interrogari non placuit. [ 1 .
+            25«]PP:§. 19. Patroni quoque in causa, cui patrocinium  prestant qq, testimonium non dicant, quod etiam in
+            execu-toribus negotiorum obseruandum est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e211">
+            Item [lege 16.]: IV. Pars. §. 20. Qwe falso uel uarie dixerunt, 
+            testimonia uel utrique parti prodiderunt a iudicibus
+            conpetenter puniuntur .
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e214">
+            Item [ 1 . 17.]: §. 21. Pater et filius, qui in potestate eius
+            est, item duo fratres, qui in eiusdem potestate sunt, utrique in eodem testamento, uel
+            eodem negotio testes possunt fieri, quoniam nichil nocet ex una domo plures
+            testes adhiberi alieno negotio.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e217">
+            Item [ 1 . 15.]: §. 22. Hermafroditus anad testamentum
+            adhiberi possit, qualitas sexus incalescentis ostendit.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e221">
+            Item [ 1 . 9.]: §. 23. Testis
+            idoneus pater filio, aut filius patri non est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e224">
+            [ 1 . io.l: §. 24. Nullus idoneus testis
+            in re sua intelligitur. 
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e227">
+            Item [ 1 . 11.]: §. 25. Ad fidem rei gestaefaciendam etiam non
+            rogatus testis intelligitur.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e230">
+            Item [ 1 .12.]: §.26. Ubi numerus testium non adicitur,
+            etiam duo sufficient.Pluralis enim elocutio duorum numero contenta est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e233">
+            Item P* 3*]i §• 27. In testibus considerandum est, qui
             simpliciter testimonium dicant**, utrum unum, eundemqueYY meditatum sermonem
-            afferant***, an ad ea, que interrogantur, ex tempore uerisimilia respondeant . Item §.
-            28. Sepe sine publicis monumentis cuiuscumque rei ueritas deprehenditur; alias numerus
+            afferant***, an ad ea, que interrogantur, ex tempore uerisimilia respondeant .
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e236">
+            Item §.28. Sepe sine publicis monumentis cuiuscumque rei ueritas deprehenditur; alias numerus
             testium, alias dignitas et auctoritas, aliasueluti consentiens fama confirmat rei, de
-            qua queritur, fidem.Non ergo ad unam probationis speciem cognitionem suam iudex alligare
+            qua queritur, fidem. Non ergo ad unam probationis speciem cognitionem suam iudex alligare
             debet, sed ex sententia animi sui estimare, quid aut credat, aut parum sibi probatum
-            opinetur. Item ! 24 fff §. 29. Alia est auctoritas presentium testium, alia
-            testimoniorum, aue recitari solent. Item Codicis lib. IV. tit. de testibus. [ 1 . 2.]
-            sgg: §. 30. Soli testes ad probationem ingenuitatis non </p>
-          <p xml:id="gd-p2c4q2et3-d1e185"> sufficiunt, nisi instrumentis et argumentis adiuuentur.
-            Item [ 1 . 3.]: §.31. Etiam iure ciuili domestici fides inprobatur.Item [ 1 . 4.]:§. 32.
-            Solam testatione prolatam, nec aliis </p>
-          <p xml:id="gd-p2c4q2et3-d1e188"> legitimis amminiculis causa approbata nullius esse
-            momenti certum est. Item [ 1 .5.]: §.33. Eos testes ad adiuuandam ueritatem adhiberi
+            opinetur.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e240">
+            Item ! 24 fff §. 29. Alia est auctoritas presentium testium, alia
+            testimoniorum, aue recitari solent.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e243">
+            Item Codicis lib. IV. tit. de testibus. [ 1 . 2.]
+            sgg: §. 30. Soli testes ad probationem ingenuitatis non sufficiunt, nisi instrumentis et argumentis adiuuentur.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e246">
+            Item [ 1 . 3.]: §.31. Etiam iure ciuili domestici fides inprobatur.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e249">
+            Item [ 1 . 4.]:§. 32.
+            Solam testatione prolatam, nec aliis  legitimis amminiculis causa approbata nullius esse
+            momenti certum est.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e252">
+            Item [ 1 .5.]: §.33. Eos testes ad adiuuandam ueritatem adhiberi
             oportet, qui omni gratiae et potentatui fidemreligioni iudiciariae debitam possunt
-            preponere. Item [ 1 . 6.]:§. 34. Parentes et liberi inuicem aduersus se nec uolentes
-            adtestimonium admittendi sunt. Item [ 1 . 7.]: §. 35. Qui intendit, suae intentioni
-            proprias debet afferre probationes, nonpetere aduersarium cogi ad exhibitionem eorum,
-            per quos ** sibinegotium fiat. Item [ 1 . 8.]: §. 36. Serui neque pro domino,
-            nequeaduersus dominum, sed pro facto suo interrogari possunt. Item [1. 9.]: §.37.
-            lurisiurandi religione testes prius, quam perhibeanttestimonium, cohercentur ***, ei
-            honestioribus potius testibus fides adhibeatur . §. 38. Unius uero testimonium
-            nemoiudicum in quacumque causa facile patiatur admitti; imo uniustestis responsio omnino
-            non audiatur, etiamsi presidiali PPP </p>
-
-
-
-
-          <p xml:id="gd-p2c4q2et3-d1e191"> curiae honore prefulgeat. Item [ 1 . io.]: §. 39. Omnibus
-            in re propria dicendi testimonia w facultatem iura submouerunt.Item [ 1 . 11.]: §. 40.
+            preponere.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e255">
+            Item [ 1 . 6.]:§. 34. Parentes et liberi inuicem aduersus se nec uolentes
+            ad testimonium admittendi sunt.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e259">
+            Item [ 1 . 7.]: §. 35. Qui intendit, suae intentioni
+            proprias debet afferre probationes, non petere aduersarium cogi ad exhibitionem eorum,
+            per quos ** sibi negotium fiat.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e262">
+            Item [ 1 . 8.]: §. 36. Serui neque pro domino,
+            neque aduersus dominum, sed pro facto suo interrogari possunt.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e265">
+            Item [1. 9.]: §.37.
+            lurisiurandi religione testes prius, quam perhibeant testimonium, cohercentur ***, ei
+            honestioribus potius testibus fides adhibeatur .
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e268">=
+            §. 38. Unius uero testimonium
+            nemo iudicum in quacumque causa facile patiatur admitti; imo unius testis responsio omnino
+            non audiatur, etiamsi presidiali PPP curiae honore prefulgeat.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e271">
+            Item [ 1 . io.]: §. 39. Omnibus
+            in re propria dicendi testimonia w facultatem iura submouerunt.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e274">
+            Item [ 1 . 11.]: §. 40.
             Liberi testes ad causas postulentur ' alienas, si socii et participes criminis non
-            dicantur, sed fides abhiis notitiae postuletur. Venturis autem ad iudicium
+            dicantur, sed fides ab hiis notitiae postuletur. Venturis autem ad iudicium
             peraccusatorem , aut ab his, per quos fuerant postulati, sumptus competentes
             ministrentur, etiamsi in pecuniaria causa ab alterutra parte testes sint producendi.
-            Item [I.12.]: §.41. Liberti aduersus patronos sponte prodire^ nonaudeant, sed nec uocati
-            quidem in iudicio uenirecogantur. Item [ 1 . 17.] §.42. Si quis testibus usus fuerit,
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e278">
+            Item [I.12.]: §.41. Liberti aduersus patronos sponte prodire^ non audeant, sed nec uocati
+            quidem in iudicio ueni recogantur.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e281">
+            Item [ 1 . 17.] §.42. Si quis testibus usus fuerit,
             iidem-que testes aduersus eum in alia lite producantur, non licebit eieorum personas
-            excipere, nisi ostenderit, inimicitias inter se et illospostea emersas fuisse yw, ex
+            excipere, nisi ostenderit, inimicitias inter se et illos postea emersas fuisse yw, ex
             quibus testes repelli leges precipiunt , non adimenda scilicet ei licentia ex ipsis
-            depositionibustestimonium eorum arguere. §. 43. Sed et si liquidis probationibus ®
-            datione uel promissione pecuniarum eos corruptos ^ esseostenderit, eam etiam
-            allegationem integram ei seruari oportet .“ </p>
+            depositionibus testimonium eorum arguere.
+          </p>
+          <p xml:id="gd-p2c4q2et3-d1e284">
+            §. 43. Sed et si liquidis probationibus ®
+            datione uel promissione pecuniarum eos corruptos ^ esse ostenderit, eam etiam
+            allegationem integram ei seruari oportet .“ 
+          </p>
           <p xml:id="gd-p2c4q2et3-d1e194"> [Gratian.] Sed obicitur illud beati Bricii , qui uoce
-            pueri triginta dies ab ortu habentis innocens probatus est. Sed miraculadiuina sunt
-            admiranda, non in exemplum humanae actionis trahenda. </p>
+            pueri triginta dies ab ortu habentis innocens probatus est. Sed miracula diuina sunt
+            admiranda, non in exemplum humanae actionis trahenda. 
+          </p>
         </div>
       </div>
     </body>
