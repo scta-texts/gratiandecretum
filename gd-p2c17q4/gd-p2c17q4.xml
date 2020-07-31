@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,242 +54,405 @@
     <body>
       <div xml:id="gd-p2c17q4">
         <head xml:id="gd-p2c17q4-Hd1e103">QUESTIO IV.</head>
-
-        <p xml:id="gd-p2c17q4-d1e106"> I. Pars. Si autem sine licentia abbatis de monasterio
-          discesserit, queritur, utrum sua sint ei reddenda, an non ? Sedpossessiones et res
-          ecclesiae traditas quolibet modo alienare necabbati, nec alicui licet. </p>
-        <p xml:id="gd-p2c17q4-d1e109"> Unde Simacus Papa: „Possessiones quas unusquisque etc.“ Et
-          iterum ^: </p>
+        <div xml:id="gd-p2c17q4-Dd1e106">
+          <head xml:id="gd-p2c17q4-Hd1e108">Dictum ante c. 1</head>
+          <p xml:id="gd-p2c17q4-d1e106">
+            I. Pars. Si autem sine licentia abbatis de monasterio
+            discesserit, queritur, utrum sua sint ei reddenda, an non ? Sed possessiones et res
+            ecclesiae traditas quolibet modo alienare necabbati, nec alicui licet.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e109">
+            Unde Simacus Papa: „Possessiones quas unusquisque etc.“ Et
+            iterum : 
+          </p>
+        </div>
         <div xml:id="gd-p2c17q4-Dd1e112">
           <head xml:id="gd-p2c17q4-Hd1e114">C. I</head>
           <head xml:id="gd-p2c17q4-Hd1e117" type="question-title"> Honore priuetur^ qui de iure
             ecclesiae aliquid alienare presumit . </head>
-          <p xml:id="gd-p2c17q4-d1e120"> Quicumque episcoporum, presbiterorum, diaconorum oblitus
+          <p xml:id="gd-p2c17q4-d1e120">
+            Quicumque episcoporum, presbiterorum, diaconorum oblitus
             Dei, et decreti huius inmemor* in constitutumconmittens, predium** ecclesiae magnum uel
             exiguum, uelquicquam de iure ecclesiae alienare temptauerit, etdonator, et alienator, et
-            uenditor honoris sui amissionemulctetur. </p>
-          <p xml:id="gd-p2c17q4-d1e123"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e126"> C. II. Item Gregorius Anthemio Subdiacono, lib. XI. epist.
-            31. </p>
-          <p xml:id="gd-p2c17q4-d1e130"> Ratio nulla permittit, ut propriis cuiusquam usibus
-            applicetur quod pro communi utilitate datum esse cognoscitur.] </p>
+            uenditor honoris sui amissionemulctetur.
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e130">
+          <head xml:id="gd-p2c17q4-Hd1e132">C. II [PALEA.]</head>
+          <p xml:id="gd-p2c17q4-d1e130"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e137">Gregorius Anthemio Subdiacono, lib. XI. epist. 31.</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e142">
+                Ratio nulla permittit, ut propriis cuiusquam usibus
+                applicetur quod pro communi utilitate datum esse cognoscitur.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e134">
           <head xml:id="gd-p2c17q4-Hd1e136">C. III</head>
           <head xml:id="gd-p2c17q4-Hd1e139" type="question-title"> Qui reuocandum putat quod
             ecclesiae contulit sacrilegii crimen incurrit.</head>
-          <p xml:id="gd-p2c17q4-d1e142"> Item Ambrosius in lib. [II.] de penitencia, [c. 9.] </p>
-          <p xml:id="gd-p2c17q4-d1e145"> Sunt qui opes suas tumultuario mentis inpulsu, non iudicio
-            perpetuo, ubi ecclesiae contulerunt, postea reuocandas putauerunt. Quibus nec prima
-            merces grata est, necsecunda, quia nec prima iudicium habuit, et secunda
-            habuitsacrilegium. Sunt quos penituerit opes suas diuisissepauperibus. Sic eos*, qui
-            penitenciam agunt, hoc solumtimere oportet, ne ipsius penitenciae agant penitenciam.
+          <p xml:id="gd-p2c17q4-d1e145">
+            Item <ref xml:id="gd-p2c17q4-Rd1e158">Ambrosius in lib. [II.] de penitencia, [c. 9.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e163">
+                Sunt qui opes suas tumultuario mentis inpulsu, non iudicio
+                perpetuo, ubi ecclesiae contulerunt, postea reuocandas putauerunt. Quibus nec prima
+                merces grata est, nec secunda, quia nec prima iudicium habuit, et secunda
+                habuit sacrilegium. Sunt quos penituerit opes suas diuisisse pauperibus. Sic eos*, qui
+                penitenciam agunt, hoc solum timere oportet, ne ipsius penitenciae agant penitenciam.
+              </quote>
+            </cit>
           </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e150">
           <head xml:id="gd-p2c17q4-Hd1e152">C. IV</head>
           <head xml:id="gd-p2c17q4-Hd1e155" type="question-title"> Qui sacris locis derelicta
             retinere contendit sacrilegium conmittit. </head>
-          <p xml:id="gd-p2c17q4-d1e158"> Item Gregorius Sabino Subdiacono, [lib. VIII. epist. 6.] </p>
-
-          <p xml:id="gd-p2c17q4-d1e161"> Sacrilegium et contra legem est, si quis quod
-            uenera-bilibus locis relinquitur prauae uoluntatis studiis temptauerit conpendiis
-            retinere. </p>
+          <p xml:id="gd-p2c17q4-d1e161">
+            Item <ref xml:id="gd-p2c17q4-Rd1e180">Gregorius Sabino Subdiacono, [lib. VIII. epist. 6.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e185">
+                Sacrilegium et contra legem est, si quis quod
+                uenerabilibus locis relinquitur prauae uoluntatis studiis temptauerit conpendiis
+                retinere.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e165">
           <head xml:id="gd-p2c17q4-Hd1e167">C. V</head>
           <head xml:id="gd-p2c17q4-Hd1e170" type="question-title"> Sacrilegi iudicantur qui
-            ecclesiae facultates alienant. Item Lucius Episcopus omnibus Episcopis, [epist. I. cap.
-            6.] </head>
-          <p xml:id="gd-p2c17q4-d1e173"> Omnes ecclesiae raptores atque suarum facultatum
-            alienatores a liminibus eiusdem matris ecclesiae anathematizamus, apostolica auctoritate
-            pellimus, dam-pnamus atque sacrilegos esse iudicamus; et non solum eos, sed omnes
-            consentientes eis, quia non solum qui faciuntrei iudicantur, sed etiam qui facientibus
-            consentiunt. Parenim pena et agentes et consentientes conprehendit. </p>
+            ecclesiae facultates alienant.</head>
+          <p xml:id="gd-p2c17q4-d1e173">
+            Item <ref xml:id="gd-p2c17q4-Rd1e201">Lucius Episcopus omnibus Episcopis, [epist. I. cap. 6.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e206">
+                Omnes ecclesiae raptores atque suarum facultatum
+                alienatores a liminibus eiusdem matris ecclesiae anathematizamus, apostolica auctoritate
+                pellimus, dampnamus atque sacrilegos esse iudicamus; et non solum eos, sed omnes
+                consentientes eis, quia non solum qui faciunt rei iudicantur, sed etiam qui facientibus
+                consentiunt. Parenim pena et agentes et consentientes conprehendit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e177">
           <head xml:id="gd-p2c17q4-Hd1e179">C. VI</head>
-          <head xml:id="gd-p2c17q4-Hd1e182" type="question-title"> Excommunicetur qui confinia
-            ecclesiae frangere temptauerit . </head>
-          <p xml:id="gd-p2c17q4-d1e185"> Item Nicolaus omnibus Episcopis . </p>
-          <p xml:id="gd-p2c17q4-d1e188"> II. Pars. Sicut antiquitus a sanctis Patribus statutum est,
-            statuimus, ut maior ecclesia per circuitum LX passus habeat, capellae uero uel minores
-            ecclesiae XXX. §. 1.Qui autem confinium. eorum confringere temptauerit, aut personam
-            hominis, uel bona eius inde subtraxerit, nisi publicus latro erit, quousque emendet, et
-            quod rapuerit reddat, excommunicetur. </p>
+          <head xml:id="gd-p2c17q4-Hd1e182" type="question-title"> 
+            Excommunicetur qui confinia
+            ecclesiae frangere temptauerit.
+          </head>
+          <p xml:id="gd-p2c17q4-d1e188">
+            Item <ref xml:id="gd-p2c17q4-Rd1e222">Nicolaus omnibus Episcopis . </ref>
+            II. Pars. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e227">
+                Sicut antiquitus a sanctis Patribus statutum est,
+                statuimus, ut maior ecclesia per circuitum LX passus habeat, capellae uero uel minores
+                ecclesiae XXX.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e232">
+            §. 1. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e236">
+                Qui autem confinium. eorum confringere temptauerit, aut personam
+                hominis, uel bona eius inde subtraxerit, nisi publicus latro erit, quousque emendet, et
+                quod rapuerit reddat, excommunicetur.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e192">
           <head xml:id="gd-p2c17q4-Hd1e194">C. VII</head>
           <head xml:id="gd-p2c17q4-Hd1e197" type="question-title"> Soluatur altario quod pro
             emunitate emendatur ecclesiae. </head>
-          <p xml:id="gd-p2c17q4-d1e200"> Item ex Concilio Triburiensi . </p>
-          <p xml:id="gd-p2c17q4-d1e203"> Si quis in atrio ecclesiae pugnam conmittit aut homicidium
-            fecerit, quicquid pro emunitate* uiolata emendandum est altario soluatur, cujuscumque
-            fuerit illa ecclesia. </p>
+          <p xml:id="gd-p2c17q4-d1e203"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e252">Concilio Triburiensi</ref>. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e257">
+                Si quis in atrio ecclesiae pugnam conmittit aut homicidium
+                fecerit, quicquid pro emunitate* uiolata emendandum est altario soluatur, cujuscumque
+                fuerit illa ecclesia.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e207">
           <head xml:id="gd-p2c17q4-Hd1e209">C. VIII</head>
           <head xml:id="gd-p2c17q4-Hd1e212" type="question-title"> Non licet alicui hominem de
             ecclesia rapere.</head>
-          <p xml:id="gd-p2c17q4-d1e215"> Item Augustinus ad Bonifatium, [ep. CLXXXVII.] </p>
-          <p xml:id="gd-p2c17q4-d1e218"> Miror, quomodo subito fidei murum aries ruperit inimici.
-            Noui enim, qua religione semper sis ecclesiamueneratus. Quo instigante facere hominem
-            deecclesia rapuisti? Tuus si tuo amico forte presumeretfugitiuus, posset proculdubio
-            intercessoris causa ueniampromereri. Ergo si amicus intenditur, cur Deus offenditur?Sed
-            et si de potestate presumitur, Nabucodonosor regemintende, qui causa superbiae in bouem
-            est ex homine con-mutatus*. Non ut confundam te hec scribo, sed ut filiumkarissimum
-            moneo. Ecclesiae igitur illesum reuoca </p>
-
-
-
-
-          <p xml:id="gd-p2c17q4-d1e221"> quem irreligiosissimus rapuisti. Oblatio uero domus tuae a
-            clericis ne suscipiatur interdixi g communionemquetibi interdico, donec peracta pro
-            ausibus uel errore a mediffinita tibimet penitencia, tempore condonatopro hoc facto
-            corde contrito et humiliato dignum offerassacrificium Deo. </p>
+          <p xml:id="gd-p2c17q4-d1e218"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e273">Augustinus ad Bonifatium, [ep. CLXXXVII.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e278">
+                Miror, quomodo subito fidei murum aries ruperit inimici.
+                Noui enim, qua religione semper sis ecclesia mueneratus. Quo instigante facere hominem
+                de ecclesia rapuisti? Tuus si tuo amico forte presumeret fugitiuus, posset proculdubio
+                intercessoris causa ueniam promereri. Ergo si amicus intenditur, cur Deus offenditur?Sed
+                et si de potestate presumitur, Nabucodonosor regem intende, qui causa superbiae in bouem
+                est ex homine conmutatus*. Non ut confundam te hec scribo, sed ut filium karissimum
+                moneo. Ecclesiae igitur illesum reuoca quem irreligiosissimus rapuisti. Oblatio uero domus tuae a
+                clericis ne suscipiatur interdixi g communionemque tibi interdico, donec peracta pro
+                ausibus uel errore a mediffinita tibimet penitencia, tempore condonato pro hoc facto
+                corde contrito et humiliato dignum offeras sacrificium Deo.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e225">
           <head xml:id="gd-p2c17q4-Hd1e227">C. IX</head>
           <head xml:id="gd-p2c17q4-Hd1e230" type="question-title"> Fugientem ad ecclesiam nemo
             audeat abstrahere . </head>
-          <p xml:id="gd-p2c17q4-d1e233"> Item ex libro Capitularium [V. c. 90.] </p>
-          <p xml:id="gd-p2c17q4-d1e236"> Reum ad ecclesiam fugientem nemo abstrahere audeat, neque
-            inde donare* ad penam uel ad mortem, uthonor ecclesiarum conseruetur; sed rectores
-            pacemeius, et uitam, et membra obtinere studeant;tamen legitime conponat quod inique
-            fecit. </p>
+          <p xml:id="gd-p2c17q4-d1e236">
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e294">libro Capitularium [V. c. 90.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e299">
+                Reum ad ecclesiam fugientem nemo abstrahere audeat, neque
+                inde donare* ad penam uel ad mortem, ut honor ecclesiarum conseruetur; sed rectores
+                pacemeius, et uitam, et membra obtinere studeant;tamen legitime conponat quod inique
+                fecit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e241">
           <head xml:id="gd-p2c17q4-Hd1e243">C. X</head>
           <head xml:id="gd-p2c17q4-Hd1e246" type="question-title"> Ab ecclesiae arceatur ingressu
             qui aliquem de ecclesia uiolenter rapuerit.</head>
-          <p xml:id="gd-p2c17q4-d1e249"> Item Gelasius Victori, Constantino, Martirio , Felicissimo,
-            Sereno, et Timotheo Episcopis . </p>
-          <p xml:id="gd-p2c17q4-d1e252"> Frater et coepiscopus noster Epiphanius sua nobis relatione
-            suggessit, Benenatum et Maurum Beneuentanae municipes ciuitatis in contumeliam
-            religionis acerba nimis et plectibili contumacia prosiluisse, qui confugientem
-            adecclesiae septa curialem suum ne illic quidem tutum autde iniuria sua securum esse
-            siuerunt, ausi irreptionetemerariae mentis admittere quod nec potestatibus quidemuel
-            principibus umquam licuit perpetrare, ut hominemin sanctuariis constitutum (captata
-            sacerdotis absentia) reluctantem reclamantemque uiolenter abstraherent. Quos, quantum
-            sua nobis suggestione patefecit, merito indignosesse sacra communione iudicauit. Et si
-            reuera tanti facinoris constat admissum, nostra etiam auctoritas in hacparte consentit.
-            Nec enim ad supplicandum iure debetadmitti ubi admittere sacrilegium non dubitauit.
-            Nullus etenim intra limina tantae uenerationi deputatautrumque sibi licere existimet pro
-            suae uoluntatis arbitrio, ut et humilitatem sibi uendicet et furorem. Et ideo, fratres
-            karissimi, supradictos, si manifesta reos facit conquestio, ab omnibus parrochiarum
-            uestrarum ecclesiis nostrae preceptionis auctoritate prohibete, ut non solum hi, qui in
-            iniuriam sanctorum locorum prosiluisse probantur, merito consequantur pro facti sui
-            qualitate uindictam, uerumetiam ceteri a tali presumptione ultionis istius timore
-            re-uocentur. </p>
-
+          <p xml:id="gd-p2c17q4-d1e252"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e316">Gelasius Victori, Constantino, Martirio, Felicissimo, Sereno, et Timotheo Episcopis .</ref>
+           <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e321">
+                Frater et coepiscopus noster Epiphanius sua nobis relatione
+                suggessit, Benenatum et Maurum Beneuentanae municipes ciuitatis in contumeliam
+                religionis acerba nimis et plectibili contumacia prosiluisse, qui confugientem
+                ad ecclesiae septa curialem suum ne illic quidem tutum aut de iniuria sua securum esse
+                siuerunt, ausi irreptione temerariae mentis admittere quod nec potestatibus quidemuel
+                principibus umquam licuit perpetrare, ut hominem in sanctuariis constitutum (captata
+                sacerdotis absentia) reluctantem reclamantemque uiolenter abstraherent. Quos, quantum
+                sua nobis suggestione patefecit, merito indignos esse sacra communione iudicauit. Et si
+                reuera tanti facinoris constat admissum, nostra etiam auctoritas in hac parte consentit.
+                Nec enim ad supplicandum iure debet admitti ubi admittere sacrilegium non dubitauit.
+                Nullus etenim intra limina tantae uenerationi deputata utrumque sibi licere existimet pro
+                suae uoluntatis arbitrio, ut et humilitatem sibi uendicet et furorem. Et ideo, fratres
+                karissimi, supradictos, si manifesta reos facit conquestio, ab omnibus parrochiarum
+                uestrarum ecclesiis nostrae preceptionis auctoritate prohibete, ut non solum hi, qui in
+                iniuriam sanctorum locorum prosiluisse probantur, merito consequantur pro facti sui
+                qualitate uindictam, uerumetiam ceteri a tali presumptione ultionis istius timore
+                reuocentur.
+              </quote>
+           </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e256">
           <head xml:id="gd-p2c17q4-Hd1e258">C. XI</head>
           <head xml:id="gd-p2c17q4-Hd1e261" type="question-title"> Ecclesiarum dignus non est
             ingressu qui eas uiolat.</head>
-          <p xml:id="gd-p2c17q4-d1e264"> Idem Epiphanio Episcopo . </p>
-          <p xml:id="gd-p2c17q4-d1e267"> Ad episcopos ceteros direximus iussionem, ut eos, qui
-            ecclesias uiolasse perhibentur, accessu earum iudicent esseindignos. </p>
+          <p xml:id="gd-p2c17q4-d1e267">
+            Idem Epiphanio Episcopo .
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e339">
+                Ad episcopos ceteros direximus iussionem, ut eos, qui
+                ecclesias uiolasse perhibentur, accessu earum iudicent esse 
+                indignos.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e271">
           <head xml:id="gd-p2c17q4-Hd1e273">C. XII</head>
           <head xml:id="gd-p2c17q4-Hd1e276" type="question-title"> Qui ecclesiam Dei uastatet eius
             sacerdotes insequitur, sacrilegus iudicatur . </head>
-          <p xml:id="gd-p2c17q4-d1e279"> Item Pius Papa, [epist II. Italicis]. </p>
-          <p xml:id="gd-p2c17q4-d1e282"> Sicut qui ecclesiam Dei uastat, et eius predia et donaria
-            spoliat et inuadit, fit sacrilegus sic ille, qui eius sacerdotes insequitur, sacrilegus
-            iudicatur. §. i. Non ergo grauius peccatum est fornicatio quam sacrilegium. Et sicut
-            maius peccatum est, quod in Deo conmittitur, quam quod in homines, sicgrauius est
-            sacrilegium agere quam fornicari. </p>
+          <p xml:id="gd-p2c17q4-d1e282"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e355">Pius Papa, [epist II. Italicis].</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e360">
+                Sicut qui ecclesiam Dei uastat, et eius predia et donaria
+                spoliat et inuadit, fit sacrilegus sic ille, qui eius sacerdotes insequitur, sacrilegus
+                iudicatur.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e365">
+            §. i. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e369">
+                Non ergo grauius peccatum est fornicatio quam sacrilegium. Et sicut
+                maius peccatum est, quod in Deo conmittitur, quam quod in homines, sic grauius est
+                sacrilegium agere quam fornicari.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e286">
           <head xml:id="gd-p2c17q4-Hd1e288">C. XIII</head>
           <head xml:id="gd-p2c17q4-Hd1e291" type="question-title"> Qua pena feriatur qui ecclesiae
             usibus dedicata predia uexare temptauerit. </head>
-          <p xml:id="gd-p2c17q4-d1e294"> Item Urbanus [in epist. ad omnes episcopos, c. 2.] </p>
-          <p xml:id="gd-p2c17q4-d1e297"> Adtendendum est omnibus, ne predia usibus secretorum
-            celestium dicata a quibusdam irruentibus uexen-tur. Quod si quis fecerit, post debitae
-            ultionis acrimoniam (que erga sacrilegos iure promenda est) perpetua dampne-tur infamia,
-            et carceri tradatur, aut exilio perpetuae deportationis seruetur. </p>
-          <p xml:id="gd-p2c17q4-d1e300"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e304"> C. XIV. Item Hyginus Papa*. </p>
-          <p xml:id="gd-p2c17q4-d1e307"> Si quis ecclesiam igne conbusserit, quindecimannis
-            peniteat, et eam sedule restituat, et preciumsuum** pauperibus distribuat.] </p>
+          <p xml:id="gd-p2c17q4-d1e297"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e385">Urbanus [in epist. ad omnes episcopos, c. 2.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e390">
+                Adtendendum est omnibus, ne predia usibus secretorum
+                celestium dicata a quibusdam irruentibus uexentur. Quod si quis fecerit, post debitae
+                ultionis acrimoniam (que erga sacrilegos iure promenda est) perpetua dampnetur infamia,
+                et carceri tradatur, aut exilio perpetuae deportationis seruetur.
+              </quote>
+            </cit> 
+          </p>
+          <p xml:id="gd-p2c17q4-d1e304"> C. XIV. [PALE A.] </p>
+          <p xml:id="gd-p2c17q4-d1e307">
+            Item <ref xml:id="gd-p2c17q4-Rd1e400">Hyginus Papa.</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e405">
+                Si quis ecclesiam igne conbusserit, quindecimannis
+                peniteat, et eam sedule restituat, et preciumsuum 
+                pauperibus distribuat.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e311">
           <head xml:id="gd-p2c17q4-Hd1e313">C. XV</head>
           <head xml:id="gd-p2c17q4-Hd1e316" type="question-title"> Iudae similis probatur qui
             ornamenta ecclesiae subripit . </head>
-          <p xml:id="gd-p2c17q4-d1e319"> Item Clemens, [epist. II. ad Iacobum]. </p>
-          <p xml:id="gd-p2c17q4-d1e322"> Si forte quispiam presbiter siue diaconus sacrarii sindonem
-            uel uelum subtractum uendiderit, Iudae Scario-tis similis estimabitur. Qui propter
-            cupiditatem fecerit hoc opus, nouerit se supradicti Iudae penam suscepturum. </p>
-
-
-
-
-          <p xml:id="gd-p2c17q4-d1e325"> [PALE A 14 «. </p>
-          <p xml:id="gd-p2c17q4-d1e329"> C. XVI. De eodem. </p>
-          <p xml:id="gd-p2c17q4-d1e332"> Item ex penitenciali Theodori. </p>
-          <p xml:id="gd-p2c17q4-d1e335"> Pecunia ecclesiastica furata uel rapta reddatur in
-            quadruplum; populi uero duplicetur. Si quis aliquid de ministerio sanctae ecclesiae
-            furatus fuerit, septem annis peniteat, tres in pane et aqua.] </p>
-          <p xml:id="gd-p2c17q4-d1e338"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e341"> C. XVII. De eodem. </p>
-          <p xml:id="gd-p2c17q4-d1e344"> Item ex penitenciali Romano*. </p>
-          <p xml:id="gd-p2c17q4-d1e348"> Si quis clericus furtum fecerit capitale, id est
-            quadrupedem, uel domum fregerit, aut quamlibet rem melioris precii furatus fuerit,
-            septem annis peniteat; laicus quinque. Si quis autem de minoribussemel aut bis furtum
-            fecerit, reddat proximo suo, etuno anno peniteat in pane et aqua, et si reddere
-            nonpotuerit tribus annis peniteat.] </p>
+          <p xml:id="gd-p2c17q4-d1e322">
+            Item 
+            <ref xml:id="gd-p2c17q4-Rd1e421">Clemens, [epist. II. ad Iacobum]. </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e426">
+                Si forte quispiam presbiter siue diaconus sacrarii sindonem
+                uel uelum subtractum uendiderit, Iudae Scariotis similis estimabitur. Qui propter
+                cupiditatem fecerit hoc opus, nouerit se supradicti Iudae penam suscepturum.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e432">
+          <head xml:id="gd-p2c17q4-Hd1e434"> C. XVI. [PALEA] </head>
+          <head xml:id="gd-p2c17q4-Hd1e437" type="question-title">De eodem. </head>
+          <p xml:id="gd-p2c17q4-d1e335"> 
+            Item ex 
+            <ref xml:id="gd-p2c17q4-Rd1e442">penitenciali Theodori.</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e447">
+                Pecunia ecclesiastica furata uel rapta reddatur in
+                quadruplum; populi uero duplicetur. Si quis aliquid de ministerio sanctae ecclesiae
+                furatus fuerit, septem annis peniteat, tres in pane et aqua.
+              </quote>
+            </cit>
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e454">
+          <head xml:id="gd-p2c17q4-Hd1e456">C. XVII.</head>
+          <head xml:id="gd-p2c17q4-Hd1e459" type="question-title">De eodem.</head>
+          <p xml:id="gd-p2c17q4-d1e348"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e464">penitenciali Romano.</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e469">
+                Si quis clericus furtum fecerit capitale, id est
+                quadrupedem, uel domum fregerit, aut quamlibet rem melioris precii furatus fuerit,
+                septem annis peniteat; laicus quinque. Si quis autem de minoribus semel aut bis furtum
+                fecerit, reddat proximo suo, etuno anno peniteat in pane et aqua, et si reddere
+                non potuerit tribus annis peniteat.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e352">
           <head xml:id="gd-p2c17q4-Hd1e354">C. XVIII</head>
-          <head xml:id="gd-p2c17q4-Hd1e357" type="question-title"> Sacrilegium facit qui pecuniam
-            ecclesiae rapit.</head>
-          <p xml:id="gd-p2c17q4-d1e360"> Item Anacletus [epist. I., c. 2.]Qui rapit pecuniam proximi
-            sui, iniquitatem operatur;qui autem pecuniam uel res ecclesiae abstulerit, sacrilegium
-            facit. </p>
+          <head xml:id="gd-p2c17q4-Hd1e357" type="question-title">
+            Sacrilegium facit qui pecuniam ecclesiae rapit.
+          </head>
+          <p xml:id="gd-p2c17q4-d1e360"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e485">Anacletus [epist. I., c. 2.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e490">
+                Qui rapit pecuniam proximi
+                sui, iniquitatem operatur;qui autem pecuniam uel res ecclesiae abstulerit, sacrilegium
+                facit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e365">
           <head xml:id="gd-p2c17q4-Hd1e367">C. XIX</head>
-          <head xml:id="gd-p2c17q4-Hd1e370" type="question-title"> Segregetur ab ecclesia clericus,
-            qui seruum uel™* discipulum suum ad eam fugientem uerberare presumit. </head>
-          <p xml:id="gd-p2c17q4-d1e373"> Item ex Concilio Ylerdensi, [c. 8.]Nullus clericorum seruum
-            aut discipulum suum confugientem ad ecclesiam extrahere audeat, uel flagellare presumat.
-            Quod si fecerit, donec digne peniteat, aloco, cui honorem non dedit, segregetur. §. i.
-            Si quiuero clerici in mutuam cedem proruperint, prout dignitasoffitiorum in tali excessu
-            contumeliam pertulerit, a pontificedistrictius uindicetur. </p>
+          <head xml:id="gd-p2c17q4-Hd1e370" type="question-title">
+            Segregetur ab ecclesia clericus,
+            qui seruum uel discipulum suum ad eam fugientem uerberare presumit.
+          </head>
+          <p xml:id="gd-p2c17q4-d1e373"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e506">Concilio Ylerdensi, [c. 8.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e511">
+                Nullus clericorum seruum
+                aut discipulum suum confugientem ad ecclesiam extrahere audeat, uel flagellare presumat.
+                Quod si fecerit, donec digne peniteat, a loco, cui honorem non dedit, segregetur. §. i.
+                Si quiuero clerici in mutuam cedem proruperint, prout dignitas officiorum in tali excessu
+                contumeliam pertulerit, a pontifice districtius uindicetur.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e377">
           <head xml:id="gd-p2c17q4-Hd1e379">C. XX</head>
           <head xml:id="gd-p2c17q4-Hd1e382" type="question-title"> Qui de atrio uel porticibus
             ecclesiae fugientem abstrahit excommunicetur.</head>
-          <p xml:id="gd-p2c17q4-d1e385"> Item ex Concilio Triburiensi, [c. 20.]Si quis contumax uel
-            superbus timorem Dei uelreuerentiam sanctarum ecclesiarum non habuerit, et fugientem
-            seruum suum, uel quem ipse persecutus fuerit, de atrio* ecclesiae, uel de porticibus
-            quomodolibet </p>
-
-          <p xml:id="gd-p2c17q4-d1e388"> ecclesiae adherentibus per uim abstraxerit, pro emuni-tate
-            nongentos solidos conponat, et ipse publica penitencia iuxta iudicium mulctetur. ^ </p>
+          <p xml:id="gd-p2c17q4-d1e385">
+            Item ex 
+            <ref xml:id="gd-p2c17q4-Rd1e527">Concilio Triburiensi, [c. 20.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e532">
+                Si quis contumax uel
+                superbus timorem Dei uel reuerentiam sanctarum ecclesiarum non habuerit, et fugientem
+                seruum suum, uel quem ipse persecutus fuerit, de atrio ecclesiae, uel de porticibus
+                quomodolibet ecclesiae adherentibus per uim abstraxerit, pro emunitate
+                nongentos solidos conponat, et ipse publica penitencia iuxta iudicium mulctetur.
+              </quote>
+            </cit>
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e538">
+          <head xml:id="gd-p2c17q4-Hd1e540">Dictum</head>
           <p xml:id="gd-p2c17q4-d1e391"> Gratian. Sacrilegium ergo est, quotiens quis sacrum uiolat,
-            uel auferendo sacrum de sacro, uel sacrum de non sacro, uel nonsacrum de sacro. §. i.
+            uel auferendo sacrum de sacro, uel sacrum de non sacro, uel nonsacrum de sacro.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e546">
+            §. 1.
             Dicitur etiam sacrilegium conmittere quiuiolentas et inpias manus in clericum iniecerit.
-            §. '2, Porroipsum sacrilegium duplicem continet penam, pecuniariam uidelicetet
+          </p>
+          <p xml:id="gd-p2c17q4-d1e549">
+            §. 2, Porroipsum sacrilegium duplicem continet penam, pecuniariam uidelicetet
             excommunicationis. Pecuniaria eis persoluenda est, ad quosquerimonia sacrilegii
-            pertinet. </p>
-          <p xml:id="gd-p2c17q4-d1e395"> Unde I oh anne s Papa VIII. scribit omnibus Episcopis *: C.
-            XXI. De multiplici genere sacrilegii, et pena eiusdem. </p>
-          <p xml:id="gd-p2c17q4-d1e398"> Quisquis inuentus fuerit reus sacrilegii, episcopis uel
-            abbatibus, siue personis, ad quas querimonia sacrilegiiiuste pertinuerit, triginta
-            libras examinati argenti purissimi conponat. §. i. Sacrilegium conmittitur, si
-            quisinfregerit ecclesiam, uel triginta passus ecclesiasticos, qui incircuitu ecclesiae
+            pertinet. 
+          </p>
+          <p xml:id="gd-p2c17q4-d1e395"> Unde I oh anne s Papa VIII. scribit omnibus Episcopis *:</p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e556">
+          <head xml:id="gd-p2c17q4-Hd1e558">C. XXI</head>
+          <head xml:id="gd-p2c17q4-Hd1e561" type="question-title">De multiplici genere sacrilegii, et pena eiusdem.</head>
+          <p xml:id="gd-p2c17q4-d1e398">
+            Quisquis inuentus fuerit reus sacrilegii, episcopis uel
+            abbatibus, siue personis, ad quas querimonia sacrilegii iuste pertinuerit, triginta
+            libras examinati argenti purissimi conponat.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e567">
+            §. i. Sacrilegium conmittitur, si
+            quis infregerit ecclesiam, uel triginta passus ecclesiasticos, qui incircuitu ecclesiae
             sunt, uel domos, que infra predictos passus fuerint, aliquid inde diripiendo uel
-            auferendo;seu qui iniuriam uel ablationem rerum intulerit clericis armanon ferentibus,
-            uel monachis, siue Deo deuotis, omnibusqueecclesiasticis** personis. Capellae, que sunt
-            infra ambitum murorum castellorum, non ponuntur in hac trigintapassuum obseruatione. §.
-            2. Similiter sacrilegium conmittitur auferendo sacrum de sacro, uel non sacrum de sacro,
-            siue sacrum de non sacro. Idem: §. 3. Si quis domumDei uiolauerit, et aliqua sine
+            auferendo;seu qui iniuriam uel ablationem rerum intulerit clericis arma non ferentibus,
+            uel monachis, siue Deo deuotis, omnibusque ecclesiasticis personis. Capellae, que sunt
+            infra ambitum murorum castellorum, non ponuntur in hac triginta passuum obseruatione.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e570">
+            §. 2. Similiter sacrilegium conmittitur auferendo sacrum de sacro, uel non sacrum de sacro,
+            siue sacrum de non sacro. Idem:
+          </p>
+          <p xml:id="gd-p2c17q4-d1e574">
+            §. 3. Si quis domum Dei uiolauerit, et aliqua sine
             licentia illius, cui conmissa essedinoscitur, inde abstulerit, uel ecclesiasticis
             personis iniuriam fecerit, donec in conuentu ammonitus legitime satisfaciat, sciat se
             conmunione fore priuatum. Si uero postsecundam et tertiam conuentionem coram episcopo
@@ -305,318 +466,539 @@
           <head xml:id="gd-p2c17q4-Hd1e404">C. XXII</head>
           <head xml:id="gd-p2c17q4-Hd1e407" type="question-title"> Nisi canonice indicatum episcopum
             con-prehendens^ laicus, excommunicetur. </head>
-          <p xml:id="gd-p2c17q4-d1e410"> Item Alexander //. 225 c </p>
-          <p xml:id="gd-p2c17q4-d1e413"> Si quis deinceps priorum aut cuiuscumque dignitatis </p>
-
-
-
-
-          <p xml:id="gd-p2c17q4-d1e416"> uel cuiuscumque ordinis laicorum episcopum conprehende-rit,
-            percusserit, aut aliqua ui a propria sede expulerit, nisi forte iudicatum canonice,
-            auctores et cooperatores tantisceleris anathematizentur, et bona eorum ecclesiae
-            ipsiusiuri perpetuo tradantur. §. i. Si uero in presbiterum uelin quemcunque inferiorum
-            graduum clericum hec eadempresumpserit, canonicae penitenciae atque
-            depositioni'subiacebit. Si contumax fuerit, excommunicetur. </p>
+          <p xml:id="gd-p2c17q4-d1e413"> 
+            Item <ref xml:id="gd-p2c17q4-Rd1e589">Alexander. 225 c.</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e594">
+                Si quis deinceps priorum aut cuiuscumque dignitatis 
+                uel cuiuscumque ordinis laicorum episcopum conprehenderit,
+                percusserit, aut aliqua ui a propria sede expulerit, nisi forte iudicatum canonice,
+                auctores et cooperatores tanti sceleris anathematizentur, 
+                et bona eorum ecclesiae
+                ipsius iuri perpetuo tradantur.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e599">
+            §. i. Si uero in presbiterum uel in quemcunque inferiorum
+            graduum clericum hec eadem presumpserit, canonicae penitenciae atque
+            depositioni subiacebit. Si contumax fuerit, excommunicetur. 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e420">
           <head xml:id="gd-p2c17q4-Hd1e422">C. XXIII</head>
           <head xml:id="gd-p2c17q4-Hd1e425" type="question-title"> Flagellatores presbiterorum, post
             tertiam ammonitionem si non resipuerint, excommunicentur. </head>
-          <p xml:id="gd-p2c17q4-d1e428"> Item Nicolaus Papa Thadoni Archiepiscopo Mediolani . </p>
-          <p xml:id="gd-p2c17q4-d1e431"> De presbiterorum flagellatoribus, et occisoribus,
-            predonibus, scilicet qui seculari brachio minime cohercen-tur, iuxta preceptum Domini
-            placet fraterno amore con-ueniantur secundo ac tertio. Qui si te non audierint,
-            conueniente ecclesia eos sacra conmunione priuare atque (si in sua obstinatione
-            permanentes sacerdotaliamonita forte contempserint) ab ecclesiae conpage sub anathematis
-            interdictione resecare licentiam tribuimus. §. i.Quos etiam resipiscentes tandem digna
-            satisfactione premissa in gremio sanctae matris ecclesiae reuocarinoueris posse. </p>
-          <p xml:id="gd-p2c17q4-d1e434"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e438"> C. XXIV. Item ex Concilio Moguntino sub Rabano, </p>
-          <p xml:id="gd-p2c17q4-d1e441"> c. 24.* </p>
-          <p xml:id="gd-p2c17q4-d1e444"> Qui presbiterum occiderit, duodecim** annorumei penitencia
-            secundum canones inponatur; aut sinegauerit, si liber est, cum septuaginta duobus***
-            iuret:si autem seruus, super duodecim uomeres feruentes seexpurget. Conuictus uero noxae
-            usque ad ultimumuitae tempus miliciae cingulo + careat, et absque spe con-iugii maneat.] </p>
-          <p xml:id="gd-p2c17q4-d1e447"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e450"> C. XXV. Item ex Concilio Triburiensi. </p>
-          <p xml:id="gd-p2c17q4-d1e453"> Ut presbiteri non uadant, nisi stola aut orario induti. Et
-            si in itinere spoliantur, aut uulnerantur, uel occiduntur non stola uestiti, simplici
-            emendationesoluantur, si autem cum stola, triplici]. </p>
-
-          <p xml:id="gd-p2c17q4-d1e457"> [PALE A. </p>
-          <p xml:id="gd-p2c17q4-d1e460"> C. XXVI. Item ex eodem, c. 5.267* </p>
-          <p xml:id="gd-p2c17q4-d1e463"> Omnes presbiteri interfectores** conpositioneepiscopi, ad
-            cuius parrochiam pertinent, soluantur, itauidelicet, ut medietatem Vuirigeldi*** eius
-            episcopusutilitatibus ecclesiae, cui prefuit, tribuat, et alteram medietatem in
-            elemosinam illius iuste dispertiat, quianullus nobis eius heres proximior uidetur, quam
-            ille, quiipsum Domino sociauit.] </p>
+          <p xml:id="gd-p2c17q4-d1e431">
+            Item <ref xml:id="gd-p2c17q4-Rd1e613">Nicolaus Papa Thadoni Archiepiscopo Mediolani .</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e618">
+                De presbiterorum flagellatoribus, et occisoribus,
+                predonibus, scilicet qui seculari brachio minime cohercentur, iuxta preceptum Domini
+                placet fraterno amore con-ueniantur secundo ac tertio. Qui si te non audierint,
+                conueniente ecclesia eos sacra conmunione priuare atque (si in sua obstinatione
+                permanentes sacerdotaliamonita forte contempserint) ab ecclesiae conpage sub anathematis
+                interdictione resecare licentiam tribuimus.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e623">
+            §. i. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e627">
+                Quos etiam resipiscentes tandem digna
+                satisfactione premissa in gremio sanctae matris ecclesiae reuocarinoueris posse.
+            </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e633">
+          <head xml:id="gd-p2c17q4-Hd1e635">C. XXIV.[PALE A.]</head>
+          <p xml:id="gd-p2c17q4-d1e444"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e640">Concilio Moguntino sub Rabano, c. 24.*</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e645">
+                Qui presbiterum occiderit, duodecim** annorumei penitencia
+                secundum canones inponatur; aut sinegauerit, si liber est, cum septuaginta duobus***
+                iuret:si autem seruus, super duodecim uomeres feruentes se expurget. Conuictus uero noxae
+                usque ad ultimum uitae tempus miliciae cingulo + careat, et absque spe coniugii maneat.]
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e651">
+          <head xml:id="gd-p2c17q4-Hd1e653">C. XXV. [PALE A.] </head>
+          <p xml:id="gd-p2c17q4-d1e453"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e658">Concilio Triburiensi.</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e663">
+                Ut presbiteri non uadant, nisi stola aut orario induti. Et
+                si in itinere spoliantur, aut uulnerantur, uel occiduntur non stola uestiti, simplici
+                emendationesoluantur, si autem cum stola, triplici
+              </quote>
+            </cit>. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e669">
+          <head xml:id="gd-p2c17q4-Hd1e671">C. XXVI. [PALE A.]</head>
+          <p xml:id="gd-p2c17q4-d1e674">
+            Item ex
+            <ref xml:id="gd-p2c17q4-Rd1e676">eodem, c. 5.267* </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e681">
+                Omnes presbiteri interfectores** conpositioneepiscopi, ad
+                cuius parrochiam pertinent, soluantur, itauidelicet, ut medietatem Vuirigeldi*** eius
+                episcopusutilitatibus ecclesiae, cui prefuit, tribuat, et alteram medietatem in
+                elemosinam illius iuste dispertiat, quianullus nobis eius heres proximior uidetur, quam
+                ille, quiipsum Domino sociauit.]
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e467">
           <head xml:id="gd-p2c17q4-Hd1e469">C. XXVII</head>
           <head xml:id="gd-p2c17q4-Hd1e472" type="question-title"> Pro graduum uarietate mulctentur
-            qui clericos occidunt, .</head>
-          <p xml:id="gd-p2c17q4-d1e475"> Item ex lib. V. Capitularium, [c. 25.] </p>
-          <p xml:id="gd-p2c17q4-d1e478"> Qui subdiaconum occiderit, CCC. solidos conponat; qui
-            diaconum, CCCC.; qui presbiterum, DC.; qui episcopum, DCCCC.; qui monachum, CCCC. </p>
-          <p xml:id="gd-p2c17q4-d1e481"> [C. XXVIII.] a </p>
-          <p xml:id="gd-p2c17q4-d1e485"> Item ex eodem lib. VI . </p>
-          <p xml:id="gd-p2c17q4-d1e488"> Qui occiderit monachum aut clericum, arma relinquat, et Deo
-            in monasterio seruiat cunctis diebus uitae suae, numquam ad seculum reuersurus, et
-            septem annos publicam penitenciam agat. </p>
-          <p xml:id="gd-p2c17q4-d1e491"> [C. XXIX.] a </p>
-          <p xml:id="gd-p2c17q4-d1e494"> Item Innocentius Papa [II. in Concilio Lateranensi, c. 15.] </p>
-          <p xml:id="gd-p2c17q4-d1e497"> Si quis suadente diabolo huius sacrilegii uicium*
-            incurrerit, quod in clericum uel monachum uiolentasmanus iniecerit, anathematis uinculo
-            subiaceat, et nullusepiscoporum illum presumat absoluere, nisi mortis urgentepericulo,
-            donec apostolico conspectui presentetur, et eiusmandatum suscipiat. </p>
-          <p xml:id="gd-p2c17q4-d1e500"> III. Pars. Gratian. Qui autem de ecclesia ui aliquem
+            qui clericos occidunt.</head>
+          <p xml:id="gd-p2c17q4-d1e478">
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e697">lib. V. Capitularium, [c. 25.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e702">
+                Qui subdiaconum occiderit, CCC. solidos conponat; qui 
+                diaconum, CCCC.; qui presbiterum, DC.; qui episcopum, DCCCC.; qui monachum, CCCC.
+              </quote>
+            </cit>
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e709">
+          <head xml:id="gd-p2c17q4-Hd1e711">[C. XXVIII.]</head>
+          <p xml:id="gd-p2c17q4-d1e488"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e716">eodem lib. VI </ref>.
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e721">
+                Qui occiderit monachum aut clericum, arma relinquat, et Deo
+                in monasterio seruiat cunctis diebus uitae suae, numquam ad seculum reuersurus, et
+                septem annos publicam penitenciam agat.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e727">
+          <head xml:id="gd-p2c17q4-Hd1e729">[C. XXIX.] </head>
+          <p xml:id="gd-p2c17q4-d1e494"> </p>
+          <p xml:id="gd-p2c17q4-d1e497">
+            Item <ref xml:id="gd-p2c17q4-Rd1e737">Innocentius Papa [II. in Concilio Lateranensi, c. 15.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e742">
+                Si quis suadente diabolo huius sacrilegii uicium*
+                incurrerit, quod in clericum uel monachum uiolentas manus iniecerit, anathematis uinculo
+                subiaceat, et nullus episcoporum illum presumat absoluere, nisi mortis urgentepericulo,
+                donec apostolico conspectui presentetur, et eiusmandatum suscipiat.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e748">
+          <head xml:id="gd-p2c17q4-Hd1e750">Dictum</head>
+          <p xml:id="gd-p2c17q4-d1e500">
+            III. Pars. Gratian. Qui autem de ecclesia ui aliquem
             exemerit, uel ^ in ipsa ecclesia, uel loco, uel cultui, sacerdotibus, et ministris
             aliquid iniuriae inportauerit, ad instar publici criminiset lesae maiestatis
             accusabitur, et conuictus, siue confessus, capitali sententia a rectoribus prouinciae
             ferietur, sicut in primo libroCodicis legitur, titulo de episcopis et clericis e£ lege:
             „Si quisin hoc genus sacrilegii proruperit, et in Digestis titul. Ad legemIuliam
-            pecuniarum ^ repetundarum, l. ultima. §. 1. Conmit-tunt etiam sacrilegium qui contra
-            diuinae legis sanctitatem aut </p>
-
-
-
-
-          <p xml:id="gd-p2c17q4-d1e504"> nesciendo committunt, aut negligendo uiolant et offendunt;
+            pecuniarum ^ repetundarum, l. ultima.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e756">
+            §. 1. Conmittunt etiam sacrilegium qui contra
+            diuinae legis sanctitatem aut 
+            nesciendo committunt, aut negligendo uiolant et offendunt;
             aut qui de principali iudicio disputant, dubitantes, an is dignus sit, quemprinceps
             elegerit; uel qui intra prouinciam, in qua prouincialeset ciues habentur, offitium
-            gerendae ac suscipiendae amministra-tionis desiderant ^, lib. 9. Codicis titulo de
-            crimine sacrilegii. §. 2. Similiter de iudicio summi Pontificis alicui disputare
-            nonlicet. </p>
-          <p xml:id="gd-p2c17q4-d1e507"> Unde Nicolaus Papa omnibus Episcopis 296 *; </p>
+            gerendae ac suscipiendae amministrationis desiderant ^, lib. 9. Codicis titulo de
+            crimine sacrilegii.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e759">
+            §. 2. Similiter de iudicio summi Pontificis alicui disputare
+            nonlicet. 
+          </p>
+          <p xml:id="gd-p2c17q4-d1e507"> 
+            Unde <ref xml:id="gd-p2c17q4-Rd1e764">Nicolaus Papa omnibus Episcopis 296</ref>; 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e511">
           <head xml:id="gd-p2c17q4-Hd1e513">C. XXX</head>
           <head xml:id="gd-p2c17q4-Hd1e516" type="question-title"> Nulli liceat Romanam ecclesiam
             iudicare, uel eius sententiam retractare. </head>
-          <p xml:id="gd-p2c17q4-d1e519"> Nemini est de sedis apostolicae iudicio iudicare, aut
-            illius sentenciam retractare permissum, uidelicet propterRomanae ecclesiae primatum,
-            Christi munere in beato Petroapostolo diuinitus collpcatum. </p>
-          <p xml:id="gd-p2c17q4-d1e522"> Gratian. Sacrilegii quoque reatum incurrit qui Iudeis
-            publica ofjfitia conmittit. </p>
-          <p xml:id="gd-p2c17q4-d1e525"> Unde in Tollet ano Concilio IV. [c. 64.] </p>
+          <p xml:id="gd-p2c17q4-d1e519">
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e781">
+                Nemini est de sedis apostolicae iudicio iudicare, aut
+                illius sentenciam retractare permissum, uidelicet propterRomanae ecclesiae primatum,
+                Christi munere in beato Petroapostolo diuinitus collpcatum.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e787">
+          <head xml:id="gd-p2c17q4-Hd1e789">Dictum</head>
+          <p xml:id="gd-p2c17q4-d1e522"> 
+            Gratian. Sacrilegii quoque reatum incurrit qui Iudeis
+            publica ofjfitia conmittit. 
+          </p>
+          <p xml:id="gd-p2c17q4-d1e525"> 
+            Unde in <ref xml:id="gd-p2c17q4-Rd1e797">Tollet ano Concilio IV. [c. 64.]</ref> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e530">
           <head xml:id="gd-p2c17q4-Hd1e532">C. XXXI</head>
           <head xml:id="gd-p2c17q4-Hd1e535" type="question-title"> Sacrilegium faciunt qui Iudeis
             publica offitia conmittunt.</head>
-          <p xml:id="gd-p2c17q4-d1e538"> Constituit sanctum concilium, ut Iudei, aut hii, qui ex
-            Iudeis sunt, offitia publica nullatenus appetant, quia subhac occasione Christianis
-            iniuriam faciunt. Ideoque iudicesprouinciarum cum sacerdotibus eorum surreptiones
-            fraudulenter relictas* suspendant, et offitia publica eos agerenon permittant. Si quis
-            autem hoc permiserit, uelut insacrilegum excommunicatio proferatur, et is, qui
-            subrepserit, publicis cedibus deputetur. </p>
-          <p xml:id="gd-p2c17q4-d1e541"> IV. Pars. Gratian. Verum ne reuerentia religionis dominos
+          <p xml:id="gd-p2c17q4-d1e538"> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e814">
+                Constituit sanctum concilium, ut Iudei, aut hii, qui ex
+                Iudeis sunt, offitia publica nullatenus appetant, quia subhac occasione Christianis
+                iniuriam faciunt. Ideoque iudicesprouinciarum cum sacerdotibus eorum surreptiones
+                fraudulenter relictas* suspendant, et offitia publica eos agerenon permittant. Si quis
+                autem hoc permiserit, uelut insacrilegum excommunicatio proferatur, et is, qui
+                subrepserit, publicis cedibus deputetur.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e821">
+          <head xml:id="gd-p2c17q4-Hd1e823">Dictum</head>
+          <p xml:id="gd-p2c17q4-d1e541">
+            IV. Pars. Gratian. Verum ne reuerentia religionis dominos
             suo iure fraudaret, si famuli ad ecclesiae septa confugientes inde nequaquam
             abstrahantur °, sacris canonibus est institutum, ut, prestito a domino sacramento
             inpunitatis, ei etiam reddaturinuitus . </p>
-          <p xml:id="gd-p2c17q4-d1e544"> Unde Gelasius Papa scribit B o nifat io Episcopo : </p>
+          <p xml:id="gd-p2c17q4-d1e544">
+            Unde <ref xml:id="gd-p2c17q4-Rd1e831">Gelasius Papa scribit Bonifat io Episcopo</ref> : 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e548">
           <head xml:id="gd-p2c17q4-Hd1e550">C. XXXII</head>
           <head xml:id="gd-p2c17q4-Hd1e553" type="question-title"> Post prestitam securitatem serui
             restituantur dominis, qui ad ecclesiam confugiunt. </head>
-          <p xml:id="gd-p2c17q4-d1e556"> Metuentes dominos famuli, ad ecclesiae septa si
-            confugerint, intercessionem debent querere, non latebras, ne hec ipsa presumptio
-            tarditatis temeritatem augeatrenitendi. Filius etenim noster uir spectabilis
-            Petrusqueritur seruum suum in ecclesia S. Clementis diutiusconmorari, cui cum deputasset
-            sacramenta prestari, illum egredi nulla ratione uoluisse. Et ideo directussupradicti
-            homo de presenti cum eo, quem elegerisesse mittendum, cum de inpunitate eius
-            sacramentaprebuerit, eum statim facies ad dominum suummodis omnibus remeare, aut, si in
-            hac pertinacia forteextiterit, post sacramentum sibi prestitum reddaturinuitus. </p>
-
+          <p xml:id="gd-p2c17q4-d1e556"> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e848">
+                Metuentes dominos famuli, ad ecclesiae septa si
+                confugerint, intercessionem debent querere, non latebras, ne hec ipsa presumptio
+                tarditatis temeritatem augeatrenitendi. Filius etenim noster uir spectabilis
+                Petrus queritur seruum suum in ecclesia S. Clementis diutiusconmorari, cui cum deputasset
+                sacramenta prestari, illum egredi nulla ratione uoluisse. Et ideo directus supradicti
+                homo de presenti cum eo, quem elegerisesse mittendum, cum de inpunitate eius
+                sacramenta prebuerit, eum statim facies ad dominum suummodis omnibus remeare, aut, si in
+                hac pertinacia forte extiterit, post sacramentum sibi prestitum reddaturinuitus.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e560">
           <head xml:id="gd-p2c17q4-Hd1e562">C. XXXIII</head>
           <head xml:id="gd-p2c17q4-Hd1e565" type="question-title"> Securitate accepta ad rationem
             reddendam fugitiui ab ecclesia eawVe cogantur. </head>
-          <p xml:id="gd-p2c17q4-d1e568"> Idem I oh anni, Episcopo Vibonensi ^. </p>
-          <p xml:id="gd-p2c17q4-d1e571"> Uxor Felicis et filiae Romam, quia sic oportuit,
-            per-uenerunt. Siquidem hunc ipsum primum se ad barbarorum basilicam conferentem seque
-            bonas causas habere iactantem, egredi sub hac condicione precipimus, ut si actus suos
-            fideliter et rationabiliter allegaret, nichilcirca eum prorsus asperum fieri durumque
-            pateremur.Alioquin si contr^ fidem et utilitatem dominicam uenisseprobatur^ ipse sibimet
-            inputaret, atque ordinationicongruae subiaceret. Qui superueniente filio nostro,
-            uirospectabili Ortasio, sic est ad singula queque conuictus, ut os aperire non posset,
-            et uera esse que huic obiceren-tur, uoce propria fateretur, ideoque tenetur
-            custodiamancipatus. </p>
+          <p xml:id="gd-p2c17q4-d1e571">
+            Idem <ref xml:id="gd-p2c17q4-Rd1e864">I oh anni, Episcopo Vibonensi ^. </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e869">
+                Uxor Felicis et filiae Romam, quia sic oportuit,
+                peruenerunt. Siquidem hunc ipsum primum se ad barbarorum basilicam conferentem seque
+                bonas causas habere iactantem, egredi sub hac condicione precipimus, ut si actus suos
+                fideliter et rationabiliter allegaret, nichil circa eum prorsus asperum fieri durumque
+                pateremur. Alioquin si contra fidem et utilitatem dominicam uenisse probatur ipse sibimet
+                inputaret, atque ordinationi congruae subiaceret. Qui superueniente filio nostro,
+                uiro spectabili Ortasio, sic est ad singula queque conuictus, ut os aperire non posset,
+                et uera esse que huic obicerentur, 
+                uoce propria fateretur, ideoque tenetur
+                custodiam ancipatus.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e575">
           <head xml:id="gd-p2c17q4-Hd1e577">C. XXXIV</head>
           <head xml:id="gd-p2c17q4-Hd1e580" type="question-title"> Eripiatur in libertatem seruus,
             cui Christiano Iudeus circumcisionis signaculum inpressit; alioquinab ecclesia suo
             domino reddatur inuitus. </head>
-          <p xml:id="gd-p2c17q4-d1e583"> Idem^i Siracusano , Constantio^*, et Laurentio Episcopis. </p>
-          <p xml:id="gd-p2c17q4-d1e586"> ludas, qui Iudaicae professionis existit, mancipium iuris
-            sui, quod ante paucos annos se asserit conparasse, nuncad ecclesiam Venefranam
-            confugisse suggessit, sicut petitorii tenor annexus ostendit, eo quod dicat sibi ab
-            infantiaChristiano nuper a prefato domino signaculum circumcisionisinfixam. Quapropter
-            uestra diligenter inter utrumque sollicita cura rerum fideliter examinet ueritatem,
-            quatinus necreligio temerata uideatur, nec seruus hac obiectione mentitus conpetentis
-            iura dominii declinare contendat. </p>
+          <p xml:id="gd-p2c17q4-d1e586">
+            <ref xml:id="gd-p2c17q4-Rd1e885">Idem^i Siracusano , Constantio^*, et Laurentio Episcopis.</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e890">
+                Iudas, qui Iudaicae professionis existit, mancipium iuris
+                sui, quod ante paucos annos se asserit conparasse, nunc ad ecclesiam Vene franam
+                confugisse suggessit, sicut petitorii tenor annexus ostendit, eo quod dicat sibi ab
+                infantia Christiano nuper a prefato domino signaculum circumcisionis infixam. Quapropter
+                uestra diligenter inter utrumque sollicita cura rerum fideliter examinet ueritatem,
+                quatinus nec religio temerata uideatur, nec seruus hac obiectione mentitus conpetentis
+                iura dominii declinare contendat.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e590">
           <head xml:id="gd-p2c17q4-Hd1e592">C. XXXV</head>
           <head xml:id="gd-p2c17q4-Hd1e595" type="question-title"> De atrio ecclesiae, quod triginta
             passibus clauditur, nisi prius data securitate fugiens non abstrahatur. </head>
-          <p xml:id="gd-p2c17q4-d1e598"> Item ex Concilio Tolletano XII., [c. 1 o.]- Diffiniuit
-            sanctum concilium, ut nullus audeat confugientes ad ecclesiam uel residentes inde
-            abstrahere, aut quodcunque nocibilitatis, uel dampni, seu spolii, residentibusin loco
-            sancto inferre; sed esse pocius his ipsis, qui ecclesias petunt, per omnia licitum, in
-            triginta passus abecclesiae ianuis progredi, in quibus triginta passibus uniuscuiusque
-            ecclesiae in toto circuitu reuerentia defendatur, sic tamen, ut hii, qui ad eam
-            confugiunt, in extraneisuel longe separatis ab ecclesia domibus nullo modo abscedant,
-            sed in hoc triginta passuum numero absquedomorum extranearum receptaculo
-            progredientesaditum obtinebunt; qualiter ad requisitae naturaeusum debitis exeant locis,
-            et nullo teneantur euentu necessitudinis qui dominicis se defendendos
-            conmiserintclaustris. §. 1. Si quis autem hoc decretum uiolare tempta-uerit, et
-            ecclesiasticae excommunicationi subiaceat, et </p>
-
-
-
-
-          <p xml:id="gd-p2c17q4-d1e601"> seueritatis regiae feriatur sentencia. §. 2. Ipsos autem,
-            qui ad ecclesiam confugium fecerunt, si iuxta priscorumcanonum instituta hii, qui eos
-            repetunt, sacramentareddiderint, et sacerdos ecclesiae ipsius ab ecclesiaeforibus non
-            abstraxerit, aut fuga talium, si euenerit, sacerdoti querenda est, aut dampnorum
-            sentencia secundumelectionem principis huiusmodi sacerdotibus irroganda. </p>
+          <p xml:id="gd-p2c17q4-d1e598"> 
+            <ref xml:id="gd-p2c17q4-Rd1e906">Item ex Concilio Tolletano XII., [c. 1 o.]-</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e911">
+                Diffiniuit
+                sanctum concilium, ut nullus audeat confugientes ad ecclesiam uel residentes inde
+                abstrahere, aut quodcunque nocibilitatis, uel dampni, seu spolii, residentibus in loco
+                sancto inferre; sed esse pocius his ipsis, qui ecclesias petunt, per omnia licitum, in
+                triginta passus ab ecclesiae ianuis progredi, in quibus triginta passibus uniuscuiusque
+                ecclesiae in toto circuitu reuerentia defendatur, sic tamen, ut hii, qui ad eam
+                confugiunt, in extraneis uel longe separatis ab ecclesia domibus nullo modo abscedant,
+                sed in hoc triginta passuum numero absque domorum extranearum receptaculo
+                progredientes aditum obtinebunt; qualiter ad requisitae naturae usum debitis exeant locis,
+                et nullo teneantur euentu necessitudinis qui dominicis se defendendos
+                conmiserint claustris.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e916">
+            §. 1. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e920">
+                Si quis autem hoc decretum uiolare temptauerit, et
+                ecclesiasticae excommunicationi subiaceat, et 
+                seueritatis regiae feriatur sentencia.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e925">
+            §. 2. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e929">
+                Ipsos autem,
+                qui ad ecclesiam confugium fecerunt, si iuxta priscorum canonum instituta hii, qui eos
+                repetunt, sacramenta reddiderint, et sacerdos ecclesiae ipsius ab ecclesiae foribus non
+                abstraxerit, aut fuga talium, si euenerit, sacerdoti querenda est, aut dampnorum
+                sentencia secundum electionem principis huiusmodi sacerdotibus irroganda.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e605">
           <head xml:id="gd-p2c17q4-Hd1e607">C. XXXVI</head>
           <head xml:id="gd-p2c17q4-Hd1e610" type="question-title"> Ante datam securitatem de atrio
             ecclesiae fugitiuus non cogatur exire. </head>
-          <p xml:id="gd-p2c17q4-d1e613"> Item ex Concilio Aurelianensi [I., c. 3. et 5.] </p>
-          <p xml:id="gd-p2c17q4-d1e616"> Id constituimus obseruandum, quod ecclesiasticicanones
-            decreuerunt, et lex Romana constituit, ut ab ecclesiae atriis uel domo episcopi eos*
-            abstrahereomnino non liceat, sed nec alteri consignare, nisi adeuangelia datis
-            sacramentis de morte, et debilitate, etomni penarum genere sint securi, ita ut ei, cui
-            reus fueritcriminosus, de satisfactione conueniat. Quod sisacramenta sua conuictus
-            fuerit uiolasse, reus periurii nonsolum a communione ecclesiae uel omnium clericorum,
-            uerum etiam catholicorum conuiuio separetur.Quod si is, cui reus est, uoluerit sibi**
-            intentione faciente conponi, et ipse reus actus de ecclesia timore discesserit, ab
-            ecclesiae clericis non queratur. §. 1. Seruusetiam, qui ad ecclesiam confugerit pro
-            qualibet culpa, si a domino pro admissa culpa sacramentum susceperit, statim ad
-            seruitium domini sui redire cogatur, et posteaquanr# dato sacramento domino suofuerit
-            consignatus, si aliquid penae pro eadem culpa, qua excusatur***, probatus fuerit
-            pertulisse, pro contemptu ecclesiae et preuaricatione fidei a communione etconuiuio
-            catholicorum extraneus habeatur. Si uero seruuspro culpa sua ab ecclesia defensatus
-            sacramenta dominiclericis exigentibus de inpunitate perceperit, exire nolentema domino
-            liceat occupari. </p>
+          <p xml:id="gd-p2c17q4-d1e616">
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e945">Concilio Aurelianensi [I., c. 3. et 5.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e950">
+                Id constituimus obseruandum, quod ecclesiastici canones
+                decreuerunt, et lex Romana constituit, ut ab ecclesiae atriis uel domo episcopi eos*
+                abstrahere omnino non liceat, sed nec alteri consignare, nisi ad euangelia datis
+                sacramentis de morte, et debilitate, et omni penarum genere sint securi, ita ut ei, cui
+                reus fuerit criminosus, de satisfactione conueniat. Quod sisacramenta sua conuictus
+                fuerit uiolasse, reus periurii non solum a communione ecclesiae uel omnium clericorum,
+                uerum etiam catholicorum conuiuio separetur. Quod si is, cui reus est, uoluerit sibi**
+                intentione faciente conponi, et ipse reus actus de ecclesia timore discesserit, ab
+                ecclesiae clericis non queratur.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e955">
+            §. 1. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e959">
+                Seruus etiam, qui ad ecclesiam confugerit pro
+                qualibet culpa, si a domino pro admissa culpa sacramentum susceperit, statim ad
+                seruitium domini sui redire cogatur, et postea quanr dato sacramento domino suo fuerit
+                consignatus, si aliquid penae pro eadem culpa, qua excusatur, probatus fuerit
+                pertulisse, pro contemptu ecclesiae et preuaricatione fidei a communione et conuiuio
+                catholicorum extraneus habeatur. Si uero seruus pro culpa sua ab ecclesia defensatus
+                sacramenta domini clericis exigentibus de inpunitate perceperit, exire nolentema domino
+                liceat occupari.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e966">
+          <head xml:id="gd-p2c17q4-Hd1e968">Dictum</head>
           <p xml:id="gd-p2c17q4-d1e619"> V. Pars. Gratian. Occasione namque religionis seruus
-            dominum suum contempnere , et eius ministerium destituere nondebet. </p>
-          <p xml:id="gd-p2c17q4-d1e623"> Unde in Gangrensi Concilio [c. 3.] legitur : </p>
+            dominum suum contempnere , et eius ministerium destituere non debet. 
+          </p>
+          <p xml:id="gd-p2c17q4-d1e974">
+            Unde in <ref xml:id="gd-p2c17q4-Rd1e976">Gangrensi Concilio [c. 3.]</ref> legitur :
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e628">
           <head xml:id="gd-p2c17q4-Hd1e630">C. XXXVII</head>
           <head xml:id="gd-p2c17q4-Hd1e633" type="question-title"> Religionis occasione dominum suum
             non audeat seruus contempnere.</head>
-          <p xml:id="gd-p2c17q4-d1e636"> Si quis seruum alienum occasione religionis docetdominum
-            suum contempnere, et eius ministerium destituere, ac non pocius docuerit eum suo domino
-            bona fide etcum omni honorificentia deseruire, anathema sit. </p>
-
+          <p xml:id="gd-p2c17q4-d1e636">
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e993">
+                Si quis seruum alienum occasione religionis docet dominum
+                suum contempnere, et eius ministerium destituere, ac non pocius docuerit eum suo domino
+                bona fide et cum omni honorificentia deseruire, anathema sit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e640">
           <head xml:id="gd-p2c17q4-Hd1e642">C. XXXVIII</head>
           <head xml:id="gd-p2c17q4-Hd1e645" type="question-title"> Corripiatur durissime qui causa
             religionis docuerit seruum dominum suum contempnere. </head>
-          <p xml:id="gd-p2c17q4-d1e648"> Item ex Concilio Martini Papae , [c. 47.] </p>
-          <p xml:id="gd-p2c17q4-d1e651"> Si quis seruum alienum causa religionis doceat contempnere
-            dominum suum, et recedere a seruitio eius, durissime in omnibus arguatur. </p>
+          <p xml:id="gd-p2c17q4-d1e651">
+            Item ex 
+            <ref xml:id="gd-p2c17q4-Rd1e1009">Concilio Martini Papae , [c. 47.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1014">
+                Si quis seruum alienum causa religionis doceat contempnere
+                dominum suum, et recedere a seruitio eius, durissime in omnibus arguatur.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e655">
           <head xml:id="gd-p2c17q4-Hd1e657">C. XXXIX</head>
           <head xml:id="gd-p2c17q4-Hd1e660" type="question-title"> Primati insinuetur necessitas ,
             que res ecclesiae distrahere conpellit. </head>
-          <p xml:id="gd-p2c17q4-d1e663"> Item ex Concilio Cartaginensi , c. 31. 438 a* </p>
-          <p xml:id="gd-p2c17q4-d1e666"> Nullus res ecclesiae distrahat. Quod si redditus** non
-            habeat, et aliqua necessitas nimia cogit, hanc insinuandam esse primati ipsius
-            prouinciae censemus, utcum statuto numero episcoporum utrum faciendum sit arbitretur. Et
-            si tanta urget necessitas ecclesiae, ut nonpossit ante primatem consulere, saltem
-            uicinos ***conuocet episcopos, curans ad concilium referre omnemecclesiae necessitatem.
-            Quod si non fecerit, reus Deo etsancto concilio uenditor honore amisso + teneatur. </p>
+          <p xml:id="gd-p2c17q4-d1e666"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e1030">Concilio Cartaginensi , c. 31. 438 a* </ref>
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1035">
+                Nullus res ecclesiae distrahat. Quod si redditus** non
+                habeat, et aliqua necessitas nimia cogit, hanc insinuandam esse primati ipsius
+                prouinciae censemus, ut cum statuto numero episcoporum utrum faciendum sit arbitretur. Et
+                si tanta urget necessitas ecclesiae, ut non possit ante primatem consulere, saltem
+                uicinos ***conuocet episcopos, curans ad concilium referre omnem ecclesiae necessitatem.
+                Quod si non fecerit, reus Deo et sancto concilio uenditor honore amisso + teneatur.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e670">
           <head xml:id="gd-p2c17q4-Hd1e672">C. XL</head>
           <head xml:id="gd-p2c17q4-Hd1e675" type="question-title"> Sine licentia episcopi quicquid
             abbas uendiderit , m irritum deducatur. </head>
-          <p xml:id="gd-p2c17q4-d1e678"> Item ex Concilio Agatensi , [c. 56.] </p>
-          <p xml:id="gd-p2c17q4-d1e681"> In uenditionibus, quas abbates facere presumunt, hec forma
-            seruetur, ut quicquid sine episcopi licentia* uendi-tum fuerit ad potestatem episcopi
-            reuocetur. §. 1. Mancipia uero monachis donata ab abbate manumittinon licet. Iniustum
-            enim putamus, ut, monachis cot-tidianum rurale opus facientibus, serui eorum
-            libertatisotio potiantur. </p>
-          <p xml:id="gd-p2c17q4-d1e684"> VI. Pars. Gratian. Etiam si episcopo consentiente
+          <p xml:id="gd-p2c17q4-d1e681"> 
+            Item ex <ref xml:id="gd-p2c17q4-Rd1e1051">Concilio Agatensi , [c. 56.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1056">
+                In uenditionibus, quas abbates facere presumunt, hec forma
+                seruetur, ut quicquid sine episcopi licentia uenditum fuerit ad potestatem episcopi
+                reuocetur.
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c17q4-d1e1061">
+            §. 1. 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1065">
+                Mancipia uero monachis donata ab abbate manumitti non licet. Iniustum
+                enim putamus, ut, monachis cottidianum rurale opus facientibus, serui eorum
+                libertatis otio potiantur.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e1071">
+          <head xml:id="gd-p2c17q4-Hd1e1073">Dictum</head>
+          <p xml:id="gd-p2c17q4-d1e684">
+            VI. Pars. Gratian. Etiam si episcopo consentiente
             monasterii possessio ab abbate data fuerit , nullius momenti erit donatio , nisi forte
             in ecclesiae fabricam erigendam donatio processerit. Quo casu tantum ei donare licet ,
-            quantum ecclesiaeparietes concludunt. </p>
-          <p xml:id="gd-p2c17q4-d1e688"> Unde Gregorius scribit , [lib. VII. Indict. 1. epist. 33.,
-            Iohanni Episcopo Scyllacaeno];: </p>
+            quantum ecclesiae parietes concludunt.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e688"> 
+            Unde <ref xml:id="gd-p2c17q4-Rd1e1081">Gregorius scribit , [lib. VII. Indict. 1. epist. 33.,
+            Iohanni Episcopo Scyllacaeno]</ref>; 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e692">
           <head xml:id="gd-p2c17q4-Hd1e694">C. XLI</head>
           <head xml:id="gd-p2c17q4-Hd1e697" type="question-title"> Nullo titulo res monasterii
             ualent ab eius iure segregari.</head>
-          <p xml:id="gd-p2c17q4-d1e700"> Questi nobis sunt predicti monasterii monachi abbatem suum
-            terram intra Scillacenum* castrum, que in DC. pedes extenditur, sub pretextu fabricandae
-            ecclesiae fraternitati tuae donationis titulo concessisse. Ideo uolumus, quantum
-            parietes edificatae ecclesiae circumdare possunt, iuri ecclesiae uendicare. Quicquid
-            uero extra parieteseiusdem ecclesiae esse potuerit^ in iure monasteriisine difficultate
-            aliqua reuertatur, quia nec mundanarumlegum, nec sacrorum canonum statuta permittunt res
-            monasterii ab eius iure quolibet titulo segregari. Eapropter donationem eiusdem terrae,
-            que contra rationem factaest, sine aliqua dilatione restitue. </p>
-
-
-
+          <p xml:id="gd-p2c17q4-d1e700">
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1099">
+                Questi nobis sunt predicti monasterii monachi abbatem suum
+                terram intra Scillacenum* castrum, que in DC. pedes extenditur, sub pretextu fabricandae
+                ecclesiae fraternitati tuae donationis titulo concessisse. Ideo uolumus, quantum
+                parietes edificatae ecclesiae circumdare possunt, iuri ecclesiae uendicare. Quicquid
+                uero extra parietes eiusdem ecclesiae esse potuerit^ in iure monasteriisine difficultate
+                aliqua reuertatur, quia nec mundanarum legum, nec sacrorum canonum statuta permittunt res
+                monasterii ab eius iure quolibet titulo segregari. Eapropter donationem eiusdem terrae,
+                que contra rationem facta est, sine aliqua dilatione restitue.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e704">
-          <head xml:id="gd-p2c17q4-Hd1e706"> [PALE A*. C. XLII. </head>
-          <p xml:id="gd-p2c17q4-d1e709"> Hanc ergo scriptorum nostrorum paginam omni in futuro
-            tempore a te, ab omnibus episcopis firmam statuimus illibatamque seruari, ut et suae
-            ecclesiae iuuanteDomino tantummodo sint iure contenti, et monasteria ecclesiasticis
-            condicionibus, seu angariis, siue quibuslibet obsequiis secularibus nullo modo
-            subiaceant, nullis canonicisiuribus deseruiant, sed remotis uexationibus diuinum opuscum
-            summa deuotione perficiant.] </p>
-          <p xml:id="gd-p2c17q4-d1e712"> VII. Pars. Gratian. Sed notandum est, quod aliud est in
-            suos uel propinquorum usus res ecclesiae conuertere {quamperniciosam cupiditatem sacri
-            canones ubique prohibent, et dam-pnabilem ostendunt), aliud est quod ex dispensatione
-            Tcaritatishumanae infirmitati consulitur, ut quondam sua illi reddantur, qui in sacro
-            proposito manere contempnit. Quod non tam iurefori quam iure poli nonnullos sanctorum
-            fecisse legimus. Beatusenim Iohannes euangelista duobus iuuenibus, quos penitueratomnia
-            sua pro Christo reliquisse, et pauperibus erogasse, aurumet gemmas reddidit, ut cuncta,
-            que uendiderant, sibi redimerent.Sed obicitur: B. Iohannes non oblata reddidit, que
-            pauperibusiam erogata fuerant, sed alia recompensauit, que in pauperumuel ecclesiarum
+          <head xml:id="gd-p2c17q4-Hd1e706">C. XLII. [PALEA]</head>
+          <p xml:id="gd-p2c17q4-d1e709"> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1114">
+                Hanc ergo scriptorum nostrorum paginam omni in futuro
+                tempore a te, ab omnibus episcopis firmam statuimus illibatamque seruari, ut et suae
+                ecclesiae iuuante Domino tantummodo sint iure contenti, et monasteria ecclesiasticis
+                condicionibus, seu angariis, siue quibuslibet obsequiis secularibus nullo modo
+                subiaceant, nullis canonicis iuribus deseruiant, sed remotis uexationibus diuinum opus cum
+                summa deuotione perficiant.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e1120">
+          <head xml:id="gd-p2c17q4-Hd1e1122">Dictum</head>
+          <p xml:id="gd-p2c17q4-d1e712">
+            VII. Pars. Gratian. Sed notandum est, quod aliud est in
+            suos uel propinquorum usus res ecclesiae conuertere (quam perniciosam cupiditatem sacri
+            canones ubique prohibent, et dampnabilem ostendunt), aliud est quod ex dispensatione
+            caritatis humanae infirmitati consulitur, ut quondam sua illi reddantur, qui in sacro
+            proposito manere contempnit. Quod non tam iure fori quam iure poli nonnullos sanctorum
+            fecisse legimus. Beatus enim Iohannes euangelista duobus iuuenibus, quos penituerat omnia
+            sua pro Christo reliquisse, et pauperibus erogasse, aurum et gemmas reddidit, ut cuncta,
+            que uendiderant, sibi redimerent. Sed obicitur: B. Iohannes non oblata reddidit, que
+            pauperibus iam erogata fuerant, sed alia recompensauit, que in pauperum uel ecclesiarum
             facultatibus numquam conputata fuerant. Similiter si abbas uel episcopus aliqua
-            habuerit, que in ecclesiasticisfacultatibus nondum sunt annumerata, exemplo B. Iohannis
-            detilla recedenti, oblata uero ecclesiae retineat. §.2. Sequitur ergo aliud exemplum,
-            quo eadem, que ablata sunt, laudabiliterreddita^ monstrentur. </p>
-          <p xml:id="gd-p2c17q4-d1e715"> Augustinus in sermone [II.] de uita clericorum ^: </p>
+            habuerit, que in ecclesiasticis facultatibus nondum sunt annumerata, exemplo B. Iohannis
+            detilla recedenti, oblata uero ecclesiae retineat.
+          </p>
+          <p xml:id="gd-p2c17q4-d1e1128">
+            §.2. Sequitur ergo aliud exemplum,
+            quo eadem, que ablata sunt, laudabiliter reddita^ monstrentur. </p>
+          <p xml:id="gd-p2c17q4-d1e715"> <ref xml:id="gd-p2c17q4-Rd1e1133">Augustinus in sermone [II.] de uita clericorum</ref>: </p>
         </div>
         <div xml:id="gd-p2c17q4-Dd1e720">
           <head xml:id="gd-p2c17q4-Hd1e722">C. XLIII</head>
           <head xml:id="gd-p2c17q4-Hd1e725" type="question-title"> Non debet ecclesia suscipere que
             filio exheredato sibi offeruntur. </head>
-          <p xml:id="gd-p2c17q4-d1e728"> Quicumque uult exheredato filio heredem facere ecclesiam,
-            querat alterum, qui suscipiat, non Augustinum: imo, Deo propitio, neminem inueniet. Quam
-            laudabilefactum sancti Aurelii Cartaginensis episcopi? Quidam enim, cum filios non
-            haberet, nec speraret, res suasomnes (retento sibi usufructu) donauit ecclesiae. Nati
-            suntilli filii 485 f reddidit episcopus nec^ opinanti eaque ille donauerat. In potestate
-            habebat episcopusnon reddere, sed iure fori, non iure poli. </p>
+          <p xml:id="gd-p2c17q4-d1e728"> 
+            <cit>
+              <quote xml:id="gd-p2c17q4-Qd1e1150">
+                Quicumque uult exheredato filio heredem facere ecclesiam,
+                querat alterum, qui suscipiat, non Augustinum: imo, Deo propitio, neminem inueniet. Quam
+                laudabile factum sancti Aurelii Cartaginensis episcopi? Quidam enim, cum filios non
+                haberet, nec speraret, res suas omnes (retento sibi usufructu) donauit ecclesiae. Nati
+                suntilli filii 485 f reddidit episcopus nec^ opinanti eaque ille donauerat. In potestate
+                habebat episcopus non reddere, sed iure fori, non iure poli.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q4-Dd1e1156">
+          <head xml:id="gd-p2c17q4-Hd1e1158">Dictum</head>
           <p xml:id="gd-p2c17q4-d1e731"> Gratian. Ecce, quod aliquando oblata iure et laudabiliter
             redduntur. Verum A non hoc exemplo recedenti sua reddenda monstrantur. Aliud est enim in
             professione suae uitae persistere, aliud a proposito sui ordinis discedere . Si S.
-            Aurelius degentiin laicali habitu oblata reddidit, quia post oblationem filios accepit ,
+            Aurelius degenti in laicali habitu oblata reddidit, quia post oblationem filios accepit ,
             non ideo in apostasiam euntibus sua reddenda sunt, quibus utilius necessaria
             subtraherentur, ut coacti redirent adordinem, a quo recesserant. Sed sicut inimicis et
-            persecutoribusiubemur necessaria subministrare, sicut ab Apostolo monemurtempus
-            redimere, ut expeditius orationi uacemus: sic, ne ecclesiascandalum patiatur, ne
+            persecutoribus iubemur necessaria subministrare, sicut ab Apostolo monemur tempus
+            redimere, ut expeditius orationi uacemus: sic, ne ecclesia scandalum patiatur, ne
             discedens in deteriora precipitetur, ne inperniciem monachorum aut incendium monasterii
-            occasionesuorum exardescat , laudabilius sua sibi non dico redduntur, sedauferri
-            sinuntur^, quam ab illo ista inferantur. </p>
-
+            occasione suorum exardescat , laudabilius sua sibi non dico redduntur, sed auferri
+            sinuntur, quam ab illo ista inferantur. 
+          </p>
         </div>
       </div>
     </body>
