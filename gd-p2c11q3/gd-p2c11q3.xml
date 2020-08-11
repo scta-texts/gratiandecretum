@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,11 +54,13 @@
     <body>
       <div xml:id="gd-p2c11q3">
         <head xml:id="gd-p2c11q3-Hd1e103"> QUESTIO III. </head>
-        <p xml:id="gd-p2c11q3-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c11q3-d1e109"> I. Pars. Sed ponatur, quod hec culpa suspensione dignanon
+        <div xml:id="gd-p2c11q3-Dd1e106">
+          <head xml:id="gd-p2c11q3-Hd1e108">Dictum</head>
+        <p xml:id="gd-p2c11q3-d1e109"> GRATIANUS.  I. Pars. Sed ponatur, quod hec culpa suspensione dignanon
           fuerit ;, queritur, utrum sit deponendus qui offitium contraprohibitionem episcopi
           celebrare ausus est? Sed quod sententiaepiscopi, siue iusta siue iniusta fuerit, timenda*
           sit, Gregorius [homil. XXVI. in euangelia] testatur, dicens *: </p>
+        </div>
         <div xml:id="gd-p2c11q3-Dd1e112">
           <head xml:id="gd-p2c11q3-Hd1e114">C. I</head>
           <head xml:id="gd-p2c11q3-Hd1e117" type="question-title"> Gregi timenda est sententia
@@ -72,12 +72,14 @@
           <head xml:id="gd-p2c11q3-Hd1e126">C. II</head>
           <head xml:id="gd-p2c11q3-Hd1e129" type="question-title"> A suo episcopo excommunicatus non
             est ab alio recipiendus.</head>
-          <p xml:id="gd-p2c11q3-d1e132"> Item ex Concilio Antio ceno, [c. 6.] </p>
-          <p xml:id="gd-p2c11q3-d1e135"> Si quis a proprio episcopo excommunicatus est, noneum prius
+          <p xml:id="gd-p2c11q3-d1e135"> 
+            Item ex Concilio Antioceno, [c. 6.]
+            Si quis a proprio episcopo excommunicatus est, noneum prius
             ab aliis debere suscipi, nisi aut a suo fueritreceptus episcopo, aut concilio facto
             episcopis* occurratet respondeat, et si Sinodo satisfecerit et statuerit, subalia eum
             sententia recipi. Quod etiam circa laicos, etpresbiteros, et diacones, et omnes, qui in
-            clero sunt conuenit obseruari. </p>
+            clero sunt conuenit obseruari. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e140">
           <head xml:id="gd-p2c11q3-Hd1e142">C. III</head>
@@ -85,12 +87,8 @@
             meretur qui excommunicatis communicat . </head>
           <p xml:id="gd-p2c11q3-d1e148"> Item Nicolaus ad Lotharium Regem [in epistola, cuius
             initium: „Audito“]*. </p>
-          <p xml:id="gd-p2c11q3-d1e151"> Precipue Waldradae pellicis tuae et dudum a </p>
-
-
-
-
-          <p xml:id="gd-p2c11q3-d1e154"> te repudiatae communionem declina; excommunicata est enim
+          <p xml:id="gd-p2c11q3-d1e151"> Precipue Waldradae pellicis tuae et dudum a 
+            te repudiatae communionem declina; excommunicata est enim
             et usque ad presentiam nostram ab omni contubernioChristianorum sequestrata. Quamobrem
             cauendum est, ne cum ea pari mucrone percellaris sententiae, ac pro uniusmulierculae
             passione uinctus et obligatus ad perhenne traharis exitium. Deterius quippe in populis
@@ -105,8 +103,9 @@
         <div xml:id="gd-p2c11q3-Dd1e158">
           <head xml:id="gd-p2c11q3-Hd1e160">C. IV</head>
           <head xml:id="gd-p2c11q3-Hd1e163" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q3-d1e166"> Item ex Concilio Sardicensi , c.. 17.* </p>
-          <p xml:id="gd-p2c11q3-d1e169"> Si episcopus forte iracundus (quod non debet esse) cito et
+          <p xml:id="gd-p2c11q3-d1e169"> 
+            Item ex <ref xml:id="gd-p2c11q3-Rd1e165">Concilio Sardicensi , c.. 17.* </ref>
+            Si episcopus forte iracundus (quod non debet esse) cito et
             aspere conmouetur aduersus presbiterum siuediaconum, et eum de ecclesia exterminare
             uoluerit, pro-uidendum est, ne innocens dampnetur aut perdat communionem. Et ideo habeat
             potestatem is, qui abiectus est, ut episcopos finitimos interpellet, et causa eius
@@ -119,21 +118,24 @@
         <div xml:id="gd-p2c11q3-Dd1e173">
           <head xml:id="gd-p2c11q3-Hd1e175">C. V</head>
           <head xml:id="gd-p2c11q3-Hd1e178" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q3-d1e181"> Item ex Concilio Cartaginensi , [II. c. 8.]Si quis
-            presbiter ab episcopo* suo correptus fuerit, </p>
-
-          <p xml:id="gd-p2c11q3-d1e184"> debet utique apud uicinos episcopos conqueri, ut ab ipsis
+          <p xml:id="gd-p2c11q3-d1e181">
+            Item ex <ref xml:id="gd-p2c11q3-Rd1e180">Concilio Cartaginensi , [II. c. 8.]</ref>
+            Si quis
+            presbiter ab episcopo* suo correptus fuerit, debet utique apud uicinos episcopos conqueri, ut ab ipsis
             eius causa possit audiri, ac per ipsos suo episcopo reconciliari. Quod nisi fecerit, sed
             superbia (quod absit) inflatussecernendum se ab episcopi sui communione duxerit,
             acseparatim cum aliquibus scisma faciens sacrificium Deoobtulerit, anathema habeatur et
             nichilo minus locumamittat. At si** querimoniam*** iustam aduersus episcopum habuerit,
-            inquirendum est. </p>
+            inquirendum est. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e188">
           <head xml:id="gd-p2c11q3-Hd1e190">C. VI</head>
           <head xml:id="gd-p2c11q3-Hd1e193" type="question-title"> De his , qui dampnati a Sinodo
             sacra misteria contingunt. </head>
-          <p xml:id="gd-p2c11q3-d1e196"> Item ex Concilio Antio ceno, [c. 4.]Si quis episcopus
+          <p xml:id="gd-p2c11q3-d1e196"> 
+            Item ex <ref xml:id="gd-p2c11q3-Rd1e195">Concilio Antio ceno, [c. 4.]</ref>
+            Si quis episcopus
             dampnatur* a Sinodo, uel si presbiter aut diaconus a suo episcopo, et ausi fuerint
             aliquid de ministerio sacro contingere, ”siue episcopus iuxtaprecedentem consuetudinem,
             siue presbiter aut diaconus, nullo modo liceat ei, nec in alia Sinodo, spem
@@ -145,38 +147,37 @@
           <head xml:id="gd-p2c11q3-Hd1e202">C. VII</head>
           <head xml:id="gd-p2c11q3-Hd1e205" type="question-title"> Sine spe sit reconciliationis qui
             communicare presumit excommunicatis. </head>
-          <p xml:id="gd-p2c11q3-d1e208"> Item ex Concilio Martini Papae , [c. 37.]Si quis episcopus
+          <p xml:id="gd-p2c11q3-d1e208"> Item ex <ref xml:id="gd-p2c11q3-Rd1e210">Concilio Martini Papae , [c. 37.]</ref> 
+            Si quis episcopus
             in concilio excommunicatus fuerit, siue presbiter aut diaconus a suo episcopo, et post
             excommunicationem presumpserit siue episcopus ille, aut presbiter uel diaconus facere
             oblationem, uel matutinumuel uespertinum sacrificium quasi in offitio suo ageresicut
             prius, non liceat ei nec in alio concilio spem reconciliationis habere, nec ultra
             reconciliari, sed etiam eos, quiei communicauerint, omnes ab ecclesia respui, maxime
-            eos, qui sciebant eum esse deiectum. Si autem permanserit </p>
-
-
-
-
-          <p xml:id="gd-p2c11q3-d1e211"> turbans et concitans ecclesiam per forasticam* potestatem,
+            eos, qui sciebant eum esse deiectum. Si autem permanserit 
+            turbans et concitans ecclesiam per forasticam* potestatem,
             oportet eum sicut seditionarium ab omni plebe expelli. </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e215">
           <head xml:id="gd-p2c11q3-Hd1e217">C. VIII</head>
           <head xml:id="gd-p2c11q3-Hd1e220" type="question-title"> De episcopis , qui innocentes aut
             minimis causis culpabiles excommunicant. </head>
-          <p xml:id="gd-p2c11q3-d1e223"> Item ex Concilio Agat ensi, [c. 3.] </p>
-          <p xml:id="gd-p2c11q3-d1e226"> Episcopi, si sacerdotali moderatione postposita innocentes
+          <p xml:id="gd-p2c11q3-d1e226"> Item ex Concilio Agat ensi, [c. 3.]  
+            Episcopi, si sacerdotali moderatione postposita innocentes
             aut minimis causis culpabiles excommunicare presumpserint, aut ad gratiam baptismi*
-            festinantes fortasse recipere noluerint, a" uicims episcopis eiusdemprouinciae litteris
+            festinantes fortasse recipere noluerint, a uicims episcopis eiusdem prouinciae litteris
             moneantur, et si parere noluerint, communio illis usque ad tempus sinodi a reliquis
             episcopis denegetur**, ne forte per excommunicationis peccatum excommunicati longo
-            tempore morte preueniantur. </p>
+            tempore morte preueniantur.
+          </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e231">
           <head xml:id="gd-p2c11q3-Hd1e233">C. IX</head>
           <head xml:id="gd-p2c11q3-Hd1e236" type="question-title"> De bis , qui tempore
             excommunicationis suae communicare presumunt. </head>
-          <p xml:id="gd-p2c11q3-d1e239"> Item ex Concilio Affricano *. </p>
-          <p xml:id="gd-p2c11q3-d1e242"> Placuit uniuerso concilio, ut qui excommunicatus fuerit pro
+          <p xml:id="gd-p2c11q3-d1e242"> 
+            Item ex Concilio Affricano
+            Placuit uniuerso concilio, ut qui excommunicatus fuerit pro
             suo neglectu, siue episcopus quilibet siue clericus, ettempore suae excommunicationis
             ante audientiam communicare presumpserit, ipse in se dampnationis iudiceturprotulisse
             sententiam. </p>
@@ -185,9 +186,9 @@
           <head xml:id="gd-p2c11q3-Hd1e248">C. X</head>
           <head xml:id="gd-p2c11q3-Hd1e251" type="question-title"> Deponantur episcopi , qui
             excommunicatis communicant. </head>
-          <p xml:id="gd-p2c11q3-d1e254"> Item Nicolaus Papa *. </p>
-
-          <p xml:id="gd-p2c11q3-d1e257"> Teugaldum Treuerensem et primatem Belgicae prouinciae, et
+          <p xml:id="gd-p2c11q3-d1e257"> 
+            Item <ref xml:id="gd-p2c11q3-Rd1e250">Nicolaus Papa</ref>
+            Teugaldum Treuerensem et primatem Belgicae prouinciae, et
             Guntarium Agrippinae Coloniae archiepiscopos, nunc coram uobis et sancta Sinodo, sub
             gestorum insinuatione, qualiter causam Lotharii regis, etduarum mulierum eius, Thebergae
             scilicet et Gualdra-dae, recognouerint et iudicauerint, scriptum super hocpropriis
@@ -209,8 +210,9 @@
           <head xml:id="gd-p2c11q3-Hd1e263">C. XI</head>
           <head xml:id="gd-p2c11q3-Hd1e266" type="question-title"> Clerici et laici , qui non
             obediant episcopis , infames efficiuntur . </head>
-          <p xml:id="gd-p2c11q3-d1e269"> Item Clemens [epist. III. omnibus Coepiscopis]. </p>
-          <p xml:id="gd-p2c11q3-d1e272"> Si autem uobis episcopis non obedierint omnes presbiteri ,
+          <p xml:id="gd-p2c11q3-d1e272"> 
+            Item <ref xml:id="gd-p2c11q3-Rd1e265">Clemens [epist. III. omnibus Coepiscopis].</ref>
+            Si autem uobis episcopis non obedierint omnes presbiteri ,
             et reliqui clerici, omnesque principes tam maioris ordinis quam inferioris, atque
             reliqui populi, non soluminfames, sed etiam extorres a regno Dei et a consortio
             fidelium, et a liminibus sanctae Dei ecclesiaealieni erunt. </p>
@@ -219,33 +221,39 @@
           <head xml:id="gd-p2c11q3-Hd1e278">C. XII</head>
           <head xml:id="gd-p2c11q3-Hd1e281" type="question-title"> In Christum peccat qui ueritatis
             doctorem contristat.</head>
-          <p xml:id="gd-p2c11q3-d1e284"> Item Petrus in ordinatione Clementis. </p>
-          <p xml:id="gd-p2c11q3-d1e287"> Quicumque contristauerit doctorem ueritatis peccat in
+          <p xml:id="gd-p2c11q3-d1e287"> 
+            Item <ref xml:id="gd-p2c11q3-Rd1e280">Petrus in ordinatione Clementis.</ref>
+            Quicumque contristauerit doctorem ueritatis peccat in
             Christum, et patrem omnium exacerbat Deum, propter quodet uita carebit. </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e291">
           <head xml:id="gd-p2c11q3-Hd1e293">C. XIII</head>
           <head xml:id="gd-p2c11q3-Hd1e296" type="question-title"> Simulata uirtutum affectione non
             denegetur obedientia episcopo. </head>
-          <p xml:id="gd-p2c11q3-d1e299"> Item Ambrosius in lib. [II.] de offitiis , [c. 24.] </p>
-          <p xml:id="gd-p2c11q3-d1e302"> Si quis non obediat episcopo, sese extollere atque exaltare
+          <p xml:id="gd-p2c11q3-d1e302"> 
+            <ref xml:id="gd-p2c11q3-Rd1e295">Ambrosius in lib. [II.] de offitiis , [c. 24.]</ref>
+            Si quis non obediat episcopo, sese extollere atque exaltare
             desiderans, querens etiam obumbrare meritaepiscopi simulata affectatione doctrinae, aut
-            humilitatis, aut misericordiae, is a uero deuius superbit, quoniam ueri- </p>
-
-
-
-
-          <p xml:id="gd-p2c11q3-d1e305"> tatis ea regula est, ut nichil faciat conmendandi suicausa,
+            humilitatis, aut misericordiae, is a uero deuius superbit, quoniam ueritatis 
+            ea regula est, ut nichil faciat conmendandi suicausa,
             quo minor alius fiat, neque si quid boni operishabeas, id ad deformationem alterius et
-            uituperationemexerceas. §. i. Non defendas inprobum, et sancta indignoconmittenda non
-            arbitreris. §. 2. Neque iterum arguaset inpugnes cuius crimen non deprehenderis. </p>
+            uituperationemexerceas.
+          </p>
+          <p xml:id="gd-p2c11q3-d1e299">
+            §. i. Non defendas inprobum, et sancta indignoconmittenda non
+            arbitreris.
+          </p>
+          <p xml:id="gd-p2c11q3-d1e30X">
+            §. 2. Neque iterum arguas et inpugnes cuius crimen non deprehenderis. </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e309">
           <head xml:id="gd-p2c11q3-Hd1e311">C. XIV</head>
           <head xml:id="gd-p2c11q3-Hd1e314" type="question-title"> Episcopo non obediens demonum ore
             decerpitur^*.</head>
-          <p xml:id="gd-p2c11q3-d1e317"> Item Anterus Papa [Episcopis Hispaniae]. </p>
-          <p xml:id="gd-p2c11q3-d1e320"> Absit, ut quicquam sinistrum de his arbitremur, qui
+          
+          <p xml:id="gd-p2c11q3-d1e320">
+            Item Anterus Papa [Episcopis Hispaniae].
+            Absit, ut quicquam sinistrum de his arbitremur, qui
             apostolico gradui succedentes Christi corpus sacro oreconficiunt, per quos nos
             Christiani sumus, qui clauesregni celorum habentes ante iudicii diem iudicant. Inueteri
             quidem lege [habetur: quicumque sacerdotibus nonobtemperasset, aut extra castra positus
@@ -412,9 +420,15 @@
             infidelibus, '“ (paganossignificans), „et uultis ire, omne, quod adponitur uobis,
             comedite. Si quis frater nominatur ebriosus etc.“ O quantaintegritas! Nos non solum non
             fugimus ebriosos, sedetiam imus ad eos, participantes cum eis. </p>
+        </div>
+        <div xml:id="gd-p2c11q3-Dd1e472">
+          <head xml:id="gd-p2c11q3-Hd1e474">Dictum</head>
           <p xml:id="gd-p2c11q3-d1e478"> Gratian. Euidenter itaque ex premissis apparet, quod eorum
             communionem uitare non cogimur, qui sententia notati non sunt.Sed eZ ipsius sententiae
-            notatio multipliciter intelligitur. §. i. Aliquando enim arcetur quis a liminibus
+            notatio multipliciter intelligitur.
+          </p>
+          <p xml:id="gd-p2c11q3-d1e480">
+            §. i. Aliquando enim arcetur quis a liminibus
             ecclesiae et a communione corporis et sanguinis Christi, uel teste conscientia,
             iuxtaillud Apostolici „Probet se homo, et sic de pane illo edat et decalice bibat, quia
             qui indigne manducat et bibit, iudicium sibimanducat et bibit ; item illud Prosperi™: „
@@ -425,18 +439,27 @@
             ligni uitae excommunicatus est, Domino dicente : „Videte, ne forte sumat™ z de ligno
             uitae. Qua sententia nonseparatur quis a consortio fidelium. Est et alia sententia,
             queanathema uocatur, qua quisque separatur a consortio fidelium , de qua supra: „Cum
-            excommunicatis nolite communicare.§. 2. Hanc distinctionem cuique licet aduertere ex
+            excommunicatis nolite communicare.
+          </p>
+          <p xml:id="gd-p2c11q3-d1e483">
+            §. 2. Hanc distinctionem cuique licet aduertere ex
             auctoritateIohannis Papae: „Engiltrudam uxorem Bosonis etc. Require supra in causa: „
             Quidam episcopus a propria sede deie-ctus. Item ex auctoritate eiusdem : „Si quis domum
             Deiuiolauerit etc. Require infra causa [XVII.] „ Quidampresbiter infirmitate grauatus.
             Item ex auctoritate SiluestriPapae: „ Presenti^ decreto censemus etc. Require supra
-            incausa: , , In infamia cuiusdam episcopii §. 3. Iuxta hanc ergo distinctionem
-            intelligenda est illa auctoritas Innocentii™^: „Siquis suadente diabolo, etc. ut infra
+            incausa: , , In infamia cuiusdam episcopii
+          </p>
+          <p xml:id="gd-p2c11q3-d1e486">
+            §. 3. Iuxta hanc ergo distinctionem
+            intelligenda est illa auctoritas Innocentii: <quote xml:id="gd-p2c11q3-Qd1e488" source="http://scta.info/resource/lat22al-xZaxY3-d1e290" synch="4-6">Si quis suadente diabolo</quote>, etc. ut infra
             causa : „ Quidam presbiter , ut iuxta ethimologiam uocabuli anathemati, id est
             separationi, subiaceat qui in edictum illud inciderit, quia a corpore etsanguine Christi
             et ab ingressu ecclesiae se alienum facit, quiinpias manus in clericum micer e ausus
             fuerit; qui etiam a nulloepiscoporum absolui, id est more penitentium reconciliari,
-            poterit, nisi primum apostolico conspectui se representare curauerit. §. 4. Illud autem
+            poterit, nisi primum apostolico conspectui se representare curauerit.
+          </p>
+          <p xml:id="gd-p2c11q3-d1e493">
+            §. 4. Illud autem
             Petri de Clemente : „Si inimicus est isteClemens etc. de sententia notatis intelligendum
             est, sicut et illudUrbani : , , Quibus episcopi non communicant etc. ut infra in eadem
             causa. Ceterum falsum esset illud Varensis^n .cilii 7 /.: , , Si tantum episcopus alieni
