@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -90,7 +88,7 @@
 
 
 
-          <div xml:id="gd-p2c12q4-Dd1e141"> </div>
+        </div>
           <div xml:id="gd-p2c12q4-Dd1e144">
             <head xml:id="gd-p2c12q4-Hd1e146">C. III</head>
             <head xml:id="gd-p2c12q4-Hd1e149" type="question-title"> Que monasteriis ab episcopo
@@ -136,9 +134,8 @@
             <p xml:id="gd-p2c12q4-d1e199"> II. Pars. Gratian. Sed si episcopus uel quilibet ex gradu
               ecclesiastico intestatus defunctus fuerit, nec aliqui inuenti fuerint, qui iure
               cognationis ei succedant, ecclesia ei succedat in integrum, nec ' licebit alicui
-              aliqua ex rebus eius presumere. </p>
-          </div>
-          <p xml:id="gd-p2c12q4-d1e203"> atque suffragiis suos conuictus fuerit ampliasse labores.
+              aliqua ex rebus eius presumere. 
+              atque suffragiis suos conuictus fuerit ampliasse labores.
             Quod si aliquid pro utilitatibus ecclesiae aut substantiae expendit, aut dispendii uel
             perditionis quippiam pertulerit, si hoc conprobare potuerit, totum illi a rebus
             ecclesiaeeiusdem reformabitur, pro cuius utilitate id expendisseprobatur. </p>
@@ -148,7 +145,7 @@
           <p xml:id="gd-p2c12q4-d1e209"> Unde in Agat en si Concilio [c. 54.] legitur *: </p>
         </div>
         <div xml:id="gd-p2c12q4-Dd1e214">
-          <head xml:id="gd-p2c12q4-Hd1e216">C. III</head>
+          <head xml:id="gd-p2c12q4-Hd1e216">C. VI</head>
           <head xml:id="gd-p2c12q4-Hd1e219" type="question-title"> De his, que sacerdotes emunt, ad
             ecclesiae nomen faciant scripturam.</head>
           <p xml:id="gd-p2c12q4-d1e222"> Presbiter, cum diocesim tenet, de his, que emerit, ad

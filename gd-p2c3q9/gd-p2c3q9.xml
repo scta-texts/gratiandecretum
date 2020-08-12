@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -113,43 +111,13 @@
             fore canonicum quemquam sacerdotum iudicareuel dampnare ante, quam accusatores canonice
             examinatospresentes habeat locumque defendendi accipiat, id est inducias ecclesiasticas
             ad abluenda crimina etc. </p>
-          <p xml:id="gd-p2c3q9-d1e196"> [PALEA. </p>
-          <p xml:id="gd-p2c3q9-d1e200"> C. VII. Idem Damasus ibidem continenter* </p>
-          <p xml:id="gd-p2c3q9-d1e203"> Nec extra propriam* fiat prouinciam primo discus- </p>
-
-          <p xml:id="gd-p2c3q9-d1e206"> EDITIO ROMANA* </p>
-          <p xml:id="gd-p2c3q9-d1e209"> Causa III. Que st. VIII. c. 1. a) praecipiunt, ut Codice*
-            libro septimo, titulo de sententiis et interlocutionibus omnium iudicum, lege penultima:
-            §. 2. Cuius in agendo quis observat arbitrium, eum habere etiam contra se iudicemin
-            eodem negotio non dedignetur. b) Nec antea finiatur (sicut ab apostolis vel
-            successoribus eorum olim statutum est)quam eius auctoritate fulciatur. Et paulo
-            superius: §. 4. c) iudicetur, nisi ex contumacia absens fuerit, ** —c. 2. a) Carthag.
-            II. b) incurrerit c) et — Que st. IX. c. 2. a) ferre b) imo etiam et — c. 3. a) quispiam
-            b) quiac) nullus accusare vel — c. 4. a) evacuentur — c. 6. a) Papa: deest b) etc.:
-            deest </p>
-
-
-          <div xml:id="gd-p2c3q9-Dd1e212">
-            <p xml:id="gd-p2c3q9-d1e214"> NOTATIONES CORRECTORUM. </p>
-          </div>
-          <br/>
-          <p xml:id="gd-p2c3q9-d1e221"> Que st. VIII. C. I. * Ut Codice: Hinc usque ad vers.
-            Iudices, non sunt in epistola Zephyrini, neque in vetustis Gratiani codicibus. </p>
-          <p xml:id="gd-p2c3q9-d1e224"> ** Nisi ex contumacia absens fuerit: Haec absunt a plerisque
-            manuscriptis, et epistola ipsa, et Anselmo et Ivone. Infra vero ead. q. 9. c. Absens ,
-            habentur tanquam Gratiani verba. </p>
-
-          <p xml:id="gd-p2c3q9-d1e227"> C. II. * Episcopis: Quae hoc loco in capite decimo
-            conciliiCartha-ginensis II. adduntur, referuntur infra 15. q. 7. c. Felix, et ibi
-            notabitur varietas. </p>
-          <p xml:id="gd-p2c3q9-d1e230"> Que st. IX. C. VII. * Propriam: Sic emendatum ex epistola
-            ipsa, Anselmo et Ivone. Antea legebatur: Nec extra patriam jiat provinciam. Addita autem
-            et nonnulla sunt ex epistola. </p>
-
-
-
-
-          <p xml:id="gd-p2c3q9-d1e233"> sionis accusatio, sine apostolica preceptione, cui in
+        </div>
+        <div xml:id="gd-p2c3q9-Dd1e197">
+          <head xml:id="gd-p2c3q9-Hd1e199">C. VII.  [PALEA.]</head>
+          <p xml:id="gd-p2c3q9-d1e203"> 
+            <ref xml:id="gd-p2c3q9-Rd1e204">Idem Damasus ibidem continenter</ref> 
+            Nec extra propriam* fiat prouinciam primo discus
+            sionis accusatio, sine apostolica preceptione, cui in
             omnibus causis debet reuerentia custodiri, quoniam et antiquadocet hoc Patrum regula, in
             qua et inperialiter pariterstatuta concinunt. „ Criminum, “ inquiunt, „discussioibi
             agenda est, ubi crimen admissum est. Nam alibicriminum reus prohibetur audiri.“ Et alibi

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -182,22 +180,28 @@
           <head xml:id="gd-p2c24q1-Hd1e197">C. VI</head>
           <head xml:id="gd-p2c24q1-Hd1e200" type="question-title"> In persona Petri ecclesia ligandi
             et soluendi potestatem accepit. </head>
-          <p xml:id="gd-p2c24q1-d1e203"> Item Augustinus super Iohannem, [tract. L. ad c. 12.] </p>
-          <p xml:id="gd-p2c24q1-d1e206"> Quodcumque ligaueris super terram, erit ligatum et in celo.
-            Si Petro hoc tantum dictum est, non hoc facitecclesia. Si autem et in ecclesia fit,
-            (utique que interra ligantur et in celo, et que soluuntur in terrasoluta sunt et^ in
-            celo, quia, cum excommunicat ecclesia, in celo ligatur excommunicatus; cum
-            reconciliatecclesia, in celo soluitur reconciliatus), si hoc ergo in ecclesia fit,
-            Petrus, quando claues accepit, ecclesiam sanctamsignificauit. Si in Petri persona
-            significati sunt in ecclesiaboni, in Iudae persona significati sunt in ecclesia mali.
+          <p xml:id="gd-p2c24q1-d1e206"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e205">Augustinus super Iohannem, [tract. L. ad c. 12.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c24q1-Qd1e210" source="http://scta.info/resource/iuy75t-d1e451-d1e856" synch="109-198">
+                Quodcumque ligaueris super terram, erit ligatum et in celo.
+                Si Petro hoc tantum dictum est, non hoc facit ecclesia. Si autem et in ecclesia fit,
+                (utique que in terra ligantur et in celo, et que soluuntur in terra soluta sunt et^ in
+                celo, quia, cum excommunicat ecclesia, in celo ligatur excommunicatus; cum
+                reconciliat ecclesia, in celo soluitur reconciliatus), si hoc ergo in ecclesia fit,
+                Petrus, quando claues accepit, ecclesiam sanctam significauit. Si in Petri persona
+                significati sunt in ecclesia boni, in Iudae persona significati sunt in ecclesia mali.
+              </quote>
+            </cit>
           </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e210">
           <head xml:id="gd-p2c24q1-Hd1e212">C. VII</head>
           <head xml:id="gd-p2c24q1-Hd1e215" type="question-title"> Suis meritis firmus nonnumquam
             turbatur alienis. </head>
-          <p xml:id="gd-p2c24q1-d1e218"> Item Am brosius [ad c. 5. Lucae]*. </p>
-          <p xml:id="gd-p2c24q1-d1e221"> Non turbatur nauis, que Petrum habet: turbatur illa, que
+          <p xml:id="gd-p2c24q1-d1e221"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e226">Ambrosius [ad c. 5. Lucae]*.</ref>
+            Non turbatur nauis, que Petrum habet: turbatur illa, que
             ludam habet. Etsi multa illic discipulorum merita nauiga-bant, tamen adhuc eam
             proditoris perfidia agitabat. Inutraque Petrus: sed qui suis meritis firmus est turbatur </p>
 

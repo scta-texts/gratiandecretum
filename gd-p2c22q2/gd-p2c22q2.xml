@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -253,12 +251,13 @@
           <head xml:id="gd-p2c22q2-Hd1e293">C. XI</head>
           <head xml:id="gd-p2c22q2-Hd1e296" type="question-title"> Non licet mentiri, ut arrogantia
             uitetur.</head>
-          <p xml:id="gd-p2c22q2-d1e299"> Item Augustinus super Iohannem, [tractatu XLIII.]Non ita
-            caueatur arrogantia, ut ueritas relinquatur. </p>
-
-
-
-
+          <p xml:id="gd-p2c22q2-d1e299"> Item <ref xml:id="gd-p2c22q2-Rd1e301">Augustinus super Iohannem, [tractatu XLIII.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c22q2-Qd1e306" source="http://scta.info/resource/iuy75t-d1e394-d1e1080" synch="149-157">
+                Non ita caueatur arrogantia, ut ueritas relinquatur.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e303">
           <head xml:id="gd-p2c22q2-Hd1e305">C. XII</head>

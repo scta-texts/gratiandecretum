@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,10 +54,12 @@
     <body>
       <div xml:id="gd-p2c12q1">
         <head xml:id="gd-p2c12q1-Hd1e103">QUESTIO I.</head>
-
-        <p xml:id="gd-p2c12q1-d1e106"> I. Pars. Clericos nichil possidere multis auctoritatibus
+        <div xml:id="gd-p2c12q1-Dd1e106">
+          <head xml:id="gd-p2c12q1-Hd1e108">Dictum</head>
+          <p xml:id="gd-p2c12q1-d1e106"> I. Pars. Clericos nichil possidere multis auctoritatibus
           iubetur . </p>
         <p xml:id="gd-p2c12q1-d1e109"> Ait enim Tolletanum Concilium [IV. c. 23.]: </p>
+        </div>
         <div xml:id="gd-p2c12q1-Dd1e112">
           <head xml:id="gd-p2c12q1-Hd1e114">C. I</head>
           <head xml:id="gd-p2c12q1-Hd1e117" type="question-title"> Inpuberes et adolescentes, in uno
@@ -78,37 +78,50 @@
           <head xml:id="gd-p2c12q1-Hd1e126">C. II</head>
           <head xml:id="gd-p2c12q1-Hd1e129" type="question-title"> Omnibus clericis communis est
             uita seruanda.</head>
-          <p xml:id="gd-p2c12q1-d1e132"> Item Clemens in epist. IV.* </p>
-          <p xml:id="gd-p2c12q1-d1e135"> Dilectissimis fatribus et condiscipulis, Ierosolimis cum
+          <p xml:id="gd-p2c12q1-d1e135">
+            Item <ref xml:id="gd-p2c12q1-Rd1e140">Clemens in epist. IV.*</ref>
+            Dilectissimis fatribus et condiscipulis, Ierosolimis cum
             karissimo fatre Iacobo et coepiscopo habitantibus, Clemens episcopus. Communis uita,
             omnibus est necessaria, fratres, et maxime his, qui Deo inreprehensibiliter militare
-            cupiunt, et uitam apostolorum eorumque discipulorumimitari uolunt. §. 1. Communis enim
-            usus omnium, quesunt in hoc mundo, omnibus hominibus esse debuit. Sedper iniquitatem
-            alius hoc dixit esse suum, et alius istud, et sic inter mortales facta est diuisio. §.
-            2. Denique Grecorum quidam sapientissimus, hec ita esse sciens, communiadebere, ait,
+            cupiunt, et uitam apostolorum eorumque discipulorumimitari uolunt.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e144">
+            §. 1. Communis enim
+            usus omnium, que sunt in hoc mundo, omnibus hominibus esse debuit. Sed per iniquitatem
+            alius hoc dixit esse suum, et alius istud, et sic inter mortales facta est diuisio.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e147">
+            §. 2. Denique Grecorum quidam sapientissimus, hec ita esse sciens, communiadebere, ait,
             esse amicorum omnia. In omnibus autemsunt sine dubio et coniuges*. Et sicut non potest,
             inquit, diuidi aer, neque splendor solis, ita nec reliqua, que communiter omnibus data
             sunt ad habendum, diuidi debere, sed habenda esse communia. Unde et Dominus per
-            Prophetam loquitur, dicens: , , Ecce quam bonum et quamiucundum, et reliqua. §. 3.
+            Prophetam loquitur, dicens: , , Ecce quam bonum et quamiucundum, et reliqua.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e151">
+            §. 3.
             Istius enim consuetudinismore retento etiam apostoli eorumque discipuli, ut predictum
             est, una nobiscum et uobiscum communem uitamduxerunt s. Ut enim bene nostis, erat
-            multitudinis </p>
-
-
-
-
-          <p xml:id="gd-p2c12q1-d1e138"> eorum cor unum et anima una, nec quisquam eorum aut nostrum
+            multitudinis  eorum cor unum et anima una, nec quisquam eorum aut nostrum
             de his, que possidebat, aliquid suum esse dicebat, sed omnia illis et nobis erant
-            communia, nec quisquamegens erat inter nos. §. 4. Omnes uero, qui domos uelagros
+            communia, nec quisquamegens erat inter nos. 
+          </p>
+          <p xml:id="gd-p2c12q1-d1e154">
+            §. 4. Omnes uero, qui domos uelagros
             possidebant, uenaebant eos, et precia eorum et reliquas res, quas habebant, offerebant,
             ponentes antepedes apostolorum (sicut nobiscum quidam uestrum cogno-uerunt et uiderunt),
-            et diuidebant singulis, prout cuiqueopus erat. §. 5. Ananias autem uir austerus, et
+            et diuidebant singulis, prout cuiqueopus erat. 
+          </p>
+          <p xml:id="gd-p2c12q1-d1e157">
+            §. 5. Ananias autem uir austerus, et
             Saphirauxor eius, quia mentiti sunt apostolis de precio agrorumsuorum, quos uendiderant,
             nobis presentibus, in conspectuomnium circumstantium a conspectu apostolorum propter
             peccatum eorum et mendacium, quod fecerunt, mortuidelati sunt ambo °. Quapropter hec
             cauenda uobismandamus, et doctrinis et exemplis apostolorum obedireprecipimus, quia hi,
             qui mandata eorum postponunt, nonsolum rei, sed etiam P extorres fiunt. Que non
-            solumuobis cauenda, sed etiam q omnibus predicanda sunt.§. 6. Unde consilium dantes
+            solumuobis cauenda, sed etiam q omnibus predicanda sunt.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e160">
+            §. 6. Unde consilium dantes
             uestram prudentiam hortamur, ut ab apostolicis regulis non recedatis, sed communemuitam
             ducentes, et scripturas sacras recte intelligentes, que bene nouistis adinplere
             satagatis. </p>
@@ -117,13 +130,18 @@
           <head xml:id="gd-p2c12q1-Hd1e145">C. III</head>
           <head xml:id="gd-p2c12q1-Hd1e148" type="question-title"> Iuxta ecclesiam clericorum
             claustra constituantur.</head>
-          <p xml:id="gd-p2c12q1-d1e151"> Item Eugenius Papa [II.] et Leo /X*. </p>
-          <p xml:id="gd-p2c12q1-d1e154"> Necessaria etenim res existit, ut iuxta ecclesiam claustra
+          <p xml:id="gd-p2c12q1-d1e15X">
+            Item <ref xml:id="gd-p2c12q1-Rd1e174">Eugenius Papa [II.] et Leo /X*. </ref>
+            Necessaria etenim res existit, ut iuxta ecclesiam claustra
             constituantur, in quibus clerici disciplinis ecclesiasticis uacent. Itaque omnibus sit
             unum refectorium acdormitorium, seu ceterae officinae ad usus clericorum necessariae.
             Ministri uero post episcopum super eos eligantur, quorum uita atque doctrina illos
-            potius exornet quamdehonestet. </p>
-          <p xml:id="gd-p2c12q1-d1e157"> Gratian. Nec in atrio ecclesiae alia edificia nisi
+            potius exornet quamdehonestet.
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e180">
+          <head xml:id="gd-p2c12q1-Hd1e182">Dictum</head>
+          <p xml:id="gd-p2c12q1-d1e1z7"> Gratian. Nec in atrio ecclesiae alia edificia nisi
             clericorum ponantur. </p>
           <p xml:id="gd-p2c12q1-d1e161"> Unde Nicolaus Papa *: </p>
         </div>
@@ -136,20 +154,19 @@
         </div>
         <div xml:id="gd-p2c12q1-Dd1e177">
           <head xml:id="gd-p2c12q1-Hd1e179">C. V</head>
-          <head xml:id="gd-p2c12q1-Hd1e182" type="question-title"> Clericus nichil seculare
+          <head xml:id="gd-p2c12q1-Hd1e18Z" type="question-title"> Clericus nichil seculare
             possideat.</head>
-          <p xml:id="gd-p2c12q1-d1e185"> Item Ieronimus ad Nepotianum . </p>
-          <p xml:id="gd-p2c12q1-d1e188"> Clericus, qui Christi ecclesiae seruit, interpreteturprimum
+          <p xml:id="gd-p2c12q1-d1e188">
+            Item <ref xml:id="gd-p2c12q1-Rd1e214">Ieronimus ad Nepotianum .</ref>
+            Clericus, qui Christi ecclesiae seruit, interpreteturprimum
             uocabulum suum, et, nominis diffinitione prolata, nitatur esse quod dicitur. Si enim
-            xArjoos grece latine sorsappellatur, propterea clerici dicuntur, quia de sorteDomini
+            xArjoos grece latine sorsappellatur, propterea clerici dicuntur, quia de sorte Domini
             sunt, uel quia ipse Dominus sors, id est pars, clericorum est. Et quia uel ipse pars
-            Domini est, uel Dominum partem habet, talem se exhibere debet, ut ipse </p>
-          <p xml:id="gd-p2c12q1-d1e191"> E ossideat Dominum, et ipse s possideatur a Domino. Qui
-            ►ominum possidet et cum Propheta dicit: „Pars meaDominus, “ nichil extra Dominum habere
+            Domini est, uel Dominum partem habet, talem se exhibere debet, ut ipse 
+            possideat Dominum, et ipse s possideatur a Domino. Qui
+            ominum possidet et cum Propheta dicit: „Pars meaDominus, “ nichil extra Dominum habere
             potest. Quodsi quippiam aliud habuerit preter Dominum, pars eiusnon erit Dominus; uerbi
-            gratia, si aurum, si argentum, si </p>
-
-          <p xml:id="gd-p2c12q1-d1e195"> E ossessiones, si uariam suppellectilem, cum istis partibus
+            gratia, si aurum, si argentum, si E ossessiones, si uariam suppellectilem, cum istis partibus
             ►ominus non dignatur fieri pars eius. Si autem ego parsDomini sum, et funiculus
             hereditatis eius, non accipiopartes inter ceteras tribus, sed quasi Leuita et
             sacerdosuiuo de decimis, et altari seruiens altaris oblationesustentor. Habens uictum et
@@ -159,7 +176,9 @@
           <head xml:id="gd-p2c12q1-Hd1e201">C. VI</head>
           <head xml:id="gd-p2c12q1-Hd1e204" type="question-title"> Nichil preter Deum habeat qui in
             eius sortem eligitur. </head>
-          <p xml:id="gd-p2c12q1-d1e207"> Item Ambrosius de fuga seculi , [c, 2.]Cui portio Deus est
+          <p xml:id="gd-p2c12q1-d1e207"> 
+            <ref xml:id="gd-p2c12q1-Rd1e229">Item Ambrosius de fuga seculi , [c, 2.]</ref> 
+            Cui portio Deus est
             nichil debet curare nisi Deum, nealterius inpediatur necessitatis munere. Quod enim ad
             aliaoffitia confertur, hoc religionis cultui atque huic nostrooffitio decerpitur. Hec
             enim uera est sacerdotis fuga, abdicatio domesticorum, et quedam alienatio karissimorum,
@@ -169,9 +188,9 @@
           <head xml:id="gd-p2c12q1-Hd1e213">C. VII</head>
           <head xml:id="gd-p2c12q1-Hd1e216" type="question-title"> Clericis et Deo deuotis nec
             causas agere , nec aliquid proprium habere licet . </head>
-          <p xml:id="gd-p2c12q1-d1e219"> Item Ieronimus ad quendam suum Leuitam , de duobus
-            generibus hominum . </p>
-          <p xml:id="gd-p2c12q1-d1e222"> Duo sunt genera Christianorum. Est autem genus unum, quod
+          <p xml:id="gd-p2c12q1-d1e222">
+            Item <ref xml:id="gd-p2c12q1-Rd1e244">Ieronimus ad quendam suum Leuitam , de duobus generibus hominum .</ref>
+            Duo sunt genera Christianorum. Est autem genus unum, quod
             mancipatum diuino offitio, et deditum contemplationi et orationi, ab omni strepitu
             temporalium cessare conuenit, ut sunt clerici, et Deo deuoti, uidelicetconuersi. Klrjpoe
             enim grece latine sors. Inde huiusmodihomines uocantur clerici, id est sorte electi.
@@ -179,7 +198,10 @@
             uirtutibus, et ita in Deo regnum habent.Et hoc designat corona in capite. Hanc coronam
             habent abinstitutione Romanae ecclesiae in signo regni, quod inChristo expectatur. Rasio
             uero capitis est temporaliumomnium depositio. Illi enim uictu et uestitu contenti nullam
-            inter se proprietatem habentes, debent habere omniacommunia, §. 1. Aliud uero est genus
+            inter se proprietatem habentes, debent habere omniacommunia,
+          </p>
+          <p xml:id="gd-p2c12q1-d1e248">
+            §. 1. Aliud uero est genus
             Christianorum, utsunt laici, slabs enim est populus. His licet temporalia possidere, sed
             non nisi ad usum. Nichil enimmiserius est quam propter nummum Deum contempnere.His
             concessum est uxorem ducere, terram colere, inter uirumet uirum iudicare, causas agere,
@@ -190,23 +212,25 @@
           <head xml:id="gd-p2c12q1-Hd1e228">C. VIII</head>
           <head xml:id="gd-p2c12q1-Hd1e231" type="question-title"> Clerici nichil^ possideant
             proprium.</head>
-          <p xml:id="gd-p2c12q1-d1e234"> Item Gregorius Augustino Anglorum Episcopo, [responsionum
-            c. 1. et 2.] </p>
-          <p xml:id="gd-p2c12q1-d1e237"> Quia tua fraternitas monasterii regulis erudita seorsum non
-            debet fieri a clericis suis in ecclesia Anglorum, queauctore Deo nuper ad fidem perducta
-            est, hanc debet instituere'conuersationem, que in inicio fuit Patribus </p>
-
-
-
-
-          <p xml:id="gd-p2c12q1-d1e240"> nostris, in quibus nullus eorum ex his, que possidebat,
-            proprium habebat^ sed erant illis omnia communia.§. i. Si qui uero sunt clerici extra
+          <p xml:id="gd-p2c12q1-d1e237">
+            Item Gregorius Augustino Anglorum Episcopo, [responsionum c. 1. et 2.] 
+            Quia tua fraternitas monasterii regulis erudita seorsum non
+            debet fieri a clericis suis in ecclesia Anglorum, que auctore Deo nuper ad fidem perducta
+            est, hanc debet instituere conuersationem, que in inicio fuit Patribus 
+            nostris, in quibus nullus eorum ex his, que possidebat,
+            proprium habebat^ sed erant illis omnia communia.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e263">
+            §. i. Si qui uero sunt clerici extra
             sacros ordines constituti, qui se non possunt continere, sortiri uxores debent,
             etstipendia sua accipere exterius, quia et de eisdem Patribus nouimus scriptum: „ quod
             diuidebant proutcuique opus erat. De eorum quoque s stipendio cogitandum atque
             prouidendum est, et sub ecclesiastica regulasunt tenendi, ut bonis moribus uiuant, et
             canendis psalmisinuigilent, et ab omnibus illicitis cor, et linguam, et corpusDeo
-            auctore conseruent. §. 2. Communiter autem uiuen-tibus iam de faciendis porcionibus, uel
+            auctore conseruent.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e266">
+            §. 2. Communiter autem uiuen-tibus iam de faciendis porcionibus, uel
             exhibenda hospitalitate, et adinplenda misericordia a nobis quid eritloquendum, cum
             omne, quod superest necessitatibus incausis piis ac religiosis erogandum est? Domino
             magistroomnibus dicente: „Quod superest date elemosinam, et omnia munda sunt uobis.“
@@ -216,9 +240,9 @@
           <head xml:id="gd-p2c12q1-Hd1e247">C. IX</head>
           <head xml:id="gd-p2c12q1-Hd1e250" type="question-title"> Clericis omnia communia esse
             debent . </head>
-          <p xml:id="gd-p2c12q1-d1e253"> Item Urbanus Papa omnibus catholicis , [epistola unica, c.
-            i.] </p>
-          <p xml:id="gd-p2c12q1-d1e256"> Scimus uos non ignorare, quia hactenus uita communis inter
+          <p xml:id="gd-p2c12q1-d1e256"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e281">Urbanus Papa omnibus catholicis , [epistola unica, c. i.]</ref> 
+            Scimus uos non ignorare, quia hactenus uita communis inter
             omnes Christianos uiguit, et adhuc Dei gratia uiget, et maxime inter eos, qui in sorte
             Domini sunt electi, idest clericos, sicut in Actibus apostolorum legitur: , ,
             Multitudinis autem credentium erat cor unum, et anima una, necquisquam eorum, que
@@ -233,16 +257,22 @@
         <div xml:id="gd-p2c12q1-Dd1e260">
           <head xml:id="gd-p2c12q1-Hd1e262">C. X</head>
           <head xml:id="gd-p2c12q1-Hd1e265" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q1-d1e268"> Item Augustinus in sermone de communi vita clericorum * </p>
-
-          <p xml:id="gd-p2c12q1-d1e271"> Nolo, ut aliquis de nobis inueniat male uiuendi occasionem.
+          <p xml:id="gd-p2c12q1-d1e271"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e296">Augustinus in sermone de communi vita clericorum * </ref>
+            Nolo, ut aliquis de nobis inueniat male uiuendi occasionem.
             Prouiaemus enim bona, ut ait Apostolus, non solum coram Deo, sed etiam coram omnibus
             hominibus. Propter nos conscientia nostra nobis necessaria est, propter uos fama nostra
             non pollui, sed pollere debet inuobis. Duae sunt res, conscientia et fama. Conscientia
             necessaria est tibi, fama proximo tuo. Qui fidensconscientiae negligit famam suam,
-            crudelis est. Et m/ra: §. i. Nulli in societate nostra licet aliquidhabere proprium; sed
-            forte aliqui habent, nulli licet, sed s qui habuerint faciunt quod non licet. Et
-            postpauca&amp;: §.2. Enthecam habere non licet. Nonest episcoporum aurum seruare, et a
+            crudelis est.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e300">
+            Et m/ra: §. i. Nulli in societate nostra licet aliquidhabere proprium; sed
+            forte aliqui habent, nulli licet, sed s qui habuerint faciunt quod non licet.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e303">
+            Et
+            post pauca: §.2. Enthecam habere non licet. Nonest episcoporum aurum seruare, et a
             se reuocare mendicantis manum. Cottidie tam multi petunt, tam multigemunt, tam multi
             inopes nos interpellant, ut plures tristesrelinquamus, quia quod dare omnibus possimus
             non habemus. Non habemus ergo enthecam. Et infra: §. 3.Qui habuerit proprium, uel habere
@@ -261,39 +291,48 @@
           <head xml:id="gd-p2c12q1-Hd1e277">C. XI</head>
           <head xml:id="gd-p2c12q1-Hd1e280" type="question-title"> Non licet aliquid habere his ,
             qui suis renunciant et communiter uiuere spondent. </head>
-          <p xml:id="gd-p2c12q1-d1e283"> Idem [serm. III. de communi uita clericorum]*. </p>
-          <p xml:id="gd-p2c12q1-d1e286"> Non dicatis uos aliquid habere proprium, sed sint uobis
-            omnia communia. Et infra: §. 1. Quicumque autemprogressus in tantum fuerit malum, ut
+          <p xml:id="gd-p2c12q1-d1e286">
+            Idem [serm. III. de communi uita clericorum]*.
+            Non dicatis uos aliquid habere proprium, sed sint uobis
+            omnia communia.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e318">
+            Et infra: §. 1. Quicumque autemprogressus in tantum fuerit malum, ut
             occulte litteras abaliquo uel quodlibet munus accipiat, si hoc ultro confitetur,
             parcatur illi, et oretur pro illo. Si autem deprehenditur atque conuincitur, secundum
-            arbitrium presbiteri uelprepositi grauius emendetur. Et infra: §. 2. Cum huiusnostrae**
+            arbitrium presbiteri uelprepositi grauius emendetur.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e321">
+            Et infra: §. 2. Cum huiusnostrae**
             congregationis fratres non solum facultatibus, seduoluntatibus propriis in ipsa ordinis
             susceptione re-nunciauerint, et se per promissam obedientiam penitusaliorum potestati,
             et inperiis in Christo et pro Christosubdiderint, certum*** est eos nichil habere,
             possidere, dare, uel accipere sine superioris licentia debere. §. 3. Quodsi propinquus,
             uel amicus, uel quilibet fratrum cuiquam aliquid offere uoluerit, primo quidem priori
-            insinuetur, et sic </p>
-
-
-
-
-          <p xml:id="gd-p2c12q1-d1e289"> suscipiatur, si ipse mandauerit. De quo tamen nichil aliud
+            insinuetur, et sic  suscipiatur, si ipse mandauerit. De quo tamen nichil aliud
             fiat, nisi quod priori placuerit. </p>
         </div>
         <div xml:id="gd-p2c12q1-Dd1e293">
           <head xml:id="gd-p2c12q1-Hd1e295">C. XII</head>
           <head xml:id="gd-p2c12q1-Hd1e298" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q1-d1e301"> Idem [tractatu L. ad c. 12. Iohannis]. </p>
-          <p xml:id="gd-p2c12q1-d1e304"> Exemplum Domini accipite conuersantis in terra. Quare
-            habuit loculos cui angeli ministrabant, nisi quiaecclesia ipsius loculos habitura erat?
-            Quare furem admisit, nisi ut eius ecclesia fures cum patitur tolleret? </p>
+          <p xml:id="gd-p2c12q1-d1e304">
+            <ref xml:id="gd-p2c12q1-Rd1e335">Idem [tractatu L. ad c. 12. Iohannis].</ref>
+            <cit>
+              <quote xml:id="gd-p2c12q1-Qd1e340" source="http://scta.info/resource/iuy75t-d1e451-d1e818" synch="2-31">
+                Exemplum Domini accipite conuersantis in terra. Quare
+                habuit loculos cui angeli ministrabant, nisi quiaecclesia ipsius loculos habitura erat?
+                Quare furem admisit, nisi ut eius ecclesia fures cum patitur tolleret?
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c12q1-Dd1e308">
           <head xml:id="gd-p2c12q1-Hd1e310">C. XIII</head>
           <head xml:id="gd-p2c12q1-Hd1e313" type="question-title"> Ecclesiarum prepositi rerum
             earundem dispensatores efficiuntur. </head>
-          <p xml:id="gd-p2c12q1-d1e316"> Item Prosper [de uita contemplatiua, lib. II. c. 9.] </p>
-          <p xml:id="gd-p2c12q1-d1e319"> Expedit facultates ecclesiae possideri, et proprias
+          <p xml:id="gd-p2c12q1-d1e319"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e356">Prosper [de uita contemplatiua, lib. II. c. 9.] </ref>
+            Expedit facultates ecclesiae possideri, et proprias
             perfectionis amore contempni. Non enim propriae sunt, sed communes ecclesiae facultates,
             et ideo quisquis omnibus, que habuit, dimissis aut uenditis fit rei suae contemptor, cum
             prepositus factus fuerit ecclesiae, omnium, que habetecclesia, efficitur dispensator.
@@ -313,21 +352,21 @@
           <head xml:id="gd-p2c12q1-Hd1e325">C. XIV</head>
           <head xml:id="gd-p2c12q1-Hd1e328" type="question-title"> Diaconi uel quelibet religiosae
             personae regularem uitam ducere cogantur.</head>
-          <p xml:id="gd-p2c12q1-d1e331"> Item Gregorius Felici Episcopo de Acropoli, </p>
-          <p xml:id="gd-p2c12q1-d1e334"> [lib. II. ep. 29.] </p>
-          <p xml:id="gd-p2c12q1-d1e337"> Quoniam Velina, Vixentina, et Blandina ecclesiae, tibi in
+          <p xml:id="gd-p2c12q1-d1e337"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e371">Gregorius Felici Episcopo de Acropoli,  [lib. II. ep. 29.] </ref>
+            Quoniam Velina, Vixentina, et Blandina ecclesiae, tibi in
             uicino constitutae sunt, propterea fraternitati tuae earum solempniter operam
             uisitationisiniungimus, illud pre omnibus conmonentes, ut, ubicumque prefatarum
             ecclesiarum, siue dioceseosearum, uel diaconi uel religiosae personae inuentaefuerint,
             districte ac s canonice uiuant. </p>
-
         </div>
         <div xml:id="gd-p2c12q1-Dd1e342">
           <head xml:id="gd-p2c12q1-Hd1e344">C. XV</head>
           <head xml:id="gd-p2c12q1-Hd1e347" type="question-title"> Quare in primitiua ecclesia
             predia uendebantur.</head>
-          <p xml:id="gd-p2c12q1-d1e350"> Item Melciades Papa*. </p>
-          <p xml:id="gd-p2c12q1-d1e353"> Futuram ecclesiam in gentibus apostoli preuide-bant;
+          <p xml:id="gd-p2c12q1-d1e353"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e387">Melciades Papa*.</ref> 
+            Futuram ecclesiam in gentibus apostoli preuide-bant;
             idcirco predia in Iudea minime sunt adepti, sed precia tantummodo ad fouendos egentes.
             At uero, cum interturbines et aduersa mundi succresceret ecclesia, ad hocusque peruenit,
             ut non solum gentes, sed etiam Romaniprincipes, qui totius orbis monarchiam tenebant,
@@ -349,39 +388,57 @@
           <head xml:id="gd-p2c12q1-Hd1e359">C. XVI</head>
           <head xml:id="gd-p2c12q1-Hd1e362" type="question-title"> Quare predia fidelium hodie ab
             ecclesia non alienentur.</head>
-          <p xml:id="gd-p2c12q1-d1e365"> Item Urbanus Papa , [epistola unica, c. i.]Videntes autem
-            summi sacerdotes, et alii, atqueLeuitae, et reliqui fideles, plus utilitatis posse
+          <p xml:id="gd-p2c12q1-d1e365"> 
+            Item <ref xml:id="gd-p2c12q1-Rd1e402">Urbanus Papa , [epistola unica, c. i.]</ref> 
+            Videntes autem
+            summi sacerdotes, et alii, atque Leuitae, et reliqui fideles, plus utilitatis posse
             conferre, si hereditates et agros, quos uendebant, ecclesiis, quibuspresidebant
             episcopi, traderent, eo quod ex sumptibus eorumtam presentibus quam futuris temporibus
             plura et eleganti-ora possent ministrare fidelibus communem uitamducentibus, quam ex
             precio ipsorum, ceperunt prediaet agros, quos uendere solebant, matricibus ecclesiis
-            tradere, et ex sumptibus eorum uiuere. §. 1. Ipsae uero res in ditione </p>
-
-
-
-
-          <p xml:id="gd-p2c12q1-d1e368"> singularum parrochiarum episcoporum (qui locum tenent
+            tradere, et ex sumptibus eorum uiuere.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e406">
+            §. 1. Ipsae uero res in ditione  singularum parrochiarum episcoporum (qui locum tenent
             apostolorum) erant, et sunt usque adhuc, et futuris semperdebent esse temporibus. Ex
-            quibus episcopi et fidelesdispensatores eorum omnibus communi uita* degereuolentibus
+            quibus episcopi et fideles dispensatores eorum omnibus communi uita* degereuolentibus
             ministrare cuncta necessaria debent, prout meliuspotuerint-, ut nemo in eis egens
-            inueniatur. §. 2.Ipsae enim res oblationes fidelium appellantur, quea fidelibus Domino
-            offeruntur. §. 3.265e Memoratis aug-mentationibus ergo in tantum ecclesiae, quibus
+            inueniatur.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e409">
+            §. 2. Ipsae enim res oblationes fidelium appellantur, quea fidelibus Domino
+            offeruntur.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e413">
+            §. 3. 265e Memoratis aug-mentationibus ergo in tantum ecclesiae, quibus
             episcopipresident, Domino adminiculante creuerunt, et ins tantismaxima pars earum
             habundant rebus, ut nullus sit ineis communem uitam degens indigens, sed omnia
             necessaria ab episcopo suisque ministris percipiat. §. 4.Ideo, si aliquis extiterit
             modernis aut futuris temporibus, qui hoc auellere nitatur, iam dicta dampnatione
             feriatur. </p>
-          <p xml:id="gd-p2c12q1-d1e371"> [C. XVII.] ^ a </p>
-          <p xml:id="gd-p2c12q1-d1e375"> Item Augustinus [tractatu LXII. in Iohannem]. </p>
-          <p xml:id="gd-p2c12q1-d1e378"> Habebat Dominus loculos, a fidelibus oblata con-seruans, et
-            suorum necessitatibus, et aliis indigentibus tribuebat: Tunc primum ecclesiasticae
-            pecuniae forma est instituta, ut mtelligeremus quod precepit, non esse cogitandum de
-            crastino, non ad hoc fuisse preceptum, ut nichilpecuniae seruetur a sanctis, sed ne Deo
-            propter istaseruiatur, et propter inopiae timorem iustitia deseratur. </p>
-          <p xml:id="gd-p2c12q1-d1e381"> II. Pars. Gratian. His omnibus™ claret, quod clericis nullo
-            modo licet habere quid proprium; quod si habuerint, nonclerici erunt, nem tamen
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e417">
+          <head xml:id="gd-p2c12q1-Hd1e419">[C. XVII.]</head>
+          <p xml:id="gd-p2c12q1-d1e378"> 
+            Item 
+            <ref xml:id="gd-p2c12q1-Rd1e424">Augustinus [tractatu LXII. in Iohannem]. </ref>
+            <cit>
+              <quote xml:id="gd-p2c12q1-Qd1e429" source="http://scta.info/resource/iuy75t-d1e549-d1e432" synch="36-94">
+                Habebat Dominus loculos, a fidelibus oblata conseruans, et
+                suorum necessitatibus, et aliis indigentibus tribuebat: Tunc primum ecclesiasticae
+                pecuniae forma est instituta, ut intelligeremus quod precepit, non esse cogitandum de
+                crastino, non ad hoc fuisse preceptum, ut nichil pecuniae seruetur a sanctis, sed ne Deo
+                propter ista seruiatur, et propter inopiae timorem iustitia deseratur.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e435">
+          <head xml:id="gd-p2c12q1-Hd1e437">Dictum</head>
+          <p xml:id="gd-p2c12q1-d1e381"> II. Pars. Gratian. His omnibus claret, quod clericis nullo
+            modo licet habere quid proprium; quod si habuerint, non clerici erunt, nem tamen
             clericatus eis tollendus est. </p>
-          <p xml:id="gd-p2c12q1-d1e384"> Unde Augustinus ait in eodem serm. </p>
+          <p xml:id="gd-p2c12q1-d1e384"> Unde <ref xml:id="gd-p2c12q1-Rd1e445">Augustinus ait in eodem serm.</ref> </p>
         </div>
         <div xml:id="gd-p2c12q1-Dd1e388">
           <head xml:id="gd-p2c12q1-Hd1e390">C. XVIII</head>
@@ -396,41 +453,44 @@
             seruatsanctitatem foris, dimidius cecidit: si intus habueritsimulationem, totus cecidit.
             Nolo, ut habeat necessitatemsimulandi. Scio, quomodo homines amant clericatum.Nemini eum
             tollo nolenti mecum communiter uiuere. </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e462">
+          <head xml:id="gd-p2c12q1-Hd1e464">Dictum</head>
           <p xml:id="gd-p2c12q1-d1e399"> Gratian. Econtra sunt aliae auctoritates , quibus
             conceditur propria habere, non solum aliis, sed etiam episcopis . </p>
           <p xml:id="gd-p2c12q1-d1e402"> Unde in Concilio Agatensi\c, 8.] legitur : </p>
-
         </div>
         <div xml:id="gd-p2c12q1-Dd1e406">
           <head xml:id="gd-p2c12q1-Hd1e408">C. XIX</head>
           <head xml:id="gd-p2c12q1-Hd1e411" type="question-title"> De rebus propriis uel acquisitis
-            episcopi heredibus suis reliquant ^. </head>
+            episcopi heredibus suis reliquant. </head>
           <p xml:id="gd-p2c12q1-d1e414"> Episcopi de rebus propriis uel acquisitis, uel quic-uid ae
             proprio habent, heredibus suis, si uoluerint, erelinquant. Quidquid uero de prouisione
-            ecclesiaesuae fuerit siue de agris, siue de frugibus, siue deoblationibus, omnia in iure
-            ecclesiae reseruare cen-suimus. </p>
+            ecclesiaesuae fuerit siue de agris, siue de frugibus, siue de oblationibus, omnia in iure
+            ecclesiae reseruare censuimus. </p>
         </div>
         <div xml:id="gd-p2c12q1-Dd1e418">
           <head xml:id="gd-p2c12q1-Hd1e420">C. XX</head>
           <head xml:id="gd-p2c12q1-Hd1e423" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q1-d1e426"> Item ex Concilio Martini 'Papae, [c. 15.] </p>
-          <p xml:id="gd-p2c12q1-d1e429"> Manifesta autem debent esse que ad ecclesiam pertinent his,
+          <p xml:id="gd-p2c12q1-d1e429"> 
+            Item ex <ref xml:id="gd-p2c12q1-Rd1e497">Concilio Martini 'Papae, [c. 15.]</ref>
+            Manifesta autem debent esse que ad ecclesiam pertinent his,
             qui circa episcopos sunt, presbiteris et diaconis, ut, si episcopo contigerit inopinatus
             transitus, res ecclesiae nullo modo possint minui et perire; nequeres propriae episcopi
             inportunitatem patiantur pro rebusecclesiae, ut nec ecclesia dampnum incurrat, nec
             episcopus in suis rebus pro rebus ecclesiae proscribatur. </p>
-          <p xml:id="gd-p2c12q1-d1e432"> Idem statutum est in canonibus Apostolorum [c. 40.], in
-            quibus legitur : </p>
         </div>
         <div xml:id="gd-p2c12q1-Dd1e436">
           <head xml:id="gd-p2c12q1-Hd1e438">C. XXI</head>
           <head xml:id="gd-p2c12q1-Hd1e441" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q1-d1e444"> Sint manifestae res propriae episcopi (si tamen habet
+          <p xml:id="gd-p2c12q1-d1e444"> 
+            Idem statutum est in <ref xml:id="gd-p2c12q1-Rd1e512">canonibus Apostolorum [c. 40.]</ref>, in quibus legitur : 
+            Sint manifestae res propriae episcopi (si tamen habet
             proprias), et manifestae dominicae, ut potestatem habeat de propriis moriens episcopus
             sicut uoluerit etquibus uoluerit derelinquere, nec sub occasione ecclesiasticarum rerum
             ea, que episcopi probantur esse , interdicantur. Fortassis enim aut uxorem habet,
-            autfilios, aut propinquos, aut seruos. Et iustum est hoc apudDeum et homines, ut nec
-            ecclesia patiatur detrimentumignorantia rerum pontificis, nec episcopi uel eiuspropinqui
+            autfilios, aut propinquos, aut seruos. Et iustum est hoc apud Deum et homines, ut nec
+            ecclesia patiatur detrimentumignorantia rerum pontificis, nec episcopi uel eius propinqui
             sub obtentu ecclesiae proscribantur, et in causasincidant qui ad eum pertinent,
             mortisque * eius iniuriis infamentur s. </p>
         </div>
@@ -438,8 +498,9 @@
           <head xml:id="gd-p2c12q1-Hd1e451">C. XXII</head>
           <head xml:id="gd-p2c12q1-Hd1e454" type="question-title"> Ex rebus ecclesiae, si episcopus
             indiget, sibi et suis necessaria sumat.</head>
-          <p xml:id="gd-p2c12q1-d1e457"> Item in eisdem canonibus [c. 41.] </p>
-          <p xml:id="gd-p2c12q1-d1e460"> Ex his autem, quibus episcopus indiget, (si tamen indiget),
+          <p xml:id="gd-p2c12q1-d1e460">
+            Item in <ref xml:id="gd-p2c12q1-Rd1e527">eisdem canonibus [c. 41.]</ref>
+            Ex his autem, quibus episcopus indiget, (si tamen indiget),
             in suas necessitates et peregrinorum fratrumusus et ipse percipiat, ut nichil ei possit*
             omnino deesse.Lex enim Dei precipit, ut qui altario deseruiunt pascantur ex ipso. </p>
         </div>
@@ -447,20 +508,17 @@
           <head xml:id="gd-p2c12q1-Hd1e466">C. XXIII</head>
           <head xml:id="gd-p2c12q1-Hd1e469" type="question-title"> Res ecclesiasticas episcopus
             dispenset.</head>
-          <p xml:id="gd-p2c12q1-d1e472"> Item ex Concilio Antio ceno, c. 25. </p>
-          <p xml:id="gd-p2c12q1-d1e475"> Episcopus ecclesiasticarum rerum habeat potestatem ad
-            dispensandum erga omnes, qui indigent; cum summa reue- </p>
-
-
-
-
-          <p xml:id="gd-p2c12q1-d1e478"> rentia et timore Dei. Participet autem et ipse quibus
+          <p xml:id="gd-p2c12q1-d1e475"> 
+            Item ex <ref xml:id="gd-p2c12q1-Rd1e542">Concilio Antio ceno, c. 25.</ref>
+            Episcopus ecclesiasticarum rerum habeat potestatem ad
+            dispensandum erga omnes, qui indigent; cum summa reuerentia 
+            et timore Dei. Participet autem et ipse quibus
             indiget, (si tamen indiget), tam in suis quam fratrum, qui abeo suscipiuntur,
             necessariis usibus profuturis, ita utnulla qualibet occasione fraudentur, iuxta sanctum
             Apostolum sic dicentem: „Habentes uictum et tegumentum, his contenti sumus.“ Quod si
             contentus istisminime fuerit, conuertat autem res ecclesiae in suos domesticos usus, et
-            eius commoda uel agrorum fructus non cum </p>
-          <p xml:id="gd-p2c12q1-d1e482"> S resbiterorum diaconorumque conscientia pertractet, sed
+            eius commoda uel agrorum fructus non cum 
+            S resbiterorum diaconorumque conscientia pertractet, sed
             orum potestatem domesticis suis, aut propinquis, aut fratribus filiisque conmittat, ut
             per huius modi personas occulteres* ledantur ecclesiae, Sinodo prouinciae penas iste
             per-soluat. Si autem et aliter accusatur episcopus, aut presbiteri, qui cum ipso sunt,
@@ -473,11 +531,16 @@
           <head xml:id="gd-p2c12q1-Hd1e488">C. XXIV</head>
           <head xml:id="gd-p2c12q1-Hd1e491" type="question-title"> Res ecclesiae sint in episcopi
             potestate.</head>
-          <p xml:id="gd-p2c12q1-d1e494"> Item in canonibus Apostolorum, [c. 41.]Precipimus, ut in
+          <p xml:id="gd-p2c12q1-d1e494">
+            Item in <ref xml:id="gd-p2c12q1-Rd1e557">canonibus Apostolorum, [c. 41.]</ref> 
+            Precipimus, ut in
             potestate sua ecclesiae res episcopushabeat. Si enim animae hominum preciosae illi
             suntcreditae, multo magis oportet eum curam de pecuniisagere, ita ut potestate eius
             indigentibus omnia dispensentur per presbiteros et diacones, et cum timore etomni
             sollicitudine ministrentur. Ex his autem, quibusindiget etc. ut supra . </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e563">
+          <head xml:id="gd-p2c12q1-Hd1e565">Dictum</head>
           <p xml:id="gd-p2c12q1-d1e497"> Gratian. Cum ergo in concilio Agat ensi, et Martini
             Papae™*, et «n canonibus Apostolorum dicatur: , , Sintmanifestae res propriae episcopi,
             cum in eisdem canonibus, et inconcilio Antioceno precipiatur, ut episcopus participet
@@ -505,6 +568,9 @@
             habentibus conferenda, sine peccatopossident sua, quia et ipsi quodammodo sua
             relinquunt, quando propriis contenti rebus nichil eorum, que labori uelordini suo deberi
             arbitrantur, accipiunt. </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e584">
+          <head xml:id="gd-p2c12q1-Hd1e586">Dictum</head>
           <p xml:id="gd-p2c12q1-d1e512"> Gratian. De rebus uero ecclesiae queritur, an liceat eas
             per prehendas diuidi, ut annuos redditus quisque sibi specialiteruendicet? Hoc non posse
             fieri, argumento et auctoritate probatur. Clerici successores sunt eorum, de quibus
@@ -525,15 +591,22 @@
           <head xml:id="gd-p2c12q1-Hd1e533">C. XXVII</head>
           <head xml:id="gd-p2c12q1-Hd1e536" type="question-title"> Non liceat episcopo res
             ecclesiarum in proprios usus conuertere. </head>
-          <p xml:id="gd-p2c12q1-d1e539"> Item ex Sinodo habita Romae ob Eugenio Papa [II. c. 16.] </p>
-          <p xml:id="gd-p2c12q1-d1e542"> Nulli episcoporum liceat res mobiles aut inmobiles de
+          <p xml:id="gd-p2c12q1-d1e542"> 
+            Item ex <ref xml:id="gd-p2c12q1-Rd1e618">Sinodo habita Romae ob Eugenio Papa [II. c. 16.]</ref> 
+            Nulli episcoporum liceat res mobiles aut inmobiles de
             subiectis plebibus aliisque piis locis in proprio usuhabere, ne maiores enormiter
             locupletentur, et minorestali facto pauperes inueniantur. Contra agens
             canonicaauctoritate coartatus existat. </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e623">
+          <head xml:id="gd-p2c12q1-Hd1e625">Dictum</head>
           <p xml:id="gd-p2c12q1-d1e545"> Gratian. Si ergo res ecclesiae non quasi propriae, sed
             quasi communes habendae sunt, cum de communi nullus dicat, hoc meum est, nec de rebus
             ecclesiae, hec mea est, potest aliquisdicere, ne uideatur non imitari karitatem illorum,
-            in qua nullialiquid erat proprium, sed erant illis omnia communia. §. 1. Hisita
+            in qua nulli aliquid erat proprium, sed erant illis omnia communia.
+          </p>
+          <p xml:id="gd-p2c12q1-d1e631">
+            §. 1. Hisita
             respondetur : Sicut perfectione karitatis manente secundumdiscretionem ecclesiarum
             ecclesiasticarum facultatum distributiofit dum aliis possessiones huius ecclesiae ad
             dispensandum con-mittuntur, ex quibus, licet res ecclesiae omnibus debeant essecommunes,
@@ -543,16 +616,22 @@
             communibus utilitatibus deseruiturus , w ex his, que sibi assignata sunt, primum
             necessaria sibi percipiat;si qua uero suis necessitatibus supersunt, in communes usus
             ecclesiae expendat. </p>
-          <p xml:id="gd-p2c12q1-d1e549"> Unde Augustinus ad Bonifatium [Comitem, ep. L.]C. XXVIII.
-            De eodem </p>
+          <p xml:id="gd-p2c12q1-d1e549"> Unde Augustinus ad Bonifatium [Comitem, ep. L.]
+          </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e639">
+          <head xml:id="gd-p2c12q1-Hd1e641">C. XXVIII</head>
+          <head xml:id="gd-p2c12q1-Hd1e644" type="question-title">De eodem</head>
+             
           <p xml:id="gd-p2c12q1-d1e552"> Si priuatum possidemus, quod nobis sufficiat, non illa
             nostra sunt, quorum procurationem quodammodogerimus, non proprietatem nobis usurpatione
             dampnabiliuendicamus . </p>
+        </div>
+        <div xml:id="gd-p2c12q1-Dd1e651">
+          <head xml:id="gd-p2c12q1-Hd1e653">Dictum</head>
           <p xml:id="gd-p2c12q1-d1e555"> Gratian. Ostensum est, quomodo liceat clericis habere
-            proprium, quomodo non. Item, quomodo res ecclesiae perprehendas diuidi possunt . </p>
-
-
-
+            proprium, quomodo non. Item, quomodo res ecclesiae perprehendas diuidi possunt . 
+          </p>
         </div>
       </div>
     </body>

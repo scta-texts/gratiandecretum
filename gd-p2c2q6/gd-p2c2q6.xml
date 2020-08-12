@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -696,9 +694,9 @@
           <p xml:id="gd-p2c2q6-d1e743"> Gratian. Tempus autem exequendae appellationis annus est,
             uel, si iusta causa intercesserit, biennium. </p>
           <p xml:id="gd-p2c2q6-d1e746"> Unde in Autenticis constitut. 11. collat. V. legitur: </p>
-          <a/>
-          <h1>
-            <a/> [C. XLI.]° 2 a </h1>
+        </div>
+        <div xml:id="gd-p2c2q6-Dd1e750">
+          <head xml:id="gd-p2c2q6-Hd1e752">[C. XLI.]</head>
           <p xml:id="gd-p2c2q6-d1e757"> „Si quis appellat, inquiratur annus, intra quem secundum se
             communiter ne litem exequatur, aut, si iusta intercesserit causa, annus alius indulgetur
             , quo transacto litenon conpleta manetis sententia. §. 1. Appellatore cessante, cum unus

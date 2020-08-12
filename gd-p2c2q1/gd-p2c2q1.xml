@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -484,7 +482,7 @@
           <p xml:id="gd-p2c2q1-d1e447"> audierat, opereP conpr obaret q, nos qui sumus homines et
             peccatores, quibus incognita sunt occulta iu-dicia Dei, hec precauentes", nullum ante
             ueramiustamque probationem iudicare aut dampnare debemus, manifeste Paulo apostolo
-            dicente; <quote ana="#rom14_4">Tu, quis es, qui iudicas alienum servum? suo enim domino stat aut cadit</quote>. </p>
+            dicente; <quote xml:id="gd-p2c2q1-Qd1e449" ana="#rom14_4">Tu, quis es, qui iudicas alienum servum? suo enim domino stat aut cadit</quote>. </p>
           <p xml:id="gd-p2c2q1-d1e450"> V. Pars. Gratian. Quando autem crimen notum est iudici et
             aliis, aliquando reus inficiatur factum, ueluti si quis negaretse 416 x interfecisse
             eum, quem sub oculis iudicis in conspectu multorum interfecerat * y. Hic, quia se reum

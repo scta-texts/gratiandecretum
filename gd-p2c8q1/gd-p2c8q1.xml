@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -75,7 +73,9 @@
             sed successori suoClementi, qui sedem apostolicam post eum et potestatempontificalem
             tradente sibi B. Petro tenere promeruit. Linusuero et Cletus ministrabant exteriora;
             princeps autemapostolorum Petrus uerbo et orationi instabat. </p>
-          <p xml:id="gd-p2c8q1-d1e126"> [PALEA. C. II. </p>
+        </div>
+        <div xml:id="gd-p2c8q1-Dd1e128">
+          <head xml:id="gd-p2c8q1-Hd1e130">C. II. [PALEA.]</head>
           <p xml:id="gd-p2c8q1-d1e129"> Unde ipse Clemens in epistola ad Iacobum Iero-solomitanum
             missa inter cetera scribit, quod Petrus adhuc uiuens Clementem in episcopum elegit: </p>
           <p xml:id="gd-p2c8q1-d1e133"> „ Simon Petrus in ipsis diebus, quibus uitae finem sibi
@@ -151,10 +151,9 @@
               sicut toto desiderio debemus occupationemfugere, ita si desit qui predicet,
               occupationis onus libentinecesse est humero subire. Quod ex duorum prophetarum opere
               docemur, quorum unus predicationis offitiumuitare conatus est, et alter appetiit. Nam
-              mittenti se Domino </p>
-          </div>
-          <p xml:id="gd-p2c8q1-d1e207"> fieri oportet, nisi cum consilio et iudicatu episcoporum,
+              mittenti se Domino fieri oportet, nisi cum consilio et iudicatu episcoporum,
             qui post exitum predecessoris potestatem habent dignumeligere. </p>
+        </div>
         </div>
         <div xml:id="gd-p2c8q1-Dd1e211">
           <head xml:id="gd-p2c8q1-Hd1e213">C. V</head>
@@ -166,6 +165,7 @@
             estimate*. Ab uniuersis acclamatum est: Hecpresumptio numquam fiat. Que Dei sunt ab
             homine darinon possunt. </p>
         </div>
+        
         <div xml:id="gd-p2c8q1-Dd1e226">
           <head xml:id="gd-p2c8q1-Hd1e228">C. VI</head>
           <head xml:id="gd-p2c8q1-Hd1e231" type="question-title"> De eodem.</head>
@@ -240,11 +240,11 @@
           <head xml:id="gd-p2c8q1-Hd1e281" type="question-title"> Qui preesse, non* prodesse
             desiderat , non debet episcopari. </head>
           <p xml:id="gd-p2c8q1-d1e287">
-            <ref>
+            <ref xml:id="gd-p2c8q1-Rd1e285">
               Item Augustinus <!--[lib. XIX. de ciuit. Dei, c. 19.]-->
             </ref>
             <cit>
-              <quote source="http://scta.info/resource/adcd-l19-d1e3149">
+              <quote xml:id="gd-p2c8q1-Qd1e292" source="http://scta.info/resource/adcd-l19-d1e3149">
                 Qui episcopatum desiderat, bonum opus desiderat.
                 Exponere uoluit quid sit episcopatus, quia nomen est operis,
                 non honoris. Grecum est enim, atque inde ductum uocabulum, quod ille, qui preficitur,

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -117,8 +115,9 @@
             exnomine exiit, sed in Domini sui fide atque seruicio, licetnobis dispensatiue, id est
             quamdiu eos patimur, eorumelemosinis conmunicare, et defuncti animam
             Christianaereligionis modis omnibus adiuuare. </p>
-          <h6>
-            <a/> [C. IV.]** </h6>
+        </div>
+        <div xml:id="gd-p2c24q2-Dd1e158">
+          <head xml:id="gd-p2c24q2-Hd1e160">[C. IV.]</head> 
           <p xml:id="gd-p2c24q2-d1e163"> Item Gelasius uniuersis Episcopis , per Dardaniam siue per
             Illiricum constitutis . </p>
           <p xml:id="gd-p2c24q2-d1e166"> Nec quisquam uobis omnino persuadeat, Achatio

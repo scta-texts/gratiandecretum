@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -579,8 +577,8 @@
             non deponatur; cunctis tamen diebus uitae suaepenitenciam agat.J </p>
         </div>
         <div xml:id="gd-p2c14prae">
-          <h2>
-            <a/> CAUSA XIV. </h2>
+          
+            <head xml:id="gd-p2c13q2-Hd1e630">CAUSA XIV.</head> 
           <p xml:id="gd-p2c13q2-d1e635"> GRATIANUS. </p>
           <p xml:id="gd-p2c13q2-d1e638"> Canonici cuiusdum ecclesiae questionem mouent de prediis;
             testes ex fratribus suis producunt; nego datoribus pecuniam crediderunt, ut ex eorum

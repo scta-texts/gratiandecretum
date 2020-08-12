@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -80,7 +78,9 @@
         <div xml:id="gd-p2c1q2-Dd1e119">
           <head xml:id="gd-p2c1q2-Hd1e121">C. I. </head>
           <head xml:id="gd-p2c1q2-Hd1e124" type="question-title">Pro dedicandis ecclesiis nichil
-            exigatur</head> . <p xml:id="gd-p2c1q2-d1e127"> Placuit, ut, quociens ab aliquo fidelium
+            exigatur</head>
+          
+          <p xml:id="gd-p2c1q2-d1e127"> Placuit, ut, quociens ab aliquo fidelium
             ad consecrandas ecclesias episcopi inuitantur, non quasi ex debito munus aliquod a
             fundatore requirant; sed si ipse quidem aliquid ex suo uoto obtulerit, non respuatur, si
             uero autpaupertas illum, aut necessitas retinet, nichil exigatur abillo. Hoc tamen
