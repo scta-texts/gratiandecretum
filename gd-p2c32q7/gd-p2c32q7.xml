@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,207 +54,295 @@
     <body>
       <div xml:id="gd-p2c32q7">
         <head xml:id="gd-p2c32q7-Hd1e103"> QUESTIO VII. </head>
-        <p xml:id="gd-p2c32q7-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c32q7-d1e109"> I. Pars. Nunc autem queritur, si ille, qui dimiserit uxorem
+        <div xml:id="gd-p2c32q7-Dd1e100">
+          <head xml:id="gd-p2c32q7-Hd1e102">Dictum</head>
+          <p xml:id="gd-p2c32q7-d1e109"> GRATIANUS. I. Pars. Nunc autem queritur, si ille, qui dimiserit uxorem
           suam causa fornicationis, illa uiuente aliam ducere poterit ? Quod autem hoc fieri non
-          possit, testatur Augustinus in librode bono coniugali [c. 7.] dicens : </p>
+          possit, testatur <ref xml:id="gd-p2c32q7-Rd1e106">Augustinus in libro de bono coniugali [c. 7.]</ref> dicens : </p>
+        </div>
         <div xml:id="gd-p2c32q7-Dd1e112">
           <head xml:id="gd-p2c32q7-Hd1e114">C. I</head>
           <head xml:id="gd-p2c32q7-Hd1e117" type="question-title"> Vinculum coniugii fornicatione
             dissolui non potest.</head>
-          <p xml:id="gd-p2c32q7-d1e120"> Interueniente diuortio non aboletur confederatio nuptialis,
+          <p xml:id="gd-p2c32q7-d1e120"> 
+            <quote xml:id="gd-p2c32q7-Qd1e120">Interueniente diuortio non aboletur confederatio nuptialis,
             ita ut sibi coniuges sint etiam separati, cum illis autem adulterium conmittitur, quibus
-            etiam fuerint postsuum repudium copulati. </p>
+            etiam fuerint postsuum repudium copulati.</quote> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e124">
           <head xml:id="gd-p2c32q7-Hd1e126">C. II</head>
           <head xml:id="gd-p2c32q7-Hd1e129" type="question-title"> Nulla ratione dissoluitur
             coniugium, quod semel initum probatur.</head>
-          <p xml:id="gd-p2c32q7-d1e132"> Idem de adulterinis coniugiis, lib. II. [c. 4. et 5.] </p>
-          <p xml:id="gd-p2c32q7-d1e135"> Licite dimittitur uxor ob causam fornicationis, sed manet
-            uinculum prioris. Propter quod fit reus adulterii quicumque duxerit dimissam bb causam
-            fornicationis.Sicut autem, manente in se sacramento regenerationis, excommunicatur
-            quisquis * reus criminis est, ita que separatur a uiro numquam carebit sacramento
-            coniugii, etiamsi non s reconcilietur uiro. Carebit autem, simortuus fuerit uir eius.
-            Reus uero excommunicationisideo numquam carebit regenerationis sacramento, etiamnon
-            reconciliatus, quia numquam moritur Deus. </p>
+          <p xml:id="gd-p2c32q7-d1e135"> 
+            <ref xml:id="gd-p2c32q7-Rd1e134">Idem de adulterinis coniugiis, lib. II. [c. 4. et 5.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e138">
+                Licite dimittitur uxor ob causam fornicationis, sed manet
+                uinculum prioris. Propter quod fit reus adulterii quicumque duxerit dimissam bb causam
+                fornicationis.Sicut autem, manente in se sacramento regenerationis, excommunicatur
+                quisquis reus criminis est, ita que separatur a uiro numquam carebit sacramento
+                coniugii, etiamsi non s reconcilietur uiro. Carebit autem, simortuus fuerit uir eius.
+                Reus uero excommunicationisideo numquam carebit regenerationis sacramento, etiamnon
+                reconciliatus, quia numquam moritur Deus.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e140">
           <head xml:id="gd-p2c32q7-Hd1e142">C. III</head>
           <head xml:id="gd-p2c32q7-Hd1e145" type="question-title"> Siue uir ab uxore, siue uxor a
             uiro causa fornicationis discesserit , alteri adherere prohibetur. </head>
-          <p xml:id="gd-p2c32q7-d1e148"> Idem super epistolam Pauli ad Chorinthios *. </p>
-          <p xml:id="gd-p2c32q7-d1e151"> Apostolus dicit**: „His, qui sunt in coniugio, pre- </p>
-
-
-
-
-          <p xml:id="gd-p2c32q7-d1e154"> cipio non ego, sed Dominus, uxorem a uironon discedere;
-            quod si discesserit, manere innuptam, aut reconciliari uirosuo.“ Potest enim fieri, ut
-            discedat ea causa, quam Dominus permisit. At, si feminae licet uirum dimitterepropter
-            causam fornicationis , quid respondebimus dehoc, quod dicit s posterius: „Et uir uxorem
-            nondimittat?“ quare non addit: „ excepta causa fornicationis, quod Dominus permittit?
-            nisi quod similem formam uultintelligi, ut, si dimiserit, (quod causa fornicationis
-            permittitur), maneat sine uxore, aut reconcilietur uxori? Et postpauca : §. i. Dominus
-            autem permisit causa fornicationisuxorem dimitti. Sed quia permisit, non iussit. </p>
+          <p xml:id="gd-p2c32q7-d1e151"> 
+            <ref xml:id="gd-p2c32q7-Rd1e153">Idem super epistolam Pauli ad Chorinthios</ref>. 
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e157">
+                Apostolus dicit: "His, qui sunt in coniugio, 
+                precipio non ego, sed Dominus, uxorem a uironon discedere;
+                quod si discesserit, manere innuptam, aut reconciliari uirosuo.“ Potest enim fieri, ut
+                discedat ea causa, quam Dominus permisit. At, si feminae licet uirum dimitterepropter
+                causam fornicationis , quid respondebimus dehoc, quod dicit s posterius: „Et uir uxorem
+                nondimittat?“ quare non addit: „ excepta causa fornicationis, quod Dominus permittit?
+                nisi quod similem formam uult intelligi, ut, si dimiserit, (quod causa fornicationis
+                permittitur), maneat sine uxore, aut reconcilietur uxori?
+              </quote>
+            </cit>
+          </p>
+          <p xml:id="gd-p2c32q7-d1e161">
+            Et post pauca : §. i. 
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e165">
+                Dominus autem permisit causa fornicationisuxorem dimitti. Sed quia permisit, non iussit.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e171">
+            <head xml:id="gd-p2c32q7-Hd1e173">C. IV</head>
           <p xml:id="gd-p2c32q7-d1e158"> [C. IV.] </p>
-          <p xml:id="gd-p2c32q7-d1e161"> Idem de sermone Domini in monte, [lib. I. c. 25.] </p>
-          <p xml:id="gd-p2c32q7-d1e164"> Fieri potest, ut uir dimittat uxorem causa fornicationis,
-            quam Dominus exceptam esse uoluit. Iam uero si nec illinubere conceditur uiro uiuo, a
-            quo recessit, neque huicalteram ducere uiua uxore, quam dimisit, multo minus fasest
-            illicita cum quibuslibet stupra conmittere. </p>
+          <p xml:id="gd-p2c32q7-d1e164"> 
+            <ref xml:id="gd-p2c32q7-Rd1e180">Idem de sermone Domini in monte, [lib. I. c. 25.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e184">
+                Fieri potest, ut uir dimittat uxorem causa fornicationis,
+                quam Dominus exceptam esse uoluit. Iam uero si nec illinubere conceditur uiro uiuo, a
+                quo recessit, neque huicalteram ducere uiua uxore, quam dimisit, multo minus fasest
+                illicita cum quibuslibet stupra conmittere.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e168">
           <head xml:id="gd-p2c32q7-Hd1e170">C. V</head>
-          <head xml:id="gd-p2c32q7-Hd1e173" type="question-title"> Ab uxore dimissus, uel dimissa a
+          <head xml:id="gd-p2c32q7-Hd1e17X" type="question-title"> Ab uxore dimissus, uel dimissa a
             uiro, ad penitenciam redigantur, nisi aut continenter uiuere, aut sibi reconciliari
             uoluerint. </head>
-          <p xml:id="gd-p2c32q7-d1e176"> Item ex Concilio Mileuitano, [c. 17.] </p>
-          <p xml:id="gd-p2c32q7-d1e179"> Placuit, ut secundum euangelicam et apostolicam disciplinam
-            neque dimissus ab uxore, neque dimissa a marito alteri coniungatur, sed ita maneant, aut
-            sibimet reconcilientur. Quod si contempserint, ad penitenciam redigantur. </p>
+          <p xml:id="gd-p2c32q7-d1e179"> 
+            Item ex <ref xml:id="gd-p2c32q7-Rd1e199">Concilio Mileuitano, [c. 17.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e203">
+                Placuit, ut secundum euangelicam et apostolicam disciplinam
+                neque dimissus ab uxore, neque dimissa a marito alteri coniungatur, sed ita maneant, aut
+                sibimet reconcilientur. Quod si contempserint, ad penitenciam redigantur.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e183">
           <head xml:id="gd-p2c32q7-Hd1e185">C. VI</head>
           <head xml:id="gd-p2c32q7-Hd1e188" type="question-title"> Mechatur qui a uiro dimissam
             ducere presumit.</head>
-          <p xml:id="gd-p2c32q7-d1e191"> Item Augustinus [ 1 . I.] de sermone Domini in monte, </p>
-          <p xml:id="gd-p2c32q7-d1e194"> [c. 25.F </p>
-          <p xml:id="gd-p2c32q7-d1e197"> Dominus ad illud confirmandum, ut non facile dimittatur
-            uxor, solam causam fornicationis excepit, ceteras uero uniuersas molestias, si que
-            extiterint, iubet pro fideconiugali, et pro castitate fortiter sustineri. Et mechumdicit
-            etiam uirum, qui eam duxerit, que soluta esta uiro. </p>
+          <p xml:id="gd-p2c32q7-d1e197"> 
+            Item <ref xml:id="gd-p2c32q7-Rd1e218">Augustinus [ 1 . I.] de sermone Domini in monte,  [c. 25.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e222">
+                Dominus ad illud confirmandum, ut non facile dimittatur
+                uxor, solam causam fornicationis excepit, ceteras uero uniuersas molestias, si que
+                extiterint, iubet pro fide coniugali, et pro castitate fortiter sustineri. Et mechum dicit
+                etiam uirum, qui eam duxerit, que soluta est a uiro.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e201">
           <head xml:id="gd-p2c32q7-Hd1e203">C. VII</head>
           <head xml:id="gd-p2c32q7-Hd1e206" type="question-title"> Adultera probatur que uiuente
             marito alteri nubit . </head>
-          <p xml:id="gd-p2c32q7-d1e209"> Item Ieronimus ad Amandum * Presbiterum . </p>
-
-          <p xml:id="gd-p2c32q7-d1e212"> Omnes causationes Apostolus amputans apertissime
-            diffiniuit, uiuente uiro esse adulteram mulierem, si alterinupserit. Nolo michi proferas
-            raptoris uiolentiam, matrisprestationem, patris auctoritatem, propinquorum cater-uam,
-            seruorum insidias, parentum dampna rei familiaris.Quamdiu uiuit uir, licet adulter sit,
-            licet sodomita, licetflagiciis omnibus coopertus, et ab uxore propter hec
-            sceleraderelictus, maritus est reputatus , cui alterum uirum accipere non licet. Non hoc
-            Apostolus propria auctoritate decernit, sed Christo in se loquente Christi
-            uerbasectatus&amp; est, qui ait in euangelio: „Qui dimittituxorem suam, excepta causa
-            fornicationis, facit eam me-chari, et qui dimissam acceperit adulter est.“ Unde
-            etApostoli grauem coniugii sarcinam intelligentes: „Si itaest, “ inquiunt, „non expedit
-            homini uxorem accipere.“ Adquod Dominus, „qui potest, “ inquit, „capere capiat,
-            “statimque sub exemplo trium eunuchorum uirginitatis infertbeatitudinem, que nulla
-            carnis lege retinetur**. </p>
+          <p xml:id="gd-p2c32q7-d1e212">
+            Item <ref xml:id="gd-p2c32q7-Rd1e237">Ieronimus ad Amandum Presbiterum.</ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e241">
+                Omnes causationes Apostolus amputans apertissime
+                diffiniuit, uiuente uiro esse adulteram mulierem, si alterinupserit. Nolo michi proferas
+                raptoris uiolentiam, matrisprestationem, patris auctoritatem, propinquorum cater-uam,
+                seruorum insidias, parentum dampna rei familiaris.Quamdiu uiuit uir, licet adulter sit,
+                licet sodomita, licetflagiciis omnibus coopertus, et ab uxore propter hec
+                sceleraderelictus, maritus est reputatus , cui alterum uirum accipere non licet. Non hoc
+                Apostolus propria auctoritate decernit, sed Christo in se loquente Christi
+                uerbasectatus&amp; est, qui ait in euangelio: „Qui dimittituxorem suam, excepta causa
+                fornicationis, facit eam me-chari, et qui dimissam acceperit adulter est.“ Unde
+                etApostoli grauem coniugii sarcinam intelligentes: „Si itaest, “ inquiunt, „non expedit
+                homini uxorem accipere.“ Adquod Dominus, „qui potest, “ inquit, „capere capiat,
+                “statimque sub exemplo trium eunuchorum uirginitatis infertbeatitudinem, que nulla
+                carnis lege retinetur**.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e216">
           <head xml:id="gd-p2c32q7-Hd1e218">C. VIII</head>
           <head xml:id="gd-p2c32q7-Hd1e221" type="question-title"> Mulieri fideli, que uirum
             adulterum dimittit , alii nubere non licet. </head>
-          <p xml:id="gd-p2c32q7-d1e224"> Item ex Concilio Elibertano, [c. 9.]Fidelis femina, que
-            adulterum maritum reliquerit fidelem, et alterum ducit, prohibeatur ne ducat. Si
-            autemduxerit, non prius accipiat conmunionem, quam is, quemreliquerit, de seculo
-            exierit, nisi forte necessitas infirmitatis dare conpulerit. </p>
+          <p xml:id="gd-p2c32q7-d1e224"> 
+            Item ex <ref xml:id="gd-p2c32q7-Rd1e256">Concilio Elibertano, [c. 9.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e260">
+                Fidelis femina, que
+                adulterum maritum reliquerit fidelem, et alterum ducit, prohibeatur ne ducat. Si
+                autem duxerit, non prius accipiat conmunionem, quam is, quemreli querit, de seculo
+                exierit, nisi forte necessitas infirmitatis dare conpulerit.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e228">
           <head xml:id="gd-p2c32q7-Hd1e230">C. IX</head>
           <head xml:id="gd-p2c32q7-Hd1e233" type="question-title"> Ad penitenciam est cogendus qui
             multis nuptiis copulatur. </head>
-          <p xml:id="gd-p2c32q7-d1e236"> Item ex Concilio Martini Papae, [id est ex cap. </p>
-          <p xml:id="gd-p2c32q7-d1e239"> Martini Bracarensis, c. 80.]Si quis fuerit multis nuptiis
-            copulatus, penitenciam agat.Conuersatio autem et fides penitentis tempus conpre-hendat*
+          <p xml:id="gd-p2c32q7-d1e239">
+            Item ex 
+            <ref xml:id="gd-p2c32q7-Rd1e275">Concilio Martini Papae, [id est ex cap. Martini Bracarensis, c. 80.]</ref> 
+            <quote xml:id="gd-p2c32q7-Qd1e277">
+              Si quis fuerit multis nuptiis copulatus, penitenciam agat. 
+              Conuersatio autem et fides penitentis tempus conprehendat
+            </quote>
           </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e244">
           <head xml:id="gd-p2c32q7-Hd1e246">C. X</head>
           <head xml:id="gd-p2c32q7-Hd1e249" type="question-title"> Qui ob fornicationem uxorem
             dimittit, et aliam ducit, mechari probatur.</head>
-          <p xml:id="gd-p2c32q7-d1e252"> Item Augustinus de adulterinis coniugiis, lib. I. [c.
-            9.]Quemadmodum non /ecte dici potest: si nescithomo, non peccat, (sunt enim etiam
-            peccata ignorantium, quamuis minora quam scientium), ita non rectedici potest: si causa
-            fornicationis dimiserit uxorem uir, et aliam duxerit, non mechatur. Est enim mechatio
-            etiameorum, qui alias ducunt relictis propter fornicationem prioribus, sed utique minor,
-            quam eorum, qui non propter fornicationem dimittunt. </p>
-          <p xml:id="gd-p2c32q7-d1e255"> II. Pars. Gratian. Sunt enim in fornicatione gradus, ut, </p>
-
-
-
-
-          <p xml:id="gd-p2c32q7-d1e258"> sicut grauius peccat adulter quam fornicator, sic grauius
+          <p xml:id="gd-p2c32q7-d1e252">
+            Item <ref xml:id="gd-p2c32q7-Rd1e292">Augustinus de adulterinis coniugiis, lib. I. [c.
+            9.]</ref> 
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e296">
+                Quemadmodum non /ecte dici potest: si nescithomo, non peccat, (sunt enim etiam
+                peccata ignorantium, quamuis minora quam scientium), ita non rectedici potest: si causa
+                fornicationis dimiserit uxorem uir, et aliam duxerit, non mechatur. Est enim mechatio
+                etiameorum, qui alias ducunt relictis propter fornicationem prioribus, sed utique minor,
+                quam eorum, qui non propter fornicationem dimittunt.
+              </quote>
+            </cit> 
+          </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e301">
+            <head xml:id="gd-p2c32q7-Hd1e303">Dictum</head>
+          <p xml:id="gd-p2c32q7-d1e255"> II. Pars. Gratian. Sunt enim in fornicatione gradus, ut, 
+            sicut grauius peccat adulter quam fornicator, sic grauius
             delinquit qui nec sua dimissa aliam ducit, eo, qui suam dimittens aliam cognoscit;
             grauius quoque, qui uxorem habens ad coniugem proximi sui accedit, quam qui sine uxore
             thorum alterius uiolat, uel uxoratus ad solutam accedens. Sed hos omnes
             incestuositranscendunt, quos uincunt contra naturam delinquentes. </p>
-          <p xml:id="gd-p2c32q7-d1e262"> Unde Augustinus de adulterinis coniugiis *: </p>
-          <p xml:id="gd-p2c32q7-d1e265"> [C. XI.] </p>
-          <p xml:id="gd-p2c32q7-d1e268"> „Adulterii malum uincit fornicationem, uincitur autem ab
+          <p xml:id="gd-p2c32q7-d1e262"> Unde <ref xml:id="gd-p2c32q7-Rd1e310">Augustinus de adulterinis coniugiis</ref> : </p>
+          </div>
+          <div xml:id="gd-p2c32q7-Dd1e314">
+            <head xml:id="gd-p2c32q7-Hd1e316">C. XI.</head>
+          <p xml:id="gd-p2c32q7-d1e268">
+            Adulterii malum uincit fornicationem, uincitur autem ab
             incestu. Peius est enim cum matre , quam cum aliena uxoreconcumbere. Sed omnium horum
             pessimum est quod contranaturam fit, ut si uir membro mulieris non ad hoc concesso
             uo-luerit uti. Usus enim naturalis si ultra modum prolabitur, inuxore quidem ueniale
             est, in meretrice dampnabile.Iste , qui est contra naturam, execrabiliter fit in
             meretrice, sed execrabilius in uxore. Tantum ualet ordinatio creatoriset ordo creaturae,
             ut in rebus ad utendum concessis, etiam cummodus exceditur, longe sit tollerabilius,
-            quam in eis, que concessanon sunt, uel unus uel rarus excessus. </p>
+            quam in eis, que concessanon sunt, uel unus uel rarus excessus.
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e272">
           <head xml:id="gd-p2c32q7-Hd1e274">C. XII</head>
           <head xml:id="gd-p2c32q7-Hd1e277" type="question-title"> Minus est secundum naturam coire,
             quam contra naturam delinquere . </head>
-          <p xml:id="gd-p2c32q7-d1e280"> Item Ambrosius in libro de Patriarchis, [lib. I. de
-            Abraham, c. 6.] </p>
-          <p xml:id="gd-p2c32q7-d1e283"> Offerebat sanctus Loth filiarum pudorem. Nam etsi illa
-            quoque flagiciosa inpuritas erat, tamen minus erat secundum naturam coire, quam aduersus
-            naturam delinquere.Preferebat domus suae uerecundiae hospitalem gratiam, etiam apud
-            barbaras gentes inuiolabilem. </p>
+          <p xml:id="gd-p2c32q7-d1e283"> 
+            Item <ref xml:id="gd-p2c32q7-Rd1e332">Ambrosius in libro de Patriarchis, [lib. I. de Abraham, c. 6.]</ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e336">
+                Offerebat sanctus Loth filiarum pudorem. Nam etsi illa
+                quoque flagiciosa inpuritas erat, tamen minus erat secundum naturam coire, quam aduersus
+                naturam delinquere.Preferebat domus suae uerecundiae hospitalem gratiam, etiam apud
+                barbaras gentes inuiolabilem.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e287">
           <head xml:id="gd-p2c32q7-Hd1e289">C. XIII</head>
           <head xml:id="gd-p2c32q7-Hd1e292" type="question-title"> Grauiora sunt flagicia, que
             contra naturam probantur.</head>
           <p xml:id="gd-p2c32q7-d1e298">
-            Item <ref>Augustinus Confessionum lib. III., [c. 8.] </ref>
-            <cit><quote source="http://scta.info/resource/aconf-l3-d1e174">Flagicia, que sunt contra naturam, ubique ac semper
+            Item <ref xml:id="gd-p2c32q7-Rd1e351">Augustinus Confessionum lib. III., [c. 8.] </ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e355" source="http://scta.info/resource/aconf-l3-d1e174">Flagicia, que sunt contra naturam, ubique ac semper
             repudianda atque punienda sunt; qualia Sodomitarumfuerunt. Que si omnes gentes facerent,
             eodem criminisreatu diuina lege tenerentur, que non sic fecit homines, utse illo
             uterentur modo. Violatur quippe ipsa societas, que cum Deo nobis esse debet, cum eadem
-            natura, cuius ipse auctor est, libidinis peruersitate polluitur.</quote></cit> </p>
+            natura, cuius ipse auctor est, libidinis peruersitate polluitur.</quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e302">
           <head xml:id="gd-p2c32q7-Hd1e304">C. XIV</head>
           <head xml:id="gd-p2c32q7-Hd1e307" type="question-title"> Turpior et flagitiosior est usus
             contra naturam , quam fornicationis uel adulterii. </head>
-          <p xml:id="gd-p2c32q7-d1e310"> Idem contra louinianum, lib. 1 .* </p>
-          <p xml:id="gd-p2c32q7-d1e313"> Usus naturalis et licitus est sicut in coniugio, et
-            illicitus sicut in adulterio. Contra naturam uero semperillicitus, et proculdubio
-            flagitiosior atque turpior, quemS. Anostolus et in feminis, et in masculis areuebat. </p>
-
-          <p xml:id="gd-p2c32q7-d1e316"> dampnabiliores uolens intelligi, quam si in usu naturali
-            uel adulterando uel fornicando peccarent. </p>
+          <p xml:id="gd-p2c32q7-d1e313">
+            <ref xml:id="gd-p2c32q7-Rd1e371">Idem contra louinianum, lib. 1 .*</ref>
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e375">
+                Usus naturalis et licitus est sicut in coniugio, et
+                illicitus sicut in adulterio. Contra naturam uero semperillicitus, et proculdubio
+                flagitiosior atque turpior, quemS. Anostolus et in feminis, et in masculis areuebat. 
+                dampnabiliores uolens intelligi, quam si in usu naturali
+                uel adulterando uel fornicando peccarent.
+              </quote>
+            </cit> 
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e320">
           <head xml:id="gd-p2c32q7-Hd1e322">C. XV</head>
           <head xml:id="gd-p2c32q7-Hd1e325" type="question-title"> Omnis inmunda pollutio fornicatio
             est, licet uaria sint peccata fornicationis.</head>
-          <p xml:id="gd-p2c32q7-d1e328"> Item Ysidorus [lib. II. de summo bono, c. 39.] </p>
-          <p xml:id="gd-p2c32q7-d1e331"> III. Pars. Non solum de conmissa fornicatione peccatum
+          <p xml:id="gd-p2c32q7-d1e331"> 
+            Item <ref xml:id="gd-p2c32q7-Rd1e391">Ysidorus [lib. II. de summo bono, c. 39.] </ref>
+            III. Pars. 
+            <cit>
+              <quote xml:id="gd-p2c32q7-Qd1e395">Non solum de conmissa fornicatione peccatum
             regnat in homine, sed, si adhuc delectatur, atque animum teneat, proculdubio regnat.
-            Fornicatio carnisadulterium est: fornicatio animi seruitus est idolorum. Est autem et
+            Fornicatio carnis adulterium est: fornicatio animi seruitus est idolorum. Est autem et
             spiritualis fornicatio, de qua Dominus ait: „Qui uiderit mulierem ad concupiscendum
             eam*iam mechatus est eam in corde suo.“ Omnis inmunda pollutio fornicatio dicitur,
-            quamuis quisque diuersa turpitudinisuoluptate prostituatur. Ex delectatione enim
+            quamuis quisque diuersa turpitudinis uoluptate prostituatur. Ex delectatione enim
             fornicandiuaria gignuntur flagicia, quibus regnum Dei clauditur, ut homo a Deo
-            separetur. §. 1. Inter cetera septemuicia fornicatio maximi est sceleris, quia per
+            separetur. §. 1. Inter cetera septem uicia fornicatio maximi est sceleris, quia per
             carnis in-munditiam templum Dei uiolats. Sunt autem* quedam , que sicut animalia absque
             ulla discretione indesinenter libidini seruiunt, quas ego nec mutis
             pecudibusconparauerim. Pecora enim cum conceperint, ultra aonindulgent maribus copiam
-            sui. </p>
+            sui.
+              </quote>
+            </cit>
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e335">
           <head xml:id="gd-p2c32q7-Hd1e337">C. XVI</head>
           <head xml:id="gd-p2c32q7-Hd1e340" type="question-title"> Adulterium secundum in penis
             obtinet locum.</head>
-          <p xml:id="gd-p2c32q7-d1e343"> Item ex epistola [I.]* Clementis [ad Iacobum] </p>
-          <p xml:id="gd-p2c32q7-d1e346"> Quid in omnibus peccatis est adulterio grauius? Secundum
+          <p xml:id="gd-p2c32q7-d1e346"> 
+            Item ex <ref xml:id="gd-p2c32q7-Rd1e410">epistola [I.]* Clementis [ad Iacobum] </ref>
+            Quid in omnibus peccatis est adulterio grauius? Secundum
             namque in penis obtinet locum, quem quidem primum illi Jiabent, qui aberrant a Deo,
             etiamsisobrie uixerint. </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e414">
+            <head xml:id="gd-p2c32q7-Hd1e416">Dictum</head>
           <p xml:id="gd-p2c32q7-d1e349"> Gratian. His auctoritatibus euidentissime monstratur, quod
             quicumque causa fornicationis uxorem suam dimiserit, illa uiuentealiam ducere non
             poterit, et, si duxerit, reus adulterii erit. </p>
@@ -265,8 +351,10 @@
             prestantes causam discidii ^, aliorum coniunctione se reddiderunt indignos. </p>
           <p xml:id="gd-p2c32q7-d1e356"> Unde Ambrosius super [1.] epist. Pauli ad Chorinthios: [ad
             c. 7.]*: </p>
-          <p xml:id="gd-p2c32q7-d1e359"> [C. XVII.] </p>
-          <p xml:id="gd-p2c32q7-d1e362"> „ „ Uxor a uiro non discedat, nisi causa fornicationis;
+          </div>
+          <div xml:id="gd-p2c32q7-Dd1e428">
+            <head xml:id="gd-p2c32q7-Hd1e430">C. XVII.</head>
+          <p xml:id="gd-p2c32q7-d1e362"> Uxor a uiro non discedat, nisi causa fornicationis;
             quod si discesserit, aut maneat innupta, aut reconcilietur uiro suo; etuir similiter non
             dimittat uxorem .“ Ideo non subdit de uiro quodde uxore premisit, quia uiro licet ducere
             aliam </p>
@@ -277,32 +365,30 @@
             sua ob infirmitatem corporis debitum reddere non ualet . </head>
           <p xml:id="gd-p2c32q7-d1e375"> Item Gregorius iunior Bonifatio Episcopo, [epist.IV.]* </p>
           <p xml:id="gd-p2c32q7-d1e378"> Quod posuisti, si mulier infirmitate correptanon ualuerit
-            uiro debitum reddere, quid eius faciat </p>
-
-
-
-
-          <p xml:id="gd-p2c32q7-d1e381"> iugalis: bonum esset, si sic permaneret, ut abstinentiae
+            uiro debitum reddere, quid eius faciat iugalis: bonum esset, si sic permaneret, ut abstinentiae
             uacaret. Sed quia hoc magnorum est, ille, qui se non poteritcontinere, nubat magis; non
             tamen ei subsidii opemsubtrahat, quam infirmitas prepedit, non detestabilis culpa
             excludit. </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e451">
+            <head xml:id="gd-p2c32q7-Hd1e453">Dictum</head>
           <p xml:id="gd-p2c32q7-d1e385"> V. Pars. Gratian. Sed illud Ambrosii a falsatoribus dicitur
-            insertum. Illud Gregorii sacris canonibus, imoeuangelicae et apostolicae doctrinae
-            penitus inuenitur aduersam.Quidam uero, sentenciam Ambrosii seruare cupientes, non
-            dequalibet fornicatione illud arbitrantur intelligi, ut ob quamlibetfornicationem uir
-            licite dimittat uxorem, et uiuente dimissa aliamducat, sed de incestuosa tantum
+            insertum. Illud Gregorii sacris canonibus, imo euangelicae et apostolicae doctrinae
+            penitus inuenitur aduersam. Quidam uero, sentenciam Ambrosii seruare cupientes, non
+            de qualibet fornicatione illud arbitrantur intelligi, ut ob quamlibet fornicationem uir
+            licite dimittat uxorem, et uiuente dimissa aliam ducat, sed de incestuosa tantum
             fornicatione intelligitur™*, cum uxor uidelicet alicuius, patri et filio, fratri uel™s
             auun-culo uiri sui, uel alicui similium se construprandam publice tradiderit. Hec autem,
             quia uiro suo se illicitam reddidit inperpetuum, dum per copulam consanguinitatis in
-            primum, uelsecundum, uel tertium gradum transiuit affinitatis , licitedimittitur , et ea
+            primum, uel secundum, uel tertium gradum transiuit affinitatis , licite dimittitur , et ea
             uiuente superducitur alia. Hic si quis contendat, non magis uiro, quam mulieri licitum
-            esse, si uir alicuius eodemmodo fornicetur, sciat, uirum ab Ambrosio appellatum non
-            sexu, sed animi uirtute; mulierem quoque nominatam sentiat nonsexu corporis,
-            sed'mollitie' mentis. Sed quia nulla auctoritate permittitur, ut uiuente uxore alia
-            superducatur, intelligiturillud Ambrosii in supradicto fornicationis genere: non tamen,
+            esse, si uir alicuius eodem modo fornicetur, sciat, uirum ab Ambrosio appellatum non
+            sexu, sed animi uirtute; mulierem quoque nominatam sentiat non sexu corporis,
+            sed 'mollitie' mentis. Sed quia nulla auctoritate permittitur, ut uiuente uxore alia
+            superducatur, intelligitur illud Ambrosii in supradicto fornicationis genere: non tamen,
             quod uiuente dimissa aliam ducere possit, sed post mortem fornicariae uel fornicarii, (
-            quorum uterque, ut supra dictum est, acorruptione luxuriae mulier appellatur), ille ,
-            qui a fornicationemundus est, uir siue mulier aliis copulari possunt; adulteriautem, si
+            quorum uterque, ut supra dictum est, a corruptione luxuriae mulier appellatur), ille ,
+            qui a fornicatione mundus est, uir siue mulier aliis copulari possunt; adulteri autem, si
             superuixerint, nullo modo aliis copulari poterunt. </p>
           <p xml:id="gd-p2c32q7-d1e388"> Sic et illud intelligitur, quod in Capitulo cuiusdam
             Concilii legitur*: </p>
@@ -320,18 +406,21 @@
           <head xml:id="gd-p2c32q7-Hd1e409">C. XX</head>
           <head xml:id="gd-p2c32q7-Hd1e412" type="question-title"> Disiungantur, et numquam coniugio
             copulentur, qui quodlibet infra subiectorum admiserit . </head>
-          <p xml:id="gd-p2c32q7-d1e415"> Si quis uiduam duxerit uxorem, et postea cum filia-stra
+          <p xml:id="gd-p2c32q7-d1e415">
+            Si quis uiduam duxerit uxorem, et postea cum filia-stra
             fornicatus fuerit, seu cum duabus sororibus, aut si qua cum duobus fratribus, seu cum
             patre etfilio, si quis relictam fratris, si quis neptem, autnouer-cam, aut nurum, aut
             consobrinam, aut filiam auunculi, auteius relictam, aut priuignam polluerit, eos
-            disiungi, et ulteriusnumquam coniugio copulari precipimus. </p>
-
+            disiungi, et ulterius numquam coniugio copulari precipimus.
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e419">
           <head xml:id="gd-p2c32q7-Hd1e421">C. XXI</head>
           <head xml:id="gd-p2c32q7-Hd1e424" type="question-title"> Sororem uxoris polluens neutram
-            habere ualet . Item °o. </head>
-          <p xml:id="gd-p2c32q7-d1e427"> Qui dormierit cum duabus sororibus, et una ex illis antea
+            habere ualet</head>
+          <p xml:id="gd-p2c32q7-d1e427">
+            <ref xml:id="gd-p2c32q7-Rd1e500">. Item o. </ref>
+            Qui dormierit cum duabus sororibus, et una ex illis antea
             uxor fuerit, neutram ex ipsis habeat: nec ipsi adulteri umquam in coniugio copulentur.
           </p>
         </div>
@@ -339,33 +428,41 @@
           <head xml:id="gd-p2c32q7-Hd1e433">C. XXII</head>
           <head xml:id="gd-p2c32q7-Hd1e436" type="question-title"> Causa adulterii uxorem relinquens
             continentiam seruet. </head>
-          <p xml:id="gd-p2c32q7-d1e439"> Item illud Gregorii °. </p>
-          <p xml:id="gd-p2c32q7-d1e442"> Hii uero, qui uxores suas in adulterio deprehendunt, non
+          <p xml:id="gd-p2c32q7-d1e442">
+            Item <ref xml:id="gd-p2c32q7-Rd1e514">illud Gregorii</ref>.
+            Hii uero, qui uxores suas in adulterio deprehendunt, non
             licebit nec eum, nec illam aliam uxorem accipere, uel alium uirum, quamdiu ambo uiuunt.
             Si autem adulteramortua fuerit, uir eius, si uult, nubat, tantum in Domino;adultera uero
-            numquam, etiamsi mortuus fuerit uir eius.Omnibus tamen diebus uitae suae acerrimae
-            penitendaelamenta persoluat. </p>
+            numquam, etiamsi mortuus fuerit uir eius. Omnibus tamen diebus uitae suae acerrimae
+            penitendaelamenta persoluat.
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e446">
           <head xml:id="gd-p2c32q7-Hd1e448">C. XXIII</head>
           <head xml:id="gd-p2c32q7-Hd1e451" type="question-title"> Neutram habeat qui sororem uxoris
             polluit.</head>
-          <p xml:id="gd-p2c32q7-d1e454"> Item ex Decreto Zachariae Papae . </p>
-          <p xml:id="gd-p2c32q7-d1e457"> Concubuisti cum sorore uxoris tuae? si fecisti, neutram
-            habeas, et si illa, que uxor tua fuit, conscia sceleris nonfuit, si se continere non
-            uult, nubat in Domino cui uelit.Tu autem et adultera sine spe coniugii permaneatis, et,
-            quamdiu uiuitis, iuxta preceptum sacerdotis penitenciam agite. </p>
+          <p xml:id="gd-p2c32q7-d1e457">
+            Item ex <ref xml:id="gd-p2c32q7-Rd1e528">Decreto Zachariae Papae.</ref>
+            Concubuisti cum sorore uxoris tuae? si fecisti, neutram
+            habeas, et si illa, que uxor tua fuit, conscia sceleris non fuit, si se continere non
+            uult, nubat in Domino cui uelit. Tu autem et adultera sine spe coniugii permaneatis, et,
+            quamdiu uiuitis, iuxta preceptum sacerdotis penitenciam agite.
+          </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e462">
           <head xml:id="gd-p2c32q7-Hd1e464">C. XXIV</head>
           <head xml:id="gd-p2c32q7-Hd1e467" type="question-title"> Cum nouerca, uel filiastra, uel
             sorore uxoris dormiens ad coniugium non potest peruenire; uiris earum legitima non
             negantur coniugia. </head>
-          <p xml:id="gd-p2c32q7-d1e470"> Item ex Triburiensi Concilio . </p>
-          <p xml:id="gd-p2c32q7-d1e473"> Si quis cum nouerca sua dormierit, neuter potest ad
+          <p xml:id="gd-p2c32q7-d1e473"> 
+            Item ex <ref xml:id="gd-p2c32q7-Rd1e542">Triburiensi Concilio</ref>.
+            Si quis cum nouerca sua dormierit, neuter potest ad
             coniugium peruenire; sed uir eius potest, si uult, aliam accipere, si se continere non
             potest. §. i. Similiter quicum filiastra sua, uel cum sorore suae uxoris dormierit,
             obseruandum est. </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e547">
+            <head xml:id="gd-p2c32q7-Hd1e549">Dictum</head>
           <p xml:id="gd-p2c32q7-d1e476"> Gratian. Quamuis illud, quod in fine Maguntiensis concilii
             ponitur, a nonnullis non de legitime coniunctis, sed de fornicariisdictum intelligatur,
             uidelicet ut fornicarii discedant ab inuicem, et sine spe coniugii maneant illud uero
@@ -379,25 +476,28 @@
             corporis coniugium solui non licet. </head>
           <p xml:id="gd-p2c32q7-d1e488"> Item NyJcolaus ad Carolum, Maguntiensem Episcopum . </p>
           <p xml:id="gd-p2c32q7-d1e491"> VI. Pars. Hii, qui matrimonium sani contraxerunt, et uni ex
-            duobus amentia, aut furor, aut aliqua in- </p>
-
-
-
-
-          <p xml:id="gd-p2c32q7-d1e494"> firmitas accesserit, ob hanc infirmitatem coniugia talium
+            duobus amentia, aut furor, aut aliqua infirmitas accesserit, ob hanc infirmitatem coniugia talium
             solui non possunt. Similiter est sciendum de his, qui abaduersariis excecantur, aut
-            membris truncantur, aut abarbaris exsecti fuerint. </p>
+            membris truncantur, aut abarbaris exsecti fuerint.
+           </p>
         </div>
         <div xml:id="gd-p2c32q7-Dd1e498">
           <head xml:id="gd-p2c32q7-Hd1e500">C. XXVI</head>
           <head xml:id="gd-p2c32q7-Hd1e503" type="question-title"> Furiosus et furiosa matrimonium
             contrahere non possunt.</head>
-          <p xml:id="gd-p2c32q7-d1e506"> Item Fabianus Papa . </p>
-          <p xml:id="gd-p2c32q7-d1e509"> Neque furiosus, neque furiosa matrimonium contrahere
-            possunt; sed si contractum fuerit, non separentur. </p>
-          <p xml:id="gd-p2c32q7-d1e512"> VII. Pars. Gratian. Ut ergo ex premissis colligitur,
-            nonlicet huic dimissa uxore sua aliam ducere. Manet eniminter eos quoddam uinculum
-            coniugale, quod nec ipsa separationedissoluiiur. </p>
+          <p xml:id="gd-p2c32q7-d1e509"> 
+            Item <ref xml:id="gd-p2c32q7-Rd1e580">Fabianus Papa</ref>.
+            Neque furiosus, neque furiosa matrimonium contrahere
+            possunt; sed si contractum fuerit, non separentur.
+          </p>
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e584">
+            <head xml:id="gd-p2c32q7-Hd1e586">Dictum</head>
+          <p xml:id="gd-p2c32q7-d1e512"> 
+            VII. Pars. Gratian. Ut ergo ex premissis colligitur,
+            non licet huic dimissa uxore sua aliam ducere. Manet eniminter eos quoddam uinculum
+            coniugale, quod nec ipsa separatione dissoluiiur.
+          </p>
           <p xml:id="gd-p2c32q7-d1e516"> Unde Augustinus ait in libro de bono coniugali , [cap. 7.]:
           </p>
         </div>
@@ -405,7 +505,8 @@
           <head xml:id="gd-p2c32q7-Hd1e522">C. XXVII</head>
           <head xml:id="gd-p2c32q7-Hd1e525" type="question-title"> Sterilem uxorem dimittere, et
             causa fecunditatis aliam ducere alicui non licet. </head>
-          <p xml:id="gd-p2c32q7-d1e528"> Tantum ualet sociale uinculum, ut, cum causa procreandi
+          <p xml:id="gd-p2c32q7-d1e528"> 
+            Tantum ualet sociale uinculum, ut, cum causa procreandi
             colligitur, nec ipsa causa procreandi soluatur. Posset enim homo dimittere sterilem
             uxoremt 252 c ducere, de qua filios haberet, et tamen non licet. Item [c. 15.]: §. 1.
             Manet uinculum nuptiarum, etiamj 256 e proles, cuius causa initum est, manifesta
@@ -415,16 +516,24 @@
             manente. Plane uxoris uoluntate adhibere aliam, unde communes filii nascantur unius
             conmixtione ac semine, alterius autem iure ac potestate, apud antiquos patresfas erat.
             Utrum et nunc fas sit, temere non dixerim. </p>
-          <p xml:id="gd-p2c32q7-d1e531"> [C. XXVIII.] Idem in eodem. </p>
-          <p xml:id="gd-p2c32q7-d1e534"> Usque adeo manent inter uiuentes semel inita iura
+        </div>
+          <div xml:id="gd-p2c32q7-Dd1e607">
+            <head xml:id="gd-p2c32q7-Hd1e609">C. XXVIII.</head>
+          <p xml:id="gd-p2c32q7-d1e534"> 
+            Idem in eodem. 
+            Usque adeo manent inter uiuentes semel inita iura
             nuptiarum, ut potius inter se sint coniuges etiamseparati, quam cum his, quibus
-            adheserunt. Et post *:§. 1. Manet inter uiuentes quoddam uinculum coniugale, quod nec
+            adheserunt.
+          </p>
+          <p xml:id="gd-p2c32q7-d1e614">
+            Et post: §. 1. Manet inter uiuentes quoddam uinculum coniugale, quod nec
             separatio, nec cum altero copulatio possit auferre; sicut apostata anima, uelut de
             coniugio Christirecedens, etiam fide perdita sacramentum fidei non amittit, quod
-            lauachro regenerationis accepit. Redderetur enim </p>
-          <p xml:id="gd-p2c32q7-d1e538"> E roculdubio redeunti, si amisisset abscedens. Habet autem
-            oc, qui recessit, ad cumulum supplicii, non ad meritum premii. </p>
-        </div>
+            lauachro regenerationis accepit. Redderetur enim 
+            E roculdubio redeunti, si amisisset abscedens. Habet autem
+            oc, qui recessit, ad cumulum supplicii, non ad meritum premii. 
+          </p>
+          </div>
       </div>
     </body>
   </text>
