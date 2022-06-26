@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -136,7 +134,7 @@
             effectus, peccato alterius sine sua consensionenon tenetur obnoxius. Traxit ergo reatum,
             quia unus eratcum illo et in illo, a quo traxit, quando quod contraxitadmissum est. Non
             autem trahit alter ab altero, quandosua unoquoque propria uita uiuente iam est, unde
-            dicatur:„ Anima, que peccauerit, ipsa morietur." Ut autem possitregenerari per offitium
+            dicatur: <quote xml:id="gd-p2c1q4-Qd1e216" source="http://scta.info/resource/ez18_4@15-19">Anima, que peccauerit, ipsa morietur.</quote> Ut autem possitregenerari per offitium
             uoluntatis alienae, cum offertur consecrandus, facit hoc unus spiritus, ex quo
             regeneraturoblatus. </p>
 
