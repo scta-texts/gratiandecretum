@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,102 +54,111 @@
     <body>
       <div xml:id="gd-p2c3q2">
         <head xml:id="gd-p2c3q2-Hd1e103">QUESTIO II.</head>
-        <p xml:id="gd-p2c3q2-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c3q2-d1e109"> I. Pars. De induciis autem post restitutionem prestandis, et
+        <div xml:id="gd-p2c3q2-Dd1e100">
+          <head xml:id="gd-p2c3q2-Hd1e102">Dictum</head>
+          <p xml:id="gd-p2c3q2-d1e109">GRATIANUS. I. Pars. De induciis autem post restitutionem prestandis, et
           quo spatio temporis concedendae sint, scribit I oh annes Papa [epist. I. adZachariam
           Archiepiscopum], dicens: </p>
+        </div>
         <div xml:id="gd-p2c3q2-Dd1e112">
           <head xml:id="gd-p2c3q2-Hd1e114">C. I</head>
           <head xml:id="gd-p2c3q2-Hd1e117" type="question-title"> Secundum tempus expoliationis
-            conceduntur induciae restitutionis . </head>
-          <p xml:id="gd-p2c3q2-d1e120"> Quanto expoliati tempore uel expulsi esse uidebanturante,
-            quam ad sinodum conuocentur, sub eodem spatiotemporis eis induciae indulgeantur. </p>
+            conceduntur induciae restitutionis.</head>
+          <p xml:id="gd-p2c3q2-d1e120"> Quanto expoliati tempore uel expulsi esse uidebantur ante,
+            quam ad si nodum conuocentur, sub eodem spatio temporis eis induciae indulgeantur.</p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e124">
           <head xml:id="gd-p2c3q2-Hd1e126">C. II</head>
           <head xml:id="gd-p2c3q2-Hd1e129" type="question-title"> Dum possessiones uel res episcopi
             detinentur, aliquid sibi obici non potest . </head>
-          <p xml:id="gd-p2c3q2-d1e132"> Item Pelagius Papa [II. Episcopis Italiae]. </p>
-          <p xml:id="gd-p2c3q2-d1e135"> Cum ecclesiae alicuius episcopi, aut possessiones uel res ab
+          <p xml:id="gd-p2c3q2-d1e135">
+            Item <ref xml:id="gd-p2c3q2-Rd1e130">Pelagius Papa [II. Episcopis Italiae]</ref> 
+            Cum ecclesiae alicuius episcopi, aut possessiones uel res ab
             emulis eius uel a quibuscumque aliis non sua spontedetinentur, aliquid illi non debet
             aut potest a quoquamante redintegrationem omnium suarum rerum obici. Sedprius illi
-            legibus redintegranda sunt omnia, et postea tem- </p>
-          <p xml:id="gd-p2c3q2-d1e138"> E ore a Patribus prefinito prefinita negotia sunt venti-mda.
+            legibus redintegranda sunt omnia, et postea tempore a Patribus prefinito prefinita negotia sunt ventimda.
           </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e143">
           <head xml:id="gd-p2c3q2-Hd1e145">C. III</head>
           <head xml:id="gd-p2c3q2-Hd1e148" type="question-title"> Ante litem contestatam uiolenter
             ablata restituantur . </head>
-          <p xml:id="gd-p2c3q2-d1e151"> Item Stephanus F.* Gerar do Lodicensi. Oportet, ut primum
+          <p xml:id="gd-p2c3q2-d1e151"> Item <ref xml:id="gd-p2c3q2-Rd1e144">Stephanus F.* Gerar do Lodicensi</ref>. 
+            Oportet, ut primum
             uos tam de inuasis ciuitatibus, et monasteriis, et mansis, quamque et de reliquis
-            generaliter rebus reinuestire® faciatis, quia nec nudi contendere, nec inermes inimicis
-            nos debemus obponere. </p>
-
+            generaliter rebus reinuestire faciatis, quia nec nudi contendere, nec inermes inimicis
+            nos debemus ob ponere. 
+          </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e155">
           <head xml:id="gd-p2c3q2-Hd1e157">C. IV</head>
           <head xml:id="gd-p2c3q2-Hd1e160" type="question-title"> Deiciantur a clero et infames
-            fiant, qui loca expulsorum adulterina feditate inuaserunt Item Euaristus Papa, [epist.
-            II.]. </head>
-          <p xml:id="gd-p2c3q2-d1e163"> Audiuimus quosdam a uobis infamatos et dilaceratos episcopos
-            a ciuitatibus propriis pulsos (quiaalibi constitui episcopi non possunt, nisi in
-            ciuitatibus nonminimis), et alios ipsis uiuentibus constitutos. Ideohec uobis scribimus,
-            ut sciatis hoc fieri non licere, sedproprios reuocari et integerrime restitui debere.
-            Illosuero, qui adulterina feditate suas sponsas (quas et uxoreseorum prefixo tenore esse
-            intelligimus) tenent, eici, etadulteros atque infames fieri, eosque ab ecclesiasticis
-            honoribus arceri iubemus. Si autem aduersus eos aliquamquerelam habueritis, his peractis
-            inquirendum erit etauctoritate huius sanctae sedis terminandum. </p>
+            fiant, qui loca expulsorum adulterina feditate inuaserunt </head>
+          <p xml:id="gd-p2c3q2-d1e163"> 
+            <ref xml:id="gd-p2c3q2-Rd1e159">Item Euaristus Papa, [epist. II.].</ref>
+            Audiuimus quosdam a uobis infamatos et dilaceratos episcopos
+            a ciuitatibus propriis pulsos (quia alibi constitui episcopi non possunt, nisi in
+            ciuitatibus non minimis), et alios ipsis uiuentibus constitutos. Ideohec uobis scribimus,
+            ut sciatis hoc fieri non licere, se proprios reuocari et integerrime restitui debere.
+            Illos uero, qui adulterina feditate suas sponsas (quas et uxores eorum prefixo tenore esse
+            intelligimus) tenent, eici, et adulteros atque infames fieri, eosque ab ecclesiasticis
+            honoribus arceri iubemus. Si autem aduersus eos aliquam querelam habueritis, his peractis
+            inquirendum erit et auctoritate huius sanctae sedis terminandum. </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e167">
           <head xml:id="gd-p2c3q2-Hd1e169">C. V</head>
           <head xml:id="gd-p2c3q2-Hd1e172" type="question-title"> Induciae sex mensium eiectis uel
             expoliatis prestantur . </head>
-          <p xml:id="gd-p2c3q2-d1e175"> Item Gaius [epist. I. ad Felicem]. </p>
-          <p xml:id="gd-p2c3q2-d1e178"> Eiectis uel expoliatis post integram
-            restaurationemanniuersariae induciae uel sex mensium indulgendae sunt. </p>
+          <p xml:id="gd-p2c3q2-d1e178"> 
+            Item <ref xml:id="gd-p2c3q2-Rd1e173">Gaius [epist. I. ad Felicem]</ref>. 
+            Eiectis uel expoliatis post integram
+            restaurationem anniuersariae induciae uel sex mensium indulgendae sunt. </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e182">
           <head xml:id="gd-p2c3q2-Hd1e184">C. VI</head>
           <head xml:id="gd-p2c3q2-Hd1e187" type="question-title"> Post restitutionem induciae
             prestandae sunt.</head>
-          <p xml:id="gd-p2c3q2-d1e190"> Item Eusebius [Papa epist. II.] </p>
-          <p xml:id="gd-p2c3q2-d1e193"> Prius ergo oportet omnia expoliatis legibus redintegrari, et
+          <p xml:id="gd-p2c3q2-d1e193"> 
+            Item <ref xml:id="gd-p2c3q2-Rd1e187">Eusebius [Papa epist. II.]</ref> 
+            Prius ergo oportet omnia expoliatis legibus redintegrari, et
             ecclesias, que sibi sublatae sunt, cum omni priuilegio sibi restitui, et postmodum non
-            sub angusto tempore spatium® eis indulgeatur, sed quantum expoliati uelexpulsi
+            sub angusto tempore spatium® eis indulgeatur, sed quantum expoliati uel expulsi
             uidebantur ante, quam ad sinodum conuocentur. </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e197">
           <head xml:id="gd-p2c3q2-Hd1e199">C. VII</head>
           <head xml:id="gd-p2c3q2-Hd1e202" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c3q2-d1e205"> Item Felix Papa [II. in rescripto ad Episcopos Egipti, cap.
-            8.] </p>
-          <p xml:id="gd-p2c3q2-d1e208"> Tamdiu in sede propria pacifice et potestatiue cuncta acta
-            disponens resideat, quamdiu expulsus uel expoliatussuis carere uisus est rebus. </p>
+          <p xml:id="gd-p2c3q2-d1e208"> 
+            Item <ref xml:id="gd-p2c3q2-Rd1e201">Felix Papa [II. in rescripto ad Episcopos Egipti, cap. 8.]</ref> 
+            Tamdiu in sede propria pacifice et potestatiue cuncta acta
+            disponens resideat, quamdiu expulsus uel expoliatus suis carere uisus est rebus. </p>
         </div>
         <div xml:id="gd-p2c3q2-Dd1e212">
           <head xml:id="gd-p2c3q2-Hd1e214">C. VIII</head>
           <head xml:id="gd-p2c3q2-Hd1e217" type="question-title"> Ante restitutionem aliquis ad
             causam uocari non debet.</head>
-          <p xml:id="gd-p2c3q2-d1e220"> Idem [Felix Papa I. epist. II. ad Episcopos Galliae]. </p>
-          <p xml:id="gd-p2c3q2-d1e223"> Si episcopus suis fuerit aut ecclesiae sibi commissae rebus
-            expoliatus, aut (quod absit, quod alienum ab omnibusesse debet fidelibus) a sede propria
-            eiectus aut in detentione aliqua a suis ouibus fuerit sequestratus, tunc cano- </p>
-
-
-
-
-          <p xml:id="gd-p2c3q2-d1e226"> nice* ante in, pristino statu restituatur cum omni
+          <p xml:id="gd-p2c3q2-d1e223"> 
+            Idem <ref xml:id="gd-p2c3q2-Rd1e215">[Felix Papa I. epist. II. ad Episcopos Galliae]</ref>. 
+            Si episcopus suis fuerit aut ecclesiae sibi commissae rebus
+            expoliatus, aut (quod absit, quod alienum ab omnibus esse debet fidelibus) a sede propria
+            eiectus aut in detentione aliqua a suis ouibus fuerit sequestratus, tunc canonice 
+            ante in, pristino statu restituatur cum omni
             priuilegio sui honoris, et sua omnia, que insidiis inimicorum suorum ei ablata fuerant,
-            legibus redintegrentur.Non enim conuocari uel preiudicari poterit, nisi ipsepro sua
-            necessitate (minime tamen iudicandus) adueniresponte elegerit. Nullatenus ergo a quoquam
+            legibus redintegrentur. Non enim conuocari uel preiudicari poterit, nisi ipse pro sua
+            necessitate (minime tamen iudicandus) aduenire sponte elegerit. Nullatenus ergo a quoquam
             cogaturante, quam integerrime omnia, que per suggestiones suorum inimicorum amiserat,
-            potestati eius ab honorabili concilio legali ordine redintegrentur. §. i. Presul uerocum
+            potestati eius ab honorabili concilio legali ordine redintegrentur.
+          </p>
+          <p xml:id="gd-p2c3q2-d1e218">
+            §. i. Presul uerocum
             omni honore statui pristino reddatur, et ipse dispositis ordinatisque libere ac secure
-            diu suis, tunc regulariter infra quatuor, uel quinque, uel sex, aut septemmenses, iuxta
-            quod possibilitas ei fuerit, et non ante con-uocatus, ad tempus in legitimo concilio et
-            canonico con-ueniat ad causam, et si ita iuste uidetur, accusantiumpropositionibus
+            diu suis, tunc regulariter infra quatuor, uel quinque, uel sex, aut septem menses, iuxta
+            quod possibilitas ei fuerit, et non ante conuocatus, ad tempus in legitimo concilio et
+            canonico coueniat ad causam, et si ita iuste uidetur, accusantium propositionibus
             respondeat. </p>
+        </div>
+        <div xml:id="gd-p2c3q2-Dd1e221">
+          <head xml:id="gd-p2c3q2-Hd1e223">Dictum</head>
           <p xml:id="gd-p2c3q2-d1e230"> II. Pars. Gratian. Quod si male uiuendo ecclesiae facultates
             dispersit episcopus , quousque ab eius patrimonio, de dilapidatione rerum
             ecclesiasticarum cognoscatur, submouendus est, exemplo tutorum et curatorum, qui, dum
@@ -160,13 +167,13 @@
         </div>
         <div xml:id="gd-p2c3q2-Dd1e238">
           <head xml:id="gd-p2c3q2-Hd1e240">C. IX</head>
-          <head xml:id="gd-p2c3q2-Hd1e243" type="question-title"> Ab admimstratione remoueatur qui
+          <head xml:id="gd-p2c3q2-Hd1e243" type="question-title"> Ab administratione remoueatur qui
             res ecclesiae male uiuendo dispergit . </head>
-          <p xml:id="gd-p2c3q2-d1e246"> Quia ea, que de fraudibus Maximiliani* flebili ad aures
+          <p xml:id="gd-p2c3q2-d1e246"> Quia ea, que de fraudibus Maximiliani flebili ad aures
             nostras suplicum relatione uenerunt, non facile secundum ueritatem agnosci potuerunt,
-            nisi facultas ecclesiae, quam in usus suos male conuertendo dispersit, abeius potestate,
-            donec causa cognoscatur, seponatur: idcircouos eum a supradictae" ecclesiae patrimonio
-            uolumusinterim submouere, et in uestro discussionis ipsiustempora moderamine detineri.
+            nisi facultas ecclesiae, quam in usus suos male conuertendo dispersit, ab eius potestate,
+            donec causa cognoscatur, seponatur: id circouos eum a supradictae" ecclesiae patrimonio
+            uolumus interim submouere, et in uestro discussionis ipsius tempora moderamine detineri.
           </p>
         </div>
       </div>
