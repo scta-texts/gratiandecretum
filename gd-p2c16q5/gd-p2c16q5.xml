@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,14 +53,17 @@
     </front>
     <body>
       <div xml:id="gd-p2c16q5">
-        <p xml:id="gd-p2c16q5-d1e101"> QUESTIO V. [VI.] </p>
-        <p xml:id="gd-p2c16q5-d1e104"> GRATIANUS. </p>
-        <p xml:id="gd-p2c16q5-d1e107"> I. Pars. Quod autem ea, que ecclesiae debentur , rectores
-          eiusdem sua auctoritate iudiciis pretermissis repetere non ualeant , B. Gregorius testatur
-          , [lib. IV. c. 38.] dicens *: </p>
+        <head xml:id="gd-p2c16q5-Hd1e97">QUESTIO V.</head>
+        <div xml:id="gd-p2c16q5-Dd1e99">
+          <head xml:id="gd-p2c16q5-Hd1e101">Dictum</head>
+          <p xml:id="gd-p2c16q5-d1e107"> 
+          GRATIANUS.  I. Pars. Quod autem ea, que ecclesiae debentur , rectores
+          eiusdem sua auctoritate iudiciis pretermissis repetere non ualeant , B. Gregorius testatur, [lib. IV. c. 38.] dicens *:
+          </p>
+        </div>
         <div xml:id="gd-p2c16q5-Dd1e110">
           <head xml:id="gd-p2c16q5-Hd1e112">C. I</head>
-          <head xml:id="gd-p2c16q5-Hd1e115" type="question-title"> Iudicio , non manibus , res
+          <head xml:id="gd-p2c16q5-Hd1e115" type="question-title"> Iudicio, non manibus , res
             ecclesiae defendantur. </head>
           <p xml:id="gd-p2c16q5-d1e118"> Consuetudo noua in hac ecclesia et ualde reprehensibilis
             erupit, ut, cum rectores eius patrimonii urbana uel rusticana* predia iuri illius
@@ -71,94 +72,13 @@
             ueritas: „nichil per contentionem “ agere precipiat, etiam ipsum litigiosae
             contentionismalum transcenditur, et res quelibet, cum estimatur ecclesiae posse
             conpetere, per uim tenetur. Proinde presentidecreto constituto, ut, si quis
-            ecclesiasticorum umquamtitulos ponere siue in rustico siue in urbano predio suasponte
-            presumpserit, anathema sit. Et responderuntomnes: Anathema sit. §. 1. Is autem, qui
-            ecclesiae preest, si hoc uel ipse fieri preceperit, uel sine sua preceptionefactum digna
+            ecclesiasticorum umquam titulos ponere siue in rustico siue in urbano predio sua sponte
+            presumpserit, anathema sit.
+          </p>
+          <p xml:id="gd-p2c16q5-d1e120">
+            Et responderunt omnes: Anathema sit. §. 1. Is autem, qui
+            ecclesiae preest, si hoc uel ipse fieri preceperit, uel sine sua preceptione factum digna
             punire animaduersione neglexerit, anathemasit. Et responderunt omnes: Anathema sit. </p>
-
-          <p xml:id="gd-p2c16q5-d1e121"> QUESTIO VI. </p>
-          <p xml:id="gd-p2c16q5-d1e124"> GRATIANUS. </p>
-          <p xml:id="gd-p2c16q5-d1e128"> II. Pars. Gratian. Quod autem quisquis sua auctoritateque*
-            sibi deberi putat usurpat , nec per iudicem resposcit , cadit a causa , ex auctoritate
-            Mileuitani Concilii habetur, inquo ita statutum legitur , [c. 21.] : </p>
-          <p xml:id="gd-p2c16q5-d1e131"> c. I.pi.1 Causae suge detrimentum patiatur episcopus , qui
-            ecclesias suas ab alio retentas propria auctoritatequerit adire. </p>
-          <p xml:id="gd-p2c16q5-d1e134"> Placuit, ut quicumque episcopi ecclesias uel plebes, quas
-            ad suam cathedram existimant pertinere, non itarepetierint, ut causas suas episcopis
-            iudicantibus agant, sed alio retinente irruerint, siue nolentibus siue uolenti-bus
-            plebibus, causae suae detrimentum patiantur. Et quicumque hoc iam fecerint, si nondum
-            inter episcoposfinita est contentio, sed adhuc inde contendunt, ille indediscedat, quem
-            constiterit pretermissis iudicibus ecclesiasticis irruisse. §. 1. Nec sibi quisque
-            blandiatur, si a </p>
-          <p xml:id="gd-p2c16q5-d1e137"> E rimate, ut retineat, litteras inpetrauerit, sed, siue
-            ha-eat litteras siue non habeat, conueniat eum qui tenet, et eius litteras accipiat, ut
-            eum appareat pacifice tenuisseecclesiam ad se pertinentem. Si autem ille aliquam
-            questionem retulerit, per episcopos iudices causa finiatur, siuequos eis primas dederit,
-            siue quos ipsi uicinos*cum consultu primatis** delegerint. </p>
-          <p xml:id="gd-p2c16q5-d1e140"> III. Pars. Gratian. Contra Gregorius IohanniDefensori ,
-            eunti in Yspaniam , scribit [lib. XI. epist. 50., ] dicens : </p>
-          <p xml:id="gd-p2c16q5-d1e143"> C. II. [III.] Delictum personae in dampnum ecclesiae
-            conuerti non potest. </p>
-          <p xml:id="gd-p2c16q5-d1e147"> Si episcopum (quod absit) talem culpam
-            conmisisseconstiterit, ut constet eum non irrationabiliter esse depositum, eadem eius
-            depositio confirmetur, et omnes res suaeecclesiae que ablatae fuerant, restituantur,
-            quia delictumpersonae in dampnum ecclesiae non est conuertendum. Siautem dicitur, quia
-            Comitiolus defunctus est, ab heredeeius que ab illo iniuste ablata sunt sine excusatione
-            reddantur. </p>
-          <p xml:id="gd-p2c16q5-d1e150"> C. III. [IV.] In personam deliquentis , non in facultates
-            eius ultio procedat. </p>
-          <p xml:id="gd-p2c16q5-d1e153"> Idem Petro Subdiacono , [lib. I. epist. 42.]Cognouimus,
-            quod si quis ex familia culpam fecerit*, non in ipso, sed in eiusdem substantia
-            uindice-tur. De qua re precipimus, ut quisquis culpam fecerit, </p>
-
-
-
-
-          <p xml:id="gd-p2c16q5-d1e156"> in ipso quidem, ut' dignum est, nindicetur; a communione**
-            eius autem omnino abstineatur. </p>
-          <p xml:id="gd-p2c16q5-d1e159"> C, IV. [V.] Res eorum, qui ex clero fabuntur**, simul cum
-            ipsis monasterio tradantur. </p>
-          <p xml:id="gd-p2c16q5-d1e162"> Idem [in eadem epistola]: </p>
-          <p xml:id="gd-p2c16q5-d1e166"> De lapsis sacerdotibus , uel quolibet ex clero obseruare te
-            uolumus, ut in rebus eorum nulla contaminatione miscearis: sed pauperrima regularia
-            monasteria require, que secundum Deum uiuere sciunt, et in eisdem monasteriis lapsos
-            trade ad penitenciam, et res lapsorum ineo loco proficiant, in quo agere penitenciam
-            traduntur, quatinus ipsi ex rebus eorum subsidium habeant, qui decorreptione eorum
-            sollicitudinem gerunt. Si uero parentes habent, res eorum legitimis parentibus dentur,
-            ita autem £, ut eorum stipendia , qui in penitenciam datifuerint, sufficienter debeant '
-            procurari. §. i. Si quiuero ex familia ecclesiastica sacerdotes, uel Leuitae,
-            uelmonachi, uel clerici, uel quilibet alii lapsi fuerint, dari eosin penitenciam
-            uolumus, sed res eorum ecclesiastico iurinon subtrahi. Ad usum tamen suum accipiant unde
-            adpenitenciam subsistant, ne, si nudentur, locis, in quibusdati fuerint, sint onerosi. </p>
-          <p xml:id="gd-p2c16q5-d1e169"> C. V. [VI.] Inutilis sacerdos ecclesiam suam™ dignitate non
-            priuat. </p>
-          <p xml:id="gd-p2c16q5-d1e172"> Item Leo IV. Karolo Regi . </p>
-          <p xml:id="gd-p2c16q5-d1e175"> Si fortassis (quod non credimus) apud uos inutiles
-            iudi-camur, ecclesia tamen, cui permittente Domino presumus, non inutilis, sed caput
-            principium que omnium merito simulab omnibus uocatur. </p>
-          <p xml:id="gd-p2c16q5-d1e178"> C. VI. [VII.] Possessiones monasterii pro peccato abbatis
-            episcopo tollere non licet. </p>
-          <p xml:id="gd-p2c16q5-d1e181"> Item in Magontiensi Concilio . </p>
-          <p xml:id="gd-p2c16q5-d1e185"> Episcopo non licet possessionem monasterii tollere, quamuis
-            abbas peccauerit; sed subiciat* eum potestati abbatis alterius monasterii. </p>
-          <p xml:id="gd-p2c16q5-d1e188"> [PALEA. </p>
-          <p xml:id="gd-p2c16q5-d1e191"> C. VII. [VIII.] Que sacerdotes dederunt subsequentes
-            pontifices nullatenus auferre presumant. </p>
-          <p xml:id="gd-p2c16q5-d1e194"> Item Gelasius. </p>
-          <p xml:id="gd-p2c16q5-d1e197"> Illud statuendum censuimus, ut quascumque munificentias
-            clericis aut sibi seruientibus de rebus ecclesiae in usum, aut de propriis in
-            proprietatem precedentes dederint sacerdotes, subsequentes pontifices nullatenus
-            auferrepresumant. Si quid tamen culpae extiterit, pro qualitate </p>
-          <p xml:id="gd-p2c16q5-d1e200"> S ersonarum uel regula precedentium canonum in persona
-            abeatur, non in facultate districtum.] </p>
-
-          <p xml:id="gd-p2c16q5-d1e204"> Gratian. Si ergo delictum personae in dampnum ecclesiae
-            connerti non potest, quia procurator condicionem ecclesiae potestfacere meliorem, non
-            deteriorem; si peccato abbatis possessionesmonasterii auferri^ non licet: quomodo
-            delictum episcopi uerteturin dampnum ecclesiae, ut inde detrimentum causae suae
-            patiatur?Sed detrimentum causae pati non sic est accipiendum, ut ecclesiasuo iure
-            priuetur, pocius , quia clericis coram iudice stantibus episcopus tacebit, et pro
-            iniuria illata multabitur, si propriahabuerit. </p>
         </div>
       </div>
     </body>
