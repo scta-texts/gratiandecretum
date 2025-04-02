@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -57,42 +55,55 @@
       <div xml:id="gd-p2c2q5">
         <head xml:id="gd-p2c2q5-Hd1e103">QUESTIO V*</head>
         <!-- comes before question 4 for some reason -->
+        <div xml:id="gd-p2c2q5-Dd1e102">
+          <head xml:id="gd-p2c2q5-Hd1e104">Dictum</head>
         <p xml:id="gd-p2c2q5-d1e108"> I. Pars. Deficientibus uero accusatoribus reus non uide-tur
           esse cogendus ad purgationem. Sicut enim possessor deficiente actore titulum suae
           possessionis probare non cogitur, itaqui inpetitur ad innocentiam suam purgandam cogendus
           essenon creditur. Auctoritate quoque Cornelii Papae, et Triburiensisconcilii sacerdotes
           iurare prohibentur, nisi pro recta fide. </p>
         <p xml:id="gd-p2c2q5-d1e111"> Ait enim Cornelius, [epist. II. ad Rufum, Episcopum
-          orientalem]*: </p>
+          orientalem]: </p>
+        </div>
         <div xml:id="gd-p2c2q5-Dd1e114">
           <head xml:id="gd-p2c2q5-Hd1e116">C. I</head>
           <head xml:id="gd-p2c2q5-Hd1e119" type="question-title"> Iuramentum a sacerdotibus non est
             exigendum . </head>
           <p xml:id="gd-p2c2q5-d1e122"> Sacramentum hactenus a summis** sacerdotibus uel reliqpiis
             exigi, nisi pro recta fide, minime cognouimusfieri nec sponte eos iurasse reperimus. </p>
-          <p xml:id="gd-p2c2q5-d1e125"> [C. II.] 9 a </p>
-          <p xml:id="gd-p2c2q5-d1e128"> Item. </p>
-          <p xml:id="gd-p2c2q5-d1e132"> Nos, sequentes sanctorum iura apostolorumeorumque
-            successorum firmamus, et sacramenta incautaprohibemus. </p>
-          <p xml:id="gd-p2c2q5-d1e135"> [C. iii.p» </p>
-          <p xml:id="gd-p2c2q5-d1e138"> Item. </p>
-          <p xml:id="gd-p2c2q5-d1e141"> Nos sacramentum ab episcopis nescimus oblatum, nec umquam
-            fieri debet*. </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e125">
+          <head xml:id="gd-p2c2q5-Hd1e127">C. II</head>
+          <p xml:id="gd-p2c2q5-d1e132">
+            <ref xml:id="gd-p2c2q5-Rd1e131">Item.</ref> 
+            Nos, sequentes sanctorum iura apostolorum eorumque
+            successorum firmamus, et sacramenta incauta prohibemus. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e136">
+          <head xml:id="gd-p2c2q5-Hd1e138">C. II</head>
+          <p xml:id="gd-p2c2q5-d1e141"> 
+            Item. 
+            Nos sacramentum ab episcopis nescimus oblatum, nec umquam
+            fieri debet.</p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e146">
           <head xml:id="gd-p2c2q5-Hd1e148">C. IV</head>
           <head xml:id="gd-p2c2q5-Hd1e151" type="question-title"> Si quis presbiter contra laicum,
-            uel laicus contra clericum querimoniam habet . </head>
-          <p xml:id="gd-p2c2q5-d1e154"> Item ex Concilio Triburiensi, [c. 21.] </p>
-          <p xml:id="gd-p2c2q5-d1e157"> Si quis presbiter contra laicum, uel laicus contra
+            uel laicus contra clericum querimoniam habet.</head>
+          <p xml:id="gd-p2c2q5-d1e157"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e154">Concilio Triburiensi, [c. 21.]</ref> 
+            Si quis presbiter contra laicum, uel laicus contra
             presbiterum aliquam habet querimoniae controuersiam, episcopo precipiente sine
-            personarum acceptione finiatur, laicusper iuramentum (si necesse sit) se expurget;
+            personarum acceptione finiatur, laicus per iuramentum (si necesse sit) se expurget;
             presbiteruero uice iuramenti per sanctam consecrationem interrogetur, quia sacerdotes ex
-            leui causa iurare non debent.Manus, per quam corpus et sanguis Christi conficitur,
-            iuramento polluetur? Absit, cum Dominus in euangeliodiscipulis suis (quorum uicem nos
-            indigni in sancta gerimusecclesia) dicat: , , Nolite omnino iurare; sit autem
-            sermouester: est, est; non, non. Quod autem his habundantiusest a malo est.“ </p>
-
+            leui causa iurare non debent. Manus, per quam corpus et sanguis Christi conficitur,
+            iuramento polluetur? Absit, cum Dominus in euangelio discipulis suis (quorum uicem nos
+            indigni in sancta gerimus ecclesia) dicat: , , Nolite omnino iurare; sit autem
+            sermouester: est, est; non, non. Quod autem his habundantius est a malo est.“ </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e158">
+          <head xml:id="gd-p2c2q5-Hd1e160">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e160"> II. Pars. Gratian. Verum his auctoritatibus non omnimoda
             iuramenta prohibentur fieri a sacerdotibus, sed tantum in - cauta et ea, que pro
             qualibet causa temporali iudicio offeruntur.Cum autem populari infamia sacerdotes
@@ -112,84 +123,81 @@
           <head xml:id="gd-p2c2q5-Hd1e182">C. VI</head>
           <head xml:id="gd-p2c2q5-Hd1e185" type="question-title"> De Leone episcopo, quem B.
             Gregorius fecit purgationem prebere.</head>
-          <p xml:id="gd-p2c2q5-d1e188"> Item ex Registro Gregorii, [lib. II. Indict. io. epist. 23.]
-            ad Iustinum Inperatorem capitulo VII .* </p>
-          <p xml:id="gd-p2c2q5-d1e191"> Habet hoc proprium antiqui hostis inuidia, ut quos
-            inproborum actuum perpetratione (Deo sibi resistente)deicere non ualet, opiniones eorum
-            falsas, ad presenssimulando, dilaceret. Quoniam igitur quedam contra sacerdotale
-            propositum de Leone fratre et coepiscopo nostrosinister rumor asperserat, utrum uera
-            essent districtadiutius fecimus inquisitione perquiri, et nullam in eo culpaminuenimus
-            de his, que dicta fuerant. Sed ne quid uidereturomissum, quod nostro potuisset cordi
-            remanere ambi- </p>
-          <p xml:id="gd-p2c2q5-d1e194"> f uum, ad B. Petri sacratissimum corpus districta eum ex
-            abundanti fecimus sacramenta prebere. Quibus prestitismagna fuimuss exultatione gauisi,
-            quod huiuscemodiinnocentia eius euidenter enituit. Pro qua re gloriauestra predictum
-            uirum cum omni karitate suscipiat, et re-uerentiam ei, qualem sacerdotem decet exhibeat,
+          <p xml:id="gd-p2c2q5-d1e191"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e191">Registro Gregorii, [lib. II. Indict. io. epist. 23.] ad Iustinum Inperatorem capitulo VII</ref>. 
+            Habet hoc proprium antiqui hostis inuidia, ut quos
+            inproborum actuum perpetratione (Deo sibi resistente) deicere non ualet, opiniones eorum
+            falsas, ad presens simulando, dilaceret. Quoniam igitur quedam contra sacerdotale
+            propositum de Leone fratre et coepiscopo nostro sinister rumor asperserat, utrum uera
+            essent districta diutius fecimus inquisitione perquiri, et nullam in eo culpaminuenimus
+            de his, que dicta fuerant. Sed ne quid uideretur omissum, quod nostro potuisset cordi
+            remanere ambiuum, ad B. Petri sacratissimum corpus districta eum ex
+            abundanti fecimus sacramenta prebere. Quibus prestitis magna fuimus exultatione gauisi,
+            quod huiuscemodi innocentia eius euidenter enituit. Pro qua re gloria uestra predictum
+            uirum cum omni karitate suscipiat, et reuerentiam ei, qualem sacerdotem decet exhibeat,
             necaliqua cordibus remaneat de his, que iam sunt purgata, dubietas. Et ita suprascripto
-            uos episcopo deuotissimeoportet in omnibus adherere, ut congrue decenterque Deumin eius
+            uos episcopo deuotissime oportet in omnibus adherere, ut congrue decenterque Deum in eius
             persona, cuius minister est, uideamini honorare. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e198">
           <head xml:id="gd-p2c2q5-Hd1e200">C. VII</head>
           <head xml:id="gd-p2c2q5-Hd1e203" type="question-title"> Quod- B. Gregorius Mennam
             episcopum iuramento purgari fecit.</head>
-          <p xml:id="gd-p2c2q5-d1e206"> Item ex eodem ad Brunichildam Reginam Francorum, cap.
-            CCXXXVII* </p>
-          <p xml:id="gd-p2c2q5-d1e209"> Mennam uero reuerentissimum fratrem et coepiscopum </p>
-
-
-
-
-          <p xml:id="gd-p2c2q5-d1e212"> nostrum, postquam ea, que de eo dicta fuerant, requirentes,
+          <p xml:id="gd-p2c2q5-d1e209"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e205">eodem ad Brunichildam Reginam Francorum, cap. CCXXXVII</ref> 
+            Mennam uero reuerentissimum fratrem et coepiscopum 
+            nostrum, postquam ea, que de eo dicta fuerant, requirentes,
             in nullo inuenimus esse culpabilem, qui insuper ad sacratissimum corpus B.Petri apostoli
             sub iureiurando satisfaciens, ab his, que obiecta fuerant eius opinioni, se
             demonstrauitalienum, reuerti illum purgatum absolutumque permisimus, quia, sicut dignum
             erat, ut, si in aliquo reus existeret, culpam in eo canonice puniremus, ita dignum non
-            fuit, uteum adiuuante innocentia diutius retinere uel affligere inaliquo deberemus. §.
-            i. Purgationem* tamen ante teduobus sacerdotibus sibi iunctis, ubi accusator cessauerit,
-            eundem hoc ex se prebere tuo committimus arbitrio.Vulgarem denique, ac nulla canonica
+            fuit, uteum adiuuante innocentia diutius retinere uel affligere inaliquo deberemus.
+          </p>
+          <p xml:id="gd-p2c2q5-d1e208">
+            §. i. Purgationem tamen ante teduobus sacerdotibus sibi iunctis, ubi accusator cessauerit,
+            eundem hoc ex se prebere tuo committimus arbitrio. Vulgarem denique, ac nulla canonica
             sanctione fultam legem, feruentis scilicet siue frigidae aquae, ignitique ferri
-            contactum, aut cuiuslibet popularis inuentionis (quia fabricantehec sunt omnino ficta
-            inuidia), nec ipsum exhibere, necaliquo te modo uolumus postulare, imo apostolica
-            auctoritateprohibemus firmissime. </p>
+            contactum, aut cuiuslibet popularis inuentionis (quia fabricante hec sunt omnino ficta
+            inuidia), nec ipsum exhibere, nec aliquo te modo uolumus postulare, imo apostolica
+            auctoritate prohibemus firmissime. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e216">
           <head xml:id="gd-p2c2q5-Hd1e218">C. VIII</head>
           <head xml:id="gd-p2c2q5-Hd1e221" type="question-title"> De Maximo Salonitano episcopo, ut"
             sacramento semet ipsum expurget . </head>
-          <p xml:id="gd-p2c2q5-d1e224"> Idem Castorio Notario Rauennae [lib. VII. Indict. 2. epist.
-            8o.] </p>
-          <p xml:id="gd-p2c2q5-d1e227"> Quanto a nobis creditur, et necessarias uides causas
+          <p xml:id="gd-p2c2q5-d1e227">
+            Idem <ref xml:id="gd-p2c2q5-Rd1e222">Castorio Notario Rauennae [lib. VII. Indict. 2. epist. 8o.]</ref> 
+            Quanto a nobis creditur, et necessarias uides causas
             iniungi, tanto strenuum debes te et sollicitum exhibere. Proinde, si Maximus Salonitanus
-            prestito sacramentofirmauerit se symoniaca heresi non teneri, atque de aliisante corpus
+            prestito sacramento firmauerit se symoniaca heresi non teneri, atque de aliis ante corpus
             sancti Apollinaris tantummodo requisitus, innoxium se esse responderit, et de
             inobedienta sua (sicut de-putauimus) egerit penitenciam, uolumus, ut ad consolandum
             illum epistolam, quam ad eum scripsimus, qua eiets gratiam nostram, et communionem
-            reddidissesignauimus), experientia tua dare debeat; quia sicut incontumacia
-            persistentibus seueros esse nos conuenit, sichumiliatis et penitentibus locum ueniae
+            reddidisse signauimus), experientia tua dare debeat; quia sicut incontumacia
+            persistentibus seueros esse nos conuenit, sic humiliatis et penitentibus locum ueniae
             negare nondebemus. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e231">
           <head xml:id="gd-p2c2q5-Hd1e233">C. IX</head>
           <head xml:id="gd-p2c2q5-Hd1e236" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c2q5-d1e239"> Idem Mariniano Episcopo Rauennae , [lib. VII. ep. 79.] </p>
-
-          <p xml:id="gd-p2c2q5-d1e242"> Que de causa Maximi sint agenda, ex epistolis, quas ad uos
-            transmisimus, agnouistis. Sed quia, qualis dehac re fraternitatis uestrae uoluntas sit
-            magis apresentium latore Castorio cartulario nostro renunciantecognouimus, ideo, si idem
+          <p xml:id="gd-p2c2q5-d1e242"> 
+            Idem <ref xml:id="gd-p2c2q5-Rd1e236">Mariniano Episcopo Rauennae , [lib. VII. ep. 79.]</ref>
+            Que de causa Maximi sint agenda, ex epistolis, quas ad uos
+            transmisimus, agnouistis. Sed quia, qualis de hac re fraternitatis uestrae uoluntas sit
+            magis apresentium latore Castorio cartulario nostro renunciante cognouimus, ideo, si idem
             Maximus coram uobis et predicto cartulario nostro de symoniaca heresi se sacraemento
             purgauerit, atque de aliis ante corpus sancti Apollinaris (ut scripsimus) tantummodo
             requisitus, liberum seesse responderit, causam ipsius fraternitatis uestrae iudicio, de
-            eo, quod excommunicatus missarum solempniaagere presumpserit, committimus, qua debeat
-            peni-tentia talis culpa purgari. Et ideo quicquid uobis secundumDeum placet securiters
+            eo, quod excommunicatus missarum solempnia agere presumpserit, committimus, qua debeat
+            peni-tentia talis culpa purgari. Et ideo quicquid uobis secundum Deum placet securiters
             disponite, nec aliquid de nobisdubium habeatis. Nam quicquid a uobis hac de
-            causaordinatum fuerit nos et gratis * suscipimus, et libenteradmittimus. </p>
+            causaordinatum fuerit nos et gratis * suscipimus, et libenter admittimus. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e247">
           <head xml:id="gd-p2c2q5-Hd1e249">C. X</head>
           <head xml:id="gd-p2c2q5-Hd1e252" type="question-title"> Qualiter Sixtus semetipsum
             purgauit . </head>
-          <p xml:id="gd-p2c2q5-d1e255"> Item Sixtus Papa [III.] omnibus Episc ., [c. i.]Mandastis,
+          <p xml:id="gd-p2c2q5-d1e255"> Item <ref xml:id="gd-p2c2q5-Rd1e250">Sixtus Papa [III.] omnibus Episc ., [c. i.]</ref> Mandastis,
             ut scriberem uobis, qualiter instans iur-gium contra me suscitatum sit, uel a quo, ut
             uestro aminiculppelleretur, et causa mea firmaretur. Scitote me criminaria quodam Basso,
             et iniuste persequi. Quod audiens Valentinianus Augustus nostra auctoritate sinodum
@@ -200,117 +208,166 @@
         </div>
         <div xml:id="gd-p2c2q5-Dd1e259">
           <head xml:id="gd-p2c2q5-Hd1e261">C. XI</head>
-          <head xml:id="gd-p2c2q5-Hd1e264" type="question-title"> De causa Gillandi*
-            presbiteri.</head>
-          <p xml:id="gd-p2c2q5-d1e267"> Item Alexander II . Rumaldo Cumano Episcopo. Super causas
+          <head xml:id="gd-p2c2q5-Hd1e264" type="question-title"> De causa Gillandi presbiteri.</head>
+          <p xml:id="gd-p2c2q5-d1e267"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e264">Alexander II. Rumaldo Cumano Episcopo</ref>. Super causas
             Gillandi presbiteri tui de morte episcopi sui, predecessoris tui, infamati, in medium
             consuluimus . Itaque circumstantium fratrum unanimi assensutuae dilectioni referimus,
             prefatum Gillandum presbiterum ante te representandum, ubi, si certi
             accusatoresdefuerint, tunc dictante iusticia sine omni controuersia pres-»biter
-            quecumque ob hoc iniuste amisit ac sacerdotiumaccipiat et integra beneficia*, </p>
+            quecumque ob hoc iniuste amisit ac sacerdotium accipiat et integra beneficia*, </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e271">
           <head xml:id="gd-p2c2q5-Hd1e273">C. XII</head>
           <head xml:id="gd-p2c2q5-Hd1e276" type="question-title"> De purgatione clericorum , si
             conuinci non poterunt . </head>
-          <p xml:id="gd-p2c2q5-d1e279"> Item ex Concilio Agat en si. </p>
-          <p xml:id="gd-p2c2q5-d1e282"> Si legitimi accusatores crimina* sacerdotis probare non
-            potuerint, et ipse negauerit, cum septem sociis suis </p>
-
-
-
-
-          <p xml:id="gd-p2c2q5-d1e285"> eius ordinis (si ualet) a crimine semetipsum expurget.
+          <p xml:id="gd-p2c2q5-d1e282"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e278">Concilio Agat en si.</ref>
+            Si legitimi accusatores crimina sacerdotis probare non
+            potuerint, et ipse negauerit, cum septem sociis suis 
+            eius ordinis (si ualet) a crimine semetipsum expurget.
             Diaconus uero si eodem crimine accusatus fuerit, cum tribus semetipsum excuset. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e289">
           <head xml:id="gd-p2c2q5-Hd1e291">C. XIII</head>
           <head xml:id="gd-p2c2q5-Hd1e294" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c2q5-d1e297"> Item ex Concilio Ylerdensi . </p>
-          <p xml:id="gd-p2c2q5-d1e300"> Presbiter si a plebe sibi commissa mala opinione infamatus
+          <p xml:id="gd-p2c2q5-d1e300"> 
+            <ref xml:id="gd-p2c2q5-Rd1e292">Item ex Concilio Ylerdensi</ref>. 
+            Presbiter si a plebe sibi commissa mala opinione infamatus
             fuerit, et episcopus legitimis testibus adprobare non potuerit, suspendatur usque ad
-            dignam satisfactionem, nepopulus fidelium in eo scandalum patiatur. Digna
-            uerosatisfactio est (sicut a maioribus constitutum* esse docetur), quando siue secundum
-            canones, siue ad arbitriumepiscopi septem sibi collegas adiungit, et iurat in sacro**
-            euangelio coram posito, quod crimen sibi illatumnon perpetrauit. Et hac satisfactione
+            dignam satisfactionem, ne populus fidelium in eo scandalum patiatur. Digna
+            uero satisfactio est (sicut a maioribus constitutum* esse docetur), quando siue secundum
+            canones, siue ad arbitrium episcopi septem sibi collegas adiungit, et iurat in sacro**
+            euangelio coram posito, quod crimen sibi illatum non perpetrauit. Et hac satisfactione
             purgatus securedeinceps suum exequatur offitium. </p>
-          <p xml:id="gd-p2c2q5-d1e303"> [PALEA. </p>
-          <p xml:id="gd-p2c2q5-d1e307"> C. XIV. De eodem. </p>
-          <p xml:id="gd-p2c2q5-d1e310"> Item Siluester Papa* </p>
-          <p xml:id="gd-p2c2q5-d1e313"> Accusatum symoniacum necesse habuimus summopere per
-            scripturam prohibere, ne missarum solempnia celebraredebuisset, donec quid esset uerius
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e297">
+          <head xml:id="gd-p2c2q5-Hd1e299"> C. XIV.</head>
+          <head xml:id="gd-p2c2q5-Hd1e301" type="question-title">De eodem.</head>
+          <p xml:id="gd-p2c2q5-d1e313"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e306">Siluester Papa</ref>
+            Accusatum symoniacum necesse habuimus summopere per
+            scripturam prohibere, ne missarum solempnia celebrare debuisset, donec quid esset uerius
             potuissemus cognoscere.] </p>
-          <p xml:id="gd-p2c2q5-d1e316"> [PALE A. </p>
-          <p xml:id="gd-p2c2q5-d1e319"> C. XV. Item ex Concilio Triburiensi*. </p>
-          <p xml:id="gd-p2c2q5-d1e322"> Nobilis homo uel ingenuus si in Sinodo accusatur et
-            negauerit, si eum constiterit fidelem esse, cum duodecimingenuis se expurget; si antea
-            deprehensus fuerit infurto, aut periurio, aut falso testimonio, ad iuramentumnon
-            admittatur, sed (sicut qui ingenuus non est) feruentiaqua uel candenti ferro se
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e310">
+          <head xml:id="gd-p2c2q5-Hd1e312">C. XV.</head>
+          <p xml:id="gd-p2c2q5-d1e322"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e316">Concilio Triburiensi.</ref>
+            Nobilis homo uel ingenuus si in Sinodo accusatur et
+            negauerit, si eum constiterit fidelem esse, cum duodecim ingenuis se expurget; si antea
+            deprehensus fuerit in furto, aut periurio, aut falso testimonio, ad iuramentum non
+            admittatur, sed (sicut qui ingenuus non est) feruenti aqua uel candenti ferro se
             expurget.] </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e326">
           <head xml:id="gd-p2c2q5-Hd1e328">C. XVI</head>
           <head xml:id="gd-p2c2q5-Hd1e331" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p2c2q5-d1e334"> Item Igmarus Remorum Episcopus *. </p>
-          <p xml:id="gd-p2c2q5-d1e337"> Si mala fama de presbitero exierit, et accusatores ac testes
+          <p xml:id="gd-p2c2q5-d1e337"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e330">Igmarus Remorum Episcopus.</ref>
+            Si mala fama de presbitero exierit, et accusatores ac testes
             legales defuerint, ne, contra Apostolum, infirmorum corda de mala fama presbiteri
             percutiantur, etne uituperetur ministerium nostrum, neue securiores presbiteri
-            existentes licentius in peccatum 'prolabantur, secundum decreta** maiorum cum
-            denominatis sibi uicinispresbiteris, quos scimus se nolle periurare, sacramentofamam
+            existentes licentius in peccatum 'prolabantur, secundum decreta maiorum cum
+            denominatis sibi uicinis presbiteris, quos scimus se nolle periurare, sacramento famam
             suam purget. </p>
-
-          <p xml:id="gd-p2c2q5-d1e340"> [PALE A. </p>
-          <p xml:id="gd-p2c2q5-d1e344"> C. XVII. De eodem. </p>
-          <p xml:id="gd-p2c2q5-d1e347"> Item Innocentius Aquileiensi Patriarchae et Mantuano
-            Episcopo. </p>
-          <p xml:id="gd-p2c2q5-d1e350"> Quoties frater noster Tridentinus episcopus in
-            nostrapresentia de symonia sit inpetitus, prudentiam uestramlatere non credimus, cuius
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e334">
+          <head xml:id="gd-p2c2q5-Hd1e336">C. XVII.</head>
+          <head xml:id="gd-p2c2q5-Hd1e338" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c2q5-d1e350"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e343">Innocentius Aquileiensi Patriarchae et Mantuano Episcopo.</ref> 
+            Quoties frater noster Tridentinus episcopus in
+            nostrapresentia de symonia sit inpetitus, prudentiam uestram latere non credimus, cuius
             causa tandem in nostra presentiauentilata producti sunt aduersus eum accusatores,
-            uiuauoce et scripto asserentes, quod ecclesiam S. Petri dePado presbitero Paulo dedent
-            pro quatuor modiis frumenti, quos ab eiusdem ecclesiae laicis acceperit. Verumquoniam
-            nec accusatores, nec testes secundum formamcanonum et sanctorum Patrum statuta in causa
-            ipsa procedere potuerunt, communi fratrum nostrorum concilioiudicamus, ut tertia manu
-            sui ordinis et quatuor abbatumet religiosorum sacerdotum de supradicta symonia in
+            uiuauoce et scripto asserentes, quod ecclesiam S. Petri de Pado presbitero Paulo dedent
+            pro quatuor modiis frumenti, quos ab eiusdem ecclesiae laicis acceperit. Verum quoniam
+            nec accusatores, nec testes secundum formam canonum et sanctorum Patrum statuta in causa
+            ipsa procedere potuerunt, communi fratrum nostrorum concilio iudicamus, ut tertia manu
+            sui ordinis et quatuor abbatum et religiosorum sacerdotum de supradicta symonia in
             uestrapresentia se debeat expurgare. Porro purgationis tenorerit huiusmodi. Idem
-            episcopus super sancta euangeliaprimum iurabit, quod pro ecclesia S. Petri de Pado,
+            episcopus super sancta euangelia primum iurabit, quod pro ecclesia S. Petri de Pado,
             presbitero Paulo danda, neque ipse per se, neque per submissampersonam, neque alius pro
-            eo, se sciente, pretium receperit.Deinde uero purgatores super sancta Dei
+            eo, se sciente, pretium receperit. Deinde uero purgatores super sancta Dei
             euangeliaiurabunt, quod, sicut ipsi credunt, uerum iurauit. Nositaque causae huius
             seriem committentes prudentiae uestrae, mandamus uobis, ut congruo loco in unum
             conuenire curetis, et ita causam ipsam iuxta presentium tenorem prestanteDomino
             restauretis, quatenus et omnis de cetero huiusquestionis scrupulus auferatur, et utrique
             parti sua iustitiaconseruetur. Si quis uero de uobis, certa prepediente causa, interesse
             non poterit, uos, qui adesse poteritis, idemiudicium terminate. Quod si predictus frater
-            noster A.predictam purgationem fecerit, uos ei auctoritate nostra predictum offitium et
-            Tridentinam ecclesiam restituite. Hancautem purgationem ante proximam purificationem B.
-            Mariaeuirginis adinplere iubemus.] </p>
+            noster A. predictam purgationem fecerit, uos ei auctoritate nostra predictum offitium et
+            Tridentinam ecclesiam restituite. Hanc autem purgationem ante proximam purificationem B.
+            Mariae uirginis adinplere iubemus.] </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e347">
+          <head xml:id="gd-p2c2q5-Hd1e349">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e353"> Gratian. In premissis auctoritatibus subintelligitur , si
-            reus se purgare uoluerit , ut sacri canones modum , non necessitatempurgandi accusato
-            inponant , sicut aparet ex fine capituliSixti Papae , et auctoritate Leonis , gui data
-            purgatione aitde se ipso: </p>
-
-          <div xml:id="gd-p2c2q5-Dd1e356">
-            <p xml:id="gd-p2c2q5-d1e358"> sacerdotum, nec non etiam nostrorum episcoporum**,
+            reus se purgare uoluerit , ut sacri canones modum , non necessitatem purgandi accusato
+            inponant , sicut aparet ex fine capituli Sixti Papae , et auctoritate Leonis , gui data
+            purgatione ait de se ipso: </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e355">
+          <head xml:id="gd-p2c2q5-Hd1e357">C. XVIII</head>
+          <head xml:id="gd-p2c2q5-Hd1e359" type="question-title">&gt;De Leone qualiter semet ipsum purgavit</head>
+          <p xml:id="gd-p2c2q5-d1e362">
+            Auditum est, fratres karissimi, qualiter mali homines grauia crimina in me
+            confinxerunt. Quamobrem egoLeo Pontifex sanctae Romanae ecclesiae purifico me
+            inconspectu uestro coram Deo et angelis eius, quia criminosasistas et sceleratas res,
+            quas illi mihi obiciunt, nec perpetraui, nec perpetrare iussi. Hoc autem faciens non
+            legemprescribo ceteris, qua id facere cogantur. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e366">
+          <head xml:id="gd-p2c2q5-Hd1e368">Dictum</head>
+          <p xml:id="gd-p2c2q5-d1e389"> Gratian. Ecce uterque summus Pontifex semetipsum purgat ,
+            nec tamen ceteris purgandi necessitatem prescribit. Unde datur intelligi , quod
+            satisfactio purgationis in uoluntate consistita ccusati\ non in arbitrio iudicis. Sed cum
+            in Ylerdensi concilio presbiter iubeatur suspendi usque ad dignam satisfactionem ,
+            cumetiam decreto Leonis in arbitrio ponitur episcopi , quotamanu sacerdos se purgare
+            debeat , patet , quod ad purgationem cogendus est , nec in sua uoluntate , sed in
+            arbitrio iudicis consistit. </p>
+          <p xml:id="gd-p2c2q5-d1e392"> Item Leo Papa scribens ad Karolum Regem ait*, </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e356">
+          <head xml:id="gd-p2c2q5-Hd1e379">C. XIX</head>
+          <head xml:id="gd-p2c2q5-Hd1e381" type="question-title">Qualiter sacerdotes purgari debeant</head>
+            <p xml:id="gd-p2c2q5-d1e358"> 
+              Omnibus uobis uisu aut auditu notum esse nondubitamus, quod sepissime suadente
+              antiquo hoste sacerdotibus crimina diuersa obiciantur. Sed qualiter ex eisab his
+              rationabilis examinatio et satisfactio fiat, licettempore bonae memoriae domni genitoris
+              uestri Pipini, siue priscis temporibus a sanctis Patribus et reliquisbonae deuotionis
+              hominibus sepissime uentilatum fuerit, nos tamen pleniter et aliquid inde finitum
+              reperireminime quiuimus. Nostris quippe temporibus id ipsum asanctis episcopis, et
+              reliquis sacerdotibus, ac ceterisecclesiasticae dignitatis ministris, uestris in regnis,
+              seuin aliis Deo degentibus, nobisque una cum eis agentibus, sepissime propter multas et
+              nimias reclamationes, que exhoc ad nos de diuersis partibus uenerunt, uentilatumest. Sed
+              qualiter consultu domni et patris nostri LeonisApostolici, ceterorumque Romanae
+              ecclesiae episcoporum, et reliquorum sacerdotum, siue orientalium et
+              grecorumpatriarcharum, et multorum sanctorum episcoporum et 
+              sacerdotum, nec non etiam nostrorum episcoporum,
               omniumque ceterorum sacerdotum ac Leuitarum auctoritate et consensu, atque reliquorum
-              fidelium et cunctorumconsiliariorum nostrorum consultu diffinitum est, uosomnes
-              utriusque ordinis ministros scire uolumus. Statutumest namque ratione et necessitate
+              fidelium et cunctorum consiliariorum nostrorum consultu diffinitum est, uosomnes
+              utriusque ordinis ministros scire uolumus. Statutum est namque ratione et necessitate
               auctoritate s predictaconsultu omnium, ut quotiescumque cuiquam sacerdoticrimen
-              inponitur, si ipse accusator talis fuerit, ut recipidebeat, (quia quales ad
+              inponitur, si ipse accusator talis fuerit, ut recipi debeat, (quia quales ad
               accusationem sacerdotum admittidebeant, m canonibus pleniter expressum est;) si autem
-              (utdictum est) ille accusator, qui canonice est recipiendus, eumcum legitimo uirorum
+              (utdictum est) ille accusator, qui canonice est recipiendus, eum cum legitimo uirorum
               numero et bonorum testium approbare in conspectu episcoporum poterit, tunc
-              canonicediiudicetur, et si culpabilis uictus fuerit, canonice damp-netur. Si uero eum
+              canonicediiudicetur, et si culpabilis uictus fuerit, canonice dampnetur. Si uero eum
               suprascripto pretextu minime approbare ipse accusator poterit, et hoc canonice
               diiuaice-t242 k ipg 243 sacerdos, si suspiciosus aut incredibilissuo episcopo aut
               reliquis suis consacerdotibus, siue bonis etiustis de suo populo uel de sua plebe
               hominibus fuerit, nein crimine aut predicta suspicione remaneat, cum tribus, aut
               quinque, uel septem bonis ac uicinis sacerdotibus, exemplo Leonis Papae (qui
-              duodecim*** episcopos insua purgatione habuit) uel eo amplius, si suo episcopouisum
-              fuerit, aut necesse esse propter tumultum populiperspexerit, et cum aliis bonis et
-              iustis hominibus sesacramento coram populo super quatuor euangelia datopurgatum
+              duodecim*** episcopos insua purgatione habuit) uel eo amplius, si suo episcopo uisum
+              fuerit, aut necesse esse propter tumultum populi perspexerit, et cum aliis bonis et
+              iustis hominibus sesacramento coram populo super quatuor euangelia dato purgatum
               ecclesiae reddat. Si quis autem scire desiderat, quales testes ad accusationem
-              sacerdotum recipi debeant, etquid° de accusatore faciendum sit, pleniter in
-              canonibusreperiri p poterit </p>
+              sacerdotum recipi debeant, et quid de accusatore faciendum sit, pleniter in
+              canonibus reperiri p poterit </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e388">
+          <head xml:id="gd-p2c2q5-Hd1e390">Dictum</head>
             <p xml:id="gd-p2c2q5-d1e361"> III. Pars. Gratian. Iuramento uero candentis ferri uel
               ferventis aquae purgatio non est addenda </p>
             <p xml:id="gd-p2c2q5-d1e364"> Unde Stephanus V. Luiberto * Maguntino Episc.*: </p>
@@ -320,72 +377,42 @@
             <head xml:id="gd-p2c2q5-Hd1e373" type="question-title"> Feruentis aquae et candentis
               ferri iudicium fieri in ecclesia prohibetur.</head>
             <p xml:id="gd-p2c2q5-d1e376"> Consuluisti de infantibus, qui in uno lecto cum parentibus
-              dormientes mortui reperiuntur, utrum ferro </p>
+              dormientes mortui reperiuntur, utrum ferro 
+              candente, aut aqua feruente, seu alio quolibet examine
+              parentes se purificare debeant eos non obpressisse. Monendi namque sunt et protestandi
+              parentes, ne tam tenellossecum in uno collocent lecto, ne negligentia qualibet
+              pro-ueniente suffocentur uel opprimantur, unde ipsi homicidii reiinueniantur. Nam ferri
+              candentis uel aquae feruentis examinatione confessionem extorqueri a quolibet sacri
+              noncensent canones, et quod sanctorum Patrum documentosancitum non est supersticiosa
+              adinuentione non est presumendum. Spontanea enim confessione uel testium approbatione
+              publicata delicta, habito pre oculis Dei timore, commissa sunt regimini iudicare.
+              Occulta uero et incognita sunt illi relinquenda, qui solus nouit cordafiliorum hominum.
+              Hi autem, qui probantur, uel confitentur talis reatus se noxios, tua eos castiget
+              moderatio, quia si conceptum in utero qui per aborsum dele-uerit, homicida est, quanto
+              magis, qui unius saltem diei puerulum peremerit, homicidam esse se excusare nequibit? 
+            </p>
           </div>
-        </div>
-        <div xml:id="gd-p2c2q5-Dd1e381">
-          <head xml:id="gd-p2c2q5-Hd1e383">C. XVIII</head>
-          <head xml:id="gd-p2c2q5-Hd1e386" type="question-title"> De Leone, qualiter semet ipsum*
-            purgauit** Auditum est, fratres karissimi, qualiter mali homines grauia crimina in me
-            confinxerunt. Quamobrem egoLeo Pontifex sanctae Romanae ecclesiae purifico me
-            inconspectu uestro coram Deo et angelis eius, quia criminosasistas et sceleratas res,
-            quas illi mihi obiciunt, nec perpetraui, nec perpetrare iussi. Hoc autem faciens non
-            legemprescribo ceteris, qua id facere cogantur. </head>
-          <p xml:id="gd-p2c2q5-d1e389"> Gratian. Ecce uterque summus Pontifex semetipsum purgat ,
-            nec tamen ceteris purgandi necessitatem prescribit. Undedatur intelligi , quod
-            satisfactio purgationis in uoluntate consistitaccusati\ non in arbitrio iudicis. Sed cum
-            in Ylerdensi conciliopresbiter iubeatur suspendi usque ad dignam satisfactionem ,
-            cumetiam decreto Leonis in arbitrio ponitur episcopi , quotamanu sacerdos se purgare
-            debeat , patet , quod ad purgationemcogendus est , nec in sua uoluntate , sed in
-            arbitrio iudicis consistit. </p>
-          <p xml:id="gd-p2c2q5-d1e392"> Item Leo Papa scribens ad Karolum Regem ait*, </p>
-        </div>
-        <div xml:id="gd-p2c2q5-Dd1e397">
-          <head xml:id="gd-p2c2q5-Hd1e399">C. XIX</head>
-          <head xml:id="gd-p2c2q5-Hd1e402" type="question-title"> Qualiter sacerdotes purgari
-            debeant. Omnibus uobis uisu aut auditu notum esse nondubitamus, quod sepissime suadente
-            antiquo hoste sacerdotibus crimina diuersa obiciantur. Sed qualiter ex eisab his
-            rationabilis examinatio et satisfactio fiat, licettempore bonae memoriae domni genitoris
-            uestri Pipini, siue priscis temporibus a sanctis Patribus et reliquisbonae deuotionis
-            hominibus sepissime uentilatum fuerit, nos tamen pleniter et aliquid inde finitum
-            reperireminime quiuimus. Nostris quippe temporibus id ipsum asanctis episcopis, et
-            reliquis sacerdotibus, ac ceterisecclesiasticae dignitatis ministris, uestris in regnis,
-            seuin aliis Deo degentibus, nobisque una cum eis agentibus, sepissime propter multas et
-            nimias reclamationes, que exhoc ad nos de diuersis partibus uenerunt, uentilatumest. Sed
-            qualiter consultu domni et patris nostri LeonisApostolici, ceterorumque Romanae
-            ecclesiae episcoporum, et reliquorum sacerdotum, siue orientalium et
-            grecorumpatriarcharum, et multorum sanctorum episcoporum et </head>
-
-
-
-          <p xml:id="gd-p2c2q5-d1e405"> candente, aut aqua feruente, seu alio quolibet examine
-            parentes se purificare debeant eos non obpressisse. Monendi namque sunt et protestandi
-            parentes, ne tam tenellossecum in uno collocent lecto, ne negligentia qualibet
-            pro-ueniente suffocentur uel opprimantur, unde ipsi homicidii reiinueniantur. Nam ferri
-            candentis uel aquae feruentisexaminatione confessionem extorqueri a quolibet sacri
-            noncensent canones, et quod sanctorum Patrum documentosancitum non est supersticiosa
-            adinuentione non est presumendum. Spontanea enim confessione uel testium approbatione
-            publicata delicta, habito pre oculis Dei timore, commissa sunt regimini iudicare.
-            Occulta uero et incognita sunt illi relinquenda, qui solus nouit cordafiliorum hominum.
-            Hi autem, qui probantur, uel confitentur talis reatus se noxios, tua eos castiget
-            moderatio, quia si conceptum in utero qui per aborsum dele-uerit, homicida est, quanto
-            magis, qui unius saltem diei puerulum peremerit, homicidam esse se excusare nequibit? </p>
+        <div xml:id="gd-p2c2q5-Dd1e411">
+          <head xml:id="gd-p2c2q5-Hd1e413">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e408"> Gratian. Hoc autem utrum ad omnia genera purgationis, an ad
-            hec duo tantum, que hic prohibita™ f uidentur, pertineat, non inmerito dubitatur propter
-            sacrificium zelotipiae, et illudGregorii : „ Si uir, qui frigidae naturae esse dicitur,
+            hec duo tantum, que hic prohibita f uidentur, pertineat, non inmerito dubitatur propter
+            sacrificium zelotipiae, et illud Gregorii : „ Si uir, qui frigidae naturae esse dicitur,
             per uerumiudicium probare potuerit, uxorem suam numquam se cognouisse, separetur ab ea. </p>
-          <p xml:id="gd-p2c2q5-d1e411"> [C. XXI.]* </p>
-          <p xml:id="gd-p2c2q5-d1e415"> In libro namque Numerorum™ legitur, Dominus™* prece-pisse
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e419">
+          <head xml:id="gd-p2c2q5-Hd1e421">C. XXI</head>
+          <p xml:id="gd-p2c2q5-d1e411"> [C. XXI.] </p>
+          <p xml:id="gd-p2c2q5-d1e415"> In libro namque Numerorum legitur, Dominus precepisse
             Moysi, ut loqueretur filiis Israel et diceret eis: „ Vir, cuius uxor errauerit,
             maritumque contempnens dormierit cum alterouiro, et Aoe maritus deprehendere nequiuerit,
             sed latet adulterium, et testibus argui non potest , quia non est inuenta instupro, si
             spiritus zelotipiae concitauerit uirum contra uxoremsuam , que uel polluta est, uel
             falsa suspicione appetitur, adduceteam ad sacerdotem, et offeret oblationem pro illa
             decimam partem sati farinae ordeaceae; non fundet super eam oleum, necinponet thus, quia
-            sacrificium zelotipiae est et oblatio inuestigansadulterium. Offeret igitur eam
+            sacrificium zelotipiae est et oblatio inuestigans adulterium. Offeret igitur eam
             sacerdos, et statuet coram Domino, assumetque aquam sanctam in uase fictiliet
             pauxillumterrae de pauimento tabernaculi mittet in eam. Cumque steteritmulier in
-            conspectu Domini, discooperiet caput eius, et ponetsuper manus eius sacrificium
+            conspectu Domini, discooperiet caput eius, et ponet super manus eius sacrificium
             recordationis et oblationem zelotipiae. Ipse autem tenebit aquas amarissimas, in quibus
             cumexeeratione maledicta congessit, adiurabitque eam, et dicet : Si non dormiuit uir
             alienus tecum, et si non polluta es desertomariti thoro, non tenebunt te aquae istae
@@ -393,30 +420,36 @@
             et concubuisti cum altero uiro, his maledictionibus subiacebis: det te Dominus in
             maledictionem et exemplumcunctorum in populo suo; putrescere faciat femur tuum, et
             tumensuterus tuus disrumpatur; ingrediantur aquae maledictae in uen-trem tuum, et utero
-            tumescente putrescat fremur tuum. Etrespondebit mulier: Amen, Amen. Scribetque sacerdos
+            tumescente putrescat fremur tuum. Et respondebit mulier: Amen, Amen. Scribetque sacerdos
             in libelloista maledicta, et delebit ea aquis amarissimis, in quas maledictacongessit,
             et dabit ei bibere; quas cum exhauserit, tollet sacerdosde manu eius sacrificium
-            zelotipiae, et eleuabil illud coramDomino, inponetque illud super altare, ita dumtaxat,
+            zelotipiae, et eleuabil illud coram Domino, inponetque illud super altare, ita dumtaxat,
             utprius pugillum sacrificii tollat de eo, quod offertur ei incendatsuper altare, et sic
             potum det mulieri aquas amarissimas. Quascum biberit, si polluta est et contempto uiro
             adulterii rea, per-transibunt eam aquae maledictionis, et inflato uenire conpu-trescet
             femur, eritque mulier in maledictionem et in exemplumomni populo. Maritus t/ero** absque
             culpa erit, et illa recipiet iniquitatem suam. Quod si polluta non fuerit, innoxia
             eritet faciet liber os. </p>
-
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e431">
+          <head xml:id="gd-p2c2q5-Hd1e433">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e418"> IV. Pars. [Gratian.] Sed quelibet huiusmodi purgatio uidetur
-            esse inhibita, cum in premissa auctoritate Stephani Papaedicatur: „Spontanea
+            esse inhibita, cum in premissa auctoritate Stephani Papae dicatur: „Spontanea
             confessione, etc .“ </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e422">
           <head xml:id="gd-p2c2q5-Hd1e424">C. XXII</head>
           <head xml:id="gd-p2c2q5-Hd1e427" type="question-title"> In nouo testamento monomachia non
             recipitur.</head>
-          <p xml:id="gd-p2c2q5-d1e430"> Item ex decreto Nicolai Papae * *. </p>
-          <p xml:id="gd-p2c2q5-d1e433"> Monomachiam uero in lege non assumimus, quam preceptam
+          <p xml:id="gd-p2c2q5-d1e433"> 
+            Item ex <ref xml:id="gd-p2c2q5-Rd1e449">decreto Nicolai Papae</ref>
+            Monomachiam uero in lege non assumimus, quam preceptam
             fuisse non reperimus, quam, licet iniissequosdam legamus, sicut sanctum David et Goliam
             sacraprodit istoria, nusquam tamen ut pro lege teneatur alicubi diuina sanxit
             auctoritas, cum hoc et huiusmodisectantes Deum solummodo temptare uideantur. </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e453">
+          <head xml:id="gd-p2c2q5-Hd1e455">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e436"> V. Pars. Gratian. Contra in Concilio Guarmaciensi, [c. I5.]:
           </p>
         </div>
@@ -432,23 +465,21 @@
         <div xml:id="gd-p2c2q5-Dd1e452">
           <head xml:id="gd-p2c2q5-Hd1e454">C. XXIV</head>
           <head xml:id="gd-p2c2q5-Hd1e457" type="question-title"> Quicumque de adulterio accusatur,
-            probabili se expurget iudicio °. </head>
-          <p xml:id="gd-p2c2q5-d1e460"> Item [in Salegustadiensi Concilio, c. 7.] </p>
-          <p xml:id="gd-p2c2q5-d1e463"> Interrogatum est, si duo de adulterio inculpati fuerint, et
+            probabili se expurget iudicio.</head>
+          <p xml:id="gd-p2c2q5-d1e463"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e483">[in Salegustadiensi Concilio, c. 7.]</ref>
+            Interrogatum est, si duo de adulterio inculpati fuerint, et
             unus profitetur, et alter negat, quid inde agendum sit. * Decretum est a sancto
             concilio, ut ille, qui negauerit, probabili se iudicio expurget, et qui professusfuerit
             dignam penitentiam agat. </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c2q5-Dd1e467">
           <head xml:id="gd-p2c2q5-Hd1e469">C. XXV</head>
           <head xml:id="gd-p2c2q5-Hd1e472" type="question-title"> Cum plures de adulterio accusantur
             , et unus ceteros purgare noluerit, omnes rei habeantur, si ipse iniudicio ceciderit . </head>
-          <p xml:id="gd-p2c2q5-d1e475"> " Item [in eodem, c. 14.] </p>
-          <p xml:id="gd-p2c2q5-d1e478"> Statuit quoque sancta sinodus, ut, si duo de adulterio
+          <p xml:id="gd-p2c2q5-d1e478"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e497">[in eodem, c. 14.]</ref> 
+            Statuit quoque sancta sinodus, ut, si duo de adulterio
             accusati fuerint, et ambo negauerint, et orant sibi concedi, ut alter illorum utrosque
             diuino purget iudicio, si unus inhoc ceciderit, ambo rei habeantur. </p>
         </div>
@@ -456,11 +487,16 @@
           <head xml:id="gd-p2c2q5-Hd1e484">C. XXVI</head>
           <head xml:id="gd-p2c2q5-Hd1e487" type="question-title"> Pro singulis missa celebretur, qui
             de aliquo crimine accusantur.</head>
-          <p xml:id="gd-p2c2q5-d1e490"> Item [in Concilio Wormaciensi, c. 10.] </p>
-          <p xml:id="gd-p2c2q5-d1e493"> Si episcopo aut presbitero aliquod maleficium inputatum
+          
+          <p xml:id="gd-p2c2q5-d1e493"> 
+            Item <ref xml:id="gd-p2c2q5-Rd1e512">[in Concilio Wormaciensi, c. 10.]</ref>
+            Si episcopo aut presbitero aliquod maleficium inputatum
             fuerit, in singulis missam celebrare*debet, et communicare, et de singulis sibi
             inputatis innocentem se ostendere. Quod si non fecerit, quinquennioa liminibus ecclesiae
             extraneus habeatur. </p>
+        </div>
+        <div xml:id="gd-p2c2q5-Dd1e516">
+          <head xml:id="gd-p2c2q5-Hd1e518">Dictum</head>
           <p xml:id="gd-p2c2q5-d1e496"> Gratian. Illud uero, quod Sixius et Leo in fine suae
             purgationis addiderunt, ex eorum exemplo intelligendum est; exemplo enim suae
             satisfactionis noluerunt prescribere ceteris legempurgandi. </p>
