@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>QUESTIO II.</title>
+        <author ref="#Gratian">Gratian</author>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>QUESTIO II.</title>
+          <date when="2017-08-15">August 16, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref>SCTA</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
+              Commons Attribution 4.0 International</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="Rome1582">Rome 1582</witness>
+          <witness n="Friedberg1879a">Friedberg 1879 Volume 1</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-08-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div/>
+    </front>
+    <body>
+      <div xml:id="gd-p2c8q2">
+          <head xml:id="gd-p2c8q2-Hd1e96"> QUESTIO II. </head>
+        <div xml:id="gd-p2c8q2-Dd1e98">
+          <head xml:id="gd-p2c8q2-Hd1e100">Dictum</head>
+          <p xml:id="gd-p2c8q2-d1e102"> 
+            GRATIANUS.
+            Quod autem amicorum patrocinia in aliquorum electione
+            conualescere non debeant, auctoritate B. Gregorii Papae probatur, qui in tertio libro
+            Registris*, [Indict. 11. ep. 22.] scribit Antonio Subdiacono, dicens : </p>
+        </div>
+        <div xml:id="gd-p2c8q2-Dd1e105">
+          <head xml:id="gd-p2c8q2-Hd1e107">C. I</head>
+          <head xml:id="gd-p2c8q2-Hd1e109" type="question-title">In electione episcopi nec ® munerum datio, nec
+            aliquorum patrocinia conualescant. </head>
+          <p xml:id="gd-p2c8q2-d1e112"> Illud quidem pre omnibus curae tibi sit, ut in hac electione
+            nec datio quibuscumque modis interueniat premiorum, nec quarumlibet personarum
+            patrocinia conualescant. Nam si quorumdam patrocinio quisquam fuerit electus,
+            uo-luntatibus eorum, cum fuerit ordinatus, reuerentia exigente obedire conpellitur,
+            sicque fit, ut res illius minuantur ecclesiae, et ordo ecclesiasticus non seruetur. Talem
+            ergote admonente debent personam eligere que nullius incongruae uoluntati deseruiat, sed
+            uita et moribus decorata tanto ordine ualeat digna inueniri. </p>
+        </div>
+        <div xml:id="gd-p2c8q2-Dd1e115">
+          <head xml:id="gd-p2c8q2-Hd1e117">C. II</head>
+          <head xml:id="gd-p2c8q2-Hd1e119" type="question-title"> In electione antistitis communi
+            utilitati, non suo lucro quisque prospiciat . </head>
+          <p xml:id="gd-p2c8q2-d1e122"> 
+            <ref xml:id="gd-p2c8q2-Rd1e124">Idem ad Clerum Mediolanensem, [lib. II. Indict. 11. ep. 29.]</ref>
+            Dilectissimi filii, offitii nostri censura conmoniti
+            suademus, ut in suscipiendi antistitis causa nullus uestrum neglecta utilitate conmuni
+            suo lucro prospiciat, ne, siquisquam propria commoda appetit, friuola
+            est imatione fallatur, quia nec libero iudicio preferendam sibi personam examinat mens,
+            quam cupiditas ligat. Pensantes ergoque cunctis expediunt, ei, quem uobis diuina gratia
+            pretulerit, integerrimam semper in omnibus obedientiam prebete. Iudicari namque a uobis
+            ultra non debet semel prelatus, sed tanto nunc subtiliter iudicandus est, quanto
+            postmodum iudicandus non est.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
