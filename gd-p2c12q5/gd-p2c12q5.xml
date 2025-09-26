@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO V. </title>
+        <title> QUESTIO 5</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO V. </title>
+          <title> QUESTIO 5</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -22,7 +21,7 @@
         </authority>
         <availability status="free">
           <p>Published under a <ref target="https://creativecommons.org/licenses/by/4.0">Creative
-              Commons Attribution 4.0 International</ref>
+            Commons Attribution 4.0 International</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,56 +53,111 @@
     </front>
     <body>
       <div xml:id="gd-p2c12q5">
-        <head xml:id="gd-p2c12q5-Hd1e103"> QUESTIO V. </head>
-        <p xml:id="gd-p2c12q5-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c12q5-d1e109"> I. Pars. Testamenta uero non licet eis conficere, nisi
-          depropriis rebus. </p>
-        <p xml:id="gd-p2c12q5-d1e112"> Unde Gregorius scribit Lucido * Episcopo, </p>
-        <p xml:id="gd-p2c12q5-d1e115"> [lib. X. epist. 42.]: </p>
+        <head xml:id="gd-p2c12q5-Hd1e103"> QUESTIO 5</head>
+        <div xml:id="gd-p2c12q5-Dd1e100">
+          <head xml:id="gd-p2c12q5-Hd1e102">Dictum</head>
+          <p xml:id="gd-p2c12q5-d1e109">Testamenta uero non licet eis conficere, nisi
+            depropriis rebus. </p>
+          <p xml:id="gd-p2c12q5-d1e112"> Unde Gregorius scribit Lucido Episcopo, [lib. X. epist. 42.]: </p>
+        </div>
         <div xml:id="gd-p2c12q5-Dd1e119">
-          <head xml:id="gd-p2c12q5-Hd1e121">C. I</head>
+          <head xml:id="gd-p2c12q5-Hd1e121">Caput 1</head>
           <head xml:id="gd-p2c12q5-Hd1e124" type="question-title"> Quomodo de rebus ecclesiae
-            sacerdotibus testari liceat . </head>
+            sacerdotibus testari liceat.</head>
           <p xml:id="gd-p2c12q5-d1e127"> Nulli dubium est, quod sicut sacerdotibus res in episcopatu
             acquisitas nulla est 'alienandi licentia, ita deeis, quas ante habuerint, quicquid
             iudicare uoluerint nonuetentur. Itaque fraternitatem tuam tempore, quo ad nosfuit,
-            conquestam esse recolimus, quod quedam mobilia**, que Constantius decessor uester
-            Luminosae ancillaeDei, et fratribus suis, testamenti serie legati titulo dereli-quits,
-            iam episcopus adquisisset, decreuissetque nos, ut, sihoc constat \ nullum ex his
+            conquestam esse recolimus, quod quedam mobilia, que Constantius decessor uester
+            Luminosae ancillaeDei, et fratribus suis, testamenti serie legati titulo dereliquits,
+            iam episcopus adquisisset, decreuissetque nos, ut, sihoc constat nullum ex his
             ecclesia uestra preiudiciumpateretur. Quod et uos oportet recolere, et molestiam aliquam
             predictae ancillae Dei non facere, nec ei sine cognitione de his, que possidet, quicquam
             auferre. </p>
         </div>
         <div xml:id="gd-p2c12q5-Dd1e131">
-          <head xml:id="gd-p2c12q5-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c12q5-Hd1e133">Caput 2</head>
           <head xml:id="gd-p2c12q5-Hd1e136" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q5-d1e139"> Idem [lib. IV. epist. 22. Cypriano Diacono]. </p>
-          <p xml:id="gd-p2c12q5-d1e142"> Obitum Theodori episcopi dilectionem tuam iam credimus
+          <p xml:id="gd-p2c12q5-d1e142"> 
+            <ref xml:id="gd-p2c12q5-Rd1e133">Idem [lib. IV. epist. 22. Cypriano Diacono].</ref> 
+            Obitum Theodori episcopi dilectionem tuam iam credimus
             cognouisse. Sed quia testamentum dicitur condidisse, subtiliter te ne quid de rebus
             ecclesiae suae consumpsisset oportet inquirere. Et siquidem eum exinde aliquid incongrue
             minuisse didiceris, ita age, ut res ab eo, cuius interest, modis omnibus reparentur. </p>
-
-
-
-
+        </div>
+        <div xml:id="gd-p2c12q5-Dd1e144">
+          <head xml:id="gd-p2c12q5-Hd1e146">Caput 3</head>
+          <head xml:id="gd-p2c12q5-Hd1e149" type="question-title"> Que monasteriis ab episcopo
+            conferuntur reuocari non debent.</head>
+          <p xml:id="gd-p2c12q5-d1e158"> 
+            Item <ref xml:id="gd-p2c12q5-Rd1e156">Gregor ius Marini ano Episcopo Rauennati, [lib. V. epist. i.]</ref> 
+            Quia Iohannes quondam decessor tuus sepius a nobis
+            expetiit, ut ea, que in monasterio illo contulerat, quod iuxta ecclesiam S.
+            Apollinaris ipse construxerat, nostradebuissemus auctoritate firmare, et hec facturos
+            nos essepromisimus, fraternitatem uestram necessarium preuidimus adhortandam, ut
+            nichil de his, que illic contulitatque constituit, aliquo modo patiatur inminui, sed
+            omniafirma stabilitate studeat seruari. Huius igitur monasteriiet collectarum illic
+            rerum quia in testamento, quod condidit, fecisse noscitur mentionem, sciendum uobis
+            est, nonnos ideo ea confirmasse, quoniam suppremam eius sequimuruoluntatem, sed quia
+            hoc ei (sicut diximus) uiUenti promisimus. Hec itaque omnia sic sollicite fraternitas
+            uestrainplere festinet, quatinus et que in suprascripto monasterioconstituit et a
+            nobis sunt firmata seruentur, et illa, quein dampno^ dari uel fieri per testamentum
+            suae decre-uerit ecclesiae, nullam, prohibente lege, obtineantfirmitatem. </p>
+        </div>
+        <div xml:id="gd-p2c12q5-Dd1e163">
+          <head xml:id="gd-p2c12q5-Hd1e165">Caput 4</head>
+          <head xml:id="gd-p2c12q5-Hd1e168" type="question-title"> Que ante suam ordinationem, uel
+            post, hereditaria successione quesiuit episcopus, cui uult derelinquat .</head>
+          <p xml:id="gd-p2c12q5-d1e177">
+            Item ex <ref xml:id="gd-p2c12q5-Rd1e170">Concilio S palensi.</ref> 
+            Fixum abhinc et perpetuo mansurum esse decreuimus, ut
+            episcopus res sui iuris, quas aut ante episcopatum, autcerte in episcopatu hereditaria
+            successione acquisiuit, secundum auctoritatem canonicam cui uult conferat et
+            quicquid de eis uult, faciat. Postquam autem episcopus factus est, quascumque res de
+            facultatibus ecclesiae aut suo, aut alterius nomine conparauerit, decreuimus, ut non
+            in propinquorum suorum, sed ecclesiae, cui preest, iura de-ueniant. </p>
+        </div>
+        <div xml:id="gd-p2c12q5-Dd1e174">
+          <head xml:id="gd-p2c12q5-Hd1e176">Dictum</head>
+          <p xml:id="gd-p2c12q5-d1e181">
+            De rebus uero ecclesiasticis testari licet
+            episcopo, si tantumdem de propriis restituat. </p>
+          <p xml:id="gd-p2c12q5-d1e184"> Unde in Agatensi Concilio [c. 51.] statutum es/: </p>
+        </div>
+        <div xml:id="gd-p2c12q5-Dd1e188">
+          <head xml:id="gd-p2c12q5-Hd1e190">Caput 5</head>
+          <head xml:id="gd-p2c12q5-Hd1e193" type="question-title"> Quomodo possint &amp; esse rata
+            que de ecclesiae proprietate testamento legantur.</head>
+          <p xml:id="gd-p2c12q5-d1e196">Si episcopus condito testamento aliquid de ecclesiastici
+            iuris proprietate legauerit, aliter non ualebit, nisi tantum de proprii iuris
+            facultate suppleuerit. </p>
+        </div>
+        <div xml:id="gd-p2c12q5-Dd1e197">
+          <head xml:id="gd-p2c12q5-Hd1e199">Dictum</head>
+          <p xml:id="gd-p2c12q5-d1e199">
+            Sed si episcopus uel quilibet ex gradu
+            ecclesiastico intestatus defunctus fuerit, nec aliqui inuenti fuerint, qui iure
+            cognationis ei succedant, ecclesia ei succedat in integrum, nec licebit alicui
+            aliqua ex rebus eius presumere. 
+          </p>
         </div>
         <div xml:id="gd-p2c12q5-Dd1e146">
-          <head xml:id="gd-p2c12q5-Hd1e148">C. VI</head>
+          <head xml:id="gd-p2c12q5-Hd1e148">Caput 6</head>
           <head xml:id="gd-p2c12q5-Hd1e151" type="question-title"> Episcopo intestato ecclesia
-            succedat ex integro*.</head>
+            succedat ex integro.</head>
           <p xml:id="gd-p2c12q5-d1e154"> Sicubi defunctus fuerit episcopus intestatus, post hanc
-            diffinitionem* a presbiteris eius et diaconibus de rebusipsius breuis conscriptio fiat a
+            diffinitionem a presbiteris eius et diaconibus de rebus ipsius breuis conscriptio fiat a
             minimo usque ad maximum, id est de utensilibus et omni supellectile, ita tamen, ut si
             quis exinde uel presumpsisse aliquid, uel occultetulisse fuerit conuictus, secundum
-            furti tenorem restituatuniuersa. </p>
+            furti tenorem restituat uniuersa. </p>
         </div>
         <div xml:id="gd-p2c12q5-Dd1e158">
-          <head xml:id="gd-p2c12q5-Hd1e160">C. VII</head>
+          <head xml:id="gd-p2c12q5-Hd1e160">Caput 7</head>
           <head xml:id="gd-p2c12q5-Hd1e163" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c12q5-d1e166"> Item ex Concilio Triburiensi *. </p>
-          <p xml:id="gd-p2c12q5-d1e169"> Quicumque ex gradu ecclesiastico sine testamento et sine
+          <p xml:id="gd-p2c12q5-d1e169"> 
+            Item ex <ref xml:id="gd-p2c12q5-Rd1e223">Concilio Triburiensi</ref>
+            Quicumque ex gradu ecclesiastico sine testamento et sine
             cognatione decesserit, hereditas eius ad ecclesiam, ubi deseruiuit, euoluatur. Similiter
-            de sanctimonialibus . </p>
+            de sanctimonialibus.</p>
         </div>
       </div>
     </body>

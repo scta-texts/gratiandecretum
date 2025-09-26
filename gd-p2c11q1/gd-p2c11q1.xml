@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,73 +53,86 @@
     </front>
     <body>
       <div xml:id="gd-p2c11q1">
-        <head xml:id="gd-p2c11q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c11q1-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c11q1-d1e109"> I. Pars. Quod clericus apud seculares iudices accusandus non
+        <head xml:id="gd-p2c11q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c11q1-Dd1e100">
+          <head xml:id="gd-p2c11q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c11q1-d1e109">
+          Quod clericus apud seculares iudices accusandus non
           sit , Gaius Papa , [epistola ad Felicem Episcopumcap. 2.], scribit , dicens : </p>
-
-
-
-
+        </div>
         <div xml:id="gd-p2c11q1-Dd1e112">
-          <head xml:id="gd-p2c11q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c11q1-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c11q1-Hd1e117" type="question-title"> Apud secularem iudicem nullus
             clericus conueniatur.</head>
           <p xml:id="gd-p2c11q1-d1e120"> Nemo umquam episcopum aut reliquos clericos apud iudicem
             secularem accusare presumat. </p>
-          <p xml:id="gd-p2c11q1-d1e123"> [PALE A*. C. II. </p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e120">
+          <head xml:id="gd-p2c11q1-Hd1e122">Caput 2</head>
           <p xml:id="gd-p2c11q1-d1e126"> Nullus iudicum neque presbiterum, neque diaconum, aut
             clericum ullum, aut iuniores ecclesiae sine licentiapontificis per se distringat aut
             condempnare presumat.Quod si fecerit, ab ecclesia, cui iniuriam inrogare dinoscitur,
             tamdiu sit sequestratus, quousque reatum suum agnoscatet emendet.] </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e130">
-          <head xml:id="gd-p2c11q1-Hd1e132">C. III</head>
+          <head xml:id="gd-p2c11q1-Hd1e132">Caput 3</head>
           <head xml:id="gd-p2c11q1-Hd1e135" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q1-d1e138"> Item Marcellinus Papa , [epist. II.] </p>
-          <p xml:id="gd-p2c11q1-d1e141"> Clericum* cuiuslibet ordinis absque pontificis sui permissu
+          <p xml:id="gd-p2c11q1-d1e141"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e138">Marcellinus Papa , [epist. II.]</ref> 
+            Clericum cuiuslibet ordinis absque pontificis sui permissu
             nullus presumat ad seculare iudicium attrahere, nec laico quemlibet clericum liceat
             accusare. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e146">
-          <head xml:id="gd-p2c11q1-Hd1e148">C. IV</head>
+          <head xml:id="gd-p2c11q1-Hd1e148">Caput 4</head>
           <head xml:id="gd-p2c11q1-Hd1e151" type="question-title"> Ab eis quisque iudicandus est ,
-            quos sibi iudices elegerit . </head>
-          <p xml:id="gd-p2c11q1-d1e154"> Item ex Concilio Ni ceno *. </p>
-          <p xml:id="gd-p2c11q1-d1e157"> Iudices alii non debent esse, nisi quos ipse, qui
+            quos sibi iudices elegerit.</head>
+          <p xml:id="gd-p2c11q1-d1e157"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e153">Concilio Niceno.</ref> 
+            Iudices alii non debent esse, nisi quos ipse, qui
             inpetitur, elegerit, aut quos suo consensu hec sanctasedes aut eius primates auctoritate
-            huius sanctae sedis dele-gauerint. </p>
+            huius sanctae sedis delegauerint.
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e161">
-          <head xml:id="gd-p2c11q1-Hd1e163">C. V</head>
-          <head xml:id="gd-p2c11q1-Hd1e166" type="question-title"> Ad secularia iudicia nullus
-            clericus est pertrahendus.</head>
-          <p xml:id="gd-p2c11q1-d1e169"> Item Valentinianus , Theodosius et Archadius ^. </p>
-          <p xml:id="gd-p2c11q1-d1e172"> Continua lege sancimus, ut nullus episcoporum uel eorum,
+          <head xml:id="gd-p2c11q1-Hd1e163">Caput 5</head>
+          <head xml:id="gd-p2c11q1-Hd1e166" type="question-title">Ad secularia iudicia nullus clericus est pertrahendus.</head>
+          <p xml:id="gd-p2c11q1-d1e172"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e167">Valentinianus , Theodosius et Archadius.</ref>
+            Continua lege sancimus, ut nullus episcoporum uel eorum,
             qui ecclesiae necessitatibus seruiunt, ad iudiciasiue ordinariorum siue
             extraordinariorum iudicum per-trahantur. Habent illi suos iudices, nec quicquam
-            hispublicis est commune cum legibus. Item : §. i. Constantinus presidens* in sancta
+            his publicis est commune cum legibus. 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e170">
+            Item : §. i. Constantinus presidens in sancta
             Sinodo, que apud Nice-nam congregata est, cum querelam quorumdamconspiceret coram se
             deferendam, ait: Vos a neminediiudicari potestis, quia ad Dei iudicium solius
-            reseruamini. </p>
-
-          <p xml:id="gd-p2c11q1-d1e175"> [PALE A. </p>
-          <p xml:id="gd-p2c11q1-d1e179"> C. VI. De eodem. </p>
-          <p xml:id="gd-p2c11q1-d1e182"> Item ex Concilio Matisconensi I., c. 8. </p>
-          <p xml:id="gd-p2c11q1-d1e185"> Nullus clericus alium clericum ad iudicem secularem
+            reseruamini.</p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e173">
+          <head xml:id="gd-p2c11q1-Hd1e175">Caput 6</head>
+          <head xml:id="gd-p2c11q1-Hd1e177" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c11q1-d1e185"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e182">Concilio Matisconensi I., c. 8.</ref>
+            Nullus clericus alium clericum ad iudicem secularem
             accusare, aut ad causam dicendam trahere quocumquemodo presumat, sed omne negotium
-            clericorum aut in episcopi sui*, aut presbiterorum cum archidiaconi presentiafiniatur.
+            clericorum aut in episcopi sui, aut presbiterorum cum archidiaconi presentiafiniatur.
             Quod si quis clericus hoc adinplere distulerit, si minor fuerit, uno minus de
             quadraginta ictus accipiat, si uero honoratior, triginta dierum inclusione mulctetur.] </p>
-          <p xml:id="gd-p2c11q1-d1e188"> [PALE A. </p>
-          <p xml:id="gd-p2c11q1-d1e191"> C. VII. De eodem. </p>
-          <p xml:id="gd-p2c11q1-d1e194"> Item Marcellinus* ep. II. ad Episc. orientales. </p>
-          <p xml:id="gd-p2c11q1-d1e198"> Quecumque contentiones inter Christianos ortae fuerint, ad
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e186">
+          <head xml:id="gd-p2c11q1-Hd1e188">Caput 7</head>
+          <head xml:id="gd-p2c11q1-Hd1e190" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c11q1-d1e198"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e195">Marcellinus ep. II. ad Episc. orientales.</ref>
+            Quecumque contentiones inter Christianos ortae fuerint, ad
             ecclesiam deferantur, et ab ecclesiasticis uiris terminentur. Et si obedire** noluerint,
-            quousque obediant a liminibus ecclesiae excludantur.] </p>
+            quousque obediant a liminibus ecclesiae excludantur.]
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e202">
-          <head xml:id="gd-p2c11q1-Hd1e204">C. VIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e204">Caput 8</head>
           <head xml:id="gd-p2c11q1-Hd1e207" type="question-title"> Neque pro ciuili , neque pro
             criminali causa episcopus apud ciuilem iudicem producatur. </head>
           <p xml:id="gd-p2c11q1-d1e210"> Item Bonifatius ad Episcopos Galliae * </p>
@@ -131,54 +142,78 @@
           </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e217">
-          <head xml:id="gd-p2c11q1-Hd1e219">C. IX</head>
+          <head xml:id="gd-p2c11q1-Hd1e219">Caput 9</head>
           <head xml:id="gd-p2c11q1-Hd1e222" type="question-title"> Quilibet clericus non est in
             publico examinandus.</head>
-          <p xml:id="gd-p2c11q1-d1e225"> Item Siluester Papa [in Sinodo Romana, c. 14.]* </p>
-          <p xml:id="gd-p2c11q1-d1e228"> Testimonium clerici aduersus laicum nemo recipiat, nemo
+          <p xml:id="gd-p2c11q1-d1e228"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e224">Siluester Papa [in Sinodo Romana, c. 14.]</ref>
+            Testimonium clerici aduersus laicum nemo recipiat, nemo
             clericum quemlibet in publico examinare presumat nisi in ecclesia. </p>
-          <p xml:id="gd-p2c11q1-d1e231"> [Gratian.] Codicis^ libro I. titulo de episcopis et
-            clericis Inperator Theodosius : Nec honore, nec legibus episcopus </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e235"> ad testimonium flagitetur. §. i. Iiem: Episcopum ad
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e229">
+          <head xml:id="gd-p2c11q1-Hd1e231">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e231">Codicis libro I. titulo de episcopis et
+            clericis Inperator Theodosius : Nec honore, nec legibus episcopus 
+            ad testimonium flagitetur.
+          </p>
+          <p xml:id="gd-p2c11q1-d1e236">
+            §. i. Item: Episcopum ad
             testimonium dicendum admitti non decet, nam et personahonoratur, et dignitas sacerdotis
-            excepta confunditur . </p>
+            excepta confunditur . 
+          </p>
           <p xml:id="gd-p2c11q1-d1e238"> Nouella Constitutio . </p>
           <p xml:id="gd-p2c11q1-d1e241"> Nons flagitetur ad testimonium iureiurando ** sed
-            euangeliis tantum coram positis. §. i. Item: Sed iudexmittat ad eum ex suis ministris,
+            euangeliis tantum coram positis.
+          </p>
+          <p xml:id="gd-p2c11q1-d1e245">
+            §. i. Item: Sed iudexmittat ad eum ex suis ministris,
             ut propositis sacrosanctis euangeliis, secundum quod decet sacerdotes, dicantque
             nouerunt. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e245">
-          <head xml:id="gd-p2c11q1-Hd1e247">C. X</head>
+          <head xml:id="gd-p2c11q1-Hd1e247">Caput 10</head>
           <head xml:id="gd-p2c11q1-Hd1e250" type="question-title"> Clericus ad ciuilem iudicem,
             clericum producens anathema sit. </head>
-          <p xml:id="gd-p2c11q1-d1e253"> Idem . </p>
-          <p xml:id="gd-p2c11q1-d1e256"> Si quis clericus accusans clericum in curiam introierit,
-            anathema sit. </p>
-          <p xml:id="gd-p2c11q1-d1e259"> Gratian. Subaudiendum est, si publicorum iudiciorum
-            cognitionem petierit; episcopale namque iudicium nichil obest abinperatore postulare. </p>
-          <p xml:id="gd-p2c11q1-d1e263"> Unde in Cartaginensi Concilio VIII. legitur </p>
+          <p xml:id="gd-p2c11q1-d1e256"> 
+            <ref xml:id="gd-p2c11q1-Rd1e258">Idem.</ref>
+            Si quis clericus accusans clericum in curiam introierit,
+            anathema sit.
+          </p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e262">
+          <head xml:id="gd-p2c11q1-Hd1e264">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e259">
+            Subaudiendum est, si publicorum iudiciorum
+            cognitionem petierit; episcopale namque iudicium nichil obest ab inperatore postulare. 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e263">
+            Unde in Cartaginensi Concilio VIII. legitur
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e267">
-          <head xml:id="gd-p2c11q1-Hd1e269">C. XI</head>
+          <head xml:id="gd-p2c11q1-Hd1e269">Caput 11</head>
           <head xml:id="gd-p2c11q1-Hd1e272" type="question-title"> Proprio priuetur honore publici
             iudicii cognitionem ab inperatore postulans.</head>
-          <p xml:id="gd-p2c11q1-d1e275"> Placuit, ut quicumque ab inperatore cognitionem publicorum
+          <p xml:id="gd-p2c11q1-d1e275"> 
+            Placuit, ut quicumque ab inperatore cognitionem publicorum
             iudiciorum petierit, honore proprio priuetur. Si autem episcopale iudicium ab inperatore
-            postulauerit, nichil ei obsit. </p>
-          <p xml:id="gd-p2c11q1-d1e278"> Gratian. Sic et sequentes auctoritates intelligendae sunt,
-            quibus clericorum causas non nisi clerici cognoscere iubentur. </p>
+            postulauerit, nichil ei obsit. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e285">
+          <head xml:id="gd-p2c11q1-Hd1e287">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e278">
+            Sic et sequentes auctoritates intelligendae sunt,
+            quibus clericorum causas non nisi clerici cognoscere iubentur.
+          </p>
           <p xml:id="gd-p2c11q1-d1e281"> Unde Gelasius Papa scribit Z ei a e Comiti : </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e286">
-          <head xml:id="gd-p2c11q1-Hd1e288">C. XII</head>
+          <head xml:id="gd-p2c11q1-Hd1e288">Caput 12</head>
           <head xml:id="gd-p2c11q1-Hd1e291" type="question-title"> A seculari iudice clericus non
             est audiendus.</head>
-          <p xml:id="gd-p2c11q1-d1e294"> Christianis gratum semper debet esse, quod ab eorum
+          <p xml:id="gd-p2c11q1-d1e294"> 
+            Christianis gratum semper debet esse, quod ab eorum
             poscitur dignitate prestandum, quia Deo seruientibus beneficium negare non conuenit.
             Siluester atque Faustinia-nus, qui se a cunabulis clericos confitentur, a Theodorase
             obprimi conqueruntur per uiolentiam, quod dicantse ingenuos atque auctore Deo pristinae
@@ -189,15 +224,16 @@
             salutationis affatu, supradictos clericos tibi conmendo, ut, si ad delegatorum iudicium
             eorum aduersarii uenire contempserint, sublimitatis tuae tuitione uallentur, ne quid
             illisaut subreptio, aut inimica legibus uiolentia necessitatis in-ponat, quia qui
-            iudicium refugit apparet eum de iustitiadiffisum. </p>
-
+            iudicium refugit apparet eum de iustitiadiffisum.
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e298">
-          <head xml:id="gd-p2c11q1-Hd1e300">C. XIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e300">Caput 13</head>
           <head xml:id="gd-p2c11q1-Hd1e303" type="question-title"> Non nisi ad episcoporum iudicium
             clericus deuocetur . </head>
-          <p xml:id="gd-p2c11q1-d1e306"> Idem Crispo et Sabino Episcopis. </p>
-          <p xml:id="gd-p2c11q1-d1e309"> Siluester et Faustinianus ecclesiae Grumentinae clerici
+          <p xml:id="gd-p2c11q1-d1e309"> 
+            <ref xml:id="gd-p2c11q1-Rd1e319">Idem Crispo et Sabino Episcopis.</ref> 
+            Siluester et Faustinianus ecclesiae Grumentinae clerici
             lacrimosa nobis insinuatione conquesti sunt, libertatem sibi domini sui benignitate
             concessam heredum eius obpres-sione pulsari, sibique in clericatus offitio pene a
             cunabulis seruientibus, etiam manumissore uiuente, in eodemactu nichilominus
@@ -206,116 +242,124 @@
             hereditas legibus auferatur, nec eis liceat hereditatem capientibus contra auctoris sui
             prosilire iudicium.Et ideo, fratres karissimi, quoniam se etiam ab archidiaconopredictae
             ecclesiae queruntur obpressos, qui pereorum absentiam moderatoris iudicium promisit eos
-            essesecuturos, calcatis omnibus, et que contra legesdiuinas et publicas pulsatis forum
+            essesecuturos, calcatis omnibus, et que contra leges diuinas et publicas pulsatis forum
             suum putauit auferri, in uestro iudicio, quisquis ille est, qui clericum laces-serit,
             adueniat, ut ecclesiae iura, que uetusti principesassidua sanctione firmauerunt,
             inpetitis clericis non negentur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e313">
-          <head xml:id="gd-p2c11q1-Hd1e315">C. XIV</head>
-          <head xml:id="gd-p2c11q1-Hd1e318" type="question-title"> Ante ciuilem iudicem sacerdotes
-            non accusentur. Item Alexander omnibus orthodoxis , per diuersas prouin-cias Christo
-            Domino famulantibus, [ep. I. c. i.]Relatum est ad huius sanctae et apostolicaesedis
+          <head xml:id="gd-p2c11q1-Hd1e315">Caput 14</head>
+          <head xml:id="gd-p2c11q1-Hd1e318" type="question-title">
+            Ante ciuilem iudicem sacerdotes non accusentur.
+          </head>
+          <p xml:id="gd-p2c11q1-d1e331">
+            Item <ref xml:id="gd-p2c11q1-Rd1e333">Alexander omnibus orthodoxis , per diuersas prouin-cias Christo
+            Domino famulantibus, [ep. I. c. i.]</ref>
+            Relatum est ad huius sanctae et apostolicaesedis
             apicem, cui summarum dispositiones causarum etomnium negotia ecclesiarum ab ipso Domino
             tradita sunt, quasi ad caput, ipso dicente: , , Tu es Petrus, et superhanc petram
             edificabo ecclesiam meam, “ quod quidam emuliChristi, eiusque sanctae ecclesiae
             insidiatores, sacerdotes Dei ad iudices publicos accusare presumant, cummagis apostolus
             Christianorum causas ad ecclesias deferriet ibidem terminari precipiat. Taliter
-            preuaricantes pre-uaricauerunt in Deum suum, et non obediunt preceptis eius. </head>
+            preuaricantes pre-uaricauerunt in Deum suum, et non obediunt preceptis eius. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e322">
-          <head xml:id="gd-p2c11q1-Hd1e324">C. XV</head>
+          <head xml:id="gd-p2c11q1-Hd1e324">Caput 15</head>
           <head xml:id="gd-p2c11q1-Hd1e327" type="question-title"> Actor forum rei sequatur.</head>
-          <p xml:id="gd-p2c11q1-d1e330"> Item Pelagius Benegesto Defensori Experientiae tuae
-            presenti auctoritate mandamus, ut incausis, in quibus quelibet ecclesiastici offitii
-            persona locopetitoris existit quemquam laicum pulsatura, apud suae pro-uinciae iudicem
-            suas proponere non deserat actiones. </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e333"> In his uero negotiis, in quibus ecclesiastici
+          <p xml:id="gd-p2c11q1-d1e330"> Item <ref xml:id="gd-p2c11q1-Rd1e347">Pelagius Benegesto Defensori</ref> 
+            Experientiae tuae
+            presenti auctoritate mandamus, ut in causis, in quibus quelibet ecclesiastici offitii
+            persona locopetitoris existit quemquam laicum pulsatura, apud suae prouinciae iudicem
+            suas proponere non deserat actiones. 
+            In his uero negotiis, in quibus ecclesiastici
             offitiipersona pulsatur, totius submoto pulsationis obstaculo adepiscopi uel
             presbiterorum, in loco, ubi questio uertitur, constitutorum, occurrat indifferentur
             examen. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e337">
-          <head xml:id="gd-p2c11q1-Hd1e339">C. XVI</head>
+          <head xml:id="gd-p2c11q1-Hd1e339">Caput 16</head>
           <head xml:id="gd-p2c11q1-Hd1e342" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q1-d1e345"> Idem Sergio Cancellario . </p>
-          <p xml:id="gd-p2c11q1-d1e348"> Si quisquam clericus, siue inferioris siue potioris gradus,
-            petitor existat, et contra laicam personam suas dirigatactiones, iste modis omnibus non
+          <p xml:id="gd-p2c11q1-d1e348"> 
+            <ref xml:id="gd-p2c11q1-Rd1e361">Idem Sergio Cancellario.</ref> 
+            Si quisquam clericus, siue inferioris siue potioris gradus,
+            petitor existat, et contra laicam personam suas dirigat actiones, iste modis omnibus non
             alibi quam apud prouinciaeiudicem negotium suum dicturus occurrat. *Si quis autemlaicus
             clericum cuiuscumque gradus duxerit esse pulsandum, ad episcoporum iudicium in eadem
-            ciuitate uel territorioconstitutorum proponat eas, quas se existimat habere, actiones.
-            Quem ordinem legibus per omnia conuenientematque consentaneum demonstrari illa regula
-            manifestat, queprecipit actorem forum semper sequi pulsati. Clericisuero pulsatis in
+            ciuitate uel territorio constitutorum proponat eas, quas se existimat habere, actiones.
+            Quem ordinem legibus per omnia conuenientem atque consentaneum demonstrari illa regula
+            manifestat, que precipit actorem forum semper sequi pulsati. Clericisuero pulsatis in
             episcopali iudicio forum conpetere, principalium quoque sanctionum designat auctoritas. </p>
-          <p xml:id="gd-p2c11q1-d1e351"> Item in Concilio Agat en si [c. 32.] legitur*. </p>
+          <p xml:id="gd-p2c11q1-d1e351"> Item in Concilio Agat en si [c. 32.] legitur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e355">
-          <head xml:id="gd-p2c11q1-Hd1e357">C. XVII</head>
+          <head xml:id="gd-p2c11q1-Hd1e357">Caput 17</head>
           <head xml:id="gd-p2c11q1-Hd1e360" type="question-title"> Episcopo non permittente apud
             secularem iudicem clericus pulsari non debet.</head>
-          <p xml:id="gd-p2c11q1-d1e363"> Clericum nullus presumat apud secularem iudicem episcopo
+          <p xml:id="gd-p2c11q1-d1e363"> 
+            Clericum nullus presumat apud secularem iudicem episcopo
             non permittente pulsare; sed, si pulsatus fuerit, non respondeat uel proponat, nec
-            audeat criminalenegotium in iudicio seculari proponere. </p>
+            audeat criminalen egotium in iudicio seculari proponere. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e368">
-          <head xml:id="gd-p2c11q1-Hd1e370">C. XVIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e370">Caput 18</head>
           <head xml:id="gd-p2c11q1-Hd1e373" type="question-title"> Clericus suo inobediens episcopo
             depositus curiae tradatur.</head>
-          <p xml:id="gd-p2c11q1-d1e376"> Item Pius Papa , [epist. II.] </p>
-          <p xml:id="gd-p2c11q1-d1e379"> Si quis sacerdotum uel reliquorum clericorum suo episcopo
-            inobediens fuerit, aut ei insidias parauerit, autcontumeliam, aut calumpniam, uel
-            conuicia intulerit*, et conuinci potuerit, mox depositus** curiae tradatur, et
-            recipiat*** quod inique gessit. </p>
+          <p xml:id="gd-p2c11q1-d1e379"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e390">Pius Papa , [epist. II.]</ref> 
+            Si quis sacerdotum uel reliquorum clericorum suo episcopo
+            inobediens fuerit, aut ei insidias parauerit, aut contumeliam, aut calumpniam, uel
+            conuicia intulerit, et conuinci potuerit, mox depositus curiae tradatur, et
+            recipiat quod inique gessit. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e383">
-          <head xml:id="gd-p2c11q1-Hd1e385">C. XIX</head>
+          <head xml:id="gd-p2c11q1-Hd1e385">Caput XIX</head>
           <head xml:id="gd-p2c11q1-Hd1e388" type="question-title"> Principalis coherceat auctoritas
-            qui plebem inuasam deserere noluerit™ . </head>
-          <p xml:id="gd-p2c11q1-d1e391"> Item ex Concilio Cartaginensi III. [c. 38.] </p>
-          <p xml:id="gd-p2c11q1-d1e394"> Petimus, ut dignemini dare fiduciam, qua necessitate ipsa
+            qui plebem inuasam deserere noluerit.</head>
+          <p xml:id="gd-p2c11q1-d1e394"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e405">Concilio Cartaginensi III. [c. 38.]</ref> 
+            Petimus, ut dignemini dare fiduciam, qua necessitate ipsa
             cogente liberum nobis sit rectorem prouinciae secundum statuta gloriosissimorum
-            principum aduersusillum adire, qui plebem*, quam inuaserat, usque hodieconmonitus,
+            principum aduersusillum adire, qui plebem, quam inuaserat, usque hodieconmonitus,
             secundum quod statutum fuerat, relinquerecontempnit, ut qui miti admonitioni sanctitatis
             uestraeacquiescere noluerit et emendare illicitum, auctoritateiudiciaria protinus
             excludatur. Aurelius episcopus dixit:Seruata forma disciplinae non existimabitur
             inpetitus, si 189 e uestra karitate modeste conuentus recedere detrecta-uerit, cum
             fuerit suo contemptu et contumacia facienteiudiciaria auctoritate conuentus. Honoratus
-            et Urbanusepiscopi dixerunt: Hoc ergo s omnibus placet. </p>
-
+            et Urbanusepiscopi dixerunt: Hoc ergo s omnibus placet. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e398">
-          <head xml:id="gd-p2c11q1-Hd1e400">C. XX</head>
+          <head xml:id="gd-p2c11q1-Hd1e400">Caput 20</head>
           <head xml:id="gd-p2c11q1-Hd1e403" type="question-title"> A principibus corrigantur quos
             ecclesia corrigere non ualet.</head>
-          <p xml:id="gd-p2c11q1-d1e406"> Item/ Gregorius *. </p>
-          <p xml:id="gd-p2c11q1-d1e409"> Istud est, quod a uobis poposcimus et nunc iterum
+          <p xml:id="gd-p2c11q1-d1e409"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e419">Gregorius.</ref>
+            Istud est, quod a uobis poposcimus et nunc iterum
             postulamus, ut Paulinum Aquileiensem pseudoepiscopum, et illum Mediolanensem episcopum
-            ad clementissimum principem sub digna custodia dirigatis, ut et iste, qui episcopusesse
+            ad clementissimum principem sub digna custodia dirigatis, ut et iste, qui episcopus esse
             nullatenus potest, quia contra omnem canonicam consuetudinem factus est, alios ultra non
-            perdat, et ille, quicontra morem antiquum eum ordinare presumpsit, canonum uindictae
+            perdat, et ille, qui contra morem antiquum eum ordinare presumpsit, canonum uindictae
             subiaceat. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e413">
-          <head xml:id="gd-p2c11q1-Hd1e415">C. XXI</head>
+          <head xml:id="gd-p2c11q1-Hd1e415">Caput 21</head>
           <head xml:id="gd-p2c11q1-Hd1e418" type="question-title"> Proprium gradum amittant clerici
             coniurantes uel conspirantes. </head>
-          <p xml:id="gd-p2c11q1-d1e421"> Item in Concilio Calcedonensi , [c. 18.]Coniurationum et
-            conspirationum crimen, quod apudGrecos dicitur fratria, publicis etiam legibus certumest
+          <p xml:id="gd-p2c11q1-d1e421"> 
+            Item in <ref xml:id="gd-p2c11q1-Rd1e433">Concilio Calcedonensi , [c. 18.]</ref> Coniurationum et
+            conspirationum crimen, quod apud Grecos dicitur fratria, publicis etiam legibus certumest
             penitus inhiberi. Hoc multo magis in sancta Deiecclesia ne fiat conuenit abdicari. Si
-            qui uero clerici seumonachi inuenti fuerint coniurantes aut conspirantes, autfratrias
+            qui uero clerici seu monachi inuenti fuerint coniurantes aut conspirantes, autfratrias
             uel factiones conponentes aliquas suis episcopisaut aliis, omnimodo cadant de proprio
             gradu. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e425">
-          <head xml:id="gd-p2c11q1-Hd1e427">C. XXII</head>
+          <head xml:id="gd-p2c11q1-Hd1e427">Caput 22</head>
           <head xml:id="gd-p2c11q1-Hd1e430" type="question-title"> Clerici conspirantes proprio
             gradu amisso retrudantur in carcerem; ceteri excommunicentur. </head>
-          <p xml:id="gd-p2c11q1-d1e433"> Item Calix tus Papa [Episcopis Galliae, epist.
-            II.]Conspirationum crimina uestris in partibus' uigereaudiuimus, et, plebes contra
+          <p xml:id="gd-p2c11q1-d1e433"> Item <ref xml:id="gd-p2c11q1-Rd1e447">Calix tus Papa [Episcopis Galliae, epist.
+            II.]</ref> Conspirationum crimina uestris in partibus' uigereaudiuimus, et, plebes contra
             episcopos suos conspirarenobis mandatum est; cuius criminis astutia non soluminter
             Christianos abhominabilis est, sed etiam inter ethnicos, et ab exteris legibus
             prohibita. Et idcirco huius criminis reos non solum ecclesiasticae, sed etiam seculi
@@ -324,33 +368,34 @@
             aut existunt clerici, honore, quoutuntur, carere preceperunt; ceteros uero
             communionepriuari et ab ecclesia extorres fieri iusserunt, omnesquesimul utriusque
             ordinis uiros infames esse censuerunt, etnon solum facientes, sed et eis consentientes. </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c11q1-Dd1e437">
-          <head xml:id="gd-p2c11q1-Hd1e439">C. XXIII</head>
-          <head xml:id="gd-p2c11q1-Hd1e442" type="question-title"> Clerici aut monachi coniur antes
-            proprio priuentur honore. </head>
-          <p xml:id="gd-p2c11q1-d1e445"> Item ex Concilio Calcedonensi, [c. 18.]* </p>
-          <p xml:id="gd-p2c11q1-d1e448"> Si qui clerici uel monachi reperti fuerint coniuran-tes aut
-            conspirantes, aut insidias ponentes episcopis autclericis, gradu proprio penitus
-            abiciantur. </p>
+          <head xml:id="gd-p2c11q1-Hd1e439">Caput 23</head>
+          <head xml:id="gd-p2c11q1-Hd1e442" type="question-title"> Clerici aut monachi coniur antes proprio priuentur honore. </head>
+          <p xml:id="gd-p2c11q1-d1e448"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e461">Concilio Calcedonensi, [c. 18.]</ref>
+            Si qui clerici uel monachi reperti fuerint coniurantes aut
+            conspirantes, aut insidias ponentes episcopis autclericis, gradu proprio penitus abiciantur.
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e453">
-          <head xml:id="gd-p2c11q1-Hd1e455">C. XXIV</head>
+          <head xml:id="gd-p2c11q1-Hd1e455">Caput 24</head>
           <head xml:id="gd-p2c11q1-Hd1e458" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q1-d1e461"> Item ex Concilio Tollet ano 234 *. </p>
-          <p xml:id="gd-p2c11q1-d1e464"> Si clerici aut monachi inuenti fuerint conspirantes, aut
+          <p xml:id="gd-p2c11q1-d1e464"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e475">Concilio Tolletano</ref>
+            Si clerici aut monachi inuenti fuerint conspirantes, aut
             per coniurationem calumpniam machinantes episcopis uel clericis, proprium amittant
             gradum. </p>
-          <p xml:id="gd-p2c11q1-d1e467"> XXV. De eodem. </p>
-          <p xml:id="gd-p2c11q1-d1e471"> Item ex Concilio Aurelianensi [III. c. 2i.] </p>
-          <p xml:id="gd-p2c11q1-d1e474"> Si qui clericorum (ut nuper in multis locis persuperbiam
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e480">
+          <head xml:id="gd-p2c11q1-Hd1e482">Caput 25</head>
+          <head xml:id="gd-p2c11q1-Hd1e484" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c11q1-d1e474"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e489">Concilio Aurelianensi [III. c. 2i.]</ref> 
+            Si qui clericorum (ut nuper in multis locis per superbiam
             diabolo instigante actum fuisse perpatuit)rebelli auctoritate se in unum coniuratione
             intercedentecollegerint, aut sacramenta inter se data, aut cartulamconscriptam fuisse
-            patuerit, nullis excusationibus presum-ptio labetur; sed res detecta, cum in
+            patuerit, nullis excusationibus presumptio labetur; sed res detecta, cum in
             sinodumuentum fuerit, in presumptores iuxta personam et ordinum qualitatem a
             pontificibus, qui tunc in unum collectifuerint, uindicetur, quia sicut karitas ex
             preceptis diuiniscorde, non cartulae conscriptione uel coniuratione s estexhibenda, ita
@@ -358,19 +403,25 @@
             reprimenda. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e478">
-          <head xml:id="gd-p2c11q1-Hd1e480">C. XXVI</head>
+          <head xml:id="gd-p2c11q1-Hd1e480">Caput 26</head>
           <head xml:id="gd-p2c11q1-Hd1e483" type="question-title"> Inter clericos et laicos causae
             exortae ah episcopis audiantur.</head>
-          <p xml:id="gd-p2c11q1-d1e486"> Item Innocentius Papa [ad Victricium Rothomagensem, epist.
-            II. cap. 3.] </p>
-          <p xml:id="gd-p2c11q1-d1e489"> Si que causae uel contentiones inter* clericos et laicos
+          <p xml:id="gd-p2c11q1-d1e489"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e503">Innocentius Papa [ad Victricium Rothomagensem, epist. II. cap. 3.]</ref>
+            Si que causae uel contentiones inter clericos et laicos
             tam superioris ordinis quam etiam inferiorisfuerint exortae, placuit, ut secundum
             sinodum Nicenamcongregatis omnibus eiusdem provinciae episcopis iudicium** terminetur. </p>
-          <p xml:id="gd-p2c11q1-d1e492"> Gratian. Cum ergo his omnibus auctoritatibus clerici ante
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e507">
+          <head xml:id="gd-p2c11q1-Hd1e509">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e492">
+            Cum ergo his omnibus auctoritatibus clerici ante
             ciuilem iudicem denegentur producendi, cum (nisi prius depositi, uel nudati fuerint)
             curiae non sunt representandi , patet, quod ad secularia iudicia clerici non sunt
-            pertrahendi . </p>
-          <p xml:id="gd-p2c11q1-d1e496"> II. Pars. §. i. His ita respondetur: Clerici ex offitio
+            pertrahendi. 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e496"> 
+            §. i. His ita respondetur: Clerici ex offitio
             sunt subpositi episcopo, ex possessionibus prediorum inperatori suntobnoxii. Ab episcopo
             unctionem, decimationes et primitias accipiunt; ab inperatore uero prediorum
             possessiones nanciscuntur. Unde Augustinus ait super Iohannem : „ Quo iure
@@ -378,58 +429,67 @@
             designatur inter ius naturae et ius constitutionis. Quia ergo ut predia possideantur
             inperiali legefactum est, patet, quod clerici ex prediorum possessionibus inperatori
             sunt obnoxii. </p>
-
-          <p xml:id="gd-p2c11q1-d1e499"> C. XXVII. Inperatori tributum denegare ecclesia non debet. </p>
-          <p xml:id="gd-p2c11q1-d1e502"> Item Ambrosius contra Auxentium , [in oratione de tradendis
-            basilicis.] </p>
-          <p xml:id="gd-p2c11q1-d1e505"> Si tributum petit inperator, non negamus: agri ecclesiae
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e518">
+          <head xml:id="gd-p2c11q1-Hd1e520">Caput 27</head>
+          <head xml:id="gd-p2c11q1-Hd1e522" type="question-title">Inperatori tributum denegare ecclesia non debet. </head>
+          <p xml:id="gd-p2c11q1-d1e525">
+            Item Ambrosius contra Auxentium , [in oratione de tradendis basilicis.] 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e505"> 
+            Si tributum petit inperator, non negamus: agri ecclesiae
             soluant tributum. Si agros desiderat inperator, potestatem habet uendicandorum. Tollat
-            eos, silibitum est: inperatori non dono, sed non nego. </p>
+            eos, silibitum est: inperatori non dono, sed non nego. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e509">
-          <head xml:id="gd-p2c11q1-Hd1e511">C. XXVIII</head>
-          <head xml:id="gd-p2c11q1-Hd1e514" type="question-title"> Potestatibus tributa non sunt
-            deneganda. Idem [in commentariis ad c. 5. Lucae lib. IV. c. penult.] </head>
-          <p xml:id="gd-p2c11q1-d1e517"> Magnum quidem est et spiritale documentum, quo Christiani
-            uiri sublimioribus potestatibus docenturdebere esse subiecti, ne quis constitutionem
+          <head xml:id="gd-p2c11q1-Hd1e511">Caput 28</head>
+          <head xml:id="gd-p2c11q1-Hd1e514" type="question-title"> Potestatibus tributa non sunt deneganda. </head>
+          <p xml:id="gd-p2c11q1-d1e517"> 
+            <ref xml:id="gd-p2c11q1-Rd1e541">Idem [in commentariis ad c. 5. Lucae lib. IV. c. penult.]</ref> 
+            Magnum quidem est et spiritale documentum, quo Christiani
+            uiri sublimioribus potestatibus docentur debere esse subiecti, ne quis constitutionem
             terreni regisputet esse soluendam. Si enim censum Filius Dei soluit, quis tu tantus es,
             qui non putas esse soluendum? </p>
-          <p xml:id="gd-p2c11q1-d1e520"> [Gratian.J Item Apostolus: „Omnis anima sublimioribus
-            potestatibus subdita sit.“ Item Petrus Apostolus generaliter fidelibus omnibus scribit:
-            , , Estote subditi dominis uestris siue regi, quasi precellenti, siue ducibus, tanquamab
-            eo missis ad uindictam malefactorum, laudem uerohonorum.“ </p>
+        </div>
+          <div xml:id="gd-p2c11q1-Dd1e545">
+            <head xml:id="gd-p2c11q1-Hd1e547">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e520">
+            Item Apostolus: "Omnis anima sublimioribus potestatibus subdita sit.“ Item Petrus Apostolus generaliter fidelibus omnibus scribit: "Estote subditi dominis uestris siue regi, quasi precellenti, siue ducibus, tanquamab
+            eo missis ad uindictam malefactorum, laudem uerohonorum.“ 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e524">
-          <head xml:id="gd-p2c11q1-Hd1e526">C. XXIX</head>
+          <head xml:id="gd-p2c11q1-Hd1e526">Caput 29</head>
           <head xml:id="gd-p2c11q1-Hd1e529" type="question-title"> De secularibus negotiis episcopus
             cognoscere non debet.</head>
-          <p xml:id="gd-p2c11q1-d1e532"> Item ex epist. [I.] Clementis [ad Iacobum fratrem Domini]. </p>
-          <p xml:id="gd-p2c11q1-d1e535"> Te quidem oportet inreprehensibiliter uiuere, et summo
+          <p xml:id="gd-p2c11q1-d1e535"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e564">epist. [I.] Clementis [ad Iacobum fratrem Domini].</ref> 
+            Te quidem oportet inreprehensibiliter uiuere, et summo
             studio niti, ut omnes uitae huius occupationes abicias:ne fideiussor existas, ne
             aduocatus litium fias, neue inulla aliqua occupatione prorsus inueniaris mundialis
             negotii occasione perplexus. Neque enim iudicem nequecognitorem secularium negotiorum
-            hodie te ordinare uultChristus, ne prefocatus presentibus hominum ctlris nonpossis uerbo
-            Dei uacare\ Hec ergo opera, que minustibi congruere diximus, exhibeant sibi inuicem
-            ua-cantes laici*, et te nemo occupet ab his studiis, per quesalus hominibus datur. </p>
+            hodie te ordinare uult Christus, ne prefocatus presentibus hominum ctlris non possis uerbo
+            Dei uacare Hec ergo opera, que minustibi congruere diximus, exhibeant sibi inuicem
+            uacantes laici, et te nemo occupet ab his studiis, per que salus hominibus datur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e539">
-          <head xml:id="gd-p2c11q1-Hd1e541">C. XXX</head>
+          <head xml:id="gd-p2c11q1-Hd1e541">Caput 30</head>
           <head xml:id="gd-p2c11q1-Hd1e544" type="question-title"> In his, que ad communis uitae
             usum pertinent, laici sibi inuicem operam dent.</head>
-          <p xml:id="gd-p2c11q1-d1e547"> Item ex eodem . </p>
-          <p xml:id="gd-p2c11q1-d1e550"> Sicut enim inpietatis crimen est tibi, o Clemens, neglectis
-            uerbi Dei studiis sollicitudines secularessuscipere, ita unicuique laicorum peccatum
-            est, nisi inuicem sibi etiam in his, que ad communis usum uitae per- </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e553"> t </p>
-          <p xml:id="gd-p2c11q1-d1e557"> tinent, operam fideliter dederint. Te uero securum facere
+          <p xml:id="gd-p2c11q1-d1e550"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e578">eodem.</ref> 
+            Sicut enim inpietatis crimen est tibi, o Clemens, neglectis
+            uerbi Dei studiis sollicitudines seculares suscipere, ita unicuique laicorum peccatum
+            est, nisi inuicem sibi etiam in his, que ad communis usum uitae pertinent, operam fideliter dederint. Te uero securum facere
             ex his, quibus non debes instare, omnes communiterelaborent. Quod si forte a semetipsis
             hoc laici non intelli-gunt, per diacones edocendi sunt, ut tibi solius
             ecclesiaesollicitudines relinquant. </p>
-          <p xml:id="gd-p2c11q1-d1e560"> Gratian. Ex his omnibus datur intelligi, quod in ciuili
+        </div>
+          <div xml:id="gd-p2c11q1-Dd1e582">
+            <head xml:id="gd-p2c11q1-Hd1e584">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e560">
+            Ex his omnibus datur intelligi, quod in ciuili
             causa clericus ante ciuilem iudicem est conueniendus. Sicut enimecclesiasticarum legum
             ecclesiasticus iudex est administrator, itaet ciuilium non nisi ciuilis debet esse
             executor. Sicut enim illesolus habet ius interpretandi canones, qui habet potestatem
@@ -438,59 +498,74 @@
             examinandus est. Et hoc est illud, quod legibus et canonibus supra diffinitum est, ut in
             criminaliuidelicet causa ante ciuilem iudicem nullus clericus producatur, nisi forte cum
             consensu episcopi sui ; ueluti, quando incorrigibilesinueniuntur , tunc detracto eis
-            offitio curiae tradendi sunt. </p>
+            offitio curiae tradendi sunt. 
+          </p>
           <p xml:id="gd-p2c11q1-d1e563"> Unde Fabianus Papa ait [ep. II. Episc. orientalibus]: </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e567">
-          <head xml:id="gd-p2c11q1-Hd1e569">C. XXXI</head>
+          <head xml:id="gd-p2c11q1-Hd1e569">Caput 31</head>
           <head xml:id="gd-p2c11q1-Hd1e572" type="question-title"> Qui episcopo insidiatur semotus a
             clero curiae tradatur.</head>
-          <p xml:id="gd-p2c11q1-d1e575"> Statuimus, ut, si quis clericorum suis episcopis infestus
+          <p xml:id="gd-p2c11q1-d1e575"> 
+            Statuimus, ut, si quis clericorum suis episcopis infestus
             aut insidiator extiterit, mox ante examinatum iudicium submotus a clero curiae tradatur,
-            cui diebus uitaesuae deseruiat, et infamis absque ulla spe restitutionispermaneat. </p>
-          <p xml:id="gd-p2c11q1-d1e578"> Gratian. Quia ergo iste non in criminali, sed in ciuili
-            causa clericum ante ciuilem iudicem produxit, non est iudican-dus transgressor canonum,
+            cui diebus uitaesuae deseruiat, et infamis absque ulla spe restitutionis permaneat. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e605">
+          <head xml:id="gd-p2c11q1-Hd1e60X">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e578">
+            Quia ergo iste non in criminali, sed in ciuili
+            causa clericum ante ciuilem iudicem produxit, non est iudicandus transgressor canonum,
             nec est dicendus pertraxisse reum adiudicem non suum, quia de ciuili causa non nisi
-            ciuilis iudexcognoscere debet. </p>
-          <p xml:id="gd-p2c11q1-d1e581"> III. Pars. §. i. Econtra ea, que in actoris defensione
+            ciuilis iudex cognoscere debet.
+          </p>
+          <p xml:id="gd-p2c11q1-d1e581">§. i. Econtra ea, que in actoris defensione
             dicta sunt, uerisimilia quidem uidentur, sed pondere carent.Sacris enim canonibus et
             forensibus legibus tam in ciuili quamin criminali causa clericus ad ciuilem iudicem
-            pertrahendusnegatur. </p>
+            pertrahendusnegatur. 
+          </p>
           <p xml:id="gd-p2c11q1-d1e585"> Unde in epist [I.] Clementis [ad Iacobum] legitur : </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e590">
-          <head xml:id="gd-p2c11q1-Hd1e592">C. XXXII</head>
+          <head xml:id="gd-p2c11q1-Hd1e592">Caput 32</head>
           <head xml:id="gd-p2c11q1-Hd1e595" type="question-title"> Apud presbiteros iudicentur
             fratres.</head>
           <p xml:id="gd-p2c11q1-d1e598"> Si qui ex fratribus negotia habeant inter se, apud
-            cognitores seculi non iudicentur, sed apud presbiterosecclesiae quicquid illud est
+            cognitores seculi non iudicentur, sed apud presbiteros ecclesiae quicquid illud est
             dirimatur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e602">
-          <head xml:id="gd-p2c11q1-Hd1e604">C. XXXIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e604">Caput 33</head>
           <head xml:id="gd-p2c11q1-Hd1e607" type="question-title"> Nullus clericus propter aliquam
             causam intret curiam.</head>
-          <p xml:id="gd-p2c11q1-d1e610"> Item Siluester Papa [in epilogo Concilii Romani] </p>
-          <p xml:id="gd-p2c11q1-d1e613"> Nullus clericus, uel presbiter uel diaconus, propter
-            quamlibet causam intret in curiam, nec ante ciuilem*iudicem causam dicere suam presumat. </p>
-
+          <p xml:id="gd-p2c11q1-d1e613"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e642">Siluester Papa [in epilogo Concilii Romani]</ref> 
+            Nullus clericus, uel presbiter uel diaconus, propter
+            quamlibet causam intret in curiam, nec ante ciuilem*iudicem causam dicere suam presumat. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e617">
-          <head xml:id="gd-p2c11q1-Hd1e619">C. XXXIV</head>
+          <head xml:id="gd-p2c11q1-Hd1e619">Caput 34</head>
           <head xml:id="gd-p2c11q1-Hd1e622" type="question-title"> Ecclesiasticum, non forense
             iudicium penitens expetat.</head>
-          <p xml:id="gd-p2c11q1-d1e625"> Item Leo Papa [ad Rusticum, epist. XC. al. XCII. c. 9.] </p>
-          <p xml:id="gd-p2c11q1-d1e628"> Aliud quidem est debita iusta reposcere, aliud propria
+          <p xml:id="gd-p2c11q1-d1e628"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e656">Leo Papa [ad Rusticum, epist. XC. al. XCII. c. 9.]</ref> 
+            Aliud quidem est debita iusta reposcere, aliud propria
             perfectionis amore contempnere. Sea illicitorumueniam postulantem oportet etiam a multis
-            licitis abstinere, dicente Apostolo : „ Omnia michi licent, sed nonomnia expediunt/*
+            licitis abstinere, dicente Apostolo : „Omnia michi licent, sed nonomnia expediunt/*
             Unde si quis penitens habetcausam, quam negligere forte non debeat, melius expetet
             ecclesiasticum quam forense iudicium. </p>
-          <p xml:id="gd-p2c11q1-d1e631"> Gratian. Non ait propter criminalem tantum, sed generaliter
-            propter quamlibet^, tam ciuilem quam criminalem in - telligens. </p>
-          <p xml:id="gd-p2c11q1-d1e635"> Item Theodosius Inperator**: </p>
+        </div>
+          <div xml:id="gd-p2c11q1-Dd1e660">
+            <head xml:id="gd-p2c11q1-Hd1e662">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e631">Non ait propter criminalem tantum, sed generaliter
+            propter quamlibet^, tam ciuilem quam criminalem intelligens. </p>
+          <p xml:id="gd-p2c11q1-d1e635">Item Theodosius Inperator: 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e639">
-          <head xml:id="gd-p2c11q1-Hd1e641">C. XXXV</head>
+          <head xml:id="gd-p2c11q1-Hd1e641">Caput XXXV</head>
           <head xml:id="gd-p2c11q1-Hd1e644" type="question-title"> Cuicumque liceat sacrosanctae
             sedis antistitis iudicium eligere. </head>
           <p xml:id="gd-p2c11q1-d1e647"> Quicumque litem habens, siue petitor fuerit, uel in initio
@@ -498,42 +573,48 @@
             promi sententia, si iudicium elegerit sacrosanctae legis antistitis, illico sine aliqua
             dubitatione, etiamsi alia pars refragatur, ad episcoporum iudicium cum sermone
             litigantium dirigatur*. </p>
-          <p xml:id="gd-p2c11q1-d1e650"> [C. XXXVI.] </p>
-          <p xml:id="gd-p2c11q1-d1e653"> Idem . </p>
-          <p xml:id="gd-p2c11q1-d1e657"> Omnes itaque causae, que pretorio uel ciuili iure
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e683">
+          <head xml:id="gd-p2c11q1-Hd1e685">Caput 36</head>
+          <p xml:id="gd-p2c11q1-d1e657">
+            <ref xml:id="gd-p2c11q1-Rd1e689">Idem.</ref> 
+            Omnes itaque causae, que pretorio uel ciuili iure
             tractantur, episcoporum sententiis terminatae perpetuostabilitatis iure firmentur, nec
             ulterius liceat retractari negocium, quod episcoporum sententia deciderit.Testimonium
             etiam, ab uno licet episcopo perhibitum, omnes iudices indubitanter accipiant, nec alius
             audiatur, cum testimonium ‘episcopi a qualibet parte fuerit repromissum. Illud enim
             ueritatis auctoritate firmatum, illudincorruptum habeatur, quod a sacrosancto homine
             conscientia mentis illibatae fuerit prolatum. Hoc nos edictosalubri firmamus, et
-            perpetua lege tenendum esse censemus s. </p>
-          <p xml:id="gd-p2c11q1-d1e660"> Gratian. Hec si quis antiquata contendat*, quia in
+            perpetua lege tenendum esse censemus s. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e693">
+          <head xml:id="gd-p2c11q1-Hd1e695">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e660">Hec si quis antiquata contendat*, quia in
             Iustiniani codice non inueniuntur inserta , per Karolumrenouata cognoscat, qui in suis
             Capitularibus, [ 1 . VI. c. 281., ] aitinter cetera : </p>
-          <p xml:id="gd-p2c11q1-d1e663"> [C. XXXVII.] </p>
-          <p xml:id="gd-p2c11q1-d1e666"> „ Volumus atque precipimus, ut omnes nostrae ditioni
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e702">
+          <head xml:id="gd-p2c11q1-Hd1e704">Caput 37</head>
+          <p xml:id="gd-p2c11q1-d1e666">„Volumus atque precipimus, ut omnes nostrae ditioni
             subiecti tam Romani quam Franci, Alemanni, Bawari, Saxo-nes, Toringi, Fresones, Galli,
-            Burgundiones, Britones, Longobardi, Guascones, Beneuentani, Gothi, Hispani, ceterique </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e669"> omnes nobis subiectis quocumque uideantur legis uinculo
-            stricti™^ uel consuetudinario conexi more , hanc sententiam , quam exsexto decimo
+            Burgundiones, Britones, Longobardi, Guascones, Beneuentani, Gothi, Hispani, ceterique 
+            omnes nobis subiectis quocumque uideantur legis uinculo
+            stricti uel consuetudinario conexi more , hanc sententiam , quam exsexto decimo
             Theodosii inperatoris libro , capitulo uidelicetundecimo , ac? interrogata Ablauii ducis
-            , awam Hiis ™ et omnibus per scripturam ™ misimus ™*, et 3*8 <span/> nostra capitula </p>
-          <p xml:id="gd-p2c11q1-d1e674"> pro lege tenenda consultu omnium fidelium nostrorum s,
-            posuimus , cuncti perpetua teneant , zd es*; Quicumque litem </p>
-          <p xml:id="gd-p2c11q1-d1e678"> habens , siue '^ petitor fuerit , e*c. w* supra. </p>
+            , awam Hiiset omnibus per scripturam misimus, et 3*8  nostra capitula 
+            pro lege tenenda consultu omnium fidelium nostrorum s,
+            posuimus , cuncti perpetua teneant , zd es*; Quicumque litem 
+            habens , siue '^ petitor fuerit , e*c. w* supra. </p>
           <p xml:id="gd-p2c11q1-d1e681"> Item Gregorius [lib. XI. epist. 54.] I oh anni defensori
             eunti in Yspaniam ammonendo efcV: </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e685">
-          <head xml:id="gd-p2c11q1-Hd1e687">C. XXXVIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e687">Caput 38</head>
           <head xml:id="gd-p2c11q1-Hd1e690" type="question-title"> Presbiter apud episcopum tantum
             iudicari debet. </head>
-          <p xml:id="gd-p2c11q1-d1e693"> De persona presbiteri hoc attendendum est, siquam causam
+          <p xml:id="gd-p2c11q1-d1e693"> 
+            De persona presbiteri hoc attendendum est, siquam causam
             habuerit, non ab alio teneri, sed episcopusipsius adiri debuit, sicut nouellarum
             constitutiomanifestat, que ita loquitur de sanctissimis et Deo amabilibus, ac
             reuerentissimis episcopis et clericis acmonachis: „Inp. Augustus IustinianusPetro
@@ -541,19 +622,22 @@
             monachum, aut diaconissam, autmonastriam, aut assistriam habet aliquam actionem, doceat
             prius sanctissimum episcopum, cui horum unusquisque subiaceat. Ille uero causam inter
             eos diiudicet.Et si quidem utraque pars his, que iudicata sunt, nonadquieuerit**,
-            iubemus per loci iudicem executioniperfecte contradi.“ §. 1. Ne uero obiciatur, quiahoc
+            iubemus per loci iudicem executioniperfecte contradi.“ 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e724">
+            §. 1. Ne uero obiciatur, quiahoc
             de clerico loquitur, non de presbitero, sciendum est, quia superius in eadem
             constitutione lib. L. cap. i.legitur appellatione clericorum etiam presbiteros
             etdiacones contineri. Verba autem legis ista sunt: „Presbiteros autem et diaconos, et p
             lectores et cantores, quos omnes clericos appellamus, “ et reliqua. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e697">
-          <head xml:id="gd-p2c11q1-Hd1e699">C. XXXIX</head>
+          <head xml:id="gd-p2c11q1-Hd1e699">Caput 39</head>
           <head xml:id="gd-p2c11q1-Hd1e702" type="question-title"> Clericus clericum ad publica
             iudicia non pertrahat.</head>
-          <p xml:id="gd-p2c11q1-d1e705"> Item Gregorius [lib. IX. epist. 32.] Romano , Defensori
-            Siciliae . </p>
-          <p xml:id="gd-p2c11q1-d1e708"> Peruenit ad nos, quod si quis contra quoslibet clericos
+          <p xml:id="gd-p2c11q1-d1e708"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e737">Gregorius [lib. IX. epist. 32.] Romano , Defensori Siciliae .</ref> 
+            Peruenit ad nos, quod si quis contra quoslibet clericos
             causam habeat, despectis eorum episcopis eosdem clericos tuo facias iudicio exhiberi.
             Quod si ita est, ualdeesse constat incongruum. Sed hac tibi auctoritate precipimus, ut
             hoc denuo facere non presumas; sed si quiscontra quemlibet clericum causam habuerit,
@@ -563,24 +647,24 @@
             tunc te interponere debes, ut intereos aut ipse cognoscas, aut certe te admonente sibi
             iudiceseligant. Nam si sua unicuique episcopo iurisdictio nonseruatur, quid aliud
             agitur, nisi ut per nos, per quos ecclesiasticus illes ordo custodiri debuit,
-            confundatur? etcetera . </p>
-
+            confundatur? et cetera . </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e713">
-          <head xml:id="gd-p2c11q1-Hd1e715">C. XL</head>
-          <head xml:id="gd-p2c11q1-Hd1e718" type="question-title"> A laicis iudicibus clerici non
-            sunt obprimendi. Idem Ianuario , Episc. Karalitano, [lib. III. epist. 26.] </head>
+          <head xml:id="gd-p2c11q1-Hd1e715">Caput 40</head>
+          <head xml:id="gd-p2c11q1-Hd1e718" type="question-title"> A laicis iudicibus clerici non 
+            sunt obprimendi. Idem Ianuario, Episc. Karalitano, [lib. III. epist. 26.] </head>
           <p xml:id="gd-p2c11q1-d1e721"> Fratris et coepiscopi nostri Felicis, et Quiriaci abbatis
             relatione cognouimus eo quod in insula Sardinia sacerdotes a laicis iudicibus
-            obprimantur, et fraternitatemtuam ministri tui despiciant, dumque solum simplicitatia
+            obprimantur, et fraternitatem tuam ministri tui despiciant, dumque solum simplicitatia
             uobis studetur, quantum uidemus disciplina negligitur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e725">
-          <head xml:id="gd-p2c11q1-Hd1e727">C. XLI</head>
+          <head xml:id="gd-p2c11q1-Hd1e727">Caput 41</head>
           <head xml:id="gd-p2c11q1-Hd1e730" type="question-title"> Sacerdotes a regibus sunt
             honorandi , non iudicandi. </head>
-          <p xml:id="gd-p2c11q1-d1e733"> Item Gregorius Mauricio [Imperatori, lib. IV. ep. 31.] </p>
-          <p xml:id="gd-p2c11q1-d1e736"> Sacerdotibus autem non ex terrena potestate dominus noster
+          <p xml:id="gd-p2c11q1-d1e736"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e763">Gregorius Mauricio [Imperatori, lib. IV. ep. 31.]</ref> 
+            Sacerdotibus autem non ex terrena potestate dominus noster
             citius indignetur, sed excellenti consideratione propter eum, cuius serui sunt, ita eis
             dominetur, ut etiamdebitam reuerentiam inpendat. Nam in diuinis eloquiissacerdotes
             aliquando Dii, aliquando angeli uocantur. Namet ad Moysen de eo, qui ad iuramentum
@@ -588,22 +672,22 @@
             scriptum est: „Diis non detrahes, “scilicet sacerdotibus. Et propheta ait: „Labia
             sacerdotis custodiunt scientiam, et legem requirunt exore eius, quia angelus Domini
             exercituum est.“ Quid igi-t445d mirum, si illos uestra pietas dignetur honorare, quibus
-            in suo eloquio honorem tribuens, eos aut angelos, aut Deos ipse etiam appellat Deus? §.
-            1. Ecclesiasticaquoque testatur ystoria, quia cum piae memoriae Constantino principi
+            in suo eloquio honorem tribuens, eos aut angelos, aut Deos ipse etiam appellat Deus? 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e766">
+            §. 1. Ecclesiasticaquoque testatur ystoria, quia cum piae memoriae Constantino principi
             scripto oblatae accusationes contraepiscopos fuissent, libellos quidem accusationis
             accepit, et eosdem, qui accusati fuerant, episcopos conuocans, in eorum conspectu
             libellos, quos acceperat, incendit, dicens: Ite, et inter uos causas uestras disponite,
             quia dignum non est ut noss iudicemus Deos. Inqua sententia sibi magis ex humilitate,
             quam illisaliquid prestitit ex reuerentia inpensa. Ante eumquippe pagani in republica
             principes fuerunt, qui uerumDeum nescientes deos ligneos et lapideos colebant, et
-            tameneorum sacerdotibus honorem maximum tribuebant. Quid </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e739"> igitur mirum, si Christianus inperator ueri Dei sacerdotes
+            tameneorum sacerdotibus honorem maximum tribuebant. Quid igitur mirum, si Christianus inperator ueri Dei sacerdotes
             honoret dum pagani, ut prediximus, principes honorem inpendere eorum sacerdotibus
-            nouerunt, qui ligneis Diis et lapideis seruiebant? §. 2. Hoc ergo* nontantum
+            nouerunt, qui ligneis Diis et lapideis seruiebant? 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e768">
+            §. 2. Hoc ergo nontantum
             specialiter, quantum generaliter pro omnibus asserimus sacerdotibus, quoniam adhuc
             nescimus quis in terribiliDei iudicio qualis futurus sit. Etenim Paulus egregius
             Predicator dicit? „ Nolite ante tempus iudicare, quoadus- q472 n ueniat Dominus, “ et
@@ -611,88 +695,110 @@
             laudatis ille reprehendit, et que uos reprehenditisille laudabit. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e743">
-          <head xml:id="gd-p2c11q1-Hd1e745">C. XLII</head>
+          <head xml:id="gd-p2c11q1-Hd1e745">Caput 42</head>
           <head xml:id="gd-p2c11q1-Hd1e748" type="question-title"> Qua pena feriatur clericus
             clericum ad secularia iudicia pertrahens.</head>
-          <p xml:id="gd-p2c11q1-d1e751"> Item ex Concilio Mileuitano *. </p>
-          <p xml:id="gd-p2c11q1-d1e754"> Inolita presumptio usque adeo illicitis ausibus
+          <p xml:id="gd-p2c11q1-d1e754"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e781">Concilio Mileuitano</ref> 
+            Inolita presumptio usque adeo illicitis ausibus
             aditumpatefecit, ut clerici clericos, relicto suo pontifice, adiudicia publica
             pertrahant. Proinde statuimus ut hocde cetero non presumatur. Si quis hoc
             presumpseritfacere, conuentus** et causam perdat, et a communione efficiatur extraneus.
           </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e758">
-          <head xml:id="gd-p2c11q1-Hd1e760">C. XLIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e760">Caput 43</head>
           <head xml:id="gd-p2c11q1-Hd1e763" type="question-title"> Clericus apud ciuilem iudicem
             indicari non debet.</head>
-          <p xml:id="gd-p2c11q1-d1e766"> Item ex Concilio Cartaginensi III. [c. 9.] </p>
-          <p xml:id="gd-p2c11q1-d1e769"> Placuit, ut quisquis episcoporum, presbiterorum
+          <p xml:id="gd-p2c11q1-d1e769"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e796">Concilio Cartaginensi III. [c. 9.]</ref> 
+            Placuit, ut quisquis episcoporum, presbiterorum
             etdiaconorum, seu clericorum, cum in ecclesia ei crimen fueritintentum, uel ciuilis
             causa fuerit conmota, si derelictoecclesiastico iudicio publicis iudiciis purgari
             uoluerit, etiamsiro ipso fuerit lata sententia, locum suum amittat. Etoc in criminali
             actione. In ciuili uero perdat quod euicit, si locum suum obtinere maluerit, siquidem*
             ad eligendos iudices inique de ecclesiae consortio iudicat qui deuniuersa ecclesia male
             sentiendo de iudicio seculari poscitauxilium, cum priuatorum etiam causas Apostolus
-            adecclesiam deferri atque ibi determinari precipiat. </p>
+            adecclesiam deferri atque ibi determinari precipiat. 
+          </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e773">
-          <head xml:id="gd-p2c11q1-Hd1e775">C. XLIV</head>
+          <head xml:id="gd-p2c11q1-Hd1e775">Caput 44</head>
           <head xml:id="gd-p2c11q1-Hd1e778" type="question-title"> Clericus non accusetur , nisi
             ante ecclesiasticum iudicem. </head>
-          <p xml:id="gd-p2c11q1-d1e781"> Item ex eodem*. </p>
-
-          <p xml:id="gd-p2c11q1-d1e784"> De diuersis ordinibus ecclesiae seruientibus si quis in
+          <p xml:id="gd-p2c11q1-d1e784"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e810">eodem</ref>
+            De diuersis ordinibus ecclesiae seruientibus si quis in
             causam criminis incurrerit, et abnuerit iudicium ecclesiasticum, debet periclitari. </p>
-          <p xml:id="gd-p2c11q1-d1e787"> C. XLV. Qm cum clerico litigium habet episcopum ipsius
-            adeat. </p>
-          <p xml:id="gd-p2c11q1-d1e791"> Item constitutio LXXIV. c. i. </p>
-          <p xml:id="gd-p2c11q1-d1e794"> Si quis cum clerico litigium habuerit, si quidem de causa
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e814">
+          <head xml:id="gd-p2c11q1-Hd1e81z">Caput 45</head>
+          <head xml:id="gd-p2c11q1-Hd1e818" type="question-title">Qm cum clerico litigium habet episcopum ipsius adeat.</head>
+          <p xml:id="gd-p2c11q1-d1e794"> 
+            Item <ref xml:id="gd-p2c11q1-Rd1e823">constitutio LXXIV. c. i.</ref>
+            Si quis cum clerico litigium habuerit, si quidem de causa
             pecuniaria, adeat prius episcopum, cuius iudicio clericus subpositus est. Ille autem
             sine dampno et sinedilatione conpetentem finem liti inpositurus est. Sin autemnoluerit*
             episcopus litem dirimere, tunc ad ciuiles iudices disceptatio causae perueniat. Ubi
             autem dirimere episcopus uult, sine scriptura omnia procedant, et diffinitiua sententia
-            ab eo sine scripturisferatur**. §. 1. Quod si de criminali+ causa litigiumemerserit,
+            ab eo sine scripturisferatur
+          </p>
+          <p xml:id="gd-p2c11q1-d1e826">
+            §. 1. Quod si de criminali+ causa litigiumemerserit,
             tunc conpetentes^ interpellati, consentaneumlegibus terminum causae inponant, ita tamen,
             ut disceptatio litis duorum mensium spatium non excedat, a litiscontestatione
-            numerandumff. [§. 2.] </p>
-        </div>
-        <div xml:id="gd-p2c11q1-Dd1e798">
-          <head xml:id="gd-p2c11q1-Hd1e800">[PALE A.</head>
-          <p xml:id="gd-p2c11q1-d1e803"> In criminalibus uero causis numquam sine scriptura
+            numerandumff. </p>
+          <p xml:id="gd-p2c11q1-d1e803"> 
+            [§. 2.]
+            In criminalibus uero causis numquam sine scriptura
             procedere debet.] </p>
           <p xml:id="gd-p2c11q1-d1e806"> Non autem aliter puniatur clericus, nisi obnoxius repertus
             sacerdotio nudatus fuerit ab episcopo suo uel clericatus honore. Sin autem crimen
-            ecclesiasticum est, tuncsecundum canones ab episcopo suo causae examinatio et </p>
-          <p xml:id="gd-p2c11q1-d1e809"> S ena procedat, nullam communionem aliis iudicibus in
-            uiusmodi causis habentibus. </p>
+            ecclesiasticum est, tunc secundum canones ab episcopo suo causae examinatio et 
+            pena procedat, nullam communionem aliis iudicibus in
+            huiusmodi causis habentibus. </p>
         </div>
-        <div xml:id="gd-p2c11q1-Dd1e814">
-          <head xml:id="gd-p2c11q1-Hd1e816">C. XLVI</head>
+        <div xml:id="gd-p2c11q1-Dd1e81g">
+          <head xml:id="gd-p2c11q1-Hd1e816">Caput 46</head>
           <head xml:id="gd-p2c11q1-Hd1e819" type="question-title"> Clericus aduersus clericum
-            negotium habens secularia iudicia non exerceat . </head>
-          <p xml:id="gd-p2c11q1-d1e822"> Item ex Concilio Calcedonensi , [c. 9.]Si clericus aduersus
-            clericum habet negotium, nonrelinquat suum episcopum et ad secularia iudicia concurrat,
-            sed prius negocium agitetur apud episcopumproprium; uel certe si fuerit* negocium ipsius
-            episcopi, apud arbitros ex utraque parte electos audiatur negocium.Si quis uero contra
-            hoc fecerit, canonum subiaceatcorrectionibus. §. 1. Et si clericus aduersus suum </p>
-
-
-
-
-          <p xml:id="gd-p2c11q1-d1e825"> seu534« alium episcopum habeat causam, apud audientiam
-            sinodi prouinciae conqueratur s. §. 2. Si uero contraipsius prouinciae metropolitanum
+            negotium habens secularia iudicia non exerceat.</head>
+          <p xml:id="gd-p2c11q1-d1e822"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e846">Concilio Calcedonensi , [c. 9.]</ref> 
+            Si clericus aduersus
+            clericum habet negotium, non relinquat suum episcopum et ad secularia iudicia concurrat,
+            sed prius negocium agitetur apud episcopum proprium; uel certe si fuerit negocium ipsius
+            episcopi, apud arbitros ex utraque parte electos audiatur negocium. Si quis uero contra
+            hoc fecerit, canonum subiaceat correctionibus.
+          </p>
+          <p xml:id="gd-p2c11q1-d1e849">
+            §. 1. Et si clericus aduersus suum 
+            seu534« alium episcopum habeat causam, apud audientiam
+            sinodi prouinciae conqueratur.
+          </p>
+          <p xml:id="gd-p2c11q1-d1e851">
+            §. 2. Si uero contraipsius prouinciae metropolitanum
             episcopum episcopussiue clericus habeat controuersiam, pergat ad ipsiusdiocesis
-            primates, aut certe ad Constantinopolitanaeciuitatis regiae sedem, ut eorum ibi negotium
+            primates, aut certe ad Constantinopolitanae ciuitatis regiae sedem, ut eorum ibi negotium
             terminetur. </p>
-          <p xml:id="gd-p2c11q1-d1e828"> [PALE A. </p>
-          <p xml:id="gd-p2c11q1-d1e832"> C. XLVII. Item ex Concilio Agatensi, c. 32.* </p>
-          <p xml:id="gd-p2c11q1-d1e835"> Clericum nullus presumat apud secularem iudicem episcopo
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e854">
+          <head xml:id="gd-p2c11q1-Hd1e856">Caput 47</head>
+          <p xml:id="gd-p2c11q1-d1e835"> 
+            Item ex <ref xml:id="gd-p2c11q1-Rd1e860">Concilio Agatensi, c. 32.</ref>
+            Clericum nullus presumat apud secularem iudicem episcopo
             non permittente pulsare. Sed si pulsatus fuerit, non respondeat, nec proponat, nec
             audeat criminalenegotium in iudicio seculari proponere.] </p>
-          <p xml:id="gd-p2c11q1-d1e838"> Gratian. Ex his omnibus datur intelligi, quod clericus ad
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e864">
+          <head xml:id="gd-p2c11q1-Hd1e866">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e838">
+            Ex his omnibus datur intelligi, quod clericus ad
             publica iudicia nec in ciuili, nec in criminali causa est producendus, nisi forte
             ciuilem causam episcopus decidere noluerit, uel incriminali sui honoris cingulo eum
-            nudauerit. §. 1. Illud autemquod in epistola Clementis dictum est: , , Non cognitorem
+            nudauerit. 
+          </p>
+          <p xml:id="gd-p2c11q1-d1e871">
+            §. 1. Illud autemquod in epistola Clementis dictum est: , , Non cognitorem
             secularium negotiorum te uult Deus esse, ex episcopali unctioneintelligendum est. Non
             enim in episcopum ungitur, ut cognitorsecularium negotiorum resideat, sed ut procurator
             animarum etdistributor spiritualium existat. Prohibetur ergo secularibus negotiis
@@ -708,28 +814,33 @@
           <p xml:id="gd-p2c11q1-d1e841"> Unde Adrianus Papa m 7 [c. 35.] </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e845">
-          <head xml:id="gd-p2c11q1-Hd1e847">C. XLVIII</head>
+          <head xml:id="gd-p2c11q1-Hd1e847">Caput 48</head>
           <head xml:id="gd-p2c11q1-Hd1e850" type="question-title"> Non nisi in foro suo clericus
             audiatur.</head>
           <p xml:id="gd-p2c11q1-d1e853"> Clericus siue laicus, si crimine aut lite pulsatus fuerit,
             non alibi quam in foro suo prouocatus audiatur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e857">
-          <head xml:id="gd-p2c11q1-Hd1e859">C. XL 1 X</head>
+          <head xml:id="gd-p2c11q1-Hd1e859">Caput 49</head>
           <head xml:id="gd-p2c11q1-Hd1e862" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c11q1-d1e865"> Idem^w [ibidem c. 40.] </p>
-          <p xml:id="gd-p2c11q1-d1e868"> In clericorum causa huiusmodi forma seruetur, utnequaquam
+          <p xml:id="gd-p2c11q1-d1e868"> 
+            <ref xml:id="gd-p2c11q1-Rd1e900">Idem [ibidem c. 40.]</ref>
+            In clericorum causa huiusmodi forma seruetur, utnequaquam
             eorum sententia non a suo iudice dictaconstringat. </p>
-          <p xml:id="gd-p2c11q1-d1e871"> Gratian. Pes uero in litigio posita ante legitimum
+        </div>
+        <div xml:id="gd-p2c11q1-Dd1e904">
+          <head xml:id="gd-p2c11q1-Hd1e906">Dictum</head>
+          <p xml:id="gd-p2c11q1-d1e87c">Pes uero in litigio posita ante legitimum
             cognitionis euentum in nullam omnino debet transferri personam. </p>
-          <p xml:id="gd-p2c11q1-d1e875"> Unde Gelasius Papa QuingesioW 6 * Episcopo: </p>
+          <p xml:id="gd-p2c11q1-d1e875"> Unde Gelasius Papa Quingesio Episcopo: </p>
 
         </div>
         <div xml:id="gd-p2c11q1-Dd1e879">
-          <head xml:id="gd-p2c11q1-Hd1e881">C. L</head>
+          <head xml:id="gd-p2c11q1-Hd1e881">Caput 50</head>
           <head xml:id="gd-p2c11q1-Hd1e884" type="question-title"> In nullam personam transferatur
             res in litigio posita ante cognitionis euentum.</head>
-          <p xml:id="gd-p2c11q1-d1e887"> Quia res in litigio posita in nullam transferri
+          <p xml:id="gd-p2c11q1-d1e887">
+            Quia res in litigio posita in nullam transferri
             potestomnino personam, donec legitimae cognitionis euentu, cuipotius debeatur,
             iudiciaria disceptatione possit agnosci, exeadem re quispiam non sinatur exigere
             pensiones, sed ineodem statu re eadem posita, in quo uidetur (sicut dictumest) ante

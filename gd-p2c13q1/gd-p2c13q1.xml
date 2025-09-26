@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,14 +54,18 @@
     <body>
       <div xml:id="gd-p2c13q1">
         <head xml:id="gd-p2c13q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c13q1-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c13q1-d1e109"> I. Pars. Quod priori ecclesiae hec omnia iure persoluenda
+        <div xml:id="gd-p2c13q1-Dd1e100">
+          <head xml:id="gd-p2c13q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c13q1-d1e109">
+          Quod priori ecclesiae hec omnia iure persoluenda
           sint , actores his argumentis probare contendunt . Constatunamquamque baptismalem
           ecclesiam habere diocesim sibi legitimeassignatam, sicut et parrochiales ecclesiae habent
-          parrochias distributas. </p>
+          parrochias distributas. 
+        </p>
         <p xml:id="gd-p2c13q1-d1e112"> Unde Dionisius Episcopus Seuero Episcopo, [ep. II.]: </p>
+        </div>
         <div xml:id="gd-p2c13q1-Dd1e115">
-          <head xml:id="gd-p2c13q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c13q1-Hd1e117">Caput 1</head>
           <head xml:id="gd-p2c13q1-Hd1e120" type="question-title"> Singuli sacerdotes proprias
             debent habere ecclesias.</head>
           <p xml:id="gd-p2c13q1-d1e123"> Ecclesias singulas singulis presbiteris dedimus; parrochias
@@ -71,32 +73,46 @@
             ut nullus alterius par-rochiae terminos aut ius inuadat, sed unusquisque terminissuis
             sit contentus, et taliter ecclesiam et plebem sibi con-missam custodiat, ut ante
             tribunal eterni iudicis ex omnibus sibi conmissis rationem reddat, et non iudicium,
-            sedgloriam pro suis actibus percipiat. </p>
-
-          <p xml:id="gd-p2c13q1-d1e126"> Gratian. In diocesi autem designata quecumque predia
+            sed gloriam pro suis actibus percipiat. </p>
+        </div>
+        <div xml:id="gd-p2c13q1-Dd1e123">
+          <head xml:id="gd-p2c13q1-Hd1e125">Dictum</head>
+          <p xml:id="gd-p2c13q1-d1e126">
+            In diocesi autem designata quecumque predia
             coluntur, prouentus decimationum baptismali ecclesiae assignatusdebet persolui . Quia
             ergo predia hec intra terminos nostraediocesis continentur, et prouentus decimationum
-            nobis legitimeassignatus nostrae persoluendas est ecclesiae. </p>
-          <p xml:id="gd-p2c13q1-d1e129"> II. Pars. §. 1. His ita respondetur: Decimae a Deo
+            nobis legitimeassignatus nostrae persoluendas est ecclesiae. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e129"> 
+            §. 1. His ita respondetur: Decimae a Deo
             constitutae sunt per Moysen, ut persoluerentur a populo filiis Leui pro ministerio, in
             quo deseruiebant ei in tabernaculo. Non accipiebant filii Leui decimas, nisi ab eis, pro
             quibus offerebantpreces et sacrificia. Quia ergo nos seruimus Domino in tabernaculo,
             offerendo pro istis preces et sacrificia, et ipsi debent nobispersoluere decimas et
-            primicias. §. 2. Item, cum decimae darentur filiis Leui, non electione offerentis
+            primicias. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e133">
+            §. 2. Item, cum decimae darentur filiis Leui, non electione offerentis
             persoluebantur, ut contempto Leuita, qui secum erat, ipse eligeret cui uellet decimas
             dare.Nam dictum est; „Leuita, qui tecum moratur et intra murosurbis tuae habitat,
             comedet eas. Ideo etiam ex singulistribubus duitates ad habitandum acceperunt, ut
             unaqueque tribusillis persolueret decimas, qui secum erant. Nam Moyses precepit filiis
             Israel, {sicut legitur in Deuteronomio): „In loco, quem elegerit dominus Deus uCster, ut
             sit nomen eius in eo, illuc omnia, quae precipio, conferetis holocausta, et hostias, et
-            decimas, et* primicias manuum uestrarum, et quicquid pre-cipuum est in muneribus % que
+            decimas, et primicias manuum uestrarum, et quicquid pre-cipuum est in muneribus % que
             uouistis Domino. Ibi epulabiminicoram Domino Deo uestro uos et filii ac filiae uestrae,
             famuli et famulae uestrae, atque Leuites\ qui in uestris urbibus conmorantur . Neque
-            enim habet aliam partem atquepossessionem inter uos . Et infra: §. 3. „ Decimam
+            enim habet aliam partem atquepossessionem inter uos . 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e135">
+            Et infra: §. 3. „ Decimam
             frumentiet uini et olei° primogenita armentorum et pecorum, etomnia, que uoueris, et
             sponte offerre nolueris, et primicias manuum tuarum coram Domino Deo tuo comedes ea in
             loco, quemelegerit Dominus Deus tuus, tu , et filius tuus, et filia tua, ser-uus et
-            ancilla p, atque Leuites qui manent in urbibustuis . §. 4. Quia ergo nos intra muros
+            ancilla p, atque Leuites qui manent in urbibustuis . 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e138">
+            §. 4. Quia ergo nos intra muros
             urbis istorum sedemus, et eis habitatione iuncti sumus, rite ab eis decimas
             accipimus.Item ait Propheta : „ Producens fenum iumentis, et herbamseruituti
             hominumFenum et herba ex terra producitur: sedquibus? iumentis rigantibus eam, hominibus
@@ -109,15 +125,10 @@
             fructuseius? Item precepit Dominus Moysi, ut nemo mittat falcemin alienam messem. Hec
             messis nostra est, et uos uultis in eamfalcem mittere? Item: „Non alligabis os boui
             trituranti . Nossumus boues triturantes: queritis uos alligare os nostrum, etde nostra
-            tritura uictum uobis queritis? Item Apostolus : „ Qui </p>
-
-
-
-
-          <p xml:id="gd-p2c13q1-d1e133"> altario seruiant de altario uiuantP Sed numquid de eo, cui
+            tritura uictum uobis queritis? Item Apostolus : „ Qui 
+            altario seruiant de altario uiuantP Sed numquid de eo, cui
             non seruiant ? Item: „ m sacrario operantur cum sacrarioparticipant. Sed numquid cum
-            illo, quo non operantur? </p>
-          <p xml:id="gd-p2c13q1-d1e136"> Nos seruimus altario, wo.9 g? participare uultis, nos uero
+            illo, quo non operantur? Nos seruimus altario, wo.9 g? participare uultis, nos uero
             uacuos et inanes dimittere queritis? Item Apostolus : „ Laborantemagricolam prius
             oportet suscipere de fructibus suis:“uos autem econtra queritis? Nos sumus agricolae
             laborantes, uos primum uultis percipere de fructibus nostris? immo non primum, quia nec
@@ -126,25 +137,41 @@
             agnum .“ Item : „ Quis umqam suis militat stipendiis? quis pascit gregem, et de lacte
             eius non edit?” Nos militamus: et uos stipendia nostraemiliciae uobis queritis? Nos
             gregem pascimus: et uos lac eius etlanam accipere uobis uultis? S aper e est de alieno
-            labore uic-tum querere, si sapere est uelle quod non possis. §. 5. ItemDominus dixit
+            labore uic-tum querere, si sapere est uelle quod non possis. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e140">
+            §. 5. Item Dominus dixit
             discipulis suis: „In quamcumque domum in-traueritis, in eadem manete, edentes et
             bibentes que apud illos sunt.Cum autem intraueritis, primum dicite: Pax huic domui.”
             iVosdomum hanc ingressi sumus, ei pacem obtulimus: uos autemalieno cibo quasi otiosi
             pasci gaudetis? Videte, ne in uobis uertatur illud: „Videtess quid faciat otium et
-            alienus cibus.§. 6. Item Propheta : „ Sumite psalmum et date tympanumPIsti a nobis
-            sumunt psalmum: et uos ab eis queritis tympanum? §. 7. Item Leo IV.: „De decimis non
+            alienus cibus.
+          </p>
+          <p xml:id="gd-p2c13q1-d1e142">
+            §. 6. Item Propheta : „ Sumite psalmum et date tympanumPIsti a nobis
+            sumunt psalmum: et uos ab eis queritis tympanum? 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e144">
+            §. 7. Item Leo IV.: „De decimis non
             tantum nobis, sed etiammaioribus iusto ordine uisum est plebibus tantum, ubi sacrosancta
-            baptismata dantur, debere dari §. 8. Quibus autemplebibus debentur? illis, a quibus
-            baptisma accipiunt, an aliis?Nos eos baptizamus, et uos ab eis decimas sumitis? Honesta
+            baptismata dantur, debere dari 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e146">
+            §. 8. Quibus autemplebibus debentur? illis, a quibus
+            baptisma accipiunt, an aliis? Nos eos baptizamus, et uos ab eis decimas sumitis? Honesta
             “ interpretatio est: utinam inueniatis qui sic pro uobis interpretentur. Quia nos ergo
             rigamus populum hunc, imbrem doctrinaeei ministrantes, quia colimus eum uomere
             predicationis, cordaeius ad fidem aperientes, si non uultis sinere, uel patimini^eum
             nobis fructificare, et qualia uobis fieri non uultis nobis inferre cauete, ne, si
-            pergitis dicere que uultis, audiatis que nonuultis. </p>
-          <p xml:id="gd-p2c13q1-d1e139"> III. Pars. §.9. Ad hec: Callida quidem et
+            pergitis dicere que uultis, audiatis que nonuultis. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e139">§. 9. Ad hec: Callida quidem et
             multipliciargumentatione nostra iura auferre contenditis, ita ut, si fidesuerbis
             adhiberetur; non uerba pro uerbis, sed res pro uerbis reportaretis. Sed Deo propicio, si
-            uerba dedistis, uerba recipietis. §. 10. Arguitis nos, quod ea, que uobis debentur,
+            uerba dedistis, uerba recipietis. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e152">
+            §. 10. Arguitis nos, quod ea, que uobis debentur,
             subripere que-rimus, quia nostra persequimur. Sapientis quidem et philosophico ore
             prolata sententia; suum persequi est aliena rapere?Unde ad uos hec sententia manauit,
             nisi quia tanto ardore nostraconcupiscitis, ut uestra putetis uobis auferri, cum nos
@@ -158,26 +185,31 @@
             diurna mercede accepta, prouenientes fructus dominisrelinquunt. Vos ergo recepta mercede
             uestri operis in cottidianisoblationibus, et aliis obsequiis, que pro spiritualibus, que
             a uobisaccipiunt, cottidie deferuntur prouenientes fructus decimationumet primiciarum
-            nobis relinquite. §. 11. Item precepit Dominusdiscipulis suis, ut comederent et biberent
+            nobis relinquite. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e154">§. 11. Item precepit Dominus discipulis suis, ut comederent et biberent
             ea, que apud auditoressuos erant, sed non iussit eis, ut dominos de (domibus suis
-            eicerent, </p>
-
-          <p xml:id="gd-p2c13q1-d1e142"> et rebus suis expoliarent . Non facile inuenies *s qui
-            tales </p>
-          <p xml:id="gd-p2c13q1-d1e145"> hospites libenter suscipiant. Mus in pera, ignis in sinu,
-            serpens in gremio male suos remunerant hospites. Unde in prouerbiisdicitur: „Qui
+            eicerent, et rebus suis expoliarent . Non facile inuenies *s qui
+            tales hospites libenter suscipiant. Mus in pera, ignis in sinu,
+            serpens in gremio male suos remunerant hospites. Unde in prouerbiis dicitur: „Qui
             serpentem in sinu suo nutrit, percutietur abeo.” Tales inueniatis uobis hospites, quales
             nobis esse uultis.Non sufficit uobis edere et bibere que in domo nostra sunt,
             dumcottidianos fructus oblationum percipitis, ex quibus uictum etuestitum habeatis,
             quibus cum Apostolo deberetis esse contenti; sed non uultis, quia imitatores eius non
             estis; potiusde 105 ww domo nostra expellere, et rebus nostris nos penitus expoliare
-            contenditis, dum nec etiam horum decimationes nobisrelinquere uultis, §.12. Ut autem
+            contenditis, dum nec etiam horum decimationes nobis relinquere uultis, 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e156">
+            §. 12. Ut autem
             uniuersaliter omnia colligantur, cuncta, que pro uobis inducta sunt, siue de laborante
             agricola, siue de eo, qui suis stipendiis non militat, ad hunc articulum deferimus, ut
             fructum uestri operis, quem adeo recipere contenditis, in oblationibus et cottidianis
             obsequiis istorum recipiatis, decimationes uero eorum, que nobis debentur, intactas
             nobis relinquite, ne, dum queritis usurpare quod uestrum non est, iustaanimaduersione
-            etiam illud cogamini amitterre, quod uobis aliquomodo uidebatur conpetere. §. 13. Quod
+            etiam illud cogamini amitterre, quod uobis aliquomodo uidebatur conpetere. 
+          </p>
+          <p xml:id="gd-p2c13q1-d1e158">
+            §. 13. Quod
             autem hae decimationesnullo iure uobis debeantur, facile probabimus yy. Dicitur enimin
             quodam concilio: „ 67 quis laicus, uel clericus, seuutriusque sexus persona proprietatis
             suae loca etc.” sicut in eodemcapitulo in causa monachorum notata inueniuntur. Si ergo

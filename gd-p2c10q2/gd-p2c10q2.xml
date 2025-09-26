@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,13 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p2c10q2">
-        <head xml:id="gd-p2c10q2-Hd1e103"> QUESTIO II. </head>
-        <p xml:id="gd-p2c10q2-d1e106"> I. Pars. Sed cum in episcoporum potestate facultates
+        <head xml:id="gd-p2c10q2-Hd1e103"> QUESTIO 2 </head>
+        <div xml:id="gd-p2c10q2-Dd1e100">
+          <head xml:id="gd-p2c10q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c10q2-d1e106">Sed cum in episcoporum potestate facultates
           ecclesiae constitutae esse dicantur , potestas dispensandi intelli-genda est , non
-          distrahendi uel dilapidandiK </p>
+          distrahendi uel dilapidandi </p>
         <p xml:id="gd-p2c10q2-d1e109"> Unde in Agat en si Concilio [c. 7.] legitur : </p>
+        </div>
         <div xml:id="gd-p2c10q2-Dd1e112">
-          <head xml:id="gd-p2c10q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c10q2-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c10q2-Hd1e117" type="question-title"> Res ecclesiae aliquo modo
             alienare episcopis non licet.</head>
           <p xml:id="gd-p2c10q2-d1e120"> Casellas uel mancipiola ecclesiae episcopi, sicut
@@ -76,16 +77,22 @@
             peregrinis uelclericis saluo iure ecclesiae in usum prestare permittimus. </p>
           <p xml:id="gd-p2c10q2-d1e123"> [Gratian.] Codicis lib. A de sacrosanctis ecclesiis , Inp.
             Iustinianus: excepta uidelicet causa captiuitatis. </p>
-
-          <p xml:id="gd-p2c10q2-d1e126"> [C. II.] Inp. Leo^. </p>
-          <p xml:id="gd-p2c10q2-d1e130"> Ea enim, que ad beatissimae ecclesiae iura pertinent,
+        </div>
+        <div xml:id="gd-p2c10q2-Dd1e126">
+          <head xml:id="gd-p2c10q2-Hd1e128">Caput 2</head>
+          <p xml:id="gd-p2c10q2-d1e130"> 
+            <ref xml:id="gd-p2c10q2-Rd1e132">Inp. Leo</ref>
+            Ea enim, que ad beatissimae ecclesiae iura pertinent,
             tamquam ipsam sacrosanctam et religiosam ecclesiam intacta uenerabili ter conuenit
             custodiri. </p>
-          <p xml:id="gd-p2c10q2-d1e133"> Constitutio noua. </p>
+          <p xml:id="gd-p2c10q2-d1e133">Constitutio noua. </p>
           <p xml:id="gd-p2c10q2-d1e136"> Hoc ius porrectum est ad omnem locum uenerabilem, omneque
             collegium, quod actio pia constituit, ut necpignorentur, et perpetuo seruentur" in hiss
             inmo-bilibus, que ab inperiali domo predictis locis applicantur.In ceteris eatenus
-            excipitur, si debitum urget. §. 1. Ethabet superflua uasa, nec aliunde soluere ualet,
+            excipitur, si debitum urget. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e141">
+            §. 1. Ethabet superflua uasa, nec aliunde soluere ualet,
             nequid inmobile alienetur uel distrahatur, ea, gestis habitiscoram eo, cuius est loci
             ordinatio, aliis scilicet locisuenerabilibus, uel conflata cuilibet uendantur. Quiautem
             hec accipitP citra q hanc obseruationem, his-dem penis subiaceat, que in rebus
@@ -101,20 +108,29 @@
             estimationis etaccedente consensu ordinatoris et maioris partis ibidemseruientium. Sit
             tamen ea res mediocris inter ceteras, inspecta ipsius qualitate, et quantitate, et
             onere. Et is creditor hic intelligatur, qui quod credidit probat in utilitates
-            religiosae domus processisse. §. 2. Sicut autemalienatio rerum ecclesiae interdicitur,
+            religiosae domus processisse. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e144">
+            §. 2. Sicut autem alienatio rerum ecclesiae interdicitur,
             ita prohibetur, ne quasterilis ei detur possessio aut alias onerosa, ueluti
-            nominefiscaliumy.§. 3. Item predium propter onus fisca </p>
-          <p xml:id="gd-p2c10q2-d1e139"> lium inutile alienatur gestis ut supra conficiendis,
+            nominefiscaliumy.
+          </p>
+          <p xml:id="gd-p2c10q2-d1e146">
+            §. 3. Item predium propter onus fiscalium inutile alienatur gestis ut supra conficiendis,
             eteodem iuramento prestito, id est quod alia de causa nonalienatur, nisi ut inmunitas
-            eiusdem uenerandae domusseruetur. §. 4. Sed et permutare principi possuntpro re maiori,
-            uel equali, si respublica hoc exposcit, pragmatica forma super hoc precedente. §. 5.
+            eiusdem uenerandae domusseruetur. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e148">
+            §. 4. Sed et permutare principi possuntpro re maiori,
+            uel equali, si respublica hoc exposcit, pragmatica forma super hoc precedente. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e150">
+            §. 5.
             Itemsibi inuicem recte permutant cum utriusque indempnitate, eorum scilicet consensu,
-            qui et supra referuntur. </p>
-
-
-
-
-          <p xml:id="gd-p2c10q2-d1e142"> II. Pars. §. 6. Perpetua quoque emphiteosis in hisrebus
+            qui et supra referuntur. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e142">
+            §. 6. Perpetua quoque emphiteosis in hisrebus
             permittitur, si res in eorum geritur^ presentia, quibus hoc assignatur lege, iurantibus
             his, quorum interest, exeo contractu nichil ad lesionem diuinae domus effici,
             solitoredditu ipsius rei, qui fuit, cum diuino iuri dedicaretur, non inminuendo nisi in
@@ -122,21 +138,34 @@
             emphi-teosim detur. Quod si res preciosa quidem est, parumtamen aut nichil prestet
             pensionis, res subtiliter esti-manda est, ut ex hoc iusta pensio constituatur. Eatamen
             sola dantur in emphiteosim, que ad hoc congruauidentur yconomo et aliis gubernatoribus.
+          </p>
+          <p xml:id="gd-p2c10q2-d1e155">
             §. 7. Qui remhuiusmodi conductam uel in emphiteosim acceptam feceritdeteriorem, aut
             canonem per biennium non soluerit, repelli pp potest, ut tamen , soluat totius temporis
             pensionem, et id, in quo rem lesit, resarciat , non repetiturus siquid inpendit nomine
-            meliorationis. §. 8. Si quas ueroruinas habent memoratae^ domus, quas reedincare
+            meliorationis. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e158">
+            §. 8. Si quas ueroruinas habent memoratae^ domus, quas reedincare
             nonualent in emphiteosim dentur perpetuam, emphiteotausuro materia depositae
             habitationis domus, ut pensiominuatur in tertiam partem ab ea, que stantibus
-            adhuchabitationibus colligebatur, aut, prius eo edifi-cante, ex additis illic per
-            estimationem pensionibus medietas detur religiosae domui. §. 9. Quiuero res iam dictas
+            adhuchabitationibus colligebatur, aut, prius eo edificante, ex additis illic per
+            estimationem pensionibus medietas detur religiosae domui. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e160">
+            §. 9. Quiuero res iam dictas
             non gratuito alienationis titulo citraformam legis accipit, rem quidem cum omni
             incrementomedii temporis restituat: eius autem, quod dedit, nullamaduersusyy uenerabilem
             locum, sed aduersus eum, quialienauit, actionem habeat. Donatarius autem et remcum omni
             causa restituat, et aliud tantum. Creditor quoque, restituta re pignorata, crediti
             actionemnon habet. Emphiteosis acceptor ab ea cadat, nec quod dedit repetat, imo statim
-            soluat quod soluturusesset, si iure contraxisset. §. 10. Sed melius dicituromnino
-            denegandas esse actiones huiusmodi acceptori. Cod. lib.I. de sacros. eccl.sgg Inp. Leo:
+            soluat quod soluturusesset, si iure contraxisset. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e162">
+            §. 10. Sed melius dicituromnino
+            denegandas esse actiones huiusmodi acceptori. Cod. lib. I. de sacros. eccl. sgg Inp. Leo:
+          </p>
+          <p xml:id="gd-p2c10q2-d1e164">
             §. 11. Si ycono-mus ecclesiae prospexerit expedire, ut cuiquam desideranti certarum
             possessionum atque prediorum (urbanorum uel rusticorum) ad ius ecclesiasticum
             pertinentium temporalis ususfructus possessio prestetur, eius tempus, quod inter
@@ -144,91 +173,109 @@
             cum eo, qui hoc elegerit, ineat yconomus, atque conscribat, per que et tempus, intra
             quod hoc prestari placuerit, statuatur, et manifestum sit quod quisque acceperit
             adinuicem. </p>
-
-          <p xml:id="gd-p2c10q2-d1e145"> [PALEA*. C. III. </p>
-          <p xml:id="gd-p2c10q2-d1e149"> Huiusmodi beneficii gratia prestando quidem ecclesiastici
+        </div>
+        <div xml:id="gd-p2c10q2-Dd1e167">
+          <head xml:id="gd-p2c10q2-Hd1e169">Caput 3</head>
+          <p xml:id="gd-p2c10q2-d1e149">
+            Huiusmodi beneficii gratia prestando quidem ecclesiastici
             predii pro tempore usumfructum, post statutum autem tempus et placitum ipsorum redditum
-            proprietatead dominium et ius ecclesiasticum recurrente firmiter.] </p>
+            proprietatead dominium et ius ecclesiasticum recurrente firmiter.] 
+          </p>
           <p xml:id="gd-p2c10q2-d1e152"> Conpleto uero spatio, quod inter eos fuerit constitutum,
             seu mortis suae tempore (si hoc quoque conuenerit) is, qui possessionem ecclesiasticam
             et ceterorumreddituum usumfructum habendi gratia pacto interuenientesusceperit, non
             minus quam alterius tantae quantitatis, quantae acceperat, redditus, cum ipsorum
             prediorumdominio, et rebus inmobilibus, eorumque colonis et mancipiis ecclesiae
             derelinquat. Nisi enim hac conditione pactainita fuerint, ea quoque non decernimus
-            ualere. §. 1. N. C.** Hec usus prestatio locum habet in omni domoreligiosa. Quo finito
+            ualere. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e177">
+            §. 1. N. C. Hec usus prestatio locum habet in omni domoreligiosa. Quo finito
             res utraque pleno iure perueniat indomum iam dictam, nec tributis quidem sit
-            grauatamaioribus ea res, que datur inuicem. §.2. Quibuscumque modis s aliis permittitur,
+            grauatamaioribus ea res, que datur inuicem. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e179">
+            §. 2. Quibuscumque modis s aliis permittitur,
             interdicitur certispersonis rem huiusmodi accipere, ut yconomo eiusquecognatis. </p>
         </div>
         <div xml:id="gd-p2c10q2-Dd1e156">
-          <head xml:id="gd-p2c10q2-Hd1e158">C. IV</head>
+          <head xml:id="gd-p2c10q2-Hd1e158">Caput 4</head>
           <head xml:id="gd-p2c10q2-Hd1e161" type="question-title"> Ecclesiasticarum rerum precariae
             qualiter fieri debeant.</head>
-          <p xml:id="gd-p2c10q2-d1e164"> Item ex Concilio Mediomatricis *. </p>
-          <p xml:id="gd-p2c10q2-d1e167"> Precariae a nemine de rebus ecclesiasticis fieri
-            presu-mantur, nisi quantum de qualitate conuenienti datur ex proprio, duplum accipiant
-            ex rebus ecclesiae, insuo tantum, qui dederunt, nomine, si res proprias etecclesiasticas
-            fructuario usu tenere uoluerint. Si autemres proprias ad presens dimiserint, ex rebus
+          <p xml:id="gd-p2c10q2-d1e167"> 
+            Item ex Concilio Mediomatricis. 
+            Precariae a nemine de rebus ecclesiasticis fieri
+            presumantur, nisi quantum de qualitate conuenienti datur ex proprio, duplum accipiant
+            ex rebus ecclesiae, insuo tantum, qui dederunt, nomine, si res proprias et ecclesiasticas
+            fructuario usu tenere uoluerint. Si autem res proprias ad presens dimiserint, ex rebus
             ecclesiasticis triplum fructuario usu in suo tantum quis nomine sumat, quia sic eas
-            quemque tractare, ut alienarum dispensatorem conuenit s, non propriarum </p>
-
-
-
-
-          <p xml:id="gd-p2c10q2-d1e170"> largitorem**. §. i. Decreuit etiam sancta sinodus, et
-            in-perialis auctoritas denunciat, ut® a nulla potestate quis cogatur facere precariam de
-            rebus Deo et Sanctis eiusdicatis, cum ratio et usus obtineat neminem cui nonuult contra
-            utilitatem et rationem cogi*** de proprio facerebeneficium. §. 2. Nec conmutationes
+            quemque tractare, ut alienarum dispensatorem conuenit s, non propriarum 
+            largitorem. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e194">
+            §. i. Decreuit etiam sancta sinodus, et
+            inperialis auctoritas denunciat, ut a nulla potestate quis cogatur facere precariam de
+            rebus Deo et Sanctis eius dicatis, cum ratio et usus obtineat neminem cui nonuult contra
+            utilitatem et rationem cogi de proprio facere beneficium. 
+          </p>
+          <p xml:id="gd-p2c10q2-d1e196">
+            §. 2. Nec conmutationes
             rerum uel mancipiorum ecclesiasticorum quelibet persona sine licentia etregio consensu
             facere presumat. </p>
         </div>
         <div xml:id="gd-p2c10q2-Dd1e175">
-          <head xml:id="gd-p2c10q2-Hd1e177"> C. V. De eodem.</head>
-
-          <p xml:id="gd-p2c10q2-d1e180"> Item ex Concilio Belluacensi. </p>
-          <p xml:id="gd-p2c10q2-d1e183"> Precariae de quinquennio in quinquennium secundum antiquam
+          <head xml:id="gd-p2c10q2-Hd1e177">Caput 5</head>
+          <head xml:id="gd-p2c10q2-Hd1e204" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c10q2-d1e183"> 
+            Item ex <ref xml:id="gd-p2c10q2-Rd1e209">Concilio Belluacensi.</ref> 
+            Precariae de quinquennio in quinquennium secundum antiquam
             consuetudinem et auctoritatem renouentur.] </p>
         </div>
         <div xml:id="gd-p2c10q2-Dd1e187">
-          <head xml:id="gd-p2c10q2-Hd1e189"> C. VI. De eodem. </head>
-          <p xml:id="gd-p2c10q2-d1e192"> Item ex Concilio Cartaginensi*. </p>
-          <p xml:id="gd-p2c10q2-d1e195"> De precariis, que a rectoribus ecclesiarum
-            inrationa-biliter fiebant, et se suosque successores pena graui obligabant, ut facta
+          <head xml:id="gd-p2c10q2-Hd1e189">Caput 6</head>
+          <head xml:id="gd-p2c10q2-Hd1e218" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c10q2-d1e195"> 
+            Item ex Concilio Cartaginensi. 
+            De precariis, que a rectoribus ecclesiarum
+            inrationabiliter fiebant, et se suosque successores pena graui obligabant, ut facta
             ipsorum nequiuissent dissoluere, precipimus, ut nemo successor in antecessoris sui pena
             sitobligatus, sed suae prouidentiae sit concessum, ut, si antecessor eius res ecclesiae
             inrationabiliter distribuit, ab eo adius ecclesiae eiusdem reuocentur.] </p>
         </div>
         <div xml:id="gd-p2c10q2-Dd1e199">
-          <head xml:id="gd-p2c10q2-Hd1e201">C. VII</head>
-          <head xml:id="gd-p2c10q2-Hd1e204" type="question-title"> Res ecclesiae dispensandi
+          <head xml:id="gd-p2c10q2-Hd1e201">Caput 7</head>
+          <head xml:id="gd-p2c10q2-Hd1e20z" type="question-title"> Res ecclesiae dispensandi
             potestatem habeat episcopus . </head>
-          <p xml:id="gd-p2c10q2-d1e207"> Item ex Concilio Martini Papae , [c. 16.] </p>
-          <p xml:id="gd-p2c10q2-d1e210"> III. Pars. Episcopus habeat potestatem in rebus ecclesiae,
+          <p xml:id="gd-p2c10q2-d1e210"> 
+            Item ex <ref xml:id="gd-p2c10q2-Rd1e235">Concilio Martini Papae , [c. 16.]</ref>
+            Episcopus habeat potestatem in rebus ecclesiae,
             ut dispenset necessitatem habentibus cum omni reuerentia et timore Dei. Participare
             etiam eum oportetque necessaria sunt. Si tamen ipse aut qui cum eo suntfratres
             indiguerint aliquo, ut necessitatem nullo modopatiantur, secundum Apostolum sanctum
             dicentem:, , Victu et tegumento, his contenti sumus." Si autemres ecclesiasticas
             episcopus in suas uoluntates usurpareuoluerit, aut fratribus uel filiis, uel
             quibuscumque propinquis suis dederit potestatem, ut per eos latenter resledantur
-            ecclesiae, hunc oportet obnoxium esse concilio;sin aliter *, episcopus uel qui cum eo
+            ecclesiae, hunc oportet obnoxium esse concilio;sin aliter , episcopus uel qui cum eo
             sunt presbiteri autdiaconi accusentur, quia ea, que ex redditu, uel ex quolibet actu**
             ecclesiae ueniunt, in suos usus colligunt, et pauperes fraudant et fame conficiunt, hos
-            corripioportet secundum quod ordinatum fuerit a sancto concilio. </p>
-
-          <p xml:id="gd-p2c10q2-d1e213"> IV. Pars. Gratian. Si uero contra hanc prohibitionemaliquam
-            de rebus ecclesiae episcopum uendere contigerit , etres ipsa ecclesiae restauranda , et
-            ipse a gradu suo eicien-duss decernitur. </p>
+            corripioport et secundum quod ordinatum fuerit a sancto concilio. </p>
+        </div>
+        <div xml:id="gd-p2c10q2-Dd1e239">
+          <head xml:id="gd-p2c10q2-Hd1e241">Dictum</head>
+          <p xml:id="gd-p2c10q2-d1e213">Si uero contra hanc prohibitionem aliquam
+            de rebus ecclesiae episcopum uendere contigerit, et res ipsa ecclesiae restauranda , et
+            ipse a gradu suo eicienduss decernitur. </p>
           <p xml:id="gd-p2c10q2-d1e217"> Unde in eodem Concilio Martini Papae , [c. 14.], legitur :
           </p>
         </div>
         <div xml:id="gd-p2c10q2-Dd1e221">
-          <head xml:id="gd-p2c10q2-Hd1e223">C. VIII</head>
+          <head xml:id="gd-p2c10q2-Hd1e223">Caput 8</head>
           <head xml:id="gd-p2c10q2-Hd1e226" type="question-title"> De episcopo , qui nulla
-            necessitate res ecclesiae uenditK </head>
+            necessitate res ecclesiae uendit </head>
           <p xml:id="gd-p2c10q2-d1e229"> Si quis episcopus nulla ecclesiasticae rationis necessitate
             conpulsus in suo clero*, aut ubi forte presbiter non est, de rebus ecclesiasticis
             presumpserit aliquid uendere, res ipsas ecclesiae propriae restaurare cogatur, et in
-            iudicioepiscoporum deiciatur auditus et conuictus**, et tamquam furti aut latrocinii
+            iudicio episcoporum deiciatur auditus et conuictus, et tamquam furti aut latrocinii
             reus suo priuetur honore. </p>
         </div>
       </div>

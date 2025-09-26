@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,60 +53,71 @@
     </front>
     <body>
       <div xml:id="gd-p2c14q3">
-        <head xml:id="gd-p2c14q3-Hd1e103"> QUESTIO III. </head>
-
-        <p xml:id="gd-p2c14q3-d1e106"> Quod autem preter summam emolumenta sectari sit usuras
+        <head xml:id="gd-p2c14q3-Hd1e103">QUESTIO 3</head>
+        <p xml:id="gd-p2c14q3-d1e106"> 
+          Quod autem preter summam emolumenta sectari sit usuras
           exigere, auctoritate Augustini probatur, qui in Psalmo XXXVI. [ad. uers. , , Tota die“]
           scribit dicens ; </p>
-
-
-
-
         <div xml:id="gd-p2c14q3-Dd1e109">
-          <head xml:id="gd-p2c14q3-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c14q3-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c14q3-Hd1e114" type="question-title"> Qui plus quam dederit expetit^,
             usuras accipit^ . </head>
           <p xml:id="gd-p2c14q3-d1e117"> Si feneraueris hominem , id est si tu mutuum g dederis
-            pecuniam tuam, a quo plus quam dedisti ex-pectes*, non pecuniam solam, sed aliquid plus
+            pecuniam tuam, a quo plus quam dedisti expectes, non pecuniam solam, sed aliquid plus
             quam dedisti, siue illud triticum sit, siue uinum, siue oleum, siue quodlibet aliud, si
             plus quam dedisti expectes accipere, fenerator es, et in hoc inprobandus, non laudandus.
           </p>
         </div>
         <div xml:id="gd-p2c14q3-Dd1e121">
-          <head xml:id="gd-p2c14q3-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c14q3-Hd1e123">Caput 2</head>
           <head xml:id="gd-p2c14q3-Hd1e126" type="question-title"> Quicquid supra datum exigitur,
             usura est.</head>
-          <p xml:id="gd-p2c14q3-d1e129"> Item Ieronimus super Ezechielem, lib. VI. </p>
-          <p xml:id="gd-p2c14q3-d1e132"> [ad. c. 18.] imputant quidam usuras tantum esse in pecunia.
-            Quod prouidens diuina scriptura omnis rei superhabundantiamaufert, ut plus non recipias
-            quam dedisti. Jtem: §. i.Alii pro pecunia fenerata solent munuscula diuersi
+          <p xml:id="gd-p2c14q3-d1e132"> 
+            Item <ref xml:id="gd-p2c14q3-Rd1e125">Ieronimus super Ezechielem, lib. VI. [ad. c. 18.]</ref> imputant quidam usuras tantum esse in pecunia.
+            Quod prouidens diuina scriptura omnis rei superhabundantiam aufert, ut plus non recipias
+            quam dedisti. 
+          </p>
+          <p xml:id="gd-p2c14q3-d1e128">
+            Item: §. 1. Alii pro pecunia fenerata solent munuscula diuersi
             generisaccipere, et non intelligunt scripturam usuram appellareet superhabundantiam
             quicquid illud est, si ab eo, quod dederint, plus acceperint. </p>
         </div>
         <div xml:id="gd-p2c14q3-Dd1e136">
-          <head xml:id="gd-p2c14q3-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c14q3-Hd1e138">Caput 3</head>
           <head xml:id="gd-p2c14q3-Hd1e141" type="question-title"> Quicquid sorti accidit usura est. </head>
-          <p xml:id="gd-p2c14q3-d1e144"> Item Ambrosius de Nabuihe. </p>
-          <p xml:id="gd-p2c14q3-d1e147"> Plerique refugientes precepta legis cum dederint pecuniam
+          <p xml:id="gd-p2c14q3-d1e147"> 
+            Item <ref xml:id="gd-p2c14q3-Rd1e141">Ambrosius de Nabuihe.</ref>
+            Plerique refugientes precepta legis cum dederint pecuniam
             negotiatoribus, non in pecunia usuras exigunt, sed de mercibus eorum tamquam usurarum
-            emolumenta percipiunt.Ideo audiant quid lex dicat: „Neque, inquit, usuram, escarum
-            accipies, neque omnium rerum.“ Item: §. i.Esca usura est, et uestis usura est, et
-            quodcumque sortiaccidit usura est; et quodcumque^ uelis ei nomeninponas, usura est.
-            litem : §.2. Si quis instaurandumconuiuium putet*, ad negociatorem mittit, ut
-            absinthiati*cupellam sibi gratis deferat, ad cauponem dirigit, utPicenum uinum aut
+            emolumenta percipiunt. Ideo audiant quid lex dicat: „Neque, inquit, usuram, escarum
+            accipies, neque omnium rerum.“ 
+          </p>
+          <p xml:id="gd-p2c14q3-d1e144">
+            Item: §. 1. Esca usura est, et uestis usura est, et
+            quodcumque sorti accidit usura est; et quodcumque^ uelis ei nomeninponas, usura est.
+            litem : 
+          </p>
+          <p xml:id="gd-p2c14q3-d1e146">
+            §. 2. Si quis instaurandum conuiuium putet, ad negociatorem mittit, ut
+            absinthiati cupellam sibi gratis deferat, ad cauponem dirigit, utPicenum uinum aut
             Tiriacum requirat; ad lanium, utuuluam sibi procuret; ad alium, ut sibi poma adornet.
           </p>
         </div>
         <div xml:id="gd-p2c14q3-Dd1e152">
-          <head xml:id="gd-p2c14q3-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c14q3-Hd1e154">Caput 4</head>
           <head xml:id="gd-p2c14q3-Hd1e157" type="question-title"> Quando amplius exigitur quam
             detur , usura accipitur . </head>
-          <p xml:id="gd-p2c14q3-d1e160"> Item ex Concilio Agat en si . </p>
-          <p xml:id="gd-p2c14q3-d1e163"> Usura est, ubi amplius requiritur quam quod datur. Verbi
+          <p xml:id="gd-p2c14q3-d1e163"> 
+            Item ex <ref xml:id="gd-p2c14q3-Rd1e160">Concilio Agatensi</ref>.
+            Usura est, ubi amplius requiritur quam quod datur. Verbi
             gratia, si solidos decem dederis, et amplius quesieris, uel dederis frumenti modium
             unum, etsuper aliquid exegeris. </p>
-          <p xml:id="gd-p2c14q3-d1e166"> Gratian. Ecce euidenter ostenditur, quod quicquid ultra
-            sortem exigitur usura est. </p>
+        </div>
+        <div xml:id="gd-p2c14q3-Dd1e164">
+          <head xml:id="gd-p2c14q3-Hd1e166">Dictum</head>
+          <p xml:id="gd-p2c14q3-d1e166">Ecce euidenter ostenditur, quod quicquid ultra
+            sortem exigitur usura est.
+          </p>
         </div>
       </div>
     </body>

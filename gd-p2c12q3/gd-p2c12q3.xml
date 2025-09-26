@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,66 +53,83 @@
     </front>
     <body>
       <div xml:id="gd-p2c12q3">
-        <head xml:id="gd-p2c12q3-Hd1e103"> QUESTIO III. </head>
-        <p xml:id="gd-p2c12q3-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c12q3-d1e109"> I. Pars. Nunc queritur, si ante tempus suae
-          ordinationisnichil habere uidebantur, quid de his fieri debeat, que post ordinationem suam
+        <head xml:id="gd-p2c12q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c12q3-Dd1e100">
+          <head xml:id="gd-p2c12q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c12q3-d1e109">Nunc queritur, si ante tempus suae
+          ordinationis nichil habere uidebantur, quid de his fieri debeat, que post ordinationem suam
           inuenisse noscuntur . </p>
-        <p xml:id="gd-p2c12q3-d1e112"> De his ita statutum est in Concilio Cartaginensi III. </p>
-        <p xml:id="gd-p2c12q3-d1e115"> [c. 49.2]: </p>
+        <p xml:id="gd-p2c12q3-d1e112"> De his ita statutum est in Concilio Cartaginensi III. 
+          [c. 49.2]: 
+        </p>
+        </div>
         <div xml:id="gd-p2c12q3-Dd1e119">
-          <head xml:id="gd-p2c12q3-Hd1e121">C. I</head>
+          <head xml:id="gd-p2c12q3-Hd1e121">Caput 1</head>
           <head xml:id="gd-p2c12q3-Hd1e124" type="question-title"> De his, qui, primum nichil
-            habentes, tempore suae administrationis aliqua adquirunt. </head>
-          <p xml:id="gd-p2c12q3-d1e127"> Placuit, ut episcopi, presbiteri, diaconi, uel quicumque
+            habentes, tempore suae administrationis aliqua adquirunt.</head>
+          <p xml:id="gd-p2c12q3-d1e127">
+            Placuit, ut episcopi, presbiteri, diaconi, uel quicumque
             clerici, qui nichil habentes ordinantur, et tempore episcopatus uel clericatus sui agros
-            uel quecumque predia suonomine conparant, tamquam rerum dominicarum inuasioniscrimine
+            uel quecumque predia suo nomine conparant, tamquam rerum dominicarum inuasionis crimine
             teneantur, nisi ammoniti ecclesiae eadem contulerint. Si autem ipsis proprie aliquid
-            liberalitate alicuius uel successione cognationis euenerit, faciant indequod eorum
-            proposito congruit. Quod si a suo propositoretrorsum exorbitauerint, honore
-            ecclesiastico indigni tanquam reprobi iudicentur. </p>
+            liberalitate alicuius uel successione cognationis euenerit, faciant inde quod eorum
+            proposito congruit. Quod si a suo proposito retrorsum exorbitauerint, honore
+            ecclesiastico indigni tanquam reprobi iudicentur. 
+          </p>
         </div>
         <div xml:id="gd-p2c12q3-Dd1e131">
-          <head xml:id="gd-p2c12q3-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c12q3-Hd1e133">Caput 2</head>
           <head xml:id="gd-p2c12q3-Hd1e136" type="question-title"> De ministris, qui nulla ecclesiae
             occasione, sed utilitate sui aliqua adquirunt. </head>
-          <p xml:id="gd-p2c12q3-d1e139"> Item ex Concilio Tolletano XI . </p>
-          <p xml:id="gd-p2c12q3-d1e142"> Quicumque de sacerdotibus uel ministris pro suiutilitate
+          <p xml:id="gd-p2c12q3-d1e142"> 
+            Item ex <ref xml:id="gd-p2c12q3-Rd1e133">Concilio Tolletano XI.</ref>
+            Quicumque de sacerdotibus uel ministris pro sui utilitate
             atque amicitia, quocumque modo, aut per scripturae seriem 'aliquid meruerint ab aliquo
             percipere, in rebus ecclesiae non poterit numerari, sed quod exinde uoluerint facere
-            ipsorum uoluntatis arbitrio subiacebit.Quod si hoc post eorum mortem inordinatum
+            ipsorum uoluntatis arbitrio subiacebit. Quod si hoc post eorum mortem inordinatum
             fortas.se remanserit, ecclesia, cui prefuit uel minister extitit, hoc sibiin perpetuum
             uendicabit. </p>
-          <p xml:id="gd-p2c12q3-d1e145"> Gratian. Ecce quod illa, que non ex offitio ecclesiastico,
-            sed ex aliqua prestatione suae utilitatis lucratus est, potest darequibus uoluerit. </p>
-          <p xml:id="gd-p2c12q3-d1e149"> II. Pars. §. i. Sed queritur de his, que sibi communitercum
-            ecclesia uel sequestratim pro remedio animae offeruntur, uelde tertia parte, quam de
-            rebus parrochialium ecclesiarum sibidebitam accipit, si ea potuerit 3 ° dimittere quibus
+        </div>
+        <div xml:id="gd-p2c12q3-Dd1e137">
+          <head xml:id="gd-p2c12q3-Hd1e139">Dictum</head>
+          <p xml:id="gd-p2c12q3-d1e145">
+            Ecce quod illa, que non ex offitio ecclesiastico,
+            sed ex aliqua prestatione suae utilitatis lucratus est, potest darequibus uoluerit.
+          </p>
+          <p xml:id="gd-p2c12q3-d1e149">§. i. Sed queritur de his, que sibi communitercum
+            ecclesia uel sequestratim pro remedio animae offeruntur, uel de tertia parte, quam de
+            rebus parrochialium ecclesiarum sibi debitam accipit, si ea potuerit 3 ° dimittere quibus
             uoluerit. </p>
           <p xml:id="gd-p2c12q3-d1e152"> De his ita diffinitur in Concilio Agat en si [c. 6.] ; </p>
         </div>
         <div xml:id="gd-p2c12q3-Dd1e156">
-          <head xml:id="gd-p2c12q3-Hd1e158">C. III</head>
+          <head xml:id="gd-p2c12q3-Hd1e158">Caput 3</head>
           <head xml:id="gd-p2c12q3-Hd1e161" type="question-title"> De pontificibus, quibus ab
             extraneis uel cum ecclesia, uel sequestratim aliquid dimittitur. </head>
-          <p xml:id="gd-p2c12q3-d1e164"> Pontifices, quibus in summo sacerdotio constitutis aliquid
-            ab extraneis aut cum ecclesia, aut sequestratimdimittitur, aut donatur, (quia hoc ille,
+          <p xml:id="gd-p2c12q3-d1e164">
+            Pontifices, quibus in summo sacerdotio constitutis aliquid
+            ab extraneis aut cum ecclesia, aut sequestratim dimittitur, aut donatur, (quia hoc ille,
             qui donat, pro redemptione animae suae, non pro commodo sacerdotis offerreprobatur), non
-            quasi suum proprium, sed quasi dimissumecclesiae inter facultates ecclesiae conputabunt,
+            quasi suum proprium, sed quasi dimissum ecclesiae inter facultates ecclesiae conputabunt,
             quiaiustum est, ut sicut sacerdos habet quod ecclesiae dimissum est, ita et ecclesia
-            habeat quod relinquitur sacerdoti. §. i. Sane quicquid per fideicommissum aut sacerdoti,
+            habeat quod relinquitur sacerdoti. 
+          </p>
+          <p xml:id="gd-p2c12q3-d1e163">
+            §. i. Sane quicquid per fideicommissum aut sacerdoti,
             aut ecclesiae fortasse dimittitur, cuicumque aliipostmodum profuturum, id inter
-            facultates suas ecclesiaconputare aut retinere non poterit. </p>
-
+            facultates suas ecclesiaconputare aut retinere non poterit.
+          </p>
         </div>
         <div xml:id="gd-p2c12q3-Dd1e168">
-          <head xml:id="gd-p2c12q3-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c12q3-Hd1e170">Caput 4</head>
           <head xml:id="gd-p2c12q3-Hd1e173" type="question-title"> Episcopus tertiam partem sibi
-            debitam ecclesiae relinquere poterit^.</head>
-          <p xml:id="gd-p2c12q3-d1e176"> Item ex Concilio Tolletano [IX., c. 6.] </p>
-          <p xml:id="gd-p2c12q3-d1e179"> Episcopus, si tertiam partem, quam de rebus parrochialium
+            debitam ecclesiae relinquere poterit</head>
+          <p xml:id="gd-p2c12q3-d1e179"> 
+            Item ex <ref xml:id="gd-p2c12q3-Rd1e176">Concilio Tolletano [IX., c. 6.]</ref>
+            Episcopus, si tertiam partem, quam de rebus parrochialium
             ecclesiarum sibi debitam nouit, ecclesiae, cuius res esse patebit, aut alteri ecclesiae,
-            conferre decre-uerit, licitum maneat, et inreuocabile robur eius sententiaferat. </p>
+            conferre decreuerit, licitum maneat, et inreuocabile robur eius sententia ferat.
+          </p>
         </div>
       </div>
     </body>
