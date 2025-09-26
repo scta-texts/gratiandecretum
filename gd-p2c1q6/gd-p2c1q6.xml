@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VI. </title>
+        <title> QUESTIO 6</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VI. </title>
+          <title> QUESTIO 6</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,60 +53,67 @@
     </front>
     <body>
       <div xml:id="gd-p2c1q6">
-        <head xml:id="gd-p2c1q6-Hd1e103"> QUESTIO VI. </head>
-
-        <p xml:id="gd-p2c1q6-d1e106"> Quid uero de his fieri debeat, qui ignoranter a symoniacis
-          ordinati sunt (quod sexto loco quesitum est), supra, in capitulouidelicet Urbani, quod sic
-          incipit: „Si qui a symoniacis nonsymoniace ordinati sunt requiratur. Nunc autem de
-          illisqueritur, qui non pro ordinatione pecunias offerunt, sed proelectione, ut uel
-          decretum electionis fiat, uel ut subscriptioneconfirmetur , uel ut electioni non
-          resistatur, aliquibus premialargiuntur, an eorum electio uiciosa sit indicanda? Non
-          enimuidentur Spiritus sancti donum emere qui non pro consecratione, sed pro electione
+        <head xml:id="gd-p2c1q6-Hd1e103"> QUESTIO 6</head>
+        <div xml:id="gd-p2c1q6-Dd1e100">
+          <head xml:id="gd-p2c1q6-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c1q6-d1e106">Quid uero de his fieri debeat, qui ignoranter a symoniacis
+          ordinati sunt (quod sexto loco quesitum est), supra, in capitulo uidelicet Urbani, quod sic
+          incipit: „Si qui a symoniacis non symoniace ordinati sunt requiratur. Nunc autem de
+          illis queritur, qui non pro ordinatione pecunias offerunt, sed proelectione, ut uel
+          decretum electionis fiat, uel ut subscriptione confirmetur , uel ut electioni non
+          resistatur, aliquibus premia largiuntur, an eorum electio uiciosa sit indicanda? Non
+          enim uidentur Spiritus sancti donum emere qui non pro consecratione, sed pro electione
           munera largiuntur, cum nullius spiritualis gratiae aliquos faciat electio participes. Sed
-          sicut ecclesiasticarumrerum emptores symoniaci iudicantur, quia ecclesiasticis offitiisita
+          sicut ecclesiasticarum rerum emptores symoniaci iudicantur, quia ecclesiasticis offitiis ita
           adiunctae sunt, ut alterum sine altero alicui non proueniat, ita, quia per electionem
-          uenitur ad consecrationem, perinde symo- niacus habetur, qui pro electione premia
+          uenitur ad consecrationem, perinde symoniacus habetur, qui pro electione premia
           largitur, ac si pro consecratione munera dedisset. </p>
-        <p xml:id="gd-p2c1q6-d1e109"> Unde Sim acus scribit Ce sario Episcopo, [epist. I. c. 5.]: </p>
-
+        <p xml:id="gd-p2c1q6-d1e109"> Unde Simacus scribit Cesario Episcopo, [epist. I. c. 5.]: </p>
+        </div>
         <div xml:id="gd-p2c1q6-Dd1e112">
-          <head xml:id="gd-p2c1q6-Hd1e114">C. I</head>
-          <head xml:id="gd-p2c1q6-Hd1e117" type="question-title"> Nec timore, nec premiis, nec
-            potentum suffragio episcopi subscribatur electioni . </head>
-          <p xml:id="gd-p2c1q6-d1e120"> Si quis autem episcopatum desiderat, data pecunia potentes
+          <head xml:id="gd-p2c1q6-Hd1e114">Caput 1</head>
+          <head xml:id="gd-p2c1q6-Hd1e117" type="question-title">Nec timore, nec premiis, nec
+            potentum suffragio episcopi subscribatur electioni.</head>
+          <p xml:id="gd-p2c1q6-d1e120">
+            Si quis autem episcopatum desiderat, data pecunia potentes
             personas minime suffragatrices sibi adhibeat, nec ad decretum sibi faciendum clericos,
             uel ciues ad subscribendum adhibito cuiuslibet generis timore conpellat, Uel premiis
-            quibuslibet exhortetur. </p>
+            quibuslibet exhortetur.
+          </p>
         </div>
         <div xml:id="gd-p2c1q6-Dd1e124">
-          <head xml:id="gd-p2c1q6-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c1q6-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c1q6-Hd1e129" type="question-title"> Symoniacus est, qui ut eligatur
             premia largitur.</head>
-          <p xml:id="gd-p2c1q6-d1e132"> Item Gregorius Salonis consistentibus, [lib. V. ep. 26.] </p>
-          <p xml:id="gd-p2c1q6-d1e135"> Ego autem uestrae dilectioni prouidens, et meae animae
-            omnipotentis Dei iudicium pertimescens, eiusdemMaximi causas subtiliter exquiri
+          <p xml:id="gd-p2c1q6-d1e135"> 
+            Item <ref xml:id="gd-p2c1q6-Rd1e133">Gregorius Salonis consistentibus, [lib. V. ep. 26.]</ref> 
+            Ego autem uestrae dilectioni prouidens, et meae animae
+            omnipotentis Dei iudicium pertimescens, eiusdem Maximi causas subtiliter exquiri
             desidero, si nullis criminibus pressus, que sacro ordini contradicunt, si non
             persymoniacam heresim, id est premia quibusdam se eligentibus prebendo, ad sacerdotale
-            pertingere conatur offitium.Tunc enim liber pro uobis apud Dominum intercessorerit, si
+            pertingere conatur offitium. Tunc enim liber pro uobis apud Dominum intercessorerit, si
             non obligatus de suis ad locum intercessionis uenerit. </p>
         </div>
         <div xml:id="gd-p2c1q6-Dd1e140">
-          <head xml:id="gd-p2c1q6-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c1q6-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c1q6-Hd1e145" type="question-title"> Sicut ordinatio, sic electio uel
-            consensus sine uenalitate debet preferri . </head>
-          <p xml:id="gd-p2c1q6-d1e148"> Item Gregorius Siagrio Episcopo Augustudunensi [et aliis
-            Episcopis, lib. VII. epist. no.] </p>
-          <p xml:id="gd-p2c1q6-d1e151"> Sicut is, qui inuitatus rennuit, quesitus refugit, sacris
+            consensus sine uenalitate debet preferri.</head>
+          <p xml:id="gd-p2c1q6-d1e151"> 
+            Item <ref xml:id="gd-p2c1q6-Rd1e147">Gregorius Siagrio Episcopo Augustudunensi [et aliis Episcopis, lib. VII. epist. no.] </ref>
+            Sicut is, qui inuitatus rennuit, quesitus refugit, sacris
             altaribus est admouendus, sic qui ultro ambit uel Oportunum se ingerit est proculdubio
-            repellendus. Nam qui sicnititur ad altiora conscendere, quid aliud agit, nisi ut
+            repellendus. Nam qui sic nititur ad altiora conscendere, quid aliud agit, nisi ut
             crescendo decrescat, et ascendendo exterius interius in profundum descendat? Itaque,
             frater karissime , in sacerdotibus ordinandis sinceritas uigeat; sit simplex ets
-            sineuenalitate consensus; pura preferatur electio, ut ad summam* sacerdotii non
+            sine uenalitate consensus; pura preferatur electio, ut ad summam* sacerdotii non
             suffragio uenditorum prouectus, sed Dei credatur iudicio esse. </p>
-          <p xml:id="gd-p2c1q6-d1e154"> Gratian. Si autem pecunia promissa fuerit uel soluta, electo
-            uel ordinato penitus ignorante, nec eo modo ad electionem uelordinationem peruenerit, ei
-            nullatenus obesse uidetur, nec adreatum criminis pertinet^ cuius conscientiam non
-            habuit, nec adelectionis uel ordinationis cassationem, ad quam alias non perprauam
+        </div>
+        <div xml:id="gd-p2c1q6-Dd1e152">
+          <head xml:id="gd-p2c1q6-Hd1e154">Dictum</head>
+          <p xml:id="gd-p2c1q6-d1e154">Si autem pecunia promissa fuerit uel soluta, electo
+            uel ordinato penitus ignorante, nec eo modo ad electionem uel ordinationem peruenerit, ei
+            nullatenus obesse uidetur, nec ad reatum criminis pertinet^ cuius conscientiam non
+            habuit, nec ad electionis uel ordinationis cassationem, ad quam alias non per prauam
             illorum cupiditatem peruenisse docetur. </p>
         </div>
       </div>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO III.</title>
+        <title>QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO III.</title>
+          <title>QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,13 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p2c5q3">
-        <head xml:id="gd-p2c5q3-Hd1e103">QUESTIO III.</head>
-        <p xml:id="gd-p2c5q3-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c5q3-Hd1e103">QUESTIO 3</head>
+        <div xml:id="gd-p2c5q3-Dd1e100">
+          <head xml:id="gd-p2c5q3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c5q3-d1e109"> Quod autem per procuratorem causam suam agere ualeat qui
           inpeditus causae suae adesse non ualet, auctoritate Romanae Sinodi , que tempore Adriani
           Papae celebrata est, probari uidetur, in qua [c. 5.] sic statutum legitur: </p>
+        </div>
         <div xml:id="gd-p2c5q3-Dd1e112">
-          <head xml:id="gd-p2c5q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c5q3-Hd1e117" type="question-title"> Pro se legatum ad sinodum mittat
             quem grauis necessitas premit.</head>
           <p xml:id="gd-p2c5q3-d1e120"> Si egrotans fuerit episcopus, aut aliqua eum grauis
@@ -70,34 +70,45 @@
             statutalitteris euocatus, minime occurrerit, hoc est (nisi aliena pre-occupauerit
             necessitas) infra spatium duorum uel triummensium, uel eo amplius, prout causa
             dictauerit. </p>
-          <p xml:id="gd-p2c5q3-d1e123"> [Gratian.] Codicis lib. IX. tit. de accusat, et inscript. [
-            1 .3.] Inp. AI ex an der : Reos capitalium criminum absentesetiam per procuratores
-            defendi leges publicorum iudicio-rum permittunt. </p>
-          <p xml:id="gd-p2c5q3-d1e126"> Gratian. §. 1. Ecce episcopus sz inpeditus et causae suae
+        </div>
+        <div xml:id="gd-p2c5q3-Dd1e120">
+          <head xml:id="gd-p2c5q3-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c5q3-d1e123">
+            <ref xml:id="gd-p2c5q3-Rd1e126">Codicis lib. IX. tit. de accusat, et inscript. [1 .3.] Inp. Alexander</ref>: 
+            Reos capitalium criminum absentesetiam per procuratores
+            defendi leges publicorum iudiciorum permittunt. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c5q3-Dd1e130">
+          <head xml:id="gd-p2c5q3-Hd1e132">Dictum</head>
+          <p xml:id="gd-p2c5q3-d1e126">§. 1. Ecce episcopus sz inpeditus et causae suae
             adesse non ualens, legatum pro se iubetur mittere ad sinodum. Sed legatus iste non ad
             causam agendam, sed ad necessitatem Sinodo exponendam mittitur, qua inpeditus
-            episcopusSinodo presentiam suam exhibere non ualuit . Causam autem(maxime criminalem)
-            nulli nisi per se agere licet. </p>
+            episcopus Sinodo presentiam suam exhibere non ualuit. Causam autem(maxime criminalem)
+            nulli nisi per se agere licet.</p>
           <p xml:id="gd-p2c5q3-d1e130"> Unde Adrianus Papa [c. 38.] ait: </p>
         </div>
         <div xml:id="gd-p2c5q3-Dd1e134">
-          <head xml:id="gd-p2c5q3-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c5q3-Hd1e136">Caput 2</head>
           <head xml:id="gd-p2c5q3-Hd1e139" type="question-title"> Criminaliter accusans uel
-            accusatus per se experiatur . </head>
-          <p xml:id="gd-p2c5q3-d1e142"> In criminalibus causis nec accusator, nisi per se, aliquem
-            accusare potest, nec accusatus per aliam personam se defendere permittitur. </p>
+            accusatus per se experiatur.</head>
+          <p xml:id="gd-p2c5q3-d1e142">
+            In criminalibus causis nec accusator, nisi per se, aliquem
+            accusare potest, nec accusatus per aliam personam se defendere permittitur.
+          </p>
         </div>
         <div xml:id="gd-p2c5q3-Dd1e147">
-          <head xml:id="gd-p2c5q3-Hd1e149">C. III</head>
+          <head xml:id="gd-p2c5q3-Hd1e149">Caput 3</head>
           <head xml:id="gd-p2c5q3-Hd1e152" type="question-title"> In omnibus causis, preterquam in
             criminalibus, episcopi et sacerdotes pro se aduocatum habeant. </head>
-          <p xml:id="gd-p2c5q3-d1e155"> Item Anacletus Papa*. </p>
-
-          <p xml:id="gd-p2c5q3-d1e158"> Quia episcopus uniuersique sacerdotes ad solam laudem Dei
+          <p xml:id="gd-p2c5q3-d1e158"> 
+            Item <ref xml:id="gd-p2c5q3-Rd1e164">Anacletus Papa.</ref>
+            Quia episcopus uniuersique sacerdotes ad solam laudem Dei
             bonorumque operum actionem constituuntur, debet unusquisque eorum tam pro
             ecclesiasticis, quametiam pro suis actionibus (excepto publico uidelicet crimine) habere
             aduocatum, non malae famae suspectum*sed bonae opinionis et laudabilis artis inuentum,
-            ne, dumhumana lucra attendunt, eterna premia perdant. </p>
+            ne, dum humana lucra attendunt, eterna premia perdant.
+          </p>
         </div>
       </div>
     </body>

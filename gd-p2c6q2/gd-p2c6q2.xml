@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -11,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -53,7 +53,7 @@
     </front>
     <body>
       <div xml:id="gd-p2c6q2">
-        <head xml:id="gd-p2c6q2-Hd1e103"> QUESTIO II. </head>
+        <head xml:id="gd-p2c6q2-Hd1e103">QUESTIO 2</head>
         <p xml:id="gd-p2c6q2-d1e106"> 
           Quod autem queritur, si episcopus accusationem in accusatorem
           uertere noluerit, an suae simplici assertioni fides sit habenda ? facile soluitur, si
@@ -62,7 +62,7 @@
           nisiconpetentes probationes adhibeat. 
         </p>
         <div xml:id="gd-p2c6q2-Dd1e112">
-          <head xml:id="gd-p2c6q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c6q2-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c6q2-Hd1e117" type="question-title"> Episcopus crimen alicui obiciens,
             in Sinodo probet quod obicit.</head>
           <p xml:id="gd-p2c6q2-d1e120"> 
@@ -73,16 +73,18 @@
                 ad probationem in sinodum.</quote>
             </cit> 
           </p>
+        </div>
+        <div xml:id="gd-p2c6q2-Dd1e124">
+          <head xml:id="gd-p2c6q2-Hd1e126">Dictum</head>
           <p xml:id="gd-p2c6q2-d1e123">
-            Gratian. Sed obicitur : Si se solum alieni sceleris conscium
+            Sed obicitur : Si se solum alieni sceleris conscium
             nouerit, probare illud testibus non ualet; quid ergo tunc sibi faciendum sit, ex <ref xml:id="gd-p2c6q2-Rd1e131">Concilio
             Vasensi\l . c. 8.]</ref> sic diffinitur: 
           </p>
         </div>
         <div xml:id="gd-p2c6q2-Dd1e127">
-          <head xml:id="gd-p2c6q2-Hd1e129">C. II</head>
-          <head xml:id="gd-p2c6q2-Hd1e132" type="question-title"> Episcopus non proferat quod
-            probare non potest. </head>
+          <head xml:id="gd-p2c6q2-Hd1e129">Caput 2</head>
+          <head xml:id="gd-p2c6q2-Hd1e132" type="question-title"> Episcopus non proferat quod probare non potest.</head>
           <p xml:id="gd-p2c6q2-d1e135"> 
             <cit>
               <quote xml:id="gd-p2c6q2-Qd1e148">
@@ -90,7 +92,7 @@
                 quamdiu probare non potest, nichil proferat, sed cum ipso ad conpunctionem eius secretis
                 correctionibus elaboret. Quod si forte correptus pertinacior fuerit, et se communioni
                 publicae ingesserit, etiam si episcopus in redarguendo illum, quem reum iudicat,
-                probatione deficiat, indempnatus* (licet his, qui nichil sciunt, secedere ad tempus pro
+                probatione deficiat, indempnatus (licet his, qui nichil sciunt, secedere ad tempus pro
                 personae maioris auctoritate iubeatur) ille tamen, quamdiu nichil probare potest, in
                 communione omnium, preterquam eius, qui eum reum iudicat, permanebit.
               </quote>
@@ -98,16 +100,15 @@
           </p>
         </div>
         <div xml:id="gd-p2c6q2-Dd1e140">
-          <head xml:id="gd-p2c6q2-Hd1e142">C. III</head>
-          <head xml:id="gd-p2c6q2-Hd1e145" type="question-title"> De episcopo, qui sibi soli dicit
-            aliquem suum crimen fuisse confessum.</head>
+          <head xml:id="gd-p2c6q2-Hd1e142">Caput 3</head>
+          <head xml:id="gd-p2c6q2-Hd1e145" type="question-title"> De episcopo, qui sibi soli dicit aliquem suum crimen fuisse confessum.</head>
           <p xml:id="gd-p2c6q2-d1e148">
             <cit>
               <quote xml:id="gd-p2c6q2-Qd1e166">
                 Placuit, ut si quando episcopus dicit aliquem sibi soli
                 proprium crimen fuisse confessum, atque ille neget, non putet ad iniuriam suam episcopus
                 pertinere, quod illi soli non creditur. Et si scrupulo propriae conscientiae se
-                dicit neganti nolle communicare*, quamdiu excommunicato non communicauerit suus episcopus,
+                dicit neganti nolle communicare, quamdiu excommunicato non communicauerit suus episcopus,
                 eidem episcopo ab aliis non communicetur episcopis, ut magis caueat episcopus, ne dicat
                 in quemquam quod aliis documentis conuincere non potest.
               </quote>

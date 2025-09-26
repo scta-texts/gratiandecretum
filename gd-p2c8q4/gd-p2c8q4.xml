@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO IV.</title>
+        <title>QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO IV.</title>
+          <title>QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,17 +53,23 @@
     </front>
     <body>
       <div xml:id="gd-p2c8q4">
-        <head xml:id="gd-p2c8q4-Hd1e103">QUESTIO IV.</head>
+        <head xml:id="gd-p2c8q4-Hd1e103">QUESTIO 4</head>
+        <div xml:id="gd-p2c8q4-Dd1e100">
+          <head xml:id="gd-p2c8q4-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c8q4-d1e106"> Quod autem ante clericis tempus sententiae ab episcopo suo
-          discedere non liceat, probatur auctoritate S imae i* Papae, dicentis: </p>
+          discedere non liceat, probatur auctoritate Simae i Papae, dicentis: </p>
+        </div>
         <div xml:id="gd-p2c8q4-Dd1e109">
-          <head xml:id="gd-p2c8q4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c8q4-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c8q4-Hd1e114" type="question-title"> Ante tempus sententiae non licet
-            clericis ab episcopo suo discedere . </head>
-          <p xml:id="gd-p2c8q4-d1e117"> Nonne directa sunt uerba canonum**: „Qui clericorum ab
+            clericis ab episcopo suo discedere.</head>
+          <p xml:id="gd-p2c8q4-d1e117"> Nonne directa sunt uerba canonum: „Qui clericorum ab
             episcopo suo ante tempus sententiae pro dubia suspicione discesserit, manifestam in eum
-            manere censuram?“ §. i. Lex enim ecclesiastica pontificem ab aliisaccusatum prius, quam
-            sub luce obiecta constiterint exigitnon relinqui. </p>
+            manere censuram?“ 
+          </p>
+          <p xml:id="gd-p2c8q4-d1e119">
+            §. i. Lex enim ecclesiastica pontificem ab aliis accusatum prius, quam
+            sub luce obiecta constiterint exigit non relinqui. </p>
         </div>
       </div>
     </body>

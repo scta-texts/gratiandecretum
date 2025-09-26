@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO III</title>
+        <title>QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO III</title>
+          <title>QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,102 +53,111 @@
     </front>
     <body>
       <div xml:id="gd-p2c2q3">
-        <head xml:id="gd-p2c2q3-Hd1e103">QUESTIO III</head>
-        <p xml:id="gd-p2c2q3-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c2q3-d1e109"> I. Pars. Qua autem pena feriendi sint qui in accusatione
+        <head xml:id="gd-p2c2q3-Hd1e103">QUESTIO 3</head>
+        <div xml:id="gd-p2c2q3-Dd1e100">
+          <head xml:id="gd-p2c2q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c2q3-d1e109">
+          Qua autem pena feriendi sint qui in accusatione
           deficiunt, canonum censura diffinit. Penam enim illati criminiscum dispendio
-          existimationis excipient . </p>
-        <p xml:id="gd-p2c2q3-d1e112"> Unde Gaius * Papa%: </p>
+          existimationis excipient. 
+        </p>
+        <p xml:id="gd-p2c2q3-d1e112">Unde Gaius Papa: </p>
+        </div>
         <div xml:id="gd-p2c2q3-Dd1e115">
-          <head xml:id="gd-p2c2q3-Hd1e117">C. I</head>
-          <head xml:id="gd-p2c2q3-Hd1e120" type="question-title"> De his--, qui non probanda
-            obiciunt.</head>
+          <head xml:id="gd-p2c2q3-Hd1e117">Caput 1</head>
+          <head xml:id="gd-p2c2q3-Hd1e120" type="question-title"> De his, qui non probanda obiciunt.</head>
+          
           <p xml:id="gd-p2c2q3-d1e123"> Si quis circa huiusmodi personas non probanda detulerit,
             auctoritate huius sanctionis intelligat se iacturam infamiae sustinere, ut dampno
-            pudoris et estimationisdispendio discat, sibi alienae uerecundiae inpune insidiarisaltim
-            de cetero non licere. </p>
+            pudoris et estimationis dispendio discat, sibi alienae uerecundiae inpune insidiari saltim
+            de cetero non licere.</p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e128">
-          <head xml:id="gd-p2c2q3-Hd1e130">C. II</head>
-          <head xml:id="gd-p2c2q3-Hd1e133" type="question-title"> Si accusator in accusatione
-            defecerit , talionem recipiat . </head>
-          <p xml:id="gd-p2c2q3-d1e136"> Item Damasus Papa [ad Stephanum Archiepiscopum, epist.
-            III.]* </p>
-          <p xml:id="gd-p2c2q3-d1e139"> Calumpniator, si in accusatione defecerit, talionem
-            recipiat. </p>
+          <head xml:id="gd-p2c2q3-Hd1e130">Caput 2</head>
+          <head xml:id="gd-p2c2q3-Hd1e133" type="question-title">Si accusator in accusatione defecerit, talionem recipiat.</head>
+          <p xml:id="gd-p2c2q3-d1e139"> 
+            Item <ref xml:id="gd-p2c2q3-Rd1e133">Damasus Papa [ad Stephanum Archiepiscopum, epist. III.]</ref> 
+            Calumpniator, si in accusatione defecerit, talionem recipiat. </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e143">
-          <head xml:id="gd-p2c2q3-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c2q3-Hd1e145">Caput 3</head>
           <head xml:id="gd-p2c2q3-Hd1e148" type="question-title">De eodem.</head>
-
-          <p xml:id="gd-p2c2q3-d1e151"> Item ex decreto Adriani Papae [in capitulis ab ipso
-            collectis, c. 52. in medio] . </p>
-          <p xml:id="gd-p2c2q3-d1e154"> Qui non probauerit quod obiecerit, penam, quam ipse
-            intulerit, patiatur. </p>
+          <p xml:id="gd-p2c2q3-d1e154">
+            <ref xml:id="gd-p2c2q3-Rd1e147">Item ex decreto Adriani Papae [in capitulis ab ipso collectis, c. 52. in medio] .</ref> 
+            Qui non probauerit quod obiecerit, penam, quam ipse intulerit, patiatur. 
+          </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e158">
-          <head xml:id="gd-p2c2q3-Hd1e160">C. IV</head>
-          <head xml:id="gd-p2c2q3-Hd1e163" type="question-title"> De his, qui falsis criminibus
+          <head xml:id="gd-p2c2q3-Hd1e160">Caput 4</head>
+          <head xml:id="gd-p2c2q3-Hd1e163" type="question-title">De his, qui falsis criminibus
             aliquem inpetunt. </head>
-          <p xml:id="gd-p2c2q3-d1e166"> Item *. </p>
-
-          <p xml:id="gd-p2c2q3-d1e169"> Si quis episcopum, aut presbiterum, aut diaconem falsis
+          <p xml:id="gd-p2c2q3-d1e169">
+            <ref xml:id="gd-p2c2q3-Rd1e162">Item</ref> 
+            Si quis episcopum, aut presbiterum, aut diaconem falsis
             criminibus appetierit, et probare non potuerit, necin finem ** dandam ei communionem
             censemus. </p>
-          <p xml:id="gd-p2c2q3-d1e172"> II. Pars. Gratian. Aliud est accusationem non inplere, et
+        </div>
+        <div xml:id="gd-p2c2q3-Dd1e166">
+          <head xml:id="gd-p2c2q3-Hd1e168">Dictum</head>
+          <p xml:id="gd-p2c2q3-d1e172">Aliud est accusationem non inplere, et
             aliud conuicium non probare. Illud enim nulli sine abolitione, lioc omnibus licet. </p>
           <p xml:id="gd-p2c2q3-d1e176"> Unde Fabianus Papa [ad Hilarium Episcopum, epist. III.]:
           </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e180">
-          <head xml:id="gd-p2c2q3-Hd1e182">C. V</head>
+          <head xml:id="gd-p2c2q3-Hd1e182">Caput 5</head>
           <head xml:id="gd-p2c2q3-Hd1e185" type="question-title"> Conuicium non est pro accusatione
             habendum.</head>
           <p xml:id="gd-p2c2q3-d1e188"> Si quis iratus crimen cuilibet temere obieceritconuicium non
             est pro accusatione habendum, sed permisso tractandi spatio id, quod iratus dixit, per
             scripturamse probaturum esse fateatur, ut, si forte resipiscensque per iracundiam dixit
             iterare aut scribere noluerit, non ut reus criminis teneatur. </p>
-          <p xml:id="gd-p2c2q3-d1e191"> III. Pars. Gratian. Sed aliud est crimen illatum nonposse
-            probare*, aliud est aliqua promissione accusationemdeserere. Huic enim, qui promissione
-            ** deceptus accusationemdeserit, uenia datur ; illi uero, qui crimen illatum probare
-            nonuoluerit, infamia irrogatur . </p>
-          <p xml:id="gd-p2c2q3-d1e194"> Unde B. Gregorius scribit I oh an ni Corintiorum Episcopo,
+        </div>
+        <div xml:id="gd-p2c2q3-Dd1e189">
+          <head xml:id="gd-p2c2q3-Hd1e191">Dictum</head>
+          <p xml:id="gd-p2c2q3-d1e191">Sed aliud est crimen illatum non posse
+            probare, aliud est aliqua promissione accusationem deserere. Huic enim, qui promissione
+            deceptus accusationem deserit, uenia datur ; illi uero, qui crimen illatum probare
+            nonuoluerit, infamia irrogatur.</p>
+          <p xml:id="gd-p2c2q3-d1e194">Unde B. Gregorius scribit I oh an ni Corintiorum Episcopo,
             [lib. IV. epist. 50.]: </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e198">
-          <head xml:id="gd-p2c2q3-Hd1e200">C. VI</head>
+          <head xml:id="gd-p2c2q3-Hd1e200">Caput 6</head>
           <head xml:id="gd-p2c2q3-Hd1e203" type="question-title"> De eo, qui promissione illectus ab
-            accusatione desistit . </head>
-          <p xml:id="gd-p2c2q3-d1e206"> Paulum itaque diaconum quamuis culpa sua uehemen-ter
+            accusatione desistit.</head>
+          <p xml:id="gd-p2c2q3-d1e206">Paulum itaque diaconum quamuis culpa sua uehemen-ter
             confundat, quod deceptus promissione ab accusatione sui episcopi destiterit, tamen hanc
             ei culpam ignoscimus. </p>
-          <p xml:id="gd-p2c2q3-d1e209"> [PALEA. </p>
-          <p xml:id="gd-p2c2q3-d1e212"> Omnis* igitur, qui crimen obicit, scribat se probaturum.
+          <p xml:id="gd-p2c2q3-d1e212">Omnis igitur, qui crimen obicit, scribat se probaturum.
             Reuera ibi semper causa agitur, ubi crimen admittitur; etqui non probauerit quod
             obiecit, penam, quam intulerit, ipse patiatur.] </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e216">
-          <head xml:id="gd-p2c2q3-Hd1e218">C. VII</head>
-          <head xml:id="gd-p2c2q3-Hd1e221" type="question-title"> De his M a-, qui accusationem
-            deserunt, ut ecclesiasticos ordines accipiant . </head>
-          <p xml:id="gd-p2c2q3-d1e224"> Idem . </p>
-          <p xml:id="gd-p2c2q3-d1e227"> Eufemium atque Tomam, qui pro deserenda accusa- </p>
-
-
-
-
-          <p xml:id="gd-p2c2q3-d1e230"> tione episcopi sui* sacros ordines acceperunt,
+          <head xml:id="gd-p2c2q3-Hd1e218">Caput 7</head>
+          <head xml:id="gd-p2c2q3-Hd1e221" type="question-title">De his M a-, qui accusationem
+            deserunt, ut ecclesiasticos ordines accipiant.</head>
+          <p xml:id="gd-p2c2q3-d1e227"> 
+            <ref xml:id="gd-p2c2q3-Rd1e225">Idem.</ref>
+            Eufemium atque Tomam, qui pro deserenda 
+            accusatione episcopi sui* sacros ordines acceperunt,
             eisdemordinibus priuatos esse, atque ita, sicuti depositi sunt, uolumus permanere. </p>
-          <p xml:id="gd-p2c2q3-d1e234"> Gratian. Hinc colligitur autem^&gt; clericorum infamiam per
+        </div>
+        <div xml:id="gd-p2c2q3-Dd1e230">
+          <head xml:id="gd-p2c2q3-Hd1e232">Dictum</head>
+          <p xml:id="gd-p2c2q3-d1e234">Hinc colligitur autem^&gt; clericorum infamiam per
             Romanum Pontificem aboleri posse, contra illud Gelasii :„ Quamquam animas per
             penitentiam saluare possimus, infamiamtamen abolere non possumus, et illud Stephani, cum
             causasenumerasset, ex quibus infamia inrogatur: „Hos omnes, inquit, „sub nota perpetuae
             infamiae ad penitentiam suscipimus. Velnon fiunt infames lege canonum omnes quos leges
             seculi infames pronunciant, cum Paulus diaconus, qui non inpetrata abolicioneab
-            accusatione destitit s, hac auctoritate dignitatem sui offitii re-cuperauit, quem
+            accusatione destitit s, hac auctoritate dignitatem sui offitii recuperauit, quem
             senatusconsultum Turpilianum infamem pronuntiat. Quod etiam de ea fateri cogimur, que
             intra tempus luctusnubit, cum matrimonia hodie regantur iure poli, non iure fori, etiure
-            poli mortuo uiro mulier soluta est a lege uiri: nubat cui uult. §. i. Sed idem Stephanus
+            poli mortuo uiro mulier soluta est a lege uiri: nubat cui uult. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e237">
+            §. i. Sed idem Stephanus
             contra scribit, dicens: „Infamesdicimus quoscumque leges seculi infames pronunciant.
             Sedillud Gelasii et Stephani : „ Quamquam animas , etc. et: „Subnota perpetuae infamiae
             , “ etc. de illis intelligitur, quibus perciuilem iudicem infamia inrogatur, quorum
@@ -158,28 +165,35 @@
             spectat. De ea uero, que intra tempus luctus nubit, nonest contrarium ei, quod Stephanus
             ait: , , Infames dicimus , etc.Cum enim leges seculi precipue in matrimoniis sacros
             canonessequi non dedignentur, non uidentur pronuntiare infamem, queapostolica et
-            canonica auctoritate non illicite nubit. </p>
-          <p xml:id="gd-p2c2q3-d1e237"> IV. Pars* §. 2. Notandum quoque est, quod aliud est,
+            canonica auctoritate non illicite nubit. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e237">§. 2. Notandum quoque est, quod aliud est,
             cumaliquem penituerit criminaliter accusasse et inscriptionem fecisse, si ab innocente
             fuerit absolutus: aliud, si pecuniam a nocenteacceperit, ut a probatione eius, quod
             obiecerat desistat. </p>
           <p xml:id="gd-p2c2q3-d1e240"> Unde in Libro Capitulorum, [c. 175. legitur]: </p>
         </div>
         <div xml:id="gd-p2c2q3-Dd1e245">
-          <head xml:id="gd-p2c2q3-Hd1e247">C. VIII</head>
+          <head xml:id="gd-p2c2q3-Hd1e247">Caput 8</head>
           <head xml:id="gd-p2c2q3-Hd1e250" type="question-title"> De eo, quem penitet criminaliter
             accusasse.</head>
           <p xml:id="gd-p2c2q3-d1e253"> Si quem penituerit criminaliter accussasse, et inscriptionem
             fecisse de eo, quod probare non potuerit, si ei? cum accusato innocente conuenerit,
-            inuicem se absoluant.Si uero iudex eum, qui accusatus est, criminosum esse co-gnouerit,
+            inuicem se absoluant. Si uero iudex eum, qui accusatus est, criminosum esse cognouerit,
             et inter reum et accusatorem per obreptionem*conuenerit de colludio, penam excipiat
             legibus constitutam. </p>
-
-          <p xml:id="gd-p2c2q3-d1e256"> V. Pars. Gratian. Notandum quoque est, quod, sicutin Digest
+        </div>
+        <div xml:id="gd-p2c2q3-Dd1e258">
+          <head xml:id="gd-p2c2q3-Hd1e260">Dictum</head>
+          <p xml:id="gd-p2c2q3-d1e256">
+            Notandum quoque est, quod, sicut in Digest
             . l. XLVIII. legitur, tit. de ab olit, criminum [ 1 . 1 .]: , , Accusatorum temeritas
             tribus modis detegitur. Autenim calumpniantur, aut preuaricantur, aut
             tergiuersantur.Calumpniari est falsa crimina intendere ; pr euar icar i uera
-            criminaabscondere; tergiuersari in uniuersum ab accusatione desistere. §. 1. Sed** non
+            criminaabscondere; tergiuersari in uniuersum ab accusatione desistere. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e265">
+            §. 1. Sed non
             utique qui non probat quod intendit protinuscalumpniari uidetur. Nam eius rei inquisitio
             arbitrio cognoscentis committitur, qui, reo absoluto, de accusatoris incipit consilio
             querere, qua mente ductus ad accusationem processit , etsi quidem iustum eius errorem
@@ -192,32 +206,52 @@
             inter-loquendo *** dixerit: Titius temere accusasse uidetur, noncalumpniatorem
             pronunciauit. Temeritas enim facilitatis ueniamcontinet, et inconsultus calor calumpniae
             uicio caret, et ob hocnullam penam huic irrogari oportet. Supra lib. XL VII. tit. depr
-            euar icat orib. [1. 1.]: §. 2. , , Preuaricator est quasi uaricatorqui diuersam partem
+            euar icat orib. [1. 1.]: 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e267">
+            §. 2. , , Preuaricator est quasi uaricatorqui diuersam partem
             adiuuat prodita causa sua. Quod nomenLabeo a uaria concertatione * tractum ait. Nam qui
             pre-uaricatur ex utraque parte consistit , quinimo ex altera. Isautem preuaricator
             proprie dicitur, qui publico iudicio accusauerit.Ceterum aduocatus non proprie
             preuaricator dicitur. Quidergo de eo fiet ? Siue priuato iudicio, siue publico
-            pre-uaricatus sit , hoc est prodiderit causam, hic extra ordinemsolet puniri. §. 3.
+            pre-uaricatus sit , hoc est prodiderit causam, hic extra ordinemsolet puniri. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e269">
+            §. 3.
             Sciendum, quod hodie his°, qui pre-uaricati sunt, pena iniungitur extraordinaria^ Et
-            infra: §. 4. „ Accusator de preuaricatione conuictus, postea ex lege nonaccuset p. Et
-            infra Q: §. 5. „ In omnibus causis (preterquamin sanguine) qui delatorem corrumpit ex
+            infra: 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e272">
+            §. 4. „ Accusator de preuaricatione conuictus, postea ex lege nonaccuset p. Et
+            infra Q: 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e274">
+            §. 5. „ In omnibus causis (preterquamin sanguine) qui delatorem corrumpit ex
             Senatusconsulto prouicto habeturX Et infra lib. XLVIII. tit. de abolitionibus criminum:
+          </p>
+          <p xml:id="gd-p2c2q3-d1e276">
             §. 6. „ Preuaricator em eum esse ostendimus, quicolludit cum reo, eo quod proprias
-            quidem probationes dissimularet, falsas uero accusationes admitteret. §. 7. Siquis autem
+            quidem probationes dissimularet, falsas uero accusationes admitteret. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e278">
+            §. 7. Siquis autem
             ab accusatione citra abolitionem destiterit, punitur.Abolitio priuatim a presidibus
             postulari ac inpetrari solet; itempro tribunali, non de plano, nec preses hanc
             cognitionem alteridemandare potest. Si plura crimina idem eidem intulit , singulorum
             debet abolitionem petere, alioquin , prout quidomiserit*, eius nomine senatusconsulti
             penam patieturEtinfra°y titulo eodem: „Destitisse eum accepimus , quitotum 122 aa animum
             agendi deposuit, non qui distulit accusationem, sed qui permissu inperatoris ab
-            accusatione destitit, in-punitus est. §. 8. Abolitio autem penam remittit, infamiamnon
-            tollit. Unde Inppp. Valens , Valentinianus, et GratianusIX. lib. C. eod. titulo de
+            accusatione destitit, in-punitus est. 
+          </p>
+          <p xml:id="gd-p2c2q3-d1e280">
+            §. 8. Abolitio autem penam remittit, infamiamnon
+            tollit. Unde Inppp. Valens , Valentinianus, et Gratianus IX. lib. C. eod. titulo de
             generali abolitione dixisse leguntur : , , Indulgentia, patres conscripti, quos liberat
             notat, nec infamiam criminis tollit, sed penae gratiam facit. Si autem:restituo te in
             integrum, princeps dixerit, infamiam tollit. Undein eodem lib. iit. de sententiam passis
             et restitutis, cuidam deportatoin insulam inperator Antoninus dixisse legitur: „Restituo
             te inintegrum prouinciae tuae, et adiecit: „Ut autem scias, quid sitin integrum
-            restituere, honoribus et ordini tuo, et omnibusceteris X </p>
+            restituere, honoribus et ordini tuo, et omnibus ceteris X </p>
         </div>
       </div>
     </body>

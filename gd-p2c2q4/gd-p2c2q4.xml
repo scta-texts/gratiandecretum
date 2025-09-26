@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO IV.</title>
+        <title>QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO IV.</title>
+          <title>QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,59 +53,71 @@
     </front>
     <body>
       <div xml:id="gd-p2c2q4">
-        <head xml:id="gd-p2c2q4-Hd1e103">QUESTIO IV.</head>
-
-        <p xml:id="gd-p2c2q4-d1e106"> I. Pars. Quod uero quarto loco querebatur: An duorumtestimonio
-          episcopus sit condempnandus? multorum auctoritateprobatur. Sicut enim in euangelio
-          Iohannis legitur , ait Christusad Iudeos: „ In lege uestra scriptum est, quoniam duorum
-          hominum testimonium uerum est. Hinc consequenter argumentaturcontra eos, dicens: „Si
-          testimonium duorum hominum uerumest, quare testimonium meum et Patris non
-          accipitisItemPaulus in epistola ad Corintios : , , In ore duorum uel triumtestium stabit
-          omne uerbum. Item in epistola ad Ebreos':„ Quis preuaricans legem Moisi, duobus uel tribus
-          testibusconuictus, sine miseratione lapidabatur .“ </p>
+        <head xml:id="gd-p2c2q4-Hd1e103">QUESTIO 4</head>
+        <div xml:id="gd-p2c2q4-Dd1e100">
+          <head xml:id="gd-p2c2q4-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c2q4-d1e106">Quod uero quarto loco querebatur: An duorum testimonio
+          episcopus sit condempnandus? multorum auctoritate probatur. Sicut enim in euangelio
+          Iohannis legitur , ait Christus ad Iudeos: „ In lege uestra scriptum est, quoniam duorum
+          hominum testimonium uerum est. Hinc consequenter argumentatur contra eos, dicens: „Si
+          testimonium duorum hominum uerum est, quare testimonium meum et Patris non
+          accipitis Item Paulus in epistola ad Corintios : , , In ore duorum uel trium testium stabit
+          omne uerbum. Item in epistola ad Ebreos': „Quis preuaricans legem Moisi, duobus uel tribus
+          testibusconuictus, sine miseratione lapidabatur“ </p>
+        </div>
         <div xml:id="gd-p2c2q4-Dd1e109">
-          <head xml:id="gd-p2c2q4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c2q4-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c2q4-Hd1e114" type="question-title"> Quot testibus quisque clericorum
             conuinci debeat.</head>
-          <p xml:id="gd-p2c2q4-d1e117"> Item ex Concilio Bracarensi II. [c. $.] </p>
-          <p xml:id="gd-p2c2q4-d1e120"> Placuit, ut si quis aliquem clericorum
-            maculationefornicationis inpetit, secundum preceptum Pauli apostoliduo uel tria
-            testimonia requirantur ab illo. Quod si nonpotuerit datis testimoniis approbare quod
+          <p xml:id="gd-p2c2q4-d1e120">
+            Item <ref xml:id="gd-p2c2q4-Rd1e118">ex Concilio Bracarensi II. [c. 8.]</ref> 
+            Placuit, ut si quis aliquem clericorum
+            maculatione fornicationis inpetit, secundum preceptum Pauli apostoli duo uel tria
+            testimonia requirantur ab illo. Quod si non potuerit datis testimoniis approbare quod
             dixit, excommunicationem accusati accusator accipiat. </p>
-
-          <p xml:id="gd-p2c2q4-d1e123"> II. Pars. Gratian. Ex premissis itaque colligitur,
+        </div>
+        <div xml:id="gd-p2c2q4-Dd1e122">
+          <head xml:id="gd-p2c2q4-Hd1e124">Dictum</head>
+          <p xml:id="gd-p2c2q4-d1e123">Ex premissis itaque colligitur,
             quodduorum uel trium testimonio episcopus potest conuinci et dampnari. Porro Siluester
-            Papa in generali Sinodo residensdixit econtra : </p>
+            Papa in generali Sinodo residens dixit econtra : </p>
         </div>
         <div xml:id="gd-p2c2q4-Dd1e127">
-          <head xml:id="gd-p2c2q4-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c2q4-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c2q4-Hd1e132" type="question-title"> Quot testibus episcopus, uel
             presbiter , uel reliqui clerici sint conuincendi. </head>
-          <p xml:id="gd-p2c2q4-d1e135"> Presul non dampnetur nisi cum LXXII. testibus *. Presbiter
-            autem cardinalis nisi in LXIV. testibusnon deponatur; diaconus cardinalis urbis
-            Romaenisi ins XXVII. testibus non condempnabitur. Subdiaconus, acolitus, exorcista,
-            lector, hostiarius nisiin septem testibus non condempnabitur. Testesautem et accusatores
+          <p xml:id="gd-p2c2q4-d1e135">Presul non dampnetur nisi cum LXXII. testibus. Presbiter
+            autem cardinalis nisi in LXIV. testibus non deponatur; diaconus cardinalis urbis
+            Romae nisi ins XXVII. testibus non condempnabitur. Subdiaconus, acolitus, exorcista,
+            lector, hostiarius nisi in septem testibus non condempnabitur. Testes autem et accusatores
             sine aliqua sint infamia. </p>
         </div>
         <div xml:id="gd-p2c2q4-Dd1e139">
-          <head xml:id="gd-p2c2q4-Hd1e141">C. III</head>
+          <head xml:id="gd-p2c2q4-Hd1e141">Caput 3</head>
           <head xml:id="gd-p2c2q4-Hd1e144" type="question-title"> Episcopi non nisi sub LXXII.
             testibus condempnari sunt. </head>
-          <p xml:id="gd-p2c2q4-d1e147"> Item Leo IV. [in epistola Episcopis Britanniae]. </p>
-          <p xml:id="gd-p2c2q4-d1e150"> Nullam dampnationem episcoporum umquam esse censemus, nisi
+          <p xml:id="gd-p2c2q4-d1e150"> 
+            Item <ref xml:id="gd-p2c2q4-Rd1e153">Leo IV. [in epistola Episcopis Britanniae].</ref>
+            Nullam dampnationem episcoporum umquam esse censemus, nisi
             aut ante legitimum episcoporum numerum (qui fit per duodecim episcopos), aut certe
-            probata sententiaper LXXII. idoneos testes, qui tales sint qui et accusarepossint. §. 1.
-            Et prius ad sacra Christi quatuor euangeliasacramenta prestent, quod nil falsum
-            depromant, sicutnobis* B. Siluester tradidit, et Romana sancta uidetur ecclesia tenere.
+            probata sententiaper LXXII. idoneos testes, qui tales sint qui et accusarepossint. 
+          </p>
+          <p xml:id="gd-p2c2q4-d1e156">
+            §. 1.
+            Et prius ad sacra Christi quatuor euangelia sacramenta prestent, quod nil falsum
+            depromant, sicut nobis B. Siluester tradidit, et Romana sancta uidetur ecclesia tenere.
             Et si inter eos, quos dampnandos esse dixerint homines, fuerit episcopus, qui suam
             causam in presentiaRomanae sedis episcopi petierit audiri, nullus super illumfinitiuam
             presumat dare sentenciam, sed omnino eumaudiri decernimus. </p>
-          <p xml:id="gd-p2c2q4-d1e153"> Gratian. Sed hoc uel speciali priuilegio de clericis Romanae
-            ecclesiae intelligitur, uel propter inprobitatemquorumdam, qui, cumnon sint spectatae
-            uitae et scientiae, in accusatione ^ ministrorum Dei repente prosiliunt. Quorum uero
-            uita adeo laudabilisest, ut omnibus imitanda apareat, de quorum assertione
-            nulladubitatio nasci poterit, eorum testimonio duorum uel trium testiumquilibet iure
-            conuinci et dampnari poterit, </p>
+        </div>
+        <div xml:id="gd-p2c2q4-Dd1e159">
+          <head xml:id="gd-p2c2q4-Hd1e161">Dictum</head>
+          <p xml:id="gd-p2c2q4-d1e153">Sed hoc uel speciali priuilegio de clericis Romanae
+            ecclesiae intelligitur, uel propter inprobitatem quorumdam, qui, cum non sint spectatae
+            uitae et scientiae, in accusatione ministrorum Dei repente prosiliunt. Quorum uero
+            uita adeo laudabilis est, ut omnibus imitanda apareat, de quorum assertione
+            nulla dubitatio nasci poterit, eorum testimonio duorum uel trium testiumquilibet iure
+            conuinci et dampnari poterit.</p>
         </div>
       </div>
     </body>

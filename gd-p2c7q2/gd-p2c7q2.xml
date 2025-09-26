@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO II.</title>
+        <title>QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO II.</title>
+          <title>QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,36 +53,36 @@
     </front>
     <body>
       <div xml:id="gd-p2c7q2">
-        <head xml:id="gd-p2c7q2-Hd1e103">QUESTIO II.</head>
-        <p xml:id="gd-p2c7q2-d1e106"> Quod autem iste ualetudine recepta suam repetit* cathedram,
+        <head xml:id="gd-p2c7q2-Hd1e103">QUESTIO 2</head>
+        <div xml:id="gd-p2c7q2-Dd1e100">
+          <head xml:id="gd-p2c7q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c7q2-d1e106"> Quod autem iste ualetudine recepta suam repetit cathedram,
           nulla auctoritate ratum habetur. Celebrationem uero sacrificiorum, si causa infirmitatis
           dimiserit, ualitudine recuperataexequi non prohibetur. </p>
-        <p xml:id="gd-p2c7q2-d1e109"> Unde Alexander II. scribit Gebonardo Iuuauiensi Archiepiscopo
-          *: </p>
+        <p xml:id="gd-p2c7q2-d1e109">
+          Unde Alexander II. scribit Gebonardo Iuuauiensi Archiepiscopo: </p>
+        </div>
         <div xml:id="gd-p2c7q2-Dd1e112">
-          <head xml:id="gd-p2c7q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c7q2-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c7q2-Hd1e117" type="question-title"> De quodam presbitero, qui caduco
             morbo laborabat.</head>
-          <p xml:id="gd-p2c7q2-d1e120"> In litteris tuis continebatur sic: Hic clericus ordinem
+          <p xml:id="gd-p2c7q2-d1e120">In litteris tuis continebatur sic: Hic clericus ordinem
             habet presbiteri; sed quia caduco morbo laborat, et ipsihoc in presentiarum agnouimus,
             non ausi fuimus sibi concedere ut offerret uel missam celebraret. Quia uero languornon
-            in culpa est, super hac re auctoritatis nostrae decretoconsulendum deliberauimus.
-            Consulimus itaque, ut, sifrequenter hoc morbo tangitur, ab oblatione et
+            in culpa est, super hac re auctoritatis nostrae decreto consulendum deliberauimus.
+            Consulimus itaque, ut, si frequenter hoc morbo tangitur, ab oblatione et
             missarumcelebratione omnimodis prohibeatur. Indecens enim estet periculosum, ut in
             consecratione eucharistiae morbouictus epilentico cadat. Si uero Dei misericordia
             con-ualuerit, quandoquidem non culpa, sed infirmitas est incausa, eum sacrificare iam
             non interdicimus. </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c7q2-Dd1e124">
-          <head xml:id="gd-p2c7q2-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c7q2-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c7q2-Hd1e129" type="question-title"> A regimine ecclesiae suspendatur
             qui in terram^ frequenter eliditur.</head>
-          <p xml:id="gd-p2c7q2-d1e132"> Item Gelasius Papa Rustico et Fortunato Episc , </p>
-          <p xml:id="gd-p2c7q2-d1e135"> Nuper Foropopulensis ecclesiae clerici una cum Sabino et
+          <p xml:id="gd-p2c7q2-d1e135"> 
+            Item <ref xml:id="gd-p2c7q2-Rd1e133">Gelasius Papa Rustico et Fortunato Episc,</ref> 
+            Nuper Foro populensis ecclesiae clerici una cum Sabino et
             Pelagio laicis, propria suggestione reserarunt, presulem suum graui quadam necessitate
             uexari, cuius eumdicerent incursione frequenter elisum. Quod ne scandalumfidelibus
             uideretur ingerere, et ecclesiam Dei ubique positam hac offensione turbare, precipue cum
@@ -97,9 +95,10 @@
             confusas, et spumas ore iactasse, quanta fieri potest examinatione queratur.Quod tamen
             siue non possit aliquorum factum testificatione firmari siue numquam contigisse dicatur,
             non putandum est posse sufficere, sed certum manifestumque documentum, quia de tanta re
-            non segnius agendum est. Faciatrem tua dilectio, frater Rustice, sui moris, et aptam
-            magnopontifici, ut eum uel triginta* diebus tecum esse constituas, eumque carnibus
-            indifferenter uti necessaria probatione conpellas. </p>
+            non segnius agendum est. Faciat rem tua dilectio, frater Rustice, sui moris, et aptam
+            magnopontifici, ut eum uel triginta diebus tecum esse constituas, eumque carnibus
+            indifferenter uti necessaria probatione conpellas. 
+          </p>
         </div>
       </div>
     </body>

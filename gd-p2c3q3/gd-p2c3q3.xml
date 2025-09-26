@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO III.</title>
+        <title>QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO III.</title>
+          <title>QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,93 +53,123 @@
     </front>
     <body>
       <div xml:id="gd-p2c3q3">
-        <head xml:id="gd-p2c3q3-Hd1e103">QUESTIO III.</head>
-
-        <p xml:id="gd-p2c3q3-d1e106"> I. Pars. Quod uero post uocationem uenienti ad iudicium
-          induciae negandae non sint, idem* Felix Papa [II. in epistola ad fratres Egipti cap. 8.]
+        <head xml:id="gd-p2c3q3-Hd1e103">QUESTIO 3</head>
+        <div xml:id="gd-p2c3q3-Dd1e100">
+          <head xml:id="gd-p2c3q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c3q3-d1e106">
+          Quod uero post uocationem uenienti ad iudicium
+          induciae negandae non sint, idem Felix Papa [II. in epistola ad fratres Egipti cap. 8.]
           testatur, dicens : </p>
+        </div>
         <div xml:id="gd-p2c3q3-Dd1e109">
-          <head xml:id="gd-p2c3q3-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c3q3-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c3q3-Hd1e114" type="question-title"> Venienti ad iudicium induciae non
             negentur.</head>
-          <p xml:id="gd-p2c3q3-d1e117"> Cum accusatus ad iudicium uenerit, si uoluerit*, induciae ei
+          <p xml:id="gd-p2c3q3-d1e117"> 
+            Cum accusatus ad iudicium uenerit, si uoluerit, induciae ei
             petenti a Patribus constitutae absque inpedi-mento concedantur, et iudices a se electi
             sibi tribuantur. </p>
 
         </div>
         <div xml:id="gd-p2c3q3-Dd1e121">
-          <head xml:id="gd-p2c3q3-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c3q3-Hd1e123">Caput 2</head>
           <head xml:id="gd-p2c3q3-Hd1e126" type="question-title"> Quot mensium induciae episcopis
             prestandae sint.</head>
-          <p xml:id="gd-p2c3q3-d1e129"> Item ex epist. Felicis II. fratribus Egiptiorum, [c. 20.]De
-            induciis uero episcoporum, super quibus consuluistis, diuersas a Patribus regulas
-            institutas inuenimus.Quidam enim ad repellenda machinamenta inpetitorum, et suas
+          <p xml:id="gd-p2c3q3-d1e129"> 
+            Item ex <ref xml:id="gd-p2c3q3-Rd1e131">epist. Felicis II. fratribus Egiptiorum, [c. 20.]</ref> 
+            De induciis uero episcoporum, super quibus consuluistis, diuersas a Patribus regulas
+            institutas inuenimus. Quidam enim ad repellenda machinamenta inpetitorum, et suas
             preparandas responsiones, et testes confirmandos, et consilia episcoporum atque amicorum
             querenda, annumet sex menses mandauerunt concedi. Quidam autem annum, in quo plurimi
-            concordant. Minus uero quam sex mensesnon reperi, quia et laicis hec indulta sunt,
-            quanto magisDomini sacerdotibus? Et infra: §. i. Induciae non subangusto tempore, sed
+            concordant. Minus uero quam sex menses non reperi, quia et laicis hec indulta sunt,
+            quanto magis Domini sacerdotibus? 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e134">
+            Et infra: §. i. Induciae non subangusto tempore, sed
             sub longo spatio concedendae sunt, ut accusati se preparare, et uniuersos
             communicatoresin prouinciis positos conuenire, et testes preparare, atquecontra
             insidiatores se pleniter armare ualeant. </p>
         </div>
         <div xml:id="gd-p2c3q3-Dd1e133">
-          <head xml:id="gd-p2c3q3-Hd1e135">C. III</head>
+          <head xml:id="gd-p2c3q3-Hd1e135">Caput 3</head>
           <head xml:id="gd-p2c3q3-Hd1e138" type="question-title"> De induciis prestandis.</head>
-          <p xml:id="gd-p2c3q3-d1e141"> Item Eleuterius Papa [in epist. ad Galliae prouincias]. </p>
-          <p xml:id="gd-p2c3q3-d1e144"> Induciae non modicae ad inquirendum dandae sunt, ne aliquid
-            prepropere agi a quacumque parte uideatur, quiaper subreptionem multa proueniunt. </p>
-          <p xml:id="gd-p2c3q3-d1e147"> [PALE A. </p>
+          <p xml:id="gd-p2c3q3-d1e144"> 
+            Item <ref xml:id="gd-p2c3q3-Rd1e147">Eleuterius Papa [in epist. ad Galliae prouincias].</ref>
+            Induciae non modicae ad inquirendum dandae sunt, ne aliquid
+            prepropere agi a quacumque parte uideatur, quia per subreptionem multa proueniunt. </p>
         </div>
         <div xml:id="gd-p2c3q3-Dd1e152">
-          <head xml:id="gd-p2c3q3-Hd1e154">C. IV.</head>
+          <head xml:id="gd-p2c3q3-Hd1e154">Caput 4</head>
           <head xml:id="gd-p2c3q3-Hd1e157" type="question-title">De eodem.</head>
-
-          <p xml:id="gd-p2c3q3-d1e160"> Item Damasus Papa epist. III. ad Stephanum Archiepiscopum . </p>
-          <p xml:id="gd-p2c3q3-d1e163"> Induciae accusatis in criminalibus causis sex mensium uel eo
-            amplius, si necesse fuerit, concedendae sunt.] II. Pars. Gratian. Spatium uero
-            dilationum, sicut in </p>
-          <p xml:id="gd-p2c3q3-d1e166"> III. lib. Cod. tit. [ii.] de dilationibus inuenitur, hac
-            rationemoderandum est, ut, si ex ea prouincia , ubi lis agitur, uel persona , uel
-            instrumenta poscentur , non amplius quam tres menses indidgeantur. Si uero ex
-            continentibus prouinciis, sex mensescustodiri iustitia est. In transmarina autem
-            dilatione nouemmenses conputari oportebit. Iudicanies autem * Jiac ratione nonsibi
+          <p xml:id="gd-p2c3q3-d1e163"> 
+            Item <ref xml:id="gd-p2c3q3-Rd1e161">Damasus Papa epist. III. ad Stephanum Archiepiscopum.</ref> 
+            Induciae accusatis in criminalibus causis sex mensium uel eo
+            amplius, si necesse fuerit, concedendae sunt.] 
+          </p>
+        </div>
+        <div xml:id="gd-p2c3q3-Dd1e165">
+          <head xml:id="gd-p2c3q3-Hd1e167">Dictum</head>
+          <p xml:id="gd-p2c3q3-d1e169">
+            Spatium uero
+            dilationum, sicut in <ref xml:id="gd-p2c3q3-Rd1e171">III. lib. Cod. tit. [ii.] de dilationibus</ref> inuenitur, <quote xml:id="gd-p2c3q3-Qd1e173" source="http://scta.info/resource/azsw2e-d1e1466-d1e115@2-43">hac
+            ratione moderandum est, ut, si ex ea prouincia , ubi lis agitur, uel persona , uel
+            instrumenta poscentur , non amplius quam tres menses indulgeantur. Si uero ex
+            continentibus prouinciis, sex menses custodiri iustitia est. In transmarina autem
+            dilatione nouemmenses conputari oportebit</quote>. Iudicanies autem * Jiac ratione nonsibi
             concessum intelligant dandae dilationis arbitrium, sed eandemdilationem (si rerum
             urgentissima ratio flagitauerit, et necessitasdesideratae instructionis exegerit) non
-            amplius facile quam semel, nec ulla trahendi arte sciant esse tribuendam. §. i. Ei autem
+            amplius facile quam semel, nec ulla trahendi arte sciant esse tribuendam. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e177">
+            §. i. Ei autem
             dilatio penitus est deneganda, qui rescriptum ad extraordinariumiudicem reportauerit .
             Illi uero , qui in iudicium uocatur, danda est ad probanda precum mendacia, uel
             proferenda aliquainstrumenta uel testes, quoniam instructus esse non potuit quipreter
-            spem ad alienum iudicium trahitur. §. 2. Cum ueroad appellationem siue consultationem a
-            principe rescriptumfuerit, siue sit primo iudicio petita dilatio nec tributa 8 , siue </p>
-
-
-
-
-          <p xml:id="gd-p2c3q3-d1e170"> nec petita quidem, eam dare cuiquam non licebit eadem
-            ratione, qua nec 40 ' in iudiciis cognitionum inperialium dilatio tribui solet. §. 3. A
+            spem ad alienum iudicium trahitur. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e179">
+            §. 2. Cum ueroad appellationem siue consultationem a
+            principe rescriptumfuerit, siue sit primo iudicio petita dilatio nec tributa 8 , siue 
+            nec petita quidem, eam dare cuiquam non licebit eadem
+            ratione, qua nec 40 ' in iudiciis cognitionum inperialium dilatio tribui solet. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e181">
+            §. 3. A
             iudice procedente dilationem postulari non conuenit , etiam si utraque parte presente
             tribuatur, cum non alias, nm causa cognita, indulgeri queat, cognitio causae non
-            interpellatione plenaria , sed considente magis iudice legitime colligatur, se forte
-            dilationis peticio inprobata fuerit, suscepta questio </p>
-          <p xml:id="gd-p2c3q3-d1e173"> per sententiam iudicis dirimatur. Constitutione nouellA^m
+            interpellatione plenaria, sed considente magis iudice legitime colligatur, se forte
+            dilationis peticio inprobata fuerit, suscepta questio 
+            per sententiam iudicis dirimatur. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e184">
+            Constitutione novell.
             septima, in collatione VIII. §. 4. Libellum uero nonalias actor dirigat, nisi prius et
             in ipsum, quem dicit obnoxium, et in negotii executorem exponat cautionem, se uel intra
             duosmenses litem contestaturum, uel omne dampnum ei, qui conueni-tur, contingens
-            restituturum^. Incoli. FP: </p>
-          <p xml:id="gd-p2c3q3-d1e176"> III. Pars. §.5. Offeratur ei, qui uocatur mq iudicium,
+            restituturum. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e176"> 
+            In coll. V.
+            §.5. Offeratur ei, qui uocatur mq iudicium,
             libellus, et exinde prebitis sportulis, data fideiussione, XX. dierum gaudeat induciis,
             in quibus deliberet, an cedat , an contendat, atque alium iudici petat sociari, uel
             recuset eum, nisi sit ille, quem 55 v ipse faw? alio recusato petiuit . Deniquepresens
             interrogetur, an hoc tempus transierit? Quod nonmodo ipsius My responsione, sed etiam
             libelli manifestetursubscriptione, quam in initio facere debet. Litis ergo
-            contestatiocontra hoc indultum habita pro nichilo est. Constit. nou. VI.in Coli at. F/.:
+            contestatiocontra hoc indultum habita pro nichilo est. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e189">
+            Constit. nou. VI. in Collat. VI
             §. 6. Qwod yfen non debet, nisi actor satisdederit, certam promittens quantitatem se
             daturum, si nonexequatur, aut exequens non uincat causam. Si ergo posttempus prestitutum
             intra decem dies reo presente nonoccurrat, dimittatur reus exacto eo, quod promissum
-            est, et siquid plus circa litem inpendisse cum taxatione iudicis iurauerit. [§. 7.
-            Exceptio fori** dilatoria est, atque ideo in initio litisdebet opponi et probari.
+            est, et siquid plus circa litem inpendisse cum taxatione iudicis iurauerit. 
+          </p>
+          <p xml:id="gd-p2c3q3-d1e191">
+            §. 7.
+            Exceptio fori dilatoria est, atque ideo in initio litisdebet opponi et probari.
             Peremptorias autem exceptiones, ut sunt prescriptiones longi temporis, sufficit in
-            initio litiscontestari.] </p>
+            initio litiscontestari.</p>
         </div>
       </div>
     </body>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO IV.</title>
+        <title>QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO IV.</title>
+          <title>QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,65 +53,72 @@
     </front>
     <body>
       <div xml:id="gd-p2c5q4">
-        <head xml:id="gd-p2c5q4-Hd1e103">QUESTIO IV.</head>
-        <p xml:id="gd-p2c5q4-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c5q4-Hd1e103">QUESTIO 4</head>
+        <div xml:id="gd-p2c5q4-Dd1e100">
+          <head xml:id="gd-p2c5q4-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c5q4-d1e109"> Quod autem absque smodali audientia dampnari non debeat
           auctoritate Iulii Papae*probatur, qui [epist. I.] ait: </p>
+        </div>
         <div xml:id="gd-p2c5q4-Dd1e112">
-          <head xml:id="gd-p2c5q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c5q4-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c5q4-Hd1e117" type="question-title"> Nisi in legitima Sinodo episcopus
             iudicari uel audiri non debet.</head>
-          <p xml:id="gd-p2c5q4-d1e120"> Nullus episcopus, nisi in legitima Sinodo et suo tempore
+          <p xml:id="gd-p2c5q4-d1e120">Nullus episcopus, nisi in legitima Sinodo et suo tempore
             apostolica auctoritate conuocata, super quibusdam criminationibus pulsatus audiatur, uel
             iudicetur uel dam-pnetur. Sin aliter presumptum a quibusdam fuerit, inuanum deducatur
             quod egerint, nec inter ecclesiastica statuta* ullo modo reputetur. </p>
         </div>
         <div xml:id="gd-p2c5q4-Dd1e124">
-          <head xml:id="gd-p2c5q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c5q4-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c5q4-Hd1e129" type="question-title"> Episcopus accusatus a duodecim
-            audiatur, finis uero causae ad apostolicam sedem deferatur . </head>
-          <p xml:id="gd-p2c5q4-d1e132"> Item Zepherinus Urbis Romae Episcopus , [epist. I.] omnibus
-            Episcopis. </p>
-          <p xml:id="gd-p2c5q4-d1e135"> Duodecim iudices quilibet episcopus accusatus, si necesse
+            audiatur, finis uero causae ad apostolicam sedem deferatur .</head>
+          <p xml:id="gd-p2c5q4-d1e135"> 
+            Item <ref xml:id="gd-p2c5q4-Rd1e130">Zepherinus Urbis Romae Episcopus , [epist. I.] omnibus Episcopis.</ref> 
+            Duodecim iudices quilibet episcopus accusatus, si necesse
             fuerit, eligat, a quibus eius causa iudicetur, nec prius audiatur, aut excommunicetur
             uel iudicetur, quam ipsiper se eligantur, et regulariter uocatus ad suorum conuen-tum
             primo episcoporum, per eos eius causa iuste audiatur, et rationabiliter discernatur.
             Finis uero eius causae adsedem apostolicam deferatur, ut ibidem terminetur, necante
             finiatur, quam eius auctoritate fulciatur. </p>
-          <p xml:id="gd-p2c5q4-d1e138"> Gratian. Quod uero absque sinodali audientia episcopus
-            dampnari prohibetur, sine preiudicio Romanae sedis intelligioportet, que sua auctoritate
-            quosque ualet dampnare uel dampna-tos absoluere. Unde Gelasius: „Ipsi sunt canones
-            etc.“infra causa S: „Sententia excommunicationis notatus.“ §. 1. Item Adrianus [c. 8.]:
+        </div>
+        <div xml:id="gd-p2c5q4-Dd1e134">
+          <head xml:id="gd-p2c5q4-Hd1e136">Dictum</head>
+          <p xml:id="gd-p2c5q4-d1e138">
+            Quod uero absque sinodali audientia episcopus
+            dampnari prohibetur, sine preiudicio Romanae sedis intelligi oportet, que sua auctoritate
+            quosque ualet dampnare uel dampnatos absoluere. Unde Gelasius: „Ipsi sunt canones
+            etc.“infra causa S: „Sententia excommunicationis notatus.“ 
+          </p>
+          <p xml:id="gd-p2c5q4-d1e141">
+            §. 1. Item Adrianus [c. 8.]:
             „Salvo Romanae ecclesiae in omnibusprimatu, manifestum est, quod illa, que sunt per
             unamquamqueprouinciam ipsius prouinciae sinodus dispenset, sicut Nicenoconstat esse
             decretum concilio . Cum uero accusatus ad concilium uenerit, quicquid considentium
             consultationibus agitur, autab accusantium parte proponitur, non contentiosis uocibus,
-            sedmitissima uerborum relatione proferatur. </p>
-          <p xml:id="gd-p2c5q4-d1e142"> Unde in Tollet ano Concilio XI. [c. 1.] legitur : </p>
+            sedmitissima uerborum relatione proferatur. 
+          </p>
+          <p xml:id="gd-p2c5q4-d1e142">Unde in Tollet ano Concilio XI. [c. 1.] legitur : </p>
         </div>
         <div xml:id="gd-p2c5q4-Dd1e147">
-          <head xml:id="gd-p2c5q4-Hd1e149">C. III</head>
+          <head xml:id="gd-p2c5q4-Hd1e149">Caput 3</head>
           <head xml:id="gd-p2c5q4-Hd1e152" type="question-title"> In cognitione causarum contentiosi
             locum non habeant K</head>
-          <p xml:id="gd-p2c5q4-d1e155"> In loco benedictionis considentes Domini sacerdotes nullus
-            debet aut indiscretis uocibus perstrepere, aut </p>
-
-
-
-
-          <p xml:id="gd-p2c5q4-d1e158"> quibuslibet tumultibus perturbare , nullus etiam uanis
-            fabulis uel risibus agi, et (quod est deterius) obstinatisdisceptationibus tumultuosas
-            uoces effundere. „Si quisenim (ut Apostolus ait) putat se religiosum esse, nonrefrenans
+          <p xml:id="gd-p2c5q4-d1e155">In loco benedictionis considentes Domini sacerdotes nullus
+            debet aut indiscretis uocibus perstrepere, aut 
+            quibuslibet tumultibus perturbare , nullus etiam uanis
+            fabulis uel risibus agi, et (quod est deterius) obstinatis disceptationibus tumultuosas
+            uoces effundere. „Si quisenim (ut Apostolus ait) putat se religiosum esse, non refrenans
             linguam suam, sed seducens cor suum, huius uanaest religio.“ Cultum enim suum iustitia
-            perdit, quandosilentia iudicii obstrepentium turbo confundit, dicentePropheta: „Erit
-            cultus iustitiae silentium.“ Debet ergoquicquid aut considentium consultationibus
-            agitur, autab accusantium parte proponitur, sic mitissima uerborumrelatione proferri, ut
-            nec contentiosis uocibus sensusaudientium turbent, nec iudicii uigorem de
-            tumultueneruent. Quicumque ergo in conuentu concilii hec, quepremissa sunt, uiolanda
+            perdit, quandosilentia iudicii obstrepentium turbo confundit, dicente Propheta: „Erit
+            cultus iustitiae silentium.“ Debet ergo quicquid aut considentium consultationibus
+            agitur, autab accusantium parte proponitur, sic mitissima uerborum relatione proferri, ut
+            nec contentiosis uocibus sensus audientium turbent, nec iudicii uigorem de
+            tumultu eneruent. Quicumque ergo in conuentu concilii hec, que premissa sunt, uiolanda
             crediderit, et contra hec interdictaaut tumultu, aut contumeliis uel risibus concilium
-            pertur-bauerit, iuxta diuinae legis edictum, que precipit^:„Eice derisorem, et exibit
-            cum eo iurgium, “ cum omnidedecore de consessione abstractus a communi cetusecedat, et
-            trium dierum excommunicationis sententiamferat b </p>
+            pertur-bauerit, iuxta diuinae legis edictum, que precipit: „Eice derisorem, et exibit
+            cum eo iurgium, “ cum omni dedecore de consessione abstractus a communi cetusecedat, et
+            trium dierum excommunicationis sententiam ferat. 
+          </p>
         </div>
       </div>
     </body>

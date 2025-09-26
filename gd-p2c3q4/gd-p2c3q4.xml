@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO IV. </title>
+        <title> QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO IV. </title>
+          <title> QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,79 +53,92 @@
     </front>
     <body>
       <div xml:id="gd-p2c3q4">
-        <head xml:id="gd-p2c3q4-Hd1e103"> QUESTIO IV. </head>
-        <p xml:id="gd-p2c3q4-d1e106"> Quod uero infames et non legitime coniuncti ad accusationem
+        <head xml:id="gd-p2c3q4-Hd1e103">QUESTIO 4</head>
+        <div xml:id="gd-p2c3q4-Dd1e100">
+          <head xml:id="gd-p2c3q4-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c3q4-d1e106">
+          Quod uero infames et non legitime coniuncti ad accusationem
           admitti non debeant, et qui generaliter ab accusatione remonendisint, multorum
-          auctoritatibus claret. </p>
+          auctoritatibus claret.</p>
         <p xml:id="gd-p2c3q4-d1e109"> Ait enim Iginus Papa, [epist. II.]: </p>
+        </div>
         <div xml:id="gd-p2c3q4-Dd1e112">
-          <head xml:id="gd-p2c3q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c3q4-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c3q4-Hd1e117" type="question-title"> Infames eos, qui sunt bonae famae,
             accusare non possunt..</head>
-          <p xml:id="gd-p2c3q4-d1e120"> Alieni erroris societatem sectantem, uel a sui propositi
-            tramite recedentem, aut apostolicae sedis iussionibusinobedientem suscipere non
-            possumus, nec inpedirerecte credentes, uel sanctorum Patrum iussionibus obtemperantes
-            permittimus, quia inter fideles et infideles magnadebet esse discretio. </p>
-
+          <p xml:id="gd-p2c3q4-d1e120">
+            Alieni erroris societatem sectantem, uel a sui propositi
+            tramite recedentem, aut apostolicae sedis iussionibus inobedientem suscipere non
+            possumus, nec inpedire recte credentes, uel sanctorum Patrum iussionibus obtemperantes
+            permittimus, quia inter fideles et infideles magnadebet esse discretio. 
+          </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e124">
-          <head xml:id="gd-p2c3q4-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c3q4-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c3q4-Hd1e129" type="question-title"> Qui legem suam sponte
             transgreditur, ante suam reuersionem recte agentes accusare non potest. </head>
-          <p xml:id="gd-p2c3q4-d1e132"> Item Anacletus in primo decretali . </p>
-          <p xml:id="gd-p2c3q4-d1e135"> Beatus predecessor noster Clemens, uir apostolicus et
+          <p xml:id="gd-p2c3q4-d1e135"> 
+            Item <ref xml:id="gd-p2c3q4-Rd1e133">Anacletus in primo decretali.</ref>
+            Beatus predecessor noster Clemens, uir apostolicus et
             spiritu Dei plenus, una cum reliquis sanctis collegis suisstatuit dicens: Accusandi uel
             testincandi licentia denegeturhis, qui Christianae religionis et nominis dignitatem,
             etsuae legis uel sui propositi normam aut regulariter prohibita neglexerint.
             Transgressores enim sponte legis suae, eiusque uiolatores, apostatae nominantur.
             Omnisenim apostata refutandus est ante reuersionem suam, nec in accusationem recte
-            agentium aut testimonium® suscipiendus est. </p>
+            agentium aut testimonium® suscipiendus est.
+          </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e140">
-          <head xml:id="gd-p2c3q4-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c3q4-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c3q4-Hd1e145" type="question-title"> A suo proposito discedentes fiunt
             infames. </head>
-          <p xml:id="gd-p2c3q4-d1e148"> Item Pius Papa, [epist. I.]Si quis uero a suo proposito
+          <p xml:id="gd-p2c3q4-d1e148"> Item <ref xml:id="gd-p2c3q4-Rd1e147">Pius Papa, [epist. I.]</ref> Si quis uero a suo proposito
             retrorsum exorbitauerit, et iussa apostolicae sedis libenter transgressus fuerit,
             infamis efficitur. Reprobari ergo oportet eorum redargutiones, qui in recta fide
             suspecti sunt. Fides autem etconuersatio primum scrutanda est, et denuo qui
-            inre-prehensibiles aparuerint sunt recipiendi, et non prius. </p>
+            inreprehensibiles aparuerint sunt recipiendi, et non prius. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e152">
-          <head xml:id="gd-p2c3q4-Hd1e154">C. IV</head>
-          <head xml:id="gd-p2c3q4-Hd1e157" type="question-title"> Incestuosi non legitime coniuncti
-            sacerdotes uellegitime coniunctos accusare non possunt. </head>
-          <p xml:id="gd-p2c3q4-d1e160"> Item Calixtus Papa [ad Episcopos Galliae, ep. II. c.
-            4.]Consanguineorum coniunctiones nec legitimae sunt, nec manere possunt, sed sunt
-            repellendae, f. i. Quisquis ergo non legitime coniunctus, uel absque dotali tituloac
+          <head xml:id="gd-p2c3q4-Hd1e154">Caput 4</head>
+          <head xml:id="gd-p2c3q4-Hd1e157" type="question-title">Incestuosi non legitime coniuncti
+            sacerdotes uel legitime coniunctos accusare non possunt.</head>
+          <p xml:id="gd-p2c3q4-d1e160"> 
+            Item <ref xml:id="gd-p2c3q4-Rd1e162">Calixtus Papa [ad Episcopos Galliae, ep. II. c. 4.]</ref> 
+            Consanguineorum coniunctiones nec legitimae sunt, nec manere possunt, sed sunt
+            repellendae.
+          </p>
+          <p xml:id="gd-p2c3q4-d1e165">
+            §. i. Quisquis ergo non legitime coniunctus, uel absque dotali tituloac
             benedictione sacerdotis constat copulatus, sacerdotesuel legitime coniunctos criminari,
             uel in eos testificariminime potest, quoniam omnis incesti macula pollutusinfamis est et
             accusare supradictos non permittitur. Nonsolum ergo hii repellendi sunt et infames
-            efficiuntur, sed etiam omnes eis consentientes. §. 2. Similiter deraptoribus, uel eis,
+            efficiuntur, sed etiam omnes eis consentientes. 
+          </p>
+          <p xml:id="gd-p2c3q4-d1e167">
+            §. 2. Similiter deraptoribus, uel eis,
             qui seniores inpetunt, fieri censemus.Hos enim seculi leges interficiunt, sed nos
             misericordia preeunte sub infamiae nota ad penitentiam recipimus. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e164">
-          <head xml:id="gd-p2c3q4-Hd1e166">C. V</head>
+          <head xml:id="gd-p2c3q4-Hd1e166">Caput 5</head>
           <head xml:id="gd-p2c3q4-Hd1e169" type="question-title"> Qui non sunt recipiendi in
             accusatione.</head>
-          <p xml:id="gd-p2c3q4-d1e172"> Idem [in eadem epistola]. </p>
-          <p xml:id="gd-p2c3q4-d1e175"> Conspiratores in nullius accusatione sunt recipiendi, nec
-            eorum uel anathematizatorum uox ullum nocere autledere potest. </p>
-
-
-
-
+          <p xml:id="gd-p2c3q4-d1e175"> 
+            Idem [in eadem epistola].
+            Conspiratores in nullius accusatione sunt recipiendi, nec
+            eorum uel anathematizatorum uox ullum nocere aut ledere potest. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e179">
-          <head xml:id="gd-p2c3q4-Hd1e181">C. VI</head>
-          <head xml:id="gd-p2c3q4-Hd1e184" type="question-title"> De eodem. liem Stephanus Papa,
-            [epist. II.]Nullus anathematizatorum suscipiatur, nec a quoquamcredantur que ab eis
-            dicuntur uel conscribuntur. Eosdico anathematizatos esse, quos episcopi suis scriptis
-            ana-thematizauerunt, aut eorum statuta anathematizant. </head>
+          <head xml:id="gd-p2c3q4-Hd1e181">Caput 6</head>
+          <head xml:id="gd-p2c3q4-Hd1e184" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c3q4-d1e190">
+            Item <ref xml:id="gd-p2c3q4-Rd1e192">Stephanus Papa, [epist. II.]</ref> Nullus anathematizatorum suscipiatur, nec a quoquamcredantur que ab eis
+            dicuntur uel conscribuntur. Eos dico anathematizatos esse, quos episcopi suis scriptis
+            anathematizauerunt, aut eorum statuta anathematizant. 
+          </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e188">
-          <head xml:id="gd-p2c3q4-Hd1e190">C. VII</head>
+          <head xml:id="gd-p2c3q4-Hd1e190">Caput 7</head>
           <head xml:id="gd-p2c3q4-Hd1e193" type="question-title"> Anathematizati fideles accusare
             non possunt.</head>
           <p xml:id="gd-p2c3q4-d1e196"> Item Fabianus Papa, [ep. I. ad ecclesiae ministros]. Omnes,
@@ -135,7 +146,7 @@
             submoue-mus, et ab omni fidelium accusatione alienamus. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e200">
-          <head xml:id="gd-p2c3q4-Hd1e202">C. VIII</head>
+          <head xml:id="gd-p2c3q4-Hd1e202">Caput 8</head>
           <head xml:id="gd-p2c3q4-Hd1e205" type="question-title"> Clericus, qui episcopum
             accusauerit , infamis efficitur. </head>
           <p xml:id="gd-p2c3q4-d1e208"> Item Stephanus Papa, [epist. II. c. 8.]Clericus uero, qui
@@ -143,47 +154,54 @@
             infamiseffectus est, et a gradu debet recedere, ac curiae tradiserui turus . </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e213">
-          <head xml:id="gd-p2c3q4-Hd1e215">C. IX</head>
+          <head xml:id="gd-p2c3q4-Hd1e215">Caput 9</head>
           <head xml:id="gd-p2c3q4-Hd1e218" type="question-title"> Infames et exules fiant qui
             episcopos per secuntur . </head>
-          <p xml:id="gd-p2c3q4-d1e221"> Item Alexander Papa, [epist. I. c. i.]Hii qui episcopos*
+          <p xml:id="gd-p2c3q4-d1e221"> 
+            Item <ref xml:id="gd-p2c3q4-Rd1e230">Alexander Papa, [epist. I. c. i.]</ref> Hii qui episcopos
             persecuntur et amouere nituntur iniuste contra apostolicam auctoritatem, etsi a
-            morteprohibentur, dicente Domino: , , Nolo mortem peccatoris, sed ut conuertatur et
+            morte prohibentur, dicente Domino: "Nolo mortem peccatoris, sed ut conuertatur et
             uiuat, “ perpetua tamen procul dubio notantur infamia, et exilio digni iudicantur
             finitimo;de quibus a temporibus apostolorum et infra tenemus, atque decreta habemus,
-            eorum accusandi episcopos ueltestificandi in eos uocem obstruimus, quos non humanis, sed
+            eorum accusandi episcopos uel testificandi in eos uocem obstruimus, quos non humanis, sed
             diuinis actibus mortuos scimus. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e225">
-          <head xml:id="gd-p2c3q4-Hd1e227">C. X</head>
+          <head xml:id="gd-p2c3q4-Hd1e227">Caput 10</head>
           <head xml:id="gd-p2c3q4-Hd1e230" type="question-title"> Detractores et inimicorum auctores
-            episcopos non accusent™.</head>
-          <p xml:id="gd-p2c3q4-d1e233"> Item Zepherinus Papa [ep. I. ad Episcopos Sicilienses]. </p>
-          <p xml:id="gd-p2c3q4-d1e236"> Detractores, qui diuina auctoritate eradicandi sunt, et
+            episcopos non accusent.</head>
+          <p xml:id="gd-p2c3q4-d1e236"> 
+            Item <ref xml:id="gd-p2c3q4-Rd1e245">Zepherinus Papa [ep. I. ad Episcopos Sicilienses].</ref>
+            Detractores, qui diuina auctoritate eradicandi sunt, et
             auctores inimicorum ab episcopali submouemus accusatione uel testimonio. </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e240">
-          <head xml:id="gd-p2c3q4-Hd1e242">C. XI</head>
+          <head xml:id="gd-p2c3q4-Hd1e242">Caput 11</head>
           <head xml:id="gd-p2c3q4-Hd1e245" type="question-title"> Infamis uel sacrilegus religiosum
             Christianum accusare non potest.</head>
-          <p xml:id="gd-p2c3q4-d1e248"> Item Euticianus Papa, [ep. II. ad Episc. Siciliae]. Nulli
+          <p xml:id="gd-p2c3q4-d1e248"> 
+            Item <ref xml:id="gd-p2c3q4-Rd1e259">Euticianus Papa, [ep. II. ad Episc. Siciliae].</ref> Nulli
             umquam infami aut sacrilego de quocumquenegotio liceat aduersus religiosum Christianum
-            (quamuis </p>
-
-          <p xml:id="gd-p2c3q4-d1e251"> humilis seruilisque persona sit) testimonium dicere, nec de
+            (quamuis humilis seruilisque persona sit) testimonium dicere, nec de
             qualibet ratione" uel inscriptione Christianum in-petere. </p>
-          <p xml:id="gd-p2c3q4-d1e254"> Gratian. Notandum uero est$, quod aliud sit excommunicatio ,
-            et aliud anathematizatio. </p>
-          <p xml:id="gd-p2c3q4-d1e258"> Unde I oh anne s VIII. scribit cuidam Episcopo 92 a* </p>
+        </div>
+        <div xml:id="gd-p2c3q4-Dd1e263">
+          <head xml:id="gd-p2c3q4-Hd1e265">Dictum</head>
+          <p xml:id="gd-p2c3q4-d1e254">Notandum uero est, quod aliud sit excommunicatio ,
+            et aliud anathematizatio.</p>
+          <p xml:id="gd-p2c3q4-d1e258"> Unde Iohannes VIII. scribit cuidam Episcopo 92 a* </p>
         </div>
         <div xml:id="gd-p2c3q4-Dd1e262">
-          <head xml:id="gd-p2c3q4-Hd1e264">C. XII</head>
+          <head xml:id="gd-p2c3q4-Hd1e264">Caput 12</head>
           <head xml:id="gd-p2c3q4-Hd1e267" type="question-title"> Aliud est excommunicatio, aliud
             anathematizatio.</head>
           <p xml:id="gd-p2c3q4-d1e270"> Hengiltrudam uxorem Bosonis noueris non solum
             excommunicatione, que a fraterna societate separat, sed etiamanathemate, quod ab ipso
             corpore Christi (quod est ecclesia)recidit, crebro percussam. </p>
-          <p xml:id="gd-p2c3q4-d1e273"> Gratian. Unde datur intelligi, quod anathematizati
+        </div>
+        <div xml:id="gd-p2c3q4-Dd1e286">
+          <head xml:id="gd-p2c3q4-Hd1e288">Dictum</head>
+          <p xml:id="gd-p2c3q4-d1e273">Unde datur intelligi, quod anathematizati
             intelli-gendi sunt non simpliciter a fraterna societate omnino separati , sed a corpore
             Christi (quod est ecclesia). </p>
         </div>

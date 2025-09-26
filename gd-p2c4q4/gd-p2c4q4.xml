@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>QUESTIO IV.</title>
+        <title>QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>QUESTIO IV.</title>
+          <title>QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,59 +53,86 @@
     </front>
     <body>
       <div xml:id="gd-p2c4q4">
-        <head xml:id="gd-p2c4q4-Hd1e103">QUESTIO IV.</head>
-
-        <p xml:id="gd-p2c4q4-d1e106"> I. Pars. De quarta uero questione Fabianus Papa [epist. II. ad
+        <head xml:id="gd-p2c4q4-Hd1e103">QUESTIO 4</head>
+        <div xml:id="gd-p2c4q4-Dd1e100">
+          <head xml:id="gd-p2c4q4-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c4q4-d1e106">De quarta uero questione Fabianus Papa [epist. II. ad
           Episcopos orientales] constituit, dicens: </p>
+        </div>
         <div xml:id="gd-p2c4q4-Dd1e109">
-          <head xml:id="gd-p2c4q4-Hd1e111">C. I</head>
-          <head xml:id="gd-p2c4q4-Hd1e114" type="question-title"> Accusator, testis* uel iudex
-            aliquis simul esse non potest . </head>
-          <p xml:id="gd-p2c4q4-d1e117"> Nullus umquam presumat accusator simul esse et iudex uel
+          <head xml:id="gd-p2c4q4-Hd1e111">Caput 1</head>
+          <head xml:id="gd-p2c4q4-Hd1e114" type="question-title"> Accusator, testis uel iudex
+            aliquis simul esse non potest.</head>
+          <p xml:id="gd-p2c4q4-d1e117">
+            Nullus umquam presumat accusator simul esse et iudex uel
             testis, quoniam in omni iudicio quatuor personassemper esse necesse est, id est iudices
-            electos, etidoneos* accusatores, defensores congruos atque legitimostestes. Iudices
-            autem** debent uti equitate, testes ueri-tate, accusatores intentione ad amplificandam
+            electos, et idoneos accusatores, defensores congruos atque legitimostestes. Iudices
+            autem debent uti equitate, testes ueritate, accusatores intentione ad amplificandam
             causam, defensores extenuatione ad minuendam causam. </p>
         </div>
         <div xml:id="gd-p2c4q4-Dd1e121">
-          <head xml:id="gd-p2c4q4-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c4q4-Hd1e123">Caput 2</head>
           <head xml:id="gd-p2c4q4-Hd1e126" type="question-title"> Quilibet in causa duas personas
-            gerere non ualet*. </head>
-          <p xml:id="gd-p2c4q4-d1e129"> Item Dama sus Papa, [epist. IV. c. 7.] </p>
-          <p xml:id="gd-p2c4q4-d1e132"> Nullus introducatur personaliter ad causam, sed accusatores
+            gerere non ualet.</head>
+          <p xml:id="gd-p2c4q4-d1e132"> 
+            Item <ref xml:id="gd-p2c4q4-Rd1e130">Damasus Papa, [epist. IV. c. 7.]</ref> 
+            Nullus introducatur personaliter ad causam, sed accusatores
             et accusati equa audiantur ratione, iuxta quodordo exigit. Accusatores uero et iudices
             non iidem sint, sed per se accusatores, per se iudices, per se testes, per seaccusati,
-            unusquisque in suo ordine. </p>
+            unusquisque in suo ordine.</p>
 
-          <p xml:id="gd-p2c4q4-d1e135"> II. Pars. §. 1. Inscriptio semper fiat ut
+          <p xml:id="gd-p2c4q4-d1e135">§. 1. Inscriptio semper fiat ut
             talionemcalumpniator recipiat, quia ante inscriptionem nemo debetiudicari uel dampnari,
             cum et seculi leges hec eadem retineant. </p>
-          <p xml:id="gd-p2c4q4-d1e139"> Gratian. Codices libro IX. titulo de accusationibus [ 1 .
-            7.] Codice S libro IX ., de adulteriis, [ 1 . 6.] titulo deabigeis, [ 1 . unica]. §. 1.
-            Aliquando etiam sine inscriptione accusatio fieri potest. „Ea enim, que per officiales
+        </div>
+        <div xml:id="gd-p2c4q4-Dd1e137">
+          <head xml:id="gd-p2c4q4-Hd1e139">Dictum</head>
+          <p xml:id="gd-p2c4q4-d1e139">
+            Codices libro IX. titulo de accusationibus [ 1 .
+            7.] Codice S libro IX ., de adulteriis, [ 1 . 6.] titulo deabigeis, [ 1 . unica]. 
+          </p>
+          <p xml:id="gd-p2c4q4-d1e144">
+            §. 1. Aliquando etiam sine inscriptione accusatio fieri potest. „Ea enim, que per officiales
             presidibusnuntiantur, et citra solempnia accusationum posse perpendiincognitum non est.
+          </p>
+          <p xml:id="gd-p2c4q4-d1e146">
             §. 2. Item [Codice de adulteriis, 1 . 6.]; Si maritus iure mariti , hoc est infra
             sexaginta dies utiles, adulterium uxoris suae accusare uoluerit , quam ex suspicionesola
-            ream facere ualet, non continetur uinculo inscriptionis. §. 3. Item [Cod. de abigeis, 1
+            ream facere ualet, non continetur uinculo inscriptionis. 
+          </p>
+          <p xml:id="gd-p2c4q4-d1e148">
+            §. 3. Item [Cod. de abigeis, 1
             . unica]: Abacti animalis accusatio nonsolum cum inscriptionibus, sed etiam sine ea°
-            obseruaiioneproponitur, §. 4. Item [Cod. de accusat, 1 . 8.]: Si quis se iniuriam ab
+            obseruaiioneproponitur,
+          </p>
+          <p xml:id="gd-p2c4q4-d1e151">
+            §. 4. Item [Cod. de accusat, 1 . 8.]: Si quis se iniuriam ab
             aliquo passum putauerit, et querelam deferre uoluerit, nonad stationarios decurrat, sed
             presidialem adeat potestatem, aut libellos offerens, aut querelas suas apud acta
-            deponens, §. 5. In aliis autem * criminalibus causis dignum est, ut
-            inscriptionespreponantur, que magnitudinem uidelicet criminis tempusquedesignent, ut
-            alterutram partem digna legum possit terrere auctoritas **. </p>
-          <p xml:id="gd-p2c4q4-d1e142"> III. Pars. Gratian. De domo etiam iudicis accusator uel
+            deponens, 
+          </p>
+          <p xml:id="gd-p2c4q4-d1e153">
+            §. 5. In aliis autem criminalibus causis dignum est, ut
+            inscriptiones preponantur, que magnitudinem uidelicet criminis tempusquedesignent, ut
+            alterutram partem digna legum possit terrere auctoritas
+          </p>
+        </div>
+        <div xml:id="gd-p2c4q4-Dd1e157">
+          <head xml:id="gd-p2c4q4-Hd1e159">Dictum</head>
+          <p xml:id="gd-p2c4q4-d1e142">De domo etiam iudicis accusator uel
             testis produci non debet, ne in causam suspicionis incidat iudex. </p>
           <p xml:id="gd-p2c4q4-d1e145"> Unde Nicolaus Papa [ad Michaelem Inp., epistola, cuius
-            initium est: , , Proposueramus.^]* </p>
+            initium est: , , Proposueramus.^] </p>
         </div>
         <div xml:id="gd-p2c4q4-Dd1e149">
-          <head xml:id="gd-p2c4q4-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c4q4-Hd1e151">Caput 3</head>
           <head xml:id="gd-p2c4q4-Hd1e154" type="question-title"> Suspicionis incidet in crimen
             iudex, de cuius domo uel accusator uel testis producitur. </head>
-          <p xml:id="gd-p2c4q4-d1e157"> Contra ritum ecclesiasticum, contraque uenerandas leges
+          <p xml:id="gd-p2c4q4-d1e157">
+            Contra ritum ecclesiasticum, contraque uenerandas leges
             producitur accusator de inperialibus edibus, et cui inperaripotest ad falsum dicendum
-            testimonium adhibetur.Fiunt suspecti iudices , et lupi custodes . </p>
+            testimonium adhibetur.Fiunt suspecti iudices , et lupi custodes . 
+          </p>
         </div>
       </div>
     </body>

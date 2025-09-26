@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO ni. </title>
+        <title> QUESTIO 3. </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO ni. </title>
+          <title> QUESTIO 3. </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,19 +53,22 @@
     </front>
     <body>
       <div xml:id="gd-p2c9q3">
-        <head xml:id="gd-p2c9q3-Hd1e103"> QUESTIO ni. </head>
-        <p xml:id="gd-p2c9q3-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c9q3-d1e109"> Quod archiepiscopus clericos sui suffraganei illo inconsulto
+        <head xml:id="gd-p2c9q3-Hd1e103"> QUESTIO 3. </head>
+        <div xml:id="gd-p2c9q3-Dd1e100">
+          <head xml:id="gd-p2c9q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c9q3-d1e109"> 
+          Quod archiepiscopus clericos sui suffraganei illo inconsulto
           dampnare ualeat uel absoluere, sic uidetur posse probari. Sicut totius episcopatus
           ecclesiae in potestate sunt episcopi, sic etecclesiae totius arcliiepiscopatus ad diocesim
           pertinent archiepiscopi. Vocantur enim episcopi a metropolitano in partem sollicitudinis,
           non in plenitudinem potestatis. Sic quippe uices suas eis inpertit, ut potestatem suam
           sibi non adimat. Unde et sineeius consilio nichil eis agere licet, sicut in Concilio
           MartiniPapae legitur [c. 4.] : </p>
+        </div>
         <div xml:id="gd-p2c9q3-Dd1e112">
-          <head xml:id="gd-p2c9q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c9q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c9q3-Hd1e117" type="question-title"> Nec episcopi sine meiropolitani
-            consensu , nec illesine eorum consensu aliquid agere debet. </head>
+            consensu , nec ille sine eorum consensu aliquid agere debet. </head>
           <p xml:id="gd-p2c9q3-d1e120"> Per singulas prouincias oportet episcopos cognoscere
             metropolitanum suum, et ipsum primatus curam suscipere, nichil autem agere reliquos
             episcopos pretereum, secundum quod antiquitus a patribus nostris constitutum continetur
@@ -75,11 +76,12 @@
             consilioceterorum. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e124">
-          <head xml:id="gd-p2c9q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c9q3-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c9q3-Hd1e129" type="question-title"> Sine meiropolitani conscientia
             extra suam diocesim nichil agat episcopus. </head>
-          <p xml:id="gd-p2c9q3-d1e132"> Item ex Concilio Antio ceno, [c. 9.] </p>
-          <p xml:id="gd-p2c9q3-d1e135"> Per singulas prouincias episcopos singulos scire oportet,
+          <p xml:id="gd-p2c9q3-d1e135"> 
+            Item ex <ref xml:id="gd-p2c9q3-Rd1e130">Concilio Antio ceno, [c. 9.]</ref> 
+            Per singulas prouincias episcopos singulos scire oportet,
             episcopum metropolitanum, qui preest, curam et sollicitudinem totius prouinciae
             suscepisse. Propter quod admetropolitanam ciuitatem ab his, qui causas habent,
             concurratur. Quapropter placuit eum et honore precellere, et nichil ultra sine ipso
@@ -91,34 +93,38 @@
             ipsius regionis causis cum moderatione etpondere disceptare. Ultra autem nichil agere
             permittitur citra metropolitani episcopi conscientiam*, nec metropo-litanus sine
             ceterorum aliquid gerat consilio sacerdotum. </p>
-
-
-
-
-          <p xml:id="gd-p2c9q3-d1e138"> Gratian. Nisi forte episcopi yconomos in ecclesia sua
+        </div>
+        <div xml:id="gd-p2c9q3-Dd1e134">
+          <head xml:id="gd-p2c9q3-Hd1e136">Dictum</head>
+          <p xml:id="gd-p2c9q3-d1e138">Nisi forte episcopi yconomos in ecclesia sua
             ordinare contempserint. </p>
           <p xml:id="gd-p2c9q3-d1e142"> Unde in VII. Sinodo [c. ii.J legitur : </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e147">
-          <head xml:id="gd-p2c9q3-Hd1e149">C. III</head>
+          <head xml:id="gd-p2c9q3-Hd1e149">Caput 3</head>
           <head xml:id="gd-p2c9q3-Hd1e152" type="question-title"> Metropolitanus constituat
             yconomos, quos episcopus habere neglexerit.</head>
-          <p xml:id="gd-p2c9q3-d1e155"> . Cum simus debitores omnes sacras regulas custodire, et
+          <p xml:id="gd-p2c9q3-d1e155">
+            Cum simus debitores omnes sacras regulas custodire, et
             eam, que dicit in unaquaque ecclesia yconomos essedebere, modis omnibus inuiolabilem
             conseruare debemus. Et si quidem unusquisque metropolitanus in suaecclesia constituerit
             yconomum, bene utique. Sinautem, exauctoritate propria Constantinopoleos
             episcopislicentia est preponendi yconomos in eius ecclesia. Similiter et metropolitanis,
             si episcopi, qui sub eis sunt, nonsategerint yconomos statuere m suis ecclesiis* Id
             ipsumautem seruandum est etiam in monasteriis. </p>
-          <p xml:id="gd-p2c9q3-d1e158"> Gratian. Probatur illud idem exemplo Apostoli, qui fornicat
+        </div>
+        <div xml:id="gd-p2c9q3-Dd1e158">
+          <head xml:id="gd-p2c9q3-Hd1e160">Dictum</head>
+          <p xml:id="gd-p2c9q3-d1e158">
+            Probatur illud idem exemplo Apostoli, qui fornicat
             orem Corinthium satanae inpenitentem tradidit, postea penitentem ecclesiae reconciliauit
-            , hoc tantum scribens Corinthiisin prima et secunda epistola, ut excommunicato non
+            , hoc tantum scribens Corinthiis in prima et secunda epistola, ut excommunicato non
             communicarent, et reconciliato socia karitate copularentur. Sed contra probatur
             auctoritate multorum. </p>
           <p xml:id="gd-p2c9q3-d1e161"> Ait enim Iginus Papa, [epist. I. c. 2.J: </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e165">
-          <head xml:id="gd-p2c9q3-Hd1e167">C. IV</head>
+          <head xml:id="gd-p2c9q3-Hd1e167">Caput 4</head>
           <head xml:id="gd-p2c9q3-Hd1e170" type="question-title"> Metropolitanus sine episcoporum
             presentiam alicuius eorum non audiat causas . </head>
           <p xml:id="gd-p2c9q3-d1e173"> Saluo in omnibus Romanae ecclesiae priuilegio nullus
@@ -127,32 +133,34 @@
             uentilatae, et ipse, si fecerit, coherceatur a fratribus. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e177">
-          <head xml:id="gd-p2c9q3-Hd1e179">C. V</head>
+          <head xml:id="gd-p2c9q3-Hd1e179">Caput 5</head>
           <head xml:id="gd-p2c9q3-Hd1e182" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e185"> Item Anicius Papa [Episcopis Galliae, c. i.]Archiepiscopus
+          <p xml:id="gd-p2c9q3-d1e185"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e191">Anicius Papa [Episcopis Galliae, c. i.]</ref> Archiepiscopus
             nichil de episcoporum causis autaliis communibus causis iuxta statuta apostolorum
             absquecunctorum illorum agat consilio, nec illi assumant, nisiquantum ad suas pertinet
             parrochias, sine suo consensu, quoniam tali gaudet concordia Altissimus, et gloriatur
-            inmembris suis. </p>
+            inmembris suis. 
+          </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e189">
-          <head xml:id="gd-p2c9q3-Hd1e191">C. VI</head>
+          <head xml:id="gd-p2c9q3-Hd1e191">Caput 6</head>
           <head xml:id="gd-p2c9q3-Hd1e194" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e197"> Idem [in eadem epist. c. 3.]Si autem aliquis
+          <p xml:id="gd-p2c9q3-d1e197"> 
+            <ref xml:id="gd-p2c9q3-Rd1e205">Idem [in eadem epist. c. 3.]</ref> Si autem aliquis
             metropolitanorum inflatus fuerit, etsine omnium conprouincialium presentia uel
             consilioepiscoporum aut causas eorum, aut alias causas (nisieas tantum, que ad propriam
-            suam pertinent parrochiam) </p>
-
-          <p xml:id="gd-p2c9q3-d1e200"> agere, aut eos grauare uoluerit, ab omnibus districte
+            suam pertinent parrochiam)  agere, aut eos grauare uoluerit, ab omnibus districte
             corrigatur, ne talia deinceps presumere audeat. Si uero incorrigibilis eisque inobediens
             apparuerit, ad hanc apostolicam sedem, cui omnia episcoporum iuditia referri precepta
             sunt, eius contumacia referatur, ut uindicta de eo fiat, et ceteri timorem habeant. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e204">
-          <head xml:id="gd-p2c9q3-Hd1e206">C. VII</head>
+          <head xml:id="gd-p2c9q3-Hd1e206">Caput 7</head>
           <head xml:id="gd-p2c9q3-Hd1e209" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e212"> Item Calix tus Papa [Episcopis Galliae, epist. II. c. 3.] </p>
-          <p xml:id="gd-p2c9q3-d1e215"> Nullus primas, nullus metropolitanus dioce-siani ecclesiam
+          <p xml:id="gd-p2c9q3-d1e215"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e219">Calix tus Papa [Episcopis Galliae, epist. II. c. 3.]</ref> 
+            Nullus primas, nullus metropolitanus dioce-siani ecclesiam
             uel parrochiam, aut aliquem deeius parrochia presumat excommunicare uel iudicare,
             aliquidue agere absque eius consilio uel iudicio;sed hoc obseruet, quod ab apostolis, ac
             patribus etdecessoribus nostris est statutum, et a nobis confirmatum; id est: si quis
@@ -166,25 +174,22 @@
             ministrare, “ et alibi: „Qui maior estuestrum erit minister uester.“ Similiter et ipsi
             conpro-uinciales episcopi cuncta cum eius consilio (nisi quantum ad proprias pertinet
             parrochias) agant iuxta sanctorumconstituta Patrum, ut uno animo, uno ore
-            concorditersancta glorificetur Trinitas in secula. </p>
+            concorditersancta glorificetur Trinitas in secula. 
+          </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e219">
-          <head xml:id="gd-p2c9q3-Hd1e221">C. VIII</head>
+          <head xml:id="gd-p2c9q3-Hd1e221">Caput 8</head>
           <head xml:id="gd-p2c9q3-Hd1e224" type="question-title"> In suffraganei parrochia nichil
             absque eius consilio metropolitanus agat. </head>
-          <p xml:id="gd-p2c9q3-d1e227"> Item Nicolaus Rodulfo, Bituricensi Archiepiscopo . </p>
-          <p xml:id="gd-p2c9q3-d1e230"> Conquestus est apostolatui nostro frater noster Sige-bodus
+          <p xml:id="gd-p2c9q3-d1e230"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e234">Nicolaus Rodulfo, Bituricensi Archiepiscopo</ref>. 
+            Conquestus est apostolatui nostro frater noster Sige-bodus
             archiepiscopus Narbonensis, quod clericos suos eo inuito ad iudicium tuum uenire
             conpellas, et de rebus adecclesiam suam pertinentibus eo inconsulto quasi iure
             patri-archatus tui disponas, cum hoc nec antiquitas (cui Patressanxere reuerentiam)
             habeat, et auctoritas sacrorumcanonum penitus interdicat, nisi forte pro causis, queapud
             se terminari non possunt, ad te quasi ad patriarcham suum prouocauerint per
-            appellationes, uel si </p>
-
-
-
-
-          <p xml:id="gd-p2c9q3-d1e233"> episcopus suus decesserit, res ecclesiae suae tuo iudicio
+            appellationes, uel si episcopus suus decesserit, res ecclesiae suae tuo iudicio
             dispensare uoluerint. Primates enim uel patriarchasnichil priuilegii habere pre ceteris
             episcopis, nisi quantumsacri canones concedunt et prisca consuetudo illis antiquitus
             contulit, diffinimus, ita ut secundum Nicenas regulassua priuilegia seruentur ecclesiis
@@ -192,24 +197,28 @@
             priuilegio decreuerit honorare. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e238">
-          <head xml:id="gd-p2c9q3-Hd1e240">C. IX</head>
-          <head xml:id="gd-p2c9q3-Hd1e243" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p2c9q3-d1e246"> Item B e da super Apocalipsin: „Et angelo ecclesiae Ephesi
-            scrjibe. </p>
-          <p xml:id="gd-p2c9q3-d1e249"> Episcopo scribit, de cuius manu peccata requirit subditorum,
+          <head xml:id="gd-p2c9q3-Hd1e240">Caput 9</head>
+          <head xml:id="gd-p2c9q3-Hd1e243" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c9q3-d1e249"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e248">Beda super Apocalips in: „Et angelo ecclesiae Ephesi scrjibe.</ref> 
+            Episcopo scribit, de cuius manu peccata requirit subditorum,
             nec sine eius consilio subditos iudicare debeat. </p>
-          <p xml:id="gd-p2c9q3-d1e252"> Gratian. Sola enim Romana ecclesia sua auctoritate ualet de
+        </div>
+        <div xml:id="gd-p2c9q3-Dd1e252">
+          <head xml:id="gd-p2c9q3-Hd1e254">Dictum</head>
+          <p xml:id="gd-p2c9q3-d1e252">Sola enim Romana ecclesia sua auctoritate ualet de
             omnibus iudicare; de ea uero nulli iudicare permittitur. </p>
-          <p xml:id="gd-p2c9q3-d1e256"> Unde Nicolaus Papa [ad Michaelem Inperatorem in epistola,
-            cuius initium: , , Proposueramus“]* </p>
+          <p xml:id="gd-p2c9q3-d1e256">Unde Nicolaus Papa [ad Michaelem Inperatorem in epistola,
+            cuius initium: "Proposueramus“</p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e260">
-          <head xml:id="gd-p2c9q3-Hd1e262">C. X</head>
+          <head xml:id="gd-p2c9q3-Hd1e262">Caput 10</head>
           <head xml:id="gd-p2c9q3-Hd1e265" type="question-title"> Apostolicae sedis iudicium a
             nemine est retractandum.</head>
-          <p xml:id="gd-p2c9q3-d1e268"> Patet profecto sedis apostolicae (cuius auctoritate maius
+          <p xml:id="gd-p2c9q3-d1e268">
+            Patet profecto sedis apostolicae (cuius auctoritate maius
             non est) iudicium a nemine fore retractandum, neque cuiquam de eius liceat iudicare
-            iudicio, iuxtaquod Innocentius** Papa Rufo et ceteris episcopis perThessaliam
+            iudicio, iuxtaquod Innocentius Papa Rufo et ceteris episcopis perThessaliam
             constitutis scribens ait: „Nemo umquam apostolice culmini (de cuius iudicio non licet
             retractari manusobuias audacter intulit, nemo in hoc rebellis extitit, nisi quide se
             uoluit iudicari , “ et B. Papa Gelasius: „Necde eius (id est Romanae ecclesiae) canones
@@ -217,40 +226,44 @@
             dissolui, cuius potius sequendadecreta mandauerunt.“ </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e272">
-          <head xml:id="gd-p2c9q3-Hd1e274">C. XI</head>
+          <head xml:id="gd-p2c9q3-Hd1e274">Caput 11</head>
           <head xml:id="gd-p2c9q3-Hd1e277" type="question-title"> Ab aliis dampnatos uel
             excommunicatos apostolica soluit auctoritas.</head>
-          <p xml:id="gd-p2c9q3-d1e280"> Item Anastasius % Patriarcha Felici Papae [II.]. </p>
-          <p xml:id="gd-p2c9q3-d1e283"> Fuit semper uestrae apostolicae sedis licentia iniuste
+          <p xml:id="gd-p2c9q3-d1e283">
+            Item <ref xml:id="gd-p2c9q3-Rd1e285">Anastasius Patriarcha Felici Papae [II.].</ref> 
+            Fuit semper uestrae apostolicae sedis licentia iniuste
             dampnatos uel excommunicatos potestatiue suaauctoritate restituere, et sua eis omnia
-            reddere, et illos, quieos condempnauerunt aut excommunicauerunt, apostolicopunire
-            priuilegio, sicut etiam nostris et anterioribusnouimus factum temporibus. </p>
-
+            reddere, et illos, quieos condempnauerunt aut excommunicauerunt, apostolico punire
+            priuilegio, sicut etiam nostris et anterioribus nouimus factum temporibus. 
+          </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e287">
-          <head xml:id="gd-p2c9q3-Hd1e289">C. XII</head>
+          <head xml:id="gd-p2c9q3-Hd1e289">Caput 12</head>
           <head xml:id="gd-p2c9q3-Hd1e292" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p2c9q3-d1e295"> Item [ibidem paulo inferius]. </p>
-          <p xml:id="gd-p2c9q3-d1e298"> Antiquis regulis censitum est, ut quicquid (quamuis in
+          <p xml:id="gd-p2c9q3-d1e298"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e299">[ibidem paulo inferius].</ref> 
+            Antiquis regulis censitum est, ut quicquid (quamuis in
             remotis aut in longinquo positis prouinciis) supereorum querelis aut accusationibus
             ageretur, non priustractandum uel accipiendum esset, quam ad notitiam almaesedis uestrae
             esset deductum, ut huius auctoritate, iuxta quod* fuisset pronunciatio infirmaretur
             autfirmaretur. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e302">
-          <head xml:id="gd-p2c9q3-Hd1e304">C. XIII</head>
+          <head xml:id="gd-p2c9q3-Hd1e304">Caput 13</head>
           <head xml:id="gd-p2c9q3-Hd1e307" type="question-title"> Prima sedes nullius iudicio
             subiaceat . </head>
-          <p xml:id="gd-p2c9q3-d1e310"> Item Innocentius Papa*. </p>
-          <p xml:id="gd-p2c9q3-d1e313"> Nemo iudicabit primam sedem, iustitiam temperare
-            desiderantem**. Neque enim ab augusto, neque ab omni clero, neque a regibus, neque a
-            populo iudex iudi-cabitur. </p>
+          <p xml:id="gd-p2c9q3-d1e313"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e314">Innocentius Papa</ref>
+            Nemo iudicabit primam sedem, iustitiam temperare
+            desiderantem. Neque enim ab augusto, neque ab omni clero, neque a regibus, neque a
+            populo iudex iudicabitur. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e317">
-          <head xml:id="gd-p2c9q3-Hd1e319">C. XIV</head>
+          <head xml:id="gd-p2c9q3-Hd1e319">Caput 14</head>
           <head xml:id="gd-p2c9q3-Hd1e322" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e325"> Item Symacus . </p>
-          <p xml:id="gd-p2c9q3-d1e328"> Aliorum hominum causas Deus uoluit terminare per homines,
+          <p xml:id="gd-p2c9q3-d1e328"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e328">Symacus</ref> 
+            Aliorum hominum causas Deus uoluit terminare per homines,
             sedis istius presulem suo sine questione reseruauit arbitrio. Voluit B. Petri
             apostolisuccessores celo tantum debere innocentiam, et subtilissimi discussoris indagini
             inuiolatam habere conscientiam. Nolite existimare eas animas inquisitoris s non habere
@@ -265,23 +278,23 @@
             uestram? </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e333">
-          <head xml:id="gd-p2c9q3-Hd1e335">C. XV</head>
+          <head xml:id="gd-p2c9q3-Hd1e335">Caput XV</head>
           <head xml:id="gd-p2c9q3-Hd1e338" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e341"> Item Anteros Papa [ad Episcopos prouinciarum Beticae </p>
-          <p xml:id="gd-p2c9q3-d1e344"> et Toletanae] . </p>
-          <p xml:id="gd-p2c9q3-d1e347"> Facta subditorum iudicantur a nobis: nostra uero a </p>
-
-
-
-
-          <p xml:id="gd-p2c9q3-d1e351"> Domino iudicantur. §. i.226c Deteriores sunt qui uitam
+          <p xml:id="gd-p2c9q3-d1e347"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e342">Anteros Papa [ad Episcopos prouinciarum Beticae et Toletanae]</ref> 
+            Facta subditorum iudicantur a nobis: nostra uero a 
+            Domino iudicantur. 
+          </p>
+          <p xml:id="gd-p2c9q3-d1e345">
+            §. i. Deteriores sunt qui uitam
             moresque bonorum corrumpunt his, qui substantias aliorum prediaque diripiunt. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e355">
-          <head xml:id="gd-p2c9q3-Hd1e357">C. XVI</head>
+          <head xml:id="gd-p2c9q3-Hd1e357">Caput 16</head>
           <head xml:id="gd-p2c9q3-Hd1e360" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e363"> Item Gei as ius [ad Faustum legatum ]. </p>
-          <p xml:id="gd-p2c9q3-d1e366"> Ipsi sunt canones, qui appellationes totius ecclesiae ad
+          <p xml:id="gd-p2c9q3-d1e366"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e358">Gelasius [ad Faustum legatum ].</ref> 
+            Ipsi sunt canones, qui appellationes totius ecclesiae ad
             huius sedis examen uoluerunt deferre. Abipsa uero numquam prorsus appellare debere
             sanxerunt, ac per hoc illam de tota ecclesia iudicare, ipsam adnullius conmeare
             iudicium, nec de eius umquam prece-perunt iudicari iudicio, sententiamque eius
@@ -289,65 +302,77 @@
           </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e370">
-          <head xml:id="gd-p2c9q3-Hd1e372">C. XVII</head>
+          <head xml:id="gd-p2c9q3-Hd1e372">Caput 17</head>
           <head xml:id="gd-p2c9q3-Hd1e375" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e378"> Idem omnibus Episcopis . </p>
-          <p xml:id="gd-p2c9q3-d1e381"> Cuncta per mundum nouit ecclesia, quod sacrosancta Romana
+          <p xml:id="gd-p2c9q3-d1e381"> 
+            <ref xml:id="gd-p2c9q3-Rd1e372">Idem omnibus Episcopis.</ref>
+            Cuncta per mundum nouit ecclesia, quod sacrosancta Romana
             ecclesia fas de omnibus habet iudicandi, neque cuiquam de eius liceat iudicare iudicio.
             Siquidem adillam de qualibet mundi parte appellandum est: ab illaautem nemo est
-            appellare permissus. §. i. Sed necilla preterimus, quod apostolica sedes sine ulla
+            appellare permissus. 
+          </p>
+          <p xml:id="gd-p2c9q3-d1e375">
+            §. i. Sed necilla preterimus, quod apostolica sedes sine ulla
             precedente Sinodo et soluendi quos sinodus iniquadampnauerat, et dampnandi, nulla
-            existente Sinodo, quosoportuit habuerit facultatem, et hoc nimirum pro.suo principatu,
+            existente Sinodo, quosoportuit habuerit facultatem, et hoc nimirum pro suo principatu,
             quem B. Petrus apostolus Domini uoceet tenuit semper et tenebit. </p>
-          <p xml:id="gd-p2c9q3-d1e384"> [C. XVIII.] </p>
-          <p xml:id="gd-p2c9q3-d1e388"> Idem Episcopis per Dardaniam constitutis^. </p>
-          <p xml:id="gd-p2c9q3-d1e391"> Cuncta per mundum nouit ecclesia, quoniam quorumlibet
+        </div>
+        <div xml:id="gd-p2c9q3-Dd1e378">
+          <head xml:id="gd-p2c9q3-Hd1e380">Caput 18</head>
+          <p xml:id="gd-p2c9q3-d1e391"> 
+            <ref xml:id="gd-p2c9q3-Rd1e384">Idem Episcopis per Dardaniam constitutis.</ref>
+            Cuncta per mundum nouit ecclesia, quoniam quorumlibet
             sententiis ligata pontificum sedes B. Petri apostoli ius habeat resoluendi, utpote que
-            de omni ecclesia fashabeat iudicandi etc . </p>
+            de omni ecclesia fashabeat iudicandi etc .
+          </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e395">
-          <head xml:id="gd-p2c9q3-Hd1e397">C. XIX</head>
+          <head xml:id="gd-p2c9q3-Hd1e397">Caput 19</head>
           <head xml:id="gd-p2c9q3-Hd1e400" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e403"> Item Sixtus Papa [II.] Ispaniorum Episcopis, </p>
-          <p xml:id="gd-p2c9q3-d1e406"> [epist. II. cap. 4.] </p>
-          <p xml:id="gd-p2c9q3-d1e409"> Fratres, quos timore terreno iniuste dampnastis, scitote a
+          <p xml:id="gd-p2c9q3-d1e406"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e399">Sixtus Papa [II.] Ispaniorum Episcopis, [epist. II. cap. 4.]</ref> 
+            Fratres, quos timore terreno iniuste dampnastis, scitote a
             nobis iuste esse restitutos, quibus ex auctoritate omnia, que eis ablata sunt,
-            integerrime reddi precipimus, sinon uultis et uos et principes uestri a collegio nostro
+            integerrime reddi precipimus, si non uultis et uos et principes uestri a collegio nostro
             etmembris ecclesiae separari. </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e413">
-          <head xml:id="gd-p2c9q3-Hd1e415">C. XX</head>
+          <head xml:id="gd-p2c9q3-Hd1e415">Caput 20</head>
           <head xml:id="gd-p2c9q3-Hd1e418" type="question-title"> Cuiuslibet ecclesiae clericos Papa
             ualet ordinare. </head>
-          <p xml:id="gd-p2c9q3-d1e421"> Item Stephanus Episcopus Walberto Patriarchae . </p>
-
-          <p xml:id="gd-p2c9q3-d1e424"> Nunc uero iterato scribimus tibi, nolentes alicuius
+          <p xml:id="gd-p2c9q3-d1e424"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e413">Stephanus Episcopus Walberto Patriarchae</ref>. 
+            Nunc uero iterato scribimus tibi, nolentes alicuius
             ecclesiae priuilegium infringere, licet apostolica prerogatiuapossimus de qualibet
-            ecclesia clericum ordinare: desine iamcuiuspiam zelo Cumensis* ecclesiae antistitem
+            ecclesia clericum ordinare: desine iam cuiuspiam zelo Cumensis ecclesiae antistitem
             protelare, quia, si protelaueris et eum consecrare iam tociensmonitus non maturaueris,
-            proculdubio consecratusabibit. </p>
+            proculdubio consecratus abibit. 
+          </p>
         </div>
         <div xml:id="gd-p2c9q3-Dd1e428">
-          <head xml:id="gd-p2c9q3-Hd1e430">C. XXI</head>
+          <head xml:id="gd-p2c9q3-Hd1e430">Caput 21</head>
           <head xml:id="gd-p2c9q3-Hd1e433" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c9q3-d1e436"> Item Nicolaus Papa Michaeli Inperatori [in epistola, cuius
-            initium: , , Proposueramus “]. </p>
-          <p xml:id="gd-p2c9q3-d1e439"> Per principalem igitur beatorum Petri et Pauli, de qua supra
+          <p xml:id="gd-p2c9q3-d1e439"> 
+            Item <ref xml:id="gd-p2c9q3-Rd1e427">Nicolaus Papa Michaeli Inperatori [in epistola, cuius initium: "Proposueramus “].</ref>
+            Per principalem igitur beatorum Petri et Pauli, de qua supra
             exposuimus, potestatem et iushabemus non solum in monachos, uerum etiam inquoslibet
             clericos de quacumque diocesi, cum necesse fuerit, ad nos conuocare, atque
-            ecclesiasticis exigentibus oportuni-tatibus inuitare. </p>
-          <p xml:id="gd-p2c9q3-d1e442"> Gratian. Sed aliud est quod ex temeritate assumitur
-            presumptionis, aliud quod ex necessitate geritur Jcaritatis. Cumsuffraganei
-            archiepiscoporum subditis suis ad malum fauereceperint, atque circa eorum correctionem s
+            ecclesiasticis exigentibus oportuni-tatibus inuitare.</p>
+        </div>
+        <div xml:id="gd-p2c9q3-Dd1e431">
+          <head xml:id="gd-p2c9q3-Hd1e43z">Dictum</head>
+          <p xml:id="gd-p2c9q3-d1e442">Sed aliud est quod ex temeritate assumitur
+            presumptionis, aliud quod ex necessitate geritur Jcaritatis. Cum suffraganei
+            archiepiscoporum subditis suis ad malum fauere ceperint, atque circa eorum correctionem s
             negligentes extiterint, tunc licet metropolitanis preter illorum uoluntatem et
             ligandosdampnare, et reconciliandos absoluere. Cum uero episcopi zelodiuinae Jcaritatis
             accensi bonos uerbo et exemplo edificant , malorum- uicia aspera increpatione
             redarguunt, absquetalium consilio non licet metropolitanis in eorum parrochia aliquid
-            agere uel disponere. Unde in fine capituli MartiniPapae non simpliciter dictum est:
-            „nichil agat, sed cumdeterminatione , , nichil presumptiue assumat absque eorum
-            consilio, ut uicium presumptionis uideatur inprobatum , nonoffitium Jcaritatis. Sic et
+            agere uel disponere. Unde in fine capituli Martini Papae non simpliciter dictum est:
+            „nichil agat, sed cum determinatione , , nichil presumptiue assumat absque eorum
+            consilio, ut uicium presumptionis uideatur inprobatum , non offitium Jcaritatis. Sic et
             Apostolus , quia Corinthios uidit negligentes circa correctionem fornicatoris , sua
-            auctoritateillum dampnanit. lohannes uero, quia episcopum Ephesiorumuidit paratum ad
+            auctoritateillum dampnanit. Iohannes uero, quia episcopum Ephesiorum uidit paratum ad
             corrigenda uicia subditorum, sine eius auctoritate illos corrigere noluit, sed illum
             tantum de eorum correctione admonuit. </p>
         </div>
