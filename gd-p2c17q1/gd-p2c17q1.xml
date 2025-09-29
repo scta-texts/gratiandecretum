@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,60 +53,76 @@
     </front>
     <body>
       <div xml:id="gd-p2c17q1">
-        <head xml:id="gd-p2c17q1-Hd1e103"> QUESTIO I. </head>
-
-        <p xml:id="gd-p2c17q1-d1e106"> I. Pars. Quod a uoto discedere non liceat, multis
+        <head xml:id="gd-p2c17q1-Hd1e103">QUESTIO 1</head>
+        <p xml:id="gd-p2c17q1-d1e106">Quod a uoto discedere non liceat, multis
           auctoritatibus probatur. Ait enim Propheta : „Vouete, et reddite Domino Deo uestro. </p>
         <div xml:id="gd-p2c17q1-Dd1e109">
-          <head xml:id="gd-p2c17q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c17q1-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c17q1-Hd1e114" type="question-title"> Que Deo uouentur necessario
             reddantur . </head>
-          <p xml:id="gd-p2c17q1-d1e117"> Item Augustinus *. </p>
-          <p xml:id="gd-p2c17q1-d1e120"> Sunt quedam, que etiam non uouentes debemus; quedam etiam,
+          <p xml:id="gd-p2c17q1-d1e120"> 
+            Item <ref xml:id="gd-p2c17q1-Rd1e113">Augustinus</ref>
+            Sunt quedam, que etiam non uouentes debemus; quedam etiam,
             que nisi uouerimus, non debemus, sed postquam ea Deo promittimus, necessario reddere
-            constringimur. </p>
-          <p xml:id="gd-p2c17q1-d1e123"> [C. II.] Item Ieronimus. </p>
-          <p xml:id="gd-p2c17q1-d1e127"> Vouentibus non solum nubere, sed etiam uelle dam-pnabile
+            constringimur.
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q1-Dd1e117">
+          <head xml:id="gd-p2c17q1-Hd1e119">Caput 2</head>
+          <p xml:id="gd-p2c17q1-d1e127">
+            Item <ref xml:id="gd-p2c17q1-Rd1e123">Ieronimus.</ref> 
+            Vouentibus non solum nubere, sed etiam uelle dampnabile
             est. </p>
         </div>
         <div xml:id="gd-p2c17q1-Dd1e131">
-          <head xml:id="gd-p2c17q1-Hd1e133">C. III</head>
+          <head xml:id="gd-p2c17q1-Hd1e133">Caput 3</head>
           <head xml:id="gd-p2c17q1-Hd1e136" type="question-title"> Dignus est supplicio qui se ipsum
             Deo subtrahit a uoto resiliens.</head>
-          <p xml:id="gd-p2c17q1-d1e139"> Item Gregorius in I. libro Regisiri , [lib. I. epist. 33.
-            ad Venantium]. </p>
-          <p xml:id="gd-p2c17q1-d1e142"> Ananias Deo pecunias uouerat, quas post diaboli </p>
-
-
-
-
-          <p xml:id="gd-p2c17q1-d1e145"> uictus persuasione subtraxit. Sed qua morte mulctatus est,
+          <p xml:id="gd-p2c17q1-d1e142"> 
+            Item <ref xml:id="gd-p2c17q1-Rd1e137">Gregorius in I. libro Regisiri , [lib. I. epist. 33. ad Venantium].</ref> 
+            Ananias Deo pecunias uouerat, quas post diaboli 
+            uictus persuasione subtraxit. Sed qua morte mulctatus est,
             scis. Si ergo ille mortis periculo dignus fuit, quieos, quos dederat, nummos Deo
-            abstulit, considera, quantopericulo in diuino dignus eris iudicio, qui non nummos,
-            sedtemetipsum omnipotenti Deo (cui te sub monachico habitu deuoueras) subtraxisti. </p>
+            abstulit, considera, quanto periculo in diuino dignus eris iudicio, qui non nummos,
+            sed temetipsum omnipotenti Deo (cui te sub monachico habitu deuoueras) subtraxisti. 
+          </p>
         </div>
         <div xml:id="gd-p2c17q1-Dd1e149">
-          <head xml:id="gd-p2c17q1-Hd1e151">C. IV</head>
+          <head xml:id="gd-p2c17q1-Hd1e151">Caput 4</head>
           <head xml:id="gd-p2c17q1-Hd1e154" type="question-title"> Ante Dei oculos cadunt qui bona,
             que concipiunt agere recusant. </head>
-          <p xml:id="gd-p2c17q1-d1e157"> Idem super Ezechielem, [lib. I. homil. 3.] </p>
-          <p xml:id="gd-p2c17q1-d1e160"> Qui bona agunt, si meliora agere deliberant, et post
+          <p xml:id="gd-p2c17q1-d1e160"> 
+            <ref xml:id="gd-p2c17q1-Rd1e152">Idem super Ezechielem, [lib. I. homil. 3.]</ref> 
+            Qui bona agunt, si meliora agere deliberant, et post
             deliberata non faciunt, licet in bonis prioribus perseuerent, in conspectu tamen Dei
-            ceciderunt ex deliberatione. Item :§. 1. Sunt qui cuncta relinquere, et Dei seruicio se
-            subdere, et freno castitatis se restringere deliberant; sed cum postcastitatem alios
-            cecidisse conspiciunt, se retrahendo meritum perdunt. </p>
-          <p xml:id="gd-p2c17q1-d1e163"> Gratian. Si ergo post uotum quisque necessario cogitur
-            soluere quod uouit; si uouentibus non solum nubere, sed etiamuelle dampnabile est:
-            patet, quod sacerdos iste ad executionemsui uoti cogendus est, et non solum non fieri,
-            sed etiam uellemonachum non fieri sibi dampnabile est. §. 1. Quod autem inter uouentes
-            iste conputandus sit, patet ex uerbis Augustini dicentis : , , Dixi, confitebor, etc.
-            Magna pietas Dei est, ut adsolam promissionem peccata dimittat. Nondum enim
-            pronunciatore, et tamen Deus iam audit in corde; uotum enim pro operereputatur .“ Sicut
-            ergo Propheta inter uouentes reputatur, quiadixit: Ego confitebor; sic et iste inter
+            ceciderunt ex deliberatione. 
+          </p>
+          <p xml:id="gd-p2c17q1-d1e155">
+            Item: §. 1. Sunt qui cuncta relinquere, et Dei seruicio se
+            subdere, et freno castitatis se restringere deliberant; sed cum post castitatem alios
+            cecidisse conspiciunt, se retrahendo meritum perdunt.
+          </p>
+        </div>
+        <div xml:id="gd-p2c17q1-Dd1e158">
+          <head xml:id="gd-p2c17q1-Hd1e160">Dictum</head>
+          <p xml:id="gd-p2c17q1-d1e163">Si ergo post uotum quisque necessario cogitur
+            soluere quod uouit; si uouentibus non solum nubere, sed etiam uelle dampnabile est:
+            patet, quod sacerdos iste ad executionem sui uoti cogendus est, et non solum non fieri,
+            sed etiam uelle monachum non fieri sibi dampnabile est. 
+          </p>
+          <p xml:id="gd-p2c17q1-d1e165">
+            §. 1. Quod autem inter uouentes
+            iste conputandus sit, patet ex uerbis Augustini dicentis: "Dixi, confitebor, etc.
+            Magna pietas Dei est, ut ad solam promissionem peccata dimittat. Nondum enim
+            pronunciatore, et tamen Deus iam audit in corde; uotum enim pro operere putatur.“ Sicut
+            ergo Propheta inter uouentes reputatur, quia dixit: Ego confitebor; sic et iste inter
             eosdem conputandus est, quia dixit: Fiam monachus. His ita respondetur; Aliud
-            estpropositum corde concipere, et etiam ore enunciare; aliud estsubsequenti obligatione
-            se reum uoti facere. §. 2. Quia ergo * iste propositum sui cordis ore simpliciter
-            enunciauit, non autemmonasterio aut abbati se tradidit, nec promissionem scripsit
+            estpropositum corde concipere, et etiam ore enunciare; aliud est subsequenti obligatione
+            se reum uoti facere. 
+          </p>
+          <p xml:id="gd-p2c17q1-d1e167">
+            §. 2. Quia ergo iste propositum sui cordis ore simpliciter
+            enunciauit, non autem monasterio aut abbati se tradidit, nec promissionem scripsit
             nequaquam reus uoti habetur. </p>
         </div>
       </div>

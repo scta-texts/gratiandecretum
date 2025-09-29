@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,9 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p2c20q3">
-        <head xml:id="gd-p2c20q3-Hd1e103"> QUESTIO III. </head>
-        <div>
-          <head>Dictum</head>
+        <head xml:id="gd-p2c20q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c20q3-Dd1e100">
+          <head xml:id="gd-p2c20q3-Hd1e102">Dictum</head>
           <p xml:id="gd-p2c20q3-d1e109"> 
             I. Pars. Quod autem qui inuitus propositum religionis
             susceperit non sit cogendus ad inuiti propositi obseruationem, testatur Leo Papa [epist.
@@ -65,7 +63,7 @@
           </p>
         </div>
         <div xml:id="gd-p2c20q3-Dd1e112">
-          <head xml:id="gd-p2c20q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c20q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c20q3-Hd1e117" type="question-title"> Non potest deseri propositum
             monachi sponte susceptum.</head>
           <p xml:id="gd-p2c20q3-d1e120">
@@ -77,11 +75,11 @@
           </p>
         </div>
         <div xml:id="gd-p2c20q3-Dd1e124">
-          <head xml:id="gd-p2c20q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c20q3-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c20q3-Hd1e129" type="question-title"> Qui religiosum habitum sponte
             susceptum deserere uoluerit ad ipsum redire cogatur. </head>
           <p xml:id="gd-p2c20q3-d1e132"> 
-            Item ex <ref>Concilio Tollet an o VII., [c. 6.]</ref> Procliuis autem
+            Item ex <ref xml:id="gd-p2c20q3-Rd1e130">Concilio Tollet an o VII., [c. 6.]</ref> Procliuis autem
             cursus est ad uoluptatem et imitatrix natura uitiorum. Quamobrem quisquis uirorumuel
             mulierum habitum semel induerit spontanee religiosum, aut si uir deditus ecclesiae, uel°
             femina fueritdelegata puellarum monasterio, in utroque sexu preuaricator inuitus
@@ -93,19 +91,21 @@
           </p>
         </div>
         <div xml:id="gd-p2c20q3-Dd1e137">
-          <head xml:id="gd-p2c20q3-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c20q3-Hd1e139">Caput 3</head>
           <head xml:id="gd-p2c20q3-Hd1e142" type="question-title"> Semel in clero taxati , uel
             monasteriis deputati , ad miliciam non redeant . </head>
-          <p xml:id="gd-p2c20q3-d1e145"> Item ex Concilio Calcedonensi , [c. 7.]Eos, qui semel in
+          <p xml:id="gd-p2c20q3-d1e145"> 
+            Item ex <ref xml:id="gd-p2c20q3-Rd1e144">Concilio Calcedonensi , [c. 7.]</ref> Eos, qui semel in
             clero taxati fuerint, siue in monasterio deputati, decreuimus neque ad miliciam, neque
             adhonores seculares uenire. Eos autem, qui hoc ausi fuerintfacere, et non eius rei
-            penitere maluerint, ut ad hoc idemreuertantur, quod ante non obtentu Dei sibi
-            proposuerunt, conuenit anathematizari. </p>
+            penitere maluerint, ut ad hoc idem reuertantur, quod ante non obtentu Dei sibi
+            proposuerunt, conuenit anathematizari. 
+          </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c20q3-Dd1e149">
+          <head xml:id="gd-p2c20q3-Hd1e151">Dictum</head>
           <p xml:id="gd-p2c20q3-d1e148">
-            <!-- II. Pars. Gratian. -->Cum dicitur , propositum monachi proprio
+            Cum dicitur, propositum monachi proprio
             arbitrio et uoluntate susceptum , intelligitur , quod si propria uoluntate susceptum non
             fuerit , obseruari non cogitur. 
           </p>
@@ -115,11 +115,11 @@
           </p>
         </div>
         <div xml:id="gd-p2c20q3-Dd1e155">
-          <head xml:id="gd-p2c20q3-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c20q3-Hd1e157">Caput 4</head>
           <head xml:id="gd-p2c20q3-Hd1e160" type="question-title">
             Monasterialibus disciplinis nullus subiciatur inuitus.
           </head>
-          <p>
+          <p xml:id="gd-p2c20q3-d1e168">
             Presens clericus, nomine Lambertus, una cum patre suo, nomine
             Atto, quondam uidelicet comite, nunc autem clerico, ad limina apostolorum properans
             adiit presentiam nostram, asserens qualiter idem pater eius in laicali adhuc ordinein
@@ -141,8 +141,11 @@
             indutumillum obtuli, neque a quocumque sacerdote uel abbate (utmos poscit) benedictione
             percepta regulae umquam semonachum subiectum futurum promisit. Super hisomnibus
             protestatus est prefatus clericus Atto, quia sieo tempore tam durae obseruantiae
-            monasticam intellexisset regulam, numquam eundem filium suumLambertumcoegisset portare
-            cucullam. §. 1. Quapropter consulte psalmographi uerba recolentes, quibus uoluntarie se
+            monasticam intellexisset regulam, numquam eundem filium suum Lambertumcoegisset portare
+            cucullam. 
+          </p>
+          <p xml:id="gd-p2c20q3-d1e170">
+            §. 1. Quapropter consulte psalmographi uerba recolentes, quibus uoluntarie se
             Deo sacrificare pronunciat, et uoluntaria oris sui bene placita fieri in conspectu Dei
             obsecrat, presentem, ut dictum est, clericum nomine Lambertum minime debere
             existimaui-mus sub tali uiolentia fieri monachum. Quod enim quis non elegit, nec optat,
@@ -162,10 +165,9 @@
             mercedem accipiet secundum suum laborem. 
           </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c20q3-Dd1e173">
+          <head xml:id="gd-p2c20q3-Hd1e175">Dictum</head>
           <p xml:id="gd-p2c20q3-d1e163">
-            <!--III. Pars. Gratian.--> 
             Si uero episcopi uel abbatis
             promissionibus illecti aliqui tonsuram uel religionis uestem susceperint , ipsi quidem
             in eo , quod ceperunt , permaneant , res uero eorum heredibus suis restituantur.
@@ -175,8 +177,8 @@
           </p>
         </div>
         <div xml:id="gd-p2c20q3-Dd1e170">
-          <head xml:id="gd-p2c20q3-Hd1e172">C. V</head>
-          <head xml:id="gd-p2c20q3-Hd1e175" type="question-title">
+          <head xml:id="gd-p2c20q3-Hd1e172">Caput 5</head>
+          <head xml:id="gd-p2c20q3-Hd1e17z" type="question-title">
             Restituantur heredibus res eorum, 
             qui ab episcopis uel abbatibus decepti comas deposuerunt.
           </head>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,13 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p2c16q2">
-        <head xml:id="gd-p2c16q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c16q2-d1e106"> I. Pars. De capellis uero , que ab eis possidentur , quod per
+        <head xml:id="gd-p2c16q2-Hd1e103"> QUESTIO 2</head>
+        <div xml:id="gd-p2c16q2-Dd1e100">
+          <head xml:id="gd-p2c16q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c16q2-d1e106"> De capellis uero , que ab eis possidentur , quod per
           eorum institutionem a sacerdotibus sint gubernandae, I oh annes Papa probat, scribens
-          Ysaac Siracusano Episcopo*. </p>
+          Ysaac Siracusano Episcopo. </p>
+        </div>
         <div xml:id="gd-p2c16q2-Dd1e109">
-          <head xml:id="gd-p2c16q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c16q2-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c16q2-Hd1e114" type="question-title"> Presbiteri in monasteriorum
             ecclesiis instituantur per abbates.</head>
           <p xml:id="gd-p2c16q2-d1e117"> Visis litteris karitatis uestrae, quibus satis perpenditur,
@@ -77,109 +77,152 @@
             humanum genus euertere et perturbare.Dolet enim satis et erubescit karitatem, quam in
             celo ne-quiuit habere, homines constantes ex lutea materia in terratenere. Unde oportet
             (quantum fragilitati nostrae conceditur) ut omnes aditus nocendi eius uersuciae
-            muniamus, ne mors ingrediatur per portas nostras. §. 1. Consilioitaque multorum fratrum
+            muniamus, ne mors ingrediatur per portas nostras. 
+          </p>
+          <p xml:id="gd-p2c16q2-d1e119">
+            §. 1. Consilioitaque multorum fratrum
             diligenter exquisito decernimus, ut amodo ecclesiae monachis traditae per suos
             sacerdotesinstituantur. Diuinae enim leges habent et seculares, utcuius est possessio
-            eius fiat institutio, et si in dando quodmaius est facilis fuit karitas, sit facilior in
-            concedendo quodminus est sancta largitas. Maius enim fuit possessionemdare quam sit
+            eius fiat institutio, et si in dando quod maius est facilis fuit karitas, sit facilior in
+            concedendo quodminus est sancta largitas. Maius enim fuit possessionem dare quam sit
             inuestituram concedere. Quomodo possessoris iura cognoscentur, et suarum rerum sibi
-            tributareddentur, ubi quod suum est per alterum datur, et, cumuoluerit, aufertur? Humani
-            moris est illum uereri, cuiusiudicio et uoluntate nunc erigitur, nunc deprimitur.
+            tributa reddentur, ubi quod suum est per alterum datur, et, cum uoluerit, aufertur? Humani
+            moris est illum uereri, cuius iudicio et uoluntate nunc erigitur, nunc deprimitur.
             Undefit, ut in partem episcopi ad seruiendum sacerdos procliuiorfiat, et sic episcopus
             quod sancte et religiose dederat quadam simulata auctoritate ad se trahat. Sic itaque
-            priuaturmercede, quam consecutus e fuerat, tum quia ficta karitateaufert quod dederat,
+            priuaturmercede, quam consecutus e fuerat, tum quia ficta karitate aufert quod dederat,
             tum quia prauorum sacerdotum discordias, et scissuras amantium, uerbis nimis factus
             credulus, quod prius fucate moliebatur lucrari post detecta fraudeconatur quadam
             usurpatione ex toto auferre. Quorum auer-tentes calliditates et hostis uersuti
-            suasiones, deincepsomnino s licentiam damus suarum ecclesiarum inuesti-tores fieri, ita
-            tamen, ut iudicio sinodi, si contra sacerdotiumagere presumpserint, multentur, et felici
-            mucrone episcopisacerdotum piacula resecentur. </p>
-
-          <p xml:id="gd-p2c16q2-d1e120"> II. Pars. Gratian. Hac auctoritate monachis conceditur
+            suasiones, deinceps omnino s licentiam damus suarum ecclesiarum inuesti-tores fieri, ita
+            tamen, ut iudicio sinodi, si contra sacerdotium agere presumpserint, multentur, et felici
+            mucrone episcopi sacerdotum piacula resecentur. </p>
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e122">
+          <head xml:id="gd-p2c16q2-Hd1e124">Dictum</head>
+          <p xml:id="gd-p2c16q2-d1e120">Hac auctoritate monachis conceditur
             inuestitura suarum ecclesiarum . Sed uidetur contraire Urbanus Papa II., dicens*: </p>
-          <p xml:id="gd-p2c16q2-d1e123"> [PALE A. C. II. </p>
-          <p xml:id="gd-p2c16q2-d1e127"> Admonemus atque precipimus, ut decimas omnino dari Deo non
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e130">
+          <head xml:id="gd-p2c16q2-Hd1e132">Caput 2</head>
+          <p xml:id="gd-p2c16q2-d1e127">
+            Admonemus atque precipimus, ut decimas omnino dari Deo non
             negligatur, quas ipse Deus dari constituit, quia timendum est, ut quisquis Deo debitum
-            suumsubtrahit, ne forte Deus per peccatum suum auferat einecessaria sua.] </p>
-          <p xml:id="gd-p2c16q2-d1e130"> [PALEA. </p>
-          <p xml:id="gd-p2c16q2-d1e133"> C. III. De eodem. </p>
-          <p xml:id="gd-p2c16q2-d1e136"> Item Nicolaus Papa II. epist. unica, c. 5. </p>
-          <p xml:id="gd-p2c16q2-d1e139"> Precipimus, ut decimae et primiciae, seu oblationes uiuorum
+            suumsubtrahit, ne forte Deus per peccatum suum auferat einecessaria sua.]
+          </p>
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e139">
+          <head xml:id="gd-p2c16q2-Hd1e141">Caput 3</head>
+          <head xml:id="gd-p2c16q2-Hd1e143" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c16q2-d1e139"> 
+            Item <ref xml:id="gd-p2c16q2-Rd1e148">Nicolaus Papa II. epist. unica, c. 5. </ref>
+            Precipimus, ut decimae et primiciae, seu oblationes uiuorum
             et mortuorum ecclesiis Dei fideliter reddantur a laicis, et ut in dispositione
             episcoporum sint. Quas qui retinuerint, a sanctae ecclesiae communioneseparentur.] </p>
-          <p xml:id="gd-p2c16q2-d1e142"> [PALE A. </p>
-          <p xml:id="gd-p2c16q2-d1e146"> C. IV. De eodem. </p>
-          <p xml:id="gd-p2c16q2-d1e149"> Item Leo Papa. </p>
-          <p xml:id="gd-p2c16q2-d1e152"> Nullus decimas ad alium pertinentes accipiat.] [PALEA. </p>
-          <p xml:id="gd-p2c16q2-d1e155"> C. V. Item Ambrosius sermone I. de Quadragesima*. </p>
-          <p xml:id="gd-p2c16q2-d1e158"> Nam qui Deo non uult reddere decimas, quas retinuit, et
-            homini non studet reddere quod iniuste ab eo abstulit, nontimet adhuc Deum, et ignorat
-            quid sit uera penitenciaueraque confessio. Iste talis homo non potest ueramfacere
-            elemosinam.] </p>
-
-
-
-
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e152">
+          <head xml:id="gd-p2c16q2-Hd1e154">Caput 4</head>
+          <head xml:id="gd-p2c16q2-Hd1e156" type="question-title">De eodem</head>
+          <p xml:id="gd-p2c16q2-d1e152"> 
+            Item <ref xml:id="gd-p2c16q2-Rd1e161">Leo Papa.</ref> 
+            Nullus decimas ad alium pertinentes accipiat.
+          </p>
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e165">
+          <head xml:id="gd-p2c16q2-Hd1e16g">Caput 5</head>
+          <p xml:id="gd-p2c16q2-d1e158"> 
+            Item <ref xml:id="gd-p2c16q2-Rd1e171">Ambrosius sermone I. de Quadragesima.</ref>
+            Nam qui Deo non uult reddere decimas, quas retinuit, et
+            homini non studet reddere quod iniuste ab eo abstulit, non timet adhuc Deum, et ignorat
+            quid sit uera penitenciaueraque confessio. Iste talis homo non potest ueram facere
+            elemosinam.
+          </p>
         </div>
         <div xml:id="gd-p2c16q2-Dd1e162">
-          <head xml:id="gd-p2c16q2-Hd1e164">C. VI</head>
+          <head xml:id="gd-p2c16q2-Hd1e164">Caput 6</head>
           <head xml:id="gd-p2c16q2-Hd1e167" type="question-title"> Abbates in parrochialibus
             ecclesiis absque episcopi consilio presbiteros non ordinent. </head>
-          <p xml:id="gd-p2c16q2-d1e170"> Sane quia monachorum quidam episcopis ius suum auferre
+          <p xml:id="gd-p2c16q2-d1e170">
+            Sane quia monachorum quidam episcopis ius suum auferre
             contendunt, statuimus, ne in parrochialibus ecclesiis, quas tenent, absque episcoporum
             consilio presbiteros collocent, sed episcopi parrochiae curam cum abbatum
             consensusacerdoti conmittant, ut eiusmodi sacerdotes de populiquidem cura episcopis
             rationem reddant, abbati uero prorebus temporalibus ad monasterium pertinentibus
-            debitamsubiectionem exhibeant, et sic sua cuique iura seruentur. Idem: §. i. In
+            debitamsubiectionem exhibeant, et sic sua cuique iura seruentur. 
+          </p>
+          <p xml:id="gd-p2c16q2-d1e186">
+            Idem: §. i. In
             parrochialibus ecclesiis presbiteri per episcopos constituantur, qui eis respondeant de
             animarum cura, et his, que ad episcopum pertinent. </p>
         </div>
         <div xml:id="gd-p2c16q2-Dd1e174">
-          <head xml:id="gd-p2c16q2-Hd1e176">C. VII</head>
+          <head xml:id="gd-p2c16q2-Hd1e176">Caput 7</head>
           <head xml:id="gd-p2c16q2-Hd1e179" type="question-title"> Quorumcumque monachorum ecclesiae
             episcoporum subdantur regimini.</head>
-          <p xml:id="gd-p2c16q2-d1e182"> Item ex Concilio apud Flauentiam habito . </p>
-          <p xml:id="gd-p2c16q2-d1e185"> Statuendum est, quatinus ecclesiae quorumcumque monachorum
-            in singulis parrochiis sitae episcoporum, utdecet, diuinitus subdantur regimini, eisque
+          <p xml:id="gd-p2c16q2-d1e185"> 
+            Item ex <ref xml:id="gd-p2c16q2-Rd1e199">Concilio apud Flauentiam habito.</ref> 
+            Statuendum est, quatinus ecclesiae quorumcumque monachorum
+            in singulis parrochiis sitae episcoporum, ut decet, diuinitus subdantur regimini, eisque
             debita obsequiaexhibeant. </p>
-          <p xml:id="gd-p2c16q2-d1e188"> Gratian. Ecce Urbanus Papa prohibet inuestituras
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e203">
+          <head xml:id="gd-p2c16q2-Hd1e205">Dictum</head>
+          <p xml:id="gd-p2c16q2-d1e188">
+            Ecce Urbanus Papa prohibet inuestituras
             parrochialium ecclesiarum per monachos fieri, quas Iohannes Papa eis concessit. Sed
             illud Iohannis Papae intelligendurn est de illiscapellis , que cum omni iure suo ab
             episcopis monachis conceduntur. Istud autem Urbani intelligendurn est^ de illis ,
-            quasabbates in propriis prediis edificant in uillis uel in castellis suis. </p>
-          <p xml:id="gd-p2c16q2-d1e192"> [QUESTIO V.]* GRATIANUS. </p>
+            quasabbates in propriis prediis edificant in uillis uel in castellis suis. 
+          </p>
+        </div>
+        <!-- also considered part of an alternative question 5 -->
+        <div xml:id="gd-p2c16q2-Dd1e214">
+          <head xml:id="gd-p2c16q2-Hd1e216">Dictum</head>
           <p xml:id="gd-p2c16q2-d1e195"> Tales , etsi ius territorii habeant , tamen potestatem
             gubernandi populum , et spiritualia ministrandi non habent. Quod etiam de episcopo
             intelligendurn est. </p>
           <p xml:id="gd-p2c16q2-d1e198"> Unde Nicolaus Papa ait *: </p>
-          <p xml:id="gd-p2c16q2-d1e201"> C. VIII. [I.] Episcopus , qui in alterius diocesi ecclesiam
-            edificat , eius consecrationem sibi uendicare non audeat . </p>
-          <p xml:id="gd-p2c16q2-d1e204"> Si quis episcoporum in alienae ciuitatis territorio pro
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e225">
+          <head xml:id="gd-p2c16q2-Hd1e227">Caput 8</head>
+          <head xml:id="gd-p2c16q2-Hd1e229" type="question-title">Episcopus , qui in alterius diocesi ecclesiam edificat , eius consecrationem sibi uendicare non audeat . </head>
+          <p xml:id="gd-p2c16q2-d1e204">
+            Si quis episcoporum in alienae ciuitatis territorio pro
             quacumque suorum opportunitate ecclesiam edificare disponit, non presumat dedicationem,
             que illius est, in cuiusterritorio ecclesia assurgit. Edificatori uero episcopo
             hecgratia reseruetur, ut quos desiderat clericos in re sua ordinari, ipsos ordinet is,
             cuius territorium est, uel si ordinatiiam sunt, ipsos habere adquiescat, et omnis
-            ecclesiae ipsiusgubernatio ad eum, in cuius ciuitatis territorio ecclesia sur-rexerit,
-            pertinebit. </p>
-
-          <p xml:id="gd-p2c16q2-d1e207"> C. IX. [II.] Basilicae nouiter conditae ad episcopum
-            pertinent , cuius conuentus constiterit esse. </p>
-          <p xml:id="gd-p2c16q2-d1e211"> Item ex Concilio Tollet ano IV., [c. 34.] S*. </p>
-          <p xml:id="gd-p2c16q2-d1e214"> Possessio territorii conuentum non adimit ideoque nouae
-            basilicae, que conditae fuerint, ad eum proculdubiopertinebunt episcopum, cuius
+            ecclesiae ipsius gubernatio ad eum, in cuius ciuitatis territorio ecclesia sur-rexerit,
+            pertinebit. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e236">
+          <head xml:id="gd-p2c16q2-Hd1e238">Caput 9</head>
+          <head xml:id="gd-p2c16q2-Hd1e240" type="question-title">Basilicae nouiter conditae ad episcopum
+            pertinent , cuius conuentus constiterit esse. </head>
+          <p xml:id="gd-p2c16q2-d1e214"> 
+            Item ex <ref xml:id="gd-p2c16q2-Rd1e245">Concilio Tollet ano IV., [c. 34.] S*.</ref>
+            Possessio territorii conuentum non adimit ideoque nouae
+            basilicae, que conditae fuerint, ad eum proculdubio pertinebunt episcopum, cuius
             conuentus esse constiterit. </p>
-          <p xml:id="gd-p2c16q2-d1e217"> C. X. [III.] Edificatori episcopo in diocesi alterius
-            ecclesiam consecrare non licet. </p>
-          <p xml:id="gd-p2c16q2-d1e220"> Item Gregorius [lib XI. epist. 19. ad Iohannem
-            Subdiaconum]. </p>
-          <p xml:id="gd-p2c16q2-d1e223"> Lator presentium Iohannes, frater et coepiscopus noster*,
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e249">
+          <head xml:id="gd-p2c16q2-Hd1e251">Caput 10</head>
+          <head xml:id="gd-p2c16q2-Hd1e253" type="question-title"> Edificatori episcopo in diocesi alterius ecclesiam consecrare non licet.</head>
+          <p xml:id="gd-p2c16q2-d1e223"> 
+            Item <ref xml:id="gd-p2c16q2-Rd1e258">Gregorius [lib XI. epist. 19. ad Iohannem Subdiaconum].</ref> 
+            Lator presentium Iohannes, frater et coepiscopus noster,
             indicauit nobis, quod quidam Exsuperantius episcopus ausu temerario in diocesi ipsius
             oratorium construxerit, eumque sine precepti auctoritate contra morem presumpserit
-            dedicare, missasque illic celebrare non metuit.Quam rem cum summa te celeritate ac
+            dedicare, missasque illic celebrare non metui. Quam rem cum summa te celeritate ac
             districtione conuenit emendare, nec ulterius tale aliquid attemptarepermittere. </p>
-          <p xml:id="gd-p2c16q2-d1e226"> Gratian. Quod de iure ordinandi , non possidendi
-            intelligen-dum est. His auctoritatibus facile potest perpendi , quod siue abbates siue
-            episcopi in suis castellis uel uillis ecclesias edificaue-rint , non ideo episcopo , in
+        </div>
+        <div xml:id="gd-p2c16q2-Dd1e262">
+          <head xml:id="gd-p2c16q2-Hd1e264">Dictum</head>
+          <p xml:id="gd-p2c16q2-d1e226">
+            Quod de iure ordinandi, non possidendi
+            intelligendum est. His auctoritatibus facile potest perpendi , quod siue abbates siue
+            episcopi in suis castellis uel uillis ecclesias edificauerint , non ideo episcopo , in
             cuius diocesi fuerint , conuentus adimitur , et ideo sacerdotes , iuxta illud Urbani et
             Nicolai , in eis nonnisi per episcopos , cum consensu tamen et electione edificandum ,
             ordinari possunt. </p>

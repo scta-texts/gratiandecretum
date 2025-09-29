@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO IV. </title>
+        <title> QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO IV. </title>
+          <title> QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,54 +53,67 @@
     </front>
     <body>
       <div xml:id="gd-p2c20q4">
-        <head xml:id="gd-p2c20q4-Hd1e103"> QUESTIO IV. </head>
-        <p xml:id="gd-p2c20q4-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c20q4-d1e109"> I. Pars. Quod uero ab uno monasterio in aliud
-          districtiustransire monachis liberum sit, ex Concilio Triburiensi habetur, in quo sic
+        <head xml:id="gd-p2c20q4-Hd1e103"> QUESTIO 4</head>
+        <div xml:id="gd-p2c20q4-Dd1e100">
+          <head xml:id="gd-p2c20q4-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c20q4-d1e109">Quod uero ab uno monasterio in aliud
+          districtius transire monachis liberum sit, ex Concilio Triburiensi habetur, in quo sic
           statutum est: </p>
+        </div>
         <div xml:id="gd-p2c20q4-Dd1e112">
-          <head xml:id="gd-p2c20q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c20q4-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c20q4-Hd1e117" type="question-title"> Non sunt prohibendae uirgines
             sacrae, que causa religionis aliud monasterium adire desiderant . </head>
           <p xml:id="gd-p2c20q4-d1e120"> Virgines sacrae si pro lucro animae suae propter
             districtiorem uitam ad aliud monasterium pergere disposuerint, ibidemque conmanere
             decreuerint, sinodus concedit. Si uero fuga disciplinae alium locum quesierint, redire
             cogantur. </p>
-          <p xml:id="gd-p2c20q4-d1e123"> Gratian. Quod autem de uirginibus sacris hoc capitulo
+        </div>
+        <div xml:id="gd-p2c20q4-Dd1e120">
+          <head xml:id="gd-p2c20q4-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c20q4-d1e123">Quod autem de uirginibus sacris hoc capitulo
             statuitur de monachis etiam consequenter intelligitur, de- quolibet etiam clerico. </p>
-          <p xml:id="gd-p2c20q4-d1e126"> II. Pars. §. i. Sed obicitur illud Basilii*: </p>
+          <p xml:id="gd-p2c20q4-d1e126">§. i. Sed obicitur illud Basilii: </p>
         </div>
         <div xml:id="gd-p2c20q4-Dd1e130">
-          <head xml:id="gd-p2c20q4-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c20q4-Hd1e132">Caput 2</head>
           <head xml:id="gd-p2c20q4-Hd1e135" type="question-title"> Vota monachi sine consensu
             abbatis sui irrita sunt. </head>
           <p xml:id="gd-p2c20q4-d1e138"> Monacho non licet uotum uouere sine consensu abbatis sui;
             si autem uouerit, frangendum erit. </p>
-          <p xml:id="gd-p2c20q4-d1e141"> Item illud Ag at en sis Concilii, [c. 27.] : </p>
+          <p xml:id="gd-p2c20q4-d1e141"> Item illud Agatensis Concilii, [c. 27.] : </p>
         </div>
         <div xml:id="gd-p2c20q4-Dd1e146">
-          <head xml:id="gd-p2c20q4-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c20q4-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c20q4-Hd1e151" type="question-title"> Monachum nullus suscipiat aut
             ordinet absque abbatis sui permissu.</head>
           <p xml:id="gd-p2c20q4-d1e154"> Monachum, nisi aut permissu abbatis sui aut uoluntate ad
             alterum monasterium conmigrantem, nullus abbas suscipere aut retinere presumat; sed
-            ubicumque fuerit, abbati suoauctoritate canonum reuocetur. §. 1. Item : Clericissine
-            conmendaticiis epistolis episcopi sui licentia nonpateat euagandi. In monachis quoque
-            presentis sententiae forma seruetur, quos si uerborum increpatio nonemendauerit, etiam
-            uerberibus statuimus coherceri. §. 2.Seruandum quoque de monachis, ne eis ad solitarias
-            cellulas liceat a congregatione discedere, nisi forte probatispost emeritos labores, aut
-            propter infirmitatis necessitatemasperior abbatis regula* remittatur. Quod ita
-            demumfiet, ut intra eadem monasterii septa manentes, tamensub abbatis potestate,
-            separatas habere cellulas permittantur. Abbati quoque** singulas diuersas cellulas
-            autplura monasteria habere non liceat, nisi tantum propter incursum hostilitatis intra
+            ubicumque fuerit, abbati suo auctoritate canonum reuocetur. 
+          </p>
+          <p xml:id="gd-p2c20q4-d1e158">
+            §. 1. Item : Clericissine
+            conmendaticiis epistolis episcopi sui licentia non pateat euagandi. In monachis quoque
+            presentis sententiae forma seruetur, quos si uerborum increpatio non emendauerit, etiam
+            uerberibus statuimus coherceri. 
+          </p>
+          <p xml:id="gd-p2c20q4-d1e160">
+            §. 2. Seruandum quoque de monachis, ne eis ad solitarias
+            cellulas liceat a congregatione discedere, nisi forte probatis post emeritos labores, aut
+            propter infirmitatis necessitatem asperior abbatis regula remittatur. Quod ita
+            demum fiet, ut intra eadem monasterii septa manentes, tamen sub abbatis potestate,
+            separatas habere cellulas permittantur. Abbati quoque singulas diuersas cellulas
+            aut plura monasteria habere non liceat, nisi tantum propter incursum hostilitatis intra
             muros receptacula collocare. </p>
-
-          <p xml:id="gd-p2c20q4-d1e157"> Gratian. Verum hoc intelligendum est de monachis religiose
+        </div>
+         <div xml:id="gd-p2c20q4-Dd1e163">
+           <head xml:id="gd-p2c20q4-Hd1e165">Dictum</head>
+          <p xml:id="gd-p2c20q4-d1e157">Verum hoc intelligendum est de monachis religiose
             uiuentibus, quibus uota speciatis abstinentiae uel alicuius districtionis, que generalem
             consuetudinem suorum fratrum excedat, sine abbatis consensu uouere non licet, ne super
-            eos fratresscandalizentur. Causa etiam illorum statutum est hoc, qui regularem
+            eos fratres scandalizentur. Causa etiam illorum statutum est hoc, qui regularem
             disciplinam subterfugientes peregrinationis uota sibi assumunt, quod nec monacho , nec
-            alicui clerico licet, ne hac occasionead secularem conuersationem redeat. </p>
+            alicui clerico licet, ne hac occasione ad secularem conuersationem redeat. </p>
         </div>
       </div>
     </body>

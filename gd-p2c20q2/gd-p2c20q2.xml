@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,60 +53,83 @@
     </front>
     <body>
       <div xml:id="gd-p2c20q2">
-        <head xml:id="gd-p2c20q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c20q2-d1e106"> I. Pars. De his uero, qui preter uoluntatem parentumtonsuram,
+        <head xml:id="gd-p2c20q2-Hd1e103"> QUESTIO 2</head>
+        <div xml:id="gd-p2c20q2-Dd1e100">
+          <head xml:id="gd-p2c20q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c20q2-d1e106">De his uero, qui preter uoluntatem parentumtonsuram,
           uel religiosam uestem susceperint, sic diffinitur in Concilio X. Tolletano [c. 6.]: </p>
+        </div>
         <div xml:id="gd-p2c20q2-Dd1e109">
-          <head xml:id="gd-p2c20q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c20q2-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c20q2-Hd1e114" type="question-title"> Tonsura uel uestis religiosa in
             minori etate suscepta a parentibus irrita fieri potest. </head>
           <p xml:id="gd-p2c20q2-d1e117"> Si in qualibet minori etate uel religionis tonsuram uel
-            religioni debitam uestem, in utroque sexu filiis aut unus autambo parentes dederint
+            religioni debitam uestem, in utroque sexu filiis aut unus aut ambo parentes dederint
             forte*, aut nolentibus uel nescientibus se susceptam non mox uisam in filiis
-            abdicauerint, sed uel coram se, uel coram episcopo, palamque in con-uentu eosdem filios
-            talia habere permiserint, ad secularemreuerti habitum ipsis filiis quandoque penitus non
-            licebit, sedconuicti, quod tonsuram aut religiosam uestem aliquandohabuerint, mox ad
-            religionis cultum habitumque reuocen-tur, et sub strenua districtione huiusce
-            obseruantiaeinseruire cogantur. §. i. Parentibus sane filios suos religionicontradere
-            non amplius quam usque ad decimum**e tatis eorum annum licentia poterit esse; postea
+            abdicauerint, sed uel coram se, uel coram episcopo, palamque in conuentu eosdem filios
+            talia habere permiserint, ad secularem reuerti habitum ipsis filiis quandoque penitus non
+            licebit, sed conuicti, quod tonsuram aut religiosam uestem aliquandohabuerint, mox ad
+            religionis cultum habitumque reuocentur, et sub strenua districtione huiusce
+            obseruantiaeinseruire cogantur. 
+          </p>
+          <p xml:id="gd-p2c20q2-d1e119">
+            §. i. Parentibus sane filios suos religioni contradere
+            non amplius quam usque ad decimum tatis eorum annum licentia poterit esse; postea
             uero, an cum uoluntate parentum, an si suae deuotionis sitsolitarium uotum, erit filiis
-            licitum religionis assumere cultum* §. 2. Quisquis autem uel abolitione tonsurae,
+            licitum religionis assumere cultum
+          </p>
+          <p xml:id="gd-p2c20q2-d1e121">
+            §. 2. Quisquis autem uel abolitione tonsurae,
             uelsecularis uestis assumptione detectus fuerit attigisse transgressionem, et
-            excommunicationis censuram accipiat, etreligioni semper inhereat. </p>
+            excommunicationis censuram accipiat, et religioni semper inhereat. </p>
         </div>
         <div xml:id="gd-p2c20q2-Dd1e121">
-          <head xml:id="gd-p2c20q2-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c20q2-Hd1e123">Caput 2</head>
           <head xml:id="gd-p2c20q2-Hd1e126" type="question-title"> Usque ad annos XII. paternae
             uoluntatis puella subiaceat arbitrio. </head>
-          <p xml:id="gd-p2c20q2-d1e129"> Item ex Concilio Triburiensi, [c. 24.] </p>
-
-          <p xml:id="gd-p2c20q2-d1e132"> Puella, si ante XII. etatis annos sponte sua sacrum sibi
+          <p xml:id="gd-p2c20q2-d1e132"> 
+            Item ex <ref xml:id="gd-p2c20q2-Rd1e134">Concilio Triburiensi, [c. 24.]</ref> 
+            Puella, si ante XII. etatis annos sponte sua sacrum sibi
             assumpserit uelamen, possunt statim parentes eius ueltutores id factum irritum facere,
             si uoluerint. At siannum et diem dissimulando consenserint, ulterius necipsi, nec ipsa
-            mutare poterunt. §. 1. Si uero infortiori etate adolescentula uel adolescens seruire Deo
-            elegerintj non est potestas parentibus prohibendi. </p>
-          <p xml:id="gd-p2c20q2-d1e135"> II. Pars. Gratian. Velamen autem nulli sanctimonia-lium
+            mutare poterunt. 
+          </p>
+          <p xml:id="gd-p2c20q2-d1e137">
+            §. 1. Si uero infortiori etate adolescentula uel adolescens seruire Deo
+            elegerint non est potestas parentibus prohibendi. </p>
+        </div>
+        <div xml:id="gd-p2c20q2-Dd1e140">
+          <head xml:id="gd-p2c20q2-Hd1e142">Dictum</head>
+          <p xml:id="gd-p2c20q2-d1e135"> Velamen autem nulli sanctimonialium
             alteri inponere licet. </p>
           <p xml:id="gd-p2c20q2-d1e139"> Unde Eutycianus Papa ait : </p>
-          <p xml:id="gd-p2c20q2-d1e142"> [C. III.] </p>
+        </div>
+        <div xml:id="gd-p2c20q2-Dd1e152">
+          <head xml:id="gd-p2c20q2-Hd1e154">Caput 3</head>
           <p xml:id="gd-p2c20q2-d1e145"> Statuimus, ut si abbatissa aut quelibet sanctimonialis post
             hanc diffinitionem in tantam audaciam proruperit, ut aut uiduam, aut puellam uirginem
             uelare presumatiudicio canonico usque ad satisfactionem subdatur. </p>
-          <p xml:id="gd-p2c20q2-d1e148"> III. Pars. Gratian. Hac auctoritate predicta^ et
-            paternaprofessione docetur astringi quilibet in puerilibus annis, et preteruoluntatem
+        </div>
+        <div xml:id="gd-p2c20q2-Dd1e160">
+          <head xml:id="gd-p2c20q2-Hd1e162">Dictum</head>
+          <p xml:id="gd-p2c20q2-d1e148">
+            Hac auctoritate predicta et
+            paterna professione docetur astringi quilibet in puerilibus annis, et preteruoluntatem
             eorum proposito suscepto perhibetur teneri, nisi tonsuram uel religiosam uestem parentes
-            mox uisam abdicauerint.Paruuli uero, dum offeruntur , nonnisi sub multorum
-            testimoniosuscipiendi sunt. </p>
-          <p xml:id="gd-p2c20q2-d1e151"> Unde in nona Sinodo legitur *: </p>
+            mox uisam abdicauerint. Paruuli uero, dum offeruntur , nonnisi sub multorum
+            testimoniosuscipiendi sunt.
+          </p>
+          <p xml:id="gd-p2c20q2-d1e151"> Unde in nona Sinodo legitur: </p>
         </div>
         <div xml:id="gd-p2c20q2-Dd1e155">
-          <head xml:id="gd-p2c20q2-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c20q2-Hd1e157">Caput 4</head>
           <head xml:id="gd-p2c20q2-Hd1e160" type="question-title"> Infantes oblati a parentibus sub
             plurimorum testimonio suscipiantur.</head>
-          <p xml:id="gd-p2c20q2-d1e163"> Oportet infantes cum uoluntate et consensu parentum, imo ab
-            ipsis parentibus oblatos, sub testimonio plurimorumsuscipi, ut omnis occasio maledicti
-            gratia excludatur hominum pessimorum**. </p>
+          <p xml:id="gd-p2c20q2-d1e163"> 
+            Oportet infantes cum uoluntate et consensu parentum, imo ab
+            ipsis parentibus oblatos, sub testimonio plurimorum suscipi, ut omnis occasio maledicti
+            gratia excludatur hominum pessimorum. 
+          </p>
         </div>
       </div>
     </body>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,14 +53,17 @@
     </front>
     <body>
       <div xml:id="gd-p2c22q3">
-        <head xml:id="gd-p2c22q3-Hd1e103"> QUESTIO III. </head>
-
-        <p xml:id="gd-p2c22q3-d1e106"> Cum ergo, ut ratione et exemplo monstratum est, episcopus
+        <head xml:id="gd-p2c22q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c22q3-Dd1e100">
+          <head xml:id="gd-p2c22q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c22q3-d1e106"> 
+          Cum ergo, ut ratione et exemplo monstratum est, episcopus
           reus periurii non esset, consueta obedientia ab archidiacono sibidenegari non debuit, cum
           etiamsi criminosum illum esse constaret, ante diffinitiuam tamen sententiam, ut supra
           monstratum est, nulli suorum clericorum ab eo liceret discedere. Constat ergoillicitum
-          esse quod arcliidiaconus iuramento firmauit. Undemerito queritur, an debeat seruari, uel
+          esse quod arcliidiaconus iuramento firmauit. Unde merito queritur, an debeat seruari, uel
           non f </p>
+        </div>
       </div>
     </body>
   </text>

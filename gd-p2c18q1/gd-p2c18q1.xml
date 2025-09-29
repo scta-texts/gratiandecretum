@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,22 +53,26 @@
     </front>
     <body>
       <div xml:id="gd-p2c18q1">
-        <head xml:id="gd-p2c18q1-Hd1e103"> QUESTIO I. </head>
+        <head xml:id="gd-p2c18q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c18q1-Dd1e100">
+          <head xml:id="gd-p2c18q1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c18q1-d1e106"> Prima questio terminatur in Concilio habito apud Alt eum, in
-          quo sic statutum legitur *: </p>
+          quo sic statutum legitur: </p>
+        </div>
         <div xml:id="gd-p2c18q1-Dd1e109">
-          <head xml:id="gd-p2c18q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c18q1-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c18q1-Hd1e114" type="question-title"> Qui de monacho episcopus
             ordinatur quod ante consecrationem habuerit monasterio, quod uero post consecrationem
-            acquisiuit propriae ecclesiae derelinquat . </head>
-          <p xml:id="gd-p2c18q1-d1e117"> Statutum est et rationabiliter secundum sanctos Patres a
-            Sinodo confirmatum est, ut monachus, quem canonicaelectio a iugo regulae monasticae
-            professionis absoluit, etsacra ordinatio de monacho episcopum facit, uelut
-            legitimusheres paternam sibi hereditatem postea iure uendicandipotestatem habeat; sed
+            acquisiuit propriae ecclesiae derelinquat. </head>
+          <p xml:id="gd-p2c18q1-d1e117"> 
+            Statutum est et rationabiliter secundum sanctos Patres a
+            Sinodo confirmatum est, ut monachus, quem canonica electio a iugo regulae monasticae
+            professionis absoluit, et sacra ordinatio de monacho episcopum facit, uelut
+            legitimus heres paternam sibi hereditatem postea iure uendicandi potestatem habeat; sed
             quicquid acquisierat, uel habereuisus fuerat, monasterio relinquat, et abbatis sui,
-            quifuerat secundum regulam S. Benedicti, arbitrio. Postquamenim episcopus ordinatur, ad
+            qui fuerat secundum regulam S. Benedicti, arbitrio. Postquam enim episcopus ordinatur, ad
             altare, ad quod sanctificatur et titulatur, secundum sacros canones quod
-            acquirerepoterit restituat. </p>
+            acquirere poterit restituat. </p>
         </div>
       </div>
     </body>

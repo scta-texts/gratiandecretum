@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,8 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p2c23q3">
-        <head xml:id="gd-p2c23q3-Hd1e103"> QUESTIO III. </head>
-
+        <head xml:id="gd-p2c23q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c23q3-Dd1e100">
+          <head xml:id="gd-p2c23q3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c23q3-d1e106"> Quod uero iniuria sociorum armis 'propulsanda non sit,
           exemplis et auctoritatibus probatur. Dominus enim, cum abHerode quereretur ad
           interficiendum, non patrocinium sibi que-siuit armorum, cum occulto instinctu posset in
@@ -69,7 +68,10 @@
           regnum huius mundi pertinere, qui auxilio humanarumuirium, non diuino presidio ab
           inminenti iniuria se tueri contendunt. Item, cum discipulis suis ait : , , Si uos
           persecuti fuerintin una ciuitate, fugite in aliam , “ non arma armis, sed
-          fugampersequentibus docuit obponi. §. 1. Item, sicut in Ysaia legitur, Egyptus a
+          fugampersequentibus docuit obponi. 
+        </p>
+        <p xml:id="gd-p2c23q3-d1e107">
+          §. 1. Item, sicut in Ysaia legitur, Egyptus a
           Nabuchodonosor deuastata est, quia filiis Israel contraAssyrios et Chaldeos protectionis
           et defensionis auxilium promisit.Unde dictum est: , , Baculus harundineus rex Egypti,
           superquem si aliquis innisus fuerit, confrigetur, et perforabit manuminnitentisP Ipsi
@@ -83,31 +85,41 @@
           offendiculum euangelio Christi prestaret. Cum ergo ille, qui ob iniuriaarmis arcetur, non
           minus scandalizetur quam ille, a quo ablatacoram iudice reposcuntur, patet, quod ad
           propulsandam iniuriamnon sunt petenda armorum auxilia. Quod autem petendum nonest, illud
-          iure prestari non debet. §. 2. Sed multa rite pre-stantur, que tamen iure non petuntur .
+          iure prestari non debet. 
+        </p>
+        <p xml:id="gd-p2c23q3-d1e10x">
+          §. 2. Sed multa rite pre-stantur, que tamen iure non petuntur .
           Bonus enim non riteiniuriae uindictam peteret quia malum pro malo redderetquam tamen iudex
-          recte infligeret, nec nisi bonum pro maloredderet. </p>
-
-        <p xml:id="gd-p2c23q3-d1e109"> Unde Augustinus in expositione Psalmi CVIII. ait *:. </p>
+          recte infligeret, nec nisi bonum pro maloredderet. 
+        </p>
+        <p xml:id="gd-p2c23q3-d1e109"> Unde Augustinus in expositione Psalmi CVIII. ait: </p>
+        </div>
         <div xml:id="gd-p2c23q3-Dd1e112">
-          <head xml:id="gd-p2c23q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c23q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c23q3-Hd1e117" type="question-title"> Quot sint differentiae
             retributionis . </head>
           <p xml:id="gd-p2c23q3-d1e120"> Sex differentiae sunt: reddere pro malis bona, non reddere
             mala pro malis; hec bonorum sunt, et priusmelius. Non reddere bona pro bonis, reddere
             mala probonis; hec duo malorum sunt, et posterius deterius. Reddere pro bonis bona, et
-            pro malis mala; hec duo mediocrium sunt: prius propinquum bonis **, quod Christus
+            pro malis mala; hec duo mediocrium sunt: prius propinquum bonis , quod Christus
             nonarguit, sed plus oportere dicit, quia et ethnici hoc faciunt;posterius propinquum
             malis, tamen conuenit et bonis.Unde et lex modum ultionis statuit: „Oculum pro
             oculo.“Que, si dici potest, iniustorum iusticia est, non quia iniquaest ultio, quam lex
             statuit, sed quia uiciosa est libido ulciscendi, magisque ad iudicem hoc pertinet inter
             hominesdecernere, quam bonum hominem sibi expetere. Hic enimmalum pro malo redderet,
-            iudex uero *** non, sed delectatione iustitiae, iustum iniusto, quod est bonum promalo,
+            iudex uero  non, sed delectatione iustitiae, iustum iniusto, quod est bonum promalo,
             quod etiam Deus facit iudex. </p>
-          <p xml:id="gd-p2c23q3-d1e123"> Gratian. Item ab aliquo capto iniuste sua exiguntur, pro
+        </div>
+        <div xml:id="gd-p2c23q3-Dd1e127">
+          <head xml:id="gd-p2c23q3-Hd1e129">Dictum</head>
+          <p xml:id="gd-p2c23q3-d1e123">Item ab aliquo capto iniuste sua exiguntur, pro
             uita tamen redimenda iuste offeruntur. Item uasa sacra ab aliquo barbaro exiguntur
             iniuste, pro redemptione tamen captiuorumiuste prestantur. Sic etiam iniuriae
             propulsatio, licet iniustepostuletur, tamen iuste prestatur, quamquam et ipsa
-            postulationon usquequaque iniusta probetur. §. 1. Aliud est enim iniuriampropellere, ut
+            postulationon usquequaque iniusta probetur. 
+          </p>
+          <p xml:id="gd-p2c23q3-d1e134">
+            §. 1. Aliud est enim iniuriampropellere, ut
             sibi liceat uoluptuose uiuere, aliud, ut aliorum utilitati libere possit uacare. Sicque
             aliud est suffragium ab hominetamquam a ministro iusticiae postulare, ut mala uoluntas
             aduer-santium eius ministerio careat effectu, et bonorum uoluntas eiussuffragio
@@ -124,42 +136,42 @@
             iurassent, se non comesturos panem, nisi eum interficerent, petiit milites a pretore,
             quorum presidio illesus scruaretur ab iniuria Iudeorum, non suaeuoluptati, sed omnium
             utilitati uicturus. Hinc in euangelio mercenarius uocatur qui uidet lupum uenientem, et
-            dimittit oues, et fugit. §. 2. Hinc etiam ecclesia auxilium ab inperatore adsui
+            dimittit oues, et fugit. 
+          </p>
+          <p xml:id="gd-p2c23q3-d1e136">
+            §. 2. Hinc etiam ecclesia auxilium ab inperatore adsui
             defensionem petere monetur. </p>
           <p xml:id="gd-p2c23q3-d1e126"> Unde Augustinus ad Bonifatium ait, [epist. L.]: </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e130">
-          <head xml:id="gd-p2c23q3-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c23q3-Hd1e132">Caput 2</head>
           <head xml:id="gd-p2c23q3-Hd1e135" type="question-title"> Ab inperatore ecclesia auxilium
             postulare debet.</head>
           <p xml:id="gd-p2c23q3-d1e138"> Maximianus episcopus Vagiensis auxilium petiuit ab
             inperatore Christiano contra hostes ecclesiae, non tam suiulciscendi causa, quam tuendae
-            ecclesiae sibi creditae. </p>
-
-
-
-
-          <p xml:id="gd-p2c23q3-d1e141"> Quod si pretermisisset, non eius fuisset laudanda patienda,
+            ecclesiae sibi creditae.
+            Quod si pretermisisset, non eius fuisset laudanda patienda,
             sed negligentia merito culpanda. Neque enimapostolus Paulus uitae suae transitoriae, sed
             ecclesiae Deiconsuluit, quando contra illos, qui eum occidere con-spirauerant, consilium
             illorum ut tribuno proderetureffecit. Unde factum est, ut eum ad locum, quo fuerat
             perducendus, deduceret miles armatus, ne illorum pateretinsidiis . </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e146">
-          <head xml:id="gd-p2c23q3-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c23q3-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c23q3-Hd1e151" type="question-title"> Catholici aduersus hereticos a
             potestatibus ordinatis defensionem postulare possunt. </head>
-          <p xml:id="gd-p2c23q3-d1e154"> Item Augustinus ad Emeritum, [epist. CLXIV.]Nostri aduersus
-            illicitas et priuatas uestrorum uiolen-tias (quas et uos ibi, qui talia facitis*,
-            doletis et gemitis)a potestatibus ordinatis ultionem petunt, non quodhos persequantur,
+          <p xml:id="gd-p2c23q3-d1e154"> Item <ref xml:id="gd-p2c23q3-Rd1e165">Augustinus ad Emeritum, [epist. CLXIV.]</ref> Nostri aduersus
+            illicitas et priuatas uestrorum uiolen-tias (quas et uos ibi, qui talia facitis,
+            doletis et gemitis)a potestatibus ordinatis ultionem petunt, non quod hos persequantur,
             sed quia se defendant. </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e158">
-          <head xml:id="gd-p2c23q3-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c23q3-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c23q3-Hd1e163" type="question-title"> Quantum interest inter
             persecutionem hereticorum et catholicorum.</head>
-          <p xml:id="gd-p2c23q3-d1e166"> Item eiusdem contra Petilianum [ 1 . II. c. 88.] </p>
-          <p xml:id="gd-p2c23q3-d1e169"> Pro membris Christi aduersus uos seuiunt, et uobis
+          <p xml:id="gd-p2c23q3-d1e169"> 
+            Item <ref xml:id="gd-p2c23q3-Rd1e179">eiusdem contra Petilianum [ 1 . II. c. 88.]</ref> 
+            Pro membris Christi aduersus uos seuiunt, et uobis
             resistunt, quicumque in ecclesia eo animo sunt, quotunc Petrus fuit, cum ferrum pro
             Christi nomine strinxit.Sed multum interest inter uestram persecutionem, etistorum. Vos
             similes estis seruo sacerdotis, quia ser-uientes principibus uestris aduersus ecclesiam
@@ -168,47 +180,52 @@
             pugnauit. </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e173">
-          <head xml:id="gd-p2c23q3-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c23q3-Hd1e175">Caput 5</head>
           <head xml:id="gd-p2c23q3-Hd1e178" type="question-title"> Iusticia™ plenus est qui patriam
             bello tuetur a barbaris. </head>
-          <p xml:id="gd-p2c23q3-d1e181"> Item Ambrosius libro I. de offitiis, [c. 27.]Fortitudo, que
+          <p xml:id="gd-p2c23q3-d1e181"> 
+            Item <ref xml:id="gd-p2c23q3-Rd1e193">Ambrosius libro I. de offitiis, [c. 27.]</ref>
+            Fortitudo, que
             bello tuetur a barbaris patriam, ueldomi defendit infirmos, uel a latronibus socios,
             plena iustitia est. </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e185">
-          <head xml:id="gd-p2c23q3-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c23q3-Hd1e187">Caput 6</head>
           <head xml:id="gd-p2c23q3-Hd1e190" type="question-title"> Prodest latroni uel piratae qui
             membra eius debilitat.</head>
-          <p xml:id="gd-p2c23q3-d1e193"> Item Ieronimus super Sophoniam, [ad c. i.]Si quis
+          <p xml:id="gd-p2c23q3-d1e193"> Item <ref xml:id="gd-p2c23q3-Rd1e207">Ieronimus super Sophoniam, [ad c. i.]</ref> Si quis
             fortitudinem latronis, uel piratae eneruat, et infirmos reddit, prodest illis sua
             infirmitas. Debilitata enim membra, quibus prius non bene utebantur, amalo opere
             cessabunt. </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e197">
-          <head xml:id="gd-p2c23q3-Hd1e199">C. VII</head>
+          <head xml:id="gd-p2c23q3-Hd1e199">Caput 7</head>
           <head xml:id="gd-p2c23q3-Hd1e202" type="question-title"> Qui a socio non repellit iniuriam
             similis est ei, qui facit. </head>
-          <p xml:id="gd-p2c23q3-d1e205"> Item Ambrosius libro I. de offitiis, [c. 36.]Non in
-            inferenda, sed in depellenda iniuria lex uir- </p>
-
-          <p xml:id="gd-p2c23q3-d1e208"> tutis est. Qui enim non repellit a socio iniuriam, si
+          <p xml:id="gd-p2c23q3-d1e205"> Item <ref xml:id="gd-p2c23q3-Rd1e221">Ambrosius libro I. de offitiis, [c. 36.]</ref> Non in
+            inferenda, sed in depellenda iniuria lex uirtutis est. Qui enim non repellit a socio iniuriam, si
             potest, tam est in uicio quam ille, qui facit. Unde S. Moyses hincprius orsus est
-            temptamenta inbecillae* fortitudinis.Nam cum uidisset Hebreum ab Egyptio iniuriam
+            temptamenta inbecillae fortitudinis. Nam cum uidisset Hebreum ab Egyptio iniuriam
             accipientem, defendit ita, ut Egyptium prosterneret, atque inarena absconderet. Salemon
             quoque ait: „Eripe eum, qui ducitur ad mortem. “ </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e212">
-          <head xml:id="gd-p2c23q3-Hd1e214">C. VIII</head>
+          <head xml:id="gd-p2c23q3-Hd1e214">Caput 8</head>
           <head xml:id="gd-p2c23q3-Hd1e217" type="question-title"> Malorum inpietati fauet qui eis
             obuiare cessat.</head>
-          <p xml:id="gd-p2c23q3-d1e220"> Item Anastasius et Damasus^-. </p>
-          <p xml:id="gd-p2c23q3-d1e223"> Qui potest obuiare et perturbare peruersos, et non facit,
-            nichil est aliud quam fauere inpietati eorum. Nec caretscrupulo societatis occultae qui
-            manifesto facinori desinitobuiare. </p>
-          <p xml:id="gd-p2c23q3-d1e226"> IX. Qui diuina mandata contempnunt seueris coherceantur
-            uindictis. </p>
-          <p xml:id="gd-p2c23q3-d1e230"> Item Calix tu s [epist. II. ad Episcopos Galliae]. </p>
-          <p xml:id="gd-p2c23q3-d1e233"> Iustum est, ut qui diuina contempnunt mandata, et
+          <p xml:id="gd-p2c23q3-d1e223"> 
+            Item <ref xml:id="gd-p2c23q3-Rd1e235">Anastasius et Damasus</ref> 
+            Qui potest obuiare et perturbare peruersos, et non facit,
+            nichil est aliud quam fauere inpietati eorum. Nec caret scrupulo societatis occultae qui
+            manifesto facinori desinit obuiare. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c23q3-Dd1e240">
+          <head xml:id="gd-p2c23q3-Hd1e242">Caput 9</head>
+          <head xml:id="gd-p2c23q3-Hd1e244" type="question-title">Qui diuina mandata contempnunt seueris coherceantur uindictis. </head>
+          <p xml:id="gd-p2c23q3-d1e233"> 
+            Item <ref xml:id="gd-p2c23q3-Rd1e249">Calix tu s [epist. II. ad Episcopos Galliae].</ref> 
+            Iustum est, ut qui diuina contempnunt mandata, et
             inobedientes paternis existunt iussionibus, seuerioribuscorrigantur uindictis , quatinus
             ceteri talia conmittere timeant, et deus gaudeat fraterna concordia, et cunctisumant
             seueritatis atque bonitatis exemplum. Nam si (quodabsit) ecclesiasticam sollicitudinem
@@ -216,29 +233,31 @@
             profectonocebitur. </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e238">
-          <head xml:id="gd-p2c23q3-Hd1e240">C. X</head>
+          <head xml:id="gd-p2c23q3-Hd1e240">Caput 10</head>
           <head xml:id="gd-p2c23q3-Hd1e243" type="question-title"> Inperatores cum episcoporum
             prouisione ecclesiae defensionem aduersus diuitum potenciam debent suscipere™. </head>
-          <p xml:id="gd-p2c23q3-d1e246"> Item ex Concilio Cartaginensi V., [c. 9.] </p>
-          <p xml:id="gd-p2c23q3-d1e249"> Ab inperatoribus uniuersis iustum est* postulandum propter
+          <p xml:id="gd-p2c23q3-d1e249"> 
+            Item ex <ref xml:id="gd-p2c23q3-Rd1e263">Concilio Cartaginensi V., [c. 9.]</ref> 
+            Ab inperatoribus uniuersis iustum est postulandum propter
             afflictionem pauperum, quorum molestiis sine intermissione fatigatur ecclesia, ut
             defensores eis aduersus potentias diuitum cum episcoporum prouisione delegentur . </p>
-          <p xml:id="gd-p2c23q3-d1e252"> Gratian. Ecce, quod nonnumquam est obuiandum peruersis, et
+        </div>
+        <div xml:id="gd-p2c23q3-Dd1e267">
+          <head xml:id="gd-p2c23q3-Hd1e269">Dictum</head>
+          <p xml:id="gd-p2c23q3-d1e252">
+            Ecce, quod nonnumquam est obuiandum peruersis, et
             iniuria sociorum armis est propulsanda, ut et malis ademptafacultas delinquendi prosit,
             et bonis optata facultas libere consulendi ecclesiae ministretur. Hoc qui non facit,
             consentit. </p>
           <p xml:id="gd-p2c23q3-d1e256"> Unde Augustinus ait in Psalm. LXXXI .: </p>
         </div>
         <div xml:id="gd-p2c23q3-Dd1e260">
-          <head xml:id="gd-p2c23q3-Hd1e262">C. XI</head>
+          <head xml:id="gd-p2c23q3-Hd1e262">Caput 11</head>
           <head xml:id="gd-p2c23q3-Hd1e265" type="question-title"> Non sunt inmunes a scelere qui
             non liberant eos, quos possunt liberare a facto.</head>
           <p xml:id="gd-p2c23q3-d1e268"> Ostendit Propheta nec illos inmunes a scelere esse, qui
             permiserunt principibus Christum interficere, cum promultitudine timerentur, et possent
-            illos a facto, et se aconsensu liberare. Qui desinit* obuiare, cum potest, consentit. </p>
-
-
-
+            illos a facto, et se aconsensu liberare. Qui desinit obuiare, cum potest, consentit. </p>
         </div>
       </div>
     </body>

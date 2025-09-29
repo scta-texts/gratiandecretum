@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO IV. </title>
+        <title> QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO IV. </title>
+          <title> QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,45 +53,40 @@
     </front>
     <body>
       <div xml:id="gd-p2c15q4">
-        <head xml:id="gd-p2c15q4-Hd1e103"> QUESTIO IV. </head>
-
-        <p xml:id="gd-p2c15q4-d1e106"> Quod uero die dominico nec episcopo, nec presbitero causam </p>
-
-
-
-
-        <p xml:id="gd-p2c15q4-d1e109"> uentilare aliquam liceat, in Terraconensi Concilio
+        <head xml:id="gd-p2c15q4-Hd1e103"> QUESTIO 4</head>
+        <p xml:id="gd-p2c15q4-d1e106"> Quod uero die dominico nec episcopo, nec presbitero causam 
+          uentilare aliquam liceat, in Terraconensi Concilio
           prohibetur, in quo sic statutum est [c. 4.]: </p>
         <div xml:id="gd-p2c15q4-Dd1e112">
-          <head xml:id="gd-p2c15q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c15q4-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c15q4-Hd1e117" type="question-title"> Ministri ecclesiae die dominico
             causas uentilare non debent.</head>
           <p xml:id="gd-p2c15q4-d1e120"> Nullus episcoporum aut presbiterorum uel clericorum die
-            dominico propositum cuiuscumque causae negociumaudeat uentilare, nisi hoc tantum, ut Deo
+            dominico propositum cuiuscumque causae negocium audeat uentilare, nisi hoc tantum, ut Deo
             statuta solempniaperagant. Ceteris uero diebus, conuenientibus personis, illa, que iusta
-            sunt, habent licentiam iudicandi, exceptocriminali. </p>
+            sunt, habent licentiam iudicandi, excepto criminali. </p>
         </div>
         <div xml:id="gd-p2c15q4-Dd1e124">
-          <head xml:id="gd-p2c15q4-Hd1e126">C. II</head>
-          <head xml:id="gd-p2c15q4-Hd1e129" type="question-title"> Sollempnibus diebus et ieiuniorum
+          <head xml:id="gd-p2c15q4-Hd1e126">Caput 2</head>
+          <head xml:id="gd-p2c15q4-Hd1e129" type="question-title">Sollempnibus diebus et ieiuniorum
             legitimorum secularia placita non agantur.</head>
-          <p xml:id="gd-p2c15q4-d1e132"> Item ex Concilio apud Erphesfurt *, habito presente® Rege
+          <p xml:id="gd-p2c15q4-d1e132"> Item ex Concilio apud Erphesfurt, habito presente Rege
             Heinrico. </p>
           <p xml:id="gd-p2c15q4-d1e135"> Placita secularia dominicis diebus, uel aliis precipuis
-            festis, seu etiam in his diebus, in quibus legitima ieiuniacelebrantur, secundum
-            canonicam institutionem minimedecreuimus fieri. Insuper etiam sancta sinodus decre-uit,
+            festis, seu etiam in his diebus, in quibus legitima ieiunia celebrantur, secundum
+            canonicam institutionem minime decreuimus fieri. Insuper etiam sancta sinodus decreuit,
             ut nulla iudiciaria potestas licentiam habeat sua auctoritate Christianos ad placitum
             bannire in supradictis diebus, id est septem diebus ante natale Domini usque inoctauas
-            epiphaniae, et a quinquagesima usque ad octa-uas pascae, et septem diebus ante
-            natiuitatem sanctiIohannis Baptistae, quatinus adeundi ecclesiam orationibusque uacandi
+            epiphaniae, et a quinquagesima usque ad octauas pascae, et septem diebus ante
+            natiuitatem sancti Iohannis Baptistae, quatinus adeundi ecclesiam orationibusque uacandi
             liberius habeatur facultas. </p>
         </div>
         <div xml:id="gd-p2c15q4-Dd1e140">
-          <head xml:id="gd-p2c15q4-Hd1e142">C. III</head>
-          <head xml:id="gd-p2c15q4-Hd1e145" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p2c15q4-d1e148"> Item Adrianus Papa [in capitulis, c. 64.] </p>
-          <p xml:id="gd-p2c15q4-d1e151"> Nullus episcopus uel infra positus die dominico causas
-            iudicare presumat. </p>
+          <head xml:id="gd-p2c15q4-Hd1e142">Caput 3</head>
+          <head xml:id="gd-p2c15q4-Hd1e145" type="question-title">De eodem.</head>
+          <p xml:id="gd-p2c15q4-d1e151"> 
+            Item <ref xml:id="gd-p2c15q4-Rd1e140">Adrianus Papa [in capitulis, c. 64.]</ref> 
+            Nullus episcopus uel infra positus die dominico causas iudicare presumat. </p>
         </div>
       </div>
     </body>

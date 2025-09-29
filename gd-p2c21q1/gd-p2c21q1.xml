@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,12 +53,14 @@
     </front>
     <body>
       <div xml:id="gd-p2c21q1">
-        <head xml:id="gd-p2c21q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c21q1-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c21q1-Hd1e103"> QUESTIO 1</head>
+        <div xml:id="gd-p2c21q1-Dd1e100">
+          <head xml:id="gd-p2c21q1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c21q1-d1e109"> In duabus ecclesiis aliquem posse connumerari, septima
           Sinodus prohibet, dicens [c. 15.] : </p>
+        </div>
         <div xml:id="gd-p2c21q1-Dd1e112">
-          <head xml:id="gd-p2c21q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c21q1-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c21q1-Hd1e117" type="question-title"> In duabus ecclesiis clericus
             conscribi non debet. </head>
           <p xml:id="gd-p2c21q1-d1e120"> Clericus ab instanti tempore non connumeretur in duabus
@@ -74,22 +74,26 @@
             Ait enim Apostolus : „ Ad ea, que michi opus erant, et his qui mecumsunt, ministrauerunt
             manus istae.“ Et hec quidem in hacseruanda* urbe. Ceterum in uillis**, que foris sunt,
             propter inopiam hominum indulgeatur. </p>
-          <p xml:id="gd-p2c21q1-d1e123"> Gratian. Sed duae ecclesiae intelligantur ecclesiae duarum
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e120">
+          <head xml:id="gd-p2c21q1-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c21q1-d1e123">Sed duae ecclesiae intelligantur ecclesiae duarum
             ciuitatum, in quibus nullus debet conscribi. </p>
-
-
-
-
-          <p xml:id="gd-p2c21q1-d1e126"> [C. II.] </p>
-          <p xml:id="gd-p2c21q1-d1e130"> „ Clerico s in duarum ciuitatum ecclesiis conscribi non
-            oportet. “ </p>
-          <p xml:id="gd-p2c21q1-d1e133"> [Gratian.] Sed econtra nonnumquam episcopus unius ciuitatis
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e128">
+          <head xml:id="gd-p2c21q1-Hd1e130">Caput 2</head>
+          <p xml:id="gd-p2c21q1-d1e130">Clerico s in duarum ciuitatum ecclesiis conscribi non
+            oportet.</p>
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e137">
+          <head xml:id="gd-p2c21q1-Hd1e139">Dictum</head>
+          <p xml:id="gd-p2c21q1-d1e133">Sed econtra nonnumquam episcopus unius ciuitatis
             efficitur archiepiscopus alterius ciuitatis, nec tamen priorem ecclesiam deserit: sed
             prior ecclesia quasi conmendata relinquitur, secunda quasi titulata habetur. </p>
           <p xml:id="gd-p2c21q1-d1e136"> Unde Leo IV. scribit : </p>
         </div>
         <div xml:id="gd-p2c21q1-Dd1e140">
-          <head xml:id="gd-p2c21q1-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c21q1-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c21q1-Hd1e145" type="question-title"> In una ecclesia titulatus alteram
             sibi conmendatam potest habere.</head>
           <p xml:id="gd-p2c21q1-d1e148"> Qui plures ecclesias retinet, unam quidem titulatam, aliam
@@ -98,37 +102,47 @@
             est: </p>
         </div>
         <div xml:id="gd-p2c21q1-Dd1e156">
-          <head xml:id="gd-p2c21q1-Hd1e158">C. IV</head>
+          <head xml:id="gd-p2c21q1-Hd1e158">Caput 4</head>
           <head xml:id="gd-p2c21q1-Hd1e161" type="question-title"> Duobus monasteriis unus abbas
             preesse non potest.</head>
           <p xml:id="gd-p2c21q1-d1e164"> Unum abbatem duobus monasteriis presidere interdicimus. </p>
-          <p xml:id="gd-p2c21q1-d1e167"> Gratian. Potest etiam utrique tamquam titulato^ preesse,
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e175">
+          <head xml:id="gd-p2c21q1-Hd1e177">Dictum</head>
+          <p xml:id="gd-p2c21q1-d1e167">Potest etiam utrique tamquam titulato preesse,
             sed iure speciali, non communi. </p>
           <p xml:id="gd-p2c21q1-d1e170"> Unde Gregorius [lib. II. epist. 13. ad Agnellum Episcopum]
             *: </p>
         </div>
         <div xml:id="gd-p2c21q1-Dd1e174">
-          <head xml:id="gd-p2c21q1-Hd1e176">C. V</head>
+          <head xml:id="gd-p2c21q1-Hd1e176">Caput 5</head>
           <head xml:id="gd-p2c21q1-Hd1e179" type="question-title"> Unus episcopus duabus preficitur
             ecclesiis.</head>
-          <p xml:id="gd-p2c21q1-d1e182"> Relatio cleri simul et populi Terracinae degentis ** nos
-            ualde letificat, ob hoc, quod de tua fraternitate bonatestatur. Et quia defuncto
-            pontifice suo Petro sibi cardinalempostulant te constitui sacerdotem, eorum
-            desiderianecessario conplenda preuidimus. §. i. Tota igiturmentis intentione ita lucrum
-            animarum Domino nostrofacere festinato, ut digna te merces ante eius conspectum indie
-            retributionis inueniat. Quicquid uero de predictae rebusecclesiae uel eius patrimonio,
-            seu cleri ordinatione promo-tioneue, et omnibus generaliter ad eam
-            pertinentibussollerter atque canonice ordinare facereque prouideris, liberam habebis,
+          <p xml:id="gd-p2c21q1-d1e182"> Relatio cleri simul et populi Terracinae degentis nos
+            ualde letificat, ob hoc, quod de tua fraternitate bona testatur. Et quia defuncto
+            pontifice suo Petro sibi cardinalem postulant te constitui sacerdotem, eorum
+            desideria necessario conplenda preuidimus. 
+          </p>
+          <p xml:id="gd-p2c21q1-d1e197">
+            §. i. Tota igitur mentis intentione ita lucrum
+            animarum Domino nostro facere festinato, ut digna te merces ante eius conspectum indie
+            retributionis inueniat. Quicquid uero de predictae rebus ecclesiae uel eius patrimonio,
+            seu cleri ordinatione promotioneue, et omnibus generaliter ad eam
+            pertinentibus sollerter atque canonice ordinare facereque prouideris, liberam habebis,
             quippe ut sacerdos proprius, modis omnibus facultatem. </p>
-          <p xml:id="gd-p2c21q1-d1e185"> [C. VI.]* </p>
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e200">
+          <head xml:id="gd-p2c21q1-Hd1e202">Caput 6</head>
           <p xml:id="gd-p2c21q1-d1e188"> Illud quoque fraternitatem tuam scire necesse est, quoniam
             sic te predictae Terracinensis ecclesiae cardinalemesse constituimus sacerdotem, ut et
             Fundensis ecclesiaepontifex esse non desinas, nec curam gubernationemqueeius pretereas,
             quia ita fraternitati tuae sepe dictae Terracinensis ecclesiae curam iniungimus ut
             Fundensisecclesiae tibi iura potestatemue nullo modo subtrahamus. </p>
-
-          <p xml:id="gd-p2c21q1-d1e192"> Gratian. Non enim potest utrique presidere tamquam
-            titulatae, sed uni tamquam conmendatae ^, alteri uero tamquamtitulatae preesse ualet.
+        </div>
+        <div xml:id="gd-p2c21q1-Dd1e209">
+          <head xml:id="gd-p2c21q1-Hd1e211">Dictum</head>
+          <p xml:id="gd-p2c21q1-d1e192">Non enim potest utrique presidere tamquam
+            titulatae, sed uni tamquam conmendatae, alteri uero tamquamtitulatae preesse ualet.
           </p>
         </div>
       </div>

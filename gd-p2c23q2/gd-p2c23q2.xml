@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -11,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -53,20 +53,25 @@
     </front>
     <body>
       <div xml:id="gd-p2c23q2">
-        <head xml:id="gd-p2c23q2-Hd1e103"> QUESTIO II. </head>
-
+        <head xml:id="gd-p2c23q2-Hd1e103"> QUESTIO 2 </head>
+        <div xml:id="gd-p2c23q2-Dd1e100">
+          <head xml:id="gd-p2c23q2-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c23q2-d1e106"> Quod autem queritur , quod sit bellum iustum Ysidorus
           Ethimol. I. XX. inquit : </p>
+        </div>
         <div xml:id="gd-p2c23q2-Dd1e109">
-          <head xml:id="gd-p2c23q2-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c23q2-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c23q2-Hd1e114" type="question-title"> Quid sit iustum bellum.</head>
           <p xml:id="gd-p2c23q2-d1e117"> Iustum est bellum, quod ex edicto* geritur de rebus
-            repetendis, aut propulsandorum hominum causa. §. i.Iudex dictus est, quia ius dictat
+            repetendis, aut propulsandorum hominum causa. 
+          </p>
+          <p xml:id="gd-p2c23q2-d1e119">
+            §. 1. Iudex dictus est, quia ius dictat
             populo, siue quod iuredisceptet. Iure autem disceptare est iuste iudicare. Nonenim est
             iudex, si non est iusticia in eo. </p>
         </div>
         <div xml:id="gd-p2c23q2-Dd1e121">
-          <head xml:id="gd-p2c23q2-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c23q2-Hd1e123">Caput 2</head>
           <head xml:id="gd-p2c23q2-Hd1e126" type="question-title"> Nichil interest ad iusticiam ,
             siue aperte siue ex insidiis aliquis pugnet. </head>
           <p xml:id="gd-p2c23q2-d1e132"> 
@@ -86,19 +91,20 @@
         <div xml:id="gd-p2c23q2-Dd1e133">
           <head xml:id="gd-p2c23q2-Hd1e135">Dictum</head>
           <p xml:id="gd-p2c23q2-d1e139"> 
-            Gratiam Cum ergo iustum bellum sit, quod ex edicto geritur, 
+            Cum ergo iustum bellum sit, quod ex edicto geritur, 
             uel quo iniuriae ulciscuntur, queritur, quomodo a filiis Israel iustabella gerebantur.
           </p>
           <p xml:id="gd-p2c23q2-d1e142"> De his ita scribit Augustinus in questionibus Numeri,
             [quest. 44. ad c. 20.]: </p>
         </div>
         <div xml:id="gd-p2c23q2-Dd1e146">
-          <head xml:id="gd-p2c23q2-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c23q2-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c23q2-Hd1e151" type="question-title"> Innoxius transitus filiis Israel
             negabatur , atque ideo iusta bella gerebantur. </head>
-          <p xml:id="gd-p2c23q2-d1e154"> Notandum sane est, quemadmodum iusta bella gerebantur a
+          <p xml:id="gd-p2c23q2-d1e154">
+            Notandum sane est, quemadmodum iusta bella gerebantur a
             filiis Israel contra Amorreos. Innoxius enim transitus negabatur, qui iure humanae
-            societatis equissimo pateredebebat. </p>
+            societatis equissimo patere debebat. </p>
         </div>
       </div>
     </body>

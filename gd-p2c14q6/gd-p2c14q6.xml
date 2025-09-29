@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VI. </title>
+        <title> QUESTIO 6</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VI. </title>
+          <title> QUESTIO 6</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p2c14q6">
-        <head xml:id="gd-p2c14q6-Hd1e103"> QUESTIO VI. </head>
-        <div>
-          <head>Dictum</head>
-        <p xml:id="gd-p2c14q6-d1e106"> I. Pars. Quod uero penitencia agi non possit , nisi res
+        <head xml:id="gd-p2c14q6-Hd1e103"> QUESTIO 6</head>
+        <div xml:id="gd-p2c14q6-Dd1e100">
+          <head xml:id="gd-p2c14q6-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c14q6-d1e106">Quod uero penitencia agi non possit , nisi res
           aliena reddatur, testatur Augustinus in epist. [LIV.] ad Macedonium . 
         </p>
         </div>
         <div xml:id="gd-p2c14q6-Dd1e109">
-          <head xml:id="gd-p2c14q6-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c14q6-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c14q6-Hd1e114" type="question-title"> Penitencia non agitur, si res
             aliena non restituitur^.</head>
           <p xml:id="gd-p2c14q6-d1e117"> Si res aliena, propter quam peccatum est, reddi possit, et
@@ -72,25 +70,25 @@
             enim qui aufert amittit, siue alios patiendo malos siue ipse male uiuendo, nec aliud
             habet unde restituat.
           </p>
-          <p>
+          <p xml:id="gd-p2c14q6-d1e119">
             §. 1. Huic certe non possumus dicere, redde quod abstulisti,
             nisi cum habere credimus et negare. Ubi quidem si aliquos sustinet cruciatus repentei, dum existimatur
             habere quod reddat, non est iniquitas, quia, si non est unde reddat ablatam pecuniam,
             tamen, dum eam per molestias corporales reddere conpellitur, peccati, quo male ablata
             est, penas luit.
           </p>
-          <p>
+          <p xml:id="gd-p2c14q6-d1e121">
             §. 2. Sed non inhumanum est etiam pro talibus intercedere, non ad hoc,
             utminime restituantur aliena, sed ne frustra homo in hominem seuiat.
           </p>
-          <p>
+          <p xml:id="gd-p2c14q6-d1e124">
             Et paulo post : §.3. Illud uero fidentissime dixerim, eum, qui pro homine ad hoc interuenit, ne male ablata
             restituat, et qui ad se confugientem (quantum honeste potest) ad reddendum non conpellit,
             socium esse fraudis et criminis. Nam misericordius opem nostram talibus subtrahimus quam
             inpendimus. Non enim opem fert qui ad peccandum adiuuat, ac non potius adiuuat sed
             obuiat subuertendo atque obprimendoP.
           </p>
-          <p>
+          <p xml:id="gd-p2c14q6-d1e126">
             §. 4. Sed numquid nos ideo aut exigere aut exigendum
             1 tradere uel possumus uel debemus? Agimus, quantum episcopalis facultas dat, et humanum
             quidem nonnumquam, sed maxime ac semper diuinum iudicium conminantes. Nolentes autem
@@ -98,15 +96,15 @@
             obtestamur, quosdam clam, quosdam palam, sicut diuersitas personarum diuersam
             uidetur posse uel accipere medicinam. </p>
         </div>
-        <div>
-          <head>Dictum</head>
-          <p xml:id="gd-p2c14q6-d1e123"> II. Pars. Gratian. Si uero rem alienam quis consecra-uerit
+        <div xml:id="gd-p2c14q6-Dd1e129">
+          <head xml:id="gd-p2c14q6-Hd1e131">Dictum</head>
+          <p xml:id="gd-p2c14q6-d1e123">Si uero rem alienam quis consecra-uerit
             , non eandem, sed estimationem eius restituere debet. </p>
           <p xml:id="gd-p2c14q6-d1e127"> Unde Gregorius [lib. VII. Indict. 2. epist. 58. Fantino
             Defensori] : </p>
         </div>
         <div xml:id="gd-p2c14q6-Dd1e131">
-          <head xml:id="gd-p2c14q6-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c14q6-Hd1e133">Caput 2</head>
           <head xml:id="gd-p2c14q6-Hd1e136" type="question-title"> Qui rem alienam consecrat, eius
             estimationem restituat . </head>
           <p xml:id="gd-p2c14q6-d1e139"> Conperimus, nullam extitisse causam, pro qua res eorum *
@@ -114,15 +112,15 @@
             experientiae tuae precipimus, ut, quia quod semel consecratum est eisnon ualet ultra
             restitui, studii tui sit ut ipse episcopus debeat precium dare. </p>
         </div>
-        <div>
-          <head>Dictum</head>
-          <p xml:id="gd-p2c14q6-d1e142"> III. Pars. Gratian. Pro malis autem apud principes ecclesia
+        <div xml:id="gd-p2c14q6-Dd1e153">
+          <head xml:id="gd-p2c14q6-Hd1e155">Dictum</head>
+          <p xml:id="gd-p2c14q6-d1e142">Pro malis autem apud principes ecclesia
             debet intercedere, non eos temerario ausu defendere. </p>
           <p xml:id="gd-p2c14q6-d1e145"> Unde Gregorius Romano Defensori, [lib. VII. Indict. 2.
-            epist. 2.]* </p>
+            epist. 2.]</p>
         </div>
         <div xml:id="gd-p2c14q6-Dd1e149">
-          <head xml:id="gd-p2c14q6-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c14q6-Hd1e151">Caput 3</head>
           <head xml:id="gd-p2c14q6-Hd1e154" type="question-title"> Ecclesia pro malis intercedat,
             non eos temere defendat.</head>
           <p xml:id="gd-p2c14q6-d1e157">
@@ -133,14 +131,14 @@
             ecclesiae non inquinetis. 
           </p>
         </div>
-        <div>
-          <head>Dictum</head>
-          <p xml:id="gd-p2c14q6-d1e160"> IV. Pars. Gratian. Furtum autem non tam in 
+        <div xml:id="gd-p2c14q6-Dd1e176">
+          <head xml:id="gd-p2c14q6-Hd1e178">Dictum</head>
+          <p xml:id="gd-p2c14q6-d1e160">Furtum autem non tam in 
             quantitate rei quam in affectu furantis consideratur.</p>
           <p xml:id="gd-p2c14q6-d1e163"> Unde Ieronimus in epistola ad Titum, [ad c. 2.] </p>
         </div>
         <div xml:id="gd-p2c14q6-Dd1e168">
-          <head xml:id="gd-p2c14q6-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c14q6-Hd1e170">Caput 4</head>
           <head xml:id="gd-p2c14q6-Hd1e173" type="question-title"> Non solum in maioribus sed etiam
             in minoribus furtum conmittitur. </head>
           <p xml:id="gd-p2c14q6-d1e176"> Fur autem non solum in maioribus, sed in minoribus etiam

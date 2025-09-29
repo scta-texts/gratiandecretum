@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO IV. </title>
+        <title> QUESTIO 4</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO IV. </title>
+          <title> QUESTIO 4</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,45 +53,58 @@
     </front>
     <body>
       <div xml:id="gd-p2c16q4">
-        <head xml:id="gd-p2c16q4-Hd1e103"> QUESTIO IV. </head>
-        <p xml:id="gd-p2c16q4-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c16q4-d1e109"> Ostensum est, quando ecclesia aduersus ecclesiam prescribere
-          possit. Nunc uidendum est, si monasterium aduersus ecclesiamprescribere ualeat? Quod
-          Urbanus II. prohibuit, dicens*-: </p>
+        <head xml:id="gd-p2c16q4-Hd1e103"> QUESTIO 4</head>
+        <div xml:id="gd-p2c16q4-Dd1e100">
+          <head xml:id="gd-p2c16q4-Hd1e102">Dictum</head>
+          <p xml:id="gd-p2c16q4-d1e109"> Ostensum est, quando ecclesia aduersus ecclesiam prescribere
+            possit. Nunc uidendum est, si monasterium aduersus ecclesiamprescribere ualeat? Quod
+            Urbanus II. prohibuit, dicens: </p>
+        </div>
         <div xml:id="gd-p2c16q4-Dd1e112">
-          <head xml:id="gd-p2c16q4-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c16q4-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c16q4-Hd1e117" type="question-title"> Tricennio temporis aliquid
             monachi prescribere non ualent. </head>
           <p xml:id="gd-p2c16q4-d1e120"> Possessiones ecclesiarum et episcoporum tricennales abbates
             uel monachos habere omnimodis prohibemus. </p>
-          <p xml:id="gd-p2c16q4-d1e123"> Gratian. Sed si tollitur eis tricennalis possessio, a B.
+        </div>
+        <div xml:id="gd-p2c16q4-Dd1e120">
+          <head xml:id="gd-p2c16q4-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c16q4-d1e123">
+            Sed si tollitur eis tricennalis possessio, a
             Gregor io conceditur eis quadragenalis prescriptio. Ait enimPetro Subdiacono, [ 1 . I.
             c. 9.]: </p>
         </div>
         <div xml:id="gd-p2c16q4-Dd1e127">
-          <head xml:id="gd-p2c16q4-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c16q4-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c16q4-Hd1e132" type="question-title"> Quadraginta annorum prescriptio
             religiosis domibus conceditur.</head>
-          <p xml:id="gd-p2c16q4-d1e135"> Volumus accedente te ad Panormitanam ciuitatem questionem
-            ipsam tali ratione discutere (dominio rei apudpossessorem, sicut hactenus possessum est,
+          <p xml:id="gd-p2c16q4-d1e135"> 
+            Volumus accedente te ad Panormitanam ciuitatem questionem
+            ipsam tali ratione discutere (dominio rei apud possessorem, sicut hactenus possessum est,
             uidelicet permanente), ut, si monasterium prefatum S. Theodori fines, 
             de quibus causatio mota est, inconcussos quadraginta annis
-            possedisse repereris, nullam deinceps (etiam si quid sanctaeRomanae ecclesiae conpetere
+            possedisse repereris, nullam deinceps (etiam si quid sanctae Romanae ecclesiae conpetere
             potuit) patiaris sustinerecalumpniam, sed quietem eorum inconsussam omnibusmodis
-            procurate. Sin uero actores ecclesiae non eospossedisse quadraginta annis inconcusso
-            iure monstraue-rint, sed aliquam intra tempora hec motam fuisse aliquandoquestionem
-            eorundem finium, electis arbitris tranquille etlegaliter sopiatur. </p>
+            procurate. Sin uero actores ecclesiae non eos possedisse quadraginta annis inconcusso
+            iure monstraue-rint, sed aliquam intra tempora hec motam fuisse aliquandoq uestionem
+            eorundem finium, electis arbitris tranquille et legaliter sopiatur. =
+          </p>
         </div>
         <div xml:id="gd-p2c16q4-Dd1e143">
-          <head xml:id="gd-p2c16q4-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c16q4-Hd1e145">Caput 3</head>
           <head xml:id="gd-p2c16q4-Hd1e148" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c16q4-d1e151"> Item ex Nouellis Iustiniani , [Nouella CXXXI.]* </p>
-          <p xml:id="gd-p2c16q4-d1e154"> Neque decennii, neque uicennii, uel XXX. annorum
+          <p xml:id="gd-p2c16q4-d1e154"> 
+            Item ex <ref xml:id="gd-p2c16q4-Rd1e151">Nouellis Iustiniani , [Nouella CXXXI.]</ref>
+            Neque decennii, neque uicennii, uel XXX. annorum
             prescriptio, sed sola XL. annorum curricula religiosis domibus obponantur, non solum in
             ceteris rebus, sed etiam inlegatis et hereditatibus. </p>
-          <p xml:id="gd-p2c16q4-d1e157"> Gratian. Sicut ergo religiosis domibus ex lege non nisi
-            quadragenaria est obicienda prescriptio , ita et auctoritate Gregorii aduersus alias
-            ecclesias prescribere possunt eodem spado temporis. </p>
+        </div>
+        <div xml:id="gd-p2c16q4-Dd1e155">
+          <head xml:id="gd-p2c16q4-Hd1e157">Dictum</head>
+          <p xml:id="gd-p2c16q4-d1e157">Sicut ergo religiosis domibus ex lege non nisi
+            quadragenaria est obicienda prescriptio, ita et auctoritate Gregorii aduersus alias
+            ecclesias prescribere possunt eodem spado temporis.
+          </p>
         </div>
       </div>
     </body>

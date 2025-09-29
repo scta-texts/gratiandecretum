@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,23 +53,22 @@
     </front>
     <body>
       <div xml:id="gd-p2c21q3">
-        <head xml:id="gd-p2c21q3-Hd1e103"> QUESTIO III. </head>
-        <p xml:id="gd-p2c21q3-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c21q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c21q3-Dd1e100">
+          <head xml:id="gd-p2c21q3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c21q3-d1e109"> Quod autem clerici secularium negociorum procuratores esse
-          non ualeant, auctoritate Cartaginensis Concilii I. probatur , in quo Nicasius * Episcopus
-          Culusitanus dixisselegitur cap. 6.: </p>
+          non ualeant, auctoritate Cartaginensis Concilii I. probatur , in quo Nicasius Episcopus
+          Culusitanus dixisse legitur cap. 6.: </p>
+        </div>
         <div xml:id="gd-p2c21q3-Dd1e112">
-          <head xml:id="gd-p2c21q3-Hd1e114">C. I.</head>
-
+          <head xml:id="gd-p2c21q3-Hd1e114">Caput 1</head>
           <p xml:id="gd-p2c21q3-d1e117"> Peruenit in sanctam sinodum, quia de eis, qui in clero
             connumerantur, quidam propter turpis lucri gratiam alienarum possessionum conductiones
             et seculares causas suscipiunt, et se ipsos quidem a ministeriis sanctis per
             desidiamseparant, ad domos autem secularium concurrunt, et substantiarum eorum
             gubernationes auariciae causa suscipiunt.Decreuit igitur sancta et magna sinodus,
             neminem deincepseorum, hoc est non episcopum, siue clericum, aut monachum, conducere
-            possessiones, aut misceri secularibus procura- </p>
-
-          <p xml:id="gd-p2c21q3-d1e120"> tionibus, nisi forte qui legibus ad minorum etatem tutelas
+            possessiones, aut misceri secularibus procurationibus, nisi forte qui legibus ad minorum etatem tutelas
             siue procurationes inexcusabiles attrahantur, aut cui ipsiusciuitatis episcopus
             ecclesiasticarum rerum conmiserit gubernacula, uel orphanorum, aut uiduarum, que
             indefensae sunt, aut earum personarum, que maxime ecclesiastico indigentamminiculo
@@ -79,74 +76,77 @@
             ecclesiasticae subiaceat.] </p>
         </div>
         <div xml:id="gd-p2c21q3-Dd1e124">
-          <head xml:id="gd-p2c21q3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c21q3-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c21q3-Hd1e129" type="question-title"> Qui annexi sunt clero secularium
             possessionum procuratores non fiant . </head>
           <p xml:id="gd-p2c21q3-d1e132"> Credo placere suggestionem meam sanctitati uestrae, et
             displicere uobis, ut qui seruiunt Deo, et annexi suntclero, accedant ad actiones, seu
             amministrationes uelad procurationes domorum. Gratus episcopus dixit:Apostolorum statuta
-            sunt, que dicunt: „Nemo militansDeo inplicat se negociis secularibus." Proinde aut
+            sunt, que dicunt: „Nemo militans Deo inplicat se negociis secularibus." Proinde aut
             clericisint sine actionibus domorum, aut actores sine offitio clericorum. Uniuersi
             dixerunt : Hoc obseruemus. </p>
         </div>
         <div xml:id="gd-p2c21q3-Dd1e137">
-          <head xml:id="gd-p2c21q3-Hd1e139">C. III</head>
+          <head xml:id="gd-p2c21q3-Hd1e139">Caput 3</head>
           <head xml:id="gd-p2c21q3-Hd1e142" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c21q3-d1e145"> Item ex Concilio Cartaginensi HII. [c. 15.] </p>
-          <p xml:id="gd-p2c21q3-d1e148"> Placuit, ut episcopi, presbiteri, et diaconi, uel quicumque
+          <p xml:id="gd-p2c21q3-d1e148"> 
+            Item ex <ref xml:id="gd-p2c21q3-Rd1e139">Concilio Cartaginensi HII. [c. 15.]</ref> 
+            Placuit, ut episcopi, presbiteri, et diaconi, uel quicumque
             clerici non sint conductores, aut procuratores, neque ullo turpi uel inhonesto negocio
             uictum querant, quia respicere debent scriptum esse: „Nemomilitans Deo inplicat se
             secularibus negociis." </p>
         </div>
         <div xml:id="gd-p2c21q3-Dd1e152">
-          <head xml:id="gd-p2c21q3-Hd1e154">C. IV</head>
+          <head xml:id="gd-p2c21q3-Hd1e154">Caput 4</head>
           <head xml:id="gd-p2c21q3-Hd1e157" type="question-title"> Secularium negociorum
             procurationem clerici non suscipiant.</head>
-          <p xml:id="gd-p2c21q3-d1e160"> Item ex epistola Cipriani ad Presbiteros, et Diacones, et
-            plebem Furnensem [lib. I. epist. 9.]*. </p>
-          <p xml:id="gd-p2c21q3-d1e163"> Ciprianus presbiteris, et diaconibus, plebi Fur-nensi
+          <p xml:id="gd-p2c21q3-d1e163"> 
+            Item ex <ref xml:id="gd-p2c21q3-Rd1e154">epistola Cipriani ad Presbiteros, et Diacones, et plebem Furnensem [lib. I. epist. 9.].</ref> 
+            Ciprianus presbiteris, et diaconibus, plebi Furnensi
             consistentibus salutem. Iampridem concilioepiscoporum statutum est, ne quis de clericis
             et Dei ministris tutorem et curatorem testamento suo nominauerit, quando singuli diuino
             sacerdotio honorati et in clericorum s ministerio constituti non nisi altari et
             sacrificiis de-seruire, et precibus atque orationibus uacare debeant.Scriptum est enim:
-            , , Nemo militans Deo inplicat senegociis secularibus, ut possit placere ei, cui se
-            proba-uit." §. i. Quod episcopi et antecessores nostri religiose considerantes et
+            "Nemo militans Deo inplicat senegociis secularibus, ut possit placere ei, cui se
+            probauit." 
+          </p>
+          <p xml:id="gd-p2c21q3-d1e157">
+            §. i. Quod episcopi et antecessores nostri religiose considerantes et
             salubriter prouidentes censuerunt, ne quis excedens ad tutelam uel curam clericum
             nominaret; ac si quis hoc fecisset, non offerretur pro eo, necsacrificium pro dormitione
             eius celebraretur. Neque enimante altare Dei merentur nominari in sacerdotumprece qui ab
             altari sacerdotes et ministros uolunt auo-care. </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c21q3-Dd1e167">
-          <head xml:id="gd-p2c21q3-Hd1e169">C. V</head>
+          <head xml:id="gd-p2c21q3-Hd1e169">Caput 5</head>
           <head xml:id="gd-p2c21q3-Hd1e172" type="question-title"> Non licet clericis molliciis et
             secularibus rebus obligari.</head>
-          <p xml:id="gd-p2c21q3-d1e175"> Item ex eadem. </p>
-          <p xml:id="gd-p2c21q3-d1e178"> Molliciis* et secularibus rebus laqueisque obligari non
+          <p xml:id="gd-p2c21q3-d1e178"> 
+            Item ex <ref xml:id="gd-p2c21q3-Rd1e170">eadem.</ref> 
+            Molliciis et secularibus rebus laqueisque obligari non
             debent qui diuinis rebus et spiritualibus occupati sunt nec ad terrenos et seculares
             actus uacare. </p>
         </div>
         <div xml:id="gd-p2c21q3-Dd1e182">
-          <head xml:id="gd-p2c21q3-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c21q3-Hd1e184">Caput 6</head>
           <head xml:id="gd-p2c21q3-Hd1e187" type="question-title"> Secularibus negociis clerici non
             alligentur . </head>
-          <p xml:id="gd-p2c21q3-d1e190"> Item ex eadem . </p>
-          <p xml:id="gd-p2c21q3-d1e193"> Hii, qui in ecclesia Domini ad ordinationem clericorum*
+          <p xml:id="gd-p2c21q3-d1e193"> 
+            Item ex <ref xml:id="gd-p2c21q3-Rd1e184">eadem</ref>. 
+            Hii, qui in ecclesia Domini ad ordinationem clericorum*
             promouentur, in nullo ab administratione diuina auocentur, nec molestiis et negociis
-            secularibus alligentur**, nec ab altariis et sacrificiis recedant, seddie ac nocte
+            secularibus alligentur, nec ab altariis et sacrificiis recedant, seddie ac nocte
             celestibus rebus et spiritualibus seruiant. </p>
         </div>
         <div xml:id="gd-p2c21q3-Dd1e197">
-          <head xml:id="gd-p2c21q3-Hd1e199">C. VII</head>
+          <head xml:id="gd-p2c21q3-Hd1e199">Caput 7</head>
           <head xml:id="gd-p2c21q3-Hd1e202" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p2c21q3-d1e205"> Item , ut supra, Ciprianus . </p>
-          <p xml:id="gd-p2c21q3-d1e208"> Sacerdotum religiose secretum et necessarie factum seruetur
+          <p xml:id="gd-p2c21q3-d1e208"> 
+            Item, <ref xml:id="gd-p2c21q3-Rd1e198">ut supra, Ciprianus</ref>. 
+            Sacerdotum religiose secretum et necessarie factum seruetur
             a nobis, simul et ceteris fratribus detur exemplum, ne quis sacerdotes et ministros Dei
-            altari eiuset ecclesiae uacantes ad seculares molestias deuocet. Obseruari de cetero
-            poterit, ne quis ultra hoc faciat circapersonam clericorum, si quod factum est fuerit
+            altari eius et ecclesiae uacantes ad seculares molestias deuocet. Obseruari de cetero
+            poterit, ne quis ultra hoc faciat circa personam clericorum, si quod factum est fuerit
             uindi-catum. </p>
         </div>
       </div>
