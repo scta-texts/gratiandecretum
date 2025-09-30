@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,108 +53,108 @@
     </front>
     <body>
       <div xml:id="gd-p2c32q1">
-        <head xml:id="gd-p2c32q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c32q1-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c32q1-d1e109"> I. Pars. Quod autem meretrix in coniugem duci non debeat,
+        <head xml:id="gd-p2c32q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c32q1-Dd1e100">
+          <head xml:id="gd-p2c32q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c32q1-d1e109">
+          Quod autem meretrix in coniugem duci non debeat,
           multis auctoritatibus eD rationibus probatur. Illa enim, queadulterii rea conuincitur,
-          nisi post peractam penitenciam in con-iugii consortio retineri non debet . </p>
-        <p xml:id="gd-p2c32q1-d1e112"> Unde Iohannes Crisostomus, [id est auctor operis imperfecti
+          nisi post peractam penitenciam in coniugii consortio retineri non debet . </p>
+        <p xml:id="gd-p2c32q1-d1e112">Unde Iohannes Crisostomus, [id est auctor operis imperfecti
           hom. XXXII.] ait super Matth. c. 9. </p>
+        </div>
         <div xml:id="gd-p2c32q1-Dd1e115">
-          <head xml:id="gd-p2c32q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c32q1-Hd1e117">Caput 1</head>
           <head xml:id="gd-p2c32q1-Hd1e120" type="question-title"> Patronus turpitudinis est qui
             uxorem suam adulteram dimittere noluerit.</head>
           <p xml:id="gd-p2c32q1-d1e123"> Sicut crudelis et iniquus est qui castam dimittit,
-            sicfatuus est et iniustus qui retinet meretricem. Patronusenim turpitudinis est, qui
+            sic fatuus est et iniustus qui retinet meretricem. Patronusenim turpitudinis est, qui
             celat crimen uxoris. </p>
-          <p xml:id="gd-p2c32q1-d1e126"> EDITIO : </p>
-          <p xml:id="gd-p2c32q1-d1e129"> Causa XXXI. Que st. III. C. UN. a) se a b) tame Que st. I.
-            c. 1. a) c. 19. b) Nam patr. c) turpit. eius —c. 3. a) et.: deest b) sed quasi — c. 4.
-            a) commixtus — </p>
-
         </div>
         <div xml:id="gd-p2c32q1-Dd1e134">
-          <head xml:id="gd-p2c32q1-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c32q1-Hd1e136">Caput 2</head>
           <head xml:id="gd-p2c32q1-Hd1e139" type="question-title"> Causa fornicationis uir dimittat
             uxorem, non tamen alteram ducat. </head>
-          <p xml:id="gd-p2c32q1-d1e142"> Item Ieronimus [in comm. ad c. 19. Matth.] </p>
-          <p xml:id="gd-p2c32q1-d1e145"> Ait Dominus in euangelio: „ Quicumque dimiserit uxorem,
+          <p xml:id="gd-p2c32q1-d1e145"> 
+            Item <ref xml:id="gd-p2c32q1-Rd1e133">Ieronimus [in comm. ad c. 19. Matth.]</ref>
+            Ait Dominus in euangelio: „ Quicumque dimiserit uxorem,
             nisi ob fornicationem, et aliam duxerit, mechatur, et qui dimissam duxerit, mechatur.“
             Sola fornicatio est, que uxoris uincit affectum ; imo, cum illa unam carnem inaliam
             diuiserit, et se fornicatione a marito separauerit, nondebet teneri, ne uirum quoque sub
             maledicto faciat, dicentescriptura: , , Qui tenet adulteram stultus et inpius
             est.“Ubicumque est igitur fornicatio uel fornicationis suspicio, libere uxor dimittitur.
-            Et quia poterat accidere, ut aliquiscalumpniam faceret innocenti, et ob secundam copulam
-            nuptialem ueteri copulae crimen inpingeret, sic prioremdimittere iubetur uxorem, ut
-            prima uiuente secundam nonhabeat. </p>
+            Et quia poterat accidere, ut aliquis calumpniam faceret innocenti, et ob secundam copulam
+            nuptialem ueteri copulae crimen inpingeret, sic priorem dimittere iubetur uxorem, ut
+            prima uiuente secundam non
+            habeat. 
+          </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e149">
-          <head xml:id="gd-p2c32q1-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c32q1-Hd1e151">Caput 3</head>
           <head xml:id="gd-p2c32q1-Hd1e154" type="question-title"> Sola uiri fornicatio uxorem
             maculat.</head>
-          <p xml:id="gd-p2c32q1-d1e157"> Idem in epistola Pauli ad Corinthios [1. c. 6. in glossa
-            ordinaria] . </p>
-          <p xml:id="gd-p2c32q1-d1e160"> In coniugio quis positus quecumque peccata fecerit, non
+          <p xml:id="gd-p2c32q1-d1e157"> </p>
+          <p xml:id="gd-p2c32q1-d1e160"> 
+            <ref xml:id="gd-p2c32q1-Rd1e150">Idem in epistola Pauli ad Corinthios [1. c. 6. in glossa ordinaria].</ref> 
+            In coniugio quis positus quecumque peccata fecerit, non
             propriam infuscant coniugem; sed fornicatio etiam uxorem coinquinat, ut iam non sit uiro
             suolicita, sed adultera. </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e164">
-          <head xml:id="gd-p2c32q1-Hd1e166">C. IV</head>
+          <head xml:id="gd-p2c32q1-Hd1e166">Caput 4</head>
           <head xml:id="gd-p2c32q1-Hd1e169" type="question-title"> Qui uxorem suam dimittere
             noluerit adulteram, duobus annis peniteat, si ei debitum reddiderit. </head>
-          <p xml:id="gd-p2c32q1-d1e172"> Item Iohannes Crisostomus *. </p>
-          <p xml:id="gd-p2c32q1-d1e175"> Si quis uxorem suam inuenerit adulteram, et postea deinceps
+          <p xml:id="gd-p2c32q1-d1e175"> 
+            Item <ref xml:id="gd-p2c32q1-Rd1e165">Iohannes Crisostomus.</ref> 
+            Si quis uxorem suam inuenerit adulteram, et postea deinceps
             placuerit habere eam in matrimonio, duobus annispeniteat ideo, quia cum adultera mixtus
-            sit, que adhuccrimine suo non est purgata, aut abstineat se a matrimonioeius, donec
+            sit, que adhuccrimine suo non est purgata, aut abstineat se a matrimonio eius, donec
             expleatur satisfactio criminis penitenciae suae, ideo, quia post satisfactionem
-            penitenciae non meretur uo-cari adultera. Similiter, si uxor inuenerit uirum suum
+            penitenciae non meretur uocari adultera. Similiter, si uxor inuenerit uirum suum
             adulterum, non ad inparia iudicatur. </p>
-          <p xml:id="gd-p2c32q1-d1e178"> II. Pars. Gratian. Subauditur, nisi ab adulterio
-            mulieruoluerit recedere, quo casu uxorem suam uir recipere potest , nullum periculum ei
+        </div>
+        <div xml:id="gd-p2c32q1-Dd1e169">
+          <head xml:id="gd-p2c32q1-Hd1e171">Dictum</head>
+          <p xml:id="gd-p2c32q1-d1e178">Subauditur, nisi ab adulterio
+            mulier uoluerit recedere, quo casu uxorem suam uir recipere potest , nullum periculum ei
             illaturus. </p>
           <p xml:id="gd-p2c32q1-d1e182"> Unde Pelagius Papa Melleo Subdiacono : </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e186">
-          <head xml:id="gd-p2c32q1-Hd1e188">C. V</head>
+          <head xml:id="gd-p2c32q1-Hd1e188">Caput 5</head>
           <head xml:id="gd-p2c32q1-Hd1e191" type="question-title"> Post penitenciam adulterii uxorem
             suam uir recipere potest. </head>
           <p xml:id="gd-p2c32q1-d1e194"> De Benedicto quoque, quem uxorem alienam facinoroso spiritu
             indicasti sustulisse, et in suum hactenuspresumere detinere consortium, si hoc rerum
             ueritas habet, iubemus experientiae tuae, ut eum cum ipsa quoque adultera districte non
-            differas mactare, et caluatos ab inuicemseparare , et illum quidem ad Lucium defensorem
-            in Apuliae prouinciae patrimonium sine dilatione migrare; illamuero, siquidem maritus
+            differas mactare, et caluatos ab inuicem separare , et illum quidem ad Lucium defensorem
+            in Apuliae prouinciae patrimonium sine dilatione migrare; illam uero, siquidem maritus
             suus sine aliquo dolo recipereforte uoluerit, tua ordinatione sub cautela recipiat,
             nullumei dumtaxat de cetero simile conmittenti periculum illaturus. Si uero omnino eam
             recipere noluerit, in aliumquendam locum, in quo ei non liceat male uiuere, prouidaeam
             dispensatione constitue. </p>
-          <p xml:id="gd-p2c32q1-d1e197"> :OMANA. </p>
-          <p xml:id="gd-p2c32q1-d1e200"> c) iidem — Causa XXXII. a) Quidem vir b) liceat — c. 2. a)
-            Dixit b) vincat c) nuptiarum d) cop.: deest —5. a) suam: deest b) dilatione fac c)
-            accipere d) ei nihil </p>
-
-
-
-
+          
         </div>
         <div xml:id="gd-p2c32q1-Dd1e204">
-          <head xml:id="gd-p2c32q1-Hd1e206">C. VI</head>
+          <head xml:id="gd-p2c32q1-Hd1e206">Caput 6</head>
           <head xml:id="gd-p2c32q1-Hd1e209" type="question-title"> Qui adulterae reddit debitum ,
             tribus annis peniteat. </head>
-          <p xml:id="gd-p2c32q1-d1e212"> Item ex Penitenciali Theodori . </p>
-          <p xml:id="gd-p2c32q1-d1e215"> Si quis uxorem suam scit adulteram, et non uult dimittere
-            eam, sed in matrimonio habere, tres annospeniteat, et quamdiu illa penitet*, abstineat
+          <p xml:id="gd-p2c32q1-d1e215"> 
+            Item ex <ref xml:id="gd-p2c32q1-Rd1e202">Penitenciali Theodori.</ref>
+            Si quis uxorem suam scit adulteram, et non uult dimittere
+            eam, sed in matrimonio habere, tres annos peniteat, et quamdiu illa penitet, abstineat
             seab illa. </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e219">
-          <head xml:id="gd-p2c32q1-Hd1e221">C. VII</head>
+          <head xml:id="gd-p2c32q1-Hd1e221">Caput 7</head>
           <head xml:id="gd-p2c32q1-Hd1e224" type="question-title"> Adulterio purgato per penitenciam
             potest fieri reconciliatio coniugii.</head>
-          <p xml:id="gd-p2c32q1-d1e227"> Item Augustinus ad Volentium [de adulterinis coniugiis, ]
-            lib. II. [c. 6.J </p>
-          <p xml:id="gd-p2c32q1-d1e230"> Quod autem tibi durum uidetur, ut post adulterium
+          <p xml:id="gd-p2c32q1-d1e230"> 
+            Item <ref xml:id="gd-p2c32q1-Rd1e216">Augustinus ad Volentium [de adulterinis coniugiis, ] lib. II. [c. 6.]</ref> 
+            Quod autem tibi durum uidetur, ut post adulterium
             reconcilietur coniux, si fides adsit, non erit durum. Curenim adhuc deputamus adulteros,
             quos credimus uel baptismate ablutos, uel penitencia esse sanatos? Hec crimina inueteri
-            lege Dei nullis sacrificiis mundabantur, que inlege*noui testamenti sine mundatione
+            lege Dei nullis sacrificiis mundabantur, que in lege noui testamenti sine mundatione
             mundantur, etideo tunc omnino prohibitum est ab alio contaminatam accipere uxorem,
             quamuis Dauid Saulis filiam, quam pater eiusdem mulieris ab eo separatam dederat alteri,
             tamquam noui testamenti prefigurator sine cunctationereceperit. Nunc autem, posteaquam
@@ -165,41 +163,53 @@
             sedebere adulteram dicere, cuius penitentis crimen deletumest a Deos? </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e235">
-          <head xml:id="gd-p2c32q1-Hd1e237">C. VIII</head>
+          <head xml:id="gd-p2c32q1-Hd1e237">Caput 8</head>
           <head xml:id="gd-p2c32q1-Hd1e240" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c32q1-d1e243"> Idem de adulterinis coniugiis . </p>
-          <p xml:id="gd-p2c32q1-d1e246"> Non erit turpis neque difficilis etiam post patrataatque
-            purgata adulteria reconciliatio coniugii, ubi perclaues regni celorum non dubitatur
+          <p xml:id="gd-p2c32q1-d1e246"> 
+            <ref xml:id="gd-p2c32q1-Rd1e230">Idem de adulterinis coniugiis.</ref> 
+            Non erit turpis neque difficilis etiam post patrataatque
+            purgata adulteria reconciliatio coniugii, ubi per claues regni celorum non dubitatur
             fieri remissio peccatorum ; non ut post uiri diuortium adultera reuocetur, sed utpost
             Christi consortium adultera non uocetur. </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e250">
-          <head xml:id="gd-p2c32q1-Hd1e252">C. IX</head>
+          <head xml:id="gd-p2c32q1-Hd1e252">Caput 9</head>
           <head xml:id="gd-p2c32q1-Hd1e255" type="question-title"> Cum fornicationis uicium
             excluditur , castitatis uirtus asciscitur. </head>
-          <p xml:id="gd-p2c32q1-d1e258"> Item Ambrosius [ 1 . II. de Cain et Abel, c. 4.] </p>
-          <p xml:id="gd-p2c32q1-d1e261"> Cum renunciatur inprobitati, statim asciscitur uirtus.
-            Egressus enim maliciae uirtutis operatur ingressum, eodem-que studio, quo crimen
+          <p xml:id="gd-p2c32q1-d1e261"> 
+            Item <ref xml:id="gd-p2c32q1-Rd1e245">Ambrosius [ 1 . II. de Cain et Abel, c. 4.]</ref> 
+            Cum renunciatur inprobitati, statim asciscitur uirtus.
+            Egressus enim maliciae uirtutis operatur ingressum, eodemque studio, quo crimen
             excluditur, innocentia copulatur. </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e265">
-          <head xml:id="gd-p2c32q1-Hd1e267">C. X</head>
+          <head xml:id="gd-p2c32q1-Hd1e267">Caput 10</head>
           <head xml:id="gd-p2c32q1-Hd1e270" type="question-title"> Non habetur fallax apud Deum qui
             penitendo ad ueritatem reuertitur.</head>
-          <p xml:id="gd-p2c32q1-d1e273"> Item Gregorius [hom. XXIX. Euangel.] </p>
-          <p xml:id="gd-p2c32q1-d1e276"> Apud misericordem namque iudicem nec ille fallax habebitur,
+          <p xml:id="gd-p2c32q1-d1e276"> 
+            Item <ref xml:id="gd-p2c32q1-Rd1e259">Gregorius [hom. XXIX. Euangel.]</ref>
+            Apud misericordem namque iudicem nec ille fallax habebitur,
             qui ad ueritatem reuertitur, etiam postquammentitur, quia omnipotens Deus, dum libenter
             nostram penitenciam suscipit, ipse suo iudicio hoc, quod errauimus, abscondit. </p>
-
-          <p xml:id="gd-p2c32q1-d1e279"> Gratian. Quod si in adulterio perseuerare elegerit ,
+        </div>
+        <div xml:id="gd-p2c32q1-Dd1e263">
+          <head xml:id="gd-p2c32q1-Hd1e265">Dictum</head>
+          <p xml:id="gd-p2c32q1-d1e279">
+            Quod si in adulterio perseuerare elegerit ,
             patronus turpitudinis et lenocinii reus maritus habebitur , nisi eam adulterii ream
             facere uoluerit. Unde in VIII. libro Cod. tit. deadult. et stupro Inp.* S eu erus et
             Antoninus: „ Crimenlenocinii contrahunt qui deprehensam in adulterio uxorem inmatrimonio
-            detinuerunt *, non qui suspectam habuerunt *adulter am.^ §. 1. Hoc in mulieribus non
+            detinuerunt *, non qui suspectam habuerunt *adulter am.^ 
+          </p>
+          <p xml:id="gd-p2c32q1-d1e270">
+            §. 1. Hoc in mulieribus non
             obtinet. Non enimeis permittitur maritos suos adulterii reos facere. Unde in libro , et
-            tit. eodem , idem Imp.**: „Publico iudicio non habere mulieres adulterii accusationem ,
+            tit. eodem , idem Imp.: „Publico iudicio non habere mulieres adulterii accusationem ,
             quamuis de matrimonio uiolatoqueri uelint , lex lulia declarat , que cum masculis iure
-            maritiaccusandi facultatem detulisset , non idem feminis priuilegiumdetulit §. 2. Si
+            maritiaccusandi facultatem detulisset , non idem feminis priuilegiumdetulit 
+          </p>
+          <p xml:id="gd-p2c32q1-d1e272">
+            §. 2. Si
             ergo , ut ex his auctoritatibus colligitur , adulteram retinere nulli permittitur ,
             multo minus in coniugium ducilicebit cuius pudicitiae nulla spes habetur. Debet enim
             inter coniuges fides seruari et sacramentum , que cum defuerint , non coniuges, sed
@@ -207,7 +217,7 @@
           <p xml:id="gd-p2c32q1-d1e283"> Unde Augustinus scribit contra Iulianum , l. /. </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e287">
-          <head xml:id="gd-p2c32q1-Hd1e289">C. XI</head>
+          <head xml:id="gd-p2c32q1-Hd1e289">Caput 11</head>
           <head xml:id="gd-p2c32q1-Hd1e292" type="question-title"> Veritas nuptiarum non consistit
             in conmixtione maris et feminae.</head>
           <p xml:id="gd-p2c32q1-d1e295"> Non in sola, ut deliras, conmixtione maris et feminae
@@ -216,13 +226,17 @@
             tori coniugalis fides, et cura ordinate filios procreandi, et (que maxima differentia
             est) bonus usus mali, hocest bonus usus concupiscentiae carnis, quo bono adulterimale
             utuntur. </p>
-          <p xml:id="gd-p2c32q1-d1e298"> Gratian. Hec sunt bona , quibus conmendantur , et ab
+        </div>
+        <div xml:id="gd-p2c32q1-Dd1e290">
+          <head xml:id="gd-p2c32q1-Hd1e292">Dictum</head>
+          <p xml:id="gd-p2c32q1-d1e298">Hec sunt bona , quibus conmendantur , et ab
             illicito usu discernuntur. </p>
-          <p xml:id="gd-p2c32q1-d1e301"> III. Pars. Contra uero Ambr osius^** inprobare nuptias
-            uidetur , dicens: </p>
+          <p xml:id="gd-p2c32q1-d1e301">
+            Contra uero Ambrosius inprobare nuptias
+            uidetur, dicens: </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e305">
-          <head xml:id="gd-p2c32q1-Hd1e307">C. XII</head>
+          <head xml:id="gd-p2c32q1-Hd1e307">Caput 12</head>
           <head xml:id="gd-p2c32q1-Hd1e310" type="question-title"> Primae ac secundae nuptiae hac
             auctoritate inprobari uidentur. </head>
           <p xml:id="gd-p2c32q1-d1e313"> Nuptiae terram replent, uirginitas paradisum. Sed ethoc
@@ -233,45 +247,52 @@
             federa nuptiarum. Unde et in arcaNoe omnia animalia, quecumque bina ingrediuntur,
             in-munda sunt. Inpar numerus mundus est, quamquam induplici numero intelligatur et aliud
             sacramentum, quodnec in bestiis quidem, et inmundis auibus digamiaconprobata sit: bina
-            enim et bina s ingrediuntur inmunda, </p>
-
-
-
-
-          <p xml:id="gd-p2c32q1-d1e316"> et septena, que munda sunt; ut haberet Noe post dilu-uium,
+            enim et bina s ingrediuntur inmunda, et septena, que munda sunt; ut haberet Noe post dilu-uium,
             quod inpari numero statim Deo posset offerre. </p>
-          <p xml:id="gd-p2c32q1-d1e319"> Gratian. Verum hoc ad exhortationem, non ad necessitatem
-            ohseruandae uirginitatis refertur . Unde idem Ambrosius ait [in libro exhortationis ad
-            uirginesj: </p>
+        </div>
+        <div xml:id="gd-p2c32q1-Dd1e314">
+          <head xml:id="gd-p2c32q1-Hd1e316">Dictum</head>
+          <p xml:id="gd-p2c32q1-d1e319">
+            Verum hoc ad exhortationem, non ad necessitatem
+            ohseruandae uirginitatis refertur. 
+            Unde idem Ambrosius ait [in libro exhortationis ad uirginesj: </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e323">
-          <head xml:id="gd-p2c32q1-Hd1e325">C. XIII</head>
+          <head xml:id="gd-p2c32q1-Hd1e325">Caput 13</head>
           <head xml:id="gd-p2c32q1-Hd1e328" type="question-title"> Virginitas ex consilio suadetur,
             non ex inperio precipitur.</head>
-          <p xml:id="gd-p2c32q1-d1e331"> Integritas corporis expetenda a nobis est, quam ego pro
+          <p xml:id="gd-p2c32q1-d1e331">
+            Integritas corporis expetenda a nobis est, quam ego pro
             consilio suadeo, non pro inperio precipio. Sola estenim uirginitas, que suaderi potest,
             inperari non potest: resmagis est uoti, quam precepti. </p>
-          <p xml:id="gd-p2c32q1-d1e334"> IV. Pars. Gratian. Cum ergo in meretrice, ut diximus, nulla
+        </div>
+        <div xml:id="gd-p2c32q1-Dd1e334">
+          <head xml:id="gd-p2c32q1-Hd1e336">Dictum</head>
+          <p xml:id="gd-p2c32q1-d1e334">
+            Cum ergo in meretrice, ut diximus, nulla
             sit spes fidei, nulla sit certitudo pudicitiae, patet, quod non est in coniugium
-            ducenda. §. i. Sed obicitur: Raab Hierichontina , quamuis esset meretrix, tamen principi
+            ducenda. 
+          </p>
+          <p xml:id="gd-p2c32q1-d1e341">
+            §. i. Sed obicitur: Raab Hierichontina, quamuis esset meretrix, tamen principi
             detribu Iuda coniugio copulata est, de qua etiam Christus posteanasci dignatus est. Osee
             quoque, duodecim Prophetarum primus, ex precepto Domini choro hordei meretricem emit,
             quam sibiin coniugio sociauit. Sed aliud est meretricem ducere, ueladulteram retinere,
-            quam tua consuetudine, castitate, et pudicitiaexornes: atque aliud aliquam habere earum,
+            quam tua consuetudine, castitate, et pudicitia exornes: atque aliud aliquam habere earum,
             quam nullo pactoa luxu carnis suae reuocare ualeas. Hoc enim penitus prohibetur: illud
-            laudabiliter factum legitur. </p>
-          <p xml:id="gd-p2c32q1-d1e337"> Unde leronimus super Osee lib. I., [ad c. i.]; </p>
+            laudabiliter factum legitur. 
+          </p>
+          <p xml:id="gd-p2c32q1-d1e337"> Unde Ieronimus super Osee lib. I., [ad c. i.]; </p>
         </div>
         <div xml:id="gd-p2c32q1-Dd1e342">
-          <head xml:id="gd-p2c32q1-Hd1e344">C. XIV</head>
+          <head xml:id="gd-p2c32q1-Hd1e344">Caput 14</head>
           <head xml:id="gd-p2c32q1-Hd1e347" type="question-title"> Non est peccatum meretricem
             ducere in uxorem. </head>
           <p xml:id="gd-p2c32q1-d1e350"> Non est culpandus Osee propheta si meretricem, quam duxit,
             ad pudicitiam conuenit: sed potius laudandus, quod ex mala bonam fecit. Non enim qui
-            bonus </p>
-          <p xml:id="gd-p2c32q1-d1e353"> E ermanet polluitur, si societur malo: sed qui malus est in
+            bonus permanet polluitur, si societur malo: sed qui malus est in
             onum uertitur, si boni exempla sectetur. Ex quo intelligimus, non Prophetam perdidisse
-            pudicitiam fornicariaecopulatum, sed fornicariam assumpsisse pudicitiam, quamantea non
+            pudicitiam fornicari aecopulatum, sed fornicariam assumpsisse pudicitiam, quam antea non
             habebat. </p>
         </div>
       </div>

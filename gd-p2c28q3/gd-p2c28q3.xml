@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,38 +53,40 @@
     </front>
     <body>
       <div xml:id="gd-p2c28q3">
-        <head xml:id="gd-p2c28q3-Hd1e103"> QUESTIO III. </head>
-        <p xml:id="gd-p2c28q3-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c28q3-Hd1e103"> QUESTIO 3</head>
+        <div xml:id="gd-p2c28q3-Dd1e100">
+          <head xml:id="gd-p2c28q3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c28q3-d1e109"> Utrum uero bigamus sit reputandus qui ante baptismum habuerit
-          unam, et post baptismum alteram, auctoritate Ier onimipatet. Ait enim super epistolam
-          Pauli ad Timotheum*: </p>
+          unam, et post baptismum alteram, auctoritate Ieronimi patet. Ait enim super epistolam
+          Pauli ad Timotheum:</p>
+        </div>
         <div xml:id="gd-p2c28q3-Dd1e112">
-          <head xml:id="gd-p2c28q3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c28q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c28q3-Hd1e117" type="question-title"> Non est bigamus qui ante
             baptismum habuerit unam, et post baptismum alteram.</head>
           <p xml:id="gd-p2c28q3-d1e120"> Oportet episcopum esse unius uxoris uirum. Verum hoc post
             baptismum. Ceterum, si ante baptismum habueritunam, et post baptismum habuerit alteram,
             non est reputandus bigamus, cui prorsus innouato per baptismumomnia uetera sunt dimissa. </p>
           <p xml:id="gd-p2c28q3-d1e123"> Augustinus uero contra testatur, et Innocentius. Ait enim
-            Augustinus super epistolam Pauli ad Titum*: </p>
+            Augustinus super epistolam Pauli ad Titum: </p>
         </div>
         <div xml:id="gd-p2c28q3-Dd1e127">
-          <head xml:id="gd-p2c28q3-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c28q3-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c28q3-Hd1e132" type="question-title"> Non debet fieri episcopus qui
             ante baptismum habuerit unam, et post baptismum alteram. </head>
           <p xml:id="gd-p2c28q3-d1e135"> Acutius uero intelligant, qui nec eum ordinandum
-            censuerunt, qui ante baptismum habuerit unam, et postbaptismum alteram. In baptismate
+            censuerunt, qui ante baptismum habuerit unam, et post baptismum alteram. In baptismate
             enim crimina abolentur, non federatio coniugii dissoluitur. Sicut illa, que
-            catecuminauitiata est, inter Dei uirgines consecrari non potest, sic etqui ante
+            catecuminauitiata est, inter Dei uirgines consecrari non potest, sic et qui ante
             baptismum habuit unam, et post baptismum alteram, non nisi bigamus reputandus est.
             Amisit enim quiddam non ad uitae meritum, sed ad signaculi sacramentum. </p>
-          <p xml:id="gd-p2c28q3-d1e138"> Gratian. Item Innocentius Rufo et Eusebio episcopis </p>
-
-
-
-
-          <p xml:id="gd-p2c28q3-d1e141"> Macedoniae multis argumentis probat, talem bigamum
-            reputari. Quia ergo iste, cuius causa in presenti agitur, cmte baptismumhabuit unam, et
+        </div>
+        <div xml:id="gd-p2c28q3-Dd1e135">
+          <head xml:id="gd-p2c28q3-Hd1e137">Dictum</head>
+          <p xml:id="gd-p2c28q3-d1e138">
+            Item Innocentius Rufo et Eusebio episcopis 
+            Macedoniae multis argumentis probat, talem bigamum
+            reputari. Quia ergo iste, cuius causa in presenti agitur, cmte baptismum habuit unam, et
             post baptismum alteram, bigamus iudicatur , et, licet uitae merito et industria
             scientiae* polleat, tamen in episcopum ordinari non potest. </p>
         </div>

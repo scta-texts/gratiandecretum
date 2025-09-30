@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -11,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -53,8 +53,11 @@
     </front>
     <body>
       <div xml:id="gd-p2c33q1">
-        <head xml:id="gd-p2c33q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c33q1-d1e106"> I. Pars. Quod autem propter inpossibilitatem reddendidebitum
+        <head xml:id="gd-p2c33q1-Hd1e103"> QUESTIO 1</head>
+        <div xml:id="gd-p2c33q1-Dd1e100">
+          <head xml:id="gd-p2c33q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c33q1-d1e106">
+          Quod autem propter inpossibilitatem reddendi debitum
           mulier a uiro suo separari non possit, auctoritate euangelica et apostolica probatur. Sic
           enim Christus ait in euangelio :„ Nulli licet dimittere uxorem suam, nisi causa
           fornicationis, uel qua alter eorum (sicut Augustinus exponit) fornicatus fuerit, uel ad
@@ -64,13 +67,17 @@
           fornicationis. Euangelica itaque et apostolica auctoritate prohibetur mulier a uiro
           discedere, nis? o&amp; causam illam cunctis notissimam, qua interueniente si discesserit,
           oportet eam manere innuptam, aut reconciliari uiro suo. Unde datur intelligi,
-          quodinpossibilitas reddendi debitum non facit discidium coniugii. §. i. His ita
-          respondetur: Coniugium confirmatur offitio, utsupra * probatum est; postquam uero offitio
+          quodinpossibilitas reddendi debitum non facit discidium coniugii. 
+        </p>
+        <p xml:id="gd-p2c33q1-d1e108">
+          §. i. His ita
+          respondetur: Coniugium confirmatur offitio, ut supra probatum est; postquam uero offitio
           confirmatum fuerit, nisi causa fornicationis non licet uiro uxorem dimittere, uel uxoria
-          uiro discedere. Verum ante, quam confirmetur, inpossibilitasoffitii soluit mnculum
+          uiro discedere. Verum ante, quam confirmetur, inpossibilitas offitii soluit mnculum
           coniugii. </p>
+        </div>
         <div xml:id="gd-p2c33q1-Dd1e119">
-          <head xml:id="gd-p2c33q1-Hd1e121">C. I</head>
+          <head xml:id="gd-p2c33q1-Hd1e121">Caput 1</head>
           <head xml:id="gd-p2c33q1-Hd1e124" type="question-title"> Licet mulieri alteri nubere, quam
             ob frigiditatem uir cognoscere non potuit . </head>
           <p xml:id="gd-p2c33q1-d1e127">
@@ -87,7 +94,7 @@
           </p>
         </div>
         <div xml:id="gd-p2c33q1-Dd1e130">
-          <head xml:id="gd-p2c33q1-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c33q1-Hd1e132">Caput 2</head>
           <head xml:id="gd-p2c33q1-Hd1e135" type="question-title">Item ex epistola eiusdem. </head>
           <p xml:id="gd-p2c33q1-d1e133"> De his requisisti, qui ob causam frigidae naturae dicunt se
             inuicem non posse operam carni dantes conmi-sceri. Iste uero si non potest ea uti pro
@@ -102,12 +109,18 @@
             infirmitatem carnis eorum. Vir autem, qui frigidaenaturae est, maneat sine coniuge. Quod
             si et ille aliamcopulam acceperit, tunc hii, qui iurauerant, periurii, crimine rei
             teneantur, et penitencia peracta priora coganturrecipere conubia. </p>
-          <p xml:id="gd-p2c33q1-d1e137"> II. Pars. Gratian. Hoc autem seruari precipitur, cum
-            uterque idem fatetur. Ceterum si uir asseruerit se reddidissedebitum uxori, et illa
-            diffitetur, cui potius habenda sit fides, merito queritur. </p>
+        </div>
+        <div xml:id="gd-p2c33q1-Dd1e141">
+          <head xml:id="gd-p2c33q1-Hd1e143">Dictum</head>
+          <p xml:id="gd-p2c33q1-d1e137">
+            Hoc autem seruari precipitur, cum
+            uterque idem fatetur. Ceterum si uir asseruerit se reddidisse 
+            debitum uxori, et illa
+            diffitetur, cui potius habenda sit fides, merito queritur. 
+          </p>
         </div>
         <div xml:id="gd-p2c33q1-Dd1e144">
-          <head xml:id="gd-p2c33q1-Hd1e146">C. III</head>
+          <head xml:id="gd-p2c33q1-Hd1e146">Caput 3</head>
           <head xml:id="gd-p2c33q1-Hd1e149" type="question-title"> In ueritate uiri consistat, si
             mulier negat se cognitam ab eo.</head>
           <p xml:id="gd-p2c33q1-d1e152">
@@ -122,37 +135,44 @@
               </quote>
             </cit> 
           </p>
-          <p xml:id="gd-p2c33q1-d1e155"> III. Pars. Gratian. Ecce, quod inpossibilitas reddendi
-            debitum uinculum soluit coniugii. Sed hoc de naturali inpossi-bilitate statutum est. Hec
-            autem maleficii inpedimento, nonfrigiditate naturali debitum coniugale prohibente, a
+        </div>
+        <div xml:id="gd-p2c33q1-Dd1e171">
+          <head xml:id="gd-p2c33q1-Hd1e173">Dictum</head>
+          <p xml:id="gd-p2c33q1-d1e155">
+            Ecce, quod inpossibilitas reddendi
+            debitum uinculum soluit coniugii. Sed hoc de naturali inpossibilitate statutum est. Hec
+            autem maleficii inpedimento, non frigiditate naturali debitum coniugale prohibente, a
             uiro suo separata est. Unde queritur, si liceat ei etiam in hoc casu a uirosuo
-            discedere, et alii se copulare? * </p>
+            discedere, et alii se copulare? </p>
         </div>
         <div xml:id="gd-p2c33q1-Dd1e170">
-          <head xml:id="gd-p2c33q1-Hd1e172">C. IV</head>
+          <head xml:id="gd-p2c33q1-Hd1e172">Caput 4</head>
           <head xml:id="gd-p2c33q1-Hd1e175" type="question-title">De his, qui maleficiis inpediti coire non possunt. </head>
           <p xml:id="gd-p2c33q1-d1e165">
             <ref xml:id="gd-p2c33q1-Rd1e180">De his ita scribit Igmarus Remensis Archiepiscopus :</ref>
             <cit>
               <quote xml:id="gd-p2c33q1-Qd1e185">
-                Si per sortiarias atque maleficas* occulto, sed numquam
-                iniusto Dei iudicio permittente, et diabolo pre-parante, concubitus non sequitur,
+                Si per sortiarias atque maleficas occulto, sed numquam
+                iniusto Dei iudicio permittente, et diabolo preparante, concubitus non sequitur,
                 hortandi sunt quibus ista eueniunt, ut corde contrito et spiritu humiliato Deo
-                etsacerdoti de omnibus peccatis suis puram confessionemfaciant, et profusis lacrimis, et
-                largioribus elemosinis, etorationibus atque ieiuniis Domino satisfaciant, et
+                etsacerdoti de omnibus peccatis suis puram confessionem faciant, et profusis lacrimis, et
+                largioribus elemosinis, et orationibus atque ieiuniis Domino satisfaciant, et
                 perexorcismos ac cetera munia ecclesiasticae medicinae ministri ecclesiae tales, quantum
-                annuerit Dominus, qui Abime-lech et domum eius Abrahae orationibus sanauit,
-                sanareprocurent. Qui si forte sanare non potuerint, separari ualebunt; sed post, quam
+                annuerit Dominus, qui Abimelech et domum eius Abrahae orationibus sanauit,
+                sanare procurent. Qui si forte sanare non potuerint, separari ualebunt; sed post, quam
                 alias nuptias expetierint, illis in carne uiuentibus, quibus iunctae fuerint, prioribus,
-                quos reliquerant, etiamsi possibilitas concumbendi eisreddita fuerit, reconciliari
+                quos reliquerant, etiamsi possibilitas concumbendi eis reddita fuerit, reconciliari
                 nequibunt.
               </quote>
             </cit>
           </p>
-          <p xml:id="gd-p2c33q1-d1e168"> Gratian. Sed in hoc uidetur contrarius premisso capitulo
-            Gregorii. Ibi enim post possibilitatem redditam iubetur separariab eo, cui secundo
-            nupserat, et redire ad primum. Hic autemuiuente eo, cui secundo copulata fuerat, primo
-            reconciliari nonpoterit. </p>
+        </div>
+        <div xml:id="gd-p2c33q1-Dd1e200">
+          <head xml:id="gd-p2c33q1-Hd1e202">Dictum</head>
+          <p xml:id="gd-p2c33q1-d1e168">Sed in hoc uidetur contrarius premisso capitulo
+            Gregorii. Ibi enim post possibilitatem redditam iubetur separari ab eo, cui secundo
+            nupserat, et redire ad primum. Hic autem uiuente eo, cui secundo copulata fuerat, primo
+            reconciliari non poterit. </p>
         </div>
       </div>
     </body>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,16 +54,16 @@
     <body>
       <div xml:id="gd-p2c26q1">
         <head xml:id="gd-p2c26q1-Hd1e103">Quaestio 1</head>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c26q1-Dd1e100">
+          <head xml:id="gd-p2c26q1-Hd1e102">Dictum</head>
           <p xml:id="gd-p2c26q1-d1e106"> 
-            Qui sint sortilegi, <ref><name ref="#Is">Ysidorus</name> diffinit Ethimologiarum lib.
+            Qui sint sortilegi, <ref xml:id="gd-p2c26q1-Rd1e106"><name xml:id="gd-p2c26q1-Nd1e107" ref="#Is">Ysidorus</name> diffinit Ethimologiarum lib.
             VIII. [cap. 9.]</ref>, ita dicens: 
           </p>
         </div>
-        <div>
-          <head>Caput 1</head>
-          <head type="question-title">Qui sint sortilegi? </head>
+        <div xml:id="gd-p2c26q1-Dd1e113">
+          <head xml:id="gd-p2c26q1-Hd1e115">Caput 1</head>
+          <head xml:id="gd-p2c26q1-Hd1e117" type="question-title">Qui sint sortilegi? </head>
           <p xml:id="gd-p2c26q1-d1e112">
             Sortilegi sunt qui sub nomine fictae religionis per quasdam,
             quas sanctorum seu apostolorum uocant sortes, diuinationis scientiam profitentur, aut

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,55 +53,74 @@
     </front>
     <body>
       <div xml:id="gd-p2c32q2">
-        <head xml:id="gd-p2c32q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c32q2-d1e106"> I. Pars. Quod autem non sit uxor que sola causa
+        <head xml:id="gd-p2c32q2-Hd1e103"> QUESTIO 2 </head>
+        <div xml:id="gd-p2c32q2-Dd1e100">
+          <head xml:id="gd-p2c32q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c32q2-d1e106">Quod autem non sit uxor que sola causa
           incontinentiae ducitur, hinc uidetur posse probari, quia coniugium propagationis, non
           explendae libidinis causa a Deo institutumest. Hec namque fuit benedictio coniugii: „
-          Crescite et multiplicamini .“ </p>
+          Crescite et multiplicamini." </p>
         <p xml:id="gd-p2c32q2-d1e109"> Unde Ambrosius super Lucam, [ 1 . 1 . ad c. i.]: </p>
+        </div>
         <div xml:id="gd-p2c32q2-Dd1e112">
-          <head xml:id="gd-p2c32q2-Hd1e114">C. I</head>
-          <head xml:id="gd-p2c32q2-Hd1e117" type="question-title"> Partus feminarum est eis sola
+          <head xml:id="gd-p2c32q2-Hd1e114">Caput 1</head>
+          <p xml:id="gd-p2c32q2-d1e116">
+            Partus feminarum est eis sola
             causa nubendi. Pudor est feminis nuptiarum premia non habere, quibus hec sola nubendi
-            causa est. Idem [lib. 2. in prine.]:§. i. Cum coniugii premium et gratia nuptiarum
+            causa est. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e118">
+            Idem [lib. 2. in prine.]: §. i. Cum coniugii premium et gratia nuptiarum
             partus sitfeminarum, non mediocris causa est, ut uirginitas Mariaefalleret principem
-            mundi. </head>
-          <p xml:id="gd-p2c32q2-d1e120"> Gratian. Qui ergo non procreandae causa sobolis, sed
+            mundi. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e121">
+          <head xml:id="gd-p2c32q2-Hd1e123">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e120"> Qui ergo non procreandae causa sobolis, sed
             explendae libidinis sibi inuicem copulantur, non tam coniuges quam fornicarii uidentur. </p>
-          <p xml:id="gd-p2c32q2-d1e123"> Hinc etiam leronimus [ad c. 5. epistolae ad Ephesios]: </p>
+          <p xml:id="gd-p2c32q2-d1e123"> Hinc etiam Ieronimus [ad c. 5. epistolae ad Ephesios]: </p>
 
         </div>
         <div xml:id="gd-p2c32q2-Dd1e127">
-          <head xml:id="gd-p2c32q2-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c32q2-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c32q2-Hd1e132" type="question-title"> Non coniuges, sed adulteri
-            uocantur, qui non secundum precepta* Christi iunguntur . </head>
-          <p xml:id="gd-p2c32q2-d1e135"> Sicut non omnis congregatio hereticorum ecclesia Christi
+            uocantur, qui non secundum precepta Christi iunguntur . </head>
+          <p xml:id="gd-p2c32q2-d1e135"> 
+            Sicut non omnis congregatio hereticorum ecclesia Christi
             dici potest, nec caput eorum Christus; sic nonomne matrimonium, quo non uiro suo
             secundum preceptaChristi coni ungitur, rite coniugium appellari potest, sedmagis
             adulterium. </p>
-          <p xml:id="gd-p2c32q2-d1e138"> II. Pars. Gratian. His ita respondetur: Prima
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e145">
+          <head xml:id="gd-p2c32q2-Hd1e147">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e138">
+            His ita respondetur: Prima
             institutioconiugii in paradyso facta est, ut esset inmaculatus ihorus, ethonorabiles
             nuptiae, ex quibus sine ardore conciperent, sinedolore parerent. Secunda propter
             illicitum motum eliminandum extra paradysum facta est , ut infirmitas, prona in
-            ruinamturpitudinis, honestate exciperetur coniugii. Unde Apostolusscribens ad
+            ruinamturpitudinis, honestate exciperetur coniugii. Unde Apostolus scribens ad
             Chorinthios ait : „ Propter fornicationem unusquisque suam uxorem, et unaqueque uirum
-            suum habeat. “ Ex hacitaque causa fit, ut coniugati se sibi inuicem debeant , nec se
+            suum habeat. “ Ex hac itaque causa fit, ut coniugati se sibi inuicem debeant , nec se
             sibinegare possint. Unde Apostolus : , , Nolite fraudare inuicem, nisi forte ex
             consensu, et ad tempus, ut expeditius uacetis orationi, et iterum reuertimini in id
-            ipsum, ne temptet uos sathanas.Hoc autem dico propter incontinentiam uestram. Qui
+            ipsum, ne temptet uos sathanas. Hoc autem dico propter incontinentiam uestram. Qui
             ergopropter incontinentiam in naturalem usum redire monentur, patet, quod non propter
-            filiorum procreationem tantum misceri iubentur. §. 1. Non tamen ideo nuptiae malae
-            iudicantur. Quod enimpreter intentionem generandi fit, non est nuptiarum malum, sedest
+            filiorum procreationem tantum misceri iubentur. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e152">
+            §. 1. Non tamen ideo nuptiae malae
+            iudicantur. Quod enim preter intentionem generandi fit, non est nuptiarum malum, sedest
             ueniale propter nuptiarum bonum, quod est tripertitum ; fidesuidelicet, proles, et
             sacramentum . </p>
           <p xml:id="gd-p2c32q2-d1e141"> Unde Augustinus de bono coniugali, [c. 6.]; </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e146">
-          <head xml:id="gd-p2c32q2-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c32q2-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c32q2-Hd1e151" type="question-title"> Inmoderatus usus coniugatorum non
             est nuptiarum malum, sed est ueniale propter nuptiarum bonum. </head>
-          <p xml:id="gd-p2c32q2-d1e154"> Quicquid inter se coniugati inmodestum, inuerecundum,
+          <p xml:id="gd-p2c32q2-d1e154"> 
+            Quicquid inter se coniugati inmodestum, inuerecundum,
             sordidum gerunt, uicium est hominum, non culpa nuptiarum. Iam in ipsa quoque inmoderata
             exactione debiticarnalis, quam eis non secundum inperium precepit, sed secundum ueniam
             concedit Apostolus, ut etiam preter causam procreandi sibi misceantur, etsi eos praui
@@ -114,40 +131,46 @@
             etiam infirmitatis inuicem excipiendae, ad illicitos concubitus eui-tandos, mutuam
             quodammodo seruitutem, ut, etsi alterieorum continentia perpetua placeat, nisi ex
             alterius consensu non possit. </p>
-          <p xml:id="gd-p2c32q2-d1e157"> III. Pars. Gratian. Non autem datur presentia S. Spiritus
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e170">
+          <head xml:id="gd-p2c32q2-Hd1e172">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e157"> Non autem datur presentia S. Spiritus
             tempore, quo coniugales actus geruntur. </p>
-          <p xml:id="gd-p2c32q2-d1e160"> Unde leronimus super Mattheum*: </p>
-          <p xml:id="gd-p2c32q2-d1e164"> * </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e168">
-          <head xml:id="gd-p2c32q2-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c32q2-Hd1e170">Caput 4</head>
           <head xml:id="gd-p2c32q2-Hd1e173" type="question-title"> Non datur presentia S. Spiritus
             tempore, quo coniugales actus geruntur. </head>
-          <p xml:id="gd-p2c32q2-d1e176"> Conubia legitima carent quidem peccato, nec tamen tempore
-            illo, quo coniugales actus geruntur, presentia S.Spiritus dabitur, etsi propheta esse
-            uideatur qui offitio </p>
-
-
-
-
-          <p xml:id="gd-p2c32q2-d1e179"> generationis obsequitur. Sed et alia plura sunt, in quibus
-            sufficit sibi° sola uis humana, et neque res indiget, nequedecet adesse presentiam S.
+          <p xml:id="gd-p2c32q2-d1e176">
+            Conubia legitima carent quidem peccato, nec tamen tempore
+            illo, quo coniugales actus geruntur, presentia S. Spiritus dabitur, etsi propheta esse
+            uideatur qui offitio generationis obsequitur. Sed et alia plura sunt, in quibus
+            sufficit sibi° sola uis humana, et neque res indiget, neque decet adesse presentiam S.
             Spiritus. </p>
-          <p xml:id="gd-p2c32q2-d1e182"> Gratian. Sicut ergo talis concubitus non est fornicarius,
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e190">
+          <head xml:id="gd-p2c32q2-Hd1e192">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e182">
+            Sicut ergo talis concubitus non est fornicarius,
             sed propter bonum coniugii licitus: sic et coniunctio illa, dequa queritur , non est
             fornicaria, sed propter bonum coniugii licita. </p>
-          <p xml:id="gd-p2c32q2-d1e186"> Item, sicut Augustinus ait in libro de coniugali, [c. 14.]:
-            [C. V.] </p>
-          <p xml:id="gd-p2c32q2-d1e189"> „ Concubinae ad tempus adhibitae, nec etiamsi causa
+          <p xml:id="gd-p2c32q2-d1e186"> Item, sicut Augustinus ait in libro de coniugali, [c. 14.]:</p>
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e201">
+          <head xml:id="gd-p2c32q2-Hd1e203">Caput 5</head>
+          <p xml:id="gd-p2c32q2-d1e189">„Concubinae ad tempus adhibitae, nec etiamsi causa
             filiorum concumbant, iustum faciunt concubinatum suum.^&gt; </p>
-          <p xml:id="gd-p2c32q2-d1e192"> IV. Pars. [Gratian.] Sic econtrario datur intelligi de his
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e210">
+          <head xml:id="gd-p2c32q2-Hd1e212">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e192"> Sic econtrario datur intelligi de his
             , qui coniugali affectu sibi copulantur, quod etsi^ non causa procreandorum filiorum,
             sed explendae libidinis conueniunt, non ideofornicarii, sed coniuges appellantur. </p>
           <p xml:id="gd-p2c32q2-d1e195"> Probatur hoc idem auctoritate Augustini in libro de bono
             coniugali, [c. 5.] : </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e199">
-          <head xml:id="gd-p2c32q2-Hd1e201">C. VI</head>
+          <head xml:id="gd-p2c32q2-Hd1e201">Caput 6</head>
           <head xml:id="gd-p2c32q2-Hd1e204" type="question-title"> Coniuges sunt qui causa solius
             incontinentiae sibilo inuicem copulantur. </head>
           <p xml:id="gd-p2c32q2-d1e207"> Solet queri, cum masculus et femina, nec ille maritus, nec
@@ -164,39 +187,50 @@
           </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e211">
-          <head xml:id="gd-p2c32q2-Hd1e213">C. VII</head>
+          <head xml:id="gd-p2c32q2-Hd1e213">Caput 7</head>
           <head xml:id="gd-p2c32q2-Hd1e216" type="question-title"> Fornicarii sunt, non coniuges qui
             sterilitatis uenena procurant. </head>
-          <p xml:id="gd-p2c32q2-d1e219"> Idem de nuptiis et concupiscentiis, [lib. I. c. I5.] </p>
-          <p xml:id="gd-p2c32q2-d1e222"> Aliquando eo usque peruenit hec libidinosa crudelitas, uel
+          <p xml:id="gd-p2c32q2-d1e222"> 
+            <ref xml:id="gd-p2c32q2-Rd1e243">Idem de nuptiis et concupiscentiis, [lib. I. c. I5.] </ref>
+            Aliquando eo usque peruenit hec libidinosa crudelitas, uel
             libido crudelis, ut etiam sterilitatis uenena procuret, et, si nichil ualuerit,
             conceptos fetus aliquo modo intra uisceraexstinguat aut fundat, uolendo suam prolem
             prius interirequam uiuere; aut, si in utero ° uiuebat, occidi ante, quamnasci. Prorsus,
             si ambo tales sint, coniuges nonsunt, et, si ab initio tales fuerunt, non sibi per
             conubium, sed per stuprum pocius conuenerunt. Si autem ambo talesnon sunt, audeo dicere,
             aut illa quodammodo est maritimeretrix, aut ille adulter uxoris. </p>
-
-          <p xml:id="gd-p2c32q2-d1e225"> V. Pars. Gratian. De his, qui aborsum ** procurant,
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e247">
+          <head xml:id="gd-p2c32q2-Hd1e249">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e225">
+            De his, qui aborsum procurant,
             queritur , an iudicentur homicidae, uel non ? </p>
           <p xml:id="gd-p2c32q2-d1e229"> Augustinus in libro questionum Exodi, [quest. LXXX.] ait™:
           </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e233">
-          <head xml:id="gd-p2c32q2-Hd1e235">C. VIII</head>
-          <head xml:id="gd-p2c32q2-Hd1e238" type="question-title"> Non est homicida qui aborsum **
+          <head xml:id="gd-p2c32q2-Hd1e235">Caput 8</head>
+          <head xml:id="gd-p2c32q2-Hd1e238" type="question-title"> Non est homicida qui aborsum 
             procurat ante, quam anima corpori sit infusa. </head>
-          <p xml:id="gd-p2c32q2-d1e241"> Quod uero non formatum puerperium* ad homicidium pertinere
+          <p xml:id="gd-p2c32q2-d1e241"> 
+            Quod uero non formatum puerperium ad homicidium pertinere
             noluit, profecto nec hominem deputauit, quod tale in utero geritur. Hic de anima questio
             solet agi^tari, utrum quicquid formatum non est nec animatumquidem possit intelligi, et
-            ideo non homicidium sit, quia necexanimatum dici potest, si animam non habebat. Item: §.
+            ideo non homicidium sit, quia necexanimatum dici potest, si animam non habebat. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e269">
+            Item: §.
             1. Si illud informe puerperium iam quidem fuerat, sed adhuc informiter quodammodo
             animatum (quoniammagna de anima questio non est) precipitanda indiscussatemeritate
             sentenciae, ideo lex noluit ad homicidium pertinere, quia nondum dici potest anima uiua
             in eo corpore, quod sensu caret. </p>
-          <p xml:id="gd-p2c32q2-d1e244"> [C. IX.] </p>
-          <p xml:id="gd-p2c32q2-d1e247"> Idem in libro questionum Veteris et Noui Testamenti, [c.
-            23.] </p>
-          <p xml:id="gd-p2c32q2-d1e251"> Moyses tradidit: „Si quis percusserit mulierem in utero
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e272">
+          <head xml:id="gd-p2c32q2-Hd1e274">Caput 9</head>
+          <p xml:id="gd-p2c32q2-d1e247"> 
+            Idem in libro questionum Veteris et Noui Testamenti, [c. 23.] </p>
+          <p xml:id="gd-p2c32q2-d1e251">
+            Moyses tradidit: „Si quis percusserit mulierem in utero
             habentem, et abortiuum fecerit, si formatum fuerit, det animam pro anima; si autem
             informatum fuerit, . mulctetur pecunia, “ ut probaret non esse animam ante formam.Itaque
             si iam formato corpori datur, non in conceptu corporis nascitur cum semine deriuata. Nam
@@ -208,101 +242,129 @@
             compaginari, etsic habitatorem induci. Anima certe, quia spiritus est, in sicco habitare
             non potest, ideo in sanguine fertur habitare. Cum ergo liniamenta^ conpacta non fuerint,
             ubi erit anima? </p>
-          <p xml:id="gd-p2c32q2-d1e254"> [C. X.] </p>
-          <p xml:id="gd-p2c32q2-d1e257"> Item Ieronimus ad Algasiam, [ quest. IV.] </p>
-          <p xml:id="gd-p2c32q2-d1e260"> Sicuti semina paulatim formantur in utero, et tamdiu non
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e284">
+          <head xml:id="gd-p2c32q2-Hd1e286">Caput 10</head>
+          <p xml:id="gd-p2c32q2-d1e260"> 
+            Item <ref xml:id="gd-p2c32q2-Rd1e290">Ieronimus ad Algasiam, [ quest. IV.]</ref> 
+            Sicuti semina paulatim formantur in utero, et tamdiu non
             reputatur homicidium, donec elementa confectasuas imagines membraque suscipiant: ita
             sensus rationeconceptus, nisi in opera proruperit, adhuc in uentre retinetur, et cito
-            perit ab hoste*. </p>
-          <p xml:id="gd-p2c32q2-d1e263"> VI. Pars. Gratian. Cum ergo qui aliquam sibi ad </p>
-
-
-
-
-          <p xml:id="gd-p2c32q2-d1e266"> tempus adhibet, cum ea adulter esse dicitur, nec ab ea
+            perit ab hoste. </p>
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e294">
+          <head xml:id="gd-p2c32q2-Hd1e296">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e263">
+            Cum ergo qui aliquam sibi ad tempus adhibet, cum ea adulter esse dicitur, nec ab ea
             discedens, nec filiam suam illi tradens peccat. </p>
-          <p xml:id="gd-p2c32q2-d1e270"> ■ Unde Leo [Papa ad Rusticum, Narbonensem Episcopum, epist.
+          <p xml:id="gd-p2c32q2-d1e270">Unde Leo [Papa ad Rusticum, Narbonensem Episcopum, epist.
             XC. al. XCII., c. 5. et 6.]: </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e274">
-          <head xml:id="gd-p2c32q2-Hd1e276">C. XI</head>
+          <head xml:id="gd-p2c32q2-Hd1e276">Caput 11</head>
           <head xml:id="gd-p2c32q2-Hd1e279" type="question-title"> Profectus est honestatis
             fornicariam abicere, et uxorem legitimam accipere. </head>
           <p xml:id="gd-p2c32q2-d1e282"> Ancillam a thoro abicere, et uxorem certae ingenuitatis
-            accipere, non duplicatio coniugii, sed profectus est honestatis. §. 1. Culpanda sit sane
-            talium negligentia, sed non penitus desperanda, ut crebris cohortationibusincitati quod
+            accipere, non duplicatio coniugii, sed profectus est honestatis. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e316">
+            §. 1. Culpanda sit sane
+            talium negligentia, sed non penitus desperanda, ut crebris cohortationibus incitati quod
             necessarie expetiuerunt fideliter exequantur. Nemo enim desperandus est, dum in hoc
-            corporeconstitutus est, quia nonnumquam quod diffidentia etatisdiffertur consilio
+            corpore constitutus est, quia nonnumquam quod diffidentia etatis differtur consilio
             maturiore perficitur, </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e287">
-          <head xml:id="gd-p2c32q2-Hd1e289">C. XII</head>
+          <head xml:id="gd-p2c32q2-Hd1e289">Caput 12</head>
           <head xml:id="gd-p2c32q2-Hd1e292" type="question-title"> Legitimo matrimonio copulatur que
             concubinam habenti traditur . </head>
-          <p xml:id="gd-p2c32q2-d1e295"> Idem [ibidem, c. 4.] </p>
-          <p xml:id="gd-p2c32q2-d1e298"> Non omnis mulier coniuncta uiro uxor est uiri, quia nec
+          <p xml:id="gd-p2c32q2-d1e298"> 
+            <ref xml:id="gd-p2c32q2-Rd1e329">Idem [ibidem, c. 4.]</ref>
+            Non omnis mulier coniuncta uiro uxor est uiri, quia nec
             omnis filius heres est patris. Nuptiarum autemfedera inter ingenuos sunt legitima, et
             inter coequales, et multo prius hoc ipsum Domino constituente, quaminitium Romani iuris
             existeret. Itaque aliud est uxor, aliud concubina; sicut aliud ancilla et aliud
-            libera.§. 1. Propter quod etiam Apostolus ad manifestandumharum personarum discretionem
-            testimonium posuitex Genesi, ubi dicitur Abrahae: „Eice ancillam etfilium eius; non enim
-            heres erit filius ancillae cum filioliberae“. §. 2.s Igitur cuiuslibet loci clericus*
+            libera.
+          </p>
+          <p xml:id="gd-p2c32q2-d1e332">
+            §. 1. Propter quod etiam Apostolus ad manifestandum harum personarum discretionem
+            testimonium posuit ex Genesi, ubi dicitur Abrahae: „Eice ancillam etfilium eius; non enim
+            heres erit filius ancillae cum filio liberae“. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e334">
+            §. 2.s Igitur cuiuslibet loci clericus
             sifiliam suam uiro habenti concubinam in matrimonium dederit, non ita accipiendum est,
             quasi eam coniugato dederit, nisi forte illa mulier et ingenua facta, et dotata
-            legitime, et publicis honestata nuptiis uideatur. §. 4. Paternoarbitrio uiris iunctae
+            legitime, et publicis honestata nuptiis uideatur. 
+          </p>
+          <p xml:id="gd-p2c32q2-d1e337">
+            §. 4. Paterno arbitrio uiris iunctae
             carent culpa, si mulieres, que auiris habebantur, in matrimonio non fuerint, quia
-            aliudest uxor, aliud concubina. </p>
-          <p xml:id="gd-p2c32q2-d1e301"> VII. Pars. Gratian. Cum ™' dicitur:„paterno arbitrio
+            aliudest uxor, aliud concubina. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e340">
+          <head xml:id="gd-p2c32q2-Hd1e342">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e301">Cum dicitur: „paterno arbitrio
             feminae iunctae uiris , datur intelligi, quod paternus consensus desideratur in nuptiis,
             nec sine eo legitimae nuptiae habeantur, iuxta illud Eu ar isti Papae : , , Aliter non
-            fit legitimumconiugium, nisi a parentibus tradatur .“** </p>
-
-          <p xml:id="gd-p2c32q2-d1e305"> Item Ambrosius in lib. de Patriarchis, [id est lib. I. de
+            fit legitimum coniugium, nisi a parentibus tradatur.
+          </p>
+          <p xml:id="gd-p2c32q2-d1e305">Item Ambrosius in lib. de Patriarchis, [id est lib. I. de
             Abraham, cap. ult.] </p>
-          <p xml:id="gd-p2c32q2-d1e308"> „ Honorantur parentes Rebeccae muneribus, consulitur puella
-            non de sponsalibus {illa enim iudicium expectat parentum: nonest enim uirginalis pudoris
-            eligere maritum), sed iam desponsatauiro de profectionis consulitur die, nec inmeriio
-            dilationem nonattulit. Iure etenim properare debuit ad maritum. Undeillud Euripideon ,
-            quod mirantur plerique, unde translatumsit manifestum est. Ait enim in persona mulieris,
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e351">
+          <head xml:id="gd-p2c32q2-Hd1e353">Caput 13</head>
+          <p xml:id="gd-p2c32q2-d1e308">„Honorantur parentes Rebeccae muneribus, consulitur puella
+            non de sponsalibus {illa enim iudicium expectat parentum: non est enim uirginalis pudoris
+            eligere maritum), sed iam desponsata uiro de profectionis consulitur die, nec in merito
+            dilationem nonattulit. Iure etenim properare debuit ad maritum. Unde illud Euripideon ,
+            quod mirantur plerique, unde translatum sit manifestum est. Ait enim in persona mulieris,
             que tamen maritum uolebat relinquere, et ad alias petebatur nuptias :„ „ sponsaliorum
-            meorum pater meus curam subibit . Hocenim non est meum. Ergo quod et ipsi philosophi
-            miratisunt seruate uirgines. Sed ™ etiam, si qua mulier amissocito marito adolescentulas
-            laqueum infirmitatis suae timet incidere, siuult nubere, nubat, tantum^ { Domino; ut
-            electionem mariti parentibus deferat, ne appetentiae ^ estime - turs auctor , si ipsa de
+            meorum pater meus curam subibit . Hoc enim non est meum. Ergo quod et ipsi philosophi
+            miratisunt seruate uirgines. Sed etiam, si qua mulier amissocito marito adolescentulas
+            laqueum infirmitatis suae timet incidere, si uult nubere, nubat, tantum^ { Domino; ut
+            electionem mariti parentibus deferat, ne appetentiae estime - turs auctor , si ipsa de
             nuptiis suis electionem sibi uen-dicet. Expetita magis debet uideri a uiro, quam ipsa
-            uirumexpetisse. Verecundiam premittat ante, quam nubat, quo ipsumconiugium plus
+            uirum expetisse. Verecundiam premittat ante, quam nubat, quo ipsum coniugium plus
             conmendet uerecundia . </p>
-          <p xml:id="gd-p2c32q2-d1e311"> [C. XIV.] </p>
-          <p xml:id="gd-p2c32q2-d1e314"> Item in libro Numerorum, [c. XXX. u. 4. seqq.] </p>
-          <p xml:id="gd-p2c32q2-d1e317"> „ Mulier, si quippiam nouerit, et se constrinxerit
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e360">
+          <head xml:id="gd-p2c32q2-Hd1e362">Caput 14</head>
+          <p xml:id="gd-p2c32q2-d1e317"> 
+            Item in <ref xml:id="gd-p2c32q2-Rd1e366">libro Numerorum, [c. XXX. u. 4. seqq.]</ref> 
+            „ Mulier, si quippiam nouerit, et se constrinxerit
             iuramento, que est in domo patris sui, et. in etate adhuc puellari, si cogno-uerit pater
-            uotum, quod pollicita est , et iuramentum, quo obligauitanimam suam, et tacuerit, non
-            rea erit*, quicquidM*- pollici*aest et iurauit, opere conplebit . Sin autem statim, ut
-            audierit, contradixerit™ pater, et uota et iuramenta eius irrita erunt, necobnoxia
+            uotum, quod pollicita est , et iuramentum, quo obligauit animam suam, et tacuerit, non
+            rea erit, quicquid pollicia est et iurauit, opere conplebit . Sin autem statim, ut
+            audierit, contradixerit pater, et uota et iuramenta eius irrita erunt, necobnoxia
             tenebitur sponsioni eo, quod contradixerit pater . </p>
-          <p xml:id="gd-p2c32q2-d1e320"> [C. XV.] </p>
-          <p xml:id="gd-p2c32q2-d1e324"> Augustinus [quest. LVII. super Numero]*. </p>
-          <p xml:id="gd-p2c32q2-d1e327"> , , Merito hic queritur etiam de uoto uirginitatis.
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e370">
+          <head xml:id="gd-p2c32q2-Hd1e372">Caput 15</head>
+          <p xml:id="gd-p2c32q2-d1e327"> 
+            <ref xml:id="gd-p2c32q2-Rd1e376">Augustinus [quest. LVII. super Numero].</ref>
+            "Merito hic queritur etiam de uoto uirginitatis.
             Mulieres enim etiam uirgines in scriptura solent appellari, et uideturetiam Apostolus de
-            patre loqui, cum dicit: “ „„Seruet uirgi-nem suam; et: „ „ Det nuptum uirginem suam. </p>
+            patre loqui, cum dicit: “ „„Seruet uirginem suam; et: „ „ Det nuptum uirginem suam. </p>
           <p xml:id="gd-p2c32q2-d1e330"> Contra in Concilio Tollet ano III., [c. 10.]: </p>
         </div>
         <div xml:id="gd-p2c32q2-Dd1e334">
-          <head xml:id="gd-p2c32q2-Hd1e336">C. XVI</head>
+          <head xml:id="gd-p2c32q2-Hd1e336">Caput 16</head>
           <head xml:id="gd-p2c32q2-Hd1e339" type="question-title"> Viduae et uirgines propria
             uoluntate sibi maritos eligant.</head>
-          <p xml:id="gd-p2c32q2-d1e342"> Hoc sanctum affirmat concilium, ut uiduae, quibus
-            placuerit, teneant castitatem*. Quod si prius, quam </p>
-
-
-
-
-          <p xml:id="gd-p2c32q2-d1e345"> profiteantur continentiam, elegerint nubere, illis ftubant,
-            quos propria uoluntate uoluerint habere maritos. Similiscondicio et de uirginibus
-            habeatur, nec extra uoluntatemparentum uel suam cogantur maritos accipere. Si quisuero
+          <p xml:id="gd-p2c32q2-d1e342"> 
+            Hoc sanctum affirmat concilium, ut uiduae, quibus
+            placuerit, teneant castitatem. Quod si prius, quam 
+            profiteantur continentiam, elegerint nubere, illis ftubant,
+            quos propria uoluntate uoluerint habere maritos. Similis condicio et de uirginibus
+            habeatur, nec extra uoluntatem parentum uel suam cogantur maritos accipere. Si quisuero
             propositum castitatis uiduae uel uirginis inpedierit, asancta conmunione et a liminibus
             ecclesiae habeatur extraneus. </p>
-          <p xml:id="gd-p2c32q2-d1e348"> Gratian. Premissis auctoritatibus euidenter asseritur,
+        </div>
+        <div xml:id="gd-p2c32q2-Dd1e395">
+          <head xml:id="gd-p2c32q2-Hd1e397">Dictum</head>
+          <p xml:id="gd-p2c32q2-d1e348">Premissis auctoritatibus euidenter asseritur,
             quod, quamuis aliqui non filiorum procreandorum, sed incontinentiae causa conueniant ,
             tamen coniuges appellantur. </p>
         </div>

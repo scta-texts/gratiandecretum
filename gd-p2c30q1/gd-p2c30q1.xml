@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,86 +53,90 @@
     </front>
     <body>
       <div xml:id="gd-p2c30q1">
-        <head xml:id="gd-p2c30q1-Hd1e103"> QUESTIO I. </head>
-        <p xml:id="gd-p2c30q1-d1e106"> GRATIANUS. </p>
-
-        <p xml:id="gd-p2c30q1-d1e109"> I. Pars. Quod autem proprium filium in spiritualem sibi
+        <head xml:id="gd-p2c30q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c30q1-Dd1e100">
+          <head xml:id="gd-p2c30q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c30q1-d1e109">
+          Quod autem proprium filium in spiritualem sibi
           transferens suae uxori debitum reddere non ualeat, ratione etauctoritate probatur . Nulla
           enim auctoritate permittitur, ut quisconmatri suae carnaliter copuletur. Hic autem uxorem
-          suamsibi conmatrem effecit: non ergo illi ulterius carnaliter copularipoterit. </p>
-        <p xml:id="gd-p2c30q1-d1e112"> Hinc Deusdedit S. R. E. Episcopus, scribit Gordiano ,
-          Hispaniensis * ecclesiae Episcopo , et fratri Jcarissimo </p>
+          suamsibi conmatrem effecit: non ergo illi ulterius carnaliter copulari poterit. </p>
+        <p xml:id="gd-p2c30q1-d1e112"> Hinc Deus dedit S. R. E. Episcopus, scribit Gordiano ,
+          Hispaniensis  ecclesiae Episcopo , et fratri Jcarissimo </p>
+        </div>
         <div xml:id="gd-p2c30q1-Dd1e115">
-          <head xml:id="gd-p2c30q1-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c30q1-Hd1e117">Caput 1</head>
           <head xml:id="gd-p2c30q1-Hd1e120" type="question-title"> Separentur uiri ab uxoribus, que
             aliquo casu natos suos coram episcopis tenent. </head>
-          <p xml:id="gd-p2c30q1-d1e123"> Peruenit ad nos diaconus, sanctitatis uestrae epistolam
+          <p xml:id="gd-p2c30q1-d1e123"> 
+            Peruenit ad nos diaconus, sanctitatis uestrae epistolam
             deferens, quod quidam^ uiri et mulieres, preterito sabbato pascali die, pro magno
             populorum incursu nescientes proprios filios suscepissent ex lauacro sancto.Cupis ergo
             scire, utrum &amp; pro tali ratione accidenti debeantuiri ac mulieres ad proprium usum
             redire, an non. Nosuero hac re mesti inquisiuimus priorum dicta i.Inuenimus in archiuis
             apostolicae sedis, iam talia contigisse in ecclesiis Isauriae et Ephesiorum,
-            simulqueIherosolimorum, aliarumque ecclesiarum**. Episcopis etiam earum ciuitatum ab hac
+            simulqueIherosolimorum, aliarumque ecclesiarum. Episcopis etiam earum ciuitatum ab hac
             apostolica sede uolen-tibus scire, utrum uiri ac mulieres redirent ad propriumtprum,
             beatae memoriae sancti p Patres Iulius, Innocentius, et Celestinus cum episcoporum
             plurimorum et sacerdotumconsensu in Apostolorum principis ecclesia prohibentestalia
             prescripserunti, et confirmauerunt, ut nullo modo sein coniugio reciperent mulieres ac
             uiri, quicumquealiqua ratione susceperunt natos, sed separarent se, ne suadente diabolo
             tale uicium inolescat. Scitis, quiaquomodo sunt septem dona Spiritus sancti, ita sunt
-            septemdona baptismi a primo ergo*** pabulo sacrati saliset ingressu ecclesiae usque ad
+            septemdona baptismi a primo ergo pabulo sacrati saliset ingressu ecclesiae usque ad
             confirmationem percrisma. Hoc est a primo usque ad septimum nullusChristianus suam
             conmatrem in coniugium susciperedebet. Et qui presumpserit tamdiu anathematis
             uinculoreligetur, donec penitenciam digne egerit. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e128">
-          <head xml:id="gd-p2c30q1-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c30q1-Hd1e130">Caput 2</head>
           <head xml:id="gd-p2c30q1-Hd1e133" type="question-title"> Ab uxore separetur qui filiastrum
             suum coram episcopo tenuit. </head>
-          <p xml:id="gd-p2c30q1-d1e136"> Item ex Concilio apud Vermeriam, c. 4.* </p>
-          <p xml:id="gd-p2c30q1-d1e139"> Si quis filiastrum uel filiastram suam ante episcopum
+          <p xml:id="gd-p2c30q1-d1e139"> 
+            Item ex <ref xml:id="gd-p2c30q1-Rd1e133">Concilio apud Vermeriam, c. 4.</ref>
+            Si quis filiastrum uel filiastram suam ante episcopum
             tenuerit ad confirmationem, separetur ab uxore sua, et aliam numquam accipiat. Similiter
             et mulier. </p>
-
-
-
-
-          <p xml:id="gd-p2c30q1-d1e142"> II. Pars. Gratian. Econtra uero™ scribit Ny Ico laus
+        </div>
+        <div xml:id="gd-p2c30q1-Dd1e137">
+          <head xml:id="gd-p2c30q1-Hd1e139">Dictum</head>
+          <p xml:id="gd-p2c30q1-d1e142"> Econtra uero scribit Ny Ico laus
             Salonitano Episcopo , dicens : </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e146">
-          <head xml:id="gd-p2c30q1-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c30q1-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c30q1-Hd1e151" type="question-title"> Non separetur a uiro que
             filiastrum suum de sacro fonte leuauit.</head>
           <p xml:id="gd-p2c30q1-d1e154"> Nosse desideras, utrum mulier, que uiri filium ex alia
             femina genitum de sacro fonte leuauerit, postmodum possitcum eodem uiro copulari. Quos
-            ideo coniungi possedecernimus, quia secundum canones sacros, nisi amborumconsensu,
+            ideo coniungi posse decernimus, quia secundum canones sacros, nisi amborumconsensu,
             nullius religionis obtentu debet coniux dimittereconiugem. Pertinet ad ingens uxoris
             exitium, que habens odio uirum, uel infirmitatem eius non considerans, quasi causa
-            pietatis operatur inpietatem, maxime cum Apostolus precipiat: „ Nolite, ** inquiens, „
+            pietatis operatur inpietatem, maxime cum Apostolus precipiat: „ Nolite, inquiens, „
             fraudare inuicem, nisi ex consensu ad tempus, ut uacetis orationi; et iterumreuertimini
             in id ipsum, ne temptet uos sathanas propterincontinentiam uestram. Ergo si non ex
             consensu utriusque coniugis factum esse probatur, non fraudentur inuicem, sed
             reuertantur in id ipsum, presertim cum dicatApostolus: „Uxor sui corporis potestatem non
-            habet, sed uir; sicut uir potestatem sui corporis non habet, sedmulier. </p>
+            habet, sed uir; sicut uir potestatem sui corporis non habet, sed mulier. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e158">
-          <head xml:id="gd-p2c30q1-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c30q1-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c30q1-Hd1e163" type="question-title"> Non separetur a uiro , sed
             penitenciam agat que filium suum coram episcopo fraudulenter tenuit. </head>
-          <p xml:id="gd-p2c30q1-d1e166"> Itim ex Concilio Cabillonensi [II., ] c. 4. </p>
-          <p xml:id="gd-p2c30q1-d1e169"> Dictum est nobis, quasdam feminas desidiose, quasdam uero
+          <p xml:id="gd-p2c30q1-d1e169"> 
+            Item ex <ref xml:id="gd-p2c30q1-Rd1e168">Concilio Cabillonensi [II., ] c. 4.</ref>
+            Dictum est nobis, quasdam feminas desidiose, quasdam uero
             fraudulenter, ut a uiris suis separentur, proprios filios coram episcopis ad
             confirmandum tenuisse. Unde nosdignum duximus, ut, si qua mulier filium suum desidia
             autfraude aliqua coram episcopo tenuerit ad confirmandum, propter fallaciam suam aut
             propter fraudem, quamdiu ui-uat, penitenciam agat; a uiro tamen suo non separetur. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e173">
-          <head xml:id="gd-p2c30q1-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c30q1-Hd1e175">Caput 5</head>
           <head xml:id="gd-p2c30q1-Hd1e178" type="question-title"> Separentur et graui pena
             plectantur qui filiolam suam uel spiritualem matrem ducunt in uxorem. </head>
-          <p xml:id="gd-p2c30q1-d1e181"> Item ex Concilio Magontiensi c. io., in claustro sancti
-            Albani Jiabito^. </p>
-          <p xml:id="gd-p2c30q1-d1e184"> De eo, quod interrogastis, si aliquis filiolam suam duxit
+          <p xml:id="gd-p2c30q1-d1e184"> 
+            Item ex <ref xml:id="gd-p2c30q1-Rd1e182">Concilio Magontiensi c. io., in claustro sancti Albani Jiabito^.</ref> 
+            De eo, quod interrogastis, si aliquis filiolam suam duxit
             uxorem, et de eo, qui concubuit cum conmatre"spirituali, et de eo °, qui filium suum
             baptizauit, et cuiusuxor eum de fonte suscepit, hac causa, ut discidiumfieret coniugii,
             si postea in tali copulatione possint permanere: de talibus sic respondendum est. Si
@@ -148,82 +150,87 @@
             maneat. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e191">
-          <head xml:id="gd-p2c30q1-Hd1e193">C. VI</head>
+          <head xml:id="gd-p2c30q1-Hd1e193">Caput 6</head>
           <head xml:id="gd-p2c30q1-Hd1e196" type="question-title"> Non separentur ab uxoribus qui
             filiastros suos coram episcopo tenent.</head>
-          <p xml:id="gd-p2c30q1-d1e199"> Item NyJcolaus Papa Rodulfo, Bituricensi Episc . </p>
-          <p xml:id="gd-p2c30q1-d1e202"> De his, qui filiastros suos ad confirmationem coram
-            episcopis tenent, id est qui filios uxoris suae de uiropriori, dum crismantur ab
-            episcopis, super se sustinent, siinscientia, sicut asseris, fiat, licet sit peccatum,
-            tamennon usque ad separationem coniugii puniendus est;lugeant tamen, et digna penitencia
-            hoc diluentes Dominodicant: „Delicta ignorantiae nostrae ne memineris.* </p>
+          <p xml:id="gd-p2c30q1-d1e202"> 
+            Item <ref xml:id="gd-p2c30q1-Rd1e199">NyJcolaus Papa Rodulfo, Bituricensi Episc.</ref>
+            De his, qui filiastros suos ad confirmationem coram
+            episcopis tenent, id est qui filios uxoris suae de uiro priori, dum crismantur ab
+            episcopis, super se sustinent, si in scientia, sicut asseris, fiat, licet sit peccatum,
+            tamen non usque ad separationem coniugii puniendus est;lugeant tamen, et digna penitencia
+            hoc diluentes Domino dicant: „Delicta ignorantiae nostrae ne memineris. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e206">
-          <head xml:id="gd-p2c30q1-Hd1e208">C. VII</head>
+          <head xml:id="gd-p2c30q1-Hd1e208">Caput 7</head>
           <head xml:id="gd-p2c30q1-Hd1e211" type="question-title"> Non separetur ab uxore qui causa
             necessitatis filium suum baptizauit. </head>
-          <p xml:id="gd-p2c30q1-d1e214"> Item Iohannes Papa Anselmo , Lemosinae ecclesiae Episcopo
-            *. </p>
-          <p xml:id="gd-p2c30q1-d1e217"> Ad limina beati Petri apostolorum principis hic presens
+          <p xml:id="gd-p2c30q1-d1e217"> 
+            Item <ref xml:id="gd-p2c30q1-Rd1e213">Iohannes Papa Anselmo, Lemosinae ecclesiae Episcopo</ref> 
+            Ad limina beati Petri apostolorum principis hic presens
             homo, nomine Stephanus, orationis causa ueniens, nostro presulatui suggerendo innotuit,
             quod filium suum inextremo uitae positum, necdum baptismatis unda lotum, absentia
             scilicet sacerdotum, nimia cogente baptizauit, eumque ipse propriis manibus retinendo
             suscepit s, atque pro huius rei negocio noticiae tuaepatefacto reuerentia tua, quasi
             rectitudinis zelo flagrans, prefatum hominem a sua coniuge iudicauit esseseparandum.
             Quod fieri nullatenus debet, dicente scriptura, a Domino iunctam esse uiro uxorem, et: ,
-            , QuodDeus coniunxit homo non separet.* Unde et Dominus ineuangelio non dimittere posse
-            uxorem suam, nisi causafornicationis, apertissime iubet. Et nos, tantae auctoritatis
-            precipua freti iussione, dicimus dimittendum** esse, et inculpabile iudicandum quod
+            , QuodDeus coniunxit homo non separet. Unde et Dominus in euangelio non dimittere posse
+            uxorem suam, nisi causa fornicationis, apertissime iubet. Et nos, tantae auctoritatis
+            precipua freti iussione, dicimus dimittendum esse, et inculpabile iudicandum quod
             necessitasintulit. Nam hoc baptizandi opus laicis fidelibus iuxta canonicam
-            auctoritatem, si necesse fuerit facere, libereconceditur. Unde si supradictus genitor
+            auctoritatem, si necesse fuerit facere, libere conceditur. Unde si supradictus genitor
             filium suumcorpore morientem aspiciens, ne animam perpetua mortepereuntem dimitteret,
             sacri unda baptismatis lauit, ut eumde potestate auctoris mortis et tenebrarum eriperet,
-            et ii*regnum Christi iam regnaturum sine dubitationetransmitteret, bene fecisse
-            laudatur; et idcirco suae </p>
-
-
-
-
-          <p xml:id="gd-p2c30q1-d1e220"> uxori sibi iam olim legitime sociatae inpune, quamdiu
+            et iiregnum Christi iam regnaturum sine dubitationetransmitteret, bene fecisse
+            laudatur; et idcirco suae  uxori sibi iam olim legitime sociatae inpune, quamdiu
             uixerit, iudicamus manere coniunctum, nec ob hoc contraprefatas auctoritates diuinas ali
             quatinus separari debere. </p>
-          <p xml:id="gd-p2c30q1-d1e224"> III. Pars. Gratian. Filia dicitur spiritualis non solum
+        </div>
+        <div xml:id="gd-p2c30q1-Dd1e217">
+          <head xml:id="gd-p2c30q1-Hd1e219">Dictum</head>
+          <p xml:id="gd-p2c30q1-d1e224">
+            Filia dicitur spiritualis non solum
             eius , qui accipit, sed etiam eius, qui trinae mersionis uocabuloeam sacro baptismate
-            tingit. Dicitur etiam spiritualis filiasacerdotis, que ei peccata sua confitetur. Harum
+            tingit. Dicitur etiam spiritualis filia sacerdotis, que ei peccata sua confitetur. Harum
             omnium flagitiosa conmixtio est, et eadem pena plectenda est P. </p>
           <p xml:id="gd-p2c30q1-d1e227"> Unde Sim acus mV: </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e232">
-          <head xml:id="gd-p2c30q1-Hd1e234">C. VIII</head>
+          <head xml:id="gd-p2c30q1-Hd1e234">Caput 8</head>
           <head xml:id="gd-p2c30q1-Hd1e237" type="question-title"> Par penitencia ei indicitur, qui
             spiritualem filiam, et penitencialem suam uiolare monstratur. </head>
           <p xml:id="gd-p2c30q1-d1e240"> Omnes, quos in penitencia suscipimus, ita nostri
             spirituales sunt filii, ut et ipsi, quos uel nobis suscipientibus, uel sub trinae
-            mersionis uocabulo mergentibus, unda sacribaptismatis regenerauit. Siluester quoque
-            docens ammonetunumquemque sacerdotem, ut nullus causa fornicationisad suam penitencialem
-            accedat, quia scriptum est: , , Omnes, quos in penitencia accipimus, ita nostri filii
-            sunt, ut baptismate suscepti.“ Quapropter si quis hoc scelus perpe-trauerit, non solum
-            dignitatis honorem amittat, uerum etiamusque ad exitum iugi penitenciae se subdat. </p>
+            mersionis uocabulo mergentibus, unda sacri baptismatis regenerauit. Siluester quoque
+            docens ammonetunumquemque sacerdotem, ut nullus causa fornicationis ad suam penitencialem
+            accedat, quia scriptum est: "Omnes, quos in penitencia accipimus, ita nostri filii
+            sunt, ut baptismate suscepti.“ Quapropter si quis hoc scelus perpetrauerit, non solum
+            dignitatis honorem amittat, uerum etiam usque ad exitum iugi penitenciae se subdat. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e244">
-          <head xml:id="gd-p2c30q1-Hd1e246">C. IX</head>
-          <head xml:id="gd-p2c30q1-Hd1e249" type="question-title"> De eodem. Item Celestinus.</head>
-          <p xml:id="gd-p2c30q1-d1e252"> Si quis sacerdos cum filia spirituali fornicatusfuerit,
+          <head xml:id="gd-p2c30q1-Hd1e246">Caput 9</head>
+          <head xml:id="gd-p2c30q1-Hd1e249" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p2c30q1-d1e252"> 
+            Item <ref xml:id="gd-p2c30q1-Rd1e251">Celestinus.</ref>
+            Si quis sacerdos cum filia spirituali fornicatus fuerit,
             sciat, se graue adulterium conmisisse. Idcirco feminasi laica est, omnia derelinquat et
-            res suas pauperibus tradat, et conuersa in monasterio Deo usquead mortem seruiat.
-            Sacerdos autem, qui malumexemplum dedit hominibus, ab omni offitio deponatur, et
+            res suas pauperibus tradat, et conuersa in monasterio Deo usque ad mortem seruiat.
+            Sacerdos autem, qui malum exemplum dedit hominibus, ab omni offitio deponatur, et
             peregrinando quindecim annis peniteat, postea uero ad monasterium uadat, ibique cunctis
             diebus uitae suae Deo seruiat. </p>
         </div>
         <div xml:id="gd-p2c30q1-Dd1e256">
-          <head xml:id="gd-p2c30q1-Hd1e258">C. X</head>
-          <head xml:id="gd-p2c30q1-Hd1e261" type="question-title"> De eodem. /dm. </head>
+          <head xml:id="gd-p2c30q1-Hd1e258">Caput 10</head>
+          <head xml:id="gd-p2c30q1-Hd1e261" type="question-title">De eodem.</head>
           <p xml:id="gd-p2c30q1-d1e264"> Non debet episcopus aut presbiter conmisceri cummulieribus,
-            que ei sua fuerint confessae peccata. Si forte </p>
-          <p xml:id="gd-p2c30q1-d1e267"> S uod absit) hoc contigerit, sic peniteat, quomodo de ia
-            spirituali, episcopus quindecim annis, presbiterduodecim, et deponatur; si tamen in
-            conscientia populi deuenerit. </p>
-          <p xml:id="gd-p2c30q1-d1e270"> Gratian. His itaque auctoritatibus apparet, quod siue
+            que ei sua fuerint confessae peccata. Si forte (quod absit) hoc contigerit, sic peniteat, quomodo de ia
+            spirituali, episcopus quindecim annis, presbiter duodecim, et deponatur; si tamen in
+            conscientia populi deuenerit. 
+          </p>
+        </div>
+          <div xml:id="gd-p2c30q1-Dd1e267">
+            <head xml:id="gd-p2c30q1-Hd1e269">Dictum</head>
+          <p xml:id="gd-p2c30q1-d1e270">His itaque auctoritatibus apparet, quod siue
             proprium, siue tantummodo uiri filium mulier de sacro fonte susceperit, non ideo a uiro
             suo est separanda. Quod et de uiro similiter oportet intellegi. </p>
         </div>

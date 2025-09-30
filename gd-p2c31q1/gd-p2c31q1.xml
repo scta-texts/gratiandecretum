@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,60 +54,67 @@
     <body>
       <div xml:id="gd-p2c31q1">
         <head xml:id="gd-p2c31q1-Hd1e103"> QUESTIO I. </head>
-
-        <p xml:id="gd-p2c31q1-d1e106"> I. Pars. Adulterio polluta prohibetur duci in
-          coniugiumauctoritate Leonis Papae, qua dicitur : </p>
+        <div xml:id="gd-p2c31q1-Dd1e100">
+          <head xml:id="gd-p2c31q1-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c31q1-d1e106">Adulterio polluta prohibetur duci in
+          coniugium auctoritate Leonis Papae, qua dicitur : </p>
+        </div>
         <div xml:id="gd-p2c31q1-Dd1e109">
-          <head xml:id="gd-p2c31q1-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c31q1-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c31q1-Hd1e114" type="question-title"> Adulterio polluta non ducatur ab
-            eodem in matrimonium . </head>
+            eodem in matrimonium.</head>
           <p xml:id="gd-p2c31q1-d1e117"> Nullus ducat in matrimonium quam prius polluit adulterio. </p>
           <p xml:id="gd-p2c31q1-d1e120"> Sed Augustinus econtra testatur, scribens ad Valerium de
             nuptiis et concupiscentia, [lib. I. c. io.]: </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e124">
-          <head xml:id="gd-p2c31q1-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c31q1-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c31q1-Hd1e129" type="question-title"> Licet alicui ducere in
-            matrimonium quam prius polluit per adulterium . </head>
+            matrimonium quam prius polluit per adulterium .</head>
           <p xml:id="gd-p2c31q1-d1e132"> Denique mortuo eo, cum quo fuit uerum conubium fieri potest
             coniugium*, cum qua precessit adulterium. </p>
-          <p xml:id="gd-p2c31q1-d1e135"> Item in libro de bono coniugali, [c. 14.]: §. 1. Posse sane
+          <p xml:id="gd-p2c31q1-d1e135"> <ref xml:id="gd-p2c31q1-Rd1e136">Item in libro de bono coniugali, [c. 14.]:</ref> §. 1. Posse sane
             fieri licitas nuptias ex personis licite coniunctis, honesto placito subsequente s,
             manifestum est. </p>
-          <p xml:id="gd-p2c31q1-d1e138"> Gratian. Hec ultima auctoritas de concubinis loquitur,
+        </div>
+        <div xml:id="gd-p2c31q1-Dd1e140">
+          <head xml:id="gd-p2c31q1-Hd1e142">Dictum</head>
+          <p xml:id="gd-p2c31q1-d1e138">
+            Hec ultima auctoritas de concubinis loquitur,
             perhibens, concubinas posse transire ad honestum placitum nuptiarum. Prima auctoritas
             Augustini loquitur de repudiata, quam dum uiuente uiro suo aliquis ducit in coniugium,
-            con-mittit adulterium; cuius adulterii aliquam habet ueniam, dumeius copula creditur
-            esse licita. §. 1. Illud uero Leonis Papaede ea intelligendum est, que a uiro suo non
-            erat repudiata, cuiusuiuebat uir, reddens ei coniugale debitum. </p>
-          <p xml:id="gd-p2c31q1-d1e142"> ROMANA. </p>
-          <p xml:id="gd-p2c31q1-d1e145"> a) ne — c. 11. a) et: deest b) quando ipsi c) perveniatur
-            c. 2. a) polluit adulterio b) viro c) quo d) lic.; deest Justini i) quicunque </p>
-
-
-
-
+            conmittit adulterium; cuius adulterii aliquam habet ueniam, dumeius copula creditur
+            esse licita. 
+          </p>
+          <p xml:id="gd-p2c31q1-d1e147">
+            §. 1. Illud uero Leonis Papaede ea intelligendum est, que a uiro suo non
+            erat repudiata, cuiusuiuebat uir, reddens ei coniugale debitum. 
+          </p>
           <p xml:id="gd-p2c31q1-d1e148"> Unde in Concilio apud Altheum halito presente Conrado Rege
             statutum est c. 6.: </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e152">
-          <head xml:id="gd-p2c31q1-Hd1e154">C. III</head>
+          <head xml:id="gd-p2c31q1-Hd1e154">Caput 3</head>
           <head xml:id="gd-p2c31q1-Hd1e157" type="question-title"> Nullus ducat in coniugium quam
             prius polluit per adulterium.</head>
-          <p xml:id="gd-p2c31q1-d1e160"> Illud uero communi decreto secundum canonum instituta
+          <p xml:id="gd-p2c31q1-d1e160">
+            Illud uero communi decreto secundum canonum instituta
             diffinimus et preiudicamus, ut, si quis cum uxore alterius uiuente eo fornicatus fuerit,
             moriente marito sinodali iudicioaditus ei claudatur illicitus, nec ulterius ei
             coniungaturmatrimonio, quam prius polluit adulterio. Nolumusenim, nec Christianae
             religioni conuenit, ut ullus ducat inconiugium quam prius polluit per adulterium. </p>
-          <p xml:id="gd-p2c31q1-d1e163"> Gratian. Hic subaudiendum est, nisi peracta post^
+        </div>
+        <div xml:id="gd-p2c31q1-Dd1e166">
+          <head xml:id="gd-p2c31q1-Hd1e168">Dictum</head>
+          <p xml:id="gd-p2c31q1-d1e163">Hic subaudiendum est, nisi peracta post
             penitenciam et si nichil in morte uiri machinatus fuerit, uel si uiuente uiro fidem
             adulterae non dedit , sumpturum eam sibi inconiugem, si uiro eius superuiueret. </p>
-          <p xml:id="gd-p2c31q1-d1e166"> Unde in Concilio Triburiensi legitur *. </p>
+          <p xml:id="gd-p2c31q1-d1e166"> Unde in Concilio Triburiensi legitur. </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e171">
-          <head xml:id="gd-p2c31q1-Hd1e173">C. IV</head>
+          <head xml:id="gd-p2c31q1-Hd1e173">Caput 4</head>
           <head xml:id="gd-p2c31q1-Hd1e176" type="question-title"> Post mortem uiri non potest
-            adulteram in coniugium ducere qui uiro uiuente iuramentum sibi futurarumprebuit
+            adulteram in coniugium ducere qui uiro uiuente iuramentum sibi futurarum prebuit
             nuptiarum. </head>
           <p xml:id="gd-p2c31q1-d1e179"> Relatum est auribus sanctorum sacerdotum, quendam alterius
             uxorem stupro uiolasse, et insuper mechae uiuenteuiro suo iuramentum dedisse, ut post
@@ -117,34 +122,43 @@
             igitur conubium prohibemus et anathematizamus. </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e183">
-          <head xml:id="gd-p2c31q1-Hd1e185">C. V</head>
+          <head xml:id="gd-p2c31q1-Hd1e185">Caput 5</head>
           <head xml:id="gd-p2c31q1-Hd1e188" type="question-title"> Post peractam penitenciam uiduam
             in coniugem ducere poterit , quam uiuente uiro polluit adulterio . </head>
-          <p xml:id="gd-p2c31q1-d1e191"> Item in eodem *. </p>
-          <p xml:id="gd-p2c31q1-d1e194"> Si quis uiuente marito coniugem illius adulterasse
-            accusatur, et, eo in proximo defuncto, eandem sumpsissedinoscitur, omnimodis penitenciae
-            publicae subiciatur. Dequo etiam post penitenciam prefata**, si expedierit, seruabitur
+          <p xml:id="gd-p2c31q1-d1e194"> 
+            Item in <ref xml:id="gd-p2c31q1-Rd1e199">eodem.</ref>
+            Si quis uiuente marito coniugem illius adulterasse
+            accusatur, et, eo in proximo defuncto, eandem sumpsissedi noscitur, omnimodis penitenciae
+            publicae subiciatur. Dequo etiam post penitenciam prefata, si expedierit, seruabitur
             regula; nisi forte idem, aut mulier uirum, quimortuus fuerat, occidisse notentur, aut
             propinquitas, uel alia quelibet actio criminalis inpediat. Quod si probatum fuerit, sine
-            ulla spe coniugii cum penitencia perpetuomaneant. </p>
-          <p xml:id="gd-p2c31q1-d1e197"> [PALE A. C. VI. </p>
-          <p xml:id="gd-p2c31q1-d1e201"> Item ex Concilio apud Vermerias*. </p>
-          <p xml:id="gd-p2c31q1-d1e204"> Si qua mulier in mortem mariti sui cum aliis consiliata
+            ulla spe coniugii cum penitencia perpetuo maneant. </p>
+        </div>
+        <div xml:id="gd-p2c31q1-Dd1e203">
+          <head xml:id="gd-p2c31q1-Hd1e205">Caput 6</head>
+          <p xml:id="gd-p2c31q1-d1e204"> 
+            Item ex <ref xml:id="gd-p2c31q1-Rd1e209">Concilio apud Vermerias</ref>. 
+            Si qua mulier in mortem mariti sui cum aliis consiliata
             sit, et ipse uir aliquem illorum se defendendo occiderit, si probare potest ille uir,
             eam ream esse consilii, potest (ut nobis uidetuf) ipsam uxorem dimittere, et,
-            siuoluerit, aliam ducere**. Ipsa autem insidiatrix penitenciae subiecta absque spe
-            coniugii maneat.] </p>
-
+            siuoluerit, aliam ducere. Ipsa autem insidiatrix penitenciae subiecta absque spe
+            coniugii maneat.] 
+          </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e208">
-          <head xml:id="gd-p2c31q1-Hd1e210">C. VII</head>
+          <head xml:id="gd-p2c31q1-Hd1e210">Caput 7</head>
           <head xml:id="gd-p2c31q1-Hd1e213" type="question-title"> Post penitenciam reconcilietur ad
             conmunionem uidua, que mechum suum m uirum accepit . </head>
-          <p xml:id="gd-p2c31q1-d1e216"> Item ex Concilio Elibertano, [c. 72.] </p>
-          <p xml:id="gd-p2c31q1-d1e219"> Si qua fuerit uidua mechata, et postea eundem habuerit
+          <p xml:id="gd-p2c31q1-d1e219"> 
+            Item ex <ref xml:id="gd-p2c31q1-Rd1e223">Concilio Elibertano, [c. 72.]</ref> 
+            Si qua fuerit uidua mechata, et postea eundem habuerit
             maritum, post quinquennii tempus acta legitima penitencia placuit eam ad conmunionem*
             reconciliari. </p>
-          <p xml:id="gd-p2c31q1-d1e222"> II. Pars. Gratian. Sed obicitur : Dauid cum Bersa- &amp;ee
+        </div>
+        <div xml:id="gd-p2c31q1-Dd1e228">
+          <head xml:id="gd-p2c31q1-Hd1e230">Dictum</head>
+          <p xml:id="gd-p2c31q1-d1e222">
+            Sed obicitur : Dauid cum Bersa- &amp;ee
             adulterium conmisit, et mortem Uriae machinatus est, ettamen Bersabee eandem postea
             duxit in uxorem. Sed in ueteritestamento multa permittebantur propter infirmitatem, que
             ineuangelii perfectione eliminata sunt: sicut permittebatur quibuslibet dare libellum
@@ -152,48 +166,50 @@
             prohibuit, dicensuxorem a uiro non esse dimittendam, nisi causa fornicationis.Quedam
             permittebantur causa infirmitatis, et sacramenti futurorum: sicuti Dominus permisit
             filiis Israel offerre animalia sibiin sacrificium , que in Egipto consueuerant inmolare
-            demonibus, malens ea sibi offerri quam idolis, et ut essent illis sacramentafuturorum.
+            demonibus, malens ea sibi offerri quam idolis, et ut essent illis sacramenta futurorum.
             Sic et Bersabee permissa est duci in uxorem, nonmagis causa suae infirmitatis, quam
-            significatione futurorum. §. 1. Sed est alia ratio , qua uxor defuncti huic nubere non
-            possit.Generaliter enim prohibentur uiri et mulieres frequenter matri-monina contrahere.
+            significatione futurorum. 
+          </p>
+          <p xml:id="gd-p2c31q1-d1e235">
+            §. 1. Sed est alia ratio , qua uxor defuncti huic nubere non
+            possit.Generaliter enim prohibentur uiri et mulieres frequenter matrimonina contrahere.
             Unde in conubio^ nuptiarum secundarumpresbiteri interesse non debent, sicut in
             Neocesariensi Concilio [c. 3. et 7.] legitur ; </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e226">
-          <head xml:id="gd-p2c31q1-Hd1e228">C. VIII</head>
+          <head xml:id="gd-p2c31q1-Hd1e228">Caput 8</head>
           <head xml:id="gd-p2c31q1-Hd1e231" type="question-title"> Fides et conuersatio penitenciam
             adbreuieU* eorum, qui frequenter ducunt uxores. </head>
           <p xml:id="gd-p2c31q1-d1e234"> De his, qui frequenter uxores ducunt, et de his, quisepius
             nubunt, tempus quidem his manifestum constitutum est, sed conuersatio et fides eorum
-            tempus adbre-uiat. §. 1. Presbiterum uero secundarum nuptiarumconubio* interesse non
-            debere; maxime cum** precipiatur secundis nuptiis penitenciam tribuere: quis
+            tempus adbre-uiat. 
+          </p>
+          <p xml:id="gd-p2c31q1-d1e24x">
+            §. 1. Presbiterum uero secundarum nuptiarum conubio interesse non
+            debere; maxime cum precipiatur secundis nuptiis penitenciam tribuere: quis
             eritpresbiter, qui propter conuiuium illis consentiat nuptiis? </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e238">
-          <head xml:id="gd-p2c31q1-Hd1e240">C. IX</head>
+          <head xml:id="gd-p2c31q1-Hd1e240">Caput 9</head>
           <head xml:id="gd-p2c31q1-Hd1e243" type="question-title"> Secundum ueritatis rationem
             fornicari conuincitur qui secundam ducit uxorem. </head>
-          <p xml:id="gd-p2c31q1-d1e246"> Item Iohannes Crisostomus, [id est auctor operis imperfecti
-            in Matth., hom. XXXII.] </p>
-          <p xml:id="gd-p2c31q1-d1e249"> Hac ratione et Apostoli preceperunt secundas adire nuptias
-            propter incontinentiam hominum. Nam secundam </p>
-
-
-
-
-          <p xml:id="gd-p2c31q1-d1e252"> quidem accipere secundum preceptum Apostoli licitumest,
-            secundum ueritatis rationem uere fornicatio* est.Sed cum permittente Deo publice et
-            licenter conmittitur, fit honesta fornicatio. Propterea bene dixit, quia Moyseshoc
-            permisit, non precepit. Aliud est enim precipere, aliudpermittere. Quod enim
-            permittimus#* nolentes precipimus, quia malas hominum uoluntates ad plenum prohiberenon
+          <p xml:id="gd-p2c31q1-d1e249"> 
+            Item <ref xml:id="gd-p2c31q1-Rd1e262">Iohannes Crisostomus, [id est auctor operis imperfecti in Matth., hom. XXXII.]</ref>
+            Hac ratione et Apostoli preceperunt secundas adire nuptias
+            propter incontinentiam hominum. Nam secundam  quidem accipere secundum preceptum Apostoli licitum est,
+            secundum ueritatis rationem uere fornicatio est. Sed cum permittente Deo publice et
+            licenter conmittitur, fit honesta fornicatio. Propterea bene dixit, quia Moyses hoc
+            permisit, non precepit. Aliud est enim precipere, aliud permittere. Quod enim
+            permittimus nolentes precipimus, quia malas hominum uoluntates ad plenum prohibere non
             possumus. </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e256">
-          <head xml:id="gd-p2c31q1-Hd1e258">C. X</head>
+          <head xml:id="gd-p2c31q1-Hd1e258">Caput 10</head>
           <head xml:id="gd-p2c31q1-Hd1e261" type="question-title"> Ut uitetur 'periculum
             fornicationis , secunda matrimonia conceduntur. </head>
-          <p xml:id="gd-p2c31q1-d1e264"> Item leronimus de uirginibus ^. </p>
-          <p xml:id="gd-p2c31q1-d1e267"> Quomodo uirginibus fornicationis periculo concedit nuptias,
+          <p xml:id="gd-p2c31q1-d1e267"> 
+            Item <ref xml:id="gd-p2c31q1-Rd1e276">Ieronimus de uirginibus</ref>
+            Quomodo uirginibus fornicationis periculo concedit nuptias,
             et excusabile facit quod per se non appetitur, itaeodem fornicationis periculo concedit
             uiduis secundamatrimonia. Melius est enim, licet alterum et tertium, unum uirum nosse,
             quam plurimos, id est tollerabilius estuni homini prostitutam esse, quam multis.
@@ -213,44 +229,57 @@
             accipere; si autem panis illi tollitur ele-mosinae, quanto magis, qui descendit de celo,
             quem quiindigne comederit, reus erit uiolati corporis et sanguinisDomini? Quamquam hec
             testimonia, que supra posui, inquibus uiduis conceditur, ut, si uelint, denuo nubant,
-            quidam interpretantur super his uiduis, quas amissis maritissic inuenerat fides Christi. </p>
-
-          <p xml:id="gd-p2c31q1-d1e270"> III. Pars. Gratian. Verum hoc eum ad exhortationem uidualis
+            quidam interpretantur super his uiduis, quas amissis maritissic inuenerat fides Christi. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c31q1-Dd1e280">
+          <head xml:id="gd-p2c31q1-Hd1e282">Dictum</head>
+          <p xml:id="gd-p2c31q1-d1e270">
+            Verum hoc eum ad exhortationem uidualis
             continentiae f non in condempnationem secundarum et deinceps nuptiarum dixisse , quam
-            multorum auctoritatibus constat, licitas esse , ut ex uerbis eiusdem daturintelligi. Ait
-            enim ad Pamachium [in Apologetico contraIouinianum]: </p>
+            multorum auctoritatibus constat, licitas esse , ut ex uerbis eiusdem datur intelligi. Ait
+            enim ad Pamachium [in Apologetico contra Iouinianum]: </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e275">
-          <head xml:id="gd-p2c31q1-Hd1e277">C. XI</head>
+          <head xml:id="gd-p2c31q1-Hd1e277">Caput 11</head>
           <head xml:id="gd-p2c31q1-Hd1e280" type="question-title"> Nec secundae , nec tertiae , nec
             deinceps nuptiae sunt condempnandae. </head>
-          <p xml:id="gd-p2c31q1-d1e283"> Aperiant, queso, aures obtrectatores mei, et uideant, me
+          <p xml:id="gd-p2c31q1-d1e283"> 
+            Aperiant, queso, aures obtrectatores mei, et uideant, me
             concessisse secundas et tercias nuptias in Domino. Quisecundas et tercias nuptias non
-            dampnaui, primum potuidampnare matrimonium? Idem: §. i. Non dampnodigamos, imo nec
-            trigamos, et si dici potest, octogamos. Idem: §.2. Ego nunc libera uoce proclamo, non
+            dampnaui, primum potuidampnare matrimonium? 
+          </p>
+          <p xml:id="gd-p2c31q1-d1e299">
+            Idem: §. i. Non dampnodigamos, imo nec
+            trigamos, et si dici potest, octogamos. 
+          </p>
+          <p xml:id="gd-p2c31q1-d1e301">
+            Idem: §. 2. Ego nunc libera uoce proclamo, non
             dampnari in ecclesia digamiam, imo nec trigamiam, et ita licere quinto, et sexto, et
             ultra, quomodo et secundomarito nubere. </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e287">
-          <head xml:id="gd-p2c31q1-Hd1e289">C. XII</head>
+          <head xml:id="gd-p2c31q1-Hd1e289">Caput 12</head>
           <head xml:id="gd-p2c31q1-Hd1e292" type="question-title"> Secunda coniugia , sicut et prima
             , licita esse probantur. </head>
-          <p xml:id="gd-p2c31q1-d1e295"> Item Augustinus lib. II. contra aduersarium legum et
-            Prophetarum , [c. 11.] </p>
-          <p xml:id="gd-p2c31q1-d1e298"> Deus masculum et feminam propagandi generis causa nuptiali
-            castitate coniunxit, et secundas nuptias, que innouo quoque* testamento permittuntur,
-            licitas essemonstrauit. </p>
+          <p xml:id="gd-p2c31q1-d1e298">
+            Item <ref xml:id="gd-p2c31q1-Rd1e315">Augustinus lib. II. contra aduersarium legum et Prophetarum , [c. 11.]</ref> 
+            Deus masculum et feminam propagandi generis causa nuptial
+            castitate coniunxit, et secundas nuptias, que innouo quoque testamento permittuntur,
+            licitas essemonstrauit. 
+          </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e302">
-          <head xml:id="gd-p2c31q1-Hd1e304">[C. XIII.]</head>
-          <p xml:id="gd-p2c31q1-d1e307"> Idem super primam epistolam ad Chorinthios *. </p>
-          <p xml:id="gd-p2c31q1-d1e310"> , , Quod si dormierit uir eius.“ Non dicit, primus uel
-            secundus, uel quartus, nec nobis diffiniendum est quodnon diffinit Apostolus. Unde nec
-            ullas debeo dampnare nuptias, nec eis uerecundiam numerositatis auferre**. Dominus autem
-            septemuiram non dampnauit, nec dicit in resurrectione non posse esse, sed tantum: , ,
-            Neque nubent, neque nubentur.^ Unde nec contra humanaeuerecundiae sensum audeo dicere,
-            ut quotiens uoluerintnubant, nec ex corde meo quotaslibet nuptias condem-pnare. Quod
-            dicitur uniuirae, hoc omni uiduae;„ Beatior erit, si sic permanserit.^ </p>
+          <head xml:id="gd-p2c31q1-Hd1e304">Caput 13</head>
+          <p xml:id="gd-p2c31q1-d1e310"> 
+            <ref xml:id="gd-p2c31q1-Rd1e326">Idem super primam epistolam ad Chorinthios</ref>.
+            "Quod si dormierit uir eius.“ Non dicit, primus uel
+            secundus, uel quartus, nec nobis diffiniendum est quod non diffinit Apostolus. Unde nec
+            ullas debeo dampnare nuptias, nec eis uerecundiam numerositatis auferre. Dominus autem
+            septemuiram non dampnauit, nec dicit in resurrectione non posse esse, sed tantum:
+            Neque nubent, neque nubentur. Unde nec contra humanaeuerecundiae sensum audeo dicere,
+            ut quotiens uoluerint nubant, nec ex corde meo quotas libet nuptias condempnare. Quod
+            dicitur uniuirae, hoc omni uiduae;„ Beatior erit, si sic permanserit. </p>
         </div>
       </div>
     </body>

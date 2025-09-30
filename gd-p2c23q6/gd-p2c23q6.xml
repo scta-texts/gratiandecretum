@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VI. </title>
+        <title> QUESTIO 6</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VI. </title>
+          <title> QUESTIO 6</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,22 +53,25 @@
     </front>
     <body>
       <div xml:id="gd-p2c23q6">
-        <head xml:id="gd-p2c23q6-Hd1e103"> QUESTIO VI. </head>
+        <head xml:id="gd-p2c23q6-Hd1e103"> QUESTIO 6</head>
+        <div xml:id="gd-p2c23q6-Dd1e100">
+          <head xml:id="gd-p2c23q6-Hd1e102">Dictum</head>
 
         <p xml:id="gd-p2c23q6-d1e106"> Quod autem queritur, an mali sint cogendi ad bonum ? facile
-          apparet. Antiquus namque populus* metu penarum ad legisobseruationem cogebatur. In
+          apparet. Antiquus namque populus metu penarum ad legisobseruationem cogebatur. In
           euangelio quoque Dominus aitdiscipulis suis : „ Nolite timere eos, qui occidunt corpus,
           animam autem occidere non possunt, sed pocius eum timete , “ id estei in timore seruite, „
           qui potest animam et corpus perdere ingehennam. “ Paulus quoque, cum ecclesiam Dei
           persequeretur, in itinere cecatus ad Deum conuerti coactus est. Unde se abor-'tiuo similem
           testatus est, dicens: „Nouissime autem omniumtamquam abortiuo uisus est et michi. </p>
-        <p xml:id="gd-p2c23q6-d1e109"> Hinc Augustinus scribit [epist. L.] ad Bonifatium *: </p>
+        <p xml:id="gd-p2c23q6-d1e109"> Hinc Augustinus scribit [epist. L.] ad Bonifatium : </p>
+        </div>
         <div xml:id="gd-p2c23q6-Dd1e112">
-          <head xml:id="gd-p2c23q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c23q6-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c23q6-Hd1e117" type="question-title"> Ecclesia malos debet cogere ad
             bonum, sicut Christus Paulum coegit.</head>
-
-          <p xml:id="gd-p2c23q6-d1e120"> Scismatici dicunt: cui Christus uim intulit, quem coegit?
+          <p xml:id="gd-p2c23q6-d1e120"> 
+            Scismatici dicunt: cui Christus uim intulit, quem coegit?
             Ecce habent apostolum Paulum. Agnoscant in eo priuscogentem Christum, postea docentem:
             prius ferientem, postea consolantem. Mirum est autem, quomodo ille, quipena corporis ad
             euangelium coactus intrauit, plus omnibusillis laborauit, qui solo uerbo uocati sunt, in
@@ -79,85 +80,117 @@
             coegerunt alios, ut perirent? Quamuis et illos, quos non coegerunt, sed tantummodo
             seduxerunt, si per terribiles etsalubres leges in eius gremio reuocentur, blandius
             piamater amplectitur, et de illis multo amplius, quam de his, quos numquam perdiderat,
-            gratulatur. §. i. An non pertinet ad diligentiam pastoralem etiam illas oues, que
+            gratulatur. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e122">
+            §. i. An non pertinet ad diligentiam pastoralem etiam illas oues, que
             nonuiolenter ereptae, sed blande leniterque seductae a gregeaberrauerant^, et ab alienis
             possideri ceperant, inuentasad ouile dominicum, si resistere uoluerint, flagellorum
-            terroribus uel etiam doloribus reuocare? Item*: §. 2. A Christocoactum Paulum
+            terroribus uel etiam doloribus reuocare? 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e124">
+            Item: §. 2. A Christocoactum Paulum
             ostendimus. Imitatur itaque ecclesia inistis cogendis Dominum suum, que prius, ut
-            neminemcogeret, expectauit, ut de fide regum atque gentium pre-dicatio prophetica
-            conpleretur. §. 3. Etiam hinc nonabsurde intelligitur apostolica illa sentencia, ubi B.
-            Paulusdixit: „Parati ulcisci omnem inobedientiam, cum con-pleta fuerit prior uestra
-            obedientia." §. 4. Unde et ipseDominus ad magnam cenam suam prius conuiuas adduciiubet,
+            neminemcogeret, expectauit, ut de fide regum atque gentium predicatio prophetica
+            conpleretur. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e127">
+            §. 3. Etiam hinc nonabsurde intelligitur apostolica illa sentencia, ubi B.
+            Paulusdixit: „Parati ulcisci omnem inobedientiam, cum conpleta fuerit prior uestra
+            obedientia." 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e129">
+            §. 4. Unde et ipse Dominus ad magnam cenam suam prius conuiuas adduciiubet,
             postea cogi. Nam, cum ei serui respondissent:„Domine, factum est quod iussisti, et adhuc
             locus est, exite, " inquit, „in uias et sepes, et quoscumque inueneritiscogite intrare."
             In illis ergo, qui primo leniter adductisunt, conpleta est prior obediencia; in istis
-            autem, quicoguntur, inobedientia cohercetur. /tem°: §. 5. Si perpotestatem, quam per
+            autem, quicoguntur, inobedientia cohercetur. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e131">
+            Item°: §. 5. Si perpotestatem, quam per
             religionem ac fidem regum, tempore quo debuit, diuino munere accepit ecclesia, hii,
             quiinueniuntur in uiis et sepibus, id est in heresibus et scis-matibus, coguntur
             intrare, non quia coguntur, reprehendant, sed quo coguntur p, attendant. </p>
         </div>
         <div xml:id="gd-p2c23q6-Dd1e124">
-          <head xml:id="gd-p2c23q6-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c23q6-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c23q6-Hd1e129" type="question-title"> Variis modis errantes
             corripiuntur a Domino . </head>
-          <p xml:id="gd-p2c23q6-d1e132"> Idem ad Donatistas, [epist. CLXVI.] </p>
-          <p xml:id="gd-p2c23q6-d1e135"> „Quod errauerat, " inquit Dominus, „non reuocastis, et quod
+          <p xml:id="gd-p2c23q6-d1e135"> 
+            <ref xml:id="gd-p2c23q6-Rd1e144">Idem ad Donatistas, [epist. CLXVI.]</ref> 
+            „Quod errauerat, " inquit Dominus, „non reuocastis, et quod
             perierat non requisistis." Hoc uobis per nos ipseDeus facit, ipse obsecrando, ipse
             minando, siue corripiendo, siue dampnis, siue laboribus, siue per ammonitionessuas
             occultas uel uisitationes, siue per potestatum temporalium leges. </p>
         </div>
         <div xml:id="gd-p2c23q6-Dd1e140">
-          <head xml:id="gd-p2c23q6-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c23q6-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c23q6-Hd1e145" type="question-title"> Non est considerandum, quod
             quisque cogitur, sedquo cogitur.</head>
-          <p xml:id="gd-p2c23q6-d1e148"> Idem in epist. [XLVIII.] ad Vincentium S. </p>
-          <p xml:id="gd-p2c23q6-d1e151"> Vides, ut oppinor, non esse considerandum, quod quisque
+          <p xml:id="gd-p2c23q6-d1e151"> 
+            Idem in <ref xml:id="gd-p2c23q6-Rd1e158">epist. [XLVIII.] ad Vincentium S.</ref> 
+            Vides, ut oppinor, non esse considerandum, quod quisque
             cogitur, sed quale sit illud; quo cogitur, utrum bonum, an malum: non quod quisque bonus
             possit esse inuitus, sed timendo quod non uult pati uel relinquit
-            inpedientemanimositatem, uel ignoratam conpellitur cognoscere ueri-tatem, ut timens uel
+            inpedientemanimositatem, uel ignoratam conpellitur cognoscere ueritatem, ut timens uel
             respuat falsum, de quo contendebat, uel querat uerum quod nesciebat, et uolens iam
-            teneat quodnolebat. Item: §. 1. Mea primitus sentencia erat, neminem ad unitatem 62
+            teneat quodnolebat. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e161">
+            Item: §. 1. Mea primitus sentencia erat, neminem ad unitatem 62
             Christi cogendum esse, uerboesse agendum, disputatione pugnandum, ratione uincen-dum, ne
-            fictos catholicos haberem c qos apertos hereticosnoueram. Sed hec oppinio mea non
+            fictos catholicos haberem c qos apertos hereticos noueram. Sed hec oppinio mea non
             contradicentium uerbistantum, sed demonstrantium superabatur exemplis. Namprimo
-            opponebatur michi ciuitas mea, que, cum tota essetin partes Donati, ad unitatem
-            catholicam legum inperia-lium timore conuersa est, quam nunc uidemus ita huiusuestrae
+            opponebatur michi ciuitas mea, que, cum tota esset in partes Donati, ad unitatem
+            catholicam legum inperialium timore conuersa est, quam nunc uidemus ita huiusuestrae
             animositatis perniciem detestari, ut in ea numquam fuisse credatur. Ita aliae multae,
-            que michi nomi- </p>
-
-
-
-
-          <p xml:id="gd-p2c23q6-d1e154"> natim conmemorabantur, ut ipsis rebus agnoscerem, etiam in
+            que michi nominatim conmemorabantur, ut ipsis rebus agnoscerem, etiam in
             hac causa recte intelligi posse quod scriptum est: „Dasapienti occasionem, et sapientior
             erit.“ </p>
         </div>
         <div xml:id="gd-p2c23q6-Dd1e158">
-          <head xml:id="gd-p2c23q6-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c23q6-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c23q6-Hd1e163" type="question-title"> Onere^ pensionis rusticus ad
             Dominum con-uerti cogatur . </head>
-          <p xml:id="gd-p2c23q6-d1e166"> Item Gregorius Maximiano Episcopo . </p>
-          <p xml:id="gd-p2c23q6-d1e169"> Iam uero, si rusticus tantae perfidiae et obstinationis
+          <p xml:id="gd-p2c23q6-d1e169"> 
+            Item <ref xml:id="gd-p2c23q6-Rd1e175">Gregorius Maximiano Episcopo.</ref> 
+            Iam uero, si rusticus tantae perfidiae et obstinationis
             fuerit inuentus, ut ad Dominum minime uenire consentiat, tanto pensionis onere grauandus
-            est, ut ipsa exactionis suaepena conpellatur ad rectitudinem festinare. </p>
-          <p xml:id="gd-p2c23q6-d1e172"> Gratian. Ex his omnibus colligitur, quod mali sunt cogendi
-            ad bonum. §. i. Sed obicitur, quod nemo est cogendus ad id, ad quod inutiliter cogitur.
-            Ad bonum autem quisque cogiturinutiliter, cum Deus aspernetur coacta seruicio. Unde
+            est, ut ipsa exactionis suae pena conpellatur ad rectitudinem festinare. </p>
+        </div>
+        <div xml:id="gd-p2c23q6-Dd1e179">
+          <head xml:id="gd-p2c23q6-Hd1e181">Dictum</head>
+          <p xml:id="gd-p2c23q6-d1e172">
+            Ex his omnibus colligitur, quod mali sunt cogendi
+            ad bonum. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e186">
+            §. i. Sed obicitur, quod nemo est cogendus ad id, ad quod inutiliter cogitur.
+            Ad bonum autem quisque cogitur inutiliter, cum Deus aspernetur coacta seruicio. Unde
             Apostolus, cum ad elemosinas Chorinihios hortaretur, ait : „ Unusquisquedet , prout
-            destinauit in corde suo, non ex tristitia, aut exnecessitate. Hilarem enim datorem
-            diligit Deus. Unde daturintelligi, quod qui inuitus dat propter presentem pudorem, et
-            remet meritum perdit. Item, cum redderet causam, quare abstineret a sumptibus, ait%: „Si
-            ex necessitate euangelizauero, nonerit michi gloria. §.2. Item : „ Si inuitus
-            euangelizauero, dispensatio michi credita est. Si autem uolens hoc ago, mercedemhabeo
+            destinauit in corde suo, non ex tristitia, aut ex necessitate. Hilarem enim datorem
+            diligit Deus. Unde datur intelligi, quod qui inuitus dat propter presentem pudorem, et
+            remet meritum perdit. Item, cum redderet causam, quare abstineret a sumptibus, ait: „Si
+            ex necessitate euangelizauero, non erit michi gloria. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e188">
+            §. 2. Item : „ Si inuitus
+            euangelizauero, dispensatio michi credita est. Si autem uolens hoc ago, mercedem habeo
             apud Deum. Item, cum Galathis scriberet, legalia nonesse tenenda, ait : „Si Spiritu
-            ducimini, non estis sub lege .“ Exquo apparet eum, qui sub lege est, id est qui timore
-            penae, nonamore iusticiae seruit, non duci Spiritu sancto. Si autem Spiritu non ducitur,
-            Deo placere minime ualet. §. 3. Item : „Nonaccepistis spiritum seruitutiIs iterum in
-            timore, sed accepistisspiritum adoptionis filiorum , in quo clamamus: Abba pater.Ex
-            quibus uerbis datur intelligi, quod , etsi in ueteri testamentotimore penae homines
+            ducimini, non estis sub lege .“ Ex quo apparet eum, qui sub lege est, id est qui timore
+            penae, non amore iusticiae seruit, non duci Spiritu sancto. Si autem Spiritu non ducitur,
+            Deo placere minime ualet. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e190">
+            §. 3. Item : „Nonaccepistis spiritum seruitutiIs iterum in
+            timore, sed accepistis spiritum adoptionis filiorum , in quo clamamus: Abba pater.Ex
+            quibus uerbis datur intelligi, quod , etsi in ueteri testamento timore penae homines
             cogebantur ad bonum, tamen in nouotestamento sola libertate et dilectione iusticiae sunt
-            inuitandi adfidem. Unde illi dicuntur serui et filii ancillae, pertinentes adIsmahel:
-            isti dicuntur liberi et filii liberae, pertinentes ad Ysaac. §. 4. Item Iohannes in
+            inuitandi ad fidem. Unde illi dicuntur serui et filii ancillae, pertinentes ad Ismahel:
+            isti dicuntur liberi et filii liberae, pertinentes ad Ysaac.
+          </p>
+          <p xml:id="gd-p2c23q6-d1e193">
+            §. 4. Item Iohannes in
             epistola swa: „ Timor non est in Tcaritate, sed perfecta karitas foras mittit timoremP
             Qui autem cogitur, illo timore ducitur, qui non est in kariiate; qui manus conprimit,
             non animum mutat, quo pena timetur, non bonum diligitur. Porrosine dilectione boni
@@ -167,15 +200,17 @@
             dulcedinem uocans suauitatem bonioperis, qua bonum fit non timore penae, sed
             delectatione iusticiae.Cum ergo sine hac dulcedine animalia in hereditate non habitent,
             patet, quod nemo, nisi inutiliter, ad bonum cogitur solo timore.Quicumque etenim
-            ad'bonum cogitur, solo timore, non amoreducitur: non sunt ergo mali cogendi ad bonum. §.
-            5. His itarespondetur: Si bonum, ad quod mali coguntur, semper inuititollerarent, et
+            ad'bonum cogitur, solo timore, non amoreducitur: non sunt ergo mali cogendi ad bonum. 
+          </p>
+          <p xml:id="gd-p2c23q6-d1e195">
+            §. 5. His itarespondetur: Si bonum, ad quod mali coguntur, semper inuititollerarent, et
             numquam uoluntarii seruirent, inutiliter ad illudcogerentur. Sed quia humanae naturae
             est et ea, que in dissuetudinem ducuntur, abhorrere , et consueta magis diligere ,
             flagellis tribulationum cohibendi sunt mali a malo, et prouocandiad bonum, ut, dum
             timore penae malum in dissuetudinem ducitur, abhorreatur, bonum uero ex consuetudine
-            dulcescat. Unde Augustinus in Psal. 127.: „ Cum per timorem * gehennae continet sehomo a
+            dulcescat. Unde Augustinus in Psal. 127.: „ Cum per timorem  gehennae continet sehomo a
             peccato, fit consuetudo iusticiae, et incipit quod durumerat amari, et incipit excludi
-            timor a karitate, et succedit timorcastus, de quo hic dicitur, quo timemus, ne tardet *,
+            timor a karitate, et succedit timorcastus, de quo hic dicitur, quo timemus, ne tardet ,
             ne discedat, ne eo careamus. Ille utilis , sed non permanet in eternumut isteP </p>
         </div>
       </div>

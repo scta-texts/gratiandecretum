@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,126 +53,146 @@
     </front>
     <body>
       <div xml:id="gd-p2c29q2">
-        <head xml:id="gd-p2c29q2-Hd1e103"> QUESTIO II. </head>
-        <p xml:id="gd-p2c29q2-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c29q2-d1e109"> I. Pars. Secunda questio de condicione proposita est, an
-          liceat mulieri dimittere eum, quem putabat liberum, si posteainuenerit illum seruum Quod
-          uero mulieri non liceat a seruodiscedere, multis rationibus uidetur posse probari. In
-          Christoenim Iesu nec* Iudeus, nec Grecus, nec seruus, neque liber:ergo nec in coniugio
-          Christianorum. Eadem enim lege in fideChristi uter que regitur. Indifferenter enim ab
-          Apostolo dicituromnibus : „Qui uult nubere nubat in Domino .“ Et item^:„Mulier nubat cui
+        <head xml:id="gd-p2c29q2-Hd1e103"> QUESTIO 2</head>
+        <div xml:id="gd-p2c29q2-Dd1e100">
+          <head xml:id="gd-p2c29q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c29q2-d1e109">
+          Secunda questio de condicione proposita est, an
+          liceat mulieri dimittere eum, quem putabat liberum, si postea inuenerit illum seruum Quod
+          uero mulieri non liceat a seruo discedere, multis rationibus uidetur posse probari. In
+          Christoenim Iesu nec Iudeus, nec Grecus, nec seruus, neque liber:ergo nec in coniugio
+          Christianorum. Eadem enim lege in fide Christi uter que regitur. Indifferenter enim ab
+          Apostolo dicitur omnibus : „Qui uult nubere nubat in Domino .“ Et item: „Mulier nubat cui
           uult; tantum in Domino .“ Non precipitur, ut ingenua nubat ingenuo, ancilla seruo ; sed
-          quelibet nubat earumcui uult, dummodo in Domino. </p>
+          quelibet nubat earum cui uult, dummodo in Domino. </p>
+        </div>
         <div xml:id="gd-p2c29q2-Dd1e112">
-          <head xml:id="gd-p2c29q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c29q2-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c29q2-Hd1e117" type="question-title"> Licet seruis matrimonia
             contrahere. </head>
-          <p xml:id="gd-p2c29q2-d1e120"> Item Iulius Papa, c. 4.* </p>
-          <p xml:id="gd-p2c29q2-d1e123"> Omnibus nobis unus pater est in celis, et unusquisque,
+          <p xml:id="gd-p2c29q2-d1e123"> 
+            Item <ref xml:id="gd-p2c29q2-Rd1e118">Iulius Papa, c. 4.</ref>
+            Omnibus nobis unus pater est in celis, et unusquisque,
             diues et pauper, liber et seruus, equaliter pro se et pro 
             animabus eorum rationem reddituri t. Quapropter omnes,
             cuiuscumque condicionis sint, unam legem quantum ad Dominum habere non dubitamus. Si
-            autemomnes** unam legem habent, ergo sicut ingenuus dimittinon potest, sic nec seruus
+            autem omnes unam legem habent, ergo sicut ingenuus dimitti non potest, sic nec seruus
             semel coniugio copulatus ulterius dimitti poterit. </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e130">
-          <head xml:id="gd-p2c29q2-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c29q2-Hd1e132">Caput 2</head>
           <head xml:id="gd-p2c29q2-Hd1e135" type="question-title"> Ancillam in matrimonio susceptam
             uiro dimittere non licet.</head>
-          <p xml:id="gd-p2c29q2-d1e138"> Item Zacinarias Papa . </p>
-          <p xml:id="gd-p2c29q2-d1e141"> Si quis liber ancillam in matrimonium acceperit, non habet
-            licentiam dimittere eam si consensu amborumconiuncti sunt, excepta* causa fornicationis;
-            sed una lexdeinceps erit per omnia et uiro et feminae. </p>
+          <p xml:id="gd-p2c29q2-d1e141">
+            Item <ref xml:id="gd-p2c29q2-Rd1e132">Zacinarias Papa.</ref>
+            Si quis liber ancillam in matrimonium acceperit, non habet
+            licentiam dimittere eam si consensu amborum coniuncti sunt, excepta causa fornicationis;
+            sed una lex deinceps erit per omnia et uiro et feminae. </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e146">
-          <head xml:id="gd-p2c29q2-Hd1e148">C. III</head>
+          <head xml:id="gd-p2c29q2-Hd1e148">Caput 3</head>
           <head xml:id="gd-p2c29q2-Hd1e151" type="question-title"> Inter patronum et libertam
             constat esse cnniugium legitimum. </head>
-          <p xml:id="gd-p2c29q2-d1e154"> Item lulius Papa, </p>
-          <p xml:id="gd-p2c29q2-d1e157"> Si quis ancillam suam libertate donauerit, et in matrimonio
+          <p xml:id="gd-p2c29q2-d1e157">
+            Item <ref xml:id="gd-p2c29q2-Rd1e146">Iulius Papa,</ref>
+            Si quis ancillam suam libertate donauerit, et in matrimonio
             sibi sociauerit, dubitabatur apud quosdam, utrum huiusmodi nuptiae legitimae esse
             uideantur, annon. Nos itaque, uetustam ambiguitatem decidentes, taliaconubia legitima
             esse censemus. Si enim ex affectu fiuntomnes nuptiae, nichil inpium et legibus
             contrarium intali copulatione fieri potest, quare predictas nuptias inhibendas
             existimauerimus? </p>
-          <p xml:id="gd-p2c29q2-d1e160"> II. Pars. Gratian. His ita respondetur: Non negatur,
+        </div>
+        <div xml:id="gd-p2c29q2-Dd1e151">
+          <head xml:id="gd-p2c29q2-Hd1e153">Dictum</head>
+          <p xml:id="gd-p2c29q2-d1e160">
+            His ita respondetur: Non negatur,
             ingenuam posse nubere seruo, sed dicitur, quod si nescitur esseseruilis condicionis,
             libere potest dimitti, cum seruitus eius fueritdeprehensa. Illud autem Apostoli et Iulii
             Papae intelligendumest de his, quorum condicio utrique nota est. Huius autem condicio
             mulieri incognita erat; non ergo premissis auctoritatibuscogitur manere cum eo , sed
-            liberum illi esse ostenditur uelmanere, uel discedere. </p>
+            liberum illi esse ostenditur uel manere, uel discedere.</p>
           <p xml:id="gd-p2c29q2-d1e164"> Unde in Concilio apud Vermeriam, cui interfuit Rex Pipinus,
-            statutum est c. 6.* </p>
+            statutum est c. 6. </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e168">
-          <head xml:id="gd-p2c29q2-Hd1e170">C. IV</head>
+          <head xml:id="gd-p2c29q2-Hd1e170">Caput 4</head>
           <head xml:id="gd-p2c29q2-Hd1e173" type="question-title"> De eo, qui ancillam ducit in
             uxorem, quam putat liberam esse. </head>
-          <p xml:id="gd-p2c29q2-d1e176"> Si quis ingenuus homo ancillam uxorem alterius acceperit,
+          <p xml:id="gd-p2c29q2-d1e176"> 
+            Si quis ingenuus homo ancillam uxorem alterius acceperit,
             et existimat, quod ingenua sit, si ipsa femina fuerit postea in seruitute detecta**, si
             eam a seruituteredimere potest, faciat; si non potest, si uoluerit, aliam accipiat. Si
-            autem ancillam eam scierat etcollaudauerat, post ut*** legitimam habeat. Similiteret
-            mulier ingenua de seruo alterius facere debet. </p>
-
+            autem ancillam eam scierat etcollaudauerat, post ut legitimam habeat. Similiteret
+            mulier ingenua de seruo alterius facere debet. 
+          </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e180">
-          <head xml:id="gd-p2c29q2-Hd1e182">C. V</head>
+          <head xml:id="gd-p2c29q2-Hd1e182">Caput 5</head>
           <head xml:id="gd-p2c29q2-Hd1e185" type="question-title"> Non licet mulieri dimittere quem
             sciens seruum accepit in uirum. </head>
-          <p xml:id="gd-p2c29q2-d1e188"> Item ex eodem, c. 8. </p>
-          <p xml:id="gd-p2c29q2-d1e191"> Si femina ingenua acceperit seruum, sciens, quodseruus
-            esset, habeat eum, quia omnes unum patrem habemus in celis*. Una lex erit uiro et
+          <p xml:id="gd-p2c29q2-d1e191"> 
+            Item ex <ref xml:id="gd-p2c29q2-Rd1e184">eodem, c. 8.</ref>
+            Si femina ingenua acceperit seruum, sciens, quod seruus
+            esset, habeat eum, quia omnes unum patrem habemus in celis. Una lex erit uiro et
             feminae. </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e195">
-          <head xml:id="gd-p2c29q2-Hd1e197">C. VI</head>
+          <head xml:id="gd-p2c29q2-Hd1e197">Caput 6</head>
           <head xml:id="gd-p2c29q2-Hd1e200" type="question-title"> Seruitutis occasione dimitti non
             ualet que post con - trouersiam status se in libertatem asseuerauerit*. </head>
-          <p xml:id="gd-p2c29q2-d1e203"> Item Gregorius [lib. VI. epist. i. ad Fortunatum
-            Episcopum]. </p>
-          <p xml:id="gd-p2c29q2-d1e206"> Cuius rei causa cum matre sua huc conpulsa anno preterito
-            presentium uenerit latrix, fraternitas tua cautiusnouit, quia scilicet maritus suus
+          <p xml:id="gd-p2c29q2-d1e206"> 
+            Item <ref xml:id="gd-p2c29q2-Rd1e198">Gregorius [lib. VI. epist. i. ad Fortunatum Episcopum].</ref> 
+            Cuius rei causa cum matre sua huc conpulsa anno preterito
+            presentium uenerit latrix, fraternitas tua cautius nouit, quia scilicet maritus suus
             clericus uester ob hoc, quod de seruili fuerat condicione pulsata, a suo
             nosciturremouisse consortio, uosque hic positos asserunt promisisse, ut, si probare se
-            liberam adiuuante Domino ualuisset, suoeam uos coniugio reformaretis. Fraternitas igitur
+            liberam adiuuante Domino ualuisset, suo eam uos coniugio reformaretis. Fraternitas igitur
             uestracognoscat, quod reuelante Deo libertatis auctore, approbatasit libera, nullaque in
-            ea macula est seruilis inuenta. Hisergo cognitis, sine mora aliqua suo eam uolumus
+            ea macula est seruilis inuenta. His ergo cognitis, sine mora aliqua suo eam uolumus
             maritorestitui, nec ulterius idem uir eius argumenta sibi occasionisexquirat, quibus eam
             possit abicere. Nam si a uobis (quodnon credimus) minime fuerit adinpletum, eamque
             recipereforte distulerit, nos illud cognoscatis cum districta uin-dicta corrigere. </p>
-          <p xml:id="gd-p2c29q2-d1e209"> Gratian. Cum dicitur : „ sciens illum seruum, datur
-            intelligi, quod si nescierit , illum seruum esse, non cogitur cumeo manere. Quia hec
-            ergo et personae et condicionis dolum passaest, non cogitur adherere ei, cuius fraude
-            decepta est; si ueroliberum acceperit, et ille, ut causam prestet dissidii, se
-            alicuiusseruum fecerit, wec uxorem dimittere, nec illa ob uinculumconiugii in seruitutem
+        </div>
+        <div xml:id="gd-p2c29q2-Dd1e202">
+          <head xml:id="gd-p2c29q2-Hd1e204">Dictum</head>
+          <p xml:id="gd-p2c29q2-d1e209">
+            Cum dicitur : „sciens illum seruum, datur
+            intelligi, quod si nescierit , illum seruum esse, non cogitur cum eo manere. Quia hec
+            ergo et personae et condicionis dolum passae st, non cogitur adherere ei, cuius fraude
+            decepta est; si uero liberum acceperit, et ille, ut causam prestet dissidii, se
+            alicuius seruum fecerit, wec uxorem dimittere, nec illa ob uinculum coniugii in seruitutem
             redigi poterit. </p>
           <p xml:id="gd-p2c29q2-d1e213"> Unde in Triburiensi Concilio : </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e217">
-          <head xml:id="gd-p2c29q2-Hd1e219">C. VII</head>
+          <head xml:id="gd-p2c29q2-Hd1e219">Caput 7</head>
           <head xml:id="gd-p2c29q2-Hd1e222" type="question-title"> Occasione condicionis dolose
             mutatae uir non discedat ab ea, quam tempore libertatis accepit . </head>
           <p xml:id="gd-p2c29q2-d1e225"> Perlatum est ad sanctam sinodum, quod quidam ingenuus
             ingenuam acceperit uxorem, et post filiorum procreationem occasione diuortii cuiusdam
             seruum se fecerit, utrum necessario mulierem tenere debeat, et sitenuerit, utrum illa
-            quoque secundum secularem legemseruituti subici debeat, quesitum est*. Iudicatum est,
-            uxorem minime debere dimitti, non tamen ob Christi legemmulierem in seruitutem redigi,
+            quoque secundum secularem legem seruituti subici debeat, quesitum est. Iudicatum est,
+            uxorem minime debere dimitti, non tamen ob Christi legem mulierem in seruitutem redigi,
             dum ille non ex consensu coniugis se seruum fecerit, quem liberum ipsa maritum
             acceperat. </p>
-          <p xml:id="gd-p2c29q2-d1e231"> Gratian. Queritur etiam , si seruus unius alterius ancillam
+        </div>
+        <div xml:id="gd-p2c29q2-Dd1e226">
+          <head xml:id="gd-p2c29q2-Hd1e228">Dictum</head>
+          <p xml:id="gd-p2c29q2-d1e231">Queritur etiam , si seruus unius alterius ancillam
             acceperit, an sit coniugium inter eos? </p>
           <p xml:id="gd-p2c29q2-d1e235"> De his ita statutum est in Concilio Cabillo nens i [II.
             cap. 30.] : </p>
         </div>
         <div xml:id="gd-p2c29q2-Dd1e239">
-          <head xml:id="gd-p2c29q2-Hd1e241">C. VIII</head>
+          <head xml:id="gd-p2c29q2-Hd1e241">Caput 8</head>
           <head xml:id="gd-p2c29q2-Hd1e244" type="question-title"> Legitima seruorum coniugia sua
-            auctoritate domini non dirimant . </head>
-          <p xml:id="gd-p2c29q2-d1e247"> Dictum est nobis, quod quidam legitima seruorum matrimonia
+            auctoritate domini non dirimant.</head>
+          <p xml:id="gd-p2c29q2-d1e247"> 
+            Dictum est nobis, quod quidam legitima seruorum matrimonia
             potestatiua quadam presumptione dirimant, non adtendentes illud euangelii: „Quod Deus
-            coniunxit homonon separet." Unde nobis uisum est, ut coniugia seruorumnon dirimantur, et
-            si diuersos dominos habeant, sed inuno coniugio permanentes dominis seruiant suis. Et
-            hoc inillis obseruandum est, ubi legalis coniunctio fuit, et peruoluntatem dominorum.
+            coniunxit homo non separet." Unde nobis uisum est, ut coniugia seruorum non dirimantur, et
+            si diuersos dominos habeant, sed in uno coniugio permanentes dominis seruiant suis. Et
+            hoc in illis obseruandum est, ubi legalis coniunctio fuit, et per uoluntatem dominorum.
           </p>
         </div>
       </div>

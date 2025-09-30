@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VII. </title>
+        <title> QUESTIO 7</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VII. </title>
+          <title> QUESTIO 7</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,20 +53,21 @@
     </front>
     <body>
       <div xml:id="gd-p2c23q7">
-        <head xml:id="gd-p2c23q7-Hd1e103"> QUESTIO VII. </head>
-
+        <head xml:id="gd-p2c23q7-Hd1e103"> QUESTIO 7</head>
+        <div xml:id="gd-p2c23q7-Dd1e100">
+          <head xml:id="gd-p2c23q7-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c23q7-d1e106"> Nunc autem queritur, an heretici suis et ecclesiae rebus sint
-          expoliandif et qui possident hereticis ablata an dicanturpossidere aliena f </p>
-        <p xml:id="gd-p2c23q7-d1e109"> De his ita scribit Augustinus ad Vincentium, </p>
-        <p xml:id="gd-p2c23q7-d1e112"> [epist. XLVIII.]: </p>
+          expoliandi et qui possident hereticis ablata an dicantur possidere aliena </p>
+          <p xml:id="gd-p2c23q7-d1e109"> De his ita scribit Augustinus ad Vincentium,  [epist. XLVIII.]: </p>
+        </div>
         <div xml:id="gd-p2c23q7-Dd1e115">
-          <head xml:id="gd-p2c23q7-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c23q7-Hd1e117">Caput 1</head>
           <head xml:id="gd-p2c23q7-Hd1e120" type="question-title"> Res terrenae non nisi diuino uel
             humano iure tenentur. </head>
           <p xml:id="gd-p2c23q7-d1e123"> Quicumque uos ex occasione huius legis inperialis, non
             corrigendi dilectione, sed odio inimicandi persequitur, displicet nobis. Et quamuis res
             queque terrena non recte aquoquam possideri possit, nisi uel iure diuino, quo
-            cunctaiustorum sunt, uel iure humano, quod in potestate est regumterrae, (ideoque falso
+            cunctaiustorum sunt, uel iure humano, quod in potestate est regum terrae, (ideoque falso
             res appellatis uestras, quas nec iustepossidetis, et secundum leges terrenorum regum
             amittereiussi estis, frustraque dicitis , nos eis congregandis laboramus, cum scriptum
             legatis: , , Labores inpiorum* iustiedunt), “ sed tamen, quisquis ex occasione legis**
@@ -83,37 +82,38 @@
             paleam relinquimus aream Domini, neque propter pisces malosrumpimus retia Domini, neque
             propter hedos in finesegregandos deserimus gregem Domini, neque propteruasa facta in
             contumeliam migramus de domo Domini. </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c23q7-Dd1e128">
-          <head xml:id="gd-p2c23q7-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c23q7-Hd1e130">Caput 2</head>
           <head xml:id="gd-p2c23q7-Hd1e133" type="question-title"> Catholici non ideo aliena
             possident, quia ah hereticis ablata tenent. </head>
-          <p xml:id="gd-p2c23q7-d1e136"> Idem contra Petilianum, [lib. II. c. 43«] </p>
-          <p xml:id="gd-p2c23q7-d1e139"> Si de rebus uel locis ecclesiasticis, que , non tenetis,
-            querimini, possunt et Iudei se iustos dicere, et iniquitatemnobis obicere, quia locum,
+          <p xml:id="gd-p2c23q7-d1e139"> 
+            <ref xml:id="gd-p2c23q7-Rd1e133">Idem contra Petilianum, [lib. II. c. 43«] </ref>
+            Si de rebus uel locis ecclesiasticis, que , non tenetis,
+            querimini, possunt et Iudei se iustos dicere, et iniquitatem nobis obicere, quia locum,
             in quo inpii regnauerunt, modo Christiani possident. Quid ergo indignum, si ea,
-            quetenebant heretici, secundum parem Domini uoluntatem catholici tenent? Ad omnes
-            iniquos et inpios illa uoxDomini ualet: „Auferetur a uobis regnum Dei, et dabiturgenti
+            que tenebant heretici, secundum parem Domini uoluntatem catholici tenent? Ad omnes
+            iniquos et inpios illa uox Domini ualet: „Auferetur a uobis regnum Dei, et dabiturgenti
             facienti iusticiam/ An frustra scriptum est: , , Labores inpiorum pii edent? Quapropter
-            magis miraridebetis, quod adhuc tenetis aliquid, quam quod aliquidamisistis. Item [c.
-            59-] : §. i. Si qua iam concisi possidere cepistis, quia uobis ablata nobis Dominus
+            magis miraridebetis, quod adhuc tenetis aliquid, quam quod aliquid amisistis. 
+          </p>
+          <p xml:id="gd-p2c23q7-d1e136">
+            Item [c. 59-] : §. i. Si qua iam concisi possidere cepistis, quia uobis ablata nobis Dominus
             dedit, non ideo concupiscimus aliena, quia illius inperio, cuius suntomnia, facta sunt
             nostra, et iuste sunt nostra. Vos enim sutebamini ad precisionem, nos ad unitatem.
-            Alioquin etprimo populo Dei possent illi obicere alienae rei concupiscentiam, qui diuina
-            potestate ab eorum facie, qui eaterra male utebantur, expulsi sunt, et ipsi Iudei, a
-            quibusablatum est regnum secundum uerba Domini, et datumest genti facienti iusticiam,
+            Alioquin et primo populo Dei possent illi obicere alienae rei concupiscentiam, qui diuina
+            potestate ab eorum facie, qui ea terra male utebantur, expulsi sunt, et ipsi Iudei, a
+            quibus ablatum est regnum secundum uerba Domini, et datum est genti facienti iusticiam,
             possunt obicere alienae rei concupiscentiam, quia ecclesia Christi possidet ubi
             persecutores Christi regnabant. </p>
         </div>
         <div xml:id="gd-p2c23q7-Dd1e143">
-          <head xml:id="gd-p2c23q7-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c23q7-Hd1e145">Caput 3</head>
           <head xml:id="gd-p2c23q7-Hd1e148" type="question-title"> Res ecclesiasticae ah hereticis
-            iniuste possidentur*. Idem [epist. L. ad Bonifacium]. </head>
-          <p xml:id="gd-p2c23q7-d1e151"> Quod autem nobis obiciunt, quod res eorum concupiscamus et
+            iniuste possidentur</head>
+          <p xml:id="gd-p2c23q7-d1e151"> 
+            <ref xml:id="gd-p2c23q7-Rd1e149">Idem [epist. L. ad Bonifacium].</ref> 
+            Quod autem nobis obiciunt, quod res eorum concupiscamus et
             auferamus, utinam catholici fiant, et non solum que dicunt sua, sed etiam nostra
             nobiscum in pace etkaritate possideant. Usque adeo autem calumpniandi cupiditate
             cecantur, ut non adtendant, quam sint inter se contraria que loquuntur. Ipsi certe
@@ -127,53 +127,66 @@
             sufficiant possidemus, non sunt illa nostra, sed pauperum, quorum procurationem
             quodammodo gerimus, non proprietatem nobisusurpatione dampnabili uendicamus. Quicquid
             igiturnomine ecclesiarum partis s Donati possidebant, Christiani inperatores legibus
-            religiosis cum ipsis ecclesiis adcatholicam tranferre iusserunt. Cum ergo nobiscumsunt
+            religiosis cum ipsis ecclesiis ad catholicam tranferre iusserunt. Cum ergo nobiscumsunt
             plebes ecclesiarum earundem, nobiscum pauperes, qui de eisdem possessiunculis alebantur,
             ipsi pocius forispositi desinant concupiscere aliena, sed intrent unitatissocietatem, ut
             pariter gubernemus non illa tantum, quedicunt sua, uerum etiam que dicunt et nostra.
-            Scriptumest enim: „Omnia uestra, uos autem Christi, Christusautem Dei. </p>
+            Scriptumest enim: „Omnia uestra, uos autem Christi, Christus autem Dei. </p>
 
         </div>
         <div xml:id="gd-p2c23q7-Dd1e155">
-          <head xml:id="gd-p2c23q7-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c23q7-Hd1e157">Caput 4</head>
           <head xml:id="gd-p2c23q7-Hd1e160" type="question-title"> Qui a corpore Christi preciditur
             spiritum iusticiae tenere non potest. </head>
-          <p xml:id="gd-p2c23q7-d1e163"> Idem in epist. ad Vincentium *. </p>
-          <p xml:id="gd-p2c23q7-d1e166"> Quemadmodum membrum, si precidatur ab hominis uiui corpore,
-            non potest tenere spiritum uitae, sic homo, quipreciditur de Christi iusti corpore,
-            nullo modo potesttenere spiritum iusticiae, etiamsi figuram membri teneat, quam sumpsit
+          <p xml:id="gd-p2c23q7-d1e166">
+            <ref xml:id="gd-p2c23q7-Rd1e164">Idem in epist. ad Vincentium</ref>
+            Quemadmodum membrum, si precidatur ab hominis uiui corpore,
+            non potest tenere spiritum uitae, sic homo, qui preciditur de Christi iusti corpore,
+            nullo modo potest tenere spiritum iusticiae, etiamsi figuram membri teneat, quam sumpsit
             in corpore. In huius uero conpagem corporis ueniant, et labores suos non dominandi
-            cupiditate, sed bene utendi pietate possideant. Nos autem uoluntatemnostram, ut iam
-            dictum est, ab huius cupiditatis sordibusquolibet inimico iudicante purgamus, quando eos
-            ipsos, quorum labores dicuntur, ut nobiscum et illis, et nostrisin societate catholica
-            utantur, quantum ualemus, inquirimus.§. i. Sed hoc est, inquiunt, quod nos mouet: si
+            cupiditate, sed bene utendi pietate possideant. Nos autem uoluntatem nostram, ut iam
+            dictum est, ab huius cupiditatis sordibus quolibet inimico iudicante purgamus, quando eos
+            ipsos, quorum labores dicuntur, ut nobiscum et illis, et nostris in societate catholica
+            utantur, quantum ualemus, inquirimus.
+          </p>
+          <p xml:id="gd-p2c23q7-d1e167">
+            §. i. Sed hoc est, inquiunt, quod nos mouet: si
             iniusti sumus, quare nos queritis? Quibus respondemus: querimusuos iniustos, ne
-            permaneatis iniusti; querimus perditos, utde inuentis gaudere possimus, dicentes:
-            „Mortuus eratfrater, et reuixit; perierat, et inuentus est. Quare ergome, inquit, non
+            permaneatis iniusti; querimus perditos, ut de inuentis gaudere possimus, dicentes:
+            „Mortuus erat frater, et reuixit; perierat, et inuentus est. Quare ergome, inquit, non
             baptizas, ut abluas me a peccatis? Respondeo, quia non facio iniuriam caracteri
-            inperatoris, cumerrorem corrigo desertoris. Quare, inquit, apud te uelpenitenciam non
-            ago? Immo, nisi egeris, saluus esse nonpoteris. Quomodo enim gaudebis te esse correctum,
-            nisidoleas te fuisse peruersum? Quid ergo, inquiunt, apuduos, cum ad uos transimus,
+            inperatoris, cum errorem corrigo desertoris. Quare, inquit, apud te uelpenitenciam non
+            ago? Immo, nisi egeris, saluus esse non poteris. Quomodo enim gaudebis te esse correctum,
+            nisi doleas te fuisse peruersum? Quid ergo, inquiunt, apuduos, cum ad uos transimus,
             accipimus? Respondeo, nonquidem accipitis baptismum, qui uobis extra compagemcorporis
-            Christi inesse potuit, prodesse non potuit: sedaccipitis unitatem Spiritus in uinculo
-            pacis (sine qua nemopoterit uidere Deum) et karitatem, que, sicut scriptum est, operit
-            multitudinem peccatorum. §. 2. Si autemconsideremus quod scriptum est in libro
+            Christi inesse potuit, prodesse non potuit: sed accipitis unitatem Spiritus in uinculo
+            pacis (sine qua nemo poterit uidere Deum) et karitatem, que, sicut scriptum est, operit
+            multitudinem peccatorum. 
+          </p>
+          <p xml:id="gd-p2c23q7-d1e169">
+            §. 2. Si autem consideremus quod scriptum est in libro
             Sapientiae:„Ideo iusti tulerunt spolia inpiorum; item, quod legitur inProuerbiis: , ,
             Thesaurizantur autem iustis diuitiae inpiorum/ tunc uidebimus, non esse querendum, qui
-            habeantres hereticorum, sed qui sint in societate iustorum. Itempost aliqua : §. 3. Si
+            habeantres hereticorum, sed qui sint in societate iustorum. 
+          </p>
+          <p xml:id="gd-p2c23q7-d1e172">
+            Item post aliqua : §. 3. Si
             corpus Christi tollit spolia inpiorum, et corpori Christi thesaurizant diuitiae
             inpiorum, nondebent inpii foras remanere, ut calumpnientur, sed intrare ut pocius
-            iustificentur. Item post aliqua : §. 4. InChristi ergo conpagem corporis ueniant, et
+            iustificentur. Item post aliqua : 
+          </p>
+          <p xml:id="gd-p2c23q7-d1e174">
+            §. 4. In Christi ergo conpagem corporis ueniant, et
             labores suosnon dominandi cupiditate, sed bene utendi pietate possideant. Nos autem
             uoluntatem nostram, ut iam dictum est, ab huius cupiditatis sordibus quolibet inimico
-            iudicante pur-gauimus^, quando eos ipsos, quorum labores dicuntur, </p>
-
-
-
-
-          <p xml:id="gd-p2c23q7-d1e169"> ut nobiscum et illis, et nostris in societate catholica
+            iudicante purgauimus, quando eos ipsos, quorum labores dicuntur, 
+            ut nobiscum et illis, et nostris in societate catholica
             utantur, quantum ualemus, inquirimus. </p>
-          <p xml:id="gd-p2c23q7-d1e173"> Gratianus. His igitur auctoritatibus liquido monstratur,
+        </div>
+        <div xml:id="gd-p2c23q7-Dd1e177">
+          <head xml:id="gd-p2c23q7-Hd1e179">Dictum</head>
+          <p xml:id="gd-p2c23q7-d1e173">
+            His igitur auctoritatibus liquido monstratur,
             quod ea, que ab hereticis male possidentur, a catholicis iusteauferuntur, nec ideo
             aliena possidere dicuntur. </p>
         </div>

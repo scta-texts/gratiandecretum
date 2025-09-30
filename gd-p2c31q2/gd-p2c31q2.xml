@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,23 +53,22 @@
     </front>
     <body>
       <div xml:id="gd-p2c31q2">
-        <head xml:id="gd-p2c31q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c31q2-d1e106"> Quod autem aliqua non sit cogenda nubere alicui, Ambrosius
+        <head xml:id="gd-p2c31q2-Hd1e103"> QUESTIO 2 </head>
+        <div xml:id="gd-p2c31q2-Dd1e100">
+          <head xml:id="gd-p2c31q2-Hd1e102">Dictum</head>
+          <p xml:id="gd-p2c31q2-d1e106"> Quod autem aliqua non sit cogenda nubere alicui, Ambrosius
           testatur super primam epistolam ad Chorinthios: „ Nubat uidua cui uult: tantum in Domino ;
           id est quem sibi aptum putaueritilli nubat; quia inuitae nuptiae solent malos prouentus
           habere. </p>
-
-
-
-
-        <p xml:id="gd-p2c31q2-d1e109"> „Tantum autem in DominoId est , ut sine suspicione
+          <p xml:id="gd-p2c31q2-d1e109"> „Tantum autem in Domino Id est , ut sine suspicione
           turpitudinis nubat , et uiro suae religionis nubat . </p>
+        </div>
         <div xml:id="gd-p2c31q2-Dd1e112">
-          <head xml:id="gd-p2c31q2-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c31q2-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c31q2-Hd1e117" type="question-title"> Iuramento patris non cogitur
-            puella nubere , cui numquam assensum prebuit^*. </head>
-          <p xml:id="gd-p2c31q2-d1e120"> Item Iudicium Urbani Papae K Si uerum esse constiterit,
+            puella nubere, cui numquam assensum prebuit. </head>
+          <p xml:id="gd-p2c31q2-d1e120"> 
+            Item <ref xml:id="gd-p2c31q2-Rd1e121">Iudicium Urbani Papae</ref> Si uerum esse constiterit,
             quod nobis legati Iordanisprincipis retulerunt, scilicet, quod ipse coactus et
             dolensfiliam suam infantulam nolentem, flentem, et pro uiribusrenitentem, non
             assentientibus, sed ualde dolentibus matreet parentela, Rainaldo Rodelli filio
@@ -83,39 +80,43 @@
             Iordane sacramentum, quod ita constent hec, ut dicta sunt, accipiat, et nos canonum ac
             legumscita sequentes deinceps non prohibemus, quin alii uiro, siuoluerit, predicta filia
             eius tantum in Domino nubat. </p>
-          <p xml:id="gd-p2c31q2-d1e123"> [PALEA. C. II. </p>
-          <p xml:id="gd-p2c31q2-d1e126"> Econtra Hormisda Papa scribit Eusebio Episcopo*. </p>
-          <p xml:id="gd-p2c31q2-d1e130"> Tua sanctitas nos requisiuit, frater uenerande, de filio
+        </div>
+        <div xml:id="gd-p2c31q2-Dd1e125">
+          <head xml:id="gd-p2c31q2-Hd1e127">Caput 2</head>
+          <p xml:id="gd-p2c31q2-d1e130"> 
+            <ref xml:id="gd-p2c31q2-Rd1e131">Econtra Hormisda Papa scribit Eusebio Episcopo.</ref> 
+            Tua sanctitas nos requisiuit, frater uenerande, de filio
             adulto, quem pater matrimonium contrahere uult, si sineuoluntate filii adulti facere
-            potest. Ad quod dicimus, sialiquo modo non consentit filius, fieri non posse.
+            potest. Ad quod dicimus, si aliquo modo non consentit filius, fieri non posse.
             Potestautem de filio nondum adulto, uoluntas cuius nondum discerni potest, pater eum,
             cui uult, in matrimonium tradere, et post, quam filius peruenerit ad perfectam etatem,
             omninoobseruare et adinplere debet. Hoc ab omnibus orthodoxae fidei cultoribus sancitum
             a nobis tenendum mandamus.] </p>
         </div>
         <div xml:id="gd-p2c31q2-Dd1e134">
-          <head xml:id="gd-p2c31q2-Hd1e136">C. III</head>
-          <head xml:id="gd-p2c31q2-Hd1e139" type="question-title"> Quorum unum futurum est corpus ,
+          <head xml:id="gd-p2c31q2-Hd1e136">Caput 3</head>
+          <head xml:id="gd-p2c31q2-Hd1e139" type="question-title"> Quorum unum futurum est corpus,
             unus debet esse et animus: atque ideo nulla inuita est copulanda alicui. </head>
-          <p xml:id="gd-p2c31q2-d1e142"> , Item Sanctio *, Regi Aragonum . </p>
-          <p xml:id="gd-p2c31q2-d1e145"> De neptis tuae coniugio, quam te cuidam militi daturum
+          <p xml:id="gd-p2c31q2-d1e145"> 
+            Item <ref xml:id="gd-p2c31q2-Rd1e145">Sanctio, Regi Aragonum.</ref> 
+            De neptis tuae coniugio, quam te cuidam militi daturum
             necessitatis instante articulo sub fidei pollicitatione firmasti, hoc equitate dictante
-            decernimus, ut, si illa uirum illum, utdicitur, omnino rennuit, et in eadem uoluntatis
-            auctoritatepersistit, ut uiro illi prorsus se deneget nupturam, nequaquam eam inuitam et
+            decernimus, ut, si illa uirum illum, ut dicitur, omnino rennuit, et in eadem uoluntatis
+            auctoritate persistit, ut uiro illi prorsus se deneget nupturam, nequaquam eam inuitam et
             renitentem eiusdem uiri cogas sociariconiugio. Quorum enim unum corpus est, unus debet
             esseet animus, ne forte, cum uirgo fuerit alicui inuita copulata, contra Domini
             Apostolique preceptum aut reatum discidii, aut crimen fornicationis incurrat. Cuius
-            uidelicetpeccati malum in eum redundare constat, qui eam coniunxitinuitam. Quod pari
-            tenore de uiro est sentiendum. </p>
-
+            uidelicet peccati malum in eum redundare constat, qui eam coniunxitinuitam. Quod pari
+            tenore de uiro est sentiendum. 
+          </p>
         </div>
         <div xml:id="gd-p2c31q2-Dd1e150">
-          <head xml:id="gd-p2c31q2-Hd1e152">C. IV</head>
+          <head xml:id="gd-p2c31q2-Hd1e152">Caput 4</head>
           <head xml:id="gd-p2c31q2-Hd1e155" type="question-title"> Non licet deserere uiro quam
             premissis dotibus m publica attestatione duxit uxorem. </head>
-          <p xml:id="gd-p2c31q2-d1e158"> Item Nylcolaus Radualdo^c Portuensi , et Iohanni Ficolensi
-            Episcopis. </p>
-          <p xml:id="gd-p2c31q2-d1e161"> Lotharius rex (in conmonitorio* profitetur, Gualdra-dam se
+          <p xml:id="gd-p2c31q2-d1e161"> 
+            Item <ref xml:id="gd-p2c31q2-Rd1e160">Nylcolaus Radualdo Portuensi, et Iohanni Ficolensi Episcopis.</ref> 
+            Lotharius rex (in conmonitorio profitetur, Gualdradam se
             a patre accepisse, et sororem postmodum admisisse Huberti. Ubi primum diligenti
             inuestigatione inquirite, et si eundem gloriosum regem predictam Gualdradam premissis
             dotibus, coram testibus, secundum legem, et ritum, quo nuptiae celebrari solent, per
@@ -124,13 +125,16 @@
             filia Bosonis admissa. Sed quia idem gloriosusrex metu Thebergam se admisisse dicit,
             metu uniushominis non debuit tantus rex contra diuinum preceptumin inmane precipitium
             mergi. In hoc certe magis reprehensibilem se ostendit, in quo amorem Dei amori
-            mundipostposuit, cum nec etiam** occisores corporis sint timendi, contra iusticiam
+            mundipostposuit, cum nec etiam occisores corporis sint timendi, contra iusticiam
             hominem inpellentes. Nichil itaque precipimus aliud uobis, manifestatione sua eodem rege
             conui-cto, nisi ut secundum canonicam auctoritatem nostra uicefreti causam illius
             diffiniatis. Si uero minime probatumfuerit Gualdradam uxorem fuisse legitimam, neque
             nuptiismore celebratis, per benedictionem scilicet sacerdotis, filio nostro Lothario
             extitisse coniunctam, suggerite illi, utnon moleste ferat legitimam sibi (si ipsa
-            innocens apparuerit)' reconciliari uxorem. §. i. Preterea uos scireuolo, quia prefata
+            innocens apparuerit)' reconciliari uxorem. 
+          </p>
+          <p xml:id="gd-p2c31q2-d1e163">
+            §. i. Preterea uos scireuolo, quia prefata
             Theberga apostolicam sedem bis et terappellauit, et se a prefato glorioso rege questa
             est iniustefuisse deiectam, et ui coactam falsum contra se conposuissepiaculum. Nam eo
             tempore appellationis suae libellum adapostolicam sedem misit, in quo non quidem adhuc
@@ -142,11 +146,13 @@
             admisisse confessa fuisset, et econtra, illa uiolentiam se pertulisse proclamauerit, uel
             si inimicosiudices illos sibi fuisse testata fuerit, tunc illud renouetisiudicium
             secundum equitatis normam, ut iniusticiae molenon obprimatur. </p>
-          <p xml:id="gd-p2c31q2-d1e164"> Gratian. His auctoritatibus euidenter ostenditur , quod
-            nisi libera uoluntate nulla est copulanda alicui , </p>
-
-
-
+        </div>
+        <div xml:id="gd-p2c31q2-Dd1e166">
+          <head xml:id="gd-p2c31q2-Hd1e168">Dictum</head>
+          <p xml:id="gd-p2c31q2-d1e164">
+            His auctoritatibus euidenter ostenditur , quod
+            nisi libera uoluntate nulla est copulanda alicui. 
+          </p>
         </div>
       </div>
     </body>

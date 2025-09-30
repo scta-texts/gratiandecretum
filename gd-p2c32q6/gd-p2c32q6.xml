@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VI. </title>
+        <title> QUESTIO 6 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VI. </title>
+          <title> QUESTIO 6 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,8 +53,9 @@
     </front>
     <body>
       <div xml:id="gd-p2c32q6">
-        <head xml:id="gd-p2c32q6-Hd1e103"> QUESTIO VI. </head>
-        <p xml:id="gd-p2c32q6-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c32q6-Hd1e103"> QUESTIO 6 </head>
+        <div xml:id="gd-p2c32q6-Dd1e100">
+          <head xml:id="gd-p2c32q6-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c32q6-d1e109"> Ecce, quod ista dimitti non ualet, cum innocens a
           fornicatione inueniatur. Sed ponatur, quod ipsa sit adultera, queritur, si adulter possit
           dimittere eam causa fornicationis ? Non enimuidetur, quod pari crimine infectus alium de
@@ -66,8 +65,9 @@
           posteaeduces festucam de oculo fratris tui. </p>
         <p xml:id="gd-p2c32q6-d1e112"> Hinc etiam Augustinus scribit in lib. I. de sermone Domini in
           monte, [c. 28.] : </p>
+        </div>
         <div xml:id="gd-p2c32q6-Dd1e115">
-          <head xml:id="gd-p2c32q6-Hd1e117">C. I</head>
+          <head xml:id="gd-p2c32q6-Hd1e117">Caput 1</head>
           <head xml:id="gd-p2c32q6-Hd1e120" type="question-title"> Qui fornicatur fornicationis
             causa uxorem suam dimittere non potest.</head>
           <p xml:id="gd-p2c32q6-d1e123"> Nichil iniquius est quam causa fornicationis dimittere
@@ -77,48 +77,53 @@
             de feminadixerim. </p>
         </div>
         <div xml:id="gd-p2c32q6-Dd1e128">
-          <head xml:id="gd-p2c32q6-Hd1e130">C. II</head>
+          <head xml:id="gd-p2c32q6-Hd1e130">Caput 2</head>
           <head xml:id="gd-p2c32q6-Hd1e133" type="question-title"> Qualem quisque uult inuenire
             uxorem, talem se seruet eidem.</head>
-          <p xml:id="gd-p2c32q6-d1e136"> Idem de uerbis Domini, tractatu [siue serm.] XLVI . </p>
-          <p xml:id="gd-p2c32q6-d1e139"> Si ducturi estis uxores, seruate uos uxoribus uestris.
-            Quales uultis eas inuenire*, tales et ipsae uos inueniant.Quis iuuenis est, qui non
+          <p xml:id="gd-p2c32q6-d1e139"> 
+            <ref xml:id="gd-p2c32q6-Rd1e133">Idem de uerbis Domini, tractatu [siue serm.] XLVI.</ref> 
+            Si ducturi estis uxores, seruate uos uxoribus uestris.
+            Quales uultis eas inuenire, tales et ipsae uos inueniant. Quis iuuenis est, qui non
             castam uelit ducere uxorem? etsi accepturus est uirginem, quis non intactam
-            desideret?Intactam queris? intactus esto; queris puram? purus esto.Non enim illa potest,
+            desideret? Intactam queris? intactus esto; queris puram? purus esto. Non enim illa potest,
             et tu non potes. </p>
         </div>
         <div xml:id="gd-p2c32q6-Dd1e143">
-          <head xml:id="gd-p2c32q6-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c32q6-Hd1e145">Caput 3</head>
           <head xml:id="gd-p2c32q6-Hd1e148" type="question-title"> Iudicium de alio expetere non
-            debet qui dese iudicari contempnit . </head>
-          <p xml:id="gd-p2c32q6-d1e151"> Idem in epistola ad Pax entium, Comitem Arrianum, [epist.
-            CLXXIV.pOa </p>
-          <p xml:id="gd-p2c32q6-d1e154"> Iniquum est, ut quisque de alio iudicare uelit, et iudicari
+            debet qui de se iudicari contempnit. </head>
+          <p xml:id="gd-p2c32q6-d1e154"> 
+            <ref xml:id="gd-p2c32q6-Rd1e147">Idem in epistola ad Pax entium, Comitem Arrianum, [epist. CLXXIV.]</ref> 
+            Iniquum est, ut quisque de alio iudicare uelit, et iudicari
             de se nolit. </p>
         </div>
         <div xml:id="gd-p2c32q6-Dd1e158">
-          <head xml:id="gd-p2c32q6-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c32q6-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c32q6-Hd1e163" type="question-title"> Viri grauius sunt puniendi quam
             mulieres de adulterio.</head>
-          <p xml:id="gd-p2c32q6-d1e166"> Idem de adulterinis coniugiis, [lib. II. c. 8.] </p>
-          <p xml:id="gd-p2c32q6-d1e169"> Indignantur mariti, si audiant adulteros uiros pendere
+          <p xml:id="gd-p2c32q6-d1e169"> 
+            <ref xml:id="gd-p2c32q6-Rd1e162">Idem de adulterinis coniugiis, [lib. II. c. 8.] </ref>
+            Indignantur mariti, si audiant adulteros uiros pendere
             similes adulteris feminis penas, cum tanto grauius eospuniri oportuerit, quanto magis ad
-            eos pertinet et uirtuteuincere, et exemplo regere feminas. </p>
-
+            eos pertinet et uirtute uincere, et exemplo regere feminas. </p>
         </div>
         <div xml:id="gd-p2c32q6-Dd1e173">
-          <head xml:id="gd-p2c32q6-Hd1e175">C. V</head>
+          <head xml:id="gd-p2c32q6-Hd1e175">Caput 5</head>
           <head xml:id="gd-p2c32q6-Hd1e178" type="question-title"> Sicut uir est caput mulieris, sic
             adulterando grauius delinquit quam mulier.</head>
-          <p xml:id="gd-p2c32q6-d1e181"> Idem de decem cordis, [c. 3.] </p>
-          <p xml:id="gd-p2c32q6-d1e184"> „ Non mediaberis, “ id est non ibis ad aliquam aliam preter
+          <p xml:id="gd-p2c32q6-d1e184"> 
+            <ref xml:id="gd-p2c32q6-Rd1e176">Idem de decem cordis, [c. 3.]</ref>
+            „ Non mediaberis, “ id est non ibis ad aliquam aliam preter
             uxorem tuam. Tu autem exigis hoc ab uxore, etnon uis reddere hoc uxori? et cum debeas in
             uirtuteprecedere uxorem, (quoniam castitas uirtus est) tu sub unoimpetu libidinis cadis?
             et uis uxorem tuam uictricem esse, tu uictus iaces? et cum tu caput sis uxoris
             preceditte ad Deum cuius caput es? uis tuam domum capite deorsum pendere? Caput enim
             mulieris est uir. Ubi autemmelius uiuit mulier quam uir, capite deorsum pendet domus.Si
             caput est uir, melius debet uiuere uir, et precedere inomnibus bonis factis uxorem suam. </p>
-          <p xml:id="gd-p2c32q6-d1e187"> Gratian. His auctoritatibus monstratur, quod adulter
+        </div>
+        <div xml:id="gd-p2c32q6-Dd1e180">
+          <head xml:id="gd-p2c32q6-Hd1e182">Dictum</head>
+          <p xml:id="gd-p2c32q6-d1e187">His auctoritatibus monstratur, quod adulter
             adulteram dimittere non ualet. </p>
         </div>
       </div>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VII. </title>
+        <title> QUESTIO 7</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VII. </title>
+          <title> QUESTIO 7</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,15 +53,15 @@
     </front>
     <body>
       <div xml:id="gd-p2c26q7">
-        <head xml:id="gd-p2c26q7-Hd1e103"> QUESTIO VII. </head>
-
-        <p xml:id="gd-p2c26q7-d1e106"> I. Pars. De tempore uero satisfactionis, an sit inponen-dum
+        <head xml:id="gd-p2c26q7-Hd1e103"> QUESTIO 7</head>
+        <p xml:id="gd-p2c26q7-d1e106">De tempore uero satisfactionis, an sit inponendum
           morituris, Theodorus Cantuariensis Archiepiscopus inPenitenciali suo ita diffinit : </p>
         <div xml:id="gd-p2c26q7-Dd1e109">
-          <head xml:id="gd-p2c26q7-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c26q7-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c26q7-Hd1e114" type="question-title"> In periculo constitutis
             penitenciae quantitas non est inponenda, sed innotescenda.</head>
-          <p xml:id="gd-p2c26q7-d1e117"> Ab infirmis in periculo mortis positis pura est confessio
+          <p xml:id="gd-p2c26q7-d1e117"> 
+            Ab infirmis in periculo mortis positis pura est confessio
             peccatorum inquirenda, non tamen illis inponenda est quantitas penitenciae, sed
             innotescenda, et cum amicorum orationibus et elemosinarum studiis pondus penitenciae
             subleuandum, si forte migrauerint, ne obligati etconmunione et consortio ueniae fiant
@@ -71,94 +69,101 @@
             sibi inpositum diligenter obseruet, et ideo secundum auctoritatem canonicam, ne illis
             ianua pietatis clausauideatur, orationibus et consolationibus ecclesiasticis, .sacra
             unctione olei inuncti, secundum statuta sanctorum Patrum conmunione uiatici reficiantur. </p>
-          <p xml:id="gd-p2c26q7-d1e120"> II. Pars. Gratian. Aliis uero pro qualitate peccati
+        </div>
+        <div xml:id="gd-p2c26q7-Dd1e115">
+          <head xml:id="gd-p2c26q7-Hd1e117">Dictum</head>
+          <p xml:id="gd-p2c26q7-d1e120">
+            Aliis uero pro qualitate peccati
             etpresidentium arbitrio tempora penitenciae decernenda sunt. </p>
           <p xml:id="gd-p2c26q7-d1e123"> Unde Leo Papa [ep. LXXVII. al. LXXIX. ad Nicetam Episcopum,
-            c. 6.]*: </p>
+            c. 6.]: </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e127">
-          <head xml:id="gd-p2c26q7-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c26q7-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c26q7-Hd1e132" type="question-title"> Presidentium arbitrio prefigantur
             tempora penitudinis.</head>
           <p xml:id="gd-p2c26q7-d1e135"> Tempora penitudinis habita moderatione constituenda sunt
             tuo iudicio, prout conuersorum animos prospexeris esse deuotos, pariter etiam habentes
             etatis senilis intuitum, et periculorum quorumcumque, autegritudinum respicientes
-            necessitates. In quibus si </p>
-
-          <p xml:id="gd-p2c26q7-d1e138"> quis ita grauiter urgeatur, ut, dum adhuc penitet, de
+            necessitates. In quibus si  quis ita grauiter urgeatur, ut, dum adhuc penitet, de
             salute . ipsius desperetur, oportet ei per sacerdotalem sollicitudinem conmunionis
             gratia subueniri. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e142">
-          <head xml:id="gd-p2c26q7-Hd1e144">C. III</head>
-          <head xml:id="gd-p2c26q7-Hd1e147" type="question-title"> Et qualitas criminum^-, et
+          <head xml:id="gd-p2c26q7-Hd1e144">Caput 3</head>
+          <head xml:id="gd-p2c26q7-Hd1e147" type="question-title"> Et qualitas criminum, et
             contricio penitentium in satisfactione inponenda a sacerdote consideretur. </head>
-          <p xml:id="gd-p2c26q7-d1e150"> Item NyJcolaus Papa. </p>
-          <p xml:id="gd-p2c26q7-d1e153"> De his uero, qui pro criminibus penitenciam gerunt, et ad
+          <p xml:id="gd-p2c26q7-d1e153"> 
+            Item <ref xml:id="gd-p2c26q7-Rd1e149">NyJcolaus Papa.</ref>
+            De his uero, qui pro criminibus penitenciam gerunt, et ad
             cingulum miliciae reuertuntur, constat eos contrasacras regulas agere. Verum quia
             crimina non equaliasunt, perhibesque alios horum propter nimiam ebetudinemin
             desperationem cecidisse, alios ob hoc ad paganos fugisse: tibi hoc conmittimus
-            decernendum, nimirum, quiloca et tempus regionis illius, modum que culpae, nec non et
+            decernendum, nimirum, qui loca et tempus regionis illius, modum que culpae, nec non et
             penitenciam, et gemitus hominum ad confessionem uenientium presens positus inspicere
             uales. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e158">
-          <head xml:id="gd-p2c26q7-Hd1e160">C. IV</head>
+          <head xml:id="gd-p2c26q7-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c26q7-Hd1e163" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c26q7-d1e166"> Item ex Concilio Laudicensi, [c. 2.]His, qui diuersorum
-            peccatorum lapsus incurrunt, etoratione*, et confessione ac penitencia malorum suorum
+          <p xml:id="gd-p2c26q7-d1e166"> 
+            Item ex <ref xml:id="gd-p2c26q7-Rd1e163">Concilio Laudicensi, [c. 2.]</ref> His, qui diuersorum
+            peccatorum lapsus incurrunt, et oratione, et confessione ac penitencia malorum suorum
             perfectam conuersionem demonstrant, pro qualitatepeccati penitenciae tempus adtribuendum
-            est propter misericordiam et bonitatem Dei. Qui ergo huiusmodi sunt reuo-candi et ad
+            est propter misericordiam et bonitatem Dei. Qui ergo huiusmodi sunt reuocandi et ad
             conmunionem sunt applicandi. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e170">
-          <head xml:id="gd-p2c26q7-Hd1e172">C. V</head>
+          <head xml:id="gd-p2c26q7-Hd1e172">Caput 5</head>
           <head xml:id="gd-p2c26q7-Hd1e175" type="question-title"> Episcopi arbitrio pro qualitate
             peccati penitenciae ^tempora distribuantur. </head>
-          <p xml:id="gd-p2c26q7-d1e178"> Item ex Concilio Cartaginensi III., [c. 31.] Penitentibus
+          <p xml:id="gd-p2c26q7-d1e178">
+            Item ex <ref xml:id="gd-p2c26q7-Rd1e177">Concilio Cartaginensi III., [c. 31.] </ref>
+            Penitentibus
             secundum differendam peccatorum episcopi arbitrio penitenciae tempora decernantur. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e182">
-          <head xml:id="gd-p2c26q7-Hd1e184">C. VI</head>
+          <head xml:id="gd-p2c26q7-Hd1e184">Caput 6</head>
           <head xml:id="gd-p2c26q7-Hd1e187" type="question-title"> Sine personarum acceptione
             inploranti penitencia detur.</head>
-          <p xml:id="gd-p2c26q7-d1e190"> Item ex Concilio Cartaginensi IV. [c. 74. 75. 80. 82. 81. </p>
-          <p xml:id="gd-p2c26q7-d1e193"> 64.79.]« </p>
-          <p xml:id="gd-p2c26q7-d1e196"> Sacerdos penitenciam imploranti absque personaeacceptione
-            penitenciam secundum leges iniungat. Ne-gligentiores uero penitentes tardius
+          <p xml:id="gd-p2c26q7-d1e196"> 
+            Item ex <ref xml:id="gd-p2c26q7-Rd1e191">Concilio Cartaginensi IV. [c. 74. 75. 80. 82. 81. 64.79.]«</ref> 
+            Sacerdos penitenciam imploranti absque personaeacceptione
+            penitenciam secundum leges iniungat. Negligentiores uero penitentes tardius
             reconcilientur. Omniautem tempore ieiunii penitentibus manus a sacerdotibusinponantur.
-            Diebus etiam remissionis penitentes genuaflectant, mortuos in ecclesiam* efferant, et
-            sepeliant.Die autem dominico** non ieiunent. Nam qui dominico </p>
-
-
-
-
-          <p xml:id="gd-p2c26q7-d1e200"> die studiose ieiunat non creditur esse catholicus.
+            Diebus etiam remissionis penitentes genuaflectant, mortuos in ecclesiam efferant, et
+            sepeliant.Die autem dominico non ieiunent. Nam qui dominico 
+            die studiose ieiunat non creditur esse catholicus.
             Peni-tentes uero, qui leges penitenciae attente execuntur, si casu in itinere uel in
             mari mortui fuerint, ubi eis subuenirinon possit, memoria eorum et orationibus et
             oblationibusconmendetur. </p>
-          <p xml:id="gd-p2c26q7-d1e203"> Unde in VIII. Sinodo legitur *: </p>
+          <p xml:id="gd-p2c26q7-d1e203"> Unde in VIII. Sinodo legitur : </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e207">
-          <head xml:id="gd-p2c26q7-Hd1e209">C. VII</head>
+          <head xml:id="gd-p2c26q7-Hd1e209">Caput 7</head>
           <head xml:id="gd-p2c26q7-Hd1e212" type="question-title"> Tempus penitenciae qualitatem
             sequitur delicti . </head>
           <p xml:id="gd-p2c26q7-d1e215"> Pro qualitate delicti penitenciae tempus inpendatur. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e219">
-          <head xml:id="gd-p2c26q7-Hd1e221">C. VIII</head>
+          <head xml:id="gd-p2c26q7-Hd1e221">Caput 8</head>
           <head xml:id="gd-p2c26q7-Hd1e224" type="question-title"> Tempus et modus penitendi
-            delinquentibus presidentis inponatur iudicio . </head>
-          <p xml:id="gd-p2c26q7-d1e227"> Item*. </p>
-          <p xml:id="gd-p2c26q7-d1e230"> Hoc sit positum in iudicio eorum, qui presunt, uel quanto
+            delinquentibus presidentis inponatur iudicio.</head>
+          <p xml:id="gd-p2c26q7-d1e230"> 
+            <ref xml:id="gd-p2c26q7-Rd1e220">Item</ref> 
+            Hoc sit positum in iudicio eorum, qui presunt, uel quanto
             tempore, uel quali modo penitere debeant quidelinquunt, quia etas ad eruditionem multam
             facit haberidifferendam penae. </p>
-          <p xml:id="gd-p2c26q7-d1e233"> III. Pars. Gratian. Quo affectu penitentem suscipere
-            etinpenitentem abicere debeamus , ex eadem Sinodo euidenterostenditur , dum* dicitur*.
+        </div>
+        <div xml:id="gd-p2c26q7-Dd1e225">
+          <head xml:id="gd-p2c26q7-Hd1e227">Dictum</head>
+          <p xml:id="gd-p2c26q7-d1e233"> 
+            Quo affectu penitentem suscipere
+            etinpenitentem abicere debeamus , ex eadem Sinodo euidenterostenditur , dum dicitur.
           </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e237">
-          <head xml:id="gd-p2c26q7-Hd1e239">C. IX</head>
+          <head xml:id="gd-p2c26q7-Hd1e239">Caput 9</head>
           <head xml:id="gd-p2c26q7-Hd1e242" type="question-title"> Intimo karitatis affectu
             penitentem debemus suscipere.</head>
           <p xml:id="gd-p2c26q7-d1e245"> Penitentem ex corde ita oportet suscipi, sicut Dominus
@@ -166,36 +171,37 @@
             michi, quia inueni ouem meam, quam perdideram. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e250">
-          <head xml:id="gd-p2c26q7-Hd1e252">C. X</head>
+          <head xml:id="gd-p2c26q7-Hd1e252">Caput 10</head>
           <head xml:id="gd-p2c26q7-Hd1e255" type="question-title"> Penitentes legem Dei diligant ,
             iniquitatem odio habeant. </head>
-          <p xml:id="gd-p2c26q7-d1e258"> Item*. </p>
-          <p xml:id="gd-p2c26q7-d1e261"> Affectum illum in se recipiat penitens, quem gerebat ille,
-            qui dicebat: , , Iniquitatem odio habui, et abhomina-tus sum;“ secundum ea, que scripta
+          <p xml:id="gd-p2c26q7-d1e261"> 
+            <ref xml:id="gd-p2c26q7-Rd1e255">Item.</ref>
+            Affectum illum in se recipiat penitens, quem gerebat ille,
+            qui dicebat: "Iniquitatem odio habui, et abhomina-tus sum;“ secundum ea, que scripta
             sunt in sextoPsalmo atque in aliis quamplurimis; uel ea, que Apostolus dixit ad eos, qui
             secundum Deum contristati sunt:, , Quantum operatum est, “ inquit, , , in
             nobissollicitudinem, sed excusationem, sed indignationem, sedemulationem, sed uindictam.
-            In omnibus exhibuistis uoscautos^** esse negocio. Sed et ipsis in quibusdeliquit, agens
+            In omnibus exhibuistis uoscautos esse negocio. Sed et ipsis in quibusdeliquit, agens
             multa contraria, sicut et Zacheus fecit. </p>
 
         </div>
         <div xml:id="gd-p2c26q7-Dd1e265">
-          <head xml:id="gd-p2c26q7-Hd1e267">C. XI</head>
+          <head xml:id="gd-p2c26q7-Hd1e267">Caput 11</head>
           <head xml:id="gd-p2c26q7-Hd1e270" type="question-title"> Inpenitentes tamquam ethnici
             habeantur.</head>
-          <p xml:id="gd-p2c26q7-d1e273"> Item*. </p>
-          <p xml:id="gd-p2c26q7-d1e276"> Erga eum, qui peccata sua non punit, tales esse debemus,
+          <p xml:id="gd-p2c26q7-d1e276"> 
+            <ref xml:id="gd-p2c26q7-Rd1e269">Item.</ref> Erga eum, qui peccata sua non punit, tales esse debemus,
             sicut Dominus precepit, dicens: , , Sit tibi sicut gentilis et publicanuset sicut
             Apostolus docuit, dicens: „Subtrahite uos ab omni fratre ambulante inordinate et non
             secundum traditionem, quam tradidimus uobis. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e280">
-          <head xml:id="gd-p2c26q7-Hd1e282">C. XII</head>
+          <head xml:id="gd-p2c26q7-Hd1e282">Caput 12</head>
           <head xml:id="gd-p2c26q7-Hd1e285" type="question-title"> Melius est errare in misericordia
             remittendi quam in seueritate ulciscendi.</head>
-          <p xml:id="gd-p2c26q7-d1e288"> Item Iohannes Crisostomus , [id est auctor operis
-            imperfecti, homilia 43. ad c. 23. Matthaei.] </p>
-          <p xml:id="gd-p2c26q7-d1e291"> „ Alligant autem opera grauia et inportabilia, etc.“ Tales
+          <p xml:id="gd-p2c26q7-d1e291"> 
+            Item <ref xml:id="gd-p2c26q7-Rd1e283">Iohannes Crisostomus, [id est auctor operis imperfecti, homilia 43. ad c. 23. Matthaei.]</ref> 
+            „ Alligant autem opera grauia et inportabilia, etc.“ Tales
             sunt sacerdotes etiam nunc, qui omnem iusticiam populomandant, et ipsi nec modicam
             seruant, uidelicet, non utfaciendo sint, sed ut dicendo appareant iusti.Tales sunt qui
             graue pondus uenientibus ad penitenciam inponunt, quia dicunt, et non faciunt, et sic,
@@ -206,49 +212,46 @@
             scandalizatus amplius peccat . Deinde, etsierramus modicam penitenciam inponentes, nonne
             meliusest propter misericordiam rationem dare, quam propter crudelitatem? Ubi enim
             paterfamilias largus est, dispensator non debet esse tenax. Si Deus benignus, ut quid
-            sacerdos eius austerus uult°** apparere? </p>
+            sacerdos eius austerus uult° apparere? </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e295">
-          <head xml:id="gd-p2c26q7-Hd1e297">C. XIII</head>
+          <head xml:id="gd-p2c26q7-Hd1e297">Caput 13</head>
           <head xml:id="gd-p2c26q7-Hd1e300" type="question-title"> Kalendarum obseruationes agere
             non licet.</head>
-          <p xml:id="gd-p2c26q7-d1e303"> Item Martinus Papa , [c. 74.] </p>
-          <p xml:id="gd-p2c26q7-d1e306"> IV. Pars. Non licet iniquas obseruationes agerekalendarum,
+          <p xml:id="gd-p2c26q7-d1e306"> Item <ref xml:id="gd-p2c26q7-Rd1e297">Martinus Papa , [c. 74.]</ref> Non licet iniquas obseruationes agerekalendarum,
             et otiis uacare neque lauro aut uiriditatearborum cingere domos; omnis hec obseruatio
             paganorum est. </p>
-          <p xml:id="gd-p2c26q7-d1e309"> Zacliarias Papa [in Concilio Romano, c. 9.]*: </p>
-
-
-
-
+          <p xml:id="gd-p2c26q7-d1e309"> Zacliarias Papa [in Concilio Romano, c. 9.]: </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e313">
-          <head xml:id="gd-p2c26q7-Hd1e315">C. XIV</head>
+          <head xml:id="gd-p2c26q7-Hd1e315">Caput 14</head>
           <head xml:id="gd-p2c26q7-Hd1e318" type="question-title"> Anathema sit qui ritu paganorum
             kalendas obseruat. </head>
           <p xml:id="gd-p2c26q7-d1e321"> Si 123 qi kalendas Ianuarii ritu paganorum colere, uel
-            aliquid plus noui facere propter nouum annum**, aut mensas cum lampadibus uel epulis, in
+            aliquid plus noui facere propter nouum annum, aut mensas cum lampadibus uel epulis, in
             domibus preparare, et per uicos et plateas cantatores etchoros ducere presumpserit s,
             anathema sit. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e325">
-          <head xml:id="gd-p2c26q7-Hd1e327">C. XV</head>
+          <head xml:id="gd-p2c26q7-Hd1e327">Caput 15</head>
           <head xml:id="gd-p2c26q7-Hd1e330" type="question-title"> Infirmitatibus hominum
             incantationes nichil remedii prestant.</head>
-          <p xml:id="gd-p2c26q7-d1e333"> Item Augustinus *. </p>
-          <p xml:id="gd-p2c26q7-d1e336"> Ammoneant sacerdotes fideles populos, ut nouerint magicas
+          <p xml:id="gd-p2c26q7-d1e336"> 
+            Item <ref xml:id="gd-p2c26q7-Rd1e327">Augustinus.</ref> 
+            Ammoneant sacerdotes fideles populos, ut nouerint magicas
             artes incantationesque quibuslibet infirmitatibus hominum nichil posse remedii conferre;
-            non animalibus languentibus, claudicantibusue, uel etiam moribundis quicquam mederi**:
+            non animalibus languentibus, claudicantibusue, uel etiam moribundis quicquam mederi:
             sed hoc esse laqueos et insidiasantiqui hostis, quibus ille perfidus genus humanum
-            deciperenititur. Et si quis hec*** exercuerit, clericus degradetur, laicus
+            deciperenititur. Et si quis hec exercuerit, clericus degradetur, laicus
             anathematizetur. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e341">
-          <head xml:id="gd-p2c26q7-Hd1e343">C. XVI</head>
+          <head xml:id="gd-p2c26q7-Hd1e343">Caput XVI</head>
           <head xml:id="gd-p2c26q7-Hd1e346" type="question-title"> Dies Egipiiaci, et Ianuarii
             kalendae non sunt obseruandae.</head>
-          <p xml:id="gd-p2c26q7-d1e349"> Item Augustinus °*. </p>
-          <p xml:id="gd-p2c26q7-d1e352"> Non obseruetis dies, qui dicuntur Egiptiaci, aut kalendas
+          <p xml:id="gd-p2c26q7-d1e352"> 
+            Item <ref xml:id="gd-p2c26q7-Rd1e341">Augustinus</ref>
+            Non obseruetis dies, qui dicuntur Egiptiaci, aut kalendas
             Ianuarii, in quibus cantilenae quedam, et comessationes, et ad inuicem dona donantur,
             quasi in principio anni bonifati augurio, aut aliquos menses, aut tempora, aut dies, et
             annos, aut lunae et mensis solisque cursum, quiaqui et has, et quascumque diuinationes,
@@ -256,31 +259,34 @@
             sine causa, et magis ad sui dampnationemquam ad salutem tendit; siue per quosdam
             numeroslitterarum, et lunae, per Pitagoricam nigromantiamegrotantium uitam uel mortem,
             uel prospera uel aduersafutura inquirunt, siue qui adtendunt somnialia scripta, etfalso
-            in s Danielis nomine intitulata, et sortes, quedicuntur sanctorum Apostolorum, et
-            auguria auium, autaliqua pro domo facienda, aut coniugia copulanda, autin collectionibus
+            in s Danielis nomine intitulata, et sortes, que dicuntur sanctorum Apostolorum, et
+            auguria auium, autaliqua pro domo facienda, aut coniugia copulanda, aut in collectionibus
             herbarum carmina dicunt, aut pictatio-las pro quauis infirmitate scriptas, super homines
             autanimalia ponunt, preter simbolum et orationem dominicam, aut magicis falsitatibus in
-            grandinariis et tempestatibus credunt. Qui autem talibus credunt, aut ad eorumdomos
+            grandinariis et tempestatibus credunt. Qui autem talibus credunt, aut ad eorum domos
             euntes, aut suis domibus introducunt, ut interrogent, sciant, se fidem Christianam et
-            baptismum pre-uaricasse, et paganum, et apostatam, id est retro abeuntem et Dei
-            inimicum, iram Dei grauiter in eternumincurrisse, nisi ecclesiastica penitencia
+            baptismum preuaricasse, et paganum, et apostatam, id est retro abeuntem et Dei
+            inimicum, iram Dei grauiter in eternum incurrisse, nisi ecclesiastica penitencia
             emendatus Deoreconcilietur. Dicit enim Apostolus: , , Siue manducatis, siue bibitis,
             siue quid aliud facitis, in nomine Domininostri Iesu Christi facite, in quo uiuimus,
-            mouemur, etsumus. </p>
-
+            mouemur, et sumus. </p>
           <p xml:id="gd-p2c26q7-d1e355"> De temporum quoque obseruationibus scribit Augustinus in
-            Enchiridion , [c. 79-]*; </p>
+            Enchiridion , [c. 79-]; </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e359">
-          <head xml:id="gd-p2c26q7-Hd1e361">C. XVII</head>
+          <head xml:id="gd-p2c26q7-Hd1e361">Caput 17</head>
           <head xml:id="gd-p2c26q7-Hd1e364" type="question-title"> Graue peccatum est dies obseruare
-            , eJmenses et annos. </head>
-          <p xml:id="gd-p2c26q7-d1e367"> Quis existimaret, quam magnum peccatum sit dies obseruare,
+            menses et annos. </head>
+          <p xml:id="gd-p2c26q7-d1e367"> 
+            Quis existimaret, quam magnum peccatum sit dies obseruare,
             et menses, et annos, et tempora, (sicut obseruant qui certis diebus, siue mensibus, siue
             annis uoluntuel nolunt aliquid inchoare, eo quod secundum uanasdoctrinas hominum fausta
             uel infausta existiment tempora), nisi huius mali magnitudinem ex timore
             Apostolipensaremus, qui talibus ait: „Timeo uos, ne fortesine causa laborauerim in
-            uobis?“ Idem super epistolamad Galathas [ad c. 4.]: §. 1. Intelligat** lector ad
+            uobis?“ 
+          </p>
+          <p xml:id="gd-p2c26q7-d1e359">
+            Idem super epistolamad Galathas [ad c. 4.]: §. 1. Intelligat lector ad
             tantumpericulum animae pertinere supersticiosas temporum obser-uationes, ut dicat s
             Apostolus: „Timeo uos, ne fortesine causa laborauerim in uobis.“ Quod quamuis
             tantacelebritate atque auctoritate per orbem terrarum in ecclesiislegatur, plena sunt
@@ -289,11 +295,12 @@
             operum, diebus, quos Egiptiacos uocant, sepe etiam nos monere non dubitant. </p>
         </div>
         <div xml:id="gd-p2c26q7-Dd1e371">
-          <head xml:id="gd-p2c26q7-Hd1e373">C. XVIII</head>
+          <head xml:id="gd-p2c26q7-Hd1e373">Caput 18</head>
           <head xml:id="gd-p2c26q7-Hd1e376" type="question-title"> Sine incantatione herbas uel
             petras habere licet . </head>
-          <p xml:id="gd-p2c26q7-d1e379"> Item Ieronimus *. </p>
-          <p xml:id="gd-p2c26q7-d1e382"> Demonium sustinenti licet petras uel herbas habere sine
+          <p xml:id="gd-p2c26q7-d1e382">
+            Item <ref xml:id="gd-p2c26q7-Rd1e372">Ieronimus.</ref>
+            Demonium sustinenti licet petras uel herbas habere sine
             incantatione. </p>
         </div>
       </div>

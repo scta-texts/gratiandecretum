@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. </title>
+        <title> QUESTIO 2</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,42 +53,49 @@
     </front>
     <body>
       <div xml:id="gd-p2c28q2">
-        <head xml:id="gd-p2c28q2-Hd1e103"> QUESTIO II. </head>
-
-        <p xml:id="gd-p2c28q2-d1e106"> Quod uero uxore uiuente alteram ducere non possit*, testatur
-          scriptura**, dicens: „ Alioquin si disceditis ab inuicem, et uolentes cohabitare
-          dimittitis, a/zVs wos copulaueritis, adulteri </p>
-        <p xml:id="gd-p2c28q2-d1e109"> eritis, uestri, postea nascentur, erunt inmundi, id est </p>
-        <p xml:id="gd-p2c28q2-d1e112"> spurii. </p>
+        <head xml:id="gd-p2c28q2-Hd1e103"> QUESTIO 2</head>
+        <div xml:id="gd-p2c28q2-Dd1e100">
+          <head xml:id="gd-p2c28q2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c28q2-d1e106"> Quod uero uxore uiuente alteram ducere non possit, testatur
+          scriptura, dicens: „ Alioquin si disceditis ab inuicem, et uolentes cohabitare
+          dimittitis, a/zVs wos copulaueritis, adulteri eritis, uestri, postea nascentur, erunt inmundi, id est 
+          spurii. 
+        </p>
+        </div>
         <div xml:id="gd-p2c28q2-Dd1e115">
-          <head xml:id="gd-p2c28q2-Hd1e117"> C. I.</head>
-          <p xml:id="gd-p2c28q2-d1e120">Von potest aliquis baptismum alteram ducere uiuente ea, que
-            ante baptismum sibi fuerit uirgo copulata. </p>
-          <p xml:id="gd-p2c28q2-d1e123"> Item ex Concilio Meldensi, [c. i.] </p>
-          <p xml:id="gd-p2c28q2-d1e126"> Si quis habuerit uxorem uirginem ante baptismum, uiuente
-            illa post baptismum alteram habere non potest.Crimina enim in baptismo soluuntur, non
+          <head xml:id="gd-p2c28q2-Hd1e117">Caput 1</head>
+          <head xml:id="gd-p2c28q2-Hd1e113" type="quesetion-title">Non potest aliquis baptismum alteram ducere uiuente ea, que
+            ante baptismum sibi fuerit uirgo copulata. </head>
+          <p xml:id="gd-p2c28q2-d1e126">
+            Item ex <ref xml:id="gd-p2c28q2-Rd1e118">Concilio Meldensi, [c. i.]</ref>
+            Si quis habuerit uxorem uirginem ante baptismum, uiuente
+            illa post baptismum alteram habere non potest. Crimina enim in baptismo soluuntur, non
             coniugia. </p>
-          <p xml:id="gd-p2c28q2-d1e129"> Gregorius autem contra testatur, dicens*: </p>
+          <p xml:id="gd-p2c28q2-d1e129"> Gregorius autem contra testatur, dicens: </p>
 
         </div>
         <div xml:id="gd-p2c28q2-Dd1e134">
-          <head xml:id="gd-p2c28q2-Hd1e136">C. II</head>
+          <head xml:id="gd-p2c28q2-Hd1e136">Caput 2</head>
           <head xml:id="gd-p2c28q2-Hd1e139" type="question-title"> Licet fideli uxorem aliam ducere,
-            quarn^** Christianae fidei odio infidelis dimittit. </head>
-          <p xml:id="gd-p2c28q2-d1e142"> „ Si infidelis discedit odio Christianae fidei, discedat.
+            quarn Christianae fidei odio infidelis dimittit. </head>
+          <p xml:id="gd-p2c28q2-d1e142">Si infidelis discedit odio Christianae fidei, discedat.
             Non est enim frater aut soror subiectus seruituti in huius-modi.“ Non est enim peccatum
             dimisso propter Deum, sialii se copulauerit. Contumelia quippe creatoris soluit
             iusmatrimonii circa eum, qui relinquitur. Infidelis autem discedens et in Deum peccat,
-            et in matrimonium, nec est ei fidesseruanda coniugii, qui propterea discessit, ne
-            audiretChristum esse Deum*** Christianorum coniugiorum. </p>
-          <p xml:id="gd-p2c28q2-d1e145"> Gratian. Hic distinguendum est , aliud esse dimittere
+            et in matrimonium, nec est ei fides seruanda coniugii, qui propterea discessit, ne
+            audiret Christum esse Deum Christianorum coniugiorum. </p>
+        </div>
+        <div xml:id="gd-p2c28q2-Dd1e137">
+          <head xml:id="gd-p2c28q2-Hd1e13g">Dictum</head>
+          <p xml:id="gd-p2c28q2-d1e145">
+            Hic distinguendum est , aliud esse dimittere
             nolentem cohabitare, atque aliud discedentem non sequi. Volentem enim cohabitare licet
-            quidem dimittere, sed non ea uiuente aliamsuperducere; discedentem uero sequi non
-            oportet, et ea uiuentealiam ducere licet. Verum hoc non nisi de his intelligendum est ,
+            quidem dimittere, sed non ea uiuente aliam superducere; discedentem uero sequi non
+            oportet, et ea uiuente aliam ducere licet. Verum hoc non nisi de his intelligendum est ,
             qui in infidelitate sibi copulati sunt . Ceterum si ad fidemuterque conuersus est, uel
-            si uterque fidelis matrimonio coniun - ctus est, et procedente tempore alter eorum a
+            si uterque fidelis matrimonio coniunctus est, et procedente tempore alter eorum a
             fide discesserit , et odio fidei coniugem dereliquerit, derelictus discedentem
-            noncomitabitur; non tamen illa uiuente alteram ducere poterit, quiaratum coniugium
+            non comitabitur; non tamen illa uiuente alteram ducere poterit, quiaratum coniugium
             fuerat inter eos, quod nullo modo solui potest. </p>
 
         </div>

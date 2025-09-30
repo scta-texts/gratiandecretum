@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> questio VIII. </title>
+        <title> Questio 8 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> questio VIII. </title>
+          <title> Questio 8 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,28 +53,32 @@
     </front>
     <body>
       <div xml:id="gd-p2c32q8">
-        <head xml:id="gd-p2c32q8-Hd1e103"> questio VIII. </head>
-
+        <head xml:id="gd-p2c32q8-Hd1e103"> Questio 8 </head>
+        <div xml:id="gd-p2c32q8-Dd1e100">
+          <head xml:id="gd-p2c32q8-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c32q8-d1e106"> Cum itaque probatum sit, quod hic uxorem suam dimittere, et
-          aliam ducere non potest, queritur, si liceat ei hac condicionepeccare, ut infidelem ad
-          fidem adducat? Quod non posse fieriAugustinus affirmat, in lib. [I.] de adulterinis
+          aliam ducere non potest, queritur, si liceat ei hac condicione peccare, ut infidelem ad
+          fidem adducat? Quod non posse fieri Augustinus affirmat, in lib. [I.] de adulterinis
           coniugiis [c. 24.] ita dicens: </p>
+        </div>
         <div xml:id="gd-p2c32q8-Dd1e109">
-          <head xml:id="gd-p2c32q8-Hd1e111">C. UN</head>
+          <head xml:id="gd-p2c32q8-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c32q8-Hd1e114" type="question-title"> Non debet aliquis a continentiae
             uoto recedere, etiamsi infidelis Christianam se fieri polliceatur. </head>
-          <p xml:id="gd-p2c32q8-d1e117"> Non solum mechandum non est, (quod faciunt quidam, sed
+          <p xml:id="gd-p2c32q8-d1e117">
+            Non solum mechandum non est, (quod faciunt quidam, sed
             omnis, qui dimittit uxorem suam, et ducit alteram, etsi propterea duxerit, ut
             Christianam faciat, ) sed etiam quisquis non alligatus uxori continentiam Deo uouit,
-            nullo modo debet ista conpensatione peccare, ut ideo credatuxorem sibi esse ducendam,
+            nullo modo debet ista conpensatione peccare, ut ideo credat uxorem sibi esse ducendam,
             quia promisit que nuptias eiusappetit, futuram se esse Christianam. Quod enim
-            cuiquamante, quam uouisset, licebat, cum id se numquam facturumuouerit, non licebit: si
-            tamen id uouerit, quod uouendumsit, sicuti est perpetua uirginitas, uel post*
-            expertaconubia solutis a uinculo coniugali uidualis castitas, seuex consensu uouentibus
-            et carnalia debita sibi inuicemrelaxantibus fidelibus castisque coniugibus (quod
+            cuiquamante, quam uouisset, licebat, cum id se numquam facturu muouerit, non licebit: si
+            tamen id uouerit, quod uouendum sit, sicuti est perpetua uirginitas, uel post*
+            experta conubia solutis a uinculo coniugali uidualis castitas, seuex consensu uouentibus
+            et carnalia debita sibi inuicem relaxantibus fidelibus castisque coniugibus (quod
             alterumsine altera, uel alteram sine altero uouere fas non est)iugis continentia. Hec
-            ergo, et si qua alia sunt, querectissime uouentur, cum homines uouerint, nulla
-            condicionerumpenda sunt, que sine ulla condicione uouerunt. </p>
+            ergo, et si qua alia sunt, que rectissime uouentur, cum homines uouerint, nulla
+            condicione rumpenda sunt, que sine ulla condicione uouerunt. 
+          </p>
         </div>
       </div>
     </body>

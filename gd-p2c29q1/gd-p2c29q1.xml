@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 2</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,19 +53,26 @@
     </front>
     <body>
       <div xml:id="gd-p2c29q1">
-        <head xml:id="gd-p2c29q1-Hd1e103"> QUESTIO I. </head>
-
+        <head xml:id="gd-p2c29q1-Hd1e103"> QUESTIO 1</head>
+        <div xml:id="gd-p2c29q1-Dd1e100">
+          <head xml:id="gd-p2c29q1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c29q1-d1e106"> Quod autem coniugium sit inter eos, probatur hoc modo.
           Coniugium siue matrimonium est uiri et mulieris coniunctio, indiuiduam uitae consuetudinem
           retinens. Item consensus utriusque matrimonium facit. Quia ergo isti coniuncti sunt, ut
           indiuiduam uitae consuetudinem conseruarent, quia uterque consensitin alterum , coniuges
-          sunt appellandi. §. i. His ita respondetur:Consensus est duorum uel plurium sensus in
+          sunt appellandi. 
+        </p>
+        <p xml:id="gd-p2c29q1-d1e107">
+          §. i. His ita respondetur:Consensus est duorum uel plurium sensus in
           idem. Qui autemerrat non sentit, non ergo consentit, id est simul cum aliissentit . Hec
           autem errauit; non ergo consensit: non itaqueconiux est appellanda, quia non fuit ibi
           consensus utriusque, sinequo nullum matrimonium esse potest. Sicut enim qui ordinatur
           abeo, quem putat esse episcopum, et adhuc est laicus, errat, nec uo-catur ordinatus, immo
           adhuc ab episcopo est ordinandus: sic istaerrans nulli est copulata coniugio, immo adhuc
-          est copulanda. §. 2. Ad hec, non omnis error consensum euacuat; qui enimaccipit in uxorem
+          est copulanda. 
+        </p>
+        <p xml:id="gd-p2c29q1-d1e109">
+          §. 2. Ad hec, non omnis error consensum euacuat; qui enimaccipit in uxorem
           *, quam putat uirginem, uel qui accipit meretricem, quam putat esse castam, uterque errat
           , quia ille corruptam existimat esse uirginem, et iste meretricem reputat castam . Numquid
           ergo dicendi sunt non consensisse in eas f autdabitur utrique facultas dimittendi
@@ -84,10 +89,12 @@
           deciperet, numquid dicerer consensisse in auricalcum ? Numquam uolui emereauricalcum, nec
           ergo aliquando in illud consensi, quia consensusnon nisi uoluntatis est. Sicut ergo hic
           error materiae excluditconsensum, sic et in coniugio error personae. Non enim consensit in
-          hunc, sed in eum, quem hunc putabat esse. §. 3. Sed obicitur : Iacob non consenserat in
-          Liam, sed in Rachel:septem quidem annis pro Rachel seruierat. Cum ergo eo </p>
-
-        <p xml:id="gd-p2c29q1-d1e109"> ignorante Lia esset sibi subposita, non fuit coniugium inter
+          hunc, sed in eum, quem hunc putabat esse. 
+        </p>
+        <p xml:id="gd-p2c29q1-d1e111">
+          §. 3. Sed obicitur : Iacob non consenserat in
+          Liam, sed in Rachel:septem quidem annis pro Rachel seruierat. Cum ergo eo 
+          ignorante Lia esset sibi subposita, non fuit coniugium inter
           eos, si error personae consensum excludit, quia , ut dictum est, non ineam consenserat,
           sed in Rachel. His ita respondetur: Consensusest alius precedens, alius subsequens.
           Precedit consensus, quando ante carnalem copulam in indiuiduam uitae consuetudinem uter
@@ -95,7 +102,10 @@
           idem. Iacob ergo et Liamnon fecit coniuges precedens consensus, sed subsequens; nectamen
           ex primo concubitu fornicarii iudicantur, cum ille maritaliaffectu eam cognouerit, et illa
           uxorio affectu sibi debitum persol-uerit, putans lege primogenitarum et paternis irtperiis
-          se sibi iurecopulatam. §. 4. Quod autem error personae nonnullos excuset, illa auctoritate
+          se sibi iurecopulatam. 
+        </p>
+        <p xml:id="gd-p2c29q1-d1e114">
+          §. 4. Quod autem error personae nonnullos excuset, illa auctoritate
           probatur, qua soror uxoris utroque inscio, sororeuidelicet et marito, in lectulums eius
           iisse\ et a uiro suaesororis cognita perhibetur, que cum sine spe coniugii perpetuomanere
           censeatur, ille tamen, qui cognouit eam per ignorantiam, excusatur. Aliter etiam hoc
@@ -109,16 +119,20 @@
           incuius fidei sentenciam diceretur consensisse ? non in hereticorumsectam, sed in$
           integritatem catholicae fidei, quam ille hereticusse mentiebatur habere. Quia ergo hec
           persona decepta errore nonin hunc, sed in eum, quem iste se mentiebatur esse, consensit ,
-          patet, quod eius coniux non fuerit. §. 5. Error fortunae et </p>
-        <p xml:id="gd-p2c29q1-d1e112"> qualitatis non excludit consensum, ueluti si quis consentiret
+          patet, quod eius coniux non fuerit. 
+        </p>
+        <p xml:id="gd-p2c29q1-d1e116">
+          §. 5. Error fortunae et 
+          qualitatis non excludit consensum, ueluti si quis consentiret
           in prelaturam alicuius ecclesiae, quam putaret esse diuitem, et illaesset minus copiosa,
           quamuis hic deciperetur errore fortunae, nontamen posset renunciare prelaturae acceptae.
           Similiter, quenubit pauperi, putans illum esse diuitem, non potest renunciarepriori
-          condicioni, quamuis errauerit. Error qualitatis similiternon excludit consensum; utpote si
+          condicioni, quamuis errauerit. Error qualitatis similiter non excludit consensum; utpote si
           quis emerit agrum uel uineam, quam putaret esse uberrimam, quamuis iste erraret qualitate
-          rerum, rem minus fertilem emendo, non potest tamen uen-ditionem rescindere. Similiter, qui
-          ducit meretricem in uxoremuel corruptam, quam putat esse castam uel uirginem, non
-          potesteam dimittere, et^° aliam ducere. </p>
+          rerum, rem minus fertilem emendo, non potest tamen uenditionem rescindere. Similiter, qui
+          ducit meretricem in uxorem uel corruptam, quam putat esse castam uel uirginem, non
+          potesteam dimittere, et aliam ducere. </p>
+        </div>
       </div>
     </body>
   </text>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,21 +53,27 @@
     </front>
     <body>
       <div xml:id="gd-p2c31q3">
-        <head xml:id="gd-p2c31q3-Hd1e103"> QUESTIO III. </head>
-
-        <p xml:id="gd-p2c31q3-d1e106"> Quod autem post parentum sponsionem aliis nubere non ualeant,
+        <head xml:id="gd-p2c31q3-Hd1e103">QUESTIO 3</head>
+        <div xml:id="gd-p2c31q3-Dd1e100">
+          <head xml:id="gd-p2c31q3-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c31q3-d1e106">Quod autem post parentum sponsionem aliis nubere non ualeant,
           auctoritate Elibertani Concilii [c. 54.] monstratur, qua dicitur : </p>
+        </div>
         <div xml:id="gd-p2c31q3-Dd1e109">
-          <head xml:id="gd-p2c31q3-Hd1e111">C. UN</head>
+          <head xml:id="gd-p2c31q3-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c31q3-Hd1e114" type="question-title"> De parentibus, qui fidem frangunt
             sponsaliorum.</head>
-          <p xml:id="gd-p2c31q3-d1e117"> Si qui parentes fidem fregerint sponsaliorum, triennii
-            tempore a conmunione abstineant. Si uero idemsponsus uel sponsa in illo graui crimine
-            non fuerint* deprehensi, excusati erunt parentes. Si uero in eodemfuerint uicio, et
+          <p xml:id="gd-p2c31q3-d1e117">
+            Si qui parentes fidem fregerint sponsaliorum, triennii
+            tempore a conmunione abstineant. Si uero idem sponsus uel sponsa in illo graui crimine
+            non fuerint deprehensi, excusati erunt parentes. Si uero in eodem fuerint uicio, et
             polluerint se consentiendo, superior sentencia seruetur. </p>
-          <p xml:id="gd-p2c31q3-d1e120"> Gratian. Ecce, quod non licet parentibus sponsalia filiorum
+        </div>
+        <div xml:id="gd-p2c31q3-Dd1e120">
+          <head xml:id="gd-p2c31q3-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c31q3-d1e120">Ecce, quod non licet parentibus sponsalia filiorum
             suorum frangere. Verum hoc de illis intelligendum est, que illorum consensu
-            contrahuntur. </p>
+            contrahuntur.</p>
         </div>
       </div>
     </body>

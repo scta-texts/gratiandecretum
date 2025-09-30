@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -11,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -53,80 +53,90 @@
     </front>
     <body>
       <div xml:id="gd-p2c24q1">
-        <head xml:id="gd-p2c24q1-Hd1e103"> QUESTIO I. </head>
-
+        <head xml:id="gd-p2c24q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c24q1-Dd1e100">
+          <head xml:id="gd-p2c24q1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c24q1-d1e106"> Quod autem ab heretice aliquis deponi aut excommunicari non
           possit, facile probatur. Omnis enim hereticus aut iamdampnatam heresim sequitur, aut nouam
           confingit. Qui ueroheresim iam dampnatam sequitur, eius dampnationis se participem facit. </p>
         <p xml:id="gd-p2c24q1-d1e109"> Unde cum Achatius absque sinodali auctoritate ab Apostolici)
-          se dampnatum quereretur, contra Gelasius * scribit, dicens: </p>
+          se dampnatum quereretur, contra Gelasius  scribit, dicens: </p>
+        </div>
         <div xml:id="gd-p2c24q1-Dd1e112">
-          <head xml:id="gd-p2c24q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c24q1-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c24q1-Hd1e117" type="question-title"> Qui in iam dampnatam heresim
             labitur, eiusdampnationis se participem facit. </head>
-          <p xml:id="gd-p2c24q1-d1e120"> Achatius non est inuentor factus noui erroris, sed uete-ris
+          <p xml:id="gd-p2c24q1-d1e120"> Achatius non est inuentor factus noui erroris, sed ueteris
             imitator, atque ideo non erat necessarium, ut aduersus eum noua scita prodirent, sed
             antiqua tantummodo reno-uarentur. Factus sum itaque executor ueteris constituti, non
-            promulgator noui. Quicumque enim in heresim semeldampnatam labitur, eius dampnatione se
+            promulgator noui. Quicumque enim in heresim semel dampnatam labitur, eius dampnatione se
             ipsum inuoluit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e124">
-          <head xml:id="gd-p2c24q1-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c24q1-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c24q1-Hd1e129" type="question-title"> Non est retractandum quod semel
             sinodus statuit contra unamquamque heresim.</head>
-          <p xml:id="gd-p2c24q1-d1e132"> Idem [in epistola ad Episcopos Dardaniae] . </p>
-          <p xml:id="gd-p2c24q1-d1e135"> Maiores nostri diuina inspiratione cernentes necessarie
+          <p xml:id="gd-p2c24q1-d1e135"> 
+            <ref xml:id="gd-p2c24q1-Rd1e133">Idem [in epistola ad Episcopos Dardaniae].</ref> 
+            Maiores nostri diuina inspiratione cernentes necessarie
             precauerunt, ut quod contra unamquamque heresim coacta semel sinodus pro fidei
-            conmunione et ueritatecatholica atque apostolica promulgasset non sinerent nouisposthec
+            conmunione et ueritate catholica atque apostolica promulgasset non sinerent nouis post hec
             retractationibus mutilari, ne prauis occasio prebeatur que medicinaliter fuerant statuta
-            pulsandi, sed, auctore cuiuslibet insaniae, ac pariter^ errore dampnato, sufficere
-            iudicarunt, ut quisquis aliquando huius erroriscommunicator existeret, principali
-            sentencia dampnationiseius esset obstrictus. $. i. Sic Sabellium dampnauitsinodus, nec
+            pulsandi, sed, auctore cuiuslibet insaniae, ac pariter errore dampnato, sufficere
+            iudicarunt, ut quisquis aliquando huius erroris communicator existeret, principali
+            sentencia dampnationis eius esset obstrictus. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e136">
+            $. i. Sic Sabellium dampnauitsinodus, nec
             fuit necesse, ut eius sectatores postea dampna-rentur; sed pro tenore constitutionis
             antiquae, qui uelprauitatis illius uel communionis extitere participes, uni-uersalis
             ecclesia duxit esse refutandos. Sic Arrium, Eu-nomium, Macedonium, Nestorium, sinodus
             semel gestacondempnans, ulterius ad noua concilia uenire non sinit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e140">
-          <head xml:id="gd-p2c24q1-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c24q1-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c24q1-Hd1e145" type="question-title"> Non ultra eum procedere oportet,
             qui in heresim dampnatam recidit. </head>
-          <p xml:id="gd-p2c24q1-d1e148"> Item EeZ/#*. </p>
-          <p xml:id="gd-p2c24q1-d1e151"> Achatius non fuit noui uel proprii inuentor erroris, ut in
+          <p xml:id="gd-p2c24q1-d1e151"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e149">EeZ</ref>
+            Achatius non fuit noui uel proprii inuentor erroris, ut in
             eum noua scita procederent; sed alieno facinori suamconmunionem miscuit. Itaque necesse
             est, ut in illamrecideret iusta lance sentenciam, quam cum suis successoribus per
-            conuenientiam** sinodalem susceperat auctorerroris. </p>
-          <p xml:id="gd-p2c24q1-d1e154"> Gratian. Si ergo ille episcopus in heresim iam dampnatam
-            lapsus est, antiqua excommunicatione dampnatus alios dampnare </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e158"> non poterat. Excommunicatus enim alios excommunicare non
+            conuenientiam sinodalem susceperat auctorerroris. </p>
+        </div>
+        <div xml:id="gd-p2c24q1-Dd1e154">
+          <head xml:id="gd-p2c24q1-Hd1e156">Dictum</head>
+          <p xml:id="gd-p2c24q1-d1e154">
+            Si ergo ille episcopus in heresim iam dampnatam
+            lapsus est, antiqua excommunicatione dampnatus alios dampnare 
+            non poterat. Excommunicatus enim alios excommunicare non
             ualet. </p>
-          <p xml:id="gd-p2c24q1-d1e161"> Unde Alexander II. scribit Valeriano Episcopo, Martiris*.
+          <p xml:id="gd-p2c24q1-d1e161"> Unde Alexander II. scribit Valeriano Episcopo, Martiris.
           </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e165">
-          <head xml:id="gd-p2c24q1-Hd1e167">C. IV</head>
-          <head xml:id="gd-p2c24q1-Hd1e170" type="question-title"> Excommunicatus alium?*
+          <head xml:id="gd-p2c24q1-Hd1e167">Caput 4</head>
+          <head xml:id="gd-p2c24q1-Hd1e170" type="question-title"> Excommunicatus alium?
             excommunicare non potest.</head>
           <p xml:id="gd-p2c24q1-d1e173"> Audiuimus, quod Henricus, Rauennas dictus archiepiscopus,
             nisus sit te excommunicare. Verum, quia excommunicatus te non potuit excommunicare,
             apostolica auctoritate te tuosque absoluendo mandamus exinde numquam curare. </p>
-          <p xml:id="gd-p2c24q1-d1e176"> Gratian. Si autem** ex corde suo nouam heresim confinxit ,
-            ex quo talia predicare cepit*, neminem dampnare potuit, quia non potest deicere quemquam
+        </div>
+        <div xml:id="gd-p2c24q1-Dd1e177">
+          <head xml:id="gd-p2c24q1-Hd1e179">Dictum</head>
+          <p xml:id="gd-p2c24q1-d1e176">Si autem ex corde suo nouam heresim confinxit ,
+            ex quo talia predicare cepit, neminem dampnare potuit, quia non potest deicere quemquam
             iam prostratus. Ligandinamque uel soluendi potestas ueris, non falsis sacerdotibus
-            aDomino tradita est. Apostolis enim dicturus: , , Quorum**remiseritis peccata , etc.
-            premisit: , , Accipite * Spiritum sanctum, ut euidenter cunctis ostenderet, eum, qui
+            aDomino tradita est. Apostolis enim dicturus: , , Quorumremiseritis peccata , etc.
+            premisit: , , Accipite  Spiritum sanctum, ut euidenter cunctis ostenderet, eum, qui
             Spiritum sanctumnon habet, peccata non posse tenere uel remittere. Porro Spiritum
             sanctum nemo nisi intra ecclesiam accipit, quia et ipsamunitatem facit per gratiam. §.
             i. Unde non nisi congregatis inunum dictum est: „ Accipite Spiritum sanctum, nec nisi
             supercongregatos in unum die pentecostes descendit Spiritus sanctus.Sicut autem extra
-            ecclesiam non accipitur, ita extra eam nichiloperatur. Cum ergo, sicut *' Apostolus ait,
-            Spiritus postulet***, Spiritus inpetret, extra ecclesiam nec postulare facit, nec
-            inpetrare. Unde Dominus dicturus: , , Quodcumque * petieritis, etc. premisit: , , Si duo
-            ex uobis consenserint super ter-ram^, etc. Et iterum: „ Ubicumque ?** duo uel tres
+            ecclesiam non accipitur, ita extra eam nichiloperatur. Cum ergo, sicut ' Apostolus ait,
+            Spiritus postulet, Spiritus inpetret, extra ecclesiam nec postulare facit, nec
+            inpetrare. Unde Dominus dicturus: , , Quodcumque  petieritis, etc. premisit: , , Si duo
+            ex uobis consenserint super ter-ram^, etc. Et iterum: „ Ubicumque ? duo uel tres
             congregati fuerint in nomine meo, ibi et^s ego sum in medio eorum ;nimirum cunctis
             ostendens, se non habitare in cordibus eorum, qui superbiae singularitatem secuti a
             corporis Christi conpagesemetipsos abrumpunt. In quibus autem Christus non habitat, in
@@ -136,8 +146,8 @@
             nec reconciliando ecclesiasticae conmunioni reddere, nec excommunicando eius societate
             priuare, qua ipsi , heresi uel scismatepolluti siue sentencia notati, penitus carere
             probantur. Unde, cum Dominus omnibus discipulis parem ligandi atque soluendipotestatem
-            daret?*?*, Petro pro omnibus et pre omnibus clauesregni celorum se daturum promisit,
-            dicens: „Tibi ?* dabo clauesregni celorumQuicumque ergo ob unitate ecclesiae {que
+            daret??, Petro pro omnibus et pre omnibus clauesregni celorum se daturum promisit,
+            dicens: „Tibi ? dabo clauesregni celorum Quicumque ergo ob unitate ecclesiae {que
             perPetrum intelligitur) fuerit alienus, execrare non potest , consecrare non ualet;
             excommunicationis uel reconciliationis potestatem non habet. Unde Apostolus, cum
             fornicatorem Corinthiumexcommunicandum scriberet, ait : , , Ego quidem absens corpore,
@@ -156,20 +166,20 @@
             infidelibus autem supposuit, dicens : „Eos, qui foris sunt, Dominus iudicabitP De his
             autem qui intus sunt, nobis iudiciumconmisit. Sicut autem ex eo, quod Apostolus ait: „
             Frater, etex his, que de fidelibus et infidelibus supposuit, apparet, non nisifidelem
-            excommunicandum, ita ex eo, quod fidelibus tantum hocscribitur, uel potius, quia sicut
+            excommunicandum, ita ex eo, quod fidelibus tantum hoc scribitur, uel potius, quia sicut
             ille, qui benedicit, maior est eo, cui benedicitur, ita qui ex offitio maledicit maior
             est eo, cuimaledicitur , liquido constat, eum, qui ab integritate catholicaefidei
             recedit, maledicendi uel benedicendi potestatem minime habere. Catholicum namque, utpote
             superiorem se, maledicerenon ualet; in alienum a fide, tamquam in sibi equalem ,
             sentenciamdare non potest. Hec autem, que de hereticis, atque scismaticis, uel
-            excommunicatis dicta sunt, uidelicet , quod ligandi uel soluendipotestatem, non habeant,
+            excommunicatis dicta sunt, uidelicet , quod ligandi uel soluendi potestatem, non habeant,
             multorum auctoritatibus probantur. </p>
 
           <p xml:id="gd-p2c24q1-d1e179"> Ait enim Leo Papa [serm. III. in anniuersario suae
             assum-tionis, et serm. II. de natali Apostolorum]: </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e183">
-          <head xml:id="gd-p2c24q1-Hd1e185">C. V</head>
+          <head xml:id="gd-p2c24q1-Hd1e185">Caput 5</head>
           <head xml:id="gd-p2c24q1-Hd1e188" type="question-title"> Non soluitur uel ligatur nisi
             quem auctoritas B. Petri soluerit aut ligauerit. </head>
           <p xml:id="gd-p2c24q1-d1e191"> Manet ergo Petri priuilegium, ubicumque ex ipsius equitate
@@ -177,13 +187,13 @@
             ligatum, nisi quod B. Petrus aut ligauerit, aut soluerit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e195">
-          <head xml:id="gd-p2c24q1-Hd1e197">C. VI</head>
+          <head xml:id="gd-p2c24q1-Hd1e197">Caput 6</head>
           <head xml:id="gd-p2c24q1-Hd1e200" type="question-title"> In persona Petri ecclesia ligandi
             et soluendi potestatem accepit. </head>
           <p xml:id="gd-p2c24q1-d1e206"> 
             Item <ref xml:id="gd-p2c24q1-Rd1e205">Augustinus super Iohannem, [tract. L. ad c. 12.]</ref> 
             <cit>
-              <quote xml:id="gd-p2c24q1-Qd1e210" source="http://scta.info/resource/iuy75t-d1e451-d1e856" synch="109-198">
+              <quote xml:id="gd-p2c24q1-Qd1e210" source="http://scta.info/resource/iuy75t-d1e451-d1e856@109-198">
                 Quodcumque ligaueris super terram, erit ligatum et in celo.
                 Si Petro hoc tantum dictum est, non hoc facit ecclesia. Si autem et in ecclesia fit,
                 (utique que in terra ligantur et in celo, et que soluuntur in terra soluta sunt et^ in
@@ -196,19 +206,15 @@
           </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e210">
-          <head xml:id="gd-p2c24q1-Hd1e212">C. VII</head>
+          <head xml:id="gd-p2c24q1-Hd1e212">Caput 7</head>
           <head xml:id="gd-p2c24q1-Hd1e215" type="question-title"> Suis meritis firmus nonnumquam
             turbatur alienis. </head>
           <p xml:id="gd-p2c24q1-d1e221"> 
-            Item <ref xml:id="gd-p2c24q1-Rd1e226">Ambrosius [ad c. 5. Lucae]*.</ref>
+            Item <ref xml:id="gd-p2c24q1-Rd1e226">Ambrosius [ad c. 5. Lucae].</ref>
             Non turbatur nauis, que Petrum habet: turbatur illa, que
             ludam habet. Etsi multa illic discipulorum merita nauiga-bant, tamen adhuc eam
-            proditoris perfidia agitabat. Inutraque Petrus: sed qui suis meritis firmus est turbatur </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e224"> alienis. Caueamus igitur perfidum, caueamus proditorem, ne
+            proditoris perfidia agitabat. Inutraque Petrus: sed qui suis meritis firmus est turbatur 
+            alienis. Caueamus igitur perfidum, caueamus proditorem, ne
             per unum plurimi fluctuemus. Ergo non turbatur hecnauis, in qua prudentia nauigat, abest
             perfidia, fides superat. Quemadmodum enim turbari poterat, cui preeratis, in quo
             ecclesiae firmamentum est? Illic ergo turbatio, ubimodica fides: ibi securitas, ubi
@@ -219,88 +225,94 @@
             fidei tamenplenitudo conplectitur. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e228">
-          <head xml:id="gd-p2c24q1-Hd1e230">C. VIII</head>
+          <head xml:id="gd-p2c24q1-Hd1e230">Caput 8</head>
           <head xml:id="gd-p2c24q1-Hd1e233" type="question-title"> Solus Petrus mandatum accepit ,
             ut amo piscem caperet. </head>
-          <p xml:id="gd-p2c24q1-d1e236"> Idem [ibidem paulo inferius]. </p>
-          <p xml:id="gd-p2c24q1-d1e239"> Est aliud apostolicum piscandi genus, quo genere solum
+          <p xml:id="gd-p2c24q1-d1e239"> 
+            <ref xml:id="gd-p2c24q1-Rd1e247">Idem [ibidem paulo inferius].</ref> 
+            Est aliud apostolicum piscandi genus, quo genere solum
             Petrum piscari Dominus iubet, dicens: „ Mitte hamum, et eum piscem, qui primum
             ascenderit, tolle.“ </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e244">
-          <head xml:id="gd-p2c24q1-Hd1e246">C. IX</head>
+          <head xml:id="gd-p2c24q1-Hd1e246">Caput 9</head>
           <head xml:id="gd-p2c24q1-Hd1e249" type="question-title"> Nulla perturbatio a tramite
-            apostolicae sedis retrahat , que omnes hereses semper destruxit. </head>
-          <p xml:id="gd-p2c24q1-d1e252"> Item Lucius Papa omnibus Episcopis. </p>
-          <p xml:id="gd-p2c24q1-d1e255"> A recta fide ergo et apostolico tramite propter ullam
-            perturbationem nolite recedere, scientes, quoniamiuxta Saluatoris sentenciam beati sunt
-            qui persecutionempatiuntur propter iusticiam. Hec est Apostolorum uiuatraditio; hec uera
-            karitas, que predicanda est, et precipuediligenda ac fouenda, atque fiducialiter ab
-            omnibus tenenda;hec sancta et apostolica mater ecclesiarum omnium Christiecclesia, que
+            apostolicae sedis retrahat, que omnes hereses semper destruxit. </head>
+          <p xml:id="gd-p2c24q1-d1e255"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e261">Lucius Papa omnibus Episcopis.</ref> 
+            A recta fide ergo et apostolico tramite propter ullam
+            perturbationem nolite recedere, scientes, quoniam iuxta Saluatoris sentenciam beati sunt
+            qui persecutionempatiuntur propter iusticiam. Hec est Apostolorum uiua traditio; hec uera
+            karitas, que predicanda est, et precipue diligenda ac fouenda, atque fiducialiter ab
+            omnibus tenenda; hec sancta et apostolica mater ecclesiarum omnium Christi ecclesia, que
             per Dei omnipotentis gratiam a tramite apostolicae traditionis numquam errasse probatur,
-            nec hereticisnouitatibus deprauanda succubuit, sed, ut in exordionormam fidei
+            nec hereticis nouitatibus deprauanda succubuit, sed, ut in exordionormam fidei
             Christianae percepit ab auctoribus suis Apostolorum principibus Christi, illibata
             fidetenus manet. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e259">
-          <head xml:id="gd-p2c24q1-Hd1e261">C. X</head>
+          <head xml:id="gd-p2c24q1-Hd1e261">Caput 10</head>
           <head xml:id="gd-p2c24q1-Hd1e264" type="question-title"> Fides Romanae ecclesiae omnes
             hereses destruit , nullam fouet. </head>
-          <p xml:id="gd-p2c24q1-d1e267"> Item Syxtus [Papa II. ad Gratum Episcopum, ep. I.]Memor
-            sum, me sub illius nomine ecclesiae presidere, cuius confessio a Domino Iesu Christo est
-            glorificata, etcuius fides nullam umquam fouet, sed omnesquidem hereses destruit.
-            Intelligo autem michi aliternon licere, quam ut omnes conatus meos ei causae, in
-            quauniuersalis ecclesiae salus infestatur, inpendam. </p>
+          <p xml:id="gd-p2c24q1-d1e267"> 
+            <ref xml:id="gd-p2c24q1-Rd1e275">Item Syxtus [Papa II. ad Gratum Episcopum, ep. I.]</ref> 
+            Memor sum, me sub illius nomine ecclesiae presidere, cuius confessio a Domino Iesu Christo est
+            glorificata, et cuius fides nullam umquam fouet, sed omnes quidem hereses destruit.
+            Intelligo autem michi aliter non licere, quam ut omnes conatus meos ei causae, in
+            qua uniuersalis ecclesiae salus infestatur, inpendam. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e271">
-          <head xml:id="gd-p2c24q1-Hd1e273">C. XI</head>
+          <head xml:id="gd-p2c24q1-Hd1e273">Caput 11</head>
           <head xml:id="gd-p2c24q1-Hd1e276" type="question-title"> Romana ecclesia nullis heresibus
             succubuit.</head>
-          <p xml:id="gd-p2c24q1-d1e279"> Item Eusebius Papa [Episcopis Thusciae, epist. III.]In sede
-            apostolica extra maculam semper est catholicaseruata religio. </p>
-
+          <p xml:id="gd-p2c24q1-d1e279"> <ref xml:id="gd-p2c24q1-Rd1e289">Item Eusebius Papa [Episcopis Thusciae, epist. III.]</ref> 
+            In sede apostolica extra maculam semper est catholica seruata religio. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e283">
-          <head xml:id="gd-p2c24q1-Hd1e285">C. XII</head>
+          <head xml:id="gd-p2c24q1-Hd1e285">Caput 12</head>
           <head xml:id="gd-p2c24q1-Hd1e288" type="question-title"> Ad Romanam referatur ecclesiam ,
             quotiens ratio fidei uentilatur. </head>
-          <p xml:id="gd-p2c24q1-d1e291"> Item Innocentius [Papa Episcopis Concilii Mileuitani,
-            epist. XXVI.] </p>
-          <p xml:id="gd-p2c24q1-d1e294"> Quotiens fidei ratio uentilatur, arbitror omnes fratres et
+          <p xml:id="gd-p2c24q1-d1e294"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e303">Innocentius [Papa Episcopis Concilii Mileuitani, epist. XXVI.]</ref> 
+            Quotiens fidei ratio uentilatur, arbitror omnes fratres et
             coepiscopos nostros non nisi ad Petrum, id est sui nominis et honoris auctoritatem,
             referre debere (ueluti nuncretulit uestra dilectio) quod per totum mundum possit
             ecclesiis omnibus prodesse. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e298">
-          <head xml:id="gd-p2c24q1-Hd1e300">C. XIII</head>
+          <head xml:id="gd-p2c24q1-Hd1e300">Caput 13</head>
           <head xml:id="gd-p2c24q1-Hd1e303" type="question-title"> Religionis Christianae zelum
             Romana ecclesia pre ceteris habuit. </head>
-          <p xml:id="gd-p2c24q1-d1e306"> Item Iulius Papa [ad Episcopos orientales, epist. I.] </p>
-          <p xml:id="gd-p2c24q1-d1e309"> Offitii nostri consideratione non est nobis dissimulare,
+          <p xml:id="gd-p2c24q1-d1e309"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e317">Iulius Papa [ad Episcopos orientales, epist. I.]</ref> 
+            Offitii nostri consideratione non est nobis dissimulare,
             non est tacere libertas, quibus maior cunctis Christianae religionis zelus incumbit.
           </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e313">
-          <head xml:id="gd-p2c24q1-Hd1e315">C. XIV</head>
+          <head xml:id="gd-p2c24q1-Hd1e315">Caput 14</head>
           <head xml:id="gd-p2c24q1-Hd1e318" type="question-title"> Aliorum ora fides non timet ,
             quam Romana conmendat ecclesia. </head>
-          <p xml:id="gd-p2c24q1-d1e321"> Item Ieronimus [ad Damasumin expositione symboli]. </p>
-          <p xml:id="gd-p2c24q1-d1e324"> Hec est fides, Papa beatissime, quam in catholica ecclesia
+          <p xml:id="gd-p2c24q1-d1e324"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e332">Ieronimus [ad Damasumin expositione symboli].</ref> 
+            Hec est fides, Papa beatissime, quam in catholica ecclesia
             didicimus, quamque semper tenuimus; in qua si minus perite aut parum caute forte aliquid
             positum est, emendari cupimus a te, qui Petri et sedem tenes et fidem. Siautem hec
             nostra confessio apostolatus tui iudicio conpro-batur, quicumque me culpare uoluerit, se
-            inperitum, uelmaliuolum, uel etiam non catholicum, sed hereticumconprobabit. Item: §. i.
-            Sancta* Romana ecclesia, quesemper inmaculata permansit, Domino prouidente etB. apostolo
+            inperitum, uelmaliuolum, uel etiam non catholicum, sed hereticum conprobabit. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e335">
+            Item: §. i.
+            Sancta Romana ecclesia, quesemper inmaculata permansit, Domino prouidente et B. apostolo
             Petro opem ferente in futuro manebit, sineulla hereticorum insultatione atque firma et
             inmobilisomni tempore persistet. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e329">
-          <head xml:id="gd-p2c24q1-Hd1e331">C. XV</head>
-          <head xml:id="gd-p2c24q1-Hd1e334" type="question-title"> Aliud quam Romana ecclesia neque
-            sentire , neque uelle permittitur . </head>
-          <p xml:id="gd-p2c24q1-d1e337"> Item Marcellus uniuersis Episcopis per Antiocenam
-            constitutis , [epist. I.]! 5 ib* </p>
-          <p xml:id="gd-p2c24q1-d1e340"> Rogamus uos, fratres dilectissimi, ut non aliud doceatis
+          <head xml:id="gd-p2c24q1-Hd1e331">Caput 15</head>
+          <head xml:id="gd-p2c24q1-Hd1e334" type="question-title"> Aliud quam Romana ecclesia neque sentire, neque uelle permittitur.</head>
+          <p xml:id="gd-p2c24q1-d1e340"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e348">Marcellus uniuersis Episcopis per Antiocenam constitutis , [epist. I.]! 5 ib</ref>
+            Rogamus uos, fratres dilectissimi, ut non aliud doceatis
             neque sentiatis, quam quod a B. Petro apostolo et reliquis apostolis et Patribus
             accepistis. Ipse enim est caput totius ecclesiae, cui ait Dominus: „Tu es Petrus, et
             superhanc petram edificabo ecclesiam meam “. Eius enimsedes primitus fuit apud uos, que
@@ -308,31 +320,28 @@
             praesidemus die. Si uero uestra Antiocena, queolim prima erat, Romanae cessit sedi,
             nulla est, que eius nonsit subiecta ditioni. Nec ab eius dispositione uos
             deuiareoportet, ad quam cuncta maiora ecclesiastica negocia diuinadisponente gratia
-            iussa sunt referri, ut ab ea regulariterdisponantur, a qua sumpsere principia. </p>
-
-
-
-
+            iussa sunt referri, ut ab ea regulariter disponantur, a qua sumpsere principia. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e344">
-          <head xml:id="gd-p2c24q1-Hd1e346">C. XVI</head>
+          <head xml:id="gd-p2c24q1-Hd1e346">Caput 16</head>
           <head xml:id="gd-p2c24q1-Hd1e349" type="question-title"> Alexandrinae ecclesiae a Romana
             dissentire non licet.</head>
-          <p xml:id="gd-p2c24q1-d1e352"> Item Leo Episcopus Dioscoro Episcopo Alexandrino , [epist.
-            LXXIX. al. LXXXI.] </p>
-          <p xml:id="gd-p2c24q1-d1e355"> Cum beatissimus Petrus apostolus a Domino acceperit
+          <p xml:id="gd-p2c24q1-d1e355"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e362">Leo Episcopus Dioscoro Episcopo Alexandrino , [epist. LXXIX. al. LXXXI.]</ref> 
+            Cum beatissimus Petrus apostolus a Domino acceperit
             principatum, et Romana ecclesia in eius permaneat institutis, nefas est credere, quod
             sanctus episcopus discipulus ipsius Marcus, qui Alexandrinam primus ecclesiam
-            gubernauit, aliis regulis traditionum* suarum decretafirmauerit, cum sine dubio de eodem
+            gubernauit, aliis regulis traditionum suarum decretafirmauerit, cum sine dubio de eodem
             fonte gratiae unusspiritus et discipuli fuerint, et magistri, nec £ aliudordinatus
             tradere potuit, quam quod ab ordinatoresuscepit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e359">
-          <head xml:id="gd-p2c24q1-Hd1e361">C. XVII</head>
+          <head xml:id="gd-p2c24q1-Hd1e361">Caput 17</head>
           <head xml:id="gd-p2c24q1-Hd1e364" type="question-title"> Professione suae fidei aurem
             erroris Romana abscidit ecclesia. </head>
-          <p xml:id="gd-p2c24q1-d1e367"> Item Gregor 2*ws*. </p>
-          <p xml:id="gd-p2c24q1-d1e370"> Si Petrus uolens percussit aurem, docuit, quod aurem in
+          <p xml:id="gd-p2c24q1-d1e370"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e376">Gregor 2ws.</ref> 
+            Si Petrus uolens percussit aurem, docuit, quod aurem in
             specie habere non deberent, quam in ministerio nonhabebant. Sed bonus Dominus et ipsi
             refundit auditum, secundum prophetica dicta demonstrans, et ipsos, siconuertantur, posse
             sanari, qui in passione Christi uulne-rati sunt, eo, quod omne peccatum in ministerio
@@ -345,11 +354,11 @@
             filium docuit fideliconfessione signari. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e374">
-          <head xml:id="gd-p2c24q1-Hd1e376">C. XVIII</head>
+          <head xml:id="gd-p2c24q1-Hd1e376">Caput 18</head>
           <head xml:id="gd-p2c24q1-Hd1e379" type="question-title"> Extra unitatem ecclesiae Spiritus
             sanctus non accipitur. </head>
           <p xml:id="gd-p2c24q1-d1e385"> 
-            Item <ref>Ciprianus [in tractatu de unitate ecclesiae]</ref>. 
+            Item <ref xml:id="gd-p2c24q1-Rd1e390">Ciprianus [in tractatu de unitate ecclesiae]</ref>. 
             Loquitur Dominus ad Petrum: "Ego dico tibi, quia tu es
             Petrus, et super hanc petram edificabo ecclesiam meam". Super unum edificat ecclesiam,
             et quamuis Apostolis omnibus post resurrectionem suam parempotestatem tribuat, et dicat:
@@ -382,49 +391,50 @@
             cubiculi sanctitatem casto pudore custodit.</p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e396">
-          <head xml:id="gd-p2c24q1-Hd1e398">C. XIX</head>
+          <head xml:id="gd-p2c24q1-Hd1e398">Caput 19</head>
           <head xml:id="gd-p2c24q1-Hd1e401" type="question-title"> Non habet Deum patrem uniuersalis
             ecclesiae relinquens unitatem.</head>
-          <p xml:id="gd-p2c24q1-d1e404"> Idem [ibidem paulo inferius]. </p>
-          <p xml:id="gd-p2c24q1-d1e407"> Alienus est, profanus est, hostis est: habere non potest
-            Deum patrem qui uniuersalis ecclesiae non tenetunitatem. /efem: §. i. Cum dominus
-            discipulis </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e410"> suis 53 unanimitatem suaderet et pacem: „ Dico/* inquit, ,
-            , uobis quia si duo * ex uobis conuenerint in terra, de omni re, quamcumque petieritis,
+          <p xml:id="gd-p2c24q1-d1e407"> 
+            <ref xml:id="gd-p2c24q1-Rd1e407">Idem [ibidem paulo inferius].</ref>
+            Alienus est, profanus est, hostis est: habere non potest
+            Deum patrem qui uniuersalis ecclesiae non tenetunitatem. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e410">
+            Item: §. i. Cum dominus
+            discipulis  suis 53 unanimitatem suaderet et pacem: „ Dico/ inquit, ,
+            , uobis quia si duo  ex uobis conuenerint in terra, de omni re, quamcumque petieritis,
             continget uobis apatre meo, qui est in celis. Ubicumque enim duo aut tresfuerint
-            collecti in nomine meo, ego cum eis sum/* ostendit s non multitudini, sed unanimitati
-            deprecandum plurimum tribui. „Si duo/* inquit , , ex uobis conuenerintin terra:**
+            collecti in nomine meo, ego cum eis sum/ ostendit s non multitudini, sed unanimitati
+            deprecandum plurimum tribui. „Si duo/ inquit , , ex uobis conuenerintin terra:
             unanimitatem prius posuit, concordiam pacis antepremisit, ut conueniat nobis fideliter
             et firmiter, docuit.Quomodo autem potest ei cum aliquo conuenire, cuicum corpore ipsius
-            ecclesiae, et cum uniuersa fraternitatenon conuenit? Quomodo autem* possunt duo ueltres
+            ecclesiae, et cum uniuersa fraternitatenon conuenit? Quomodo autem possunt duo ueltres
             in nomine Christi colligi, quos constat a Christo etab eius euangelio separari? </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e414">
-          <head xml:id="gd-p2c24q1-Hd1e416">C. XX</head>
+          <head xml:id="gd-p2c24q1-Hd1e416">Caput 20</head>
           <head xml:id="gd-p2c24q1-Hd1e419" type="question-title"> Ligandi et soluendi non habet
             potestatem qui unitatem pacis catholicae non tenet . </head>
-          <p xml:id="gd-p2c24q1-d1e422"> Item Ieronimus*. </p>
-          <p xml:id="gd-p2c24q1-d1e425"> Omnibus consideratis puto me non temere dicere, alios ita
+          <p xml:id="gd-p2c24q1-d1e425"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e424">Ieronimus</ref>
+            Omnibus consideratis puto me non temere dicere, alios ita
             esse in domo Dei, ut ipsi etiam sint eadem domus Dei, que dicitur edificari super
             petram, que unica columbaappellatur, que sponsa pulchra sine ruga et macula, ethortus
             conclusus et fons signatus et puteus aquae uiuaeet paradysus cum fructu pomorum; que
             domus etiam clauesaccepit, ac potestatem soluendi et ligandi. Hanc domum siquis
-            corrigentem corripientemque contempserit, , , sittibi/* inquit, , , tamquam ethnicus et
-            publicanus.** Dehac domo dicitur: „Domine, dilexi decorem domustuae, et locum
-            habitationis gloriae tuae;** et: „Qui habitare facit unanimes in domo;** et: Iocundatus
-            sum in his, que dicta sunt michi: in domum Domini ibimus;** et:„Beati, qui habitant in
-            domo tua; in secula seculorumlaudabunt te.** </p>
+            corrigentem corripientemque contempserit, , , sittibi/ inquit, , , tamquam ethnicus et
+            publicanus. Dehac domo dicitur: „Domine, dilexi decorem domustuae, et locum
+            habitationis gloriae tuae; et: „Qui habitare facit unanimes in domo; et: Iocundatus
+            sum in his, que dicta sunt michi: in domum Domini ibimus; et:„Beati, qui habitant in
+            domo tua; in secula seculorumlaudabunt te. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e430">
-          <head xml:id="gd-p2c24q1-Hd1e432">C. XX</head>
+          <head xml:id="gd-p2c24q1-Hd1e432">Caput 20</head>
           <head xml:id="gd-p2c24q1-Hd1e435" type="question-title"> Varia crimina uariis penis sunt
             afficienda.</head>
-          <p xml:id="gd-p2c24q1-d1e438"> Item Ieronimus . </p>
-          <p xml:id="gd-p2c24q1-d1e441"> Non afferamus stateras dolosas, ubi appendamus quod uolumus
+          <p xml:id="gd-p2c24q1-d1e441"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e438">Ieronimus.</ref> 
+            Non afferamus stateras dolosas, ubi appendamus quod uolumus
             pro arbitrio nostro, dicentes, hoc graue, hoc leue est: sed afferamus diuinam stateram
             de scripturissanctis, tamquam de thesauris dominicis, et in illa quid sitgrauius
             appendamus. Tempore , quo Dominus prioradelicta recentibus penarum exemplis cauenda
@@ -432,32 +442,37 @@
             contemptoris incensus, et scisma temptatum, ydolatria gladio punita est, exustio libri
             bellicacede et peregrina captiuitate, scisma hiatu terrae, sepultisauctoribus uiuis, et
             ceteris celesti igne consumptis. Quisiam dubitauerit, hoc esse sceleratius conmissum,
-            quod estgrauius uindicatum? </p>
-
+            quod estgrauius uindicatum? 
+          </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e445">
-          <head xml:id="gd-p2c24q1-Hd1e447">C. XXII</head>
+          <head xml:id="gd-p2c24q1-Hd1e447">Caput 22</head>
           <head xml:id="gd-p2c24q1-Hd1e450" type="question-title"> Ex sola ecclesia sacrificium
             Dominus accipit.</head>
-          <p xml:id="gd-p2c24q1-d1e453"> Item Gregorius in Moralibus , [lib. XXXV. c. 6.]Quia ex
+          <p xml:id="gd-p2c24q1-d1e453"> 
+            <ref xml:id="gd-p2c24q1-Rd1e452">Item Gregorius in Moralibus , [lib. XXXV. c. 6.]</ref> 
+            Quia ex
             sola ecclesia catholica ueritas conspicitur, apudse esse locum Dominus perhibet, de quo
             uideatur. In petraMoyses ponitur, ut Dei faciem contempletur, quia nisiquis fidei
             soliditatem tenuerit, diuinam presentiam nonagnoscit. De qua soliditate Dominus dicit:
-            „Superhanc petram edificabo ecclesiam.** §. i. Sola quippeest, per quam sacrificium
+            „Superhanc petram edificabo ecclesiam. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e455">
+            §. i. Sola quippeest, per quam sacrificium
             Dominus accipiat libenter: sola, que pro errantibus intercedat fiducialiter. Unde
             etiamde agni hostia Dominus precepit, dicens: , , In una domocomedetis, nec efferetis de
-            carnibus eius extra fores.** In una namque domos comedetur, quiain una catholica
-            ecclesia uera hostia redemptori ' inmola-tur. De cuius carnibus diuina lex efferri foras
+            carnibus eius extra fores. In una namque domos comedetur, quiain una catholica
+            ecclesia uera hostia redemptori ' inmolatur. De cuius carnibus diuina lex efferri foras
             prohibet, quia dari sanctum canibus uetat. Sola est, que intrase positos ualida
             karitatis conpage custodit. Unde etaqua diluuii archam quidem ad sublimiora sustulit,
             omnesautem, quos extra archam inuenit, extinxit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e457">
-          <head xml:id="gd-p2c24q1-Hd1e459">C. XXIII</head>
+          <head xml:id="gd-p2c24q1-Hd1e459">Caput 23</head>
           <head xml:id="gd-p2c24q1-Hd1e462" type="question-title"> Non exhibet fidem Christo qui
             corpus eius discerpit.</head>
-          <p xml:id="gd-p2c24q1-d1e465"> Item Ambrosius [in oratione funebri de obitu fratris].
-            Aduocauit ad se Ciprianus episcopum Satyrum* necullam putauit ueram, nisi uerae fidei
+          <p xml:id="gd-p2c24q1-d1e465"> <ref xml:id="gd-p2c24q1-Rd1e468">Item Ambrosius [in oratione funebri de obitu fratris].</ref>
+            Aduocauit ad se Ciprianus episcopum Satyrum necullam putauit ueram, nisi uerae fidei
             gratiam, percunctatus-que ex eo est, utrumnam de catholicis episcopis esset, hoc est si
             cum Romana ecclesia conueniret. Et forte adid locorum in scismate regionis illius
             ecclesia erat. Luciferenim se a nostra conmunione diuiserat, et quamquampro fide
@@ -465,26 +480,26 @@
             Nam etsi fidem ergaDeum tenerent, tamen erga Dei ecclesiam non tenebant, cuius
             patiebantur uelut quosdam artus diuidi et membralacerari. Etenim, cum propter ecclesiam
             Christus passus sit, et Christi corpus sit ecclesia, non uidetur ab his exhiberiChristo
-            fides, a quibus euacuatur eius passio, atquedistrahitur. Itaque quamuis gratiae fenus**
+            fides, a quibus euacuatur eius passio, atquedistrahitur. Itaque quamuis gratiae fenus
             teneret, etmetueret tanti nominis debitor nauigare, tamen eostransire maluit, ubi tuto
-            posset exsoluere. Iudicabat enimdiuinae solutionis gratiam*** in affectu ac fide esse,
+            posset exsoluere. Iudicabat enimdiuinae solutionis gratiam in affectu ac fide esse,
             quamquidem statim, ubi primum copia ecclesiae liberiorfuit, inplere non distulit, Dei
-            gratiam et accepit desideratam, et seruauit acceptam. </p>
-
-
-
-
+            gratiam et accepit desideratam, et seruauit acceptam. 
+          </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e469">
-          <head xml:id="gd-p2c24q1-Hd1e471">C. XXIV</head>
+          <head xml:id="gd-p2c24q1-Hd1e471">Caput 24</head>
           <head xml:id="gd-p2c24q1-Hd1e474" type="question-title"> Etiam corpore ab eo est
             recedendum , qui fidem Christi non habet . </head>
-          <p xml:id="gd-p2c24q1-d1e477"> Item B e da super epistolam Iohannis [secundam, c.
+          <p xml:id="gd-p2c24q1-d1e477"> Item Beda super epistolam Iohannis [secundam, c.
             un.]„Omnis, qui recedit, et non permanet in doctrinaChristi, Deum non habet. Qui
             permanet in doctrinaChristi, hic et Filium, et Patrem habet. Si quis ueneritad uos, et
             hanc doctrinam non affert, nolite eum reciperein domum, nec aue ei dixeritis. Qui enim
             dicit illi aue, con-municat operibus eius malis “ . Hec Iohannes descismaticis siue
-            hereticis deuitandis que uerbis docuitetiam factis exhibuit. §. i. Narrat enim de illo
+            hereticis deuitandis que uerbis docuitetiam factis exhibuit. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e483">
+            §. i. Narrat enim de illo
             auditoreius sanctissimus et martir fortissimus Policarpus, Smimeorum antistes, quia
             tempore quodam, cum apudEphesum balneas lauandi gratia fuisset ingressus, et uidis-set
             ibi Cherinthum, exiliret continuo, et discessit^non lotus, dicens: Fugiamus hinc, ne et
@@ -493,11 +508,12 @@
             Agnoscoprimogenitum sathanae. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e481">
-          <head xml:id="gd-p2c24q1-Hd1e483">C. XXV</head>
+          <head xml:id="gd-p2c24q1-Hd1e483">Caput 25</head>
           <head xml:id="gd-p2c24q1-Hd1e486" type="question-title"> Profanus est extra ecclesiam B.
             Petri agnum comedere temptans. </head>
-          <p xml:id="gd-p2c24q1-d1e489"> Item Ieronimus [ad Damasum]. </p>
-          <p xml:id="gd-p2c24q1-d1e492"> Quoniam vetus* oriens inter se populorum furore collisus
+          <p xml:id="gd-p2c24q1-d1e492"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e496">Ieronimus [ad Damasum].</ref>
+            Quoniam vetus oriens inter se populorum furore collisus
             indiscissam Domini tunicam et desuper textamminutatim per frusta decerpit, et Christi
             uineamuulpes exterminant, inter lacus contritos, qui nonhabent aquam, difficile ubi fons
             signatus et hortus illeconclusus sit possit intelligi, ideo michi cathedram Petri
@@ -510,7 +526,7 @@
             hic obruta sulcis frumenta lolium auenasque degenerant. Nunc in occidente sol iusticiae
             oritur, in oriente autem Lucifer ille, qui ceciderat, supra sidera posuit thronumsuum.
             Vos estis lux mundi, uos sal terrae, uos uasaaurea et argentea: hic testea uasa uirgam
-            ferream** et eternum operiuntur incendium. Quamquam igitur tui me terreat magnitudo,
+            ferream et eternum operiuntur incendium. Quamquam igitur tui me terreat magnitudo,
             tamen inuitat humanitas. A sacerdote uictima salutem, a pastorepresidium ouis flagito.
             FacescatP inuidia Romani culminis, recedat ambicio. Cum successore piscatoris qdiscipulo
             Christi loquor. Ego nullum premiumnisi Christum sequens, beatitudini tuae, id est
@@ -525,11 +541,12 @@
 
         </div>
         <div xml:id="gd-p2c24q1-Dd1e496">
-          <head xml:id="gd-p2c24q1-Hd1e498">C. XXVI</head>
+          <head xml:id="gd-p2c24q1-Hd1e498">Caput 26</head>
           <head xml:id="gd-p2c24q1-Hd1e501" type="question-title"> Hereticorum consortia a
             catholicis sunt fugienda.</head>
-          <p xml:id="gd-p2c24q1-d1e504"> Item Ambrosius [in commentariis ad c. 9. Lucae]. </p>
-          <p xml:id="gd-p2c24q1-d1e507"> Que dignior domus apostolicae predicationis ingressu, quam
+          <p xml:id="gd-p2c24q1-d1e507"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e511">Ambrosius [in commentariis ad c. 9. Lucae].</ref> 
+            Que dignior domus apostolicae predicationis ingressu, quam
             sancta ecclesia? aut quis preferendus magis omnibusuidetur, quam Christus, qui pedes
             suis lauare consueuithospitibus, et quoscumque sua receperit domo, pollutis nonpatitur
             habitare uestigiis, sed maculosos licet uitae prioris, m reliquum tamen dignetur mundare
@@ -546,73 +563,91 @@
             que fidemrespuat, nec apostolicae predicationis fundamenta possideat, ne quam labem
             perfidiae possit aspergere, deserendaest. Quod Apostolus quoque euidenter asseruit,
             dicens:„Hereticumhominem post unam correptionem deuita.“ </p>
-
-
-
-
         </div>
         <div xml:id="gd-p2c24q1-Dd1e512">
-          <head xml:id="gd-p2c24q1-Hd1e514">C. XXVII: Nec peccatis solui, nec regnum celeste ingredi
-            potest ab unitate diuisus </head>
+          <head xml:id="gd-p2c24q1-Hd1e514">Caput 27</head>
+          <head xml:id="gd-p2c24q1-Hd1e520" type="question-title">Nec peccatis solui, nec regnum celeste ingredi potest ab unitate diuisus </head>
           <head xml:id="gd-p2c24q1-Hd1e517" type="question-title"> ecclesiae.</head>
-          <p xml:id="gd-p2c24q1-d1e520"> Item B e da super Mattheum [in homilia de festo apostolorum
-            Petri et Pauli, ad c. 16. Matthei]. </p>
-          <p xml:id="gd-p2c24q1-d1e523"> Quieumque ab unitate fidei uel societatis Petri apostoli
-            quolibet modo semetipsos segregauerint tales nec uin-culis peccatorum absolui, nec
+          <p xml:id="gd-p2c24q1-d1e523"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e528">Beda super Mattheum [in homilia de festo apostolorum Petri et Pauli, ad c. 16. Matthei].</ref>
+            Quicumque ab unitate fidei uel societatis Petri apostoli
+            quolibet modo semet ipsos segregauerint tales nec uin-culis peccatorum absolui, nec
             ianuam possunt celestis regniingredi. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e527">
-          <head xml:id="gd-p2c24q1-Hd1e529">C. XXVIII</head>
-          <head xml:id="gd-p2c24q1-Hd1e532" type="question-title"> Non suscipiantur*^*-
-            sacrificia*^, quorum fides et uita reprobatur. </head>
-          <p xml:id="gd-p2c24q1-d1e535"> Item Ieronimus in Amos Propheta, [ad c. 5»] </p>
-          <p xml:id="gd-p2c24q1-d1e538"> „ Odi et proieci festiuitates uestras, et non capiam odorem
+          <head xml:id="gd-p2c24q1-Hd1e529">Caput 28</head>
+          <head xml:id="gd-p2c24q1-Hd1e532" type="question-title"> Non suscipiantur^-
+            sacrificia^, quorum fides et uita reprobatur. </head>
+          <p xml:id="gd-p2c24q1-d1e538"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e542">Ieronimus in Amos Propheta, [ad c. 5»]</ref> 
+            Odi et proieci festiuitates uestras, et non capiam odorem
             cetuum uestrorum. Quod si obtuleritis michiholocaustomata et munera uestra, non
-            accipiam, et uotapinguium uestrorum non respiciam/ §. i. Odit autemDeus, et non solum
-            odit, sed proicit festiuitateseorum*, qui non celebrant festiuitates Dei, sed suas.
-            Etpost pauca: §. 2. Odisse** autem, et non odorari et proicere, humana loquitur
+            accipiam, et uotapinguium uestrorum non respiciam. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e545">
+            §. i. Odit autem Deus, et non solum
+            odit, sed proicit festiuitateseorum, qui non celebrant festiuitates Dei, sed suas.
+          </p>
+          <p xml:id="gd-p2c24q1-d1e547">
+            Et post pauca: §. 2. Odisse autem, et non odorari et proicere, humana loquitur
             similitudine, ut nos affectum Dei nostrissermonibus agnoscamuss. Et si holocausta
             obtulerint, ut uideantur ieiunare, dare elemosinas, pudicitiam polliceri (que holocausta
             sunt uera), non ea suscipit Dominus. Nam non sacrificiorum magnitudinem, sedofferentium
-            merita causasque diudicat. §. 3. Unde et uidua, que in corbonam duo minuta miserat,
+            merita causasque diudicat. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e550">s
+            §. 3. Unde et uidua, que in corbonam duo minuta miserat,
             omnibus aSaluatore prefertur, quia dominus non ea, que offeruntur, sed uoluntatem
             respicit offerentium. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e542">
-          <head xml:id="gd-p2c24q1-Hd1e544">C. XXIX</head>
+          <head xml:id="gd-p2c24q1-Hd1e544">Caput 29</head>
           <head xml:id="gd-p2c24q1-Hd1e547" type="question-title"> Ubi karitas non est, ibi fides
             uel iusticia locum non habet.</head>
-          <p xml:id="gd-p2c24q1-d1e550"> Item Augustinus [de sermone Domini in monte, lib. I. c. 9.] </p>
-          <p xml:id="gd-p2c24q1-d1e553"> Ubi sana fides non est, non potest esse iusticia,
+          <p xml:id="gd-p2c24q1-d1e553">
+            Item <ref xml:id="gd-p2c24q1-Rd1e563">Augustinus [de sermone Domini in monte, lib. I. c. 9.]</ref> 
+            Ubi sana fides non est, non potest esse iusticia,
             quiaiustus ex fide uiuit. Neque scismatici aliquid sibi ex istamercede promittant, quia
             similiter, ubi karitas non est, nonpotest esse iusticia. Dilectio enim proximi malum
             nonoperatur, quam si heretici haberent, non dilaniarent corpus Christi, quod est
             ecclesia. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e557">
-          <head xml:id="gd-p2c24q1-Hd1e559">C. XXX</head>
+          <head xml:id="gd-p2c24q1-Hd1e559">Caput 30</head>
           <head xml:id="gd-p2c24q1-Hd1e562" type="question-title"> A fide recedens perfectionem
-            Spiritus amittit. Item Innocentius [Papa ad Alexandrum, ep. XVIII.] </head>
-          <p xml:id="gd-p2c24q1-d1e565"> Heretici, cum a fide catholica destiterint, perfectionem
+            Spiritus amittit. </head>
+          <p xml:id="gd-p2c24q1-d1e565"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e577">Innocentius [Papa ad Alexandrum, ep. XVIII.]</ref> 
+            Heretici, cum a fide catholica destiterint, perfectionem
             Spiritus, quam acceperant, amiserunt. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e569">
-          <head xml:id="gd-p2c24q1-Hd1e571">C. XXXI</head>
-          <head xml:id="gd-p2c24q1-Hd1e574" type="question-title"> Sacri offitii* potestate penitus
-            carent heretici. Item Ciprianus Magno filio salutem, [lib. I. epist. 6.] </head>
-
-          <p xml:id="gd-p2c24q1-d1e577"> Dicimus omnino omnes hereticos et scismaticos nil habere
+          <head xml:id="gd-p2c24q1-Hd1e571">Caput 31</head>
+          <head xml:id="gd-p2c24q1-Hd1e574" type="question-title"> Sacri offitii potestate penitus
+            carent heretici.</head>
+          <p xml:id="gd-p2c24q1-d1e577"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e591">Ciprianus Magno filio salutem, [lib. I. epist. 6.]</ref> 
+            Dicimus omnino omnes hereticos et scismaticos nil habere
             potestatis ac iuris. Propter quod Nouatianus nec debet nec potest excipi, quo minus ipse
             quoque extra ecclesiamconsistens, et contra pacem ac dilectionem Christi faciens, inter
-            aduersarios et antichristos conputetur. ift paulopost: §. 1. Ecclesia una est, que una
+            aduersarios et antichristos conputetur. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e594">
+            ift paulo post: §. 1. Ecclesia una est, que una
             et intus esse et forisnon potest. Si enim apud Nouatianum est, apud Cornelium non fuit.
             Si uero apud Cornelium fuit, qui Fabianoepiscopo legitima ordinatione successit, et quem
             postsacerdotii honorem martirio quoque Dominus glorificauit, Nouatianus in ecclesia non
             est, nec episcopus conputaripotest, qui, euangelica et apostolica traditione contempta,
             nemini succedens a se ipso ortus est. Habere namque auttenere ecclesiam nullo modo
-            potest qui ordinatus in ecclesianon est. Et paulo post*$: §. 2. Quod uero eundem, quemet
+            potest qui ordinatus in ecclesianon est. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e596">
+            Et paulo post $: §. 2. Quod uero eundem, quemet
             nos, Deum Patrem, eundem Filium Christum, eundem Spiritum sanctum nosse dicuntur, nec
-            hoc adiuuaretales potest. Et infra: §. 3. Inuenimus in tali facinorenon solum duces et
+            hoc adiuuaretales potest. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e599">
+            Et infra: §. 3. Inuenimus in tali facinorenon solum duces et
             auctores, sed etiam participes penisdestinari, nisi a conmunione malorum se
             separauerint, pre-cipiente per Moysen Domino et dicente: „Separamini atabernaculis
             hominum istorum durissimorum, et nolite tangere de omnibus, que sunt eorum , ne simul
@@ -624,32 +659,32 @@
             dicit: , , Sacrificia eorum tamquampanis luctus, omnes, qui manducant ea,
             contaminabuntur/ docens scilicet et ostendens, omnes omnino cumauctoribus suis supplicio
             coniungi, qui fuerint eorumpeccato contaminati. Que ergo apud eos merita essecirca Deum
-            possunt, quibus supplicia diuinitus irrogantur? Et infra: §. 4. Si autem foris cuncti
+            possunt, quibus supplicia diuinitus irrogantur? 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e601">
+            Et infra: §. 4. Si autem foris cuncti
             heretici et scismaticinon habent Spiritum sanctum, et ideo apud nos eismanus inponitur.
             ut hic accipiatur quod illic non est, nec dari potest: manifestum est, nec remissionem
             peccatorum per eos dari posse, quos constat Spiritum sanctumnon habere. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e581">
-          <head xml:id="gd-p2c24q1-Hd1e583">C. XXXII</head>
+          <head xml:id="gd-p2c24q1-Hd1e583">Caput 32</head>
           <head xml:id="gd-p2c24q1-Hd1e586" type="question-title"> Proprio spolientur honore qui
             contra pacem ecclesiae nituntur.</head>
-          <p xml:id="gd-p2c24q1-d1e589"> Item Liberius Papa [in ep. ad Athanasium]. </p>
-          <p xml:id="gd-p2c24q1-d1e592"> Qui contra pacem ecclesiae sunt, si dignitatem aut cingulum
+          <p xml:id="gd-p2c24q1-d1e592">
+            Item <ref xml:id="gd-p2c24q1-Rd1e615">Liberius Papa [in ep. ad Athanasium].</ref> 
+            Qui contra pacem ecclesiae sunt, si dignitatem aut cingulum
             miliciae habent, nudentur eis. Si autem priuati, siquidem nobiles sunt, suarum
             substantiarum proscriptionem patiantur; si autem ignobiles, non solum in corpore
             uerberentur, sed exilio perpetuocastigentur. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e597">
-          <head xml:id="gd-p2c24q1-Hd1e599">C. XXXIII</head>
-          <head xml:id="gd-p2c24q1-Hd1e602" type="question-title"> Non consecrat *^ in scismate
+          <head xml:id="gd-p2c24q1-Hd1e599">Caput 33</head>
+          <head xml:id="gd-p2c24q1-Hd1e602" type="question-title"> Non consecrat ^ in scismate
             constitutus episcopus. </head>
-          <p xml:id="gd-p2c24q1-d1e605"> Item Pelagius Papa ". </p>
-          <p xml:id="gd-p2c24q1-d1e608"> Pudenda, ut ita dicam, in diuisione rapina est non con- </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e611"> secratus, sed execratus episcopus. Si enim ipsum
+          <p xml:id="gd-p2c24q1-d1e608"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e629">Pelagius Papa.</ref>
+            Pudenda, ut ita dicam, in diuisione rapina est non consecratus, sed execratus episcopus. Si enim ipsum
             consecrationis nomen rationabili ac uiuaci intellectu discutimus, is, qui cum uniuersali
             detrectat consecrari ecclesia, consecratus dici uel esse poterit nulla ratione.
             Consecrare enimest simul sacrare. Sed ab ecclesiae uisceribus diuisus etab apostolicis
@@ -674,23 +709,29 @@
             iudicetur) ullo modo ualeat exstinguere. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e615">
-          <head xml:id="gd-p2c24q1-Hd1e617">C. XXXIV</head>
+          <head xml:id="gd-p2c24q1-Hd1e617">Caput 34</head>
           <head xml:id="gd-p2c24q1-Hd1e620" type="question-title"> Unitati non conmunicat
             scismaticis consentiens. </head>
-          <p xml:id="gd-p2c24q1-d1e623"> Idem . </p>
-
-          <p xml:id="gd-p2c24q1-d1e626"> Scisma siquidem ipsum, quod grecum nomen est, scissuram
+          <p xml:id="gd-p2c24q1-d1e626"> 
+            <ref xml:id="gd-p2c24q1-Rd1e643">Idem.</ref>
+            Scisma siquidem ipsum, quod grecum nomen est, scissuram
             sonat. Sed scisura in unitate esse non potest. Non ergo unitati conmunicat qui
-            scismaticis conmunicat.Partes sibi ipsi fecerunt, et ab eo, quod unum est, ut
+            scismaticis conmunicat. Partes sibi ipsi fecerunt, et ab eo, quod unum est, ut
             apostoliIudae iam uerbis loquar, semetipsos segregantes, Spiritum non habent. Quibus
             omnibus illud efficitur, ut, quia in unitate unum non sunt, ut, quia in partem
             esseuoluerunt, ut, quia Spiritum non habent, corpusChristi sacrificium habere non
-            possint. §. i. Non autemnobis nunc illa questio est, utrum tollerare malos, sedutrum
+            possint. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e646">
+            §. i. Non autemnobis nunc illa questio est, utrum tollerare malos, sedutrum
             debeamus scismaticis sociari. Si etiamipsi, licet in suo sensu habundantes, intra
             maternatamen positi uiscera quererent ueritatem, a nobis repellendi non erant, donec
-            apud eos ratione duce rei ueritasclaruisset. Sed quia se ab uniuersali ecclesia
+            apud eos ratione duce rei ueritas claruisset. Sed quia se ab uniuersali ecclesia
             diuiserunt, sicut B. Augustinus ait, omnis catholicus securus eampartem detestatur, cui
-            ecclesiam uniuersalem apostolicissedibus roboratam non conmunicare cognoscit. §. 2.
+            ecclesiam uniuersalem apostolicis sedibus roboratam non conmunicare cognoscit. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e648">
+            §. 2.
             Necenim leuigat eorum crimen, magis uero auget, quod eosrestitisse diu dixistis, ne
             apostolicis conmunicantes sedibusin sua conmunione reciperent. In hoc enim dum et
             illiculpandi sunt, qui conmunicare talibus uoluerunt, multomagis tamen illi execrandi
@@ -698,15 +739,21 @@
             ipsis laicis spreuerunt. Sed nec illud eis prodest, quodeos in eisdem litteris uel
             ignorantia rationis, uel simplicitate intellectus sui a nostra se conmunione suspendisse
             perhibetis. Id ipsum enim magis est, propter quod scismaticisunt, quia non eos diuersa
-            sentiendi iudicium, sed quedamapud se delata, sibi tamen incognita metuentes et
-            contraapostolicam sedem temere credentes, pessima diuisitoppinio. §. 3. Quod scisma
+            sentiendi iudicium, sed quedam apud se delata, sibi tamen incognita metuentes et
+            contraapostolicam sedem temere credentes, pessima diuisitoppinio. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e651">
+            §. 3. Quod scisma
             specialiter esse beatus denunciat Augustinus, dicens de talibus: „Aduersus auctoritatem
-            illarum ecclesiarum, que ab apostolica* sede epistolas accipere meruerunt, temere
+            illarum ecclesiarum, que ab apostolica sede epistolas accipere meruerunt, temere
             credendo, inmanissimumcrimen scismatis a se propulsare non poterit.“ Adsummam, aut illos
             ecclesiam esse creditis, (et, cum duaeecclesiae esse non possint, nos, quod absit,
             scismaticosiudicabitis, ) aut, si ueram in apostolicis sedibus esseconstat ecclesiam, et
             illos ab unitate diuisos cognoscite, etconmunionis questionem esse sublatam, quam ueram
-            nisiin unitate constat esse non posse. §. 4. Noli ergo, quasinulla scismaticorum atque
+            nisiin unitate constat esse non posse. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e653">
+            §. 4. Noli ergo, quasinulla scismaticorum atque
             ecclesiae differentia sit, uelleindifferenter utrorumque sacrificiis sociari. Non est
             Christicorpus, quod scismaticus conficit, si ueritate duce dirigimur.Nec enim diuisum
             esse poterit Christum quisquam sineApostoli reprobatione confingere. Unam, ut sepe
@@ -714,11 +761,12 @@
             non potest. Simul enim, cum ab eaquisque discesserit, ecclesia esse desistit. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e630">
-          <head xml:id="gd-p2c24q1-Hd1e632">C. XXXV</head>
-          <head xml:id="gd-p2c24q1-Hd1e635" type="question-title"> Ex quo * episcopus fidei
+          <head xml:id="gd-p2c24q1-Hd1e632">Caput 35</head>
+          <head xml:id="gd-p2c24q1-Hd1e635" type="question-title"> Ex quo  episcopus fidei
             contraria docet , alium expoliare non potest. </head>
-          <p xml:id="gd-p2c24q1-d1e638"> Item Nykolaus Papa scribit Michaeli Augusto , [epist. VII.] </p>
-          <p xml:id="gd-p2c24q1-d1e641"> Ait Celestinus Papa**, orientalibus episcopis scribens: „Si
+          <p xml:id="gd-p2c24q1-d1e641"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e666">Nykolaus Papa scribit Michaeli Augusto , [epist. VII.]</ref> 
+            Ait Celestinus Papa, orientalibus episcopis scribens: „Si
             quis ab episcopo Nestorio, aut ab aliis, qui eumsecuntur, ex quo talia predicare
             ceperunt, uel excommunicatus, uel exutus est seu antistitis seu clerici dignitate, hunc
             in nostra communione et durasse, et durare manifestum est, nec iudicamus eum esse
@@ -726,51 +774,55 @@
             remouendum.“ </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e645">
-          <head xml:id="gd-p2c24q1-Hd1e647">C. XXXVI</head>
+          <head xml:id="gd-p2c24q1-Hd1e647">Caput 36</head>
           <head xml:id="gd-p2c24q1-Hd1e650" type="question-title"> Non habeantur excommunicati qui
             ab hereticis excommunicantur. </head>
-          <p xml:id="gd-p2c24q1-d1e653"> Item ad Clerum Constantinopolitanum *. </p>
-          <p xml:id="gd-p2c24q1-d1e656"> Aperte, inquit, sedis nostrae sanxit auctoritas, nullum
+          <p xml:id="gd-p2c24q1-d1e656"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e680">ad Clerum Constantinopolitanum</ref>. 
+            Aperte, inquit, sedis nostrae sanxit auctoritas, nullum
             siue episcopum, siue clericum, seu professione aliqua Christianum, qui a Nestorio, uel
-            eius similibus, ex quo talia </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e659"> predicare ceperunt, uel conmunione uel loco suo deiecti
+            eius similibus, ex quo talia  predicare ceperunt, uel conmunione uel loco suo deiecti
             sunt, uel eiectum uel excommunicatum uideri: sed hiiomnes in nostra conmunione hucusque
             perdurant, quianeminem deicere uel remouere poterat qui predicanstalia
-            titubabat.Intellexisti**, inperator, ex su </p>
-          <p xml:id="gd-p2c24q1-d1e663"> pra memoratis non potuisse, ut non dicamus saltim prelatum
+            titubabat. Intellexisti, inperator, ex supra memoratis non potuisse, ut non dicamus saltim prelatum
             suum, quemlibet remouere, qui fuerantolim s remoti, nec deicere quemquam iam
             anteprostrati? </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e667">
-          <head xml:id="gd-p2c24q1-Hd1e669">C. XXXVII</head>
+          <head xml:id="gd-p2c24q1-Hd1e669">Caput 37</head>
           <head xml:id="gd-p2c24q1-Hd1e672" type="question-title"> Ad iudicandum excommunicati non
             sunt recipiendi . </head>
-          <p xml:id="gd-p2c24q1-d1e675"> Item Nylcolaus Papa [ibidem paulo inferius]. </p>
-          <p xml:id="gd-p2c24q1-d1e678"> Miramur, quomodo excommunicati ad iudicandum recepti sint,
-            cum secundum apostolicos canones sine con-mendaticiis litteris in sola conmunione recipi
+          <p xml:id="gd-p2c24q1-d1e678"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e694">Nylcolaus Papa [ibidem paulo inferius].</ref> 
+            Miramur, quomodo excommunicati ad iudicandum recepti sint,
+            cum secundum apostolicos canones sine conmendaticiis litteris in sola conmunione recipi
             prohibeantur. Absurdum enim est, ut, cui non licet etiam cum minimisiuxta sacras regulas
             conmunicare, liceat etiam ei de suispene maioribus iudicare. </p>
-          <p xml:id="gd-p2c24q1-d1e681"> Gratian. His auctoritatibus perspicue monstratur, quod, ex
+        </div>
+        <div xml:id="gd-p2c24q1-Dd1e699">
+          <head xml:id="gd-p2c24q1-Hd1e701">Dictum</head>
+          <p xml:id="gd-p2c24q1-d1e681">His auctoritatibus perspicue monstratur, quod, ex
             quo aliquis contra fidem ceperit aliqua docere, nec deicerealiquem ^ ualet nec dampnare.
-            §. i. Obiciiur tamen illudAugustini : „Recedentes a fide nec baptisma, nec
-            baptizandipotestatem amittunt .“ Cum ergo sacerdotalem unctionem utraquepotestas,
-            baptizandi uidelicet et excommunicandi, sequatur, a fiderecedentes aut utramque
+          </p>
+          <p xml:id="gd-p2c24q1-d1e706">
+            §. i. Obiciiur tamen illud Augustini : „Recedentes a fide nec baptisma, nec
+            baptizandi potestatem amittunt .“ Cum ergo sacerdotalem unctionem utraque potestas,
+            baptizandi uidelicet et excommunicandi, sequatur, a fide recedentes aut utramque
             retinebunt, aut utraque carebunt. Sedaliud est potestas offitii, aliud executio.
-            Plerumque offitii potestasuel accipitur, ueluii a monachis in sacerdotali unctione, uel
-            acceptasine sui executione retinetur, ueluii a suspensis, quibus amministra-tio
+            Plerumque offitii potestas uel accipitur, uel uii a monachis in sacerdotali unctione, uel
+            acceptasine sui executione retinetur, uel uii a suspensis, quibus amministra-tio
             interdicitur, potestas non aufertur. A fide itaque recedentibus potestas non adimitur,
-            sicut redeuntibus non redditur, ne nonhomini, sed sacramento iniuria uideatur fieri .
-            Unde ab hereticisbaptizati uel ordinati, cum ad unitatem fidei catholicae redierint, si
+            sicut redeuntibus non redditur, ne non homini, sed sacramento iniuria uideatur fieri .
+            Unde ab hereticis baptizati uel ordinati, cum ad unitatem fidei catholicae redierint, si
             forte intuitu ecclesiasticae^ pacis in suis recipiantur ordinibus, non iterabitur
             sacramentum , quod in forma ecclesiae probabitur ministratum, sed per inpositionem manus
-            prestabituruirtus sacramenti, que extra ecclesiam nulli docetur esse collata.Cum ergo
-            utraque potestas in hereticis remaneat, si hereticuscatholicum uel alium hereticum
-            excommunicauerit, ut in con-munionem suae heresis illum deducat, quia iniqua est
-            sentencia, pondere caret. §. 2. Quod si in catholicum praue uiuentem, uelin hereticum
+            prestabitur uirtus sacramenti, que extra ecclesiam nulli docetur esse collata.Cum ergo
+            utraque potestas in hereticis remaneat, si hereticus catholicum uel alium hereticum
+            excommunicauerit, ut in conmunionem suae heresis illum deducat, quia iniqua est
+            sentencia, pondere caret. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e708">
+            §. 2. Quod si in catholicum praue uiuentem, uelin hereticum
             flagiciis uel facinoribus deditum, ut alias ad recteuiuendi normam uter que redeat,
             sentenciam dederit, an uterque, anhereticus tantum eius sentencia teneatur , merito
             querendumuidetur ? Potest autem dici, catholicum sentencia heretici minimeteneri. Non
@@ -785,43 +837,52 @@
 
         </div>
         <div xml:id="gd-p2c24q1-Dd1e689">
-          <head xml:id="gd-p2c24q1-Hd1e691">C. XXXVIII</head>
-          <head xml:id="gd-p2c24q1-Hd1e694" type="question-title"> Pro^* facinore ab hereticis
+          <head xml:id="gd-p2c24q1-Hd1e691">Caput 38</head>
+          <head xml:id="gd-p2c24q1-Hd1e694" type="question-title"> Pro facinore ab hereticis
             excommunicatus a catholicis non est recipiendus . </head>
-          <p xml:id="gd-p2c24q1-d1e697"> Quisquis pro aliquo facinore uel flagicio proiectum a uobis
+          <p xml:id="gd-p2c24q1-d1e697"> 
+            Quisquis pro aliquo facinore uel flagicio proiectum a uobis
             ita suscipit, sicut suscipiuntur qui excepto errore, quoa nobis separamini, sine crimine
             apud uos uixerunt, displicet nobis. Sed nec facile ista monstratis, et, si monstretis,
-            nonnullos tolleramus, quos corrigere uel punire nonpossumus, neque propter paleam
-            relinquimus aream Domini, neque propter pisces malos rumpimus retia Domini, nequepropter
-            hedos in fine segregandos deserimus gregemDomini, neque propter uasa facta in
-            contumeliam migramusde domo Domini. </p>
+            nonnullos tolleramus, quos corrigere uel punire non possumus, neque propter paleam
+            relinquimus aream Domini, neque propter pisces malos rumpimus retia Domini, neque propter
+            hedos in fine segregandos deserimus gregem Domini, neque propter uasa facta in
+            contumeliam migramus de domo Domini. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e702">
-          <head xml:id="gd-p2c24q1-Hd1e704">C. XXXIX</head>
+          <head xml:id="gd-p2c24q1-Hd1e704">Caput 39</head>
           <head xml:id="gd-p2c24q1-Hd1e707" type="question-title"> Quisquis propter disciplinam ab
             hereticis excommunicatur, a catholicis non est 1'ecipiendus. </head>
-          <p xml:id="gd-p2c24q1-d1e710"> Idem ad Eusebium, [epist. CLXIX.] </p>
-          <p xml:id="gd-p2c24q1-d1e713"> Subdiaconus quondam Hispaniensis ecclesiae, uocabulo
+          <p xml:id="gd-p2c24q1-d1e713"> 
+            <ref xml:id="gd-p2c24q1-Rd1e736">Idem ad Eusebium, [epist. CLXIX.]</ref> 
+            Subdiaconus quondam Hispaniensis ecclesiae, uocabulo
             Primus, cum ab accessu indisciplinato sanctiomonialium prohiberetur, atque ordinata et
-            sana preceptacontempneret, a clericatu remotus est. §. i. Ego, siDomino placet, istum
+            sana preceptacontempneret, a clericatu remotus est. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e739">
+            §. i. Ego, si Domino placet, istum
             modum seruo, ut quisquis apud eospropter disciplinam degradatus ad catholicam
             transireuoluerit, in humiliatione penitenciae recipiatur, quo et ipsiforsitan eum
             cogerent, si apud eos manere uoluisset. </p>
-          <p xml:id="gd-p2c24q1-d1e716"> Gratian. Sed istud Augustini intelligitur dictum non
+        </div>
+        <div xml:id="gd-p2c24q1-Dd1e742">
+          <head xml:id="gd-p2c24q1-Hd1e74g">Dictum</head>
+          <p xml:id="gd-p2c24q1-d1e716">
+            Sed istud Augustini intelligitur dictum non
             propter sentenciam, cuius potestas nulla est extra ecclesiam, sedin detestatione
             criminum, que in hereticis, sicut in catholicis, eque sunt punienda. Potest tamen illud
-            Augustini de potestatebaptizandi intelligi, non ligandi, aut soluendi, uel cetera
-            sacramenta ministrandi. Baptisma namque siue ab heretico, siueetiam a laico ministratum
-            fuerit , dummodo in unitate catholicae fidei accipiatur, non carebit effectu. Alia uero
+            Augustini de potestate baptizandi intelligi, non ligandi, aut soluendi, uel cetera
+            sacramenta ministrandi. Baptisma namque siue ab heretico, siue etiam a laico ministratum
+            fuerit, dummodo in unitate catholicae fidei accipiatur, non carebit effectu. Alia uero
             sacramenta, ut sacri corporis et sanguinis Domini, excommunicationis
-            uelreconciliationis, si ab heretico uel catholico non sacerdote ministrentur, uel
-            nullum, uel letalem habebunt effectum. Unde et abhominibus fidelibus nullatenus sunt
+            uel reconciliationis, si ab heretico uel catholico non sacerdote ministrentur, uel
+            nullum, uel letalem habebunt effectum. Unde et ab hominibus fidelibus nullatenus sunt
             recipienda . </p>
           <p xml:id="gd-p2c24q1-d1e720"> Hinc Augustinus scribit in I. lib. de unico baptismo
             [contra Donatistas, c. 2.]: </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e724">
-          <head xml:id="gd-p2c24q1-Hd1e726">C. XL</head>
+          <head xml:id="gd-p2c24q1-Hd1e726">Caput 40</head>
           <head xml:id="gd-p2c24q1-Hd1e729" type="question-title"> In extremo positus etiam ab
             heretico penitenciam accipere ualet.</head>
           <p xml:id="gd-p2c24q1-d1e732"> Si quem forte coegerit extrema necessitas et ubi
@@ -833,50 +894,50 @@
             non inprobamus quod fecit, sedetiam securissime uerissimeque laudamus, quoniam presentem
             Deum credidit cordi suo, ubi unitatem seruabat, et sine sancti baptismi sacramento
             (quod, ubicumque in-uenit, non hominum, sed Dei esse cognouit) noluit ex hac
-            uitamigrare. Si quis autem, cum possit in ipsas accipere, </p>
-
-
-
-
-          <p xml:id="gd-p2c24q1-d1e735"> aliqua mentis peruersitate elegerit in scismate baptizari,
-            etiamsi postea* uenerit ad catholicam ecclesiam, certum est ibi prodesse sacramentum,
-            quod alibi accipipotest, prodesse* non potest; peruersus et iniquus est, et tanto
+            uitamigrare. Si quis autem, cum possit in ipsas accipere, 
+            aliqua mentis peruersitate elegerit in scismate baptizari,
+            etiamsi postea uenerit ad catholicam ecclesiam, certum est ibi prodesse sacramentum,
+            quod alibi accipipotest, prodesse non potest; peruersus et iniquus est, et tanto
             perniciosius, quanto scientius. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e739">
-          <head xml:id="gd-p2c24q1-Hd1e741">C. XLI</head>
-          <head xml:id="gd-p2c24q1-Hd1e744" type="question-title"> Annum^-peniteat qui de manu
+          <head xml:id="gd-p2c24q1-Hd1e741">Caput 41</head>
+          <head xml:id="gd-p2c24q1-Hd1e744" type="question-title"> Annum peniteat qui de manu
             heretici nesciens prohibitam conmunionem accepit . </head>
-          <p xml:id="gd-p2c24q1-d1e747"> Item Iulianus Papa*. </p>
-          <p xml:id="gd-p2c24q1-d1e750"> Si quis dederit aut acceperit conmunionem de manu heretici,
+          <p xml:id="gd-p2c24q1-d1e750"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e775">Iulianus Papa</ref>
+            Si quis dederit aut acceperit conmunionem de manu heretici,
             et nescit, quod catholica ecclesia contradicit, postea intelligens, annum integrum
             peniteat. Si autemscit, et neglexerit, et postea penitenciam egerit, decemannos
-            peniteat. Alii iudicant septem, et quidamhumanius, ut quinque annos peniteat. §. i. Si
+            peniteat. Alii iudicant septem, et quidamhumanius, ut quinque annos peniteat. 
+          </p>
+          <p xml:id="gd-p2c24q1-d1e778">
+            §. i. Si
             quispermiserit hereticum missam suam celebrare in ecclesiacatholica, et nescit,
             quadraginta dies peniteat; si pro reuerentia eius, annum unum peniteat; si pro
             dampnationeecclesiae catholicae, et consuetudinis Romanorum, pro-iciatur ab ecclesia,
             sicut hereticus, nisi habeat penitenciam; si habuerit, decem annos peniteat. Si
             recesseritab ecclesia catholica in congregatione hereticorum, etalios persuaserit,
-            postea si penitenciam egerit, duodecim annos peniteat, tres extra* ecclesiam et s septem
+            postea si penitenciam egerit, duodecim annos peniteat, tres extra ecclesiam et s septem
             inter audientes, et duos adhuc extra conmunionem. De his ita in canone dicitur, ut
-            duodecimo**anno conmunionem sine oblatione percipiant. </p>
+            duodecimo anno conmunionem sine oblatione percipiant. </p>
         </div>
         <div xml:id="gd-p2c24q1-Dd1e754">
-          <head xml:id="gd-p2c24q1-Hd1e756">C. XLII</head>
+          <head xml:id="gd-p2c24q1-Hd1e756">Caput 42</head>
           <head xml:id="gd-p2c24q1-Hd1e759" type="question-title"> Pocius est mortem arripere quam
             de manu heretici conmunionem accipere. </head>
-          <p xml:id="gd-p2c24q1-d1e762"> Item Gregorius [Papa lib. III. Dialog., cap. 31.] </p>
-          <p xml:id="gd-p2c24q1-d1e765"> Cepit Erminegildus rex iuuenis terrenum regnum despiciens ,
+          <p xml:id="gd-p2c24q1-d1e765"> 
+            Item <ref xml:id="gd-p2c24q1-Rd1e792">Gregorius [Papa lib. III. Dialog., cap. 31.]</ref> 
+            Cepit Erminegildus rex iuuenis terrenum regnum despiciens ,
             et forti desiderio celeste querens, in ciliciis iacere uinculatus et omnipotenti Deo ad
             confortandum se preces effundere, tantoque sublimius gloriamtranseuntis mundi despicere,
-            quanto et religatus agnoueratnil fuisse, quod potuit auferri. Superueniente
+            quanto et religatus agnouerat nil fuisse, quod potuit auferri. Superueniente
             autemfestiuitatis pascalis die, intempestae noctis silentio ad eumperfidus pater
             Arrianum episcopum misit, ut de eius manusacrilegae consecrationis conmunionem
             perciperet, atqueper hoc ad patris gratiam redire mereretur. Sed uir Deodeditus Arriano
             episcopo uenienti exprobrauit ut debuit, eiusque a se perfidiam dignis increpationibus
             repulit, quiaetsi exterius iacebat ligatus, apud se tamen in magno mentisculmine stabat
             securus. Ad se itaque reuerso episcopo </p>
-
           <p xml:id="gd-p2c24q1-d1e768"> Arriano pater infremuit, statimque suos apparitores misit,
             qui constantissimum confessorem Dei illic, ubi iacebat, occiderent^ </p>
         </div>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO VI. </title>
+        <title>QUESTIO 6</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO VI. </title>
+          <title> QUESTIO 6</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,52 +53,62 @@
     </front>
     <body>
       <div xml:id="gd-p2c26q6">
-        <head xml:id="gd-p2c26q6-Hd1e103"> QUESTIO VI. </head>
-
+        <head xml:id="gd-p2c26q6-Hd1e103"> QUESTIO 6</head>
+        <div xml:id="gd-p2c26q6-Dd1e100">
+          <head xml:id="gd-p2c26q6-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c26q6-d1e106"> Quod autem ab episcopo excommunicatus eo inconsulto ab alio
           reconciliari non possit , nisi forte per eius metropolitanumuel per summum Pontificem ,
-          ratione et auctoritate probatur.Presbiteri namque potestatem excommunicandi uel
+          ratione et auctoritate probatur. Presbiteri namque potestatem excommunicandi uel
           reconciliandiab episcopis accipiunt , non episcopi a presbiteris , atque ideo
           excommunicatos a sacerdotibus reconciliare possunt , excommunicatos uero ab episcopis
           sacerdotes reconciliare non ualent . Reconciliatio namque penitentiam episcopale offitium
           est , nonsacerdotale . </p>
-        <p xml:id="gd-p2c26q6-d1e109"> Unde in Concilio Cartaginensi II.* c. 3. Fortunatus Episcopus
+        <p xml:id="gd-p2c26q6-d1e109"> Unde in Concilio Cartaginensi II. c. 3. Fortunatus Episcopus
           dixit: </p>
+        </div>
         <div xml:id="gd-p2c26q6-Dd1e112">
-          <head xml:id="gd-p2c26q6-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c26q6-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c26q6-Hd1e117" type="question-title"> Penitentiam reconciliatio ,
             erismatis et puellarum consecratio a presbiteris non fiat. </head>
-          <p xml:id="gd-p2c26q6-d1e120"> Si iubet sanctitas uestra, suggero. Nam memini, preterito
+          <p xml:id="gd-p2c26q6-d1e120"> 
+            Si iubet sanctitas uestra, suggero. Nam memini, preterito
             concilio statutum, ut crisma, uel reconciliatio peni-tentium, nec non et puellarum
             consecratio a presbiteris non fiat. Si quis autem emerserit hoc faciens, quid de
             eostatuendum sit? Aurelius episcopus dixit: Audiuit dignatiouestra suggestionem fratris
             et coepiscopi nostri Fortunati, quid ad hec dicitis? Ab uniuersis episcopis dictum
             est:Crismatis confectio, et puellarum consecratio a presbiterisnon fiat. Reconciliare
             quemquam in publica missapresbitero non liceat. Hoc omnibus placet. </p>
-          <p xml:id="gd-p2c26q6-d1e123"> Gratian. Puellarum tamen consecratio episcopo consulto per
+        </div>
+        <div xml:id="gd-p2c26q6-Dd1e123">
+          <head xml:id="gd-p2c26q6-Hd1e125">Dictum</head>
+          <p xml:id="gd-p2c26q6-d1e123">Puellarum tamen consecratio episcopo consulto per
             presbiterum fieri ualet. </p>
           <p xml:id="gd-p2c26q6-d1e126"> Unde in Cartaginensi Concilio III. [c 36.]: </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e130">
-          <head xml:id="gd-p2c26q6-Hd1e132">C. II</head>
+          <head xml:id="gd-p2c26q6-Hd1e132">Caput 2</head>
           <head xml:id="gd-p2c26q6-Hd1e135" type="question-title"> Permissione episcopi uirgines
             consecrare presbiter ualet.</head>
           <p xml:id="gd-p2c26q6-d1e138"> Presbiter inconsulto episcopo uirgines non consecret;
             crisma uero numquam conficiat. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e143">
-          <head xml:id="gd-p2c26q6-Hd1e145">C. III</head>
+          <head xml:id="gd-p2c26q6-Hd1e145">Caput 3</head>
           <head xml:id="gd-p2c26q6-Hd1e148" type="question-title"> Nec diacono ministrare , nec
             penitentem in ecclesia benedicere presbitero licet. </head>
-          <p xml:id="gd-p2c26q6-d1e151"> Item ex Concilio Agatensi , [c. 43. et 44.] </p>
-          <p xml:id="gd-p2c26q6-d1e154"> Ministrare diaconus, aut consecrare altare presbiternon
-            presumat. §. 1. Benedictionem quoque super plebemin ecclesia fundere, aut penitentem in
+          <p xml:id="gd-p2c26q6-d1e154"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e157">Concilio Agatensi , [c. 43. et 44.] </ref>
+            Ministrare diaconus, aut consecrare altare presbiternon
+            presumat. 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e160">
+            §. 1. Benedictionem quoque super plebemin ecclesia fundere, aut penitentem in
             ecclesia benedicerepresbitero penitus non licebit. </p>
-
-
-
-
-          <p xml:id="gd-p2c26q6-d1e157"> Gratian. Ecce, quod ab episcopo excommunicatus per
+        </div>
+        <div xml:id="gd-p2c26q6-Dd1e163">
+          <head xml:id="gd-p2c26q6-Hd1e165">Dictum</head>
+          <p xml:id="gd-p2c26q6-d1e157">
+            Ecce, quod ab episcopo excommunicatus per
             sacerdotem reconciliari non potest. Sed notandum est, quod reconciliatio alia est
             publica, alia priuata. Publica reconciliatio est, quando penitentes ante ecclesiae
             ingressum publice representan-tur, et per inpositionem manus episcopalis ecclesiae
@@ -112,131 +120,151 @@
           <p xml:id="gd-p2c26q6-d1e161"> Unde Euaristus Papa ait: </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e165">
-          <head xml:id="gd-p2c26q6-Hd1e167">C. IV</head>
-          <head xml:id="gd-p2c26q6-Hd1e170" type="question-title"> lussione episcopi presbiteri de
+          <head xml:id="gd-p2c26q6-Hd1e167">Caput 4</head>
+          <head xml:id="gd-p2c26q6-Hd1e170" type="question-title">Iussione episcopi presbiteri de
             occultis peccatis penitentes reconcilient.</head>
           <p xml:id="gd-p2c26q6-d1e173"> Presbiteri de occultis peccatis iussione episcopi
             penitentes reconcilient, et, sicut supra premisimus, infirmantes absoluant et
             conmunicent. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e177">
-          <head xml:id="gd-p2c26q6-Hd1e179">C. V</head>
+          <head xml:id="gd-p2c26q6-Hd1e179">Caput 5</head>
           <head xml:id="gd-p2c26q6-Hd1e182" type="question-title"> Si episcopus absens est, per
             presbiterum reconcilietur in periculo constitutus.</head>
-          <p xml:id="gd-p2c26q6-d1e185"> Item ex concilio Cartaginensi II., [c. 4.] </p>
-          <p xml:id="gd-p2c26q6-d1e188"> Aurelius episcopus dixit: Si quisquam in periculo fuerit
+          <p xml:id="gd-p2c26q6-d1e188"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e196">concilio Cartaginensi II., [c. 4.]</ref> 
+            Aurelius episcopus dixit: Si quisquam in periculo fuerit
             constitutus, et se reconciliari diuinis altaribuspetierit, si episcopus absens fuerit,
             debet utique presbiterconsulere episcopum, et sic periclitantem eius
             preceptoreconciliare. Quam rem debemus salubri consilio roborare. Ab uniuersis episcopis
             dictum est: Placet quodsanctitas uestra necessario nos instruere dignata est. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e192">
-          <head xml:id="gd-p2c26q6-Hd1e194">C. VI</head>
+          <head xml:id="gd-p2c26q6-Hd1e194">Caput 6</head>
           <head xml:id="gd-p2c26q6-Hd1e197" type="question-title"> Qui metu mortis reconciliatur
             conualescens sine conmunione penitenciae inpleat tempus. </head>
-          <p xml:id="gd-p2c26q6-d1e200"> Item ex Concilio Martini Papae, [c. 82.] </p>
-          <p xml:id="gd-p2c26q6-d1e203"> Si quis de corpore exiens nouissimum et necessarium
-            conmunionis uiaticum expetit, non ei denegetur. Quod siin desperatione positus post
+          <p xml:id="gd-p2c26q6-d1e203"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e210">Concilio Martini Papae, [c. 82.]</ref>
+            Si quis de corpore exiens nouissimum et necessarium
+            conmunionis uiaticum expetit, non ei denegetur. Quod si in desperatione positus post
             acceptam conmunionem iterum sanus fuerit factus, tantum oratione particeps sit,
             sacramentum uero non accipiat, donec institutumpenitenciae inpleat tempus. Qui ergo in
             exitu mortissunt, et desiderant accipere sacramentum, cum consideratione et probatione
             episcopi accipere debent. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e207">
-          <head xml:id="gd-p2c26q6-Hd1e209">C. VII</head>
+          <head xml:id="gd-p2c26q6-Hd1e209">Caput 7</head>
           <head xml:id="gd-p2c26q6-Hd1e212" type="question-title"> Sine manus inpositione recedentes
             de corpore reconcilientur. </head>
-          <p xml:id="gd-p2c26q6-d1e215"> Item ex Concilio Auras ico, [c. 3.] </p>
-
-          <p xml:id="gd-p2c26q6-d1e218"> Qui recedunt de corpore penitencia accepta, placuit sine
+          <p xml:id="gd-p2c26q6-d1e218"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e224">Concilio Auras ico, [c. 3.]</ref> 
+            Qui recedunt de corpore penitencia accepta, placuit sine
             reconciliatoria manus inpositione eis conmunicare , quod morientis sufficit
-            reconciliationi* secundum diffinitiones Patrum, qui huiusmodi conmunionem
+            reconciliationi secundum diffinitiones Patrum, qui huiusmodi conmunionem
             uiaticumcongrue, nominauerunt. Quod si superuixerint, stent inordine penitentium, ut
             ostensis necessariis penitenciaefructibus legitimam conmunionem cum reconciliatoria
-            manus inpositione recipiant. §. 1. Clericis quoque desiderantibus penitencia non est
-            neganda. §. 2. Similitersubito obmutescens (prout statutum est) baptizari,
+            manus inpositione recipiant. 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e227">
+            §. 1. Clericis quoque desiderantibus penitencia non est
+            neganda. 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e229">
+            §. 2. Similitersubito obmutescens (prout statutum est) baptizari,
             autpenitenciam accipere potest, si uoluntatis preteritae testimonium aliorum uerbis
-            habet, aut presentis in suo nutu.§. 3. Amentibus etiam quecumque pietatis sunt sunt
+            habet, aut presentis in suo nutu.
+          </p>
+          <p xml:id="gd-p2c26q6-d1e232">
+            §. 3. Amentibus etiam quecumque pietatis sunt sunt
             conferenda. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e222">
-          <head xml:id="gd-p2c26q6-Hd1e224">C. VIII</head>
+          <head xml:id="gd-p2c26q6-Hd1e224">Caput 8</head>
           <head xml:id="gd-p2c26q6-Hd1e227" type="question-title"> Aliorum testimonio moriturus
             reconcilietur, si obmutuit uel in frenesim uersus est.</head>
-          <p xml:id="gd-p2c26q6-d1e230"> Item ex Concilio CartaginensiIV., [c. 76.] </p>
-          <p xml:id="gd-p2c26q6-d1e233"> Is qui penitenciam in infirmitate petit, si casu, dum ad
-            eum sacerdos inuitatus uenit, oppressus infirmitateobmutuerit uel in frenesim conuersus
+          <p xml:id="gd-p2c26q6-d1e233"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e246">Concilio CartaginensiIV., [c. 76.]</ref> 
+            Is qui penitenciam in infirmitate petit, si casu, dum ad
+            eum sacerdos inuitatus uenit, oppressus infirmitate obmutuerit uel in frenesim conuersus
             fuerit, dent testimonium qui eum audierunt, et accipiat penitenciam, et, sicontinuo
             creditur moriturus, reconcilietur per manus inpositionem, et infundatur ori eius
             eucharistia. Si super-uixerit, admoneatur a supradictis testibus peticioni
             suaesatisfactum, et subdatur statutis penitenciae legibus, quamdiu sacerdos, qui
-            penitenciam dederit, probauerit. Item [c. 78.]: §. i. Penitentes, qui in infirmitate
+            penitenciam dederit, probauerit. 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e24g">
+            Item [c. 78.]: §. i. Penitentes, qui in infirmitate
             uiaticumeucharistiae acceperint, non se credant absolutos sinemanus inpositione, si
             superuixerint. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e238">
-          <head xml:id="gd-p2c26q6-Hd1e240">C. IX</head>
+          <head xml:id="gd-p2c26q6-Hd1e240">Caput 9</head>
           <head xml:id="gd-p2c26q6-Hd1e243" type="question-title"> Cura et probatione episcopi
             morientes reconcilientur.</head>
-          <p xml:id="gd-p2c26q6-d1e246"> Item ex Concilio Ni ceno, [c. 12.]* </p>
-          <p xml:id="gd-p2c26q6-d1e249"> De his uero, qui recedunt ex corpore, antiquae legis regula
+          <p xml:id="gd-p2c26q6-d1e249"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e262">Concilio Niceno, [c. 12.]</ref> 
+            De his uero, qui recedunt ex corpore, antiquae legis regula
             obseruabitur etiam nunc ita, ut, si forte quis recedit ex corpore, necessario uitae suae
             non defraudetur uiatico. Quod si desperatus aliquis recepta conmunione superuixerit, sit
-            inter eos, qui sola orationeconmunicant. De omnibus tamen his, qui a corporerecedunt, in
-            dando eis conmunionem cura et probatiosit episcopi. </p>
+            inter eos, qui sola oratione conmunicant. De omnibus tamen his, qui a corporerecedunt, in
+            dando eis conmunionem cura et probatio sit episcopi. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e253">
-          <head xml:id="gd-p2c26q6-Hd1e255">C. X</head>
+          <head xml:id="gd-p2c26q6-Hd1e255">Caput 10</head>
           <head xml:id="gd-p2c26q6-Hd1e258" type="question-title"> Non est neganda reconciliatio
             his, qui tempore necessitatis eam inplorant. </head>
-          <p xml:id="gd-p2c26q6-d1e261"> Item Leo Episcopus [ad Theodorum, ep. LXXXIX. al. XCI.] </p>
-          <p xml:id="gd-p2c26q6-d1e264"> His, qui in tempore necessitatis, et in periculiurgentis
+          <p xml:id="gd-p2c26q6-d1e264"> 
+            Item <ref xml:id="gd-p2c26q6-Rd1e276">Leo Episcopus [ad Theodorum, ep. LXXXIX. al. XCI.]</ref> 
+            His, qui in tempore necessitatis, et in periculiurgentis
             instantia presidium penitenciae, et mox reconciliationis inplorant, nec satisfactio
             interdicenda est, necreconciliatio deneganda, quia misericordiae Dei nec mensuras
-            possumus ponere, nec 'tempora diffinire, apud quemnullas patitur uenire* moras
-            conuersio, dicente Deispiritu per Prophetam: „Cum conuersus ingemueris, tunc saluus
-            eris.“ §. 1. Quod si ita aliqua egritu- </p>
-
-
-
-
-          <p xml:id="gd-p2c26q6-d1e267"> dine aggraiiati sunt, ut quod paulo ante poscebant** sub
+            possumus ponere, nec 'tempora diffinire, apud quemnullas patitur uenire moras
+            conuersio, dicente Dei spiritu per Prophetam: „Cum conuersus ingemueris, tunc saluus
+            eris.“ 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e279">
+            §. 1. Quod si ita aliqua egritudine aggraiiati sunt, ut quod paulo ante poscebant sub
             presenti significare non ualeant, testimonia eisfidelium circumstantium prodesse
             debebunt s. Simul tamen et penitenciae, et reconciliationis beneficium consequantur,
             seruata tamen regula canonumpaternorum circa eorum personas, qui in dominica
             fidediscedendo peccauerunt. </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e271">
-          <head xml:id="gd-p2c26q6-Hd1e273">C. XI</head>
+          <head xml:id="gd-p2c26q6-Hd1e273">Caput 11</head>
           <head xml:id="gd-p2c26q6-Hd1e276" type="question-title"> Non respuatur eius oblatio, qui
             festinans ad penitenciam sacerdotem inuenire non potuit. ' </head>
-          <p xml:id="gd-p2c26q6-d1e279"> Item ex Concilio Epanensi. </p>
-          <p xml:id="gd-p2c26q6-d1e282"> Si aliquis fuerit* mortuus, qui iam sit confessus, et
+          <p xml:id="gd-p2c26q6-d1e282"> 
+            Item ex <ref xml:id="gd-p2c26q6-Rd1e292">Concilio Epanensi.</ref>
+            Si aliquis fuerit mortuus, qui iam sit confessus, et
             testimonium habet bonum, et non poterat uenire adsacerdotem, sed preoccupauit eum mors
             in domo aut in uia, faciant pro eo parentes eius oblationem ad altare, et
             dentredemptionem pro captiuis. </p>
-          <p xml:id="gd-p2c26q6-d1e285"> Gratian. Ecce , quod episcopo precipiente penitentes de
-            occultis peccatis, siue in periculo constituti per presbiterum possunt reconciliari. §.
-            i. Sed si necessitate mortis peccator urgetur, et episcopus ita remotus est, quod eum
+        </div>
+        <div xml:id="gd-p2c26q6-Dd1e296">
+          <head xml:id="gd-p2c26q6-Hd1e29x">Dictum</head>
+          <p xml:id="gd-p2c26q6-d1e285">Ecce, quod episcopo precipiente penitentes de
+            occultis peccatis, siue in periculo constituti per presbiterum possunt reconciliari. 
+          </p>
+          <p xml:id="gd-p2c26q6-d1e303">
+            §. i. Sed si necessitate mortis peccator urgetur, et episcopus ita remotus est, quod eum
             presbiter consulere nonpossit, negabitur penitencia morienti? et beneficium
             reconciliationis non prestabitur penitentie quem conuersum Deus recipit adueniam, iuxta
             illud : „In quacumque hora peccator conuersusfuerit etc., et item : „ Conuertimini ad me
             in toto cordeuestro , et ego conuertar ad uos, ecclesia sibi reconciliarenegliget? quem
-            intus Deus suscitauit ecclesia foris absoluerecontempnet? dampnabit episcopi absentia
+            intus Deus suscitauit ecclesia foris absoluere contempnet? dampnabit episcopi absentia
             quem gratia diuinaepresenciae illustrat per lauacrum regenerationisf
             Moriturissuccurritur etiam a laicis, si presbiteri defuerint . Cur ergobeneficio
-            reconciliationis per presbiterum subueniri ei&amp; nonpoterit, si contigerit episcopum
-            deesse? si secundum Augustinumqui agens in extremis confitetur socio turpitudinem
+            reconciliationis per presbiterum subueniri ei&amp; non poterit, si contigerit episcopum
+            deesse? si secundum Augustinumq ui agens in extremis confitetur socio turpitudinem
             criminis fitdignus uenia ex desiderio sacerdotis, cur non similiter sit
             dignusreconciliatione ex desiderio episcopi qui sacerdoti non negat maculam sui reatus ?
             Item morientibus penitenciam negare presbiterinon debent. </p>
-          <p xml:id="gd-p2c26q6-d1e289"> Vnde lulius Papa ait : </p>
+          <p xml:id="gd-p2c26q6-d1e289"> Vnde Iulius Papa ait : </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e293">
-          <head xml:id="gd-p2c26q6-Hd1e295">C. XII</head>
+          <head xml:id="gd-p2c26q6-Hd1e295">Caput 12</head>
           <head xml:id="gd-p2c26q6-Hd1e298" type="question-title"> Reus est animarum presbiter, qui
             penitenciam morientibus abnegat?.</head>
-
           <p xml:id="gd-p2c26q6-d1e301"> Si presbiter penitenciam abnegauerit morientibus, reus erit
             animarum, quia Dominus dicit: „ Quacumquedie conuersus fuerit peccator ad penitenciam,
             uita uiuet, et non morietur. “ Vera enim confessio in ultimo tempore potest esse, quia
@@ -246,17 +274,17 @@
           </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e308">
-          <head xml:id="gd-p2c26q6-Hd1e310">C. XIII</head>
+          <head xml:id="gd-p2c26q6-Hd1e310">Caput 13</head>
           <head xml:id="gd-p2c26q6-Hd1e313" type="question-title"> Penitencia morientibus non est
             deneganda.</head>
           <p xml:id="gd-p2c26q6-d1e316"> Agnouimus penitenciam morientibus denegari, nec illorum
             desideriis annui, qui obitus sui tempore hoc animae suae cupiunt remedio subueniri.
             Horremus(fateor) tantae inpietatis aliquem reperiri, ut de Deipietate desperet, quasi
             non possit ad se quouis temporeconcurrenti succurrere, et periclitantem sub onere
-            peccatorum hominem redimere*, quo se uelle expediridesiderat et liberari. Quid hoc,
+            peccatorum hominem redimere, quo se uelle expediri desiderat et liberari. Quid hoc,
             rogo, aliud estquam morienti mortem addere, eiusque animam suacrudelitate, ne absoluta
-            possit esse, occidere? cumDominus ad subueniendum paratissimus, inuitatad penitenciam,
-            sic promittit s peccatori: „In quacumque hora etc., “ * et item: „Nolo mortem
+            possit esse, occidere? cum Dominus ad subueniendum paratissimus, inuitatad penitenciam,
+            sic promittit s peccatori: „In quacumque hora etc., “  et item: „Nolo mortem
             peccatoris, sed ut conuertatur, et uiuat.“ Salutem ergohomini adimit quisquis mortis
             tempore penitenciam sibi denegauerit, et desperauerit de misericordia Dei, qui eum ad
             subueniendum morienti sufficereuel in momento posse non crediderit p. Perdidissetlatro
@@ -267,22 +295,22 @@
             ingemueris, tuncsaluus eris.“ Cum ergo Dominus sit cordis inspector, quouis tempore non
             est deneganda penitencia postulanti, cum illi se obliget iudici, cui occulta omnia
             noueritreuelari. </p>
-          <p xml:id="gd-p2c26q6-d1e319"> Gratian. Cui autem penitencia non denegatur *, nec
-            reconciliatio sibi deneganda est. Inconsulto ergo episcopopenitentem presbiter
+        </div>
+        <div xml:id="gd-p2c26q6-Dd1e337">
+          <head xml:id="gd-p2c26q6-Hd1e339">Dictum</head>
+          <p xml:id="gd-p2c26q6-d1e319">Cui autem penitencia non denegatur , nec
+            reconciliatio sibi deneganda est. Inconsulto ergo episcopo penitentem presbiter
             reconciliare non debet, nisi ultima necessitas cogat. </p>
-
-
-
-
           <p xml:id="gd-p2c26q6-d1e322"> Unde in Cartaginensi Concilio III. [c. 32.]. legitur : </p>
         </div>
         <div xml:id="gd-p2c26q6-Dd1e326">
-          <head xml:id="gd-p2c26q6-Hd1e328">C. XIV</head>
+          <head xml:id="gd-p2c26q6-Hd1e328">Caput 14</head>
           <head xml:id="gd-p2c26q6-Hd1e331" type="question-title"> Inconsulto episcopo penitentem
             presbiter non reconciliet , nisi ultima cogat necessitas . </head>
-          <p xml:id="gd-p2c26q6-d1e334"> Presbiter inconsulto episcopo non reconciliet penitentem,
+          <p xml:id="gd-p2c26q6-d1e334"> 
+            Presbiter inconsulto episcopo non reconciliet penitentem,
             nisi absente episcopo ultima necessitas cogat. Cuiuscumque penitentis publicum et
-            uulgatissimum crimen est, quod uniuersam conmouerit urbem*, anteabsidam ecclesiae ei
+            uulgatissimum crimen est, quod uniuersam conmouerit urbem, anteabsidam ecclesiae ei
             manus inponatur. </p>
         </div>
       </div>

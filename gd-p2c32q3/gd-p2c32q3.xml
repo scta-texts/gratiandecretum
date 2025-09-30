@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. </title>
+        <title> QUESTIO 3</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. </title>
+          <title> QUESTIO 3</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,18 +53,23 @@
     </front>
     <body>
       <div xml:id="gd-p2c32q3">
-        <head xml:id="gd-p2c32q3-Hd1e103"> QUESTIO III. </head>
-        <p xml:id="gd-p2c32q3-d1e106"> GRATIANUS. </p>
+        <head xml:id="gd-p2c32q3-Hd1e103"> QUESTIO 3 </head>
+        <div xml:id="gd-p2c32q3-Dd1e100">
+          <head xml:id="gd-p2c32q3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c32q3-d1e109"> De tercia uero questione Pelagius diffinit, scribens Potent
           io Defensori : </p>
+        </div>
         <div xml:id="gd-p2c32q3-Dd1e112">
-          <head xml:id="gd-p2c32q3-Hd1e114">C. UN</head>
+          <head xml:id="gd-p2c32q3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c32q3-Hd1e117" type="question-title"> Arbitrium liberi aui, non
             originarii patris, puellam in nuptiis sequi oportet.</head>
           <p xml:id="gd-p2c32q3-d1e120"> Patrem puellae ecclesiae uestrae famulum, auum uero liberis
             ortum constat esse natalibus, et ideo aui magis electionem de coniunctione neptis, quam
-            patris eius, cuius nullo modo liberum potest esse arbitrium, decernimusattendi. </p>
-          <p xml:id="gd-p2c32q3-d1e123"> Gratian. Quia ergo electione aui huic ista nupsisse
+            patris eius, cuius nullo modo liberum potest esse arbitrium, decernimus attendi. </p>
+        </div>
+        <div xml:id="gd-p2c32q3-Dd1e120">
+          <head xml:id="gd-p2c32q3-Hd1e122">Dictum</head>
+          <p xml:id="gd-p2c32q3-d1e123">Quia ergo electione aui huic ista nupsisse
             probatur , hanc constat legitime sibi copulatam. </p>
         </div>
       </div>

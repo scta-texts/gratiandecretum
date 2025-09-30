@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO III. et IV. </title>
+        <title> QUESTIO 3 et 4 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO III. et IV. </title>
+          <title> QUESTIO 3 et 4 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,56 +53,81 @@
     </front>
     <body>
       <div xml:id="gd-p2c26q3et4">
-        <head xml:id="gd-p2c26q3et4-Hd1e103"> QUESTIO III. et IV. </head>
-        <p xml:id="gd-p2c26q3et4-d1e106"> I. Par s. A quibus autem genus diuinationis exordium
+        <head xml:id="gd-p2c26q3et4-Hd1e103"> QUESTIO 3 et 4 </head>
+      <div xml:id="gd-p2c26q3et4-Dd1e100">
+        <head xml:id="gd-p2c26q3et4-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c26q3et4-d1e106"> A quibus autem genus diuinationis exordium
           sumpserit, uel quot sint genera eius, Augustinus exponit in libro de natura demonum, ita
           dicens: </p>
+      </div>
         <div xml:id="gd-p2c26q3et4-Dd1e109">
-          <head xml:id="gd-p2c26q3et4-Hd1e111">C. I</head>
+          <head xml:id="gd-p2c26q3et4-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c26q3et4-Hd1e114" type="question-title"> De multiplici genere
             diuinationis.</head>
-          <p xml:id="gd-p2c26q3et4-d1e117"> Igitur genus diuinationis a Persis* fertur allatum. §.
+          <p xml:id="gd-p2c26q3et4-d1e117"> Igitur genus diuinationis a Persis* fertur allatum. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e119">
+            §.
             1. Varro autem dixit quatuor esse genera diuinationum, terram, aquam, aerem, et ignem:
-            hinc geomanticam, ydromanticam , aeromanticam, piromanticam dictamautumant. §. 2. Diuini
+            hinc geomanticam, ydromanticam , aeromanticam, piromanticam dictamautumant. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e121">
+            §. 2. Diuini
             dicti sunt, quasi deo pleni.Diuinitate enim se esse plenos simulant, et astutia
             quadamfraudulenta hominibus futura coniectant. Duo autemsunt genera diuinationis, ars et
-            furor. Incantatores autem sdicti sunt qui artem uerbis peragunt. §. 3. Arioli uocatisunt
+            furor. Incantatores autem sdicti sunt qui artem uerbis peragunt.
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e124">
+            §. 3. Arioli uocatisunt
             propter quod circa aras ydolorum nefarias precesemittunt, et funesta sacrificia
-            offerunt, hisque celebritatibusdemonum accipiunt responsa. §.4. Aruspices
+            offerunt, hisque celebritatibusdemonum accipiunt responsa. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e126">
+            §.4. Aruspices
             nuncupanturquasi horarum inspectores; dies enim et horas in agendis negociis operibusque
             custodiunt, et*quid per singulatempora obseruare debeat homo intendunt; hii etiam
-            extapecudum inspiciunt, et ex eis futura predicunt. §. 5. Augures sunt qui uolatus auium
+            extapecudum inspiciunt, et ex eis futura predicunt. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e128">
+            §. 5. Augures sunt qui uolatus auium
             et uoces intendunt, aliaquesigna rerum uel obseruationes inprouisas hominibus
             occurrentes ferunt. Idem sunt et auspices; nam auspiciasunt, que iter facientes
-            obseruant. Dicta sunt autem auspicia™, et auguria quasi auigerum, quod° auesgerunt. Duo
+            obseruant. Dicta sunt autem auspicia, et auguria quasi auigerum, quod° auesgerunt. Duo
             sunt autem genera auspiciorum, unum adoculos, alterum ad aures pertinens: ad oculos
-            scilicet uolatus, ad aures uox auium. §. 6. PhithonissaeP a Phi-thonio 3 Apolline
-            dictae, quod is auctor fuerit diuinandi. </p>
-
-
-
-
-          <p xml:id="gd-p2c26q3et4-d1e120"> Astrologi dicti sunt eo, quod in astris auguriahtur.
+            scilicet uolatus, ad aures uox auium. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e130">
+            §. 6. PhithonissaeP a Phi-thonio 3 Apolline
+            dictae, quod is auctor fuerit diuinandi.  Astrologi dicti sunt eo, quod in astris auguriahtur.
             Genethliaci appellati sunt propter nataliciorum considerationes dierum. Geneses enim
             hominum per duodecim celisigna describunt, siderumque cursus nascentium mores, actus, et
             euentus predicere conantur, id est quis qualisigno fuerit natus, aut quem effectum
             habeat uitae quinascitur interpretantur. Hii sunt, qui uulgo mathematici uocantur, cuius
             superstitionis genus constellationesLatini uocant, id est notationes syderum, quomodo
-            sehabeant, cum quisque nascitur. §. 7. Primum autemidem stellarum interpretes magi
+            sehabeant, cum quisque nascitur. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e132">
+            §. 7. Primum autemidem stellarum interpretes magi
             nuncupantur, sicut dehis legitur qui in euangelio natum Christum annuncia-uerunt. Postea
             hoc nomine soli mathematici dicti sunt.Cuius artis scientia usque ad Christumy fuit
             concessa, utChristo edito nemo exinde natiuitatem alicuius de celo interpretetur.
             Horoscopi dicti, quod horas natiuitatis hominum speculentur dissimili et diuerso
-            fato.Sortilegi sunt qui sub nomine etc.. Ut supra: §. 8. Salisa-tores sunt uocati, qui,
+            fato.Sortilegi sunt qui sub nomine etc. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e134">
+            Ut supra: §. 8. Salisa-tores sunt uocati, qui,
             dum eis membrorum quecumque partes salierint, aliquid sibi exinde prosperum seutriste
             significari predicunt. </p>
-          <p xml:id="gd-p2c26q3et4-d1e123"> III. Pars. Gratian. Queritur autem de natura demonum,
+        </div>
+        <div xml:id="gd-p2c26q3et4-Dd1e137">
+          <head xml:id="gd-p2c26q3et4-Hd1e139">Dictum</head>
+          <p xml:id="gd-p2c26q3et4-d1e123">Queritur autem de natura demonum,
             cuius naturae sint, an futura prescire ualeant, uel quot modisfutura prenoscantf </p>
           <p xml:id="gd-p2c26q3et4-d1e127"> De his ita scribit Augustinus in eodem lib. [de
             diui-natione demonum, c. 3.]: </p>
         </div>
         <div xml:id="gd-p2c26q3et4-Dd1e131">
-          <head xml:id="gd-p2c26q3et4-Hd1e133">C. II</head>
+          <head xml:id="gd-p2c26q3et4-Hd1e133">Caput 2</head>
           <head xml:id="gd-p2c26q3et4-Hd1e136" type="question-title"> Quot modis demones futura
             prenoscunt . </head>
 
@@ -120,14 +143,20 @@
             demones, uerum etiairi multafaciunt, que quoniam homines dicere aut s facere non
             possunt, eos dignos quidam, quibus seruiant et quibus honoresdiuinos deferant,
             arbitrantur, instigante maxime uiciocuriositatis, propter amorem felicitatis falsae
-            atque terrenae, et exellentiae temporalis, [c. 5.]: §. i. Nunc igitur, quoniam de
+            atque terrenae, et exellentiae temporalis, 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e159">
+            [c. 5.]:  §. i. Nunc igitur, quoniam de
             diuinatione demonum questio est, primumsciendum est, illos ea plerumque prenunciare, que
             ipsifacturi sunt. Accipiunt enim sepe potestatem et morbosinmittere, et ipsum aerem
             uitiando morbidum reddere, etperuersis atque amatoribus terrenorum commodorummalefacta
             suadere, de quorum moribus certi sunt, quodsint eis talia suadentibus consensuri.
             Suadent miriset inuisibilibus modis, per illam subtilitatem corporahominum non
             sentientium penetrando, et se cogitationibus eorum per quedam imaginaria uisa miscendo,
-            siue uigi-lantium siue dormientium. §. 2. Aliquando autem non queipsi faciunt, sed que
+            siue uigi-lantium siue dormientium. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e161">
+            §. 2. Aliquando autem non queipsi faciunt, sed que
             naturalibus signis futura prenoscunt(que signa in hominum sensus uenire non possurit)
             antepredicunt. Neque enim, quia preuidet medicus quod pre-uidere nescit huius artis
             ignarus, ideo tamenPdiuinus habendus est. Quid autem mirum, si, quemadmodum ille
@@ -136,10 +165,16 @@
             preuident tempestates? Aliquandoetiam hominum dispositiones non solum uoce prolatas,
             uerum etiam cogitatione conceptas, cum signa quedam exanimo exprimuntur in corpore, tota
             facilitate perdiscunt, atque hinc etiam multa futura prenunciant, aliis uidelicetmira,
-            qui ista disposita non nouerunt. [c. 6.]: §. 3.Fallunt etiam studio fallendi, et inuida
+            qui ista disposita non nouerunt. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e164">
+            [c. 6.]: §. 3.Fallunt etiam studio fallendi, et inuida
             uoluntate, quahominum errore letantur. Sed ne apud cultores suos pondusauctoritatis
             amittant, id agunt, ut interpretibus suis signorumque suorum coniectoribus culpa
-            tribuatur, quandoipsi decepti fuerint uel mentiti. §. 4. Nonnumquamuero ipsi maligni
+            tribuatur, quandoipsi decepti fuerint uel mentiti. 
+          </p>
+          <p xml:id="gd-p2c26q3et4-d1e166">
+            §. 4. Nonnum quam uero ipsi maligni
             spiritus et illusores hominum atque in-uisores"y salutis eorum solent predicere defectum
             culturae suae et ydolorum ruinam, quatinus prescii uideanturquid in singulis regnis aut
             locis uenturum, et quid ad-uersi suae factioni contingere possit; quod etiam illi,
@@ -147,14 +182,18 @@
             templorum et simulachrorum euersione, quam Prophetae summi Dei tanto ante predixerunt,
             Serapis demon alicui cultorum suorum hoc de proximoprodidit, ut suam quasi diuinationem
             recedens uelfugiens conmendaret? </p>
-          <p xml:id="gd-p2c26q3et4-d1e142"> Pars. Gratian. Quod autem hominum dispositiones
+        </div>
+        <div xml:id="gd-p2c26q3et4-Dd1e170">
+          <head xml:id="gd-p2c26q3et4-Hd1e172">Dictum</head>
+          <p xml:id="gd-p2c26q3et4-d1e142">
+            Quod autem hominum dispositiones
             cogitatione conceptas per exteriora signa diabolus deprehendat, non firmissima ^ ratione
             uidetur approbatum. </p>
           <p xml:id="gd-p2c26q3et4-d1e145"> Unde idem Augustinus ait in lib. II. retractationum ,
             [c. 30.]: </p>
         </div>
         <div xml:id="gd-p2c26q3et4-Dd1e149">
-          <head xml:id="gd-p2c26q3et4-Hd1e151">C. III</head>
+          <head xml:id="gd-p2c26q3et4-Hd1e151">Caput 3</head>
           <head xml:id="gd-p2c26q3et4-Hd1e154" type="question-title"> Quod ex corporeis motibus
             internas animae cogitationes diabolus conprehendat , res occultissima est. </head>
           <p xml:id="gd-p2c26q3et4-d1e157"> Quodam loco dixi, demones aliquando hominum
@@ -163,10 +202,9 @@
             occultissimam audaciori assertione quam debui. Nam per-uenire ista ad noticiam demonum
             per nonnulla etiam experimenta conpertum est. Sed utrum quedam signa dentur excorpore
             cogitantium, illis sensibilia, nos autem latentia, analia ui spirituali ista cognoscant,
-            aut difficillime potestab hominibus, aut omnino non potest inueniri. </p>
+            aut difficillime potestab hominibus, aut omnino non potest inueniri. 
+          </p>
         </div>
-
-
       </div>
     </body>
   </text>
