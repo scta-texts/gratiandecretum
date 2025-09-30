@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO II. et III. </title>
+        <title> QUESTIO 2 et 3 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO II. et III. </title>
+          <title> QUESTIO 2 et 3 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,73 +53,95 @@
     </front>
     <body>
       <div xml:id="gd-p2c35q2et3">
-        <head xml:id="gd-p2c35q2et3-Hd1e103"> QUESTIO II. et III. </head>
-
+        <head xml:id="gd-p2c35q2et3-Hd1e103"> QUESTIO 2 et 3 </head>
+        <div xml:id="gd-p2c35q2et3-Dd1e100">
+          <head xml:id="gd-p2c35q2et3-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c35q2et3-d1e106"> Quia ergo a consanguineorum coniunctionibus, sicut
           probatum est, abstinere oportet, uidendum est, usque ad quem gradum a consanguineis
-          propriis abstinere oporteat, uel si ex cognationepropriae uxoris aliquam duci in coniugem
+          propriis abstinere oporteat, uel si ex cognatione propriae uxoris aliquam duci in coniugem
           liceat ? </p>
-
-        <p xml:id="gd-p2c35q2et3-d1e109"> De his ita scribit Gregorius Papa in Concilio Meldensi *. </p>
+        <p xml:id="gd-p2c35q2et3-d1e109"> De his ita scribit Gregorius Papa in Concilio Meldensi . </p>
+        </div>
         <div xml:id="gd-p2c35q2et3-Dd1e112">
-          <head xml:id="gd-p2c35q2et3-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c35q2et3-Hd1e117" type="question-title"> Usque ad septimam generationem
             nullus de sua cognatione ducat uxorem.</head>
-          <p xml:id="gd-p2c35q2et3-d1e120"> De affinitate consanguinitatis per gradus cognationis
-            placuit usque ad septimam generationem obseruare. Namet hereditas rerum, per legales
-            instrumentorum diffinitionessancita, usque ad septimum gradum protendit
-            heredumsuccessionem. Non enim succederent, nisi eis de propaginecognationis deberetur.
+          <p xml:id="gd-p2c35q2et3-d1e120"> 
+            De affinitate consanguinitatis per gradus cognationis
+            placuit usque ad septimam generationem obseruare. Nam et hereditas rerum, per legales
+            instrumentorum diffinitiones sancita, usque ad septimum gradum protendit
+            heredum successionem. Non enim succederent, nisi eis de propagine cognationis deberetur.
           </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e124">
-          <head xml:id="gd-p2c35q2et3-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c35q2et3-Hd1e129" type="question-title"> Infamia notantur qui
             consanguineas ducunt uxores. </head>
-          <p xml:id="gd-p2c35q2et3-d1e132"> Item Kalixtus Papa, [ep. II. ad Episcopos Galliae]. </p>
-          <p xml:id="gd-p2c35q2et3-d1e135"> Coniunctiones consanguineorum fieri prohibentur. Quare?
-            quia has et diuinae seculique prohibentleges. Leges ergo diuinae hec agentes, et eos,
-            qui ex eisprodeunt, non solum eiciunt, sed etiam s maledictos appellant. Leges ergo
+          <p xml:id="gd-p2c35q2et3-d1e135"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e133">Kalixtus Papa, [ep. II. ad Episcopos Galliae].</ref> 
+            Coniunctiones consanguineorum fieri prohibentur. Quare?
+            quia has et diuinae seculique prohibent leges. Leges ergo diuinae hec agentes, et eos,
+            qui ex eis prodeunt, non solum eiciunt, sed etiam s maledictos appellant. Leges ergo
             seculi infames tales uocant, et abhereditate repellunt. Nos uero sequentes patres
-            nostros infamia eos notamus, et infames esse censemus, quiainfamiae maculis sunt
+            nostros infamia eos notamus, et infames esse censemus, quia infamiae maculis sunt
             aspersi, nec eos uiros, nec accusationes, quas leges seculi reiciunt, suscipere
-            debemus.§. i. Eos autem consanguineos dicimus, quos diuinae,et inperatorum, ac
+            debemus.
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e136">
+            §. i. Eos autem consanguineos dicimus, quos diuinae,et inperatorum, ac
             Romanorum, atque Grecorum legesconsanguineos appellant, et in hereditate suscipiunt,
             necrepellere possunt. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e140">
-          <head xml:id="gd-p2c35q2et3-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c35q2et3-Hd1e145" type="question-title"> Affines in quinta generatione
             copulari possunt; in quarta, si inuenti fuerint, non separentur. </head>
-          <p xml:id="gd-p2c35q2et3-d1e148"> Item Fabianus Papa. </p>
-          <p xml:id="gd-p2c35q2et3-d1e151"> De propinquis, qui ad affinitatem per uirum et uxorem
+            <p xml:id="gd-p2c35q2et3-d1e151">
+              Item <ref xml:id="gd-p2c35q2et3-Rd1e149">Fabianus Papa.</ref> 
+              De propinquis, qui ad affinitatem per uirum et uxorem
             ueniunt, defuncta uxore uel uiro, in quinta generatione coniungantur; in quarta, si
             inuenti fuerint, non separentur. In tertia tamen propinquitate non licetuxorem alterius
-            accipere post obitum eius. Equaliter uirconiungatur in matrimonio eis, qui sibi
-            consanguineisunt, et uxoris suae consanguineis post mortem uxoris. </p>
-          <p xml:id="gd-p2c35q2et3-d1e154"> [C. IV.] Idem±°. </p>
-          <p xml:id="gd-p2c35q2et3-d1e158"> Qui propinquam sanguinis ducunt uxorem, et separantur,
+            accipere post obitum eius. Equaliter uir coniungatur in matrimonio eis, qui sibi
+            consanguinei sunt, et uxoris suae consanguineis post mortem uxoris. </p>
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e154">
+          <head xml:id="gd-p2c35q2et3-Hd1e156">Caput 4</head>
+          <p xml:id="gd-p2c35q2et3-d1e158"> 
+            <ref xml:id="gd-p2c35q2et3-Rd1e160">Idem</ref>
+            Qui propinquam sanguinis ducunt uxorem, et separantur,
             non licebit eis, sibi in coniugio sociare alias uxores, quamdiu utrique uiuunt. </p>
           <p xml:id="gd-p2c35q2et3-d1e161"> Gratianus nisi ignorantia excusentur. </p>
-          <p xml:id="gd-p2c35q2et3-d1e164"> Unde in Concilio apud Vermeriam *. </p>
+          <p xml:id="gd-p2c35q2et3-d1e164"> Unde in Concilio apud Vermeriam.</p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e168">
-          <head xml:id="gd-p2c35q2et3-Hd1e170">C. V</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e170">Caput 5</head>
           <head xml:id="gd-p2c35q2et3-Hd1e173" type="question-title"> Non prohibentur ducere uxores
             qui ignoranter incestum conmittunt. </head>
           <p xml:id="gd-p2c35q2et3-d1e176"> Si quis cum matre et filia fornicatus est ignorante
             matre de filia, et filia de matre, ille numquam accipiatuxorem; illae uero, si
             uoluerint, accipiant maritos. Siautem hoc scierint ipsae feminae, absque maritis
-            perpetuomaneant. [C. VI.] Item ex eodem**. </p>
-          <p xml:id="gd-p2c35q2et3-d1e179"> Si homo fornicatus fuerit cum muliere, et frater eius
-            nesciens eandem duxerit uxorem, frater, eo quod fratricrimen celauerit, peniteat**, et
-            post penitenciam nubat.Mulier autem usque ad mortem peniteat, et sine spe con-iugii
+            perpetuomaneant. 
+          </p>
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e182">
+          <head xml:id="gd-p2c35q2et3-Hd1e184">Caput 6</head>
+          <p xml:id="gd-p2c35q2et3-d1e179"> 
+            Item ex <ref xml:id="gd-p2c35q2et3-Rd1e188">eodem</ref> 
+            Si homo fornicatus fuerit cum muliere, et frater eius
+            nesciens eandem duxerit uxorem, frater, eo quod fratricrimen celauerit, peniteat, et
+            post penitenciam nubat. 
+            Mulier autem usque ad mortem peniteat, et sine spe con-iugii
             maneat. </p>
-          <p xml:id="gd-p2c35q2et3-d1e182"> Gratian. De his uero, qui ignoranter coniunguntur,
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e192">
+          <head xml:id="gd-p2c35q2et3-Hd1e194">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e182">
+            De his uero, qui ignoranter coniunguntur,
             ceterae auctoritates intelligendae sunt. </p>
-          <p xml:id="gd-p2c35q2et3-d1e186"> Unde Iulius Papa *. </p>
+          <p xml:id="gd-p2c35q2et3-d1e186"> Unde Iulius Papa. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e190">
-          <head xml:id="gd-p2c35q2et3-Hd1e192">C. VII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e192">Caput 7</head>
           <head xml:id="gd-p2c35q2et3-Hd1e195" type="question-title"> Ex propinquitate sui sanguinis
             uel uxoris usque in septimum gradum nullus ducat uxorem. </head>
           <p xml:id="gd-p2c35q2et3-d1e198"> Nullum in utroque sexu permittimus ex propinquitate
@@ -131,143 +151,172 @@
             coniugem ducere propter carnis unitatem. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e202">
-          <head xml:id="gd-p2c35q2et3-Hd1e204">C. VIII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e204">Caput 8</head>
           <head xml:id="gd-p2c35q2et3-Hd1e207" type="question-title"> Incestuosi nullo sunt digni
             nomine coniugii.</head>
-          <p xml:id="gd-p2c35q2et3-d1e210"> Item ex Concilio Agat en si, [c. 61.] </p>
-          <p xml:id="gd-p2c35q2et3-d1e213"> De incestis coniunctionibus nichil prorsus ueniae
-            re-seruamus, nisi cum adulterium separatione sanauerint. Incestos uero nullo coniugii
-            nomine deputandos, quosetiam designare funestum est. §. i. Hos enim* esse censemus, si
-            quis relictam fratris, (que pene prius soror ex-titerat) carnali coniunctione polluerit;
+          <p xml:id="gd-p2c35q2et3-d1e213"> 
+            Item ex <ref xml:id="gd-p2c35q2et3-Rd1e225">Concilio Agat en si, [c. 61.]</ref> 
+            De incestis coniunctionibus nichil prorsus ueniae
+            reseruamus, nisi cum adulterium separatione sanauerint. Incestos uero nullo coniugii
+            nomine deputandos, quos etiam designare funestum est. 
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e22x">
+            §. i. Hos enim esse censemus, si
+            quis relictam fratris, (que pene prius soror extiterat) carnali coniunctione polluerit;
             si quis fratergermanam uxorem acceperit; si quis nouercam duxerit; siquis consobrinae
-            sobrinaeque se sociauerit; si quisrelictae uel filiae auunculi misceatur, aut patrui
-            filiae,uel priuignae suae; aut qui ex propria consanguinitatealiquam, aut quam
+            sobrinaeque se sociauerit; si quis relictae uel filiae auunculi misceatur, aut patrui
+            filiae,uel priuignae suae; aut qui ex propria consanguinitate aliquam, aut quam
             consanguineus habuit concubitu polluerit aut uxorem duxerit. Quos omnes et olim, etsub
-            hac constitutione incestos esse non dubitamus, etinter catecuminos usque ad legitimam
+            hac constitutione incestos esse non dubitamus, et inter catecuminos usque ad legitimam
             satisfactionem manereet orare precipimus. Quod ita presenti tempore prohibemus, ut ea,
-            que sunt hactenus constituta, non dissolua-mus. §. 2. Sane quibus coniunctio illicita
-            interdicitur, habebunt** ineundi melioris coniugii libertatem. </p>
+            que sunt hactenus constituta, non dissolua-mus. 
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e230">
+            §. 2. Sane quibus coniunctio illicita
+            interdicitur, habebunt ineundi melioris coniugii libertatem. </p>
 
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e217">
-          <head xml:id="gd-p2c35q2et3-Hd1e219">C. IX</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e219">Caput 10</head>
           <head xml:id="gd-p2c35q2et3-Hd1e222" type="question-title"> Incestuosi usque ad
             satisfactionem excommunicentur.</head>
-          <p xml:id="gd-p2c35q2et3-d1e225"> Item ex Concilio Ylerdensi, [c. 4.] </p>
-          <p xml:id="gd-p2c35q2et3-d1e228"> De his, qui incesti pollutione conmaculant, placuit,
+          <p xml:id="gd-p2c35q2et3-d1e228"> 
+            Item ex <ref xml:id="gd-p2c35q2et3-Rd1e244">Concilio Ylerdensi, [c. 4.]</ref> 
+            De his, qui incesti pollutione conmaculant, placuit,
             quousque in ipso detestando et illicito carnis contubernio perseuerant, usque ad missam
             tantum catecumi-norum in ecclesia admittantur; cum quibus etiam neccibum sumere ulli
             Christianorum, sicut Apostolus iussit,licebit. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e232">
-          <head xml:id="gd-p2c35q2et3-Hd1e234">C. X</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e234">Caput 11</head>
           <head xml:id="gd-p2c35q2et3-Hd1e237" type="question-title"> Nullus ducat uxorem a
             consanguineo suo cognitam, uel aliqua pollutione maculatam. </head>
-          <p xml:id="gd-p2c35q2et3-d1e240"> Item Gregorius Papa ad Felicem, Missenae ciuitatis
-            Episcopum, [lib. XII. epist. 31.] </p>
-          <p xml:id="gd-p2c35q2et3-d1e243"> Nec eam, quam aliquis ex propria consanguinitate
+          <p xml:id="gd-p2c35q2et3-d1e243"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e258">Gregorius Papa ad Felicem, Missenae ciuitatis Episcopum, [lib. XII. epist. 31.]</ref> 
+            Nec eam, quam aliquis ex propria consanguinitate
             coniugem habuerit, uel aliqua illicita pollutione macula-uerit, ulli Christianorum in
             coniugium ducere licetuel licebit, quia incestuosus est talis coitus, et ab-hominabilis
             Deo et cunctis hominibus. Incestuosos ueronullo coniugii nomine deputandos a sanctis
             Patribus s statutum esse legimus. </p>
-          <p xml:id="gd-p2c35q2et3-d1e246"> Gratian. Naturae uidelicet ordine; si uero
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e262">
+          <head xml:id="gd-p2c35q2et3-Hd1e264">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e246">Naturae uidelicet ordine; si uero
             extraordinarie, non sic. </p>
-          <p xml:id="gd-p2c35q2et3-d1e250"> Ait enim Urbanus II. Hugoni, Gratianopolitano * Episcopo
+          <p xml:id="gd-p2c35q2et3-d1e250"> Ait enim Urbanus II. Hugoni, Gratianopolitano  Episcopo
             : </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e255">
-          <head xml:id="gd-p2c35q2et3-Hd1e257">C. XI</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e257">Caput 11</head>
           <head xml:id="gd-p2c35q2et3-Hd1e260" type="question-title"> Extraordinaria pollutio in
-            naturalibus non inpedit affectum^. </head>
-          <p xml:id="gd-p2c35q2et3-d1e263"> Extraordinaria pollutio non nisi** in naturalibus
-            admissa, uel sepius reiterata citra maritalem effectum***, si prebitis sacramentis ita
+            naturalibus non inpedit affectum. </head>
+          <p xml:id="gd-p2c35q2et3-d1e263"> Extraordinaria pollutio non nisi in naturalibus
+            admissa, uel sepius reiterata citra maritalem effectum, si prebitis sacramentis ita
             esse constiterit, quemadmodumnobis tuis significatum est litteris, non uidetur
             matrimonium inpedire, quamuis ipsa criminosa sit et dampnabilis. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e267">
-          <head xml:id="gd-p2c35q2et3-Hd1e269">C. XII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e269">Caput 12</head>
           <head xml:id="gd-p2c35q2et3-Hd1e272" type="question-title"> Nullus ducat in coniugem
-            relictam consanguineorum uxoris suae * usque in tertiam progeniem^*» </head>
-          <p xml:id="gd-p2c35q2et3-d1e275"> Item Iulius Papa . </p>
-          <p xml:id="gd-p2c35q2et3-d1e278"> Et hoc quoque statutum est, ut relictam patris uxoris
-            suae, relictam fratris uxoris suae, relictam filii uxoris suaenemo sibi in matrimonium
+            relictam consanguineorum uxoris suae  usque in tertiam progeniem» </head>
+          <p xml:id="gd-p2c35q2et3-d1e278"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e295">Iulius Papa .</ref>
+            Et hoc quoque statutum est, ut relictam patris uxoris
+            suae, relictam fratris uxoris suae, relictam filii uxoris suae nemo sibi in matrimonium
             sumat; relictam consanguineorum uxoris suae usque in tertiam progeniem nemo inuxorem
             sumat; in quarta autem et in quinta si in-uenti fuerint, non separentur. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e282">
-          <head xml:id="gd-p2c35q2et3-Hd1e284">C. XIII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e284">Caput 13</head>
           <head xml:id="gd-p2c35q2et3-Hd1e287" type="question-title"> A consanguineis propriis uel
             sime uxoris pariter cuique est abstinendum . </head>
-          <p xml:id="gd-p2c35q2et3-d1e290"> Idem . </p>
-          <p xml:id="gd-p2c35q2et3-d1e293"> Equaliter uir coniungatur consanguineis propriis, et
+          <p xml:id="gd-p2c35q2et3-d1e293">
+            <ref xml:id="gd-p2c35q2et3-Rd1e309">Idem.</ref>
+            Equaliter uir coniungatur consanguineis propriis, et
             consanguineis uxoris suae. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e297">
-          <head xml:id="gd-p2c35q2et3-Hd1e299">C. XIV</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e299">Caput 14</head>
           <head xml:id="gd-p2c35q2et3-Hd1e302" type="question-title"> In parentela propria et
             coniugis eadem consanguinitas est obseruanda. </head>
-          <p xml:id="gd-p2c35q2et3-d1e305"> Item Ysidorus ex Concilio Maticensi *. </p>
-          <p xml:id="gd-p2c35q2et3-d1e308"> Sane consanguinitas, que in proprio uiro con-seruanda
+          <p xml:id="gd-p2c35q2et3-d1e308"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e324">Ysidorus ex Concilio Maticensi.</ref>
+            Sane consanguinitas, que in proprio uiro conseruanda
             est, hec nimirum in uxoris parentela de lege nuptiarum custodienda est. Quia constat eos
-            duosfuisse in carne una, ideoque communis illis utraque parentela credenda est, sicut
+            duos fuisse in carne una, ideoque communis illis utraque parentela credenda est, sicut
             scriptum est:„ Erunt duo in carne una.“ </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e312">
-          <head xml:id="gd-p2c35q2et3-Hd1e314">C. XV</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e314">Caput 15</head>
           <head xml:id="gd-p2c35q2et3-Hd1e317" type="question-title"> Nurus non aliter deputanda est
             quam filia.</head>
-          <p xml:id="gd-p2c35q2et3-d1e320"> Item Augustinus [lib. XXII. contra Faustum, c. 6i.] </p>
-          <p xml:id="gd-p2c35q2et3-d1e323"> Si uir et uxor non iam duo, sed una caro sunt, non
+          <p xml:id="gd-p2c35q2et3-d1e323"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e338">Augustinus [lib. XXII. contra Faustum, c. 6i.]</ref> 
+            Si uir et uxor non iam duo, sed una caro sunt, non
             aliter nurus est deputanda, quam filia. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e327">
-          <head xml:id="gd-p2c35q2et3-Hd1e329">C. XVI</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e329">Caput 16</head>
           <head xml:id="gd-p2c35q2et3-Hd1e332" type="question-title"> Usque ad septimam generationem
             progeniem suam unumquemque seruare oportet.</head>
-          <p xml:id="gd-p2c35q2et3-d1e335"> Item Gregorius Episcopis Galliae a*. </p>
-
-          <p xml:id="gd-p2c35q2et3-d1e338"> Progeniem suam unumquemque** usque ad septimam
+          <p xml:id="gd-p2c35q2et3-d1e338"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e352">Gregorius Episcopis Galliae.</ref>
+            Progeniem suam unumquemque usque ad septimam
             decernimus obseruare generationem, et, quamdiu se agnoscunt affinitate propinquos, ad
-            coniuga-lem copulam accedere denegamus. Quod si fecerint,separentur***. </p>
+            coniuga-lem copulam accedere denegamus. Quod si fecerint,separentur. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e343">
-          <head xml:id="gd-p2c35q2et3-Hd1e345">C. XVII</head>
-          <head xml:id="gd-p2c35q2et3-Hd1e348" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p2c35q2et3-d1e351"> Item Nykolaus Amalfitanae sedis Suffraganeis . </p>
-          <p xml:id="gd-p2c35q2et3-d1e354"> De consanguinitate sua nullus uxorem ducat usque post
-            septimam generationem, uel quousque parentelacognosci poterit. §. i. Laicus uero uxorem
+          <head xml:id="gd-p2c35q2et3-Hd1e345">Caput 17</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e348" type="question-title">De eodem.</head>
+          <p xml:id="gd-p2c35q2et3-d1e354"> 
+            Item <ref xml:id="gd-p2c35q2et3-Rd1e366">Nykolaus Amalfitanae sedis Suffraganeis.</ref> 
+            De consanguinitate sua nullus uxorem ducat usque post
+            septimam generationem, uel quousque parentelacognosci poterit. 
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e36x">
+            §. i. Laicus uero uxorem
             simul et concubinam habens non communicet ecclesiae. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e358">
-          <head xml:id="gd-p2c35q2et3-Hd1e360">C. XVIII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e360">Caput 18</head>
           <head xml:id="gd-p2c35q2et3-Hd1e363" type="question-title"> Quousque inter aliquos
             generatio recordatur aut in memoria retinetur , sibi inuicem non copulentur . </head>
-          <p xml:id="gd-p2c35q2et3-d1e366"> Item ex Concilio Wormaciensi , [c. 32.] </p>
-          <p xml:id="gd-p2c35q2et3-d1e369"> In copulatione fidelium generationis numerum non
-            diffinimus, sed statuimus, ut nulli Christiano liceat depropria consanguinitate seu
+          <p xml:id="gd-p2c35q2et3-d1e369"> 
+            Item ex <ref xml:id="gd-p2c35q2et3-Rd1e382">Concilio Wormaciensi, [c. 32.]</ref> 
+            In copulatione fidelium generationis numerum non
+            diffinimus, sed statuimus, ut nulli Christiano liceat de propria consanguinitate seu
             cognatione accipere uxorem,usque dum generatio recordatur et cognoscitur aut inmemoria
             retinetur. </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e373">
-          <head xml:id="gd-p2c35q2et3-Hd1e375">C. XIX</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e375">Caput 19</head>
           <head xml:id="gd-p2c35q2et3-Hd1e378" type="question-title"> Ex propinquitate sui sanguinis
             usque ad septimum gradum nullus ducat uxorem.</head>
-          <p xml:id="gd-p2c35q2et3-d1e381"> Item ex Concilio Lugdunensi *. </p>
-          <p xml:id="gd-p2c35q2et3-d1e384"> Nulli ex propinquitate sui sanguinis usque ad septimum
+          <p xml:id="gd-p2c35q2et3-d1e384"> 
+            Item ex <ref xml:id="gd-p2c35q2et3-Rd1e396">Concilio Lugdunensi.</ref>
+            Nulli ex propinquitate sui sanguinis usque ad septimum
             gradum uxores ducant, neque sine benedictione sacerdotis. Qui autem nupturi erunt, a
-            sacerdotebenedicti nubere audeant. </p>
-          <p xml:id="gd-p2c35q2et3-d1e387"> Gratian. Premissis auctoritatibus quique prohibentur a
+            sacerdote benedicti nubere audeant. </p>
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e401">
+          <head xml:id="gd-p2c35q2et3-Hd1e403">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e387">
+            Premissis auctoritatibus quique prohibentur a
             coniunctione consanguineorum usque m septimam generationem. Sed obicitur illud Gregorii
-            ad Augustinum , Anglo - rum Episcopum , [c. 6.]*: </p>
+            ad Augustinum , Anglorum Episcopum , [c. 6.]: </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e391">
-          <head xml:id="gd-p2c35q2et3-Hd1e393">C. XX</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e393">Caput 20</head>
           <head xml:id="gd-p2c35q2et3-Hd1e396" type="question-title"> Anglis permittitur , ut m
             quarta uel mquinta generatione copulentur. </head>
-          <p xml:id="gd-p2c35q2et3-d1e399"> Quedam lex Romana permittit, ut siue frater et soror,
+          <p xml:id="gd-p2c35q2et3-d1e399"> 
+            Quedam lex Romana permittit, ut siue frater et soror,
             seu duorum fratrum germanorum, seu duarum sororum filius et filia misceantur. Sed
-            experimento didicimus, ex tali coniugio sobolem non posse succrescere^ Unde necesse est,
-            ut quarta** uel quintageneratio fidelium licenter sibi iungantur^. §. i.Sed idem
+            experimento didicimus, ex tali coniugio sobolem non posse succrescere Unde necesse est,
+            ut quarta uel quintageneratio fidelium licenter sibi iungantur. 
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e420">
+            §. i. Sed idem
             humillimus Pater Gregorius, post multumtemporis a Felice Messinae Siciliae presule
             requisitus, utrum Augustino scripserit, ut Anglorum quartageneratione contracta
             matrimonia minime soluerentur, intercetera talem rationem reddidit: Quod scripsi
@@ -282,51 +331,65 @@
             „Lac uobis potum dedi, non escam,“ illismodo, non posteris, ut prefixum est, temporibus
             tenendaindulsimus, ne bonum, quod infirma radice plantatumerat, exureretur, sed
             aliquantulum firmaretur, etusque ad perfectionem custodiretur. </p>
-          <p xml:id="gd-p2c35q2et3-d1e402"> Gratian. Item obicitur illud Cabilonensis Concilii *,
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e423">
+          <head xml:id="gd-p2c35q2et3-Hd1e425">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e402">Item obicitur illud Cabilonensis Concilii ,
           </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e406">
-          <head xml:id="gd-p2c35q2et3-Hd1e408">C. XXI</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e408">Caput 21</head>
           <head xml:id="gd-p2c35q2et3-Hd1e411" type="question-title"> In quinta uel sexta
             generatione nullus amplius copuletur coniugio.</head>
-          <p xml:id="gd-p2c35q2et3-d1e414"> Contradicimus, ut in quarta, uel quinta sexta-que
+          <p xml:id="gd-p2c35q2et3-d1e414"> 
+            Contradicimus, ut in quarta, uel quinta sexta-que
             generatione nullus amplius coniugio copuletur. Ubi autem post interdictum factum fuerit
             inuentum, separetur. </p>
-
-          <p xml:id="gd-p2c35q2et3-d1e417"> Gratian. Hac auctoritate dum sexta generatione coniugium
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e443">
+          <head xml:id="gd-p2c35q2et3-Hd1e445">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e417">Hac auctoritate dum sexta generatione coniugium
             interdicitur, in septima permitti uidetur. Sed gradus cognationissecundum quosdam uarie
             conputantur. Alii namque patrem inprimo gradu, filios in secundo ponunt. Alii primum
             gradumfilios appellant, negantes, gradum cognationis inter patrem etfilium esse, cum una
-            caro probentur pater et filius. Auctoritatesergo , que consanguinitatis cautelam^ usque
+            caro probentur pater et filius. Auctoritates ergo , que consanguinitatis cautelam usque
             in septimumgradum prohibent, patrem ponunt in primo gradu; illae uero , queusque ad
             sextum gradum prohibent, primum gradum filios appellant, atque ita fit, ut eaedem
-            personae secundum hanc diuersita - tem inueniantur in sexto uel septimo gradu. §. i.
-            Item illudFabiani , quo afifines in quinta generatione copulari iubentur,uidetur esse
+            personae secundum hanc diuersita - tem inueniantur in sexto uel septimo gradu. 
+          </p>
+          <p xml:id="gd-p2c35q2et3-d1e450">
+            §. i.
+            Item illud Fabiani , quo afifines in quinta generatione copulari iubentur,uidetur esse
             contrarium illi decreto Iulii Papae : „ Sicut nonlicet ulli Christiano de sua
-            consanguinitate ^, sic etiam nonlicet de consanguinitate uxoris suae coniugem ducere
-            proptercarnis unitatem. “ Similiter inuenitur etiam contrarium illi capi-tulo Gregorii:
+            consanguinitate , sic etiam nonlicet de consanguinitate uxoris suae coniugem ducere
+            proptercarnis unitatem. “ Similiter inuenitur etiam contrarium illi capitulo Gregorii:
             „Nec eam, quam ex propria consanguinitateconiugem habuit etc. Sed illud Fabiani
-            intelligendum est deduabus personis inter se affinitate coniunctis, ut sunt uxoresduorum
-            fratrum; si contigerit unam earum alicui matrimoniocopulari , post mortem eius uir non
+            intelligendum est deduabus personis inter se affinitate coniunctis, ut sunt uxores duorum
+            fratrum; si contigerit unam earum alicui matrimonio copulari , post mortem eius uir non
             poterit affinem superstitem inconiugem ducere, nisi in quinto gradu affinitatis
-            inueniantur.Unde, qui nouercam alicuius in uxorem duxerit, post mortem eiusuxorem
-            priuigni ducere non poterit . Hinc etiam idem IuliusPapa alibi ait : „ Relictam
+            inueniantur.Unde, qui nouercam alicuius in uxorem duxerit, post mortem eius uxorem
+            priuigni ducere non poterit . Hinc etiam idem Iulius Papa alibi ait : „ Relictam
             consanguineorum uxoris suae,(non ait consanguineam uxoris suae, sed relictam
-            consanguineorum)* „usque in quartam generationem nullus ducat in uxo-rem. Pascalis
+            consanguineorum) „usque in quartam generationem nullus ducat in uxo-rem. Pascalis
             uero"s //., scribens Regino Episcopo , tertium genus affinitatis assignat, cuius copula
             non ultra secundumgradum inuenitur prohibita. Ait enim : </p>
         </div>
         <div xml:id="gd-p2c35q2et3-Dd1e421">
-          <head xml:id="gd-p2c35q2et3-Hd1e423">C. XXII</head>
+          <head xml:id="gd-p2c35q2et3-Hd1e423">Caput 22</head>
           <head xml:id="gd-p2c35q2et3-Hd1e426" type="question-title"> Duorum consobrinorum coniuges
             uni e/eidem nubere non possunt. </head>
-          <p xml:id="gd-p2c35q2et3-d1e429"> Porro duorum consobrinorum coniuges, quamuis diuersis
+          <p xml:id="gd-p2c35q2et3-d1e429">
+            Porro duorum consobrinorum coniuges, quamuis diuersis
             temporibus, uiro uni alteram post alterius obitum nubere,ipsa preter auctoritatem
-            canonicam publicae honestatisiusticia contradicit. Et nouit prudentia tua, quia ita
+            canonicam publicae honestatis iusticia contradicit. Et nouit prudentia tua, quia ita
             abuxoris, sicut a uiri consanguineis abstinendum est. </p>
-          <p xml:id="gd-p2c35q2et3-d1e432"> Gratian. Illud autem Gregorii et Iulii intelligitur de
+        </div>
+        <div xml:id="gd-p2c35q2et3-Dd1e466">
+          <head xml:id="gd-p2c35q2et3-Hd1e468">Dictum</head>
+          <p xml:id="gd-p2c35q2et3-d1e432">
+            Illud autem Gregorii et Iulii intelligitur de
             consanguinitate uiri uel uxoris, ut post mortem alicuius eorumnulli de cognatione
-            defuncti superstes matrimonio copuletur.Demonstratum est, usque ad quem gradum quisque a
+            defuncti superstes matrimonio copuletur. Demonstratum est, usque ad quem gradum quisque a
             propriaconsanguinitate uel cognatione suae uxoris abstinere debeat. </p>
         </div>
       </div>

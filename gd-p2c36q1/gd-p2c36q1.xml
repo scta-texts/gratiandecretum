@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,68 +53,92 @@
     </front>
     <body>
       <div xml:id="gd-p2c36q1">
-        <head xml:id="gd-p2c36q1-Hd1e103"> QUESTIO I. </head>
-
+        <head xml:id="gd-p2c36q1-Hd1e103"> QUESTIO 1 </head>
+        <div xml:id="gd-p2c36q1-Dd1e100">
+          <head xml:id="gd-p2c36q1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c36q1-d1e106"> Quod autem ille raptum admiserit, probatur auctoritate
           multorum. </p>
-        <p xml:id="gd-p2c36q1-d1e109"> Ait enim Ysidorus in II. lib. Ethimol. c. 33.*: </p>
+        <p xml:id="gd-p2c36q1-d1e109"> Ait enim Ysidorus in II. lib. Ethimol. c. 33.: </p>
+        </div>
         <div xml:id="gd-p2c36q1-Dd1e112">
-          <head xml:id="gd-p2c36q1-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c36q1-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c36q1-Hd1e117" type="question-title"> Quid sit raptus.</head>
           <p xml:id="gd-p2c36q1-d1e120"> Raptus quoque est illicitus coitus a corrumpendo dictus;
             unde qui rapto potitur stupro fruitur. </p>
           <p xml:id="gd-p2c36q1-d1e123"> Item Gelasius Papa : </p>
         </div>
         <div xml:id="gd-p2c36q1-Dd1e127">
-          <head xml:id="gd-p2c36q1-Hd1e129">C. II</head>
+          <head xml:id="gd-p2c36q1-Hd1e129">Caput 2</head>
           <head xml:id="gd-p2c36q1-Hd1e132" type="question-title"> Ubi raptus admittitur.</head>
           <p xml:id="gd-p2c36q1-d1e135"> Lex illa preteritorum principum ibi raptum dixit esse
-            conmissum, ubi puella, de cuius ante nuptiis nichil actumfuerat, uideatur abducta. </p>
-          <p xml:id="gd-p2c36q1-d1e138"> Gratian. Cum ergo hec illicito coitu sit corrupta, cumque
+            conmissum, ubi puella, de cuius ante nuptiis nichil actum fuerat, uideatur abducta. </p>
+        </div>
+        <div xml:id="gd-p2c36q1-Dd1e138">
+          <head xml:id="gd-p2c36q1-Hd1e140">Dictum</head>
+          <p xml:id="gd-p2c36q1-d1e138"> Cum ergo hec illicito coitu sit corrupta, cumque
             ita sit abducta, id est a domo patris ducta, quod de eius nuptiis nichil actum ante
             fuerit , raptam appellandam negari non potest. Sed non omnis illicitus coitus, nec
             cuiuslibet illicita defloratioraptus appellatur. Aliud enim est fornicatio, aliud
-            stuprum,aliud adulterium, aliud incestus, aliud raptus. §. i. Fornicatio^ , licet
-            uideatur esse genus cuiuslibet illiciti coitus ,/fr extra uxo </p>
-          <p xml:id="gd-p2c36q1-d1e141"> rem legitimam, tamen specialiter intelligitur in usu
-            uiduarum, uel meretricum, uel concubinarum. §.2. Stuprum autem est^ proprie uirginum
+            stuprum,aliud adulterium, aliud incestus, aliud raptus. 
+          </p>
+          <p xml:id="gd-p2c36q1-d1e141">
+            §. i. Fornicatio^ , licet
+            uideatur esse genus cuiuslibet illiciti coitus, 
+            fr extra uxorem legitimam, tamen specialiter intelligitur in usu
+            uiduarum, uel meretricum, uel concubinarum. 
+          </p>
+          <p xml:id="gd-p2c36q1-d1e148">
+            §. 2. Stuprum autem est^ proprie uirginum
             illicita defloratio, quando uidelicet non precedenteconiugali pactione utriusque
             uoluntate uirgo corrumpitur, patreiniuriam ad animum statim post cognitionem non
-            reuocante. §. 3. Adulterium uero est alieni thori uiolatio.Unde adulterium </p>
-          <p xml:id="gd-p2c36q1-d1e145"> dicitur quasi ad alterius thorum accessio. §. 4. Incestus
+            reuocante. 
+            <p xml:id="gd-p2c36q1-d1e14q"> 
+            §. 3. Adulterium uero est alieni thori uiolatio.Unde adulterium </p>
+          dicitur quasi ad alterius thorum accessio. 
+          </p>
+          <p xml:id="gd-p2c36q1-d1e154">
+            §. 4. Incestus
             est consanguinearum uel affinium abusus. Unde incestuosi dicunturqui consanguineis uel
-            affinibus suis abutuntur. §. 5. Ra </p>
-          <p xml:id="gd-p2c36q1-d1e148"> ptus admittitur, cum puella a domo patris uiolenter ducitur
+            affinibus suis abutuntur. 
+          </p>
+          <p xml:id="gd-p2c36q1-d1e14">
+            §. 5. Raptus admittitur, cum puella a domo patris uiolenter ducitur
             , ut corrupta in uxorem habeatur, siue puellae solummodo, siueparentibus tantum, siue
-            utrisque uis illata constiterit; hic mortemulctatur. Sed si ad ecclesiam cum rapta
-            confugerit, priuilegioecclesiae mortis inpunitatem promeretur. </p>
+            utrisque uis illata constiterit; hic morte mulctatur. Sed si ad ecclesiam cum rapta
+            confugerit, priuilegio ecclesiae mortis inpunitatem promeretur. </p>
           <p xml:id="gd-p2c36q1-d1e151"> Unde in Concilio Aurelianensi [I. c. 4.] legitur : </p>
         </div>
         <div xml:id="gd-p2c36q1-Dd1e156">
-          <head xml:id="gd-p2c36q1-Hd1e158">C. III</head>
+          <head xml:id="gd-p2c36q1-Hd1e158">Caput 3</head>
           <head xml:id="gd-p2c36q1-Hd1e161" type="question-title"> Si raptor cum rapta ad ecclesiam
             confugerit, quid fieri debeat.</head>
-          <p xml:id="gd-p2c36q1-d1e164"> De raptoribus autem id constituendum esse censui-mus, ut,
+          <p xml:id="gd-p2c36q1-d1e164"> 
+            De raptoribus autem id constituendum esse censui-mus, ut,
             si ad ecclesiam raptor cum rapta confugerit, et feminam ipsam uiolentiam pertulisse
-            constiterit, statimliberetur de potestate raptoris, et raptor, mortis uel penarum
-            inpunitate concessa, aut ad seruiendum subiectussit, aut redimendi se liberam habeat
+            constiterit, statim liberetur de potestate raptoris, et raptor, mortis uel penarum
+            inpunitate concessa, aut ad seruiendum subiectus sit, aut redimendi se liberam habeat
             facultatem. Si ueroque rapitur patrem habere constiterit, et puella raptoriconsenserit,
-            potestati patris excusata reddatur, et raptorpatri superioris condicionis satisfactione
+            potestati patris excusata reddatur, et raptor patri superioris condicionis satisfactione
             teneatur obnoxius. </p>
-          <p xml:id="gd-p2c36q1-d1e167"> Gratian. Ex hac auctoritate liquet, quod aliquando uis
+        </div>
+        <div xml:id="gd-p2c36q1-Dd1e177">
+          <head xml:id="gd-p2c36q1-Hd1e179">Dictum</head>
+          <p xml:id="gd-p2c36q1-d1e167">
+            Ex hac auctoritate liquet, quod aliquando uis
             infertur parentibus, et non puellae, cum dicitur: „ si puella raptori consenserit .
             Aliquando utrique uiolentiam perferunt, cumpremittitur: „si raptor cum rapta confugerit
-            , et feminamipsam uiolentiam pertulisse constiterit. “ Puellae autem, e/non parentibus
-            uis infertur, cum uoluntate patris puella uiolenterabducitur, ut eius patiatur
-            concubitum, cuius copulae numquamadhibuit consensum. Hic autem neque parentibus, neque
+            , et feminam ipsam uiolentiam pertulisse constiterit. “ Puellae autem, e/non parentibus
+            uis infertur, cum uoluntate patris puella uiolenter abducitur, ut eius patiatur
+            concubitum, cuius copulae numquam adhibuit consensum. Hic autem neque parentibus, neque
             puellaeuim intulisse uidetur, cum neque illis prohibentibus, neque illarenitente
             uiolenter abducta sit. Aliud enim est promissionibusaliquam seducere, aliud uim sibi
             inferre. Unde, quia neutri uisillata probatur, raptor hic iure dici non debet. Sed
-            rapinadupliciter fieri dicitur; aliquando enim res ipsa rapitur, aliquandoipsius rei
-            usus tantummodo uiolenter eripitur. Res ipsa tuncrapitur, cum uiolenter domino eripitur,
+            rapinadupliciter fieri dicitur; aliquando enim res ipsa rapitur, aliquando ipsius rei
+            usus tantummodo uiolenter eripitur. Res ipsa tunc rapitur, cum uiolenter domino eripitur,
             ut in perpetuum teneatur;aliquando uero non res ipsa affectatur, sed usus eius domino
             prohibente uiolenter usurpatur. Hic ergo raptum admisit, quiaflorem uirginitatis puellae
-            renitenti uiolenter eripuit. </p>
+            renitenti uiolenter eripuit. 
+          </p>
         </div>
       </div>
     </body>

@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTION I. et II. </title>
+        <title> QUESTIONES 1 et 2 </title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTION I. et II. </title>
+          <title> QUESTIONES 1 et 2 </title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,14 +53,16 @@
     </front>
     <body>
       <div xml:id="gd-p2c34q1et2">
-        <head xml:id="gd-p2c34q1et2-Hd1e103"> QUESTION I. et II. </head>
-
-        <p xml:id="gd-p2c34q1et2-d1e106"> I. Pars. Utraque questio terminatur auctoritate Leonis
+        <head xml:id="gd-p2c34q1et2-Hd1e103"> QUESTIONES 1 et 2 </head>
+        <div xml:id="gd-p2c34q1et2-Dd1e100">
+          <head xml:id="gd-p2c34q1et2-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c34q1et2-d1e106">Utraque questio terminatur auctoritate Leonis
           Papae, qui scribens Nicetae, Aquilegensi Episcopo, [epist.LXXVII. c. i. et sequentibus]
           ait: </p>
+        </div>
         <div xml:id="gd-p2c34q1et2-Dd1e109">
-          <head xml:id="gd-p2c34q1et2-Hd1e111">C. I</head>
-          <head xml:id="gd-p2c34q1et2-Hd1e114" type="question-title"> Que* alii nupserit, putans
+          <head xml:id="gd-p2c34q1et2-Hd1e111">Caput 1</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e114" type="question-title"> Que alii nupserit, putans
             uirum suum mortuum esse, illo redeunte ad priorem redire cogatur . </head>
           <p xml:id="gd-p2c34q1et2-d1e117"> Cum per bellicam cladem, et per grauissimos hostilitatis
             incursus ita quedam dicatis diuisa esse coniugia, ut, abductis in captiuitatem uiris,
@@ -75,8 +75,11 @@
             quod Dominus iunxit homo nonseparet, necesse est, ut legitimarum federa nuptiarum
             redintegranda credamus, et remotis his, que hostilitasintulit, unicuique id °, quod
             legitime intulit p, reformetur,omni que studio procurandum est, ut recipiat unusquisque
-            quod proprium est. §. i. Nec tamen culpabilisiudicetur et tamquam alieni iuris peruasor
-            habeatur % qui personam eius mariti, qui iam non esse estimabatur,assumpsit. Sic enim
+            quod proprium est. 
+          </p>
+          <p xml:id="gd-p2c34q1et2-d1e119">
+            §. i. Nec tamen culpabilisiudicetur et tamquam alieni iuris peruasor
+            habeatur qui personam eius mariti, qui iam non esse estimabatur,assumpsit. Sic enim
             multa, que ad eos, qui in captiuita-tem ducti sunt, pertinebant, in ius alienum
             transirepotuerunt, et tamen plenae iusticiae est, ut eisdemreuersis propria reformentur.
             Quod si in mancipiis, uelin agris, aut etiam in domibus, ac possessionibus
@@ -84,7 +87,10 @@
             bellica turbatum estpacis remedio reformetur? Et ideo, si uiri post longamcaptiuitatem
             reuersi ita in dilectione suarum coniugum per-seuerant, ut eas cupiant redire in suum
             consortium, omittendum est, et inculpabile iudicandum est quod necessitas intulit, et
-            restituendum quod fides poscit. Et infra [c. 4*]: §. 2. Sin autem aliquae mulieres ita
+            restituendum quod fides poscit.
+          </p>
+          <p xml:id="gd-p2c34q1et2-d1e121">
+            Et infra [c. 4]: §. 2. Sin autem aliquae mulieres ita
             posteriorumuirorum amore sunt captae, ut maluerint his coherere,quam ady legitimum
             transire consortium, merito suntnotandae, ita ut ecclesiastica communione priuentur,que
             de re excusabili contaminationem criminis elegerunt,ostendentes, sibimet pro sua
@@ -95,13 +101,12 @@
             redeunt, merito sunt laudandae . </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e121">
-          <head xml:id="gd-p2c34q1et2-Hd1e123">C. II</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e123">Caput II</head>
           <head xml:id="gd-p2c34q1et2-Hd1e126" type="question-title"> Vir o uel uxore de captiuitate
             redeuntibus prior aredintegrentur coniugia. </head>
-          <p xml:id="gd-p2c34q1et2-d1e129"> Item Innocentius Papa Probo , [in ep. IX.]Cum in
-            captiuitate Ursa mulier teneretur, aliud coniu </p>
-
-          <p xml:id="gd-p2c34q1et2-d1e132"> gium cum Restituta Fontanum conmisisse cognouimus. Sed
+          <p xml:id="gd-p2c34q1et2-d1e129"> Item <ref xml:id="gd-p2c34q1et2-Rd1e134">Innocentius Papa Probo , [in ep. IX.]</ref> 
+            Cum in
+            captiuitate Ursa mulier teneretur, aliud coniugium cum Restituta Fontanum conmisisse cognouimus. Sed
             fauore Domini reuersa Ursa nos adiit, et nullo diffitenteuxorem se esse memorati
             perdocuit. Qua de re, filikarissime merito illustris, statuimus, fide catholica
             suffragante, coniugium illud esse, quod erat gratia diuina primitus fundatum,
@@ -109,11 +114,12 @@
             legitimum. </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e136">
-          <head xml:id="gd-p2c34q1et2-Hd1e138">C. III</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e138">Caput 3</head>
           <head xml:id="gd-p2c34q1et2-Hd1e141" type="question-title"> Que primo uiro relicto secundo
             adheserit , nisi secundum relinquens , primo reconciliari non potest. </head>
-          <p xml:id="gd-p2c34q1et2-d1e144"> Item Ieronimus ad Amandum Presbiterum *. </p>
-          <p xml:id="gd-p2c34q1et2-d1e147"> Non satis animaduertere potui, quid sit quod dicere
+          <p xml:id="gd-p2c34q1et2-d1e147"> 
+            Item <ref xml:id="gd-p2c34q1et2-Rd1e148">Ieronimus ad Amandum Presbiterum.</ref>
+            Non satis animaduertere potui, quid sit quod dicere
             uoluit: „alio uiro per uim accepto.“ Congregata uidelicet multitudine nolentem rapuit.
             Et uirum postea nonraptorem rapta dimisit? legat libros Moysi, et inuenietdesponsatam
             uiro, si in ciuitate fuerit oppressa, et nonclamauerit, puniri quasi adulteram; ui autem
@@ -133,87 +139,116 @@
             ei libellum repudii, et dimiseritde domo sua, aut certe mortuus fuerit, non poterit
             eamprior maritus recipere uxorem, quoniam p polluta est,et abhominabilis facta est coram
             Domino, ne peccare faciasterramq, quam Dominus Deus tuus tradidit tibi possi-dendam.“ </p>
-          <p xml:id="gd-p2c34q1et2-d1e150"> III. Pars. Gratian. Si autem ineuitabili necessitate
-            cogente uir in aliam prouinciam fugerit, et uxor eius eum sequi noluerit, illo uiuente*
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e153">
+          <head xml:id="gd-p2c34q1et2-Hd1e155">Dictum</head>
+          <p xml:id="gd-p2c34q1et2-d1e150">
+            Si autem ineuitabili necessitate
+            cogente uir in aliam prouinciam fugerit, et uxor eius eum sequi noluerit, illo uiuente
             innupta permaneat. </p>
           <p xml:id="gd-p2c34q1et2-d1e154"> Unde in Concilio apud Verm er ia?«: </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e159">
-          <head xml:id="gd-p2c34q1et2-Hd1e161">C. IV</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e161">Caput 4</head>
           <head xml:id="gd-p2c34q1et2-Hd1e164" type="question-title"> Que uirum in captiuitate
             ductum sequi noluerit , maneat innupta, quamdiu uir eius uixerit . </head>
-          <p xml:id="gd-p2c34q1et2-d1e167"> Si quis necessitate cogente ineuitabili in alium ducatum
+          <p xml:id="gd-p2c34q1et2-d1e167"> 
+            Si quis necessitate cogente ineuitabili in alium ducatum
             seu prouinciam fugerit, et eius uxor, cum ualet et potest, amore parentum aut rerum
             suarum eum sequinoluerit, ipsa omni tempore, quamdiu uir eius, quem insecuta non fuit,
             uiuit, semper innupta permaneat. </p>
-          <p xml:id="gd-p2c34q1et2-d1e170"> IV. Pars. Gratian. Quod autem de coniugatis
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e176">
+          <head xml:id="gd-p2c34q1et2-Hd1e178">Dictum</head>
+          <p xml:id="gd-p2c34q1et2-d1e170">
+            Quod autem de coniugatis
             auctoritateLeonis Papae dicitur , hoc etiam de uirginibus intelligendum est , ut , si
             preter conscientiam uiro nupserint alieno, non teneantur. </p>
           <p xml:id="gd-p2c34q1et2-d1e173"> Unde Augustinus in libro de fide et operibus , [c. 7.]:
           </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e177">
-          <head xml:id="gd-p2c34q1et2-Hd1e179">C. V, Non est adultera uirgo , que nesciens uiro
-            nubit </head>
-          <head xml:id="gd-p2c34q1et2-Hd1e182" type="question-title"> alieno.</head>
-          <p xml:id="gd-p2c34q1et2-d1e185"> Si uirgo nesciens uiro nupserit alieno, hoc si semper
+          <head xml:id="gd-p2c34q1et2-Hd1e179">Caput 5</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e182" type="question-title">
+            Non est adultera uirgo, que nesciens uiro nubit alieno.</head>
+          <p xml:id="gd-p2c34q1et2-d1e185">
+            Si uirgo nesciens uiro nupserit alieno, hoc si semper
             nesciat, numquam ex hoc erit adultera. Si autem sciat, iamex hoc esse incipit, ex quo
-            cum alieno sciens cuba-uerit, sicut in iure prediorum tamdiu quisque bonae
+            cum alieno sciens cubauerit, sicut in iure prediorum tamdiu quisque bonae
             fideipossessor rectissime dicitur, quamdiu se possidere ignoratalienum; cum uero
             scierit, nec ab aliena possessione recesserit, tunc malae fidei perhibetur, tunc iuste
             iniu-stus uocabitur. </p>
-          <p xml:id="gd-p2c34q1et2-d1e188"> V. Pars. Gratian. Sic etiam ignorantia excusat eum,qui
-            nesciens dormiuit cum sorore uxoris S. </p>
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e199">
+          <head xml:id="gd-p2c34q1et2-Hd1e201">Dictum</head>
+          <p xml:id="gd-p2c34q1et2-d1e188">
+            Sic etiam ignorantia excusat eum,qui
+            nesciens dormiuit cum sorore uxoris. </p>
           <p xml:id="gd-p2c34q1et2-d1e191"> Unde in Concilio Triburiensi legitur: </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e195">
-          <head xml:id="gd-p2c34q1et2-Hd1e197">C. VI</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e197">Caput 6</head>
           <head xml:id="gd-p2c34q1et2-Hd1e200" type="question-title"> Non cogatur legitimam deserere
             uxorem qui nesciens dormiuit cum eius sorore. </head>
           <p xml:id="gd-p2c34q1et2-d1e203"> In lectum mariti absente uxore soror iuit uxoris, quam
             ille uxorem suam putans esse, dormiuit cum ea. Superhoc uisum est, si ipse per
             securitatem ueram hoc probauerit,quod inscius fecerit hoc scelus, penitenciam quidem,
-            quesibi iudicata fuerit, agat; legitimum uero con-iugium suum habere permittatur. Illa
-            uero digna uindictaaffligatur, et in eternum coniugio priuetur. </p>
-          <p xml:id="gd-p2c34q1et2-d1e206"> [PALE A. C. VII. </p>
-          <p xml:id="gd-p2c34q1et2-d1e209"> Item Hermes in libro Pastoris, mandato IV.* </p>
-
-          <p xml:id="gd-p2c34q1et2-d1e213"> Ego dixi pastori: Domine, si quis habuerit uxorem
+            que sibi iudicata fuerit, agat; legitimum uero coniugium suum habere permittatur. Illa
+            uero digna uindicta affligatur, et in eternum coniugio priuetur. </p>
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e22x">
+          <head xml:id="gd-p2c34q1et2-Hd1e22z">Caput 7</head>
+          <p xml:id="gd-p2c34q1et2-d1e213"> 
+            Item <ref xml:id="gd-p2c34q1et2-Rd1e229">Hermes in libro Pastoris, mandato IV.</ref>
+            Ego dixi pastori: Domine, si quis habuerit uxorem
             fidelem in Domino, et inuenerit hanc in adulterio, numquid peccat uir, si cum illa
             concumbit? Et dixitmichi: Quamdiu nescit peccatum eius, sine crimine estuir uiuens cum
             illa. Si autem scit uir, uxoremsuam deliquisse, et non egerit penitenciam mulier,
             sedpermanet in fornicatione sua, et coierit uir cum illa, reuserit peccati eius, et
-            particeps mechationis illius. Etdixi illi: Quid ergo, si permanserit in uicio suomulier?
+            particeps mechationis illius. Et dixi illi: Quid ergo, si permanserit in uicio suo mulier?
             et dixit: Dimittat illam uir, et uir per semaneat. Quod si dimiserit mulierem suam, et
-            aliamduxerit, et ipse mechatur. Et dixi illi: Quid, si mulierdimissa penitenciam egerit,
-            et uoluerit ad uirum suumreuerti, nonne recipietur a uiro suo? Et dixit michi:Immo, si
+            aliamduxerit, et ipse mechatur. Et dixi illi: Quid, si mulier dimissa penitenciam egerit,
+            et uoluerit ad uirum suum reuerti, nonne recipietur a uiro suo? Et dixit michi: Immo, si
             non receperit eam uir suus, peccat, etmagnum peccatum sibi admittit, sed debet recipere
-            peccatricem, que penitenciam egit. Ergo non debet dimissaconiuge sua uir aliam ducere.
-            Hic actus similis est inuiro et muliere.] </p>
-          <p xml:id="gd-p2c34q1et2-d1e216"> VI. Pars. Gratian. De simpliciter uero fornicantibus,uel
+            peccatricem, que penitenciam egit. Ergo non debet dimissa coniuge sua uir aliam ducere.
+            Hic actus similis est in uiro et muliere.] </p>
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e233">
+          <head xml:id="gd-p2c34q1et2-Hd1e235">Dictum</head>
+          <p xml:id="gd-p2c34q1et2-d1e216">
+            De simpliciter uero fornicantibus, uel
             cum duabus sororibus , uel cum matre et filia, uel cum patreet filio , idem accipiendum
             est , ut ignorantibus coniugia nonnegentur, scientibus perpetuo prohibeantur. </p>
-          <p xml:id="gd-p2c34q1et2-d1e219"> Unde in eodem Concilio legitur *: </p>
+          <p xml:id="gd-p2c34q1et2-d1e219"> Unde in eodem Concilio legitur : </p>
         </div>
         <div xml:id="gd-p2c34q1et2-Dd1e223">
-          <head xml:id="gd-p2c34q1et2-Hd1e225">C. VIII</head>
+          <head xml:id="gd-p2c34q1et2-Hd1e225">Caput 8</head>
           <head xml:id="gd-p2c34q1et2-Hd1e228" type="question-title"> Matrimonia legitima non
             prohibeantur contrahere quorum incestum ignorantia excusat. </head>
-          <p xml:id="gd-p2c34q1et2-d1e231"> Si quis cum duabus sororibus fornicatus fuerit, et soror
-            sororem ab eodem antea stupratam nescierit, uelse 19 °c** sororem eius, quam antea
-            stuprauerat, non intellexit^ si digne penituerit, et se continere nonualuerit, post
-            annos septem coniugia illis non negentur. Siautem non ignorauerint, usque ad mortem a
-            coniugioabstineant. </p>
-          <p xml:id="gd-p2c34q1et2-d1e234"> [C. IX.] Item ex eodem*. </p>
-          <p xml:id="gd-p2c34q1et2-d1e237"> Si quis cum matre et filia fornicatus est, ignorante
-            matre de filia, et filia de matre, ille numquam accipiatuxorem; illae uero, si
-            uoluerint, accipiant maritos. Si autemhoc scierint ipsae feminae, absque maritis
+          <p xml:id="gd-p2c34q1et2-d1e231"> 
+            Si quis cum duabus sororibus fornicatus fuerit, et soror
+            sororem ab eodem antea stupratam nescierit, uel se 19 °c sororem eius, quam antea
+            stuprauerat, non intellexit si digne penituerit, et se continere non ualuerit, post
+            annos septem coniugia illis non negentur. Si autem non ignorauerint, usque ad mortem a
+            coniugio abstineant. </p>
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e256">
+          <head xml:id="gd-p2c34q1et2-Hd1e258">Caput 9</head>
+          <p xml:id="gd-p2c34q1et2-d1e237"> 
+            Item ex <ref xml:id="gd-p2c34q1et2-Rd1e262">eodem.</ref>
+            Si quis cum matre et filia fornicatus est, ignorante
+            matre de filia, et filia de matre, ille numquam accipiat uxorem; illae uero, si
+            uoluerint, accipiant maritos. Si autem hoc scierint ipsae feminae, absque maritis
             perpetuomaneant. </p>
-          <p xml:id="gd-p2c34q1et2-d1e241"> [C. X.] Item ex eo dem™*. </p>
-          <p xml:id="gd-p2c34q1et2-d1e244"> Quidam fornicatus est cum quadam muliere; etpostea
-            filius nesciens patris factum, stuprauit eandem. Quodcum pater resciret, de se filioque
+        </div>
+        <div xml:id="gd-p2c34q1et2-Dd1e266">
+          <head xml:id="gd-p2c34q1et2-Hd1e268">Caput 10</head>
+          <p xml:id="gd-p2c34q1et2-d1e244"> 
+            Item ex <ref xml:id="gd-p2c34q1et2-Rd1e272">eodem.</ref> 
+            Quidam fornicatus est cum quadam muliere; et postea
+            filius nesciens patris factum, stuprauit eandem. Quod cum pater resciret, de se filioque
             confessus est. Statuerunt, melius esse, ut taliter lapsis cum digna penitencia legitima
-            permittantur coniugia, quam forte deterius delinquant.Fornicaria autem sine spe coniugii
+            permittantur coniugia, quam forte deterius delinquant. Fornicaria autem sine spe coniugii
             maneat. </p>
         </div>
       </div>

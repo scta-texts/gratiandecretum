@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>DISTINCTIO V.</title>
+        <title>DISTINCTIO 5</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>DISTINCTIO V.</title>
+          <title>DISTINCTIO 5</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,65 +53,67 @@
     </front>
     <body>
       <div xml:id="gd-p3d5">
-        <head xml:id="gd-p3d5-Hd1e103">DISTINCTIO V.</head>
-
+        <head xml:id="gd-p3d5-Hd1e103">DISTINCTIO 5</head>
         <div xml:id="gd-p3d5-Dd1e106">
-          <head xml:id="gd-p3d5-Hd1e108">C. I</head>
+          <head xml:id="gd-p3d5-Hd1e108">Caput 1</head>
           <head xml:id="gd-p3d5-Hd1e111" type="question-title"> Post baptisma confirmationis
             sacramentum prestetur . </head>
           <p xml:id="gd-p3d5-d1e117"> 
-            Item <ref>Urbanus Papa omnibus Christianis , [ep. I. c. 7.] </ref>
-            I. Pars. Omnes fideles per manus inpositiones episcoporum
+            Item <ref xml:id="gd-p3d5-Rd1e110">Urbanus Papa omnibus Christianis , [ep. I. c. 7.] </ref>
+            Omnes fideles per manus inpositiones episcoporum
             Spiritum sanctum post baptismum accipere debent,ut pleni Christiani inueniantur, quia,
             cum Spiritus sanctus infunditur, cor fidele ad prudentiam et constantiam dilatatur. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e121">
-          <head xml:id="gd-p3d5-Hd1e123">C. II</head>
+          <head xml:id="gd-p3d5-Hd1e123">Caput 2</head>
           <head xml:id="gd-p3d5-Hd1e126" type="question-title"> Quid conferat Spiritus sanctus in
             baptismate , quid in confirmatione. </head>
           <p xml:id="gd-p3d5-d1e132"> 
-            Item <ref>Melciades Papa [in ep. ad Episc. Hisp., c. 2.] </ref>
+            Item <ref xml:id="gd-p3d5-Rd1e124">Melciades Papa [in ep. ad Episc. Hisp., c. 2.] </ref>
             Spiritus sanctus, qui super aquas baptismi salutifero
             descendit lapsu, in fonte plenitudinem tribuit ad innocentiam, in confirmatione
             augmentum prestat ad gratiam.Et quia in hoc mundo tota etate uicturis inter inuisi-biles
             hostes et pericula gradiendum est, in baptismo regeneramur ad uitam, post baptismum
             confirmamur adpugnam; in baptismo abluimur, post baptismum roboramur. Et quamuis
             continuo transituris sufficiant regenerationis beneficia, uicturis tamen necessaria sunt
-            confirmationis auxilia. Regeneratio per se saluat mox in pacebeati* seculi recipiendos;
+            confirmationis auxilia. Regeneratio per se saluat mox in pacebeati seculi recipiendos;
             confirmatio armat et instruit adagones mundi huius et prelia reseruandos. Qui autem
             postbaptismum cum acquisita innocentia inmaculatus ad mortem peruenit, confirmatur
             morte, quia iam non potestpeccare post mortem. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e136">
-          <head xml:id="gd-p3d5-Hd1e138">C. III</head>
+          <head xml:id="gd-p3d5-Hd1e138">Caput 3</head>
           <head xml:id="gd-p3d5-Hd1e141" type="question-title"> Manus inpositionis sacramentum
             dignius est sacramento baptismi. </head>
-          <p xml:id="gd-p3d5-d1e144"> Idem Hispaniarum episcopis . </p>
-          <p xml:id="gd-p3d5-d1e147"> De his uero, super quibus rogastis uos informari, id est:
+          <p xml:id="gd-p3d5-d1e147"> 
+            <ref xml:id="gd-p3d5-Rd1e138">Idem Hispaniarum episcopis.</ref> 
+            De his uero, super quibus rogastis uos informari, id est:
             utrum maius sit sacramentum manus inpositionis episcoporum, aut baptismus? scitote,
             utrumque magnum esse sacramentum, et, sicut unum maioribus, idest summis pontificibus
             est accomodatum, quod a minoribus perfici non potest, ita et maiori ueneratione
             ueneran-dum et tenendum est. Sed ita coniuncta sunt hec duo sacramenta, ut ab inuicem
             nisi morte preueniente nullatenus possint segregari, et unum sine altero perfici non
             potest. </p>
-          <p xml:id="gd-p3d5-d1e150"> G. IV. iVon ab aliis quam ab episcopis manus inpositionis
+        </div>
+        <div xml:id="gd-p3d5-Dd1e142">
+          <head xml:id="gd-p3d5-Hd1e144">Caput 4</head>
+          <p xml:id="gd-p3d5-d1e150">Non ab aliis quam ab episcopis manus inpositionis
             sacramentum perfici potest </p>
-          <p xml:id="gd-p3d5-d1e154"> Item Eusebius Papa [epist. III. ad Episcopos Tusciae et
-            Campaniae]. </p>
-
-          <p xml:id="gd-p3d5-d1e157"> Manus quoque inpositionis sacramentum magna ueneratione
+          <p xml:id="gd-p3d5-d1e157"> 
+            Item <ref xml:id="gd-p3d5-Rd1e151">Eusebius Papa [epist. III. ad Episcopos Tusciae et Campaniae].</ref> 
+            Manus quoque inpositionis sacramentum magna ueneratione
             tenendum est, quod ab aliis perfici non potest, nisi ,a summis sacerdotibus, nec tempore
             Apostolorum abaliis quam ab ipsis Apostolis legitur aut scitur peractumesse, nec ab
-            aliis, quam, qui eorum tenent locum, um*quam perfici potest aut fieri debet. Nam si
+            aliis, quam, qui eorum tenent locum, umquam perfici potest aut fieri debet. Nam si
             aliter presumptum fuerit, irritum habeatur et uacuum, nec inter ecclesiastica umquam
             reputabitur sacramenta. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e161">
-          <head xml:id="gd-p3d5-Hd1e163">C. V</head>
-          <head xml:id="gd-p3d5-Hd1e166" type="question-title"> Quare^ confirmationis sacramentum
+          <head xml:id="gd-p3d5-Hd1e163">Caput 5</head>
+          <head xml:id="gd-p3d5-Hd1e166" type="question-title"> Quare confirmationis sacramentum
             baptizato tradatur.</head>
-          <p xml:id="gd-p3d5-d1e169"> Item R ab anu s de institutione clericorum , [lib. L c. 30.]
-            Nouissime a summo sacerdote per manus inpositionemParaclitus traditur baptizato, ut
+          <p xml:id="gd-p3d5-d1e169"> Item <ref xml:id="gd-p3d5-Rd1e166">Rabanus de institutione clericorum , [lib. L c. 30.]</ref>
+            Nouissime a summo sacerdote per manus inpositionem Paraclitus traditur baptizato, ut
             roboretur per Spiritumsanctum ad predicandum aliis idem donum, quod inbaptismate
             consecutus est per gratiam uitae donatus eternae.Signatur enim baptizatus cum Crismate
             per sacerdotem incapitis summitate; per pontificem uero in fronte, ut inpriore unctione
@@ -122,189 +122,212 @@
             sanctitatis, et scientiae, et uirtutis uenirein hominem declaretur. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e174">
-          <head xml:id="gd-p3d5-Hd1e176">C. VI</head>
+          <head xml:id="gd-p3d5-Hd1e176">Caput 6</head>
           <head xml:id="gd-p3d5-Hd1e179" type="question-title"> Ad confirmationem non nisi ieiuni
             ueniant . </head>
-          <p xml:id="gd-p3d5-d1e182"> Item ex Concilio Aurelianensi , c. 3.Ut ieiuni ad
+          <p xml:id="gd-p3d5-d1e182">
+            Item ex <ref xml:id="gd-p3d5-Rd1e180">Concilio Aurelianensi , c. 3.</ref>
+            Ut ieiuni ad
             confirmationem ueniant perfectae etatis,ut moneantur confessionem facere prius, ut mundi
             donum Spiritus S. ualeant accipere, et quia numquam eritChristianus, nisi in
-            confirmatione episcopali fuerit cris-matus. </p>
+            confirmatione episcopali fuerit crismatus. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e186">
-          <head xml:id="gd-p3d5-Hd1e188">C. VII</head>
+          <head xml:id="gd-p3d5-Hd1e188">Caput 7</head>
           <head xml:id="gd-p3d5-Hd1e191" type="question-title"> Episcopi non nisi ieiuni baptizato s
             confirment. </head>
-          <p xml:id="gd-p3d5-d1e194"> Item ex Concilio Mei den si , c. 6 . Ut episcopi non nisi
-            ieiuni per inpositionem manuumSpiritum sanctum tradant, exceptis infirmis et morte
+          <p xml:id="gd-p3d5-d1e194"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e194">Concilio Mei den si , c. 6 .</ref> 
+            Ut episcopi non nisi
+            ieiuni per inpositionem manuum Spiritum sanctum tradant, exceptis infirmis et morte
             periclitantibus. Sicut autem duobus temporibus, Pasca uidelicetet Pentecosten, a ieiunis
             debet baptismus celebrari, itaet traditionem Spiritus sancti a ieiunis pontificibus
             conuenit celebrari. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e198">
-          <head xml:id="gd-p3d5-Hd1e200">C. VIII</head>
+          <head xml:id="gd-p3d5-Hd1e200">Caput 8</head>
           <head xml:id="gd-p3d5-Hd1e203" type="question-title"> Secundo uel tertio nullus
             confirmetur. </head>
-          <p xml:id="gd-p3d5-d1e206"> Item ex Concilio Terraconensis c. 6 .* </p>
-          <p xml:id="gd-p3d5-d1e209"> Dictum est nobis, quod quidam de plebe bis, uel ter, aut eo
-            amplius, episcopis ignorantibus tamen, abeisdem episcopis confirmentur. Unde uisum est
+          <p xml:id="gd-p3d5-d1e209"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e208">Concilio Terraconensis c. 6</ref>
+            Dictum est nobis, quod quidam de plebe bis, uel ter, aut eo
+            amplius, episcopis ignorantibus tamen, ab eisdem episcopis confirmentur. Unde uisum est
             nobis, eandem confirmationem, sicut nec baptisma, iterari minime debere, quia bis, uel
-            amplius baptizatos aut confirmatosnon seculo, sod soli Deo sub habitu regulari uel
-            clericalireligiosissime famulari decretum est. </p>
+            amplius baptizatos aut confirmatos non seculo, sod soli Deo sub habitu regulari uel
+            clericali religiosissime famulari decretum est. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e213">
-          <head xml:id="gd-p3d5-Hd1e215">C. IX</head>
-          <head xml:id="gd-p3d5-Hd1e218" type="question-title"> De eodem*.</head>
-          <p xml:id="gd-p3d5-d1e221"> Item Gregorius II. [epist. IV. ad Bonifatium]. </p>
-          <p xml:id="gd-p3d5-d1e224"> De homine, qui a pontifice confirmatus fuerit, denuotalis
+          <head xml:id="gd-p3d5-Hd1e215">Caput 9</head>
+          <head xml:id="gd-p3d5-Hd1e218" type="question-title"> De eodem.</head>
+          <p xml:id="gd-p3d5-d1e224"> 
+            Item <ref xml:id="gd-p3d5-Rd1e222">Gregorius II. [epist. IV. ad Bonifatium].</ref>
+            De homine, qui a pontifice confirmatus fuerit, denuotalis
             iteratio prohibenda est. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e228">
-          <head xml:id="gd-p3d5-Hd1e230">C. X</head>
+          <head xml:id="gd-p3d5-Hd1e230">Caput 10</head>
           <head xml:id="gd-p3d5-Hd1e233" type="question-title"> Omnia sacramenta crucis signaculo
             perficiuntur . </head>
-          <p xml:id="gd-p3d5-d1e236"> Item Stephanus . </p>
-          <p xml:id="gd-p3d5-d1e239"> II. Pars. Numquid non omnia erismata sacerdotalis ministerii
+          <p xml:id="gd-p3d5-d1e239"> 
+            Item <ref xml:id="gd-p3d5-Rd1e236">Stephanus</ref>.
+            Numquid non omnia erismata sacerdotalis ministerii
             crucis figura perficiuntur? Numquid baptismatis unda nisi cruce sanctificata peccata
-            relaxat, et,ut cetera pretereamus, sine crucis signaculo quis sacerdotiigradus ascendit?
+            relaxat, et ut cetera pretereamus, sine crucis signaculo quis sacerdotii gradus ascendit?
           </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e243">
-          <head xml:id="gd-p3d5-Hd1e245">C. XI</head>
+          <head xml:id="gd-p3d5-Hd1e245">Caput 11</head>
           <head xml:id="gd-p3d5-Hd1e248" type="question-title"> Ener gumini omnibus diebus
             exorcizentur . </head>
-          <p xml:id="gd-p3d5-d1e251"> Item ex Concilio Cartaginensi IV., [c. 90. et seqq.] </p>
-          <p xml:id="gd-p3d5-d1e254"> III. Pars* Omni die exorcistae energuminis manusinponant,
+          <p xml:id="gd-p3d5-d1e254"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e251">Concilio Cartaginensi IV., [c. 90. et seqq.]</ref> 
+            Omni die exorcistae energuminis manusinponant,
             energumini uero pauimenta domorum Deiuerrant. Quibus assidentibus in domo Dei uictus
             cot-tidianus per exorcistas opportuno tempore ministretur. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e259">
-          <head xml:id="gd-p3d5-Hd1e261">C. XII</head>
+          <head xml:id="gd-p3d5-Hd1e261">Caput 12</head>
           <head xml:id="gd-p3d5-Hd1e264" type="question-title"> quibus neophiti abstinere
             debent.</head>
-          <p xml:id="gd-p3d5-d1e267"> Item ex eodem, [c. 86.] </p>
-          <p xml:id="gd-p3d5-d1e270"> Neophiti aliquamdiu a lautioribus epulis, et spectaculis, uel
+          <p xml:id="gd-p3d5-d1e270">
+            Item ex <ref xml:id="gd-p3d5-Rd1e265">eodem, [c. 86.]</ref> 
+            Neophiti aliquamdiu a lautioribus epulis, et spectaculis, uel
             coniugibus abstineant. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e274">
-          <head xml:id="gd-p3d5-Hd1e276">C. XIII</head>
+          <head xml:id="gd-p3d5-Hd1e276">Caput 13</head>
           <head xml:id="gd-p3d5-Hd1e279" type="question-title"> De ordine offitiorum.</head>
-          <p xml:id="gd-p3d5-d1e282"> Item ex Concilio Agat en si, [c. 30.] </p>
-          <p xml:id="gd-p3d5-d1e285"> IV. Pars. Conuenit ordinem ecclesiae ab omnibusequaliter
-            custodiri. Unde statuendum est, utsicut ubique fit, post antiphonas collationes
-            abepiscopis uel presbiteris dicantur, et ymni matutini ueluespertini diebus omnibus
-            decantentur, et in conclusionematutinarum uel uespertinarum missarum post ymnos
-            capitella® de psalmis dicantur, et plebs collecta orationead uesperam ab episcopo
+          <p xml:id="gd-p3d5-d1e285">
+            Item ex <ref xml:id="gd-p3d5-Rd1e279">Concilio Agat en si, [c. 30.]</ref> 
+            Conuenit ordinem ecclesiae ab omnibus equaliter
+            custodiri. Unde statuendum est, ut sicut ubique fit, post antiphonas collationes
+            ab episcopis uel presbiteris dicantur, et ymni matutini uel uespertini diebus omnibus
+            decantentur, et in conclusionem atutinarum uel uespertinarum missarum post ymnos
+            capitella® de psalmis dicantur, et plebs collecta oratione ad uesperam ab episcopo
             dimittatur cum benedictione. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e289">
-          <head xml:id="gd-p3d5-Hd1e291">C. XIV</head>
-          <head xml:id="gd-p3d5-Hd1e294" type="question-title"> De eodem . </head>
-          <p xml:id="gd-p3d5-d1e297"> Item de Concilio Gerundensi, [c. 10.] </p>
-          <p xml:id="gd-p3d5-d1e300"> Id semper placuit obseruari, ut omnibus diebus post matutinos
+          <head xml:id="gd-p3d5-Hd1e291">Caput 14</head>
+          <head xml:id="gd-p3d5-Hd1e294" type="question-title">De eodem.</head>
+          <p xml:id="gd-p3d5-d1e300"> 
+            Item <ref xml:id="gd-p3d5-Rd1e293">de Concilio Gerundensi, [c. 10.]</ref> 
+            Id semper placuit obseruari, ut omnibus diebus post matutinos
             et uesperas oratio dominica a sacerdote proferatur. </p>
-          <p xml:id="gd-p3d5-d1e303"> Item Gregorius VII. in generali Sinodo™**: </p>
-
+          <p xml:id="gd-p3d5-d1e303"> Item Gregorius VII. in generali Sinodo: </p>
+        </div>
+        <div xml:id="gd-p3d5-Dd1e300">
+          <head xml:id="gd-p3d5-Hd1e302">Caput 15</head>
+          <head xml:id="gd-p3d5-Hd1e304" type="question-title">De eodem</head>
           <p xml:id="gd-p3d5-d1e307"> In die Resurrectionis usque in sabbatum in albis, et in die
             Pentecostes usque in sabbatum eiusdem III.psalmos tantum ad nocturnos, tresque lectiones
             antiquomore canimus c et legimus. Omnibus diebus aliis pertotum annum, si festiuitas est
             IX. lectiones dicimus.Aliis uero diebus XII. psalmos, et III. lectiones recitamus.In
             dominicis diebus XVIII. psalmos (excepto die Pascaeet Pentecostes) et IX. lectiones
-            celebramus. Illi autem,qui in diebus cottidianis tres tantummodo psalmos, et </p>
-          <p xml:id="gd-p3d5-d1e310"> III. lectiones celebrare uolunt, non ex regula sanctorum
-            Patrum, sed ex fastidio conprobantur^ hocfacere. Nos autem et ordinem Romanum
+            celebramus. Illi autem,qui in diebus cottidianis tres tantummodo psalmos, et 
+            III. lectiones celebrare uolunt, non ex regula sanctorum
+            Patrum, sed ex fastidio conprobantur hocfacere. Nos autem et ordinem Romanum
             inuestiganteset antiquum morem nostrae ecclesiae, imitantes antiquosPatres, statuimus
-            fieri sicut superius prenotauimus* </p>
+            fieri sicut superius prenotauimus</p>
         </div>
         <div xml:id="gd-p3d5-Dd1e314">
-          <head xml:id="gd-p3d5-Hd1e316">C. XVI</head>
+          <head xml:id="gd-p3d5-Hd1e316">Caput 16</head>
           <head xml:id="gd-p3d5-Hd1e319" type="question-title"> De obseruatione
             Quadragesimae.</head>
-          <p xml:id="gd-p3d5-d1e322"> Item ex omelia Gregorii Papae *. </p>
-          <p xml:id="gd-p3d5-d1e325"> V. Pars. Quadragesima summa obseruatione est ob-seruanda, ut
+          <p xml:id="gd-p3d5-d1e325"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e321">omelia Gregorii Papae.</ref>
+            Quadragesima summa obseruatione est ob-seruanda, ut
             ieiunium in ea, (preter dominicos dies, quide abstinentia subtracti sunt), nisi quem
-            infirmitas inpedie-rit, nullatenus soluatur, quia ipsi dies decimae sunt anni.A prima
+            infirmitas inpedierit, nullatenus soluatur, quia ipsi dies decimae sunt anni.A prima
             igitur dominica Quadragesimae usque in Pasca Domini sex ebdomadae conputantur, quarum
             uidelicet diesquadraginta et duo fiunt, e quibus dum sex dies dominiciabstinentiae
             subtrahuntur, non plus in abstinentia, quamtriginta et sex dies remanent. Verbi gratia,
-            si perCCCLXV. dies annus uoluitur, et nos per XXXVI.dies affligimur, quasi anni decimas
+            si per CCCLXV. dies annus uoluitur, et nos per XXXVI.dies affligimur, quasi anni decimas
             Deo damus. Sed utsacer numerus XL. dierum adinpleatur, quem Saluatornoster sacro ieiunio
             consecrauerat, IV. dies priorisebdomadae ad supplementum XL. dierum tollantur®, idest
             quarta feria, que caput ieiunii subnotatur, et quintaferia sequens, sexta, et sabbatum.
-            Nisi istos dies </p>
-          <p xml:id="gd-p3d5-d1e328"> IV. superioribus XXXVI. adiunxerimus, XL. dies in abstinentia
+            Nisi istos dies IV. superioribus XXXVI. adiunxerimus, XL. dies in abstinentia
             non habemus. Iubemur etiam ab omnipotentiDeo omnium bonorum nostrorum decimas dare. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e332">
-          <head xml:id="gd-p3d5-Hd1e334">C. XVII</head>
+          <head xml:id="gd-p3d5-Hd1e334">Caput 17</head>
           <head xml:id="gd-p3d5-Hd1e337" type="question-title"> Ieiunia legitima non soluantur
             absque necessitate probabili. </head>
-          <p xml:id="gd-p3d5-d1e340"> Item Eusebius Papa . </p>
-          <p xml:id="gd-p3d5-d1e343"> Ieiunia in ecclesia a sacerdotibus constituta sine rationabili
+          <p xml:id="gd-p3d5-d1e343"> 
+            Item <ref xml:id="gd-p3d5-Rd1e336">Eusebius Papa.</ref>
+            Ieiunia in ecclesia a sacerdotibus constituta sine rationabili
             necessitate non soluantur. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e347">
-          <head xml:id="gd-p3d5-Hd1e349">C. XVIII</head>
+          <head xml:id="gd-p3d5-Hd1e349">Caput 18</head>
           <head xml:id="gd-p3d5-Hd1e352" type="question-title"> Cottidicina ieiunia duplicatis uel
             triplicatis sunt preferenda. </head>
-          <p xml:id="gd-p3d5-d1e355"> Item Ieronimus . </p>
-          <p xml:id="gd-p3d5-d1e358"> Non dico ebdomadas, non dico duplicata ieiunia, sed saltim
+          <p xml:id="gd-p3d5-d1e358"> 
+            Item <ref xml:id="gd-p3d5-Rd1e350">Ieronimus.</ref> 
+            Non dico ebdomadas, non dico duplicata ieiunia, sed saltim
             singulos dies absque ciborum luxuria transigamus. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e363">
-          <head xml:id="gd-p3d5-Hd1e365">C. XIX</head>
+          <head xml:id="gd-p3d5-Hd1e365">Caput 19</head>
           <head xml:id="gd-p3d5-Hd1e368" type="question-title"> De i eodem. </head>
-          <p xml:id="gd-p3d5-d1e371"> Idem . </p>
-          <p xml:id="gd-p3d5-d1e374"> Sint tibi cottidiana ieiunia, refectio sacietatem fugiens.
+          <p xml:id="gd-p3d5-d1e374"> 
+            <ref xml:id="gd-p3d5-Rd1e364">Idem.</ref>
+            Sint tibi cottidiana ieiunia, refectio sacietatem fugiens.
             Nichil enim prodest tibi biduo uel triduo transmisso uacuum portare uentrem, si pariter
             obstruatur i. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e378">
-          <head xml:id="gd-p3d5-Hd1e380">C. XX</head>
-          <head xml:id="gd-p3d5-Hd1e383" type="question-title"> De eodem.</head>
-          <p xml:id="gd-p3d5-d1e386"> Idem* </p>
-          <p xml:id="gd-p3d5-d1e389"> Sint tibi ieiunia pura, continua, moderataque, id est cottidie
+          <head xml:id="gd-p3d5-Hd1e380">Caput 20</head>
+          <head xml:id="gd-p3d5-Hd1e383" type="question-title">De eodem.</head>
+          <p xml:id="gd-p3d5-d1e389"> 
+            <ref xml:id="gd-p3d5-Rd1e378">Idem</ref>
+            Sint tibi ieiunia pura, continua, moderataque, id est cottidie
             esurire, et cottidie prandere. Apostolus inquit: „Noli adhuc aquam bibere, sed modico
             uino uterepropter infirmitates tuas.“ Curat uulnera delinquentis,curatosque sanctificat
             ieiunium. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e393">
-          <head xml:id="gd-p3d5-Hd1e395">C. XXI</head>
+          <head xml:id="gd-p3d5-Hd1e395">Caput 21</head>
           <head xml:id="gd-p3d5-Hd1e398" type="question-title"> Medicinae precepta diuinae sunt
             condicioni contraria. </head>
-          <p xml:id="gd-p3d5-d1e401"> Item Ambrosius in Psal. CXXX . </p>
-          <p xml:id="gd-p3d5-d1e404"> VI. Pars. Contraria diuinae condicionis precepta medicinae
+          <p xml:id="gd-p3d5-d1e404"> 
+            Item <ref xml:id="gd-p3d5-Rd1e392">Ambrosius in Psal. CXXX.</ref> 
+            Contraria diuinae condicionis precepta medicinae
             sunt. A ieiunio reuocant, lucubrare nonsinunt, ab omni intentione meditationis abducunt.
-            Itaquequi se medicis dederit, se ipsum sibi abnegat. </p>
+            Itaquequi se medicis dederit, se ipsum sibi abnegat. 
+          </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e408">
-          <head xml:id="gd-p3d5-Hd1e410">C. XXII</head>
+          <head xml:id="gd-p3d5-Hd1e410">Caput 22</head>
           <head xml:id="gd-p3d5-Hd1e413" type="question-title"> Quot modis uicium gulae nos tangat . </head>
-          <p xml:id="gd-p3d5-d1e416"> Item Gregorius in expositione B. Iob , [lib. XXX. c. 27.] </p>
-          <p xml:id="gd-p3d5-d1e419"> Quinque modis gulae uicium temptat. Aliquando namque
+          <p xml:id="gd-p3d5-d1e419"> 
+            Item <ref xml:id="gd-p3d5-Rd1e406">Gregorius in expositione B. Iob , [lib. XXX. c. 27.]</ref> 
+            Quinque modis gulae uicium temptat. Aliquando namque
             indigentiae tempora preuenit; aliquando tempora non preuenit, sed cibos lautiores
             querit; aliquandoque sumenda sunt, procurari s accuratius expetit; aliquando autem et
             qualitas ciborum, et tempus congruit, sed in ipsa quantitate sumendi mensuram
-            refectionis excedit. Nonnumquam et abie-ctius est quod desiderat, et tamen ipso estu
-            inmensi desideriideterius peccat. </p>
+            refectionis excedit. Nonnumquam et abiectius est quod desiderat, et tamen ipso estu
+            inmensi desideriideterius peccat.
+          </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e423">
-          <head xml:id="gd-p3d5-Hd1e425">C. XXIII</head>
+          <head xml:id="gd-p3d5-Hd1e425">Caput 23</head>
           <head xml:id="gd-p3d5-Hd1e428" type="question-title"> Absque puritate mentis ieiunia et
             orationes non prosunt. </head>
-          <p xml:id="gd-p3d5-d1e431"> Item Pius Papa , [epist. I.] </p>
-
-          <p xml:id="gd-p3d5-d1e434"> Nichil enim prodest homini ieiunare, et orare, et alia bona
-            religionis agere, nisi mens ab iniquitate % et abobtrectationibus lingua cohibeatur.
+          <p xml:id="gd-p3d5-d1e434"> 
+            Item <ref xml:id="gd-p3d5-Rd1e421">Pius Papa , [epist. I.]</ref>
+            Nichil enim prodest homini ieiunare, et orare, et alia bona
+            religionis agere, nisi mens ab iniquitate  et abobtrectationibus lingua cohibeatur.
           </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e438">
-          <head xml:id="gd-p3d5-Hd1e440">C. XXIV</head>
+          <head xml:id="gd-p3d5-Hd1e440">Caput 24</head>
           <head xml:id="gd-p3d5-Hd1e443" type="question-title"> Mediocre bonum non est magno pre
             ferendum.</head>
-          <p xml:id="gd-p3d5-d1e446"> Item Ieronimus. </p>
-          <p xml:id="gd-p3d5-d1e449"> Non mediocriter errat qui magno bono prefert mediocre bonum.
+          <p xml:id="gd-p3d5-d1e449"> 
+            Item <ref xml:id="gd-p3d5-Rd1e435">Ieronimus.</ref>
+            Non mediocriter errat qui magno bono prefert mediocre bonum.
             Nonne rationabilis homo dignitatem amittit, qui uel ieiunium karitati, aut uigilias
-            prefert sensus integritati, ut propter abstinentiam* inmoderatam,atque indiscretam
+            prefert sensus integritati, ut propter abstinentiam inmoderatam,atque indiscretam
             psalmorum uel offitiorum decantationemaut amentiae, aut tristiciae notam incurrat?
             Numquid uer-borum flecti multitudine ut homo Deus potest? Non enimuerbis tantum, sed
             corde orandus est Deus. Quaproptermelior est quinque psalmorum cantatio cum
@@ -312,75 +335,85 @@
             anxietate cordis atque tristicia.Cum s igitur pro centum animabus psalmus uel
             missadicitur, nichil minus, quam si pro uno quolibet ipsorumdiceretur, accipitur.
             Audiant itaque, qui ea, que necessariasunt, corpori subtrahunt, illud, quod per
-            Prophetam Dominus loquitur: „Ego Dominus odiens rapinam holocaustorum/* De rapina uero
+            Prophetam Dominus loquitur: „Ego Dominus odiens rapinam holocaustorum/ De rapina uero
             holocaustum offert qui uelciborum nimia egestate uel sompni penuria corpusinmoderate
             affligit. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e454">
-          <head xml:id="gd-p3d5-Hd1e456">C. XXV</head>
+          <head xml:id="gd-p3d5-Hd1e456">Caput 25</head>
           <head xml:id="gd-p3d5-Hd1e459" type="question-title"> Non a cibis , sed ab iniquitatibus
             abstinere , est magnum et generale ieiunium. </head>
-          <p xml:id="gd-p3d5-d1e462"> Item Augustinus super Iobann. [tract. XVII.] </p>
-          <p xml:id="gd-p3d5-d1e465"> Ieiunium autem magnum et generale est abstinere ab
-            inquitatibus et ab illicitis uoluptatibus seculi, quodest perfectum ieiunium. §. i. j
+          <p xml:id="gd-p3d5-d1e465"> 
+            Item <ref xml:id="gd-p3d5-Rd1e449">Augustinus super Iobann. [tract. XVII.]</ref> 
+            Ieiunium autem magnum et generale est abstinere ab
+            inquitatibus et ab illicitis uoluptatibus seculi, quodest perfectum ieiunium. 
+          </p>
+          <p xml:id="gd-p3d5-d1e452">
+            §. i. j
             hoc seculo quasiQuadragesimam abstinentiae celebramus, cum bene uiuimus,cum ab
             iniquitatibus et ab illicitis uoluptatibus abstinemus. Sed quia hec abstinentia sine
             mercede non erit,exspectamus illam beatam spem, et reuelationem gloriaemagni Dei, et
             saluatoris nostri Iesu Christi. In illa spe,cum fuerit de spe facta res, accepturi sumus
-            mercedemdenarium. §. 2. Denarius ergo, qui accipit&amp; nomen adecem numero, redditur,
-            et coniunctas quadragenariofit quinquagenarius. Unde cum labore celebramus Quadragesimam
-            ante Pasca, cum leticia uero, tamquam acceptamercede, Quinquagesimam post Pasca. Nam
+            mercedemdenarium. 
+          </p>
+          <p xml:id="gd-p3d5-d1e454">
+            §. 2. Denarius ergo, qui accipit&amp; nomen adecem numero, redditur,
+            et coniunctas quadragenario fit quinquagenarius. Unde cum labore celebramus Quadragesimam
+            ante Pasca, cum leticia uero, tamquam accepta mercede, Quinquagesimam post Pasca. Nam
             huic tamquam salutari labori boni operis, qui pertinet ad quadragenarium numerum,
             additur quietis et felicitatis denarius, utquinquagenarius fiat. Significauit ipse
             Dominushec multo apertius, quando post resurrectionem quadraginta diebus conuersatus est
             cum discipulis suis, quadragesimo autem die, cum ascendisset in celum, peractis decem
-            diebus misit mercedem Spiritus sancti. </p>
+            diebus misit mercedem Spiritus sancti. 
+          </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e469">
-          <head xml:id="gd-p3d5-Hd1e471">C. XXVI</head>
+          <head xml:id="gd-p3d5-Hd1e471">Caput 26</head>
           <head xml:id="gd-p3d5-Hd1e474" type="question-title"> Raptorem °, uel furem non facit
             necessitas, sed uoluntas. </head>
-          <p xml:id="gd-p3d5-d1e477"> Item ex dictis Apollonii . </p>
-          <p xml:id="gd-p3d5-d1e480"> Discipulos, cum per segetes transeundo euellerentspicas, et
+          <p xml:id="gd-p3d5-d1e480"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e467">dictis Apollonii.</ref>
+            Discipulos, cum per segetes transeundo euellerentspicas, et
             ederent, ipsius Christi uox innocentes uocat, quiacoacti fame hoc fecerunt. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e484">
-          <head xml:id="gd-p3d5-Hd1e486">C. XXVII</head>
+          <head xml:id="gd-p3d5-Hd1e486">Caput 27</head>
           <head xml:id="gd-p3d5-Hd1e489" type="question-title"> Non necessitas, sed uoluntas facit
             perseuerantiam. </head>
-          <p xml:id="gd-p3d5-d1e492"> Item leronimus [in c. 7. Oseae.] </p>
-          <p xml:id="gd-p3d5-d1e495"> Quicquid necessitate fit cito soluitur; quod uoluntate
+          <p xml:id="gd-p3d5-d1e495"> 
+            Item <ref xml:id="gd-p3d5-Rd1e481">Ieronimus [in c. 7. Oseae.]</ref> 
+            Quicquid necessitate fit cito soluitur; quod uoluntate
             arripitur perseuerat. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e499">
-          <head xml:id="gd-p3d5-Hd1e501">C. XXVIII</head>
-          <head xml:id="gd-p3d5-Hd1e504" type="question-title"> Ciborum temperantia^ salutem,
+          <head xml:id="gd-p3d5-Hd1e501">Caput 28</head>
+          <head xml:id="gd-p3d5-Hd1e504" type="question-title"> Ciborum temperantia salutem,
             abundantia contrarium parit.</head>
-          <p xml:id="gd-p3d5-d1e507"> Item I ob anne s Os aureum , [hom. XXIX. ad c. 12. ep. ad
-            Hebr.] </p>
-          <p xml:id="gd-p3d5-d1e510"> Nichil enim sic iocundum est, sicut cibus bene digestus aut
+          <p xml:id="gd-p3d5-d1e510"> 
+            Item <ref xml:id="gd-p3d5-Rd1e495">Iobannes Os aureum , [hom. XXIX. ad c. 12. ep. ad Hebr.]</ref> 
+            Nichil enim sic iocundum est, sicut cibus bene digestus aut
             decoctus. Nichil sic salutem, nichil sic sensuumacumen operatur, nichil sic egritudinem
             fugat, sicut moderata refectio; sufficientia quippe cum nutrimento etsospitatem simul
             procreat et uoluptatem; ex habun-dantia uero morbum facit et molestias ingerit, et
             egritudinesgenerat et facit. Quod enim facit fames, hoc etiamplenitudo ciborum; magis
             autem multo peiora.Fames quippe in paucis diebus aufert hominem et liberatex hac uita
-            penali*; excessus uero ciborum consumit etconputrescere^ facit corpus humanum et macerat
-            egritudine diuturna, et tunc cum morte crudeli consumit. </p>
+            penali; excessus uero ciborum consumit et conputrescere facit corpus humanum et macerat
+            egritudine diuturna, et tunc cum morte crudeli consumit. 
+          </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e514">
-          <head xml:id="gd-p3d5-Hd1e516">C. XXIX</head>
+          <head xml:id="gd-p3d5-Hd1e516">Caput 29</head>
           <head xml:id="gd-p3d5-Hd1e519" type="question-title"> Ciborum deliciae, si
             superliabundauerint ledunt. </head>
-          <p xml:id="gd-p3d5-d1e522"> Item leronimus [aduersus Iouinianum, lib. II.] </p>
-          <p xml:id="gd-p3d5-d1e525"> Ne tales accipiamus cibos, quos aut difficulter digerere, aut
+          <p xml:id="gd-p3d5-d1e525"> 
+            Item <ref xml:id="gd-p3d5-Rd1e510">Ieronimus [aduersus Iouinianum, lib. II.]</ref> 
+            Ne tales accipiamus cibos, quos aut difficulter digerere, aut
             comestos partos magno et perditos labore dolea-mus. Holerum et pomorum ac leguminum et
             faciliorapparatus est, et arte inpendiisque coquorum non indiget, etsine cura sustentat
             humanum genus , moderate sumptus (quia nec auide deuoratur quod irritamenta gulae
             nonhabet) et leuiori digestione decoquitur. Nemo enimuno ets duobus cibis hisque uilibus
             usque ad inflationem uentris oneratur, que diuersitate carnium et saporis delectatione
-            concipitur.Cum uariis nidoribus </p>
-
-          <p xml:id="gd-p3d5-d1e528"> fumant patinae, ad usum sui explenda esurie quasi captiuos
+            concipitur.Cum uariis nidoribus fumant patinae, ad usum sui explenda esurie quasi captiuos
             trahunt. Unde et morbi saturitate nimia concitantur, multique inpatientia gulae uomitu
             remediantur,et quod turpiter ingesserunt turpius egerunt. Ypocratesin aphorismis
             epidemiis docet, crassa et obesa,que crescendi mensuram inpleuerintP, nisi cito
@@ -394,45 +427,51 @@
             ingluuiecogitare. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e532">
-          <head xml:id="gd-p3d5-Hd1e534">C. XXX</head>
-          <head xml:id="gd-p3d5-Hd1e537" type="question-title"> Multorum infirmitates ieiunia^
+          <head xml:id="gd-p3d5-Hd1e534">Caput 30</head>
+          <head xml:id="gd-p3d5-Hd1e537" type="question-title"> Multorum infirmitates ieiunia
             sanant.</head>
-          <p xml:id="gd-p3d5-d1e540"> Idem*. </p>
-          <p xml:id="gd-p3d5-d1e543"> Legimus quosdam, morbo articulari et podagrae humoribus
+          <p xml:id="gd-p3d5-d1e543"> 
+            <ref xml:id="gd-p3d5-Rd1e524">Idem.</ref>
+            Legimus quosdam, morbo articulari et podagrae humoribus
             laborantes, proscriptione bonorum ad simplicem mensam et pauperes cibos redactos
             conualuisse. Caruerant enim sollicitudine dispensandae domus et epularum largitate, que
-            et corpus frangunt et animam. Irridet Horatiusappetitum ciborum, qui consumpti
+            et corpus frangunt et animam. Irridet Horatius appetitum ciborum, qui consumpti
             relinquunt penitenciam. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e548">
-          <head xml:id="gd-p3d5-Hd1e550">C. XXXI</head>
+          <head xml:id="gd-p3d5-Hd1e550">Caput 31</head>
           <head xml:id="gd-p3d5-Hd1e553" type="question-title"> Dies sabbatorum a carnibus abstinere
             debemus. </head>
-          <p xml:id="gd-p3d5-d1e556"> Item Gregorius VII. [in Sinodo celebrata Romae anno sui
-            Pontif. VI., c. 8.] </p>
-          <p xml:id="gd-p3d5-d1e559"> VII. Pars. Quia dies sabbati apud sanctos Patresnostros in
-            abstinentia celebris est habitus, nos eorumdemauctoritatem sequentes salubriter
+          <p xml:id="gd-p3d5-d1e559"> 
+            Item <ref xml:id="gd-p3d5-Rd1e538">Gregorius VII. [in Sinodo celebrata Romae anno sui Pontif. VI., c. 8.]</ref> 
+            Quia dies sabbati apud sanctos Patres nostros in
+            abstinentia celebris est habitus, nos eorumdem auctoritatem sequentes salubriter
             ammonemus, ut quicumque Christianae religionis participem se esse desiderat,ab esu
             carnium eadem die (nisi maiori festiuitate inter-ueniente, uel infirmitate inpediente)
             abstineat. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e563">
-          <head xml:id="gd-p3d5-Hd1e565">C. XXXII</head>
+          <head xml:id="gd-p3d5-Hd1e565">Caput 32</head>
           <head xml:id="gd-p3d5-Hd1e568" type="question-title"> Monacho carnem gustare non licet. </head>
-          <p xml:id="gd-p3d5-d1e571"> Item Fructuosus Episcopus . </p>
-          <p xml:id="gd-p3d5-d1e574"> VIII. Pars. Carnem cuiquam monacho nec gustandinec sumendi,
+          <p xml:id="gd-p3d5-d1e574"> 
+            Item <ref xml:id="gd-p3d5-Rd1e552">Fructuosus Episcopus.</ref>
+            Carnem cuiquam monacho nec gustandinec sumendi,
             est concessa licentia, non quod creaturamDei iudicemus indignam, sed quod carnis
             abstinentia utiliset apta monachis estimetur, seruato tamen moderamine pietatis erga
-            egrotos. §. i. Qd si quis monachus uio-lauerit, et contra sanctionem regulae usumque
+            egrotos. 
+          </p>
+          <p xml:id="gd-p3d5-d1e555">
+            §. i. Qd si quis monachus uio-lauerit, et contra sanctionem regulae usumque
             ueterumuesci carnibus presumpserit, sex mensium spacio retru-sioni et penitenciae
             subiacebit. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e578">
-          <head xml:id="gd-p3d5-Hd1e580">C. XXXIII</head>
+          <head xml:id="gd-p3d5-Hd1e580">Caput 33</head>
           <head xml:id="gd-p3d5-Hd1e583" type="question-title"> De cottidianis operibus
             monachorum.</head>
-          <p xml:id="gd-p3d5-d1e586"> Item leronimus ad Rpsticum monachum . </p>
-          <p xml:id="gd-p3d5-d1e589"> Numquam de manu aut oculis tuis liber psalterii discedat;
+          <p xml:id="gd-p3d5-d1e589"> 
+            Item <ref xml:id="gd-p3d5-Rd1e568">Ieronimus ad Rpsticum monachum.</ref> 
+            Numquam de manu aut oculis tuis liber psalterii discedat;
             dicatur ad uerbum, oratio sine intermissione. Vigilets sensus, nec uagis cogitationibus
             patens; corpus pariterque animus tendatur ad Dominum. Iram uince patienda. Ama sdentiam
             scripturarum, et carnis uicia non amabis. Nec uacet mens tua uariis perturbationibus ,
@@ -444,7 +483,10 @@
             uiminibus; sarriatur humus; areolae equo limite di-uidantur, in quibus cum holerum
             iactata fuerint semina,uel plantae per ordinem positae, aquae ducantur irriguae,hic
             pulcherrimorum uersuum spectator assistes:„Ecce supercilio cliuosi tramitis undamElicit;
-            illa cadens raucum per leuia murmurSaxa ciet, scatebrisque arentia temperat arua.“ </p>
+            illa cadens raucum per leuia murmurSaxa ciet, scatebrisque arentia temperat arua.“ 
+          </p>
+        
+        
           <p xml:id="gd-p3d5-d1e592"> §. i. Inserantur fructuosae arbores uel gemmis, uel surculis,
             ut paruo post tempore laboris tui dulcia poma decerpas. Apum fabricare aluearia, ad quas
             te mittunt Salomonis prouerbia,monasteriorum ordinem ac regiamdisciplinam in paruis
@@ -452,33 +494,38 @@
             manusoperetur cibos % et anima lectione saturetur. „In desideriis est omnis otiosus.“
             Egiptiorum monasteria huncmorem tenent, ut nullum absque opere et labore suscipiant, non
             tam propter uictus necessaria, quam propteranimae salutem, nec uagentur perniciosis
-            cogitationibus et instar fornicantis Iherusalem diuaricentpedes suos omni transeunti. Et
-            in sequentibus : §. 2.Quid? ergo peribunt omnes, qui in urbibus habitant? Ecceilli
+            cogitationibus et instar fornicantis Iherusalem diuaricentpedes suos omni transeunti. 
+          </p>
+          <p xml:id="gd-p3d5-d1e57x">
+            Et
+            in sequentibus : §. 2. Quid? ergo peribunt omnes, qui in urbibus habitant? Ecceilli
             fruuntur suis rebus, ministrant ecclesiis, adeunt balnea,unguenta non spernunt, et in
             omnium flore uersantur.Ad quod et ante respondi, et nunc breuiter respondeo, mein
             presenti opusculo non de clericis disputare, sed monachum instituere. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e596">
-          <head xml:id="gd-p3d5-Hd1e598">C. XXXIV</head>
+          <head xml:id="gd-p3d5-Hd1e598">Caput 34</head>
           <head xml:id="gd-p3d5-Hd1e601" type="question-title"> Absque prelati sui licentia
             canonicis nichil agere licet. </head>
-          <p xml:id="gd-p3d5-d1e604"> Item in V. libro Capitulorum , [c. H5.] </p>
-          <p xml:id="gd-p3d5-d1e607"> IX. Pars. In omnibus igitur (quantum humana permittit
+          <p xml:id="gd-p3d5-d1e607"> 
+            Item in <ref xml:id="gd-p3d5-Rd1e587">V. libro Capitulorum , [c. H5.]</ref> 
+            In omnibus igitur (quantum humana permittit
             fragilitas) decernimus, ut canonici clerici canonice uiuant, obseruantes diuinae
             scripturae doctrinam, etdocumenta sanctorum Patrum, et nichil sine licentia episcopisui
             uel magistri eorum inconposite agere presumant; inunoquoque episcopatu simul manducent
             et dormiant,ubi his facultas id faciendi suppetit; qui de rebus ecclesiasticis stipendia
             accipiunt, in suo claustro maneant;et singulis diebus mane prima ad lectionem ueniant,
             etaudiant quid eis inperetur. Ad mensam uero similiter lectionem audiant, et obedientiam
-            secundum canones suis magistris* faciant s. </p>
-
+            secundum canones suis magistris faciant s. 
+          </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e611">
-          <head xml:id="gd-p3d5-Hd1e613">C. XXXV</head>
+          <head xml:id="gd-p3d5-Hd1e613">Caput 35</head>
           <head xml:id="gd-p3d5-Hd1e616" type="question-title"> Presbiteri , qui simul conueniunt ,
             ebrietatem et comessationes summopere uitent. </head>
-          <p xml:id="gd-p3d5-d1e619"> Item ex Concilio Nannetensi , [c. io.] </p>
-          <p xml:id="gd-p3d5-d1e622"> X. Pars. Nullus presbiterorum, quando ad anniuer-sarium diem
+          <p xml:id="gd-p3d5-d1e622">
+            Item ex <ref xml:id="gd-p3d5-Rd1e602">Concilio Nannetensi , [c. io.]</ref> 
+            Nullus presbiterorum, quando ad anniuer-sarium diem
             trigesimum, uel tertium alicuius defuncti,aut quacumque uocatione ad collectam
             presbiteri conuene-rint, se inebriare nullatenus presumant; nec precati in amore
             sanctorum uel ipsius animae bibere,aut ad s bibendum cogere, uel se aliena
@@ -488,50 +535,53 @@
             prohibitum. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e626">
-          <head xml:id="gd-p3d5-Hd1e628">C. XXXVI</head>
-          <head xml:id="gd-p3d5-Hd1e631" type="question-title"> Quibus spectaculis clerici ^
+          <head xml:id="gd-p3d5-Hd1e628">Caput 36</head>
+          <head xml:id="gd-p3d5-Hd1e631" type="question-title"> Quibus spectaculis clerici 
             interesse debent. </head>
-          <p xml:id="gd-p3d5-d1e634"> Item ex Concilio Laudicensi , [c. 54.]c* </p>
-          <p xml:id="gd-p3d5-d1e637"> Non oportet ministros altaris uel quoslibet clericos
+          <p xml:id="gd-p3d5-d1e637"> 
+            Item ex <ref xml:id="gd-p3d5-Rd1e616">Concilio Laudicensi , [c. 54.]</ref> 
+            Non oportet ministros altaris uel quoslibet clericos
             spectaculis aliquibus, que aut in nuptiis, aut in cenisexhibentur, interesse, sed ante,
             quam thimelici ingrediantur,surgere eos de conuiuio, et abire debere. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e642">
-          <head xml:id="gd-p3d5-Hd1e644">C. XXXVII</head>
+          <head xml:id="gd-p3d5-Hd1e644">Caput 37</head>
           <head xml:id="gd-p3d5-Hd1e647" type="question-title"> Clericus uel laicus sine iussione
             episcopi non peregrinetur. </head>
-          <p xml:id="gd-p3d5-d1e650"> Item ex eodem , [c. 42. et 41.] </p>
-          <p xml:id="gd-p3d5-d1e653"> XI. Pars. Non oportet ministrum altaris, uel quemlibet
-            clericum preter iussionem episcopi ad peregrinandum proficisci. §. 1. Laicum etiam* sine
+          <p xml:id="gd-p3d5-d1e653">  
+            Item ex <ref xml:id="gd-p3d5-Rd1e630">eodem , [c. 42. et 41.]</ref> Non oportet ministrum altaris, uel quemlibet
+            clericum preter iussionem episcopi ad peregrinandum proficisci. 
+          </p>
+          <p xml:id="gd-p3d5-d1e633">
+            §. 1. Laicum etiam sine
             canonicis litteris,id est formata, similiter non oportet alicubi proficisci. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e657">
-          <head xml:id="gd-p3d5-Hd1e659">C. XXXVIII</head>
+          <head xml:id="gd-p3d5-Hd1e659">Caput 38</head>
           <head xml:id="gd-p3d5-Hd1e662" type="question-title"> Colorum fucis mulieres uti non
             debent. </head>
-          <p xml:id="gd-p3d5-d1e665"> Item Augustinus ad Possidium , et qui cum eo sunt fratres ,
-            [epist. LXXIII.] </p>
-          <p xml:id="gd-p3d5-d1e668"> XII. Pars. Fucare pigmentis, quo uel rubicundior, uel
+          <p xml:id="gd-p3d5-d1e668">
+            Item <ref xml:id="gd-p3d5-Rd1e646">Augustinus ad Possidium , et qui cum eo sunt fratres , [epist. LXXIII.]</ref>. 
+            Fucare pigmentis, quo uel rubicundior, uel
             candidior appareat, adulterina fallacia est, quanon dubito etiam ipsos maritos se nolle
             decipi, quibussolis permittendae sunt feminae ornari secundum ueniam,non secundum
-            inperium. Nam uerus ornatus, maxime </p>
-
-
-
-          <p xml:id="gd-p3d5-d1e671"> Christianorum et Christianarum, non tantum nullus fucus
-            mendax, uerum ne auri quidem uestisque pompa, sed mores boni sunt. §. i. Exsecranda
+            inperium. Nam uerus ornatus, maxime  Christianorum et Christianarum, non tantum nullus fucus
+            mendax, uerum ne auri quidem uestisque pompa, sed mores boni sunt. 
+          </p>
+          <p xml:id="gd-p3d5-d1e649">
+            §. i. Exsecranda
             autem superstitioligaturarum (in quibus etiam in aures uirorum in summisex una parte
             auriculis suspensae deputantur) non adplacendum hominibus, sed ad seruiendum demonibus
             adhibentur. </p>
         </div>
         <div xml:id="gd-p3d5-Dd1e675">
-          <head xml:id="gd-p3d5-Hd1e677">C. XXXIX</head>
+          <head xml:id="gd-p3d5-Hd1e677">Caput 39</head>
           <head xml:id="gd-p3d5-Hd1e680" type="question-title"> Quod Spiritus sanctus procedit a
             Patre et Filio.</head>
-          <p xml:id="gd-p3d5-d1e683"> Item ex Simbolo Eph e sini Concilii CC. Episcoporum , quod
-            habitum est contra Nestorium . </p>
-          <p xml:id="gd-p3d5-d1e686"> XIII. Pars. De Spiritu dicit Dominus in euangelio: „Ille me
-            clarificabit.^ Hoc rectissime sentientes,unum Christum et Filium, non uelut alterius
+          <p xml:id="gd-p3d5-d1e686">
+            Item ex <ref xml:id="gd-p3d5-Rd1e662">Simbolo Eph e sini Concilii CC. Episcoporum , quod habitum est contra Nestorium .</ref>
+            De Spiritu dicit Dominus in euangelio: „Ille me
+            clarificabit. Hoc rectissime sentientes,unum Christum et Filium, non uelut alterius
             egentemgloria, confitemur a Spiritu sancto gloriam consecutum, quiaspiritus eius nec
             melior, nec superior ipso est, sed quiahumana opera faciens ad demonstrationem suae
             deitatisuirtute proprii spiritus utebatur, ab ipso glorificatusdicitur, eo quod uirtus
@@ -541,29 +591,39 @@
             ueritas Christus est. Unde et ab isto similitersicut a Deo Patre procedit. Denique hic
             ipse Spiritusetiam per sanctorum apostolorum manus miracula gloriosaperficiens
             glorificauit Dominum Iesum Christum, postquamascendit in celum. Nam creditur Christus
-            natura Deusexistere per suum spiritum uirtutem^ efficiens, ideoque dicebat: „De meo
+            natura Deusexistere per suum spiritum uirtutem efficiens, ideoque dicebat: „De meo
             accipiet, et annunciabit uobis.“ </p>
-
-          <p xml:id="gd-p3d5-d1e689"> Item Didimus in lib. [II.] de Spiritu sancto , contra errorem
-            grecorum. </p>
-          <p xml:id="gd-p3d5-d1e693"> Saluator*, qui et ueritas, ait: „Non enim loque-tur a
+        </div>
+        <div xml:id="gd-p3d5-Dd1e666">
+          <head xml:id="gd-p3d5-Hd1e668">Caput 40</head>
+          <head xml:id="gd-p3d5-Hd1e670" type="question-title">De eodem</head>
+          <p xml:id="gd-p3d5-d1e693"> 
+            Item <ref xml:id="gd-p3d5-Rd1e675">Didimus in lib. [II.] de Spiritu sancto , contra errorem
+            grecorum.</ref> 
+            Saluator, qui et ueritas, ait: „Non enim loque-tur a
             semetipso,“ hoc est: sine me, et sine meo et siue Patris arbitrio, quia inseparabilis
-            est a mea et Patrisuoluntate. Et amplius: §. i. Quia ex se non est, sed exPatre et a me
+            est a mea et Patrisuoluntate. 
+          </p>
+          <p xml:id="gd-p3d5-d1e678">
+            Et amplius: §. i. Quia ex se non est, sed exPatre et a me
             est. Hoc enim ipsum, quod consistit, et loquitur, a Patre et a me illes est:
             ,,Egoueritatem loquor,“ id est inspiro que loquitur, siquidemspiritus ueritatis est.
             Dicere autem et loqui in Trinitate,non secundum consuetudinem nostram, qua ad nos
             sermocinamur et loquimur, est accipiendum, sed iuxtaformam incorporalium naturarum, et
             maxime Trinitatis,que uoluntatem suam ingerit in corda credentium;eorum cordibus
-            inserit, qui eam digni sunt audire.§.2. Liquido ergo est dicere Patrem et audire
+            inserit, qui eam digni sunt audire.
+          </p>
+          <p xml:id="gd-p3d5-d1e680">
+            §. 2. Liquido ergo est dicere Patrem et audire
             Filium,uel e contra Filium? loquentem audire Patrem, eiusdem naturae esse q Patrem et
-            Filium, et in Patre etFilio consensus est significatio. Spiritus sanctus, quiest
+            Filium, et in Patre et Filio consensus est significatio. Spiritus sanctus, quiest
             spiritus ueritatis, et spiritus sapientiae, non potestaudire Filium loquentem que
             nescit, cum hoc ipsum sit,quod profertur a Filio, id est Deus procedens de Deo,Spiritus
             ueritatis procedens a ueritate, consolator manans deconsolatore. Denique, ne quis illum
             a Patris et Filii societate et uoluntate discerneret, scriptum est: ,,Non enima
-            semetipso loquitur: sed sicut audit"y et loquitur/* Cui simile etiam de se ipso Saluator
-            ait: „ Sicutaudio, iudico,“ et alibi: „Non potest Filius a sefacere quicquam, nisi quod
-            uiderit Patrem facientem/* </p>
+            semetipso loquitur: sed sicut audit"y et loquitur/ Cui simile etiam de se ipso Saluator
+            ait: „ Sicut audio, iudico,“ et alibi: „Non potest Filius a sefacere quicquam, nisi quod
+            uiderit Patrem facientem </p>
         </div>
       </div>
     </body>

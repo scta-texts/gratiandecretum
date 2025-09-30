@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO V. </title>
+        <title> QUESTIO 5</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO V. </title>
+          <title> QUESTIO 5</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,66 +53,78 @@
     </front>
     <body>
       <div xml:id="gd-p2c33q5">
-        <head xml:id="gd-p2c33q5-Hd1e103"> QUESTIO V. </head>
-        <p xml:id="gd-p2c33q5-d1e106"> GRATIANUS. </p>
-        <p xml:id="gd-p2c33q5-d1e109"> I. Pars. Quod autem sine consensu uxoris uir continentiam
-          uouere non possit , multis auctoritatibus probatur. Ait enimAugustinus super Psalmum CXLVI
-          .: </p>
+        <head xml:id="gd-p2c33q5-Hd1e103"> QUESTIO 5</head>
+        <div xml:id="gd-p2c33q5-Dd1e100">
+          <head xml:id="gd-p2c33q5-Hd1e102">Dictum</head>
+        <p xml:id="gd-p2c33q5-d1e109">Quod autem sine consensu uxoris uir continentiam
+          uouere non possit , multis auctoritatibus probatur. Ait enim Augustinus super Psalmum CXLVI
+        </p>
+        </div>
         <div xml:id="gd-p2c33q5-Dd1e112">
-          <head xml:id="gd-p2c33q5-Hd1e114">C. I</head>
+          <head xml:id="gd-p2c33q5-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c33q5-Hd1e117" type="question-title"> Non potest uir continentiam
             seruare , nisi uxoris teneat assensum . </head>
-          <p xml:id="gd-p2c33q5-d1e120"> Si dicat uir: continere* iam uolo; nolo iam uxorem; non
-            potest. Quod enim tu uis illa non uult. Numquidper tuam continentiam debet illa fieri
-            fornicaria? si aliinupserit te uiuo, adultera erit. Non uult tali lucro Deustale dampnum
-            conpensari. Redde debitum, et, si nonexigis, redde. Pro sanctifictione^** perfecta Deus
+          <p xml:id="gd-p2c33q5-d1e120"> 
+            Si dicat uir: continere iam uolo; nolo iam uxorem; non
+            potest. Quod enim tu uis illa non uult. Numquid per tuam continentiam debet illa fieri
+            fornicaria? si alii nupserit te uiuo, adultera erit. Non uult tali lucro Deustale dampnum
+            conpensari. Redde debitum, et, si non exigis, redde. Pro sanctifictione perfecta Deus
             tibiconputabit, si non quod tibi debetur exigis, sed reddisquod uxori debetur. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e124">
-          <head xml:id="gd-p2c33q5-Hd1e126">C. II</head>
+          <head xml:id="gd-p2c33q5-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c33q5-Hd1e129" type="question-title"> Non debet extorqueri mulieris
             consensus ad continentiam Deo uouendam.</head>
-          <p xml:id="gd-p2c33q5-d1e132"> Item Alexander II. Landulpho in Corsica . </p>
-          <p xml:id="gd-p2c33q5-d1e135"> Notificasti, te morte tenus infirmatum, et peccatorum
+          <p xml:id="gd-p2c33q5-d1e135"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e130">Alexander II. Landulpho in Corsica.</ref> 
+            Notificasti, te morte tenus infirmatum, et peccatorum
             tuorum recordatione et terrore ualde pauefactum anxie quesisse monachum fieri, et a tua
             uxore minis et terroribus eam occidendi ad hoc licentiam extorsisse, et sic te
             monachicam uestem sine abbate sumpsisse, et monasteriumpetisse; postea uero, cum sanus
             factus esses, tuae uxorisreclamationibus, eiulatibus c t planctibus, tuaeque
-            familiaedispersionibus, utpote penitens deuictus*, domum remeasse, et post multos dies
+            familiaedispersionibus, utpote penitens deuictus, domum remeasse, et post multos dies
             quorumdam sapientum consilioad iam dictae mulieris cubile rediisse. Nunc autem, situa
             uxore uti liceat, nostrum requiris consilium. Si itadenique est, ut tuus nuncius narrat,
             non uidetur nobisrationabiliter iuste factum, quoniam, cum omni hominiad monachicam
             uitam tendenti legaliter, sancte et iustesit peragendum, tu contra leges minaciter et
             uiolenter a tuauxore partim terrore mortis, partim tuae infirmitatis doloribus
             exanimatus s, deuia secutus, nulla, ut dicitur, licentiaaccepta recessisti, et
-            monasterium petisti. Non enimuiolentia, sed ex pari uoluntate et consensu (sicut
-            sanctiPatres dicunt) hoc fieri debet, neque uir** monasteriumeligere, aut professa
+            monasterium petisti. Non enim uiolentia, sed ex pari uoluntate et consensu (sicut
+            sanctiPatres dicunt) hoc fieri debet, neque uir monasteriumeligere, aut professa
             continentia habitum cum festinationedebet mutare. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e140">
-          <head xml:id="gd-p2c33q5-Hd1e142">C. III</head>
+          <head xml:id="gd-p2c33q5-Hd1e142">Caput 3</head>
           <head xml:id="gd-p2c33q5-Hd1e145" type="question-title"> Vir potest abnuere uota
             continentiae , que sine eius consensu Deo uxor obtulerit . </head>
-          <p xml:id="gd-p2c33q5-d1e148"> Item ex Concilio apud Conpendium . </p>
-          <p xml:id="gd-p2c33q5-d1e151"> Mulier, si sine licentia mariti sui uelum in caputmiserit,
-            si uiro placuerit, recipiat eam iterum ad con-iugium. </p>
+          <p xml:id="gd-p2c33q5-d1e151"> 
+            Item ex <ref xml:id="gd-p2c33q5-Rd1e144">Concilio apud Conpendium.</ref> 
+            Mulier, si sine licentia mariti sui uelum in caput miserit,
+            si uiro placuerit, recipiat eam iterum ad coniugium. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e155">
-          <head xml:id="gd-p2c33q5-Hd1e157">C. IV</head>
+          <head xml:id="gd-p2c33q5-Hd1e157">Caput 4</head>
           <head xml:id="gd-p2c33q5-Hd1e160" type="question-title"> Non potest uir continentiae uota
             rescindere , que eius assensu mulier Deo promisit. </head>
-          <p xml:id="gd-p2c33q5-d1e163"> Item Augustinus ad Editiam , [ep. CXCIX.] </p>
-          <p xml:id="gd-p2c33q5-d1e166"> Quod Deo pari consensu uoueratis perseueranter usque in
-            finem reddere debuistis. A quo proposito siille lapsus est, tu saltim instantissime
-            perseuera. Quodnon te exhortarer, nisi quia tibi ad hoc ipse consensit.Nam si numquam
-            tenuisses eius assensum, numerus te nullus defendisset annorum. Et post pauca: §. i. Non
+          <p xml:id="gd-p2c33q5-d1e166"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e159">Augustinus ad Editiam , [ep. CXCIX.]</ref>
+            Quod Deo pari consensu uoueratis perseueranter usque in
+            finem reddere debuistis. A quo proposito si ille lapsus est, tu saltim instantissime
+            perseuera. Quod non te exhortarer, nisi quia tibi ad hoc ipse consensit. Nam si numquam
+            tenuisses eius assensum, numerus te nullus defendisset annorum. 
+          </p>
+          <p xml:id="gd-p2c33q5-d1e162">
+            Et post pauca: §. i. Non
             quiapariter temperabatis a conmixtione carnali, ideo tuusmaritus esse destiterat, immo
             uero tanto sanctius inter uosconiuges manebatis, quanto sanctiora concorditer
             placitaseruabatis. Nichil ergo de tua ueste, nichil de auro,uel argento, uel quacumque
-            pecunia, uel rebus ullisterrenis tuis sine arbitrio eius facere debuisti. Et infra: §.
+            pecunia, uel rebus ullisterrenis tuis sine arbitrio eius facere debuisti. 
+          </p>
+          <p xml:id="gd-p2c33q5-d1e164">
+            Et infra: §.
             2. Est quidam pro modulo personae habitus matronalis auiduali ueste distinctus, qui
             potest fidelibus coniugatis saluareligionis causa s uel obseruantia conuenire. Hunc
-            temaritus si deponere noluit, ne te* uelut uiduam illouiuente iactares, puta, quia non
+            temaritus si deponere noluit, ne te uelut uiduam illouiuente iactares, puta, quia non
             fuerat in hac re usquead dissensionis scandalum perducendus, magis inobedientiaemalo,
             quam ullius abstinentiae bono. Quid enim estabsurdius, quam mulierem de humili ueste
             superbire,cui te potius expediret obtemperare candidis moribus,quam in nigellis uestibus
@@ -125,11 +135,12 @@
 
         </div>
         <div xml:id="gd-p2c33q5-Dd1e170">
-          <head xml:id="gd-p2c33q5-Hd1e172">C. V</head>
-          <head xml:id="gd-p2c33q5-Hd1e175" type="question-title"> Continentiae^ meritum habet qui
-            incontinentia^-uxoris debitum sibi reddere cogitur. </head>
-          <p xml:id="gd-p2c33q5-d1e178"> /dem*. </p>
-          <p xml:id="gd-p2c33q5-d1e181"> Secundum uerba apostolica, etiam si uir continere
+          <head xml:id="gd-p2c33q5-Hd1e172">Caput 5</head>
+          <head xml:id="gd-p2c33q5-Hd1e175" type="question-title"> Continentiae meritum habet qui
+            incontinentia-uxoris debitum sibi reddere cogitur. </head>
+          <p xml:id="gd-p2c33q5-d1e181"> 
+            <ref xml:id="gd-p2c33q5-Rd1e177">Idem.</ref>
+            Secundum uerba apostolica, etiam si uir continere
             uoluisset, et tu noluisses, debitum tibi reddere cogeretur,et illi Deus inputaret
             continentiam, si non suae, sedtuae cederet infirmitati, ne in adulterium caderes. §.
             i.Quisquis igitur conpatiens infirmitati uxoris reddit, nonexigit debitum, aut si
@@ -139,71 +150,91 @@
             fecit ex eo, misericordiam cum non habentibus,securus expectat diem nouissimum. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e185">
-          <head xml:id="gd-p2c33q5-Hd1e187">C. VI</head>
+          <head xml:id="gd-p2c33q5-Hd1e187">Caput 6</head>
           <head xml:id="gd-p2c33q5-Hd1e190" type="question-title"> Vota continentiae sine uxoris
             consensu reddi non possunt.</head>
-          <p xml:id="gd-p2c33q5-d1e193"> Idem ad Armentarium , et Paulinam , [epist. XLV.]Una sola
-            causa esse potest, qua te ad id, quoduouisti, non solum non hortaremur, uerum etiam
-            prohiberemus inplere, si forte tua coniunx hoc tecum suscipereanimi seu carnis
-            infirmitate recusaret. Nam et uouendatalia non sunt a coniugatis, nisi ex consensu et
-            uoluntateconmuni, et, si prepropere factum fuerit, magis est corrigenda temeritas, quam
-            persoluenda promissio. Nequeenim Deus exigit, si quis ex alieno aliquid uouerit,
-            sedpotius usurpare uetat alienum. </p>
+          <p xml:id="gd-p2c33q5-d1e193"> 
+            <ref xml:id="gd-p2c33q5-Rd1e191">Idem ad Armentarium , et Paulinam , [epist. XLV.]</ref> Una sola
+            causa esse potest, qua te ad id, quod uouisti, non solum non hortaremur, uerum etiam
+            prohiberemus inplere, si forte tua coniunx hoc tecum suscipere animi seu carnis
+            infirmitate recusaret. Nam et uouenda talia non sunt a coniugatis, nisi ex consensu et
+            uoluntate communi, et, si prepropere factum fuerit, magis est corrigenda temeritas, quam
+            persoluenda promissio. Neque enim Deus exigit, si quis ex alieno aliquid uouerit,
+            sed potius usurpare uetat alienum. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e197">
-          <head xml:id="gd-p2c33q5-Hd1e199">C. VII</head>
+          <head xml:id="gd-p2c33q5-Hd1e199">Caput 7</head>
           <head xml:id="gd-p2c33q5-Hd1e202" type="question-title"> Absque ceteris operibus nec sola
-            uirginitas saluat , nec cetera absque uirginitate proficiunt^. </head>
-          <p xml:id="gd-p2c33q5-d1e205"> Item Ieronimus [lib. I. aduersus Iouinianum.] </p>
-          <p xml:id="gd-p2c33q5-d1e208"> II. Pars. Tunc saluabitur mulier, si illos genuerit
-            filios,qui uirgines permansuri sunt; si quod ipsa perdidit acquiratin liberis, et
-            dampnum radicis et cariem flore conpensetet pomis. [C. VIII.] Idem . </p>
-          <p xml:id="gd-p2c33q5-d1e211"> Hoc solum nunc dico, quod quomodo absque ceteris operibus
-            uirginitas sola non saluat, sic omnia opera absqueuirginitate, puritate, continentia,
+            uirginitas saluat , nec cetera absque uirginitate proficiunt. </head>
+          <p xml:id="gd-p2c33q5-d1e208"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e205">Ieronimus [lib. I. aduersus Iouinianum.]</ref> 
+            Tunc saluabitur mulier, si illos genuerit
+            filios,qui uirgines permansuri sunt; si quod ipsa perdidit acquirat in liberis, et
+            dampnum radicis et cariem flore conpenset et pomis.
+          </p>
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e209">
+          <head xml:id="gd-p2c33q5-Hd1e211">Caput 8</head>
+          <p xml:id="gd-p2c33q5-d1e211"> 
+            <ref xml:id="gd-p2c33q5-Rd1e215">Idem.</ref> 
+            Hoc solum nunc dico, quod quomodo absque ceteris operibus
+            uirginitas sola non saluat, sic omnia opera absque uirginitate, puritate, continentia,
             castitate inperfecta sunt. </p>
-          <p xml:id="gd-p2c33q5-d1e215"> [C. IX.] IdemM*. </p>
-          <p xml:id="gd-p2c33q5-d1e218"> „Qui sitit ueniat et bibat; qui potest capere capiat.“ Non
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e219">
+          <head xml:id="gd-p2c33q5-Hd1e221">Caput 9</head>
+          <p xml:id="gd-p2c33q5-d1e218">
+            <ref xml:id="gd-p2c33q5-Rd1e225">Idem</ref>
+            Qui sitit ueniat et bibat; qui potest capere capiat.“ Non
             dicit: uelitis nolitis, bibendum est uobis atque currendum; sed: qui uoluerit, qui
             potuerit currere atque potare,ille uincit, ille satiabitur. Et ideo plus amat
             uirginesChristus, quia sponte tribuunt quod sibi non fuerat inpera-tum, maiorisque
             gratiae est offerre quod non debeas, quamreddere quod exigeris. Apostoli uxoris onere
             contemplato: ,,Si talis est,“ inquiunt, „causa hominis cumuxore, non expedit nubere.“
             Quorum Dominus sentenciamrobans: recte ait, quidem sentitis, quod non expediatomini ad
-            regna celorum tendenti accipere uxorem; seddifficilis res est, et non omnes capiunt
+            regna celorum tendenti accipere uxorem; sed difficilis res est, et non omnes capiunt
             uerbum istud, uerumquibus datum est. Alios hominum natura facit eunuchos,alios uis
             hominum; michi illi eunuchi placent, quos castrauitnon necessitas, sed uoluntas;
             libenter illos in meo s sinurecipio, qui se castrauerunt propter regnum celorum,et ob
             meum cultum noluerunt esse quod nati sunt. Simul-que" tractanda est sentencia: ,,Qui
             se,“ inquit, „ castrauerunt propter regnum celorum.“ Si castrati mercedemhabent regnum
             celorum, ergo qui se non castraueruntlocum non possunt accipere castratorum. </p>
-          <p xml:id="gd-p2c33q5-d1e221"> Gratian. Finis huius auctoritatis et duae precedentes de
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e230">
+          <head xml:id="gd-p2c33q5-Hd1e232">Dictum</head>
+          <p xml:id="gd-p2c33q5-d1e221">Finis huius auctoritatis et duae precedentes de
             uirginitatis affectu intelliguntur, qui non in uoluntate solum, sedin necessitate est;
             principium uero de effectu intelligitur, qui nonin necessitate ante uotum, sed in
             uoluntate est, nec exigitur,nisi repromittatur. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e225">
-          <head xml:id="gd-p2c33q5-Hd1e227">C. X</head>
+          <head xml:id="gd-p2c33q5-Hd1e227">Caput 10</head>
           <head xml:id="gd-p2c33q5-Hd1e230" type="question-title"> Non licet illi uxorem ducere, qui
             suam uelare permiserit.</head>
-          <p xml:id="gd-p2c33q5-d1e233"> Item ex Concilio Remensi. </p>
-          <p xml:id="gd-p2c33q5-d1e236"> III. Pars. Qui uxorem suam uelare permiserit,aliam non
+          <p xml:id="gd-p2c33q5-d1e236">
+            Item ex <ref xml:id="gd-p2c33q5-Rd1e248">Concilio Remensi.</ref>
+            Qui uxorem suam uelare permiserit,aliam non
             accipiat, sed similiter conuertatur. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e241">
-          <head xml:id="gd-p2c33q5-Hd1e243">C. XI</head>
+          <head xml:id="gd-p2c33q5-Hd1e243">Caput 11</head>
           <head xml:id="gd-p2c33q5-Hd1e246" type="question-title"> Vota abstinentiae, que mulier
             permittente uiro promiserit, illo prohibente seruare non cogitur. </head>
-          <p xml:id="gd-p2c33q5-d1e249"> Item Augustinus in Questionibus Numeri, [qu. LIX .] </p>
-          <p xml:id="gd-p2c33q5-d1e252"> IV. Pars. Manifestum est, itauoluisse legem feminamsub uiro
+          <p xml:id="gd-p2c33q5-d1e252"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e262">Augustinus in Questionibus Numeri, [qu. LIX .]</ref> 
+            Manifestum est, itauoluisse legem feminamsub uiro
             esse, ut nulla eius uota, que abstinentiae causauouerit, reddantur ab ea, nisi auctor
             uir fuerit permittendo.Nam cum ad peccatum eiusdem uiri pertinere uoluerit, siprius
-            permiserit, et postea prohibuerit, etiam hoc </p>
-
-          <p xml:id="gd-p2c33q5-d1e255"> tamen non dixit, ut faciat mulier quod uouerat, quia
+            permiserit, et postea prohibuerit, etiam hoc 
+            tamen non dixit, ut faciat mulier quod uouerat, quia
             permissa iam prius a uiro fuerat. Viri dixit esse peccatum, quia abnuit quod prius
             concesserat; non tamen mulieriex hoc iussum dedit, ut cum prius uir ei concesserit',
             postea si prohibuerit, contempnatur. </p>
-          <p xml:id="gd-p2c33q5-d1e259"> Gratian. Ex premissis s apparet, quod continentiae uota nec
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e266">
+          <head xml:id="gd-p2c33q5-Hd1e268">Dictum</head>
+          <p xml:id="gd-p2c33q5-d1e259">
+            Ex premissis s apparet, quod continentiae uota nec
             mulier sine uiri consensu, nec uir sine mulieris consensu Deoreddere potest. Si autem
             consensu alterius eorum ab altero promissa fuerit, et si postmodum in irritum deducere
             uoluerit quipermisit, non tamen ualet, quia in debito coniugii eque mulierhabet
@@ -212,92 +243,111 @@
             uir estcaput mulieris, et mulier corpus uiri, ita uota abstinentiae uiropermittente
             mulier potest promittere, ut tamen eodem prohibenterepromissa non ualeat inplere , et
             hoc, ut diximus, proptercondicionem seruitutis, qua uiro in omnibus debet subesse. </p>
-          <p xml:id="gd-p2c33q5-d1e262"> Unde Augustinus ait in libro questionum Genesis, </p>
-          <p xml:id="gd-p2c33q5-d1e265"> [qu. CLIII.]; </p>
+          <p xml:id="gd-p2c33q5-d1e262"> Unde Augustinus ait in libro questionum Genesis, [qu. CLIII.];</p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e269">
-          <head xml:id="gd-p2c33q5-Hd1e271">C. XII</head>
+          <head xml:id="gd-p2c33q5-Hd1e271">Caput 12</head>
           <head xml:id="gd-p2c33q5-Hd1e274" type="question-title"> Mulieres uiris suis debent
             subesse.</head>
           <p xml:id="gd-p2c33q5-d1e277"> Est ordo naturalis in hominibus, ut feminae seruiant uiris,
-            et filii parentibus, quia °* in illis hec iusticia est,ut maiori seruiat minor. </p>
+            et filii parentibus, quia  in illis hec iusticia est,ut maiori seruiat minor. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e281">
-          <head xml:id="gd-p2c33q5-Hd1e283">C. XIII</head>
+          <head xml:id="gd-p2c33q5-Hd1e283">Caput 13</head>
           <head xml:id="gd-p2c33q5-Hd1e286" type="question-title"> Vir est caput mulieris. </head>
-          <p xml:id="gd-p2c33q5-d1e289"> Idem iri Questionibus Veteris et Noui Testamenti [ex
-            utroque mixtim, c. io6.] </p>
-          <p xml:id="gd-p2c33q5-d1e292"> Hec imago Dei est in homine, ut unus factus sit*, ex quo
+          <p xml:id="gd-p2c33q5-d1e292"> 
+            Idem in <ref xml:id="gd-p2c33q5-Rd1e299">Questionibus Veteris et Noui Testamenti [ex utroque mixtim, c. io6.]</ref> 
+            Hec imago Dei est in homine, ut unus factus sit, ex quo
             ceteri oriantur, habens inperium Dei, quasiuicarius eius, quia unius Dei habet imaginem,
-            ideoquemulier non est facta ad Dei imaginem**. Sic etenimdicit: „ Et fecit Deus hominem;
+            ideoquemulier non est facta ad Dei imaginem. Sic etenimdicit: „ Et fecit Deus hominem;
             ad imaginem Dei fecitillum.“ Hinc etiam Apostolus: ,,Vir quidem,“ ait,„non debet uelare
             caput, quia imago et gloria Deiest; mulier ideo uelats, quia non est gloria autimago
             Dei.“ </p>
-          <p xml:id="gd-p2c33q5-d1e295"> [C. XIV.] Item in eodem . </p>
-          <p xml:id="gd-p2c33q5-d1e299"> Satis hinc apparet, quemadmodum uiris feminas subditas, et
-            pene famulas lex esse uoluerit uxores, dumconstituit ut diceret aduersus uxorem uir
-            testimonium, undelapidaretur illa, si hoc uerum esse demonstraretur, ipsetamen non
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e304">
+          <head xml:id="gd-p2c33q5-Hd1e306">Caput 14</head>
+          <p xml:id="gd-p2c33q5-d1e299">
+            Item in <ref xml:id="gd-p2c33q5-Rd1e310">eodem.</ref> 
+            Satis hinc apparet, quemadmodum uiris feminas subditas, et
+            pene famulas lex esse uoluerit uxores, dum constituit ut diceret aduersus uxorem uir
+            testimonium, unde lapidaretur illa, si hoc uerum esse demonstraretur, ipse tamen non
             uicissim lapidatur, si hoc falsum esse constiterit; sed tantummodo castigatur, et
-            dampnificatur, eiqueperpetuo iubetur adherere, qua carere uoluerat. In aliisautem causis
-            eum, qui testimonio falso cuiquam nocuerit,quod si probaretur, iussit occidi, eadem*
-            plecti iubet pena, qua fuerat, si uerum esset, ipse s** plectendus. </p>
+            dampnificatur, eique perpetuo iubetur adherere, qua carere uoluerat. In aliis autem causis
+            eum, qui testimonio falso cuiquam nocuerit,quod si probaretur, iussit occidi, eadem
+            plecti iubet pena, qua fuerat, si uerum esset, ipse s plectendus. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e303">
-          <head xml:id="gd-p2c33q5-Hd1e305">C. XV</head>
+          <head xml:id="gd-p2c33q5-Hd1e305">Caput 15</head>
           <head xml:id="gd-p2c33q5-Hd1e308" type="question-title"> De eodem i» a. </head>
-          <p xml:id="gd-p2c33q5-d1e311"> 'Item Ieronimus super epistolam ad Titum, [in c. 2.]Cum
+          <p xml:id="gd-p2c33q5-d1e311">
+            Item <ref xml:id="gd-p2c33q5-Rd1e324">Ieronimus super epistolam ad Titum, [in c. 2.]</ref> Cum
             caput mulieris uir sit, caput autem uiri Christus,quecumque uxor non subicitur uiro, hoc
             est capiti suo,eiusdem criminis rea est, cuius et uir, si non subiciaturcapiti suo.
             Verbum autem Domini blasphematur, uelcum contempnitur Dei prima sentencia, et pro
             nichiloducitur, uel cum Christi infamatur euangelium, dum contralegem fidemque naturae
-            ea, que Christiana est, et ex legeDei subiecta, uiro inperare desiderat, cum gentiles
+            ea, que Christiana est, et ex lege Dei subiecta, uiro inperare desiderat, cum gentiles
             etiamfeminae uiris suis seruiant communi lege naturae. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e315">
-          <head xml:id="gd-p2c33q5-Hd1e317">C. XVI</head>
+          <head xml:id="gd-p2c33q5-Hd1e317">Caput 16</head>
           <head xml:id="gd-p2c33q5-Hd1e320" type="question-title"> Arbitrium uiri mulierem sequi
             oportet in omnibus.</head>
-          <p xml:id="gd-p2c33q5-d1e323"> Item Augustinus in Questionibus Numeri , [qu. LIX.]Noluit
-            itaque lex aliquid uouere Deo aduersusanimam suam, ut non in aliquarum* rerum
+          <p xml:id="gd-p2c33q5-d1e323"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e338">Augustinus in Questionibus Numeri , [qu. LIX.]</ref> Noluit
+            itaque lex aliquid uouere Deo aduersusanimam suam, ut non in aliquarum rerum
             licitarumatque concessarum abstinentia in eisdem uotis feminaeualeat auctoritas, sed
             uirilis. Ita, ut si adhuc innuptae concesserat pater uota persoluere, si ante,
             quampersoluerit, nupserit, et uiro eius hoc cognitum non placuerit, non persoluat, et
-            hoc omnino sine peccato quiaDeus&amp; mundauit eam, sicut dicit, id est mundam
+            hoc omnino sine peccato quia Deus&amp; mundauit eam, sicut dicit, id est mundam
             iudi-cauit. Neque hoc contra Dominum fieri putandum est,cum ipse Deus hoc preceperit,
             hoc uoluerit. </p>
         </div>
         <div xml:id="gd-p2c33q5-Dd1e327">
-          <head xml:id="gd-p2c33q5-Hd1e329">C. XVII</head>
+          <head xml:id="gd-p2c33q5-Hd1e329">Caput 17</head>
           <head xml:id="gd-p2c33q5-Hd1e332" type="question-title"> Nulla est mulieris potestas, sed
-            in omnibus™ uiri dominio subsit ™*. </head>
-          <p xml:id="gd-p2c33q5-d1e335"> Item Ambrosius in libro questionum Veteris Testamenti, [qu.
-            XLV.] </p>
-          <p xml:id="gd-p2c33q5-d1e338"> Mulierem constat subiectam dominio uiri esse, et nullam
+            in omnibus uiri dominio subsit . </head>
+          <p xml:id="gd-p2c33q5-d1e338"> 
+            Item <ref xml:id="gd-p2c33q5-Rd1e352">Ambrosius in libro questionum Veteris Testamenti, [qu. XLV.]</ref> 
+            Mulierem constat subiectam dominio uiri esse, et nullam
             auctoritatem habere; nec docere potest, nectestis esse, neque fidem dare, nec iudicare. </p>
-          <p xml:id="gd-p2c33q5-d1e341"> [C. XVIII.] Idem in Exameron in tractatu diei quartae :
-            Adam per Euam deceptus est, non Eua per Adam.Quem uocauit ad culpam mulier, iustum est,
-            ut eamin gubernationem* assumat, ne iterum feminafacilitate labatur. </p>
-          <p xml:id="gd-p2c33q5-d1e345"> [C. XIX.] Idem super primam epistolam ad Chorinthios, </p>
-          <p xml:id="gd-p2c33q5-d1e348"> [in c. 2.] </p>
-          <p xml:id="gd-p2c33q5-d1e351"> Mulier debet uelare caput, quia non est imago Dei. Sed ut
-            ostendatur subiecta, et quia preuaricatio per illaminchoata est, hoc signum debet
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e356">
+          <head xml:id="gd-p2c33q5-Hd1e358">Caput 18</head>
+          <p xml:id="gd-p2c33q5-d1e341">
+            <ref xml:id="gd-p2c33q5-Rd1e362">Idem in Exameron in tractatu diei quartae :</ref>
+            Adam per Euam deceptus est, non Eua per Adam. Quem uocauit ad culpam mulier, iustum est,
+            ut eamin gubernationem assumat, ne iterum femina facilitate labatur. </p>
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e366">
+          <head xml:id="gd-p2c33q5-Hd1e368">Caput 19</head>
+          <p xml:id="gd-p2c33q5-d1e351"> 
+            <ref xml:id="gd-p2c33q5-Rd1e372">Idem super primam epistolam ad Chorinthios, [in c. 2.]</ref>
+            Mulier debet uelare caput, quia non est imago Dei. Sed ut
+            ostendatur subiecta, et quia preuaricatio per illam inchoata est, hoc signum debet
             habere, in ecclesiapropter reuerentiam episcopalem non habeat caput liberum,sed uelamine
             tectum, non habeat potestatem loquendi,quia episcopus personam habet Christi. Quasi ergo
-            anteiudicem Christum, ita ante episcopum sit s, quiauicarius Domini est, propter
-            peccatum originale* debetsubiecta uideri. </p>
-
-          <p xml:id="gd-p2c33q5-d1e354"> [C. XX.] Idem in libro de Paradyso, [c. io.] </p>
-          <p xml:id="gd-p2c33q5-d1e357"> V. Pars. Nec illud otiosum est, quod non deeadem terra, de
-            qua plasmatus est Adam, sed de ipsiusAdae costa facta sit mulier, ut sciremus, unam in
-            uiro etmuliere corporis esse naturam, unum fontem generishumani. Ideo non duo a
+            anteiudicem Christum, ita ante episcopum sit s, quia uicarius Domini est, propter
+            peccatum originale debet subiecta uideri. </p>
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e377">
+          <head xml:id="gd-p2c33q5-Hd1e379">Caput 20</head>
+          <p xml:id="gd-p2c33q5-d1e357">
+            <ref xml:id="gd-p2c33q5-Rd1e383">Idem in libro de Paradyso, [c. io.]</ref> 
+            Nec illud otiosum est, quod non de eadem terra, de
+            qua plasmatus est Adam, sed de ipsius Adae costa facta sit mulier, ut sciremus, unam in
+            uiro etmuliere corporis esse naturam, unum fontem generis humani. Ideo non duo a
             principio facti uir et mulier,neque duo uiri, neque duae mulieres; sed primum uir,deinde
-            mulier ex eo. Unam enim naturam hominum uolensconstituere Deus, ab uno principio
+            mulier ex eo. Unam enim naturam hominum uolens constituere Deus, ab uno principio
             creaturae hoc incipiens, multarum et disparium naturarum eripuit facultatem. </p>
-          <p xml:id="gd-p2c33q5-d1e360"> Gratian. Euidentissime itaque apparet, ita uirum esse caput
-            mulieris, ut nulla uota abstinentiae uel religiosae conuersationisliceat sibi sine eius
-            licentia Deo offerre; etiamsi uiro permittenterepromissa fuerint , non licet ei uotum
-            opere conplere, cumuir uoluerit reuocare permissum. Vota uero continentiae itaalterius
-            permissu ab altero ualent offerri, quod post permissionemnon ualent in irritum deduci.
+        </div>
+        <div xml:id="gd-p2c33q5-Dd1e387">
+          <head xml:id="gd-p2c33q5-Hd1e389">Dictum</head>
+          <p xml:id="gd-p2c33q5-d1e360">
+            Euidentissime itaque apparet, ita uirum esse caput
+            mulieris, ut nulla uota abstinentiae uel religiosae conuersationis liceat sibi sine eius
+            licentia Deo offerre; etiamsi uiro permittentere promissa fuerint , non licet ei uotum
+            opere conplere, cum uir uoluerit reuocare permissum. Vota uero continentiae itaalterius
+            permissu ab altero ualent offerri, quod post permissionem non ualent in irritum deduci.
           </p>
         </div>
       </div>

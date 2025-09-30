@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> QUESTIO I. </title>
+        <title> QUESTIO 1</title>
         <author ref="#Gratian">Gratian</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -12,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title> QUESTIO I. </title>
+          <title> QUESTIO 1</title>
           <date when="2017-08-15">August 16, 2017</date>
         </edition>
       </editionStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -55,98 +53,125 @@
     </front>
     <body>
       <div xml:id="gd-p2c35c1">
-        <head xml:id="gd-p2c35c1-Hd1e103"> QUESTIO I. </head>
-
+        <head xml:id="gd-p2c35c1-Hd1e103"> QUESTIO 1</head>
+        <div xml:id="gd-p2c35c1-Dd1e100">
+          <head xml:id="gd-p2c35c1-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c35c1-d1e106"> Quod consanguineas nostras siue uxoris nostrae in con-iugium
           nobis ducere liceat, exemplis et auctoritatibus probatur. Abraham namque Sarai filiam
           fratris sui, sororem uidelicetLoth, in uxorem duxit. Ysaac Rebeccam in coniugem accepit,
           que erat filia consobrini matris suae . Iacob duassorores, Liam uidelicet et Rachel filias
-          Laban auunculi sui, sibimatrimonio sociauit. §. i. In lege quoque precepit DominusMoysi,
+          Laban auunculi sui, sibimatrimonio sociauit. 
+        </p>
+        <p xml:id="gd-p2c35c1-d1e107">
+          §. i. In lege quoque precepit DominusMoysi,
           ut nullus duceret uxorem, nisi de propria tribu et familia.Item si aliquis absque liberis
           moreretur, precepit Dominus, utfrater eius uxorem defuncti sibi copularet, et ex ea semen
           fratrisuo suscitaret. Porro, ad quoscumque lex ipsa peruenit, eiuspreceptis probantur
           obnoxii, nisi que uel euangelicis mandatisuel apostolicis institutis euacuata monstrantur.
           Nullo autemeuangelii precepto uel apostolico instituto consanguineorum con-iunctiones
-          prohibitae inueniuntur. Unde sicut ab inicio, ita etnunc licitae probantur. §.2. His ita
+          prohibitae inueniuntur. Unde sicut ab inicio, ita etnunc licitae probantur. 
+        </p>
+        <p xml:id="gd-p2c35c1-d1e109">
+          §. 2. His ita
           respondetur: Consanguineorum coniunctiones alias causa necessitatis permissae, alias
           causaiustae rationis inueniuntur inperatae. Cum enim unus ob iniciouir, atque una ex
           latere eius mulier formaretur a Deo, necessariosorores fratribus copulabantur. Quod autem
-          necessitate cogentefit cessante necessitate pariter cessare oportet. Tanto ergo nunc </p>
-
-        <p xml:id="gd-p2c35c1-d1e109"> dampnabilius usurpatur consanguineorum coniunctio, quanto
+          necessitate cogentefit cessante necessitate pariter cessare oportet. Tanto ergo nunc 
+          dampnabilius usurpatur consanguineorum coniunctio, quanto
           minus necessaria probatur. Unde huiuscemodi copula postealege prohibita inuenitur, Domino
           dicente per Moysen : „ Turpitudinem sororis tuae non reuelabisPHinc Augustinus ait in
           libro de ciuitate Dei [XV. c. i6.]: </p>
+        </div>
         <div xml:id="gd-p2c35c1-Dd1e112">
-          <head xml:id="gd-p2c35c1-Hd1e114">C. UN</head>
+          <head xml:id="gd-p2c35c1-Hd1e114">Caput 1</head>
           <head xml:id="gd-p2c35c1-Hd1e117" type="question-title"> Quare constitutum fit, ne
-            consanguineas ducamus uxores. </head>
-          <p xml:id="gd-p2c35c1-d1e120"> Cum igitur genus humanum post primam copulam uiri facti ex
+            consanguineas ducamus uxores.</head>
+          <p xml:id="gd-p2c35c1-d1e120"> 
+            Cum igitur genus humanum post primam copulam uiri facti ex
             puluere, et coniugis eius ex uiri latere, mariumfeminarumque conmixtione opus haberet,
-            ut gignendomultiplicarentur, nec essent ulli homines nisi qui ex illisduobus nati
+            ut gignendo multiplicarentur, nec essent ulli homines nisi qui ex illisduobus nati
             fuissent, uiri coniuges sorores suas acceperunt. Quod profecto quanto est antiquius
             conpellente necessitate, tanto postea dampnabilius factum est religioneprohibente.
             Habita enim est ratio certissima karitatis,ut homines, quibus esset utilis atque
             honestissima concordia, diuersarum necessitudinum uinculis necterentur, necunus in uno
             multas haberet, sed singulae spargerenturin singulos, ac sic ad socialem uitam
             diligentius plurimae plurimos obtinerent. Pater quippe et socer duarumsunt
-            necessitudinum nomina. Dum ergo quis alium habet*patrem, alium socerum, numerosius se
+            necessitudinum nomina. Dum ergo quis alium habetpatrem, alium socerum, numerosius se
             karitas porrigit.Utrumque autem unus Adam esse cogebatur et filiiset filiabussuis,
             quando fratres sororesque coniugio iungebantur. Sicet Eua uxor eius utrique sexui
             filiorum fuit et socrus etmater; que si duae fuissent feminae, altera s mater
-            alterasocrus, copiosius se socialis dilectio colligaret. §. i. Sedhoc unde fieret, tunc
+            alterasocrus, copiosius se socialis dilectio colligaret. 
+          </p>
+          <p xml:id="gd-p2c35c1-d1e12x">
+            §. i. Sed hoc unde fieret, tunc
             non erat, quando nisi fratres etsorores ex illis duobus primis nulli homines erant.
             Fieriergo debuit, quod potuit, ut existente copia undeducerentur uxores, que iam non
-            erant sorores, non solumillud non fieret ubi nulla necessitas esset.§. 2. p Quod humano
-            genere crescente *! etiam interinpios deorum multorum falsorumque cultores sic
+            erant sorores, non solumillud non fieret ubi nulla necessitas esset. 
+          </p>
+          <p xml:id="gd-p2c35c1-d1e125">
+            §. 2. p Quod humano
+            genere crescente ! etiam interinpios deorum multorum falsorumque cultores sic
             obseruaricernimus, ut etiamsi peruersis legibus permittantur fraterna coniugia, melior
             tamen consuetudo ipsam malitexhorrere licentiam, sicque aduersetur, quasi numquam licere
-            potuerit. §. 3. Copulatio igitur maris etfeminae, quantum attinet ad genus humanum,
-            quoddamseminarium** est karitatis; celestis uero ciuitas opushabet, ut noxam
+            potuerit. 
+          </p>
+          <p xml:id="gd-p2c35c1-d1e128">
+            §. 3. Copulatio igitur maris etfeminae, quantum attinet ad genus humanum,
+            quoddam seminarium est karitatis; celestis uero ciuitas opushabet, ut noxam
             generationis euadat. </p>
-          <p xml:id="gd-p2c35c1-d1e123"> Gratian. Hac itaque consuetudine, que ab ipso exordio
+        </div>
+        <div xml:id="gd-p2c35c1-Dd1e131">
+          <head xml:id="gd-p2c35c1-Hd1e133">Dictum</head>
+          <p xml:id="gd-p2c35c1-d1e123">
+            Hac itaque consuetudine, que ab ipso exordio
             humanae propagationis originem habuit , quam nulla lex contraiubendo euacuauerat,
-            excusantur Abraham, Ysaac, et Iacob, etceteri, qui de propria cognatione ducebant
+            excusantur Abraham, Ysaac, et Iacob, et ceteri, qui de propria cognatione ducebant
             uxores. QuamuiSetiam alia causa rectissimae rationis, qua id factum sit,
             possitintelligi. Ceteris idolatria ^ f edatis, sola familia Heber incultu unius Dei
-            remansit. Unde Abraham a Chaldeis cum fatresuo in ignem, quem adorare noluit, proiectus
+            remansit. Unde Abraham a Chaldeis cum fatre suo in ignem, quem adorare noluit, proiectus
             est, ut numensuae diuinitatis exurendo sentiret, quem uenerando colere contempsit. Ne
             ergo ex coniunctione infidelium fideles ad idola - triamY prolaberentur, et ita Deum
             offenderent, sicut quondamante diluuium filii Dei, conmixti filiabus hominum, ipsum ad
-            iracundiam prouocauerant, rectissime cautum est, patriarchae </p>
-          <p xml:id="gd-p2c35c1-d1e126"> uiri sanctissimi nonnisi de propria cognatione, id est de
-            familia fidelium, szfo’ uxores acciperent. Hinc etiam, cwm filii Israelintraturi terram
-            promissionis a Domino audirent, ne filias Chana-neorum sibi m uxores acciperent, nec
+            iracundiam prouocauerant, rectissime cautum est, patriarchae 
+            uiri sanctissimi nonnisi de propria cognatione, id est de
+            familia fidelium, szfo’ uxores acciperent. Hinc etiam, cwm filii Israel intraturi terram
+            promissionis a Domino audirent, ne filias Chananeorum sibi m uxores acciperent, nec
             suas eis nuptui traderent,statim subiunxit Dominus : „iVe faciant uos recedere a
             Deouestro, et fornicari cum diis alienis. Hinc etiam Hesdras Idumeas atque aliarum
             mulieres nationum, per quas filii Israelibant ad deos alienos, ab eis separari iussit.
+          </p>
+          <p xml:id="gd-p2c35c1-d1e138">
             §. i. Est etiam aliacausa, quare coniunctiones consanguineorum in populo Dei permissae
             primum, uel potius inperatae fuerint . Deus sic abinicio salutem humani generis
             dispensauit, ut primitiuam ecclesiamin populo illo institueret, qui sibi carnis
             consanguinitate erat propinquus . Unde de plebe Iudaica primum Apostolos elegit,
-            quosquasi fundamentum ecclesiae instituit, quorum predicatione deeadem plebe multi ad
+            quosquasi fundamentum ecclesiae instituit, quorum predicatione de eadem plebe multi ad
             Deum conuersi, in se ipsis originem ecclesiae prestiterunt. Deinde in cecitate suae
-            perfidiae Iudaica pleberelicta ad gentes, que tam fide quam cognatione carnis a
+            perfidiae Iudaica plebe relicta ad gentes, que tam fide quam cognatione carnis a
             Christoerant alienae, predicatio euangelica translata est, et quasi consanguineae
-            copulam Christus aspernatus, de aliena cognationesibi uxorem elegit, adinplens illud,
-            quod per Prophetam pre-dixerat: ,,In peccatis uestris dimisi matrem uestram
+            copulam Christus aspernatus, de aliena cognatione sibi uxorem elegit, adinplens illud,
+            quod per Prophetam predixerat: "In peccatis uestris dimisi matrem uestram
             quasiadulteram et repudiatam .“ Et item per alium Prophetam: ,, Vocabo non plebem meam
             plebem meam. In huius ergo reisacramentum consanguineorum coniunctiones primum in po-
             pulo^cc permissae sunt, nunc autem prohibitae. Et quia non inuna tantum familia, sed in
             omni multitudine gentium fideliumpopulus inuenitur, non de propria cognatione, sed de
-            qualibetalia cuique uxorem ducere conceditur. §. 2. Illud autem, quodprecepta legis
+            qualibetalia cuique uxorem ducere conceditur. 
+          </p>
+          <p xml:id="gd-p2c35c1-d1e140">
+            §. 2. Illud autem, quod precepta legis
             seruanda dicuntur, que nec euangelicis, nec apostolicis institutis euacuata probantur,
-            uerum quidem est; sed cumomnia figuralia Apostolus probet ad tempus esse data, atqueideo
+            uerum quidem est; sed cum omnia figuralia Apostolus probet ad tempus esse data, atqueideo
             ueniente ueritate affirmet illa non ultra esse seruanda, hocautem, ut supra monstratum
             est, causa sacramenti a Deo institutum esse probetur: et hoc cum ceteris figuralibus
-            euacuatum certissime constat; quamquam, sicut Apostolus quedam consulendoaddidit, que
-            euangelicis preceptis non inueniebantur diffinita, necideo tamen tamquam temeraria uel
-            superflua ab aliis Apostolissunt repudiata; sic et ecclesia post apostolica instituta
+            euacuatum certissime constat; quamquam, sicut Apostolus quedam consulendo addidit, que
+            euangelicis preceptis non inueniebantur diffinita, nec ideo tamen tamquam temeraria uel
+            superflua ab aliis Apostolis sunt repudiata; sic et ecclesia post apostolica instituta
             quedamconsilio perfectionis addidit, utpote de continentia ministrorum, de confectione
-            misteriorum, de celebratione offiiorum, quenullatenus sunt repudianda ™, sed diligenti
+            misteriorum, de celebratione offiiorum, quenulla tenus sunt repudianda, sed diligenti
             ueneratione suscipienda. Consanguineorum ergo coniunctiones, quamuis euangelicis et
-            apostolicis preceptis non inueniantur prohibitae, sunttamen fugiendae, quia
-            ecclesiasticis institutionibus inueniunturterminatae. </p>
+            apostolicis preceptis non inueniantur prohibitae, sunt tamen fugiendae, quia
+            ecclesiasticis institutionibus inueniuntur terminatae.
+          </p>
         </div>
       </div>
     </body>
