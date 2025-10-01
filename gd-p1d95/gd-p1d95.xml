@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -137,7 +137,7 @@
         </div>
         <div xml:id="gd-p1d95-Dd1e183">
           <head xml:id="gd-p1d95-Hd1e185">Caput 5</head>
-          <head xml:id="gd-p1d95-Hd1e188" type="question-title">Presbiter idem est qui et* episcopus, ac solaconsuetudine
+          <head xml:id="gd-p1d95-Hd1e188" type="question-title">Presbiter idem est qui et episcopus, ac solaconsuetudine
             presbiteris episcopi presunt.</head>
           <p xml:id="gd-p1d95-d1e194">
             Item <ref xml:id="gd-p1d95-Rd1e205">Ieronimus supra epistolam ad Titum.</ref>
@@ -178,7 +178,7 @@
             non debet, qui Christumconsecrare non metuit? 
           </p>
           <p xml:id="gd-p1d95-d1e229">
-            §. 3. Circa laicos** ac mulieresiubentibus
+            §. 3. Circa laicos ac mulieresiubentibus
             uobis, iniustissimiP sacerdotes, presbiter Deibenedictionis perdit offitia q amittit
             linguae opus, non habetconfidentiam predicandi, truncatus est omni parte uirtutum,solum
             presbiteri nomen habet, plenitudinem atque perfectionem, que consecrationi eius
@@ -194,7 +194,7 @@
             §. 5. Presbiteri negotiorum ab
             initio, iudicesesse mandati sunt, presbiteri sacerdotum interesse debentconcilio,
             quoniam et ipsi presbiteri, ut legimus, episcopinominantur, secundum quod dictum est ad
-            episcopum^ ,,Noli negligere gratiam, que tibi data est perinpositionem manuum presbiteri
+            episcopum ,,Noli negligere gratiam, que tibi data est perinpositionem manuum presbiteri
             “ y et alibi ad maioresnatu: „Qui uos posuit episcopos regere ecclesiam suam“
           </p>
           <p xml:id="gd-p1d95-d1e235">

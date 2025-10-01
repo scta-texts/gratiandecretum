@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -146,7 +146,7 @@
           <head xml:id="gd-p2c22q1-Hd1e194">Caput VII</head>
           <head xml:id="gd-p2c22q1-Hd1e197" type="question-title"> Per Deum iurare permittitur, ne
             per idola iuretur.</head>
-          <p xml:id="gd-p2c22q1-d1e200"> Item leronimus in Iheremia, [ad c. 4.]^ </p>
+          <p xml:id="gd-p2c22q1-d1e200"> Item leronimus in Iheremia, [ad c. 4.] </p>
           <p xml:id="gd-p2c22q1-d1e203"> Et iurabunt, uiuit Dominus in ueritate, et in iudicio, et
             in iustitia, et benedicent eum gentes, ipsumque laudabunt. Quomodo ergo euangelium
             iurare nos prohibet?Sed hic: iuramentum!, pro confessione dicitur, et adcondempnationem

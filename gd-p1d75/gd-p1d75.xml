@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -67,7 +67,7 @@
           <head xml:id="gd-p1d75-Hd1e117" type="question-title">Ordinationes episcoporum qua hora fieri debeant.</head>
           <p xml:id="gd-p1d75-d1e120">
             Ordinationes episcoporum auctoritate apostolica ab omnibus, qui in eadem fuerint
-            prouincia, episcopis sunt celebrandae. Qui simul conuenientes scrutinium cum precibus^
+            prouincia, episcopis sunt celebrandae. Qui simul conuenientes scrutinium cum precibus
             celebrent, manus cum sanctis euangeliis inponentes, dominica die, hora tertia orantes,
             sacraque unctione prophetarum exemplo regum capita perungentium,eos more apostolorum et
             Moysi ungentes; quia omnis sanctificatio constat esse in Spiritu sancto, cuius
@@ -88,7 +88,7 @@
           <p xml:id="gd-p1d75-d1e138">Quoniam quidam metropolitanorum, sicut ad nos perlatum est, negligunt greges sibi
             creditos, et differunt ordinationes facere episcoporum, placuit sanctae Sinodo,intra
             tres menses fieri ordinationes episcoporum, nisi forteinexcusabilis necessitas coegerit
-            tempus ordinationis ampliusprotelari. Si autem episcoporum quis* hoc non obser-uauerit,
+            tempus ordinationis ampliusprotelari. Si autem episcoporum quis hoc non obser-uauerit,
             ipsum debere ecclesiasticae condempnationi subiacere, redditus uero eiusdem uiduatae
             ecclesiae integros re-seruari apud economum eiusdem ecclesiae censemus .</p>
         </div>
@@ -101,14 +101,14 @@
         </div>
         <div xml:id="gd-p1d75-Dd1e149">
           <head xml:id="gd-p1d75-Hd1e151">Caput 3</head>
-          <head xml:id="gd-p1d75-Hd1e154" type="question-title">Presbiteri et Leuitae qua hora ordinentur^.</head>
+          <head xml:id="gd-p1d75-Hd1e154" type="question-title">Presbiteri et Leuitae qua hora ordinentur.</head>
           <p xml:id="gd-p1d75-d1e157">Ordinationes presbiterorum Leuitarumque tempore congruo, multis coram astantibus,
             solempniter agite,et probabiles ac doctos uiros ad hoc opus prouehite, ut deeorum
             societate et adiumento plurimum gaudeatis.</p>
         </div>
         <div xml:id="gd-p1d75-Dd1e161">
           <head xml:id="gd-p1d75-Hd1e163">Caput 4</head>
-          <head xml:id="gd-p1d75-Hd1e166" type="question-title">De eodem^-.</head>
+          <head xml:id="gd-p1d75-Hd1e166" type="question-title">De eodem-.</head>
           <p xml:id="gd-p1d75-d1e172">
             Item <ref xml:id="gd-p1d75-Rd1e180">Leo Episcopus Dioscoro Alexandrino Episcopo, [epist. LXXIX. cap. i.]</ref>
             Quod a Patribus nostris propensiori cura nouimus esse seruatum, a nobis quoque uolumus

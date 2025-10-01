@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +85,7 @@
           <p xml:id="gd-p1d12-d1e133">
             §. i. Non nouum
             aliquid presenti iussione precipimus, sed illa, que olim uidentur indulta, firmamus: cum
-            nulli dubium sit, quod non solum pontificalis causatio, sed omnis sanctae** religionis
+            nulli dubium sit, quod non solum pontificalis causatio, sed omnis sanctae religionis
             relatio ad sedem apostolicam quasi ad caput ecclesiarum debeat referri, et inde normam
             sumere, unde sumpsit exordium, ne caput institutionis uideatur omitti. Cuius
             auctoritatis sanctionem omnes teneant sacerdotes, qui nolunt ab apostolicae petrae,
@@ -186,7 +186,7 @@
             quid aliud huiusmodi animaduerti potest, totum hoc genus rerum liberas habet
             obseruationes; quod enim neque contra fidem, neque contra bonos mores esse conuincitur,
             indifferenter habendum p, et pro eorum, inter quos uiuitur, societate seruandum est.
-            Mater &lt;1* Mediolanum me secuta inuenit ecclesiam sabbato non ieiunantem; ceperat
+            Mater &lt;1 Mediolanum me secuta inuenit ecclesiam sabbato non ieiunantem; ceperat
             fluctuare quid ageret. Tunc ego consului de hac re beatissimae memoriae Ambrosium
             episcopum; at ille ait: cum Romam uenio, sabbato ieiuno, cum Mediolani sum, non ieiuno.
             Sic et tu, ad quam forte ecclesiam ueneris, eius morem serua, si cuiquam non uis esse

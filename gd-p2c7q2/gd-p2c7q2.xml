@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -79,7 +79,7 @@
         <div xml:id="gd-p2c7q2-Dd1e124">
           <head xml:id="gd-p2c7q2-Hd1e126">Caput 2</head>
           <head xml:id="gd-p2c7q2-Hd1e129" type="question-title"> A regimine ecclesiae suspendatur
-            qui in terram^ frequenter eliditur.</head>
+            qui in terram frequenter eliditur.</head>
           <p xml:id="gd-p2c7q2-d1e135"> 
             Item <ref xml:id="gd-p2c7q2-Rd1e133">Gelasius Papa Rustico et Fortunato Episc,</ref> 
             Nuper Foro populensis ecclesiae clerici una cum Sabino et

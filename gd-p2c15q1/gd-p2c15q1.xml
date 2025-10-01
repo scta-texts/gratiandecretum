@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
         <p xml:id="gd-p2c15q1-d1e109">Quod autem ea, que alienata mente fiunt, non sint
           inputanda, facile uidetur posse probari. Peccata namquealia penes uoluntatem animi, alia
           circa naturae infirmitatemuidentur consistere. Est autem uoluntas, ut Augustinus ait mlib.
-          1. retractat, [cap. 15.], animi motus ad aliquid uel non  imitandum **, uel adipiscendum. Quod propterea dictum est, ut
+          1. retractat, [cap. 15.], animi motus ad aliquid uel non  imitandum , uel adipiscendum. Quod propterea dictum est, ut
           hac diffinitione uolens a nolente discerneretur.
         </p>
         <p xml:id="gd-p2c15q1-d1e114">
@@ -96,10 +96,10 @@
           <p xml:id="gd-p2c15q1-d1e130">
           §. 5. Potest uideri falsa hec diffinitio; sed si diligenter
           excutiatur S, inuenitur uerissima K Peccatum illudquippe cogitandum est, quod tantummodo
-          peccatum est, non quodetiam pena peccati. Quamuis et illa , que non inmerito *** non
+          peccatum est, non quodetiam pena peccati. Quamuis et illa , que non inmerito  non
           uoluntaria peccata dicuntur , quia uel a nescientibus, uelcoactis perpetrantur, non omnino
           possint non uoluntariadici.“ Idem in eodem [libro c. 15.] : „ Diffinitio peccati, quam
-          diximus: Peccatum est uoluntas retinendi uel consequendi quodiustitia uetat^ unde liberum
+          diximus: Peccatum est uoluntas retinendi uel consequendi quodiustitia uetat unde liberum
           est abstinere, propterea uerum est, quia id diffinitum est, quod tantummodo peccatum est,
           nonquod° etiam pena peccati .“ 
           </p>
@@ -115,7 +115,7 @@
                 Merito queritur, que sunt peccata nolentium? utrum que a
                 nescientibus conmittuntur, an etiam possitrecte dici peccatum esse nolentis, quod facere
                 conpellitur?Nam et hoc contra uoluntatem dici solet; sed utiqueuult propter quod facit;
-                tamquam si periurare nolit, et facit* cum uult uiuere, sis quisquam, nisi fecerit,
+                tamquam si periurare nolit, et facit cum uult uiuere, sis quisquam, nisi fecerit,
                 mortem minetur. Vult ergo facere, quia uult uiuere, et ideonon per se ipsum appetit, ut
                 falsum iuret, sed ut falsum iurando uiuat. Quod si ita est, nescio, utrum possint
                 istadici peccata nolentium, qualia hic dicuntur expianda. Namsi diligenter inspiciatur,
@@ -131,7 +131,7 @@
         <div xml:id="gd-p2c15q1-Dd1e155">
           <head xml:id="gd-p2c15q1-Hd1e157">Caput 2</head>
           <p xml:id="gd-p2c15q1-d1e140">
-            <ref xml:id="gd-p2c15q1-Rd1e162">Dig. tiU de iniuriis, [I. 3.]* </ref>
+            <ref xml:id="gd-p2c15q1-Rd1e162">Dig. tiU de iniuriis, [I. 3.] </ref>
             <cit>
               <quote xml:id="gd-p2c15q1-Qd1e167">
                 Illud relatum pereque est, eos, qui iniuriam pati possunt,
@@ -178,7 +178,7 @@
             homicidii reus habetur. Mens uero alienata furore, cum sui conpos non sit, eorum, que
             admittit, reatum non contrahit , quia facultatem deliberandi non habuit. Unde pupillo
             etfurioso in maleficiis subuenitur, ut non eis inputentur ad penamque ex mentis
-            deliberatione non processerunt **. Quod nonsolum humanis, sed etiam diuinis legibus
+            deliberatione non processerunt . Quod nonsolum humanis, sed etiam diuinis legibus
             noscitur adprobatum. 
           </p>
           <p xml:id="gd-p2c15q1-d1e146">
@@ -337,11 +337,11 @@
             Item <ref xml:id="gd-p2c15q1-Rd1e366">Ambrosius de beata mVa. </ref>
             <cit>
               <quote xml:id="gd-p2c15q1-Qd1e371">
-                Non est quod cuiquam nostram ascribamus erumpnam*, nisi
+                Non est quod cuiquam nostram ascribamus erumpnam, nisi
                 nostrae uoluntati. Nemo nostrum tenetur ad culpam, nisi uoluntate propria deflexerit.
                 Non habentcrimen que inferuntur reluctantibus. Voluntaria tantumconmissa sequitur
                 delictorum inuidia, quam in alios deriuamus. Voluntarium sibi militem elegit Christus,
-                uoluntarium sibi seruum diabolus actionatur**. Neminem iugo seruitutis astrictum possidet, nisi se ei prius
+                uoluntarium sibi seruum diabolus actionatur. Neminem iugo seruitutis astrictum possidet, nisi se ei prius
                 peccatorum ere uendiderit.
               </quote>
             </cit> 
@@ -352,7 +352,7 @@
           <head xml:id="gd-p2c15q1-Hd1e271" type="question-title"> Minister Dei est qui inuitus
             homicidium facit . </head>
           <p xml:id="gd-p2c15q1-d1e277"> 
-            <ref xml:id="gd-p2c15q1-Rd1e387">Idem de paradiso ^ * in lih. </ref>
+            <ref xml:id="gd-p2c15q1-Rd1e387">Idem de paradiso   in lih. </ref>
             <cit>
               <quote xml:id="gd-p2c15q1-Qd1e392">
                 Nec is, qui inuitus fecerit aliquod homicidium, extra
@@ -368,9 +368,9 @@
               <quote xml:id="gd-p2c15q1-Qd1e401">
                 §. i. Illud quoque specta, quia, cum
                 interficitur inpius, Christus infunditur, et, ubi abhominatio aboletur, sanctificatio
-                consecratur*, quiaDominus dixit: , , In ea die, qua interfecero omneprimogenitum Egypti,
+                consecratur, quiaDominus dixit: , , In ea die, qua interfecero omneprimogenitum Egypti,
                 sanctificabo michi omne primogenitum Israel.“ Quod non refertur ad unum diem
-                afflictionisEgypti, sed ad omne tempus**.
+                afflictionisEgypti, sed ad omne tempus.
               </quote>
             </cit> 
           </p>
@@ -382,8 +382,8 @@
             subito dementes eorum, que faciunt, reatumminime gestent, patet hunc sacerdotem
             homicidii reum non esse, unde nec sacerdotio priuari debet. 
           </p>
-          <p xml:id="gd-p2c15q1-d1e284"> §. i. Obicitur autem illud, quod inuenitur^* in
-            <ref xml:id="gd-p2c15q1-Rd1e417">penitenciali Theodori</ref> *: 
+          <p xml:id="gd-p2c15q1-d1e284"> §. i. Obicitur autem illud, quod inuenitur in
+            <ref xml:id="gd-p2c15q1-Rd1e417">penitenciali Theodori</ref> : 
           </p>
         </div>
         <div xml:id="gd-p2c15q1-Dd1e288">
@@ -411,7 +411,7 @@
             inputatur adpenam, cui tamen obest ad ecclesiae munus accipiendum. Sicque mente alienata
             fiunt, etsi non inputentur ad penam, tamensacri muneris executionem inpediunt. 
           </p>
-          <p xml:id="gd-p2c15q1-d1e302"> Unde <ref xml:id="gd-p2c15q1-Rd1e454">Ieronimus m 7</ref> *: </p>
+          <p xml:id="gd-p2c15q1-d1e302"> Unde <ref xml:id="gd-p2c15q1-Rd1e454">Ieronimus m 7</ref> : </p>
         </div>
         <div xml:id="gd-p2c15q1-Dd1e306">
           <head xml:id="gd-p2c15q1-Hd1e308">Caput 13</head>

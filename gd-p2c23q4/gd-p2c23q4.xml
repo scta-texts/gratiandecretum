@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -123,7 +123,7 @@
             <cit>
               <quote xml:id="gd-p2c23q4-Qd1e196">
                 Ecce, inquiunt, dicit Propheta: , , Recedite, exite inde,
-                et inmundum ne tetigeritis.^ Quomodo ergo malos tollerabimus pro pace, a quibus exire et
+                et inmundum ne tetigeritis. Quomodo ergo malos tollerabimus pro pace, a quibus exire et
                 recedere iubemur, ne tangamus inmundum? Nos istam recessionem spiritualiter intelligimus:
                 illi corporaliter. Nam et ego clamo cum 
                 Propheta; equalia sumus uasa, utitur nobis Deus in
@@ -153,7 +153,7 @@
           <head xml:id="gd-p2c23q4-Hd1e181" type="question-title"> Pacificus est qui corrigit quod
             potest, uel excludit a se quod non potest.</head>
           <p xml:id="gd-p2c23q4-d1e187"> 
-            <ref xml:id="gd-p2c23q4-Rd1e221">Idem in secundo libro contra Parmenianum^ , c. 1. </ref>
+            <ref xml:id="gd-p2c23q4-Rd1e221">Idem in secundo libro contra Parmenianum , c. 1. </ref>
             <cit>
               <quote xml:id="gd-p2c23q4-Qd1e226">
                 Quisquis uel quod potest arguendo corrigit, uel quod
@@ -386,7 +386,7 @@
         </div>
         <div xml:id="gd-p2c23q4-Dd1e306">
           <head xml:id="gd-p2c23q4-Hd1e308">Caput 13</head>
-          <head xml:id="gd-p2c23q4-Hd1e311" type="question-title"> Spiritualis carnalem non^
+          <head xml:id="gd-p2c23q4-Hd1e311" type="question-title"> Spiritualis carnalem non
             persequitur, sed e conuerso.</head>
           <p xml:id="gd-p2c23q4-d1e314"> 
             Hinc etiam <ref xml:id="gd-p2c23q4-Rd1e459"><name xml:id="gd-p2c23q4-Nd1e460">Ieronimus</name> [in comment. ep. ad Gal. c. 4.]</ref> ait  
@@ -405,7 +405,7 @@
         <div xml:id="gd-p2c23q4-Dd1e319">
           <head xml:id="gd-p2c23q4-Hd1e321">Caput 14</head>
           <head xml:id="gd-p2c23q4-Hd1e324" type="question-title"> Boni a malis numquam in hac uita
-            penitus^ possunt separari.</head>
+            penitus possunt separari.</head>
           <p xml:id="gd-p2c23q4-d1e327"> 
             Item <ref xml:id="gd-p2c23q4-Rd1e483">Augustinus in libro [IV.] de baptismo, [c. 12.]</ref>
             <cit>
@@ -440,11 +440,11 @@
             karitaiis beneficio ad correctionem inuitandi. Unde Christus ait in euangelio ; „
             Audistisquia dictum est in lege, {quem modum ulcionis lex statuit)„ Oculum pro oculo,
             (lentem pro dente. Ego autem hanc uicissi-tudinem tollens, et ad mansuetudinem et
-            karitaiis perfectionemuos inuitans, dico uobis: , , Nolite^ resistere malo, sed
+            karitaiis perfectionemuos inuitans, dico uobis: , , Nolite resistere malo, sed
             diligiteinimicos uestros, benefacite Ms, qui oderunt uos, ut sitis filiipatris uestri,
             qui solem suum oriri facit super bonos et malos, etpluit super iustos et iniustos. Hinc
             Paulus ait: , , 5 't esu-rierit inimicus tuus, ciba illum; si sitit, potum da illi.
-            Omnisautem^Ss iniquus bonorum est inimicus; omnis enim amicus huius seculi inimicus est
+            OmnisautemSs iniquus bonorum est inimicus; omnis enim amicus huius seculi inimicus est
             Dei. Inimicus autem Deibonitatis et iusticiae est inimicus, ac per hoc amatorem
             iusticiaeet bonitatis diligere non potest. Cum ergo inimicos diligere, uelillis
             benefacere, cibum et potum subministrare iubemur: inimicospersequi et punire prohibemur.
@@ -456,7 +456,7 @@
             tertiam et quartam generationem. Hec uero a lenitate mansuetudinis et misericordiae,
             itainquiens : „ Beati pauperes spiritu, beati mites, beati misericordes, quoniam ipsi
             misericordiam consequentur .“ In illa dicebatur : „ Qui fecerit hoc uel illud, morte
-            moriatur .“ In istadicitur^: „ Gaudeo super uno peccatore penitenciam agente, quam super
+            moriatur .“ In istadicitur: „ Gaudeo super uno peccatore penitenciam agente, quam super
             nonaginta nouem iustis, qui non indigent penitenciaItem : „ Non ueni uocare iustos, sed
             peccator es . Item : „Estote misericordes, 'sicut et pater uester misericors est.
             Ini-cium quoque predicationis saluatoris nostri, et preconis eiusdem, ad penitenciam
@@ -754,9 +754,9 @@
             hecpredestinata sunt uel prescita, necessario euenient : non tamenideo absolute uerum
             est, necessario euenient que predestinatasunt uel prescita; quia hic necessitas refertur
             ad rerum euentum, ibi ad intuitum diuinae prescientiae. Unde <name xml:id="gd-p2c23q4-Nd1e776">Augustinus</name> : „ Duaesunt ,
-             inquit, , , necessitates, simplex una, ueluti^, necesse estomnes homines esse
+             inquit, , , necessitates, simplex una, ueluti, necesse estomnes homines esse
             mortales: altera conditionis, ut, si aliquemambulare quis scit, eum ambulare necesse
-            est. Quod enim quisquenouit 326 g, td esse aliter, ac^^ notum est, nequit. Sed hec
+            est. Quod enim quisquenouit 326 g, td esse aliter, ac notum est, nequit. Sed hec
             minimesecum illam simplicem trahit. Hanc enim necessitatem non propria facit natura, sed
             condicionis adiectio. Nulla enim necessitascogit incedere gradientem uoluntate, quamuis
             eum tunc, cumgradiatur , incedere necessarium sit . Eodem igitur modo, si quid
@@ -782,11 +782,11 @@
             §. 3.
             Item <ref xml:id="gd-p2c23q4-Rd1e785"><name xml:id="gd-p2c23q4-Nd1e786">Augustinus</name></ref>: 
             „De Tyriis ++ uero et Sydoniisquid aliud possumus dicere, quam non
-            datum esse eis ut crederent, quos credituros fuisse ipsa ueritas docet^v, si talia,
+            datum esse eis ut crederent, quos credituros fuisse ipsa ueritas docetv, si talia,
             qualia apud non credentes facta sunt, uirtutum signa uidissent tQuare autem hoc negatum
             eis fuerit, dicant, si possunt, qui calum-pniantur, et ostendant, cur apud eos Dominus
             mirabilia, quibusprofutura non erant, fecerit, et apud eos, quibus erant profutura, non
-            fecerit. Nos etenim, si ratione ^q fti 344 r profunditatemiudicii eius penetrare non
+            fecerit. Nos etenim, si ratione q fti 344 r profunditatemiudicii eius penetrare non
             possumus, manifestissime tamen scimus, et uerum esse quod dixit, et iustum esse quod
             fecit, et non solumTyrios et Sydonios, sed etiam Corozaim et Bethsaida potuisseconuerti,
             et fideles ex infidelibus fieri, si hoc in eis Dominusuoluisset operari. Neque enim ulli
@@ -950,10 +950,10 @@
         <div xml:id="gd-p2c23q4-Dd1e883">
           <head xml:id="gd-p2c23q4-Hd1e885">Dictum</head>
           <p xml:id="gd-p2c23q4-d1e52X">Potest in hac prohibitione Apostolorum
-            aliud^intelligi. Apostoli non zelo iusticiae, sed amaritudinis odio obiniuriam suae
+            aliudintelligi. Apostoli non zelo iusticiae, sed amaritudinis odio obiniuriam suae
             expulsionis uindicandam Samaritanos igne noluerunt consumere; Dominus autem uolens eos
             iniuriam propriaepersonae cum patienda et gaudio tollerare, iniuriam uero ser-uitutis
-            diuinae non inultam relinquere, a^: „ Nescitis, cuiusspiritus estisf Hinc etiam Petrus,
+            diuinae non inultam relinquere, a: „ Nescitis, cuiusspiritus estisf Hinc etiam Petrus,
             qui, cum aliis audierat:, , Beati  eritis, cum maledixerint uobis homines  et
             dixerintomne malum aduersam uos; gaudete in illa die, et exultate, quoniam merces uestra
             copiosa est in celis, contumelias sibiillatas cum gaudio suscipiebat; peccata uero, que
@@ -1054,7 +1054,7 @@
             monstrare curauit. Iniuria ergo Prophetae non alia, quam iniuria ipsiusDomini
             intelligitur, que in paucis uindicanda est, ut ceteriterreantur. </p>
           <p xml:id="gd-p2c23q4-d1e572"> 
-            Item obicitur illud <ref xml:id="gd-p2c23q4-Rd1e981">Siluerii^a. [ad Amatorem Episcopum]</ref>: 
+            Item obicitur illud <ref xml:id="gd-p2c23q4-Rd1e981">Silueriia. [ad Amatorem Episcopum]</ref>: 
           </p>
         </div>
         <div xml:id="gd-p2c23q4-Dd1e986">
@@ -1089,7 +1089,7 @@
             nonnullos punit Deus, utdiuina prouidentia etiamsi circa humana uigilare cognoscatur, et
             nonnullos etiam per longa tempora ad penitenciam expectat, utpatiendam suae benignitatis
             nobis ostendat. Sic Helyas etiamculturam Baal uindicauit, sacerdotes et prophetas eius
-            interficiendo, morte auctorum expians peccata^ imitantium populorum.
+            interficiendo, morte auctorum expians peccata imitantium populorum.
           </p>
           <p xml:id="gd-p2c23q4-d1e1006">
             §. i. Quod uero
@@ -1133,7 +1133,7 @@
             sancto «reuelatur, illesi euadere ab illorum uastatione mereantur.
           </p>
           <p xml:id="gd-p2c23q4-d1e1055">
-            Et infra^: §. 1.
+            Et infra: §. 1.
             Reueracum contagio peccandi multitudinem inuaserit, diuinaedisciplinae seuera
             misericordia necessaria est. Nam consilia separationis et inania sunt, et perniciosa
             atque sacrilega, quia inpia et superba sunt, et plus perturbant infirmosbonos, quam
@@ -1166,7 +1166,7 @@
             iubemur , sic inpenitentibus etobstinatis in malo inpendere prohibemur misericordiam. 
           </p>
           <p xml:id="gd-p2c23q4-d1e625"> 
-            Unde Ambrosius in libro de offitiis ^;
+            Unde Ambrosius in libro de offitiis ;
           </p>
         </div>
         <div xml:id="gd-p2c23q4-Dd1e629">
@@ -1180,7 +1180,7 @@
             seruari. Ita, si quis latronemfiliis deprecantibus motus, et lacrimis coniugis eius
             inflexusabsoluendum putat, cui adhuc latrocinandi aspiret affectus, nonne innocentes
             tradet&amp; exitio qui liberat multorumexitia cogitantem? Certe si gladium reprimit,
-            uincula dis-soluit, laxat'exilium ^ cur latrocinandi qua potestclementiori uia non
+            uincula dis-soluit, laxat'exilium  cur latrocinandi qua potestclementiori uia non
             eripit facultatem, qui uoluntatem extorquere non potuit? Deinde inter duos, hoc est
             accusatoremet reum, pari periculo de capite decertantes, alterum, sinon probasset,
             alterum, si esset ab accusatore conuictus, Si non id, quod iusticiae est, iudex
@@ -1201,7 +1201,7 @@
           <p xml:id="gd-p2c23q4-d1e652"> 
             Item <ref xml:id="gd-p2c23q4-Rd1e1096">Augustinus in libro Psalmorum, [Psal. 32.] </ref>
             <cit><quote xml:id="gd-p2c23q4-Qd1e1100">Ne amisso iudicio sis pauperi in mala causa misericors,
-            cuius si parcis saccello, percuti^ cor, et tanto nequioremreddis, quanto iustum fauere
+            cuius si parcis saccello, percuti cor, et tanto nequioremreddis, quanto iustum fauere
             uidet sibi.</quote></cit> </p>
         </div>
         <div xml:id="gd-p2c23q4-Dd1e657">
@@ -1338,7 +1338,7 @@
             <cit>
               <quote xml:id="gd-p2c23q4-Qd1e1236">
                 Si semperesset culpabile persecutionem facere, non scriptum
-                esset inlibris sanctis: , , Detrahentem proximo suo occulte, huncpersequebar.^ Aliquando
+                esset inlibris sanctis: , , Detrahentem proximo suo occulte, huncpersequebar. Aliquando
                 ergo et qui eam patitur iniustusest, et qui eam facit iustus est. Sed plane sepe et
                 malipersecuti sunt bonos, et boniP malos; illi nocendo permiusticiam, illiq consulendo
                 per disciplinam; illi inmaniter, illi 648 r temperanter; illi seruientes cupiditati,
@@ -1488,7 +1488,7 @@
               ceruicem; que, cum humiliata discederet a domina sua,
               occurrit ei angelus, et dixit: „Quid tibi est Agar, ancilla Sarae? Cum conquesta esset
               de domina, quid audiuit ab angelo: , , Reuertere ad dominam tuam/ Adhoc ergo affligitur,
-              ut reuertatur, atque utinam reuertatur, quia proles eius, sicut Iacob^, cum fratribus
+              ut reuertatur, atque utinam reuertatur, quia proles eius, sicut Iacob, cum fratribus
               hereditatem tenebit.
               </quote>
             </cit>
@@ -1554,7 +1554,7 @@
             </cit>
           </p>
           <p xml:id="gd-p2c23q4-d1e1344">
-            Item [c. io.J^: §. 2. <cit><quote xml:id="gd-p2c23q4-Qd1e1353">Petilianus dixit,
+            Item [c. io.J: §. 2. <cit><quote xml:id="gd-p2c23q4-Qd1e1353">Petilianus dixit,
             siApostoli persecuti sunt aliquem, aut aliquem tradidit Christus? Augustinus respondit:
             Possem quidem dicere, ipsumsathanam omnibus malis hominibus esse peiorem, cui
             tamentradidit Apostolus hominem in interitum carnis, ut spiritussit saluus in die Domini
@@ -1845,7 +1845,7 @@
               glorificant. Plurima enim pro pascendis ouibusB. Petri apostolorum principis
               utilitatibus excellentiam uestram prestitisse didicimus, ita, ut non parua loca
               patrimonii eius propriis nudata cultoribus, largitis Dacorumhabitatoribus,
-              restaurasset^. Quecumque igitur 1025 h illi 1026 Christianissima mente confertis,
+              restaurasset. Quecumque igitur 1025 h illi 1026 Christianissima mente confertis,
               horum retributionejn per spem in futuro iudicio sustinetis.
             </quote>
             </cit> 

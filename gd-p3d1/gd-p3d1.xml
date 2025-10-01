@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -98,12 +98,12 @@
             quoque et reliquis ad diuinum cultum explendum utensilibus deuote et solempniter
             sacrare, ei non in aliis , quam in Domino sacratis abepiscopis , ei non a chorepiscopis
             {qui sepe prohibiti sunt , nut, ni predictum est, summa necessitate exigente), missas
-            celebrare, nec sacrificia Domino offerre debemus. Et hoc s^ summanecessitas agere
+            celebrare, nec sacrificia Domino offerre debemus. Et hoc s summanecessitas agere
             conpulerit, non m domibus offerre pro- hibita sunt p. 
           </p>
           <p xml:id="gd-p3d1-d1e127">
             §. 3.i+ SY autem, ni legitur
-            in concilioLaudicensi cap. 27., quod^s hf qi sunt ab episcopisordinati, tam in ecclesiis
+            in concilioLaudicensi cap. 27., quods hf qi sunt ab episcopisordinati, tam in ecclesiis
             quam in domibus exorcizare non possunt,multo magis maioris gradus ministeria nisi ab
             eis, qui ad eos gradus sunt consecrati, quibus fungi debent , offitia agi debent uel
             sacrificia offerri Z2cei+f. Qnod autem, ut paulosuperius prelibatum est, oblationes in
@@ -175,7 +175,7 @@
         </div>
         <div xml:id="gd-p3d1-Dd1e192">
           <head xml:id="gd-p3d1-Hd1e194">Caput 7</head>
-          <head xml:id="gd-p3d1-Hd1e197" type="question-title"> Publicae processiones^ non fiant in
+          <head xml:id="gd-p3d1-Hd1e197" type="question-title"> Publicae processiones non fiant in
             oratoriis, que preter auctoritatem sedis apostolicae consecrantur. </head>
           <p xml:id="gd-p3d1-d1e203">
             Idem <ref xml:id="gd-p3d1-Rd1e201">Iobanni, Episcopo Sorano .</ref> 
@@ -204,7 +204,7 @@
         </div>
         <div xml:id="gd-p3d1-Dd1e222">
           <head xml:id="gd-p3d1-Hd1e224">Caput 9</head>
-          <head xml:id="gd-p3d1-Hd1e227" type="question-title"> Sine designatione^^ episcopi^ non e
+          <head xml:id="gd-p3d1-Hd1e227" type="question-title"> Sine designatione episcopi non e
             edificetur ecclesia. </head>
           <p xml:id="gd-p3d1-d1e233"> 
             Item ex <ref xml:id="gd-p3d1-Rd1e231">Concilio Aureli an en sP .</ref> 
@@ -398,7 +398,7 @@
         </div>
         <div xml:id="gd-p3d1-Dd1e457">
           <head xml:id="gd-p3d1-Hd1e459">Caput 25</head>
-          <head xml:id="gd-p3d1-Hd1e462" type="question-title"> Absque episcopi permissu^ in
+          <head xml:id="gd-p3d1-Hd1e462" type="question-title"> Absque episcopi permissu in
             ecclesia consecrata non erigatur altare. </head>
           <p xml:id="gd-p3d1-d1e468">
             Item ex <ref xml:id="gd-p3d1-Rd1e471">Decretis Ormisdae Papae, c. 10.</ref> 
@@ -627,7 +627,7 @@
         </div>
         <div xml:id="gd-p3d1-Dd1e715">
           <head xml:id="gd-p3d1-Hd1e717">Caput 43</head>
-          <head xml:id="gd-p3d1-Hd1e720" type="question-title"> Diuina misteria ^  nuptiarum non
+          <head xml:id="gd-p3d1-Hd1e720" type="question-title"> Diuina misteria   nuptiarum non
             prestantur ornatibus. </head>
           <p xml:id="gd-p3d1-d1e726">
             Item ex <ref xml:id="gd-p3d1-Rd1e744">Concilio Aurelianensi.</ref>
@@ -743,7 +743,7 @@
             In ieiuniis etiam quatuor temporum circa
             uespertinas horas , in sabbato uero sancto circanoctis inicium missarum solempnia sunt
             celebranda. Unde Leoepiscopus : „ Quod a patribus nostris .“ Item Gelasius:
-            ^Ordinationes presbiter orum. Item Pelagius : „ Dilectionis tuaerescripta.&amp; Require
+            Ordinationes presbiter orum. Item Pelagius : „ Dilectionis tuaerescripta.&amp; Require
             in tractatu ordinandorum. Primaquoque parte diei missarum solempnia non incongrue
             celebrantur. </p>
         </div>
@@ -881,7 +881,7 @@
             unicuique diuinis singulariter offitiis insistentiperniciosa passio uel corporis
             quelibet inualetudo occurrat,que aut corpus subito subrui faciat, aut mentem
             alienationeuel terrore confundat. Pro huiusmodi ergo casibus pre-cauentes, necessarium
-            duximus instituere, ut, ubi temporis^uel loci, siue cleri copia suffragatur, habeat
+            duximus instituere, ut, ubi temporisuel loci, siue cleri copia suffragatur, habeat
             quisque canensDeo atque sacrificans post se uicini solaminis adiutorem,ut, si aliquo
             casu ille, qui offitia inpleturus accedit, turbatus fuerit, uel ad terram elisus, a
             tergo semper habeat quieius uicem exequatur intrepidus, et offitium inceptumadinpleat.]
@@ -1057,7 +1057,7 @@
             solempnibus pro defunctorum spiritibus lococonpetenti ecclesia Dominum deprecetur. Sicut
             enimnulla dies excipitur, qua non pro uiuentibus et proquibuslibet necessitatibus
             deprecetur: ita nimirum nulladies excipi debet, quin pro animabus fidelium preces
-            missarum^ solempnibus Domino fundantur. Antiquitus igitur hunc morem sancta tenet
+            missarum solempnibus Domino fundantur. Antiquitus igitur hunc morem sancta tenet
             ecclesia, ut et missarum®solempnibus, et aliis precibus Domino spiritus quiescentium
             conmendenturg, dicente B. Augustino: „Nonsunt pretermittendae supplicationes pro
             spiritibus mortuorum, quas faciendas pro omnibus in Christiana etcatholica societate

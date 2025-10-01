@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,7 @@
           <head xml:id="gd-p2c1q7-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c1q7-d1e109">
           Nunc autem de septima tractandum est questione , an
-          renuncians suae heresi sit recipiendus in episcopali dignitateuel non*? </p>
+          renuncians suae heresi sit recipiendus in episcopali dignitateuel non? </p>
         <p xml:id="gd-p2c1q7-d1e112"> De his ita scribit Ciprianus ad Stephanum [lib. II. epist.
           i.]: </p>
         </div>
@@ -69,8 +69,8 @@
           <p xml:id="gd-p2c1q7-d1e123"> Si qui presbiteri et diaconi in ecclesia catholica prius
             ordinati fuerint, et postmodum perfidi et rebellesextiterint contra ecclesiam, uel apud
             hereticos a pseu-doepiscopis et antichristis contra Christi dispositionemprofana
-            ordinatione promoti sunt*, et contra altare atque s diuinum uerbum sacrificia foris
-            falsa et sacrilega offerre conati sunt, eos quoque hac conditione suscipiconuenit*, cum
+            ordinatione promoti sunt, et contra altare atque s diuinum uerbum sacrificia foris
+            falsa et sacrilega offerre conati sunt, eos quoque hac conditione suscipiconuenit, cum
             reuertuntur, ut communicent laicis, etsatis habeant, quod admittuntur ad pacem, qui
             hostes pacisextiterint; nec debere eos reuertentes ea apud nos ordinationis et honoris
             arma retinere, quibus contra nos rebel-lauerunt. </p>
@@ -81,7 +81,7 @@
             ordinationem faciunt, et qui redeuntes ob heresi in suis ordinibus recipiuntur. </head>
           <p xml:id="gd-p2c1q7-d1e139"> 
             Item ex <ref xml:id="gd-p2c1q7-Rd1e133">VII. Sinodo.</ref> 
-            Si quis* omnem traditionem ecclesiasticam scriptam uel non
+            Si quis omnem traditionem ecclesiasticam scriptam uel non
             scriptam uiolat, anathema sit. 
           </p>
           <p xml:id="gd-p2c1q7-d1e136">
@@ -95,7 +95,7 @@
             Deus, et dixerit de eo: „Inueni uirum secundumcor meum.“ Noui rursum eundem audientem a
             Deo:„Non edificabis mihi domum, quia uir sanguinum es.“ ScioManasse per confessionem
             dimissam inpietatem suam.Scio meretrices et telonarios per penitentiam receptos, nullum
-            tamen horum s, qui ante baptismum*** peccauit, sacerdotibus connumeratum. Scio quosdam,
+            tamen horum s, qui ante baptismum peccauit, sacerdotibus connumeratum. Scio quosdam,
             dum essentin mundo, in multa fornicatione mansisse, monachos uerofactos quasi luminaria
             mundi resplenduisse; nullum tamenad sacerdotium ascendisse. Quod, etsi rarof contigit 
             nulla tamen lex ecclesiae fuit. Nouimus primum peccatricem
@@ -152,18 +152,18 @@
         <div xml:id="gd-p2c1q7-Dd1e165">
           <head xml:id="gd-p2c1q7-Hd1e167">Caput 4</head>
           <head xml:id="gd-p2c1q7-Hd1e170" type="question-title"> Qui redeuntes ab hereticis recipi
-            possunt uel qui^ non.</head>
+            possunt uel qui non.</head>
           <p xml:id="gd-p2c1q7-d1e176"> 
             Item de <ref xml:id="gd-p2c1q7-Rd1e176">eadem Sinodo [VII., actione i.]</ref>
             Conuenientibus apud Nicenam Bithiniae, et
             consedentibus Petro archiepiscopo, et Petro presbiteroet abbate monasterii sancti Sabae,
             locum tenentibusAdriani Papae, et Tharasio archiepiscopo Constantinopoli-tano, et
             Iohanne et Thoma apocrisariis apostolicarumsedium orientalium, et ceteris episcopis,
-            episcopi Siciliaedixerunt: Dignum est**, ut de futuris inquiramus. 
+            episcopi Siciliaedixerunt: Dignum est, ut de futuris inquiramus. 
           </p>
           <p xml:id="gd-p2c1q7-d1e179">
             §. 1. Item Basilius
-            episcopus Anchirae dixit: Constitutio*** ecclesiastica habet canonice tradita ab antiquo
+            episcopus Anchirae dixit: Constitutio ecclesiastica habet canonice tradita ab antiquo
             a sanctis apostoliset successoribus eorum, sanctis Patribus nostris etmagistris, et
             sanctis uniuersalibus sex sinodis, et localibussinodis orthodoxis, ut qui ab aliqua
             heresi reuertuntur adorthodoxam fidem et traditionem catholicae ecclesiae, scripto
@@ -232,7 +232,7 @@
             14. Tharasius patriarcha dixit: Plures eorum, qui in sexta Sinodo conuenerunt, a Sergio,
             Pirro, Petro, Paulo ordinati sunt, qui fuerunt principes hereseos Monoscelitarum,
             quoniam isticontinuatim in Constantinopolitanasede sederunt, et ab ultimoeorum, Petro
-            scilicet, usque ad sextam* sinodum non fuerantplus quam duodecim anni. Thomas uero, et
+            scilicet, usque ad sextam sinodum non fuerantplus quam duodecim anni. Thomas uero, et
             Iohannes, et Constantinus ab hereticis illis archiepiscopi facti sunt, ettamen propter
             hoc non sunt reprobati. 
           </p>
@@ -340,7 +340,7 @@
             Quociens cordis oculus nube erroris obductus supernae
             illustracionis lumine fit serenus, magna cautela nitendum est, ne latenter auctor
             scismatis irruat, et abunitatis radice eos, qui ad eam reuersi fuerint, telo
-            iterumerroris abscidat, Et ideo postquam ego N.* ciuitatisepiscopus, conperto diuisioms
+            iterumerroris abscidat, Et ideo postquam ego N. ciuitatisepiscopus, conperto diuisioms
             laqueo, quo tenebar, diutina mecum deliberatione pertractans, prona et spontanea
             uoluntate ad unitatem sedis apostolicae diuina gratiaduce reuersus sum, et ne non pura
             mente, sed simulate s reuersus existimer, spondeo sub ordinis mei casu et anathematis
@@ -359,7 +359,7 @@
             unitate obligantes sein suprascriptis omnibus prona similiter uoluntate secuti atque
             propriis manibus subscripti sunt, scribendamdictaui, et propria manu subscribens tibi
             tradidi. Actain loco N.y, die illa, et consulibus suprascriptis.Subscriptio episcopi.
-            Ego * episcopus ciuitatisN. 212 cc^ hi confessioni promissionique meae prestito
+            Ego  episcopus ciuitatisN. 212 cc hi confessioni promissionique meae prestito
             deconseruandis suprascriptis omnibus sacramento subscripsi. </p>
         </div>
         <div xml:id="gd-p2c1q7-Dd1e313">
@@ -415,7 +415,7 @@
             ecclesia tollerantur. </head>
           <p xml:id="gd-p2c1q7-d1e316"> Quoniam quicquid ab alterutra parte est indicatumomni
             uidemus peruersitate confusum, temporum necessitate perspecta hac ratione decreuimus ad
-            ueniam pertinere quod gestum est, ut deinceps preter noticiam nullus*uel o consensum
+            ueniam pertinere quod gestum est, ut deinceps preter noticiam nullusuel o consensum
             metropolitani ordinetur antistes. </p>
         </div>
         <div xml:id="gd-p2c1q7-Dd1e320">
@@ -524,7 +524,7 @@
         <div xml:id="gd-p2c1q7-Dd1e424">
           <head xml:id="gd-p2c1q7-Hd1e426">Caput 21</head>
           <head xml:id="gd-p2c1q7-Hd1e429" type="question-title"> Redeuntes ab Tieresipost publicam
-            professionem^ in suis ordinibus recipi possunt . </head>
+            professionem in suis ordinibus recipi possunt . </head>
           <p xml:id="gd-p2c1q7-d1e432">
             <ref xml:id="gd-p2c1q7-Rd1e511">Idem Ianuario Episcopo Aquilegiensi, [epist. III.]</ref> 
             Saluberrimum enim et spiritualis medicinae utilitateplenissimum est, ut siue
@@ -574,7 +574,7 @@
           <p xml:id="gd-p2c1q7-d1e468"> §. 1. Breuiter ostendimus, qui
             re-uertentes ab Jieresi in suis ordinibus ualeant recipi, uel qui non . Nunc autem
             queritur de his s, qui ab hereticis ordinati sunt, si ad unitatem catholicae matris
-            ecclesiae ab heresi^ redierint, utrum in eodem ordine iterum ualeant ordinarif „ Semel
+            ecclesiae ab heresi redierint, utrum in eodem ordine iterum ualeant ordinarif „ Semel
             enimconsecratus “ (ut ait B. Gregorius ) , iterum consecrari nondebet . 
           </p>
           <p xml:id="gd-p2c1q7-d1e558">
@@ -598,14 +598,14 @@
             fiet in eis reiteratio muneris, cum nichil ab hereticis eis doceatur fuisse collatum.
           </p>
           <p xml:id="gd-p2c1q7-d1e472"> Unde Urbanus II. scribit Petro Pistoriensi Episcopo et
-            Rustico Abbati Vallis umbrosae^: </p>
+            Rustico Abbati Vallis umbrosae: </p>
         </div>
         <div xml:id="gd-p2c1q7-Dd1e476">
           <head xml:id="gd-p2c1q7-Hd1e478">Caput 24</head>
           <head xml:id="gd-p2c1q7-Hd1e481" type="question-title"> Redeuntes ab hereticis sunt
             reordinandi</head>
           <p xml:id="gd-p2c1q7-d1e484">
-            Daibertum aNegzelone*, licet symoniaco, non symoniace
+            Daibertum aNegzelone, licet symoniaco, non symoniace
             eiusdem confessione reperimus in diaconum ordinatum; et B. Innocentii Papae sententia
             constat declaratum, quod Negzelon, hereticus (quem constat ab hereticis ordinatum) 
             quia nichil habuit, dare nichil potuit ei, cui manus
@@ -624,7 +624,7 @@
             Per illicitam manus inpositionem uulneratum caput illi qui
             uidebantur aliquid accepisse, habebant, et ubi uulnusinfixum est, necesse est medicinam
             adhibere, qua infixasanetur macula; id est, reiterari necesse est quod legitimeactum aut
-            collatum minime probatur*. Nam quomodo possit honorem retinere qui ab illo accepit,
+            collatum minime probatur. Nam quomodo possit honorem retinere qui ab illo accepit,
             quipotestatem dare non habuit legitime, inuenire nonpossum. </p>
         </div>
         <div xml:id="gd-p2c1q7-Dd1e595">

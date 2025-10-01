@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +95,7 @@
         </div>
         <div xml:id="gd-p1d64-Dd1e152">
           <head xml:id="gd-p1d64-Hd1e154">Caput 4</head>
-          <head xml:id="gd-p1d64-Hd1e157" type="question-title">Ceteris^ assentientibus cum &amp; trifms conprouincialibus
+          <head xml:id="gd-p1d64-Hd1e157" type="question-title">Ceteris assentientibus cum &amp; trifms conprouincialibus
             ordinetur episcopus.</head>
           <p xml:id="gd-p1d64-d1e160">
             Item <ref xml:id="gd-p1d64-Rd1e158">Anicius Papa [in epistola ad Episcopos Galliae.]</ref> Conprouinciales episcopi, si

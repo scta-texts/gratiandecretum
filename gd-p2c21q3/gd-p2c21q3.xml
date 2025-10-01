@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -133,7 +133,7 @@
             alligentur . </head>
           <p xml:id="gd-p2c21q3-d1e193"> 
             Item ex <ref xml:id="gd-p2c21q3-Rd1e184">eadem</ref>. 
-            Hii, qui in ecclesia Domini ad ordinationem clericorum*
+            Hii, qui in ecclesia Domini ad ordinationem clericorum
             promouentur, in nullo ab administratione diuina auocentur, nec molestiis et negociis
             secularibus alligentur, nec ab altariis et sacrificiis recedant, seddie ac nocte
             celestibus rebus et spiritualibus seruiant. </p>

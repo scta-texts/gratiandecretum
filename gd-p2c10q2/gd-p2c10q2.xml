@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +68,7 @@
           <p xml:id="gd-p2c10q2-d1e120"> Casellas uel mancipiola ecclesiae episcopi, sicut
             priscacanonum precepit auctoritas, uel uasa monasterii quasiconmendata fideli preposito,
             integro ecclesiae iure possideant, id est ut neque uendere, neque per
-            quoscumquecontractus res, unde pauperes uiuunt, alienare presumant*.Quod si necessitas
+            quoscumquecontractus res, unde pauperes uiuunt, alienare presumant.Quod si necessitas
             conpulerit, ut pro ecclesiae necessitateaut utilitate uel in usufructu, uel indirecta
             uenditionealiquid distrahatur, apud duos uel tres conprouinciales autuicinos episcopos
             causa, que necesse sit uendendi, primitus conprobetur, ut, habita discussione
@@ -131,7 +131,7 @@
           </p>
           <p xml:id="gd-p2c10q2-d1e142">
             §. 6. Perpetua quoque emphiteosis in hisrebus
-            permittitur, si res in eorum geritur^ presentia, quibus hoc assignatur lege, iurantibus
+            permittitur, si res in eorum geritur presentia, quibus hoc assignatur lege, iurantibus
             his, quorum interest, exeo contractu nichil ad lesionem diuinae domus effici,
             solitoredditu ipsius rei, qui fuit, cum diuino iuri dedicaretur, non inminuendo nisi in
             sextam partem, aut si ob clademdiminuta fuerit, tunc constante “ nunc pensione in
@@ -146,7 +146,7 @@
             meliorationis. 
           </p>
           <p xml:id="gd-p2c10q2-d1e158">
-            §. 8. Si quas ueroruinas habent memoratae^ domus, quas reedincare
+            §. 8. Si quas ueroruinas habent memoratae domus, quas reedincare
             nonualent in emphiteosim dentur perpetuam, emphiteotausuro materia depositae
             habitationis domus, ut pensiominuatur in tertiam partem ab ea, que stantibus
             adhuchabitationibus colligebatur, aut, prius eo edificante, ex additis illic per
@@ -256,7 +256,7 @@
             episcopus in suas uoluntates usurpareuoluerit, aut fratribus uel filiis, uel
             quibuscumque propinquis suis dederit potestatem, ut per eos latenter resledantur
             ecclesiae, hunc oportet obnoxium esse concilio;sin aliter , episcopus uel qui cum eo
-            sunt presbiteri autdiaconi accusentur, quia ea, que ex redditu, uel ex quolibet actu**
+            sunt presbiteri autdiaconi accusentur, quia ea, que ex redditu, uel ex quolibet actu
             ecclesiae ueniunt, in suos usus colligunt, et pauperes fraudant et fame conficiunt, hos
             corripioport et secundum quod ordinatum fuerit a sancto concilio. </p>
         </div>
@@ -273,7 +273,7 @@
           <head xml:id="gd-p2c10q2-Hd1e226" type="question-title"> De episcopo , qui nulla
             necessitate res ecclesiae uendit </head>
           <p xml:id="gd-p2c10q2-d1e229"> Si quis episcopus nulla ecclesiasticae rationis necessitate
-            conpulsus in suo clero*, aut ubi forte presbiter non est, de rebus ecclesiasticis
+            conpulsus in suo clero, aut ubi forte presbiter non est, de rebus ecclesiasticis
             presumpserit aliquid uendere, res ipsas ecclesiae propriae restaurare cogatur, et in
             iudicio episcoporum deiciatur auditus et conuictus, et tamquam furti aut latrocinii
             reus suo priuetur honore. </p>

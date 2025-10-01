@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -134,8 +134,8 @@
         <div>
           <head>Dictum</head>
           <p xml:id="gd-p2c15q6-d1e141">A fidelitatis etiam iuramento Romanus
-            Pontifex nonnullos absoluti, cum aliquos a suis dignita* tibus deponit. </p>
-          <p xml:id="gd-p2c15q6-d1e145"> Unde Gelasius Papa Anastasio Inperatori^^\ </p>
+            Pontifex nonnullos absoluti, cum aliquos a suis dignita tibus deponit. </p>
+          <p xml:id="gd-p2c15q6-d1e145"> Unde Gelasius Papa Anastasio Inperatori\ </p>
         </div>
         <div xml:id="gd-p2c15q6-Dd1e150">
           <head xml:id="gd-p2c15q6-Hd1e152">Caput 3</head>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
             minori etate suscepta a parentibus irrita fieri potest. </head>
           <p xml:id="gd-p2c20q2-d1e117"> Si in qualibet minori etate uel religionis tonsuram uel
             religioni debitam uestem, in utroque sexu filiis aut unus aut ambo parentes dederint
-            forte*, aut nolentibus uel nescientibus se susceptam non mox uisam in filiis
+            forte, aut nolentibus uel nescientibus se susceptam non mox uisam in filiis
             abdicauerint, sed uel coram se, uel coram episcopo, palamque in conuentu eosdem filios
             talia habere permiserint, ad secularem reuerti habitum ipsis filiis quandoque penitus non
             licebit, sed conuicti, quod tonsuram aut religiosam uestem aliquandohabuerint, mox ad

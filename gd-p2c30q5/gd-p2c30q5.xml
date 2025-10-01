@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -120,9 +120,9 @@
             Virgo casta, et desponsata in uirginitate, et dotata legitime, et a parentibus tradita
             sponso, et aparanimphis accipienda, et ita secundum legem et euangelium publicis nuptiis
             in coniugium liquide sumenda, et omnibus diebus uitae suae (nisi ex consensu, et
-            causauacandi Deo) numquam propter hominem separanda, et, si fornicata fuerit**,
+            causauacandi Deo) numquam propter hominem separanda, et, si fornicata fuerit,
             dimittenda, sed illa uiuente alteranon ducenda, quia adulteri regnum Dei non
-            possidebunt, et penitencia illius*** per scripturam recipienda. </p>
+            possidebunt, et penitencia illius per scripturam recipienda. </p>
         </div>
         <div xml:id="gd-p2c30q5-Dd1e164">
           <head xml:id="gd-p2c30q5-Hd1e166">Caput 5</head>
@@ -132,7 +132,7 @@
             Item ex <ref xml:id="gd-p2c30q5-Rd1e177">Concilio Cartaginensi IV [c. 13.]</ref>
             Sponsus et sponsa
             cum benedicendi sunt a sacerdote, a 
-            parentibus uel a paranimphis offerantur* in ecclesia
+            parentibus uel a paranimphis offerantur in ecclesia
             sacerdoti, qui, cum acceperint benedictionem, eadem nocte pro reuerentia benedictionis
             in uirginitate permaneant. </p>
         </div>
@@ -167,7 +167,7 @@
           </p>
           <p xml:id="gd-p2c30q5-d1e220">
             §. 1. Item, quod nubentes post benedictionem
-            uitta* inuicem, uno uinculo copulantur, uidelicet fit ideo, neconpagem coniugalis
+            uitta inuicem, uno uinculo copulantur, uidelicet fit ideo, neconpagem coniugalis
             unitatis disrumpant. 
           </p>
           <p xml:id="gd-p2c30q5-d1e222">
@@ -247,7 +247,7 @@
             Item <ref xml:id="gd-p2c30q5-Rd1e294">Eleutherius Papa, [epistola ad Galliae prouincias].</ref>
             Iudicantem oportet cuncta rimari, et ordinem rerum plena
             inquisitione discutere, interrogandi et respondendi obiciendique prebita patiencia ab
-            eo, ut ibi ambarum actio partium illuminata* sit pleniter, neclitigantibus prius uelit
+            eo, ut ibi ambarum actio partium illuminata sit pleniter, neclitigantibus prius uelit
             iudex sua sententia obuiare, nisiquando iam peractis omnibus nichil habeant in
             questione, quod proponant, et tamdiu actio uentiletur, quousquead ueritatem rei
             perueniant. Frequenter interrogari oportet, ne aliquid pretermissum forte remaneat, 

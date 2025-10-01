@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -112,7 +112,7 @@
                 acolithus, subdiaconus, diaconus, presbiter, episcopus. §. 1. Ordo episcoporum
                 quadripartitus est, id est in patriarchis, archie-piscopis, metropolitanis atque
                 episcopis. §. 2. Patriarcha summus Patrum greca lingua interpretatur: quia primum, id
-                est apostolicum* retinet locum, et ideo, quia summo honore fungitur, tali nomine
+                est apostolicum retinet locum, et ideo, quia summo honore fungitur, tali nomine
                 censetur, sicut Romanus, An-tiocenus, Alexandrinus. §. 3. Archiepiscopus greco uocabulo,
                 quod sit summus episcoporum: tenet enim uicem apostolicam, et presidet tam
                 metropolitanis quam ceteris episcopis. §. 4. Metropolitani autem a mensura ciuitatum
@@ -141,14 +141,14 @@
                 erat breuis uirga, desuper habens lanae aliquid, quod cum propter estum ferre non
                 possent, filum tantum in capite religare ceperunt; nam nudis eos penitus capitibus
                 incedere nefas erat. Unde et a filo, quo utebantur, flamines dicti sunt, quasi
-                filamines. Verum festis diebus filo deposito pileum impone^-bant pro sacerdotii
+                filamines. Verum festis diebus filo deposito pileum impone-bant pro sacerdotii
                 eminentia. §. 12, Presbiter grece, latine senior interpretatur: non modo pro etate uel
                 decrepita senectute, sed propter honorem et dignitatem, quam acceperunt, presbiteri
                 nominantur: ideo autem et presbiteri sacerdotes uocantur, quia sacrum dant, sicut
                 episcopi; qui licet sint sacerdotes, tamen pontificatus apicem non habent, quia nec
                 crismate frontem signant, nec Paraclitum spiritum dant, quod solis deberi episcopis,
-                lectio actuum apostolorum demonstrat. Unde** et apud ueteres idem episcopi et presbiteri
-                fuerunt, quia illud nomen dignitatis est, et non*** etatis. §.13. Leuitate ex nomine 
+                lectio actuum apostolorum demonstrat. Unde et apud ueteres idem episcopi et presbiteri
+                fuerunt, quia illud nomen dignitatis est, et non etatis. §.13. Leuitate ex nomine 
                 auctoris uocati. De Leui enim Leuitae exorti sunt, a quibus in templo Dei mistici
                 sacramenti ministeria explebantur. Hi grece diaconi, latine ministri dicuntur, quia
                 sicut in sacerdote consecratio, ita in diacono ministerii dispensatio habetur. §. 14.
@@ -324,7 +324,7 @@
             Idem <ref xml:id="gd-p1d21-Rd1e266">Michaeli Imperatori.</ref>
             In tantum hanc presumptionem sancti Patres apud Calcedonem detestati sunt, ut Dioscorum
             Alexandrinum antistitem inter cetera idcirco potissimum sine ulla restitutione
-            dampnauerint, quia* ponens in celum os suum, lingua eius transeunte super terram,
+            dampnauerint, quia ponens in celum os suum, lingua eius transeunte super terram,
             excommunicationem in S. Leonem Papam dictauit; ita ut in sententia contra ipsum prolata
             hoc uideantur memorare precipue, dicentes: „Quoniam secundis excessionibus, priorem
             iniquitatem ualde transcendit: presumpsit enim et excommunicationem dictare aduersus

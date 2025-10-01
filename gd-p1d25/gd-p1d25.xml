@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -107,7 +107,7 @@
             inferre et disponere in altari; componere etiam mensam Domini atque uestire, crucem
             ferre, et predicare euangelium et Apostolum. Nam sicut lectoribus uetus testamentum, ita
             diaconibus nouum predicare preceptum est. Ad ipsum quoque pertinet offitium precum et
-            recitatio nominum; ipse premonet aures haberes ad Deum, ipse hortatur clamare**, ipse
+            recitatio nominum; ipse premonet aures haberes ad Deum, ipse hortatur clamare, ipse
             donat pacem et ipse annuntiat. 
           </p>
           <p xml:id="gd-p1d25-d1e137">
@@ -172,7 +172,7 @@
             Ex hac epistola liquet, quid cuiusque offitii sit. 
             Est etiam alia
             distinctio episcoporum, presbiterorum, diaconorum, quam fecit <ref xml:id="gd-p1d25-Rd1e134" corresp="#gd-p1d25-Qd1e151">Clemens in epistola sua
-              ita^y</ref> dicens:
+              itay</ref> dicens:
           </p>
         </div>
         <div xml:id="gd-p1d25-Dd1e130">
@@ -209,7 +209,7 @@
           <p xml:id="gd-p1d25-d1e160">Nunc autem per singulos gradus ordine recurrentes, qui, ex quibus
             ordinibus, in quem gradum conscendere possint; qui post lapsum ualeant reparari, uel
             non; quibus culpis a proprio gradu mereantur deici; quo accusante, quibus
-            testificantibus possint conuinci; cuius sententia sint soluendi uel dampnandi^, breuiter
+            testificantibus possint conuinci; cuius sententia sint soluendi uel dampnandi, breuiter
             consideremus. 
           </p>
           <p xml:id="gd-p1d25-d1e214">
@@ -238,7 +238,7 @@
             late patet, complectens omne peccatum, quod ex deliberatione procedit. Unde Beda
             super epistolam Iacobi: ,, Peccata, que ex ignorantia uel infirmitate humana
             committuntur, dicit et precipit alterutrum confiteri, quia facile dimittuntur: quecumque
-            uero fiunt ex deliberatione, non nisi per penitentiam.^ Hinc etiam Augustinus ait: ,,
+            uero fiunt ex deliberatione, non nisi per penitentiam. Hinc etiam Augustinus ait: ,,
             Nullum peccatum+ est adeo ueniale, quod non fiat criminale, dum placet. “ Alias ea demum significat, que semel commissa ad
             dampnationem sufficiunt. 
           </p>
@@ -247,7 +247,7 @@
             iterata et in consuetudinem fuerint deducta, quamuis grauent post mortem, non tamen
             eternaliter perdunt: quia etsi quadam ratione crimina appellentur, tamen mortifera, et
             capitalia non sunt. Unde Augustinus in omilia de igne purgatorio, exponens uerba
-            Apostoli: „Si quis super hoc fundamentum edificauerit, ligna, fenum stipulam. Multi* s
+            Apostoli: „Si quis super hoc fundamentum edificauerit, ligna, fenum stipulam. Multi s
             sunt, lectionem istam male intelligentes falsa securitate decipiuntur, dwm credunt, «2 
             supra fundamentum Christi crimina capitalia edificant, peccata ipsa per ignem
             transitorium possint purgari, et ipsi postea ad uitam peruenire perpetuam. Intellectus
@@ -280,10 +280,10 @@
             uisitauerit; si dicor des ad concordiam r euocare neglexerit; si plus aut proximum, aut
             uxorem, aut filium, aut ser-uum exasperauerit, quam oportet; si amplius fuerit
             blanditus, quam oportet; si cuicumque maiori personae aut ex uoluntate, aut ex
-            necessitate adulari uoluerit; si, pauperibus^ esurientibus, nimium deliciosa uel
+            necessitate adulari uoluerit; si, pauperibus esurientibus, nimium deliciosa uel
             sumptuosa conuiuia prepara-uerit; si se aut in ecclesia aut extra ecclesiam fabulis
             otiosis {de quibus in die iudicii ratio reddenda est) occupauerit; si dum incaute
-            iuramus, et cum hoc per aliquam necessitatemimplere non poterimus, utique periuremus*,
+            iuramus, et cum hoc per aliquam necessitatemimplere non poterimus, utique periuremus,
             et cum omni facilitate uel temeritate maledicimus, cum scriptum est: „ „ Neque maledici
             regnum Dei possidebunt.</p>
         </div>

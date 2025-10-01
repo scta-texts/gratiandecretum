@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +56,7 @@
         <head xml:id="gd-p1d68-Hd1e103">DISTINCTIO LXVIII.</head>
         <div xml:id="gd-p1d68-Dd1e100">
           <head xml:id="gd-p1d68-Hd1e102">Dictum</head>
-        <p xml:id="gd-p1d68-d1e109">Queritur de illis, qui ordinantur ab eis*, quosnon constat fuisse episcopos, an
+        <p xml:id="gd-p1d68-d1e109">Queritur de illis, qui ordinantur ab eis, quosnon constat fuisse episcopos, an
           sint iterum consecrandi, annon f Quod uero consecrandi non sint, probatur auctoritate
           Gregorii, qui scribens Ioli anni Episcopo Rauennati, [lib. II.epist. 32.] ait:</p>
         </div>
@@ -83,7 +83,7 @@
           <head xml:id="gd-p1d68-Hd1e137">Dictum</head>
           <p xml:id="gd-p1d68-d1e138">Quod ergo consecratus in eodem ordine iterum consecrari prohibetur, de eo
             intelligendum est, qui consecratus est ab illo, quem certum erat ius consecrandi habere.
-            Qui autem ab illo consecratur, quem non constat ius consecrandi habuisse^,iterum
+            Qui autem ab illo consecratur, quem non constat ius consecrandi habuisse,iterum
             consecrandus est, quia si ille ius consecrandi non habuerit, iste ex olei effusione
             nichil consecrationis accepit. Et quia in ipso ordine consecratus non erat, nunc quasi
             primum ad consecrationem ueniens ab episcopo sacerdotalem benedictionem etconsecrationem
@@ -153,7 +153,7 @@
           <p xml:id="gd-p1d68-d1e210">
             §. i. Nam non amplius, quam duos
             ordines inter discipulos Domini esse cognouimus, id est duodecim apostolorum, et LXXII.
-            discipulorum . Unde iste tertius processerit, ignoramus^ Et quod ratione caret exstirpare
+            discipulorum . Unde iste tertius processerit, ignoramus Et quod ratione caret exstirpare
             necesse est.</p>
           <p xml:id="gd-p1d68-d1e203">
             §. 2 Quod autem episcopi non sint, quiminus quam a tribus episcopis ordinati
@@ -168,7 +168,7 @@
           <head xml:id="gd-p1d68-Hd1e215" type="question-title">Apostolorum in ecclesia locum tenent episcopi.</head>
           <p xml:id="gd-p1d68-d1e218">
             Quorum uices in ecclesia episcopi habeant, et quis eis hanc dignitatem dare debeat, S.
-            Augustinus ostendit, inquiens: „Pro patribus tuis nati sunt tibi filii* Patres missi
+            Augustinus ostendit, inquiens: „Pro patribus tuis nati sunt tibi filii Patres missi
             sunt apostoli: pro apostolis filii nati sunt, constituti sunt episcopi. Hodie enim
             episcopi, qui sunt per totum mundum, unde nati sunt? Ipsa ecclesia patres illos appellat,
             ipsa illos genuit, et ipsa illos constituit in sedibus patrum. Non te ergo putes

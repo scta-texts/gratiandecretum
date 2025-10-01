@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -71,10 +71,10 @@
           </p>
           <p xml:id="gd-p2c33q3d6-d1e120">
             Et infra : „ Tanta itaque uis confessionis est, ut, si deest sacerdos,confiteatur
-            proximo . Sepe enim contingit, quod penitens non potest uerecundari^b coram sacerdote, quem
+            proximo . Sepe enim contingit, quod penitens non potest uerecundarib coram sacerdote, quem
             desideranti neclocus, nec tempus offert, et, si ille, cui confitebitur, potestatemsoluendi
             non habet®, fit tamen dignus uenia ex desiderio sacerdotisqui socio confitetur
-            turpitudinem criminis. Mundati enim sunt leprosi, dum ibant ostendere ora^ sacerdotibus
+            turpitudinem criminis. Mundati enim sunt leprosi, dum ibant ostendere ora sacerdotibus
             ante, quam adeos peruenirent. Unde patet, Deum ad cor respicere, dum exnecessitate
             prohibentur ad sacerdotes peruenire. Sepe quidemeos querunt sed sani et leti; dum querunt
             ante, quam perueniant moriuntur. Sed misericordia Dei est ubique, qui et iustis nouit
@@ -88,7 +88,7 @@
             ecclesiae suc-curat, nisi quod deest peccatori sua operatione conpleat, demanibus inimici
             non eripietur anima mortui. Credendum est enim, et fidei pietas expostulat credere, quod
             omnes elemosinae totius ecclesiae, et orationes, eZ opera iusticiae, eZ
-            misericordiaesuccurrant recognoscenti mortem suam ad conuersionem^.Ideoque nemo digne
+            misericordiaesuccurrant recognoscenti mortem suam ad conuersionem.Ideoque nemo digne
             penitere potest, quem non sustineat unitas ecclesiae, ideoque non petat sacerdotes per
             aliquam culpam obecclesiae unitate diuisos. ludas enim qui penitens iuit adPhariseos,
             relinquens Apostolos, nichil inuenit auxilii, nisiaugmentum desperationis. Dixerunt enim
@@ -109,11 +109,11 @@
             dicitur : „„ Qui sine peccato estprimus in illam &lt;1 lapidem mittat. Ideo enim liberauit
             peccatricem, quia non erat qui iuste proiceret lapidem . Quomodolapidaret qui se
             lapidandum cognosceret ? Nullus enim erat sinepeccato: in quo intelligitur, omnes fuisse
-            reos. Nam uenialia semper remittebantur per ceremonias. Si quod ergo^ in eiserat peccatum,
+            reos. Nam uenialia semper remittebantur per ceremonias. Si quod ergo in eiserat peccatum,
             criminale erat . Deteriores itaque in hoc sacerdotes sunt, se prius non edificantes,
-            illis, qui Dominum obserua-bant insidiis. In hoc itaque patentissimum ^ est crimen
+            illis, qui Dominum obserua-bant insidiis. In hoc itaque patentissimum  est crimen
             sacerdotum et ultra modum detestabile, qui non prius se iudicant, et aliosalligant.
-            Deberent enim timere crimen, quod^ timuerunt,et detestabile esse senserunt . Hi° qui^ adeo
+            Deberent enim timere crimen, quod timuerunt,et detestabile esse senserunt . Hi° qui adeo
             erant ceci, quod summam sapientiam sperabant capere suis
             insidiis. Quod illis patuit, quod tunc quisque uitauit, uiiet sacerdos, qui inhoc errore
             peior illis Iudeis extitit y.
@@ -122,10 +122,10 @@
             §. 3. Caueat spiritualis iudex, ut, sicut non conmisit crimen nequiciae, ita non
             careat munere scientiae. Oportet , ut sciat cognoscere quicquid debet iudicare. ludiciaria
             enim potestas hoc expostulat , ut quoddebet iudicare discernat. Diligens igitur inquisitor
-            ^ subtilisinuestigator sapienter et quasi astute interroget a peccatore quodforsitan
+             subtilisinuestigator sapienter et quasi astute interroget a peccatore quodforsitan
             ignoret uel uerecundia uelit occultare. Cognitoitaque crimine uarietates eius non dubitet
-            inuestigare, et locum, ettempus, et cetera, que supra diximus in exponenda ^
-            eorumqualitate. Quibus cognitis adsit beniuolus, paratus erigere^ , etsecum onus portare;
+            inuestigare, et locum, ettempus, et cetera, que supra diximus in exponenda 
+            eorumqualitate. Quibus cognitis adsit beniuolus, paratus erigere , etsecum onus portare;
             habeat dulcedinem in affectione, pietatem inalterius crimine, discretionem in uarietate;
             adiuuet confiientemorando,elemosinas faciendo ; et cetera bona™pro eo faciendo;semper eum
             iuuet leniendo, consolando, spem promittendo, et,cum opus fuerit, etiam increpando. Doceat
@@ -137,7 +137,7 @@
             auctoritate. Inuenitur auctoritas, que concedit et quasi inperat; inuenitur alia™,
             queminime concedit, sed uetat; que scripturae non repugnant, sedconcordant, si tempus et
             locus, et modus penitenciae pacemadhibeant. Cum enim tot sunt qui labuntur, ut
-            pristinamdignitatem ex auctoritate defendant, et quasi usum^peccandisibi faciant,
+            pristinamdignitatem ex auctoritate defendant, et quasi usumpeccandisibi faciant,
             recidenda est spes ista. Si uero locus est, ubi istanon concurrant , restitui possunt qui
             peccant. Itaque pontifexiustus atque discretus non cogitur suos sacerdotes semper
             abicere,nec mox restituere, nisi statutum fuerit a Romano Ponti fice.

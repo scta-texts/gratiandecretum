@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -124,7 +124,7 @@
             Nullum episcopum audere debere ex alia prouincia ad aliam
             transitum facere, et ordinare aliquos in ecclesiis aut proferre ad sacrum ministerium.
             Nec ab aliis illuc tranatur episcopus, nisi forte per litteras rogatus abierit non solum a
-            metropolitano, sed ab ^ his, qui cum eo sunt, omnibus ipsius prouinciae episcopis. Quod
+            metropolitano, sed ab  his, qui cum eo sunt, omnibus ipsius prouinciae episcopis. Quod
             si nullo inuitante inordinate superueniat, et aliquos uel ordinare presumpserit, uel
             quoslibet illi ecclesiae conpetentes, qui ad se minime pertinent, usurpare temptauerit,
             uacua quidem et inania erunt omnia, que gesserit, ipse uero huius indisciplinati ausus et
@@ -154,7 +154,7 @@
             Item ex <ref xml:id="gd-p2c9q2-Rd1e207">Sinodo Constantinopolitana [I., c. 2.]</ref> 
             Episcopi, qui extra diocesim sunt, ad ecclesias, que extra
             terminos eorum sunt, non accedant, neque confundant 
-            et permisceant ecclesias. Secundum* regulas constitutas
+            et permisceant ecclesias. Secundum regulas constitutas
             Alexandriae quidem episcopi ea, que sunt in Egipto, tantum gubernent; orientis autem
             episcopi solius orientis curam gerant, seruatis honoribus primatus ecclesiae Antiocenae,
             qui in regulis Nicenae sinodi continentur. Sed et Asianae diocesis episcopi ea, que sunt
@@ -176,7 +176,7 @@
           <head xml:id="gd-p2c9q2-Hd1e22z">Dictum</head>
           <p xml:id="gd-p2c9q2-d1e237">His auctoritatibus prohibentur quilibet
             episcopi clericos alterius ordinare. Sed queritur, si contingateos aliquibus sacros
-            ordines distribuere, an ordinati ab episcopis suis in propriis ordinibus recipi possint^. </p>
+            ordines distribuere, an ordinati ab episcopis suis in propriis ordinibus recipi possint. </p>
           <p xml:id="gd-p2c9q2-d1e241"> De his ita scribit Urbanus Papa Hugoni, Lugdunensi
             Archiepiscopo : </p>
         </div>

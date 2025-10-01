@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -89,7 +89,7 @@
         <div xml:id="gd-p1d74-Dd1e162">
           <head xml:id="gd-p1d74-Hd1e164">Caput 4</head>
           <head xml:id="gd-p1d74-Hd1e167" type="question-title">Item de eodem.</head>
-          <p xml:id="gd-p1d74-d1e170">Placuit, ut quicumque clerici uel diaconi pro necessitatibus* ecclesiasticarum^ rerum
+          <p xml:id="gd-p1d74-d1e170">Placuit, ut quicumque clerici uel diaconi pro necessitatibus ecclesiasticarum rerum
             non obtemperauerint episcopis suis, uolentibus eos ad honorem ampliorem in ecclesia sua
             promouere, nec illic ministrent in gradu suo,unde recedere noluerunt.</p>
         </div>
@@ -101,7 +101,7 @@
             Episcoporum etiam, quorum uita non reprehenditur, posteriorem priori nullus preponat,
             nisi forte superbia elatus quod pro necessitate ecclesiae episcopus iusserit in-plere contempnat.</p>
           <p xml:id="gd-p1d74-d1e192"> §. i. Sane si offitium archidiaconatus proptersimpliciorem naturam inplere
-            aut expedire nequiuerit, illeloci sui teneat nomen et ordinationem* ecclesiae,
+            aut expedire nequiuerit, illeloci sui teneat nomen et ordinationem ecclesiae,
             quem elegerit episcopus preponendum.</p>
         </div>
         <div xml:id="gd-p1d74-Dd1e196">

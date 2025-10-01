@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -183,7 +183,7 @@
             Dominus, creatoromnium que sunt et auctor. Dominus et rector cum Patre et Spiritu sancto
             omnium creaturarum; qui passus sit pro salute nostra uera camis passione, mortuus uera
             corporis sui morte, resurrexit uera carnis suae receptione et uera animae resumptione, in
-            qua ueniat ^ iudicare uiuos et mortuos. 
+            qua ueniat  iudicare uiuos et mortuos. 
           </p>
           <p xml:id="gd-p1d23-d1e166">
             §. 1. Querendum est etiam ab eo, si noui et
@@ -274,7 +274,7 @@
                 operibus suis canonicis regulis contradicat, atque ut debitum per omnia honorem atque
                 obsequii reuerentiam preminenti sibi unusquisque dependat, iuxta illud Papae
                 Leonisedictum: ,,Qui se scit aliquibus esse prepositum, non moleste ferat aliquem sibi
-                esse prelatum, sed obedientiam, quam exigit, etiam ipse dependat.^ Pena tamen iuxta
+                esse prelatum, sed obedientiam, quam exigit, etiam ipse dependat. Pena tamen iuxta
                 ecclesiasticae consuetudinis morem et placitis talium inferenda, et ab his, qui
                 transgressores fuerint, persoluenda est.
               </quote>
@@ -400,7 +400,7 @@
           <head xml:id="gd-p1d23-Hd1e39x">Dictum</head>
           <p xml:id="gd-p1d23-d1e401">
             Item queritur, an eorum
-            ordinatio sit rata habenda, quibus episcopus, oculorum languore impeditus^* manus,
+            ordinatio sit rata habenda, quibus episcopus, oculorum languore impeditus manus,
             imponit, et presbiter super eos orationem dicit.</p>
           <p xml:id="gd-p1d23-d1e317">De his ita statutum est in Concilio Tollet ano:</p>
         </div>
@@ -552,7 +552,7 @@
         </div>
         <div xml:id="gd-p1d23-Dd1e554">
           <head xml:id="gd-p1d23-Hd1e556">Caput 31</head>
-          <head xml:id="gd-p1d23-Hd1e559" type="question-title">Cuilibet ex lectoribus uasa sacra portare^* non licet.</head>
+          <head xml:id="gd-p1d23-Hd1e559" type="question-title">Cuilibet ex lectoribus uasa sacra portare non licet.</head>
           <p xml:id="gd-p1d23-d1e565">
             Item ex <ref xml:id="gd-p1d23-Rd1e611">Concilio Bracarensi [c. io.]</ref>
             Non liceat cuilibet ex lectoribus sacra altaris uasa portare, nec aliis, nisi his, qui

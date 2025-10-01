@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,7 +57,7 @@
         <div xml:id="gd-p1d93-Dd1e100">
           <head xml:id="gd-p1d93-Hd1e102">Dictum</head>
           <p xml:id="gd-p1d93-d1e109">
-            Obedientiam autem inferiores ex ordine^- superioribus debent. Summo enim
+            Obedientiam autem inferiores ex ordine- superioribus debent. Summo enim
           Pontifici ea debetur ab omnibus obedientia, ut nulli liceat ei communicare, cui pro
           actibus suis ipse inimicus extiterit, nec in ecclesia esse poterit, qui eius
           cathedram deserit.
@@ -67,7 +67,7 @@
         </div>
         <div xml:id="gd-p1d93-Dd1e115">
           <head xml:id="gd-p1d93-Hd1e117">Caput 1</head>
-          <head xml:id="gd-p1d93-Hd1e120" type="question-title">Cui pro actibus prauis^ Apostolicus inimicatur, communicare
+          <head xml:id="gd-p1d93-Hd1e120" type="question-title">Cui pro actibus prauis Apostolicus inimicatur, communicare
             non debemus.</head>
           <p xml:id="gd-p1d93-d1e123">
             Si inimicus est iste Clemens alicui pro actibus suis, et uos nolite expectare, ut ispse
@@ -87,7 +87,7 @@
         </div>
         <div xml:id="gd-p1d93-Dd1e128">
           <head xml:id="gd-p1d93-Hd1e130">Caput 2</head>
-          <head xml:id="gd-p1d93-Hd1e133" type="question-title">A nullo debet suscipi, quem Romana repellit^
+          <head xml:id="gd-p1d93-Hd1e133" type="question-title">A nullo debet suscipi, quem Romana repellit
             ecclesia.</head>
           <p xml:id="gd-p1d93-d1e139">
             Item <ref xml:id="gd-p1d93-Rd1e133">Gregorius [1. V. epist. 26.]</ref>
@@ -218,7 +218,7 @@
         </div>
         <div xml:id="gd-p1d93-Dd1e286">
           <head xml:id="gd-p1d93-Hd1e288">Dictum</head>
-          <p xml:id="gd-p1d93-d1e292">Ut ex premissis auctoritatibus^apparet, diaconi debent obedientiam
+          <p xml:id="gd-p1d93-d1e292">Ut ex premissis auctoritatibusapparet, diaconi debent obedientiam
             presbiteris, sicut et presbiteri episcopis. Sed diaconi superbientes sacerdotibus
             ex-equari°, uel potius preferri querebant, contra quorum insolentiam multorum
             auctoritates manauerunt, eorum supercilium reprimentes, atque ut sacerdotibus condignam
@@ -248,7 +248,7 @@
             Peruenit ad sanctum concilium, quod in locis quibusdam et ciuitatibus presbiteris
             sacramenta diaconi porrigant. Hoc neque regula, neque consuetudo tradidit, ut hi, qui
             offerendi sacrificii non habent potestatem, his, qui offerunt, corpusChristi porrigant.
-            Sed et illud innotuit, quod quidam diacones etiam ante episcopos sacramenta sumant**.Hec
+            Sed et illud innotuit, quod quidam diacones etiam ante episcopos sacramenta sumant.Hec
             ergo omnia amputentur, et in sua diaconi mensura permaneant, scientes, quod episcoporum
             quidem ministri sunt, inferiores autem presbiteris habeantur. Per ordinem ergo post
             presbiteros gratiam sacrae communionis accipiant, aut episcopo, aut presbitero porrigente
@@ -279,7 +279,7 @@
           <head xml:id="gd-p1d93-Hd1e362" type="question-title">Sicut episcopis, ita et presbiteris diaconi
             ministrent.</head>
           <p xml:id="gd-p1d93-d1e368">
-            Item ex <ref xml:id="gd-p1d93-Rd1e364">Concilio Cartaginensi [IV.] cui Papa Zosimus interfuit per uicarios *, [c. 37.]</ref>
+            Item ex <ref xml:id="gd-p1d93-Rd1e364">Concilio Cartaginensi [IV.] cui Papa Zosimus interfuit per uicarios , [c. 37.]</ref>
             Diaconi ita se presbiteri, sicut episcopi ministros esse cognoscant.
           </p>
         </div>
@@ -329,7 +329,7 @@
             presumpsisset, quod quia hactenus nulli per totam Siciliam licuit, nisi solis tantummodo
             diaconibus Messanensis ecclesiae, quibus olim a predecessoribus nostris non
             dubitatur esse concessum, bene recolitis. Quia ergo tantae temeritatis ausus leuiter non
-            est attendendus, cum omni hoc fraternitas uestra subtilitate perquirat*, ut an per
+            est attendendus, cum omni hoc fraternitas uestra subtilitate perquirat, ut an per
             ses,uel alicuius hoc auctoritate presumpserit, nobis subtiliter innotescat. Nam si
             negligenter ea, que male usurpantur, omittimus, excessus uiam aliis aperimus.</p>
         </div>
@@ -519,7 +519,7 @@
           <p xml:id="gd-p1d93-d1e491">
             Hoc autem, quod de diaconorum minoritate dicitur, ubique seruandum
             est, nisi cum diaconus habuerit locum aut proprii patriarchae, aut sui
-            metropolitani^.</p>
+            metropolitani.</p>
           <p xml:id="gd-p1d93-d1e495">Unde in VI. Sinodo, [c. 7.] legitur;</p>
         </div>
         <div xml:id="gd-p1d93-Dd1e499">

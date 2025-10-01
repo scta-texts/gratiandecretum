@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -101,7 +101,7 @@
         <div xml:id="gd-p2c16q2-Dd1e122">
           <head xml:id="gd-p2c16q2-Hd1e124">Dictum</head>
           <p xml:id="gd-p2c16q2-d1e120">Hac auctoritate monachis conceditur
-            inuestitura suarum ecclesiarum . Sed uidetur contraire Urbanus Papa II., dicens*: </p>
+            inuestitura suarum ecclesiarum . Sed uidetur contraire Urbanus Papa II., dicens: </p>
         </div>
         <div xml:id="gd-p2c16q2-Dd1e130">
           <head xml:id="gd-p2c16q2-Hd1e132">Caput 2</head>
@@ -171,7 +171,7 @@
             Ecce Urbanus Papa prohibet inuestituras
             parrochialium ecclesiarum per monachos fieri, quas Iohannes Papa eis concessit. Sed
             illud Iohannis Papae intelligendurn est de illiscapellis , que cum omni iure suo ab
-            episcopis monachis conceduntur. Istud autem Urbani intelligendurn est^ de illis ,
+            episcopis monachis conceduntur. Istud autem Urbani intelligendurn est de illis ,
             quasabbates in propriis prediis edificant in uillis uel in castellis suis. 
           </p>
         </div>
@@ -181,7 +181,7 @@
           <p xml:id="gd-p2c16q2-d1e195"> Tales , etsi ius territorii habeant , tamen potestatem
             gubernandi populum , et spiritualia ministrandi non habent. Quod etiam de episcopo
             intelligendurn est. </p>
-          <p xml:id="gd-p2c16q2-d1e198"> Unde Nicolaus Papa ait *: </p>
+          <p xml:id="gd-p2c16q2-d1e198"> Unde Nicolaus Papa ait : </p>
         </div>
         <div xml:id="gd-p2c16q2-Dd1e225">
           <head xml:id="gd-p2c16q2-Hd1e227">Caput 8</head>
@@ -201,7 +201,7 @@
           <head xml:id="gd-p2c16q2-Hd1e240" type="question-title">Basilicae nouiter conditae ad episcopum
             pertinent , cuius conuentus constiterit esse. </head>
           <p xml:id="gd-p2c16q2-d1e214"> 
-            Item ex <ref xml:id="gd-p2c16q2-Rd1e245">Concilio Tollet ano IV., [c. 34.] S*.</ref>
+            Item ex <ref xml:id="gd-p2c16q2-Rd1e245">Concilio Tollet ano IV., [c. 34.] S.</ref>
             Possessio territorii conuentum non adimit ideoque nouae
             basilicae, que conditae fuerint, ad eum proculdubio pertinebunt episcopum, cuius
             conuentus esse constiterit. </p>

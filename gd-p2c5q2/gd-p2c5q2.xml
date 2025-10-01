@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -69,7 +69,7 @@
           <p xml:id="gd-p2c5q2-d1e120">
             Vocatio ad sinodum iuxta decreta Patrum canonica eius, qui
             inpetitur, rationabilibus scriptis per spatium debetfieri congruum atque canonicum,
-            quia, ni^i canonice uocatusfuerit suo tempore et canonica ordinatione, licet uenerit
+            quia, nii canonice uocatusfuerit suo tempore et canonica ordinatione, licet uenerit
             adconuentum quacumque necessitate, nisi sponte uoluerit, nullatenus suis respondebit
             insidiatoribus.
           </p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -107,7 +107,7 @@
           <p xml:id="gd-p2c2q5-d1e160">Verum his auctoritatibus non omnimoda
             iuramenta prohibentur fieri a sacerdotibus, sed tantum in - cauta et ea, que pro
             qualibet causa temporali iudicio offeruntur.Cum autem populari infamia sacerdotes
-            obprimmtur, tunc adinnocentiae suae assertionem iuramenta debent offerre ^. </p>
+            obprimmtur, tunc adinnocentiae suae assertionem iuramenta debent offerre . </p>
           <p xml:id="gd-p2c2q5-d1e164"> Unde Gregorius Papa ait [III. ad Bonifacium, ep. I.: </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e168">
@@ -215,7 +215,7 @@
             consuluimus . Itaque circumstantium fratrum unanimi assensutuae dilectioni referimus,
             prefatum Gillandum presbiterum ante te representandum, ubi, si certi
             accusatoresdefuerint, tunc dictante iusticia sine omni controuersia pres-»biter
-            quecumque ob hoc iniuste amisit ac sacerdotium accipiat et integra beneficia*, </p>
+            quecumque ob hoc iniuste amisit ac sacerdotium accipiat et integra beneficia, </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e271">
           <head xml:id="gd-p2c2q5-Hd1e273">Caput 12</head>
@@ -236,8 +236,8 @@
             Presbiter si a plebe sibi commissa mala opinione infamatus
             fuerit, et episcopus legitimis testibus adprobare non potuerit, suspendatur usque ad
             dignam satisfactionem, ne populus fidelium in eo scandalum patiatur. Digna
-            uero satisfactio est (sicut a maioribus constitutum* esse docetur), quando siue secundum
-            canones, siue ad arbitrium episcopi septem sibi collegas adiungit, et iurat in sacro**
+            uero satisfactio est (sicut a maioribus constitutum esse docetur), quando siue secundum
+            canones, siue ad arbitrium episcopi septem sibi collegas adiungit, et iurat in sacro
             euangelio coram posito, quod crimen sibi illatum non perpetrauit. Et hac satisfactione
             purgatus securedeinceps suum exequatur offitium. </p>
         </div>
@@ -326,7 +326,7 @@
             cumetiam decreto Leonis in arbitrio ponitur episcopi , quotamanu sacerdos se purgare
             debeat , patet , quod ad purgationem cogendus est , nec in sua uoluntate , sed in
             arbitrio iudicis consistit. </p>
-          <p xml:id="gd-p2c2q5-d1e392"> Item Leo Papa scribens ad Karolum Regem ait*, </p>
+          <p xml:id="gd-p2c2q5-d1e392"> Item Leo Papa scribens ad Karolum Regem ait, </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e356">
           <head xml:id="gd-p2c2q5-Hd1e379">Caput 19</head>
@@ -359,7 +359,7 @@
               reliquis suis consacerdotibus, siue bonis etiustis de suo populo uel de sua plebe
               hominibus fuerit, nein crimine aut predicta suspicione remaneat, cum tribus, aut
               quinque, uel septem bonis ac uicinis sacerdotibus, exemplo Leonis Papae (qui
-              duodecim*** episcopos insua purgatione habuit) uel eo amplius, si suo episcopo uisum
+              duodecim episcopos insua purgatione habuit) uel eo amplius, si suo episcopo uisum
               fuerit, aut necesse esse propter tumultum populi perspexerit, et cum aliis bonis et
               iustis hominibus sesacramento coram populo super quatuor euangelia dato purgatum
               ecclesiae reddat. Si quis autem scire desiderat, quales testes ad accusationem
@@ -370,7 +370,7 @@
           <head xml:id="gd-p2c2q5-Hd1e390">Dictum</head>
             <p xml:id="gd-p2c2q5-d1e361">Iuramento uero candentis ferri uel
               ferventis aquae purgatio non est addenda </p>
-            <p xml:id="gd-p2c2q5-d1e364"> Unde Stephanus V. Luiberto * Maguntino Episc.*: </p>
+            <p xml:id="gd-p2c2q5-d1e364"> Unde Stephanus V. Luiberto  Maguntino Episc.: </p>
           </div>
           <div xml:id="gd-p2c2q5-Dd1e368">
             <head xml:id="gd-p2c2q5-Hd1e370">Caput 20</head>
@@ -426,7 +426,7 @@
             utprius pugillum sacrificii tollat de eo, quod offertur ei incendatsuper altare, et sic
             potum det mulieri aquas amarissimas. Quascum biberit, si polluta est et contempto uiro
             adulterii rea, per-transibunt eam aquae maledictionis, et inflato uenire conpu-trescet
-            femur, eritque mulier in maledictionem et in exemplumomni populo. Maritus t/ero** absque
+            femur, eritque mulier in maledictionem et in exemplumomni populo. Maritus t/ero absque
             culpa erit, et illa recipiet iniquitatem suam. Quod si polluta non fuerit, innoxia
             eritet faciet liber os. </p>
         </div>
@@ -458,7 +458,7 @@
             monachi iudicio se expurgent. </head>
           <p xml:id="gd-p2c2q5-d1e448"> Sepe contingit, ut in monasteriis monachorum furta
             perpetrentur C Idcirco statuimus, ut quando ipsi fratresde talibus expurgare se debeant,
-            missa ab abbate celebretur uel ab aliquo ex &amp; presentibus fratribus, et sic expleta*
+            missa ab abbate celebretur uel ab aliquo ex &amp; presentibus fratribus, et sic expleta
             missa omnes communicent in hec uerba: Corpus Domini sit tibi ad probationem hodie. </p>
         </div>
         <div xml:id="gd-p2c2q5-Dd1e452">
@@ -468,7 +468,7 @@
           <p xml:id="gd-p2c2q5-d1e463"> 
             Item <ref xml:id="gd-p2c2q5-Rd1e483">[in Salegustadiensi Concilio, c. 7.]</ref>
             Interrogatum est, si duo de adulterio inculpati fuerint, et
-            unus profitetur, et alter negat, quid inde agendum sit. * Decretum est a sancto
+            unus profitetur, et alter negat, quid inde agendum sit.  Decretum est a sancto
             concilio, ut ille, qui negauerit, probabili se iudicio expurget, et qui professusfuerit
             dignam penitentiam agat. </p>
         </div>
@@ -490,7 +490,7 @@
           <p xml:id="gd-p2c2q5-d1e493"> 
             Item <ref xml:id="gd-p2c2q5-Rd1e512">[in Concilio Wormaciensi, c. 10.]</ref>
             Si episcopo aut presbitero aliquod maleficium inputatum
-            fuerit, in singulis missam celebrare*debet, et communicare, et de singulis sibi
+            fuerit, in singulis missam celebraredebet, et communicare, et de singulis sibi
             inputatis innocentem se ostendere. Quod si non fecerit, quinquennioa liminibus ecclesiae
             extraneus habeatur. </p>
         </div>

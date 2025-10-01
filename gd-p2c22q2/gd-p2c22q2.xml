@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,7 +57,7 @@
         <div xml:id="gd-p2c22q2-Dd1e106">
           <head xml:id="gd-p2c22q2-Hd1e108">Dictum</head>
           <p xml:id="gd-p2c22q2-d1e109">Quod autem periurium sit falsum iurare,
-            facileprobatur. Ait enim Augustinus in libro Psalmorum super:, , Domini est terra “ *: </p>
+            facileprobatur. Ait enim Augustinus in libro Psalmorum super:, , Domini est terra “ : </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e115">
           <head xml:id="gd-p2c22q2-Hd1e114">Caput 1</head>
@@ -112,15 +112,15 @@
           <p xml:id="gd-p2c22q2-d1e164"> Homines falsum iurant, uel cum fallunt, uel cum falluntur.
             Putat homo uerum esse quod falsum est, ettemere iurat; aut scit uel putat falsum esse,
             et tamen prouero iurat, et nichilominus cum scelere iurat. Distant autemista periuria,
-            que duo conmemoraui. Fac illum* iurare, qui uerum putat esse pro quo iurat; uerum putat
+            que duo conmemoraui. Fac illum iurare, qui uerum putat esse pro quo iurat; uerum putat
             esse, ettamen falsum est; non ex animo iste periuerat, fallitur:hoc pro uero habet, quod
             falsum est, non pro re falsasciens iurationem interponit. Da alium. Scit falsumesse, et
             dicit uerum esse, et iurat tamquam uerum sit quodscit falsum esse. Videtis, quam ista
             detestanda sit belua, etde rebus humanis exterminanda? Quis enim fieri uelit?Omnes
             homines detestantur talia. Fac alium. Putat esse falsum, et iurat tamquam uerum sit.
             Forte uerum est.Verbi gratia (ut intelligatis) pluit in illo loco; interrogashominem, et
-            dicit s pluisse , et ad negocium ipsius *conpetit, ut dicat, pluit, sed putat non
-            pluisse**: per-iurus est. Interest, quemadmodum uerbum procedat exanimo. Ream linguam
+            dicit s pluisse , et ad negocium ipsius conpetit, ut dicat, pluit, sed putat non
+            pluisse: per-iurus est. Interest, quemadmodum uerbum procedat exanimo. Ream linguam
             non facit nisi rea mens. </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e173">
@@ -155,7 +155,7 @@
             quam dixerit peccatum non esse.
           </p>
           <p xml:id="gd-p2c22q2-d1e199">
-            Et infra * [c. 18.]:§. 3. Nemo mentiens iudicandus est
+            Et infra  [c. 18.]:§. 3. Nemo mentiens iudicandus est
             qui dicit falsum quodputat uerum, quia, quantum in ipso est, non fallit ipse, sed
             fallitur. Non itaque mendacii, sed aliquando temeritatisarguendus est qui falsa
             incautius credit ac pro uerishabet, pociusque e contrario, quantum in ipso est, ille
@@ -173,7 +173,7 @@
           <p xml:id="gd-p2c22q2-d1e197"> 
             Item <name xml:id="gd-p2c22q2-Nd1e213">Gelasius Papa.</name> 
             Beatus Paulus apostolus non ideo (quod absit) fefellisse
-            credendus est aut sibi extitisse contrarius, quoniam, cumad Ispanias^ se promisisset
+            credendus est aut sibi extitisse contrarius, quoniam, cumad Ispanias se promisisset
             iturum, dispositione diuinamaioribus occupatus ex causis inplere non potuit quod
             promisit. Quantum enim ipsius uoluntatis interfuit, hocpronunciauit, quod reuera
             uoluisset efficere. Quantum enimad diuini secreta consilii, (que, ut homo, omnia non
@@ -244,7 +244,7 @@
             corporalem. Quartum, sola mentiendi fallendique libidine, quod mirum mendacium est.
             Quintum, quod fit placendi cupiditate desuaui eloquios. His omnibus penitus euitatis
             atque reiectis, sequitur sextum genus, quod et nulli obest, et prodest alicui, uelut si
-            quispiam pecuniam alicuius iniuste*tollendam, sciens ubi sit, nescire se mentiatur**.
+            quispiam pecuniam alicuius iniustetollendam, sciens ubi sit, nescire se mentiatur.
             Septimum, quod et nulli obest, et prodest alicui, uelut si nolens hominem ad mortem
             quesitum prodere, mentiatur. Octauum genus est mendacii, quod et nulli obest, et adhoc
             prodest, ut ab inmunditia corporali aliquem tueatur.
@@ -260,7 +260,7 @@
             est mentiendum sexto genere, neque enim recte testimonii ueritas pro cuiusque temporali
             commodo acsalute corrumpitur; ad sempiternam uero salutem nullus ducendus est opitulante
             mendacia. Neque septimo genere mentiendum est, non enim cuiusque commoditas aut salus
-            temporalis perficiendae fidei preferenda est, nec se quisquam*** in recte factis nostris
+            temporalis perficiendae fidei preferenda est, nec se quisquam in recte factis nostris
             tam malemoueri sentiat, ut fiat etiam animo deiectior longequea pietate remotior. Nec y
             octauo genere mentiendum est, quia et in bonis castitas animi pudicitiae + corporis
             prefertur, et in malis, quod ipsi facimus, eo, quod fieri sinimus, nobis dampnabilius
@@ -287,7 +287,7 @@
           <head xml:id="gd-p2c22q2-Hd1e281">Caput 10</head>
           <head xml:id="gd-p2c22q2-Hd1e284" type="question-title">De eodem</head>
           <p xml:id="gd-p2c22q2-d1e287"> 
-            Item <ref xml:id="gd-p2c22q2-Rd1e307">Gregorius [lib. XXVI. Moralium, c. 2.]</ref> Incaute sunt*
+            Item <ref xml:id="gd-p2c22q2-Rd1e307">Gregorius [lib. XXVI. Moralium, c. 2.]</ref> Incaute sunt
             humiles qui mendacio se illaqueant. </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e291">
@@ -323,7 +323,7 @@
             Item <ref xml:id="gd-p2c22q2-Rd1e359">Augustinus in libro de conflictu uiciorum atque
             uirtutum , [c. 19.] </ref>
             Nec artificioso mendacio, nec simplici uerbo oportet
-            quemquam decipere, quia quomodo libet * mentitur quis, occidit animam. </p>
+            quemquam decipere, quia quomodo libet  mentitur quis, occidit animam. </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e333">
           <head xml:id="gd-p2c22q2-Hd1e335">Caput 14</head>
@@ -367,7 +367,7 @@
             Faciat homo etiam pro
             temporali salute hominum quod potest. Cum autem ad hoc uentum fuerit, ut talisaluti nisi
             peccando consulere non possit, iam se existimet non habere quid faciat, quando id
-            reliquum esse prospexerit, quod recte* faciet.
+            reliquum esse prospexerit, quod recte faciet.
           </p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e364">
@@ -485,7 +485,7 @@
             obsecro te, quod soror mea sis, ut bene sit michi propter te, et uiuetis anima mea ob
             gratiam tui Sed Abraham non mendacium dici, sed uerum taceri uoluit.
           </p>
-          <p xml:id="gd-p2c22q2-d1e459"> Unde idem Augustinus ait in question. Genes.  [quest. 26.]*:</p>
+          <p xml:id="gd-p2c22q2-d1e459"> Unde idem Augustinus ait in question. Genes.  [quest. 26.]:</p>
         </div>
         <div xml:id="gd-p2c22q2-Dd1e467">
           <head xml:id="gd-p2c22q2-Hd1e469">Caput 22</head>
@@ -529,7 +529,7 @@
           <p xml:id="gd-p2c22q2-d1e564">
             §. 2. Episcopus uero iste, de quo agitur , etsi falsum iurauit, tamen quia , ut supra
             dictum est, ream linguam non facit nisi rea mens, nequaquam reus periurii
-            habetur. Probatur etiam hoc exemplo S aulis, qui, cum esset in castris^ spugnaturus
+            habetur. Probatur etiam hoc exemplo S aulis, qui, cum esset in castris spugnaturus
             contra Philisteos, iurauit se interfecturum quicumqueante solis occasum comederet.
             Ionathas autem filius eius non audito regis iuramento, cum pugnando magnam hostium
             stragem dedisset, et salutem fecisset in Israel, fame laborans uidit fauummellis, quem
@@ -538,7 +538,7 @@
             eum dare neci; sed precibus et pia populi supplicatione
             placatus mortis reuocauit sententiam, ne interficeretur ille, per quem salus data erat
             in Israel, et quo pugnante de manibus hostium populus ille liberatus fuerat. Ecce Saul
-            falsum iurauit, quia quod iurando se facturum decreuit precibus populi prouocatus ^non
+            falsum iurauit, quia quod iurando se facturum decreuit precibus populi prouocatus non
             fecit. Nec tamen periurii reus arguitur, quia quantum in ipso fuit, quod iurauit
             inpleuit, dum sententiam mortis in filium dedit, quam non carnali affectu, sed populi
             supplicatione reuocauit. </p>

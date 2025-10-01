@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,10 +57,10 @@
         <div xml:id="gd-p2c30q2-Dd1e100">
           <head xml:id="gd-p2c30q2-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c30q2-d1e109"> Sponsalia ante septennium contrahi non possunt. Solo enim
-          consensu contrahuntur, qui inter uenire non potest, nisi abalterutra * parte id
+          consensu contrahuntur, qui inter uenire non potest, nisi abalterutra  parte id
           intelligatur, quod inter eos agitur. Pror bantur ergo sponsalia non posse contrahi inter
           pueros, quorumetatis infirmitas consensum non admittit . Testatur hoc idemNy Ico laus Papa
-          dicens *: </p>
+          dicens : </p>
         </div>
         <div xml:id="gd-p2c30q2-Dd1e112">
           <head xml:id="gd-p2c30q2-Hd1e114">Caput 1</head>
@@ -68,7 +68,7 @@
             coniugium contrahi non potest.</head>
           <p xml:id="gd-p2c30q2-d1e120"> Ubi non est consensus utriusque, non est coniugium. Ergo
             qui pueris dant puellas in cunabulis, et e conuerso, nichil faciunt, nisi uterque
-            puerorum post, quam veneritad tempus discretionis, consentiat**, etiamsi pater etmater
+            puerorum post, quam veneritad tempus discretionis, consentiat, etiamsi pater etmater
             hoc fecerint et uoluerint. </p>
         </div>
       </div>

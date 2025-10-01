@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +66,7 @@
             aliena ecclesia clericus non ordinetur.</head>
           <p xml:id="gd-p2c21q2-d1e120"> 
             Quoniam diuersarum ecclesiaram clerici suas, in quibus
-            ordinati sunt, ecclesias relinquentes, ad alios concurrunt episcopos, et ignorante*
+            ordinati sunt, ecclesias relinquentes, ad alios concurrunt episcopos, et ignorante
             proprio episcopo in alienis constituuntur ecclesiis, ubi contingit eos sine sui
             examinationepermanere, precipimus amodo, ut nullus omnino clericorum, in quocumque gradu
             sit, licentiam habeat sine dimissoriis litteris sui episcopi in altera constitui
@@ -98,7 +98,7 @@
         <div xml:id="gd-p2c21q2-Dd1e147">
           <head xml:id="gd-p2c21q2-Hd1e149">Caput 3</head>
           <head xml:id="gd-p2c21q2-Hd1e152" type="question-title"> Nichil commune habeat cum priori
-            qui ab%* una m aliam transfertur</head>
+            qui ab% una m aliam transfertur</head>
           <p xml:id="gd-p2c21q2-d1e155">Si quis iam translatus est ab una ecclesia 
             in aliam, nichil habeat commune cum priori siue sub f
             ecclesia constitutis martiribus &amp;, siue in ptochiis xenodochiis, aut eorum negociis.
@@ -107,7 +107,7 @@
         </div>
         <div xml:id="gd-p2c21q2-Dd1e161">
           <head xml:id="gd-p2c21q2-Hd1e163">Dictum</head>
-          <p xml:id="gd-p2c21q2-d1e161">Sed aliud est tranferri, atque^k aliud propria
+          <p xml:id="gd-p2c21q2-d1e161">Sed aliud est tranferri, atquek aliud propria
             temeritate transire. Illud apostolica auctoritate fieri licet, hocuero omnibus modis
             prohibetur. </p>
           <p xml:id="gd-p2c21q2-d1e165">§. i. Sicut autem duabus ecclesiis

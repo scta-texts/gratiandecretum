@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -83,7 +83,7 @@
               <quote xml:id="gd-p1d37-Qd1e151">
                 Sacerdotes Dei omissis euangeliis et prophetiis uidemus comedias legere, amatoria
                 bucolicorum uersuum uerba cantare, tenere Virgilium, et id, quod in pueris est causa
-                necessitatis^ crimen in se facere uoluptatis.
+                necessitatis crimen in se facere uoluptatis.
               </quote>
             </cit>
           </p>
@@ -166,7 +166,7 @@
         <div xml:id="gd-p1d37-Dd1e188">
           <head xml:id="gd-p1d37-Hd1e190">Caput 6</head>
           <p xml:id="gd-p1d37-d1e196">
-            Item ex responsione <ref xml:id="gd-p1d37-Rd1e252">Adriani* Papae ad Carolum, cap. 49.</ref>
+            Item ex responsione <ref xml:id="gd-p1d37-Rd1e252">Adriani Papae ad Carolum, cap. 49.</ref>
             <cit>
               <quote xml:id="gd-p1d37-Qd1e257">
                 Omnem uim uenenorum suorum in dialectica disputatione 
@@ -221,7 +221,7 @@
           </p>
           <p xml:id="gd-p1d37-d1e305">
             §. 5.
-            Denique, w* in expositione Psalterii Cassiodorus testatur, omnis splendor rethoricae
+            Denique, w in expositione Psalterii Cassiodorus testatur, omnis splendor rethoricae
             eloquentiae, omnes modi poeticae locutionis, quelibet uarietas decorae pronuntiationis a
             diuinis scripturis sumpsit exordium.
           </p>
@@ -231,10 +231,10 @@
             auctor, w, hunc nouit, nichil ultra querat, quia hic est perfecta uirtus et sapientia;
             quicquid alibi queritur, hic perfecte in-uenitur. In Daniele et Salomone ostendit
             infidelibus esse se auctorem totius sapientiae. Quod infideles non putant, non legunt in
-            euangeliis et prophetis astrologiam, e*s a&amp;a huiusmodi, que despecta stm*, quia^
-            nichil ualent ad salutem, sed mittunt in errorem, e*, dim fas student, curam animae non
+            euangeliis et prophetis astrologiam, es a&amp;a huiusmodi, que despecta stm, quia
+            nichil ualent ad salutem, sed mittunt in errorem, e, dim fas student, curam animae non
             habent. Qui uero Christum nouit, thesaurum sapientiae et scientiae inuenit, quia id
-            nouit, ^wod utile est.
+            nouit, wod utile est.
           </p>
           <p xml:id="gd-p1d37-d1e221">Hinc etiam <ref xml:id="gd-p1d37-Rd1e313"><name xml:id="gd-p1d37-Nd1e308">Beda</name> ait in [lib. II.J Regum, [c. 9. in Samuelis allegoricis
             expositionibus]</ref>:</p>
@@ -261,7 +261,7 @@
           <p xml:id="gd-p1d37-d1e236">Cur ergo legi prohibentur, que tam rationabiliter legenda probantur
             ? Sed seculares litteras quidam legunt ad uoluptatem, poetarum figmentis et uerborum
             ornatu delectati; quidam uero ad eruditionem eas addiscunt, ut errores gentilium legendo
-            detestentur, et utilia, que in eis inuenerint, ad usum sacrae eruditionis deuote^
+            detestentur, et utilia, que in eis inuenerint, ad usum sacrae eruditionis deuote
             inuertantas. Tales laudabiliter seculares litteras addiscunt. Unde B. Gregorius quen-dam
             episcopum non reprehendit, quia eas didicerat, sed quia contra episcopale offitium pro
             lectione euangelica grammaticam populo exponebat.
@@ -406,7 +406,6 @@
           <head xml:id="gd-p1d37-Hd1e331" type="question-title">Quare prohibetur Christianus poetica figmenta legere.</head>
           <p xml:id="gd-p1d37-d1e337">
             Item <ref xml:id="gd-p1d37-Rd1e506">Ysidorus in lib. [III.] Sententiarum, [de summo i bono, cap. 13.]</ref>
-            IV. Pars. 
             <cit>
               <quote xml:id="gd-p1d37-Qd1e511">
                 Ideo prohibetur Christianus legere figmenta poetarum, quia per oblectamenta

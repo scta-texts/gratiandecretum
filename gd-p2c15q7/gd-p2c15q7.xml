@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +62,7 @@
         </div>
         <div xml:id="gd-p2c15q7-Dd1e109">
           <head xml:id="gd-p2c15q7-Hd1e111">Caput 1</head>
-          <head xml:id="gd-p2c15q7-Hd1e114" type="question-title"> Sine concilii examine* presbiter
+          <head xml:id="gd-p2c15q7-Hd1e114" type="question-title"> Sine concilii examine presbiter
             uel diaconus non deiciatur.</head>
           <p xml:id="gd-p2c15q7-d1e117"> Sexta actione conperimus, Fragitanum Cordubensis ecclesiae
             presbiterum iniuste olim a pontifice suo deiectum, et innocentem exilio condempnatum.

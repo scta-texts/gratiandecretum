@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -72,7 +72,7 @@
           <head xml:id="gd-p2c31q1-Hd1e129" type="question-title"> Licet alicui ducere in
             matrimonium quam prius polluit per adulterium .</head>
           <p xml:id="gd-p2c31q1-d1e132"> Denique mortuo eo, cum quo fuit uerum conubium fieri potest
-            coniugium*, cum qua precessit adulterium. </p>
+            coniugium, cum qua precessit adulterium. </p>
           <p xml:id="gd-p2c31q1-d1e135"> <ref xml:id="gd-p2c31q1-Rd1e136">Item in libro de bono coniugali, [c. 14.]:</ref> §. 1. Posse sane
             fieri licitas nuptias ex personis licite coniunctis, honesto placito subsequente s,
             manifestum est. </p>
@@ -152,7 +152,7 @@
           <p xml:id="gd-p2c31q1-d1e219"> 
             Item ex <ref xml:id="gd-p2c31q1-Rd1e223">Concilio Elibertano, [c. 72.]</ref> 
             Si qua fuerit uidua mechata, et postea eundem habuerit
-            maritum, post quinquennii tempus acta legitima penitencia placuit eam ad conmunionem*
+            maritum, post quinquennii tempus acta legitima penitencia placuit eam ad conmunionem
             reconciliari. </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e228">
@@ -173,13 +173,13 @@
           <p xml:id="gd-p2c31q1-d1e235">
             §. 1. Sed est alia ratio , qua uxor defuncti huic nubere non
             possit.Generaliter enim prohibentur uiri et mulieres frequenter matrimonina contrahere.
-            Unde in conubio^ nuptiarum secundarumpresbiteri interesse non debent, sicut in
+            Unde in conubio nuptiarum secundarumpresbiteri interesse non debent, sicut in
             Neocesariensi Concilio [c. 3. et 7.] legitur ; </p>
         </div>
         <div xml:id="gd-p2c31q1-Dd1e226">
           <head xml:id="gd-p2c31q1-Hd1e228">Caput 8</head>
           <head xml:id="gd-p2c31q1-Hd1e231" type="question-title"> Fides et conuersatio penitenciam
-            adbreuieU* eorum, qui frequenter ducunt uxores. </head>
+            adbreuieU eorum, qui frequenter ducunt uxores. </head>
           <p xml:id="gd-p2c31q1-d1e234"> De his, qui frequenter uxores ducunt, et de his, quisepius
             nubunt, tempus quidem his manifestum constitutum est, sed conuersatio et fides eorum
             tempus adbre-uiat. 

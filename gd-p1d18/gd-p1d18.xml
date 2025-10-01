@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -133,7 +133,7 @@
             Peruenit ad nostras aures, jquod in prouinciis constituta episcoporum concilia minime
             celebrentur. Hoc ex eo probatur, quod multae, que correctione opus habent,
             ecclesiasticae res negligantur. Statuit ergo hec sancta sinodus, secundum Patrum regulas
-            bis in anno in unum conuenire per singulas prouincias episcopos, ubi singula**, que
+            bis in anno in unum conuenire per singulas prouincias episcopos, ubi singula, que
             emerserint, corrigantur. 
           </p>
           <p xml:id="gd-p1d18-d1e192">
@@ -234,7 +234,7 @@
         </div>
         <div xml:id="gd-p1d18-Dd1e307">
           <head xml:id="gd-p1d18-Hd1e309">Caput 14</head>
-          <head xml:id="gd-p1d18-Hd1e312" type="question-title">Communione^ priuetur episcopus, qui a metropolitano uocatus ad
+          <head xml:id="gd-p1d18-Hd1e312" type="question-title">Communione priuetur episcopus, qui a metropolitano uocatus ad
             sinodum uenire contempnit.</head>
           <p xml:id="gd-p1d18-d1e318">
             Item ex <ref xml:id="gd-p1d18-Rd1e305">Concilio Tarragonensi, [cap. 6.]</ref>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -120,7 +120,7 @@
             uxorem, quam putat liberam esse. </head>
           <p xml:id="gd-p2c29q2-d1e176"> 
             Si quis ingenuus homo ancillam uxorem alterius acceperit,
-            et existimat, quod ingenua sit, si ipsa femina fuerit postea in seruitute detecta**, si
+            et existimat, quod ingenua sit, si ipsa femina fuerit postea in seruitute detecta, si
             eam a seruituteredimere potest, faciat; si non potest, si uoluerit, aliam accipiat. Si
             autem ancillam eam scierat etcollaudauerat, post ut legitimam habeat. Similiteret
             mulier ingenua de seruo alterius facere debet. 
@@ -139,7 +139,7 @@
         <div xml:id="gd-p2c29q2-Dd1e195">
           <head xml:id="gd-p2c29q2-Hd1e197">Caput 6</head>
           <head xml:id="gd-p2c29q2-Hd1e200" type="question-title"> Seruitutis occasione dimitti non
-            ualet que post con - trouersiam status se in libertatem asseuerauerit*. </head>
+            ualet que post con - trouersiam status se in libertatem asseuerauerit. </head>
           <p xml:id="gd-p2c29q2-d1e206"> 
             Item <ref xml:id="gd-p2c29q2-Rd1e198">Gregorius [lib. VI. epist. i. ad Fortunatum Episcopum].</ref> 
             Cuius rei causa cum matre sua huc conpulsa anno preterito

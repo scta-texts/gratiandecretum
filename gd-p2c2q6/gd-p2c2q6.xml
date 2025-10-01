@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -205,7 +205,7 @@
             quisub specie ouium subintrauerunt, bestiali seuicia quosque audeant lacerare, et quod
             sibi fieri nolunt aliis inferre presumant. </p>
           <p xml:id="gd-p2c2q6-d1e280"> Item cwra Vigilius Papa [in epistola ad Eleutherium, c.
-            ult.] dicat *. </p>
+            ult.] dicat . </p>
         </div>
         <div xml:id="gd-p2c2q6-Dd1e284">
           <head xml:id="gd-p2c2q6-Hd1e286">Caput 12</head>
@@ -245,7 +245,7 @@
           <p xml:id="gd-p2c2q6-d1e310">
             Et infra: §. 2. Hec quippe nosin Rothardo idcirco noueris operatos, ut
             priuilegiasedis apostolicae, que male a uobis uiolata esse uide-bantur, auctoritate
-            apostolica et canonica* Patrumdeliberatione [pristino tandem ingenio s et proprio
+            apostolica et canonica Patrumdeliberatione [pristino tandem ingenio s et proprio
             decorentur honore. </p>
         </div>
         <div xml:id="gd-p2c2q6-Dd1e311">
@@ -304,9 +304,9 @@
           <head xml:id="gd-p2c2q6-Hd1e381">Dictum</head>
           <p xml:id="gd-p2c2q6-d1e375">
             Obpressi et se pregrauari putantes intelliguntur
-            ante datam sententiam, iniuste dampnati^* post datam^. 
+            ante datam sententiam, iniuste dampnati post datam. 
           </p>
-          <p xml:id="gd-p2c2q6-d1e379"> Unde Euticianus urbis Romae^* Episcopus scribit omnibus^
+          <p xml:id="gd-p2c2q6-d1e379"> Unde Euticianus urbis Romae Episcopus scribit omnibus
             Episcopis, [epist. II. c. 1.]: </p>
         </div>
         <div xml:id="gd-p2c2q6-Dd1e383">
@@ -331,7 +331,7 @@
         <div xml:id="gd-p2c2q6-Dd1e401">
           <head xml:id="gd-p2c2q6-Hd1e403">Caput 19</head>
           <head xml:id="gd-p2c2q6-Hd1e406" type="question-title"> Excommunicetur, qui iudicibus suis
-            obtemperare noluerit*.</head>
+            obtemperare noluerit.</head>
           <p xml:id="gd-p2c2q6-d1e409"> Quisquis probatus fuerit pro contumacia nolle obtemperare
             iudicibus, cum hoc primae sedis episcopo fuerit probatum, det litteras, ut nullus ei
             communicet episcoporum, donec obtemperet. </p>
@@ -419,7 +419,7 @@
         </div>
         <div xml:id="gd-p2c2q6-Dd1e508">
           <head xml:id="gd-p2c2q6-Hd1e510">Caput 27</head>
-          <head xml:id="gd-p2c2q6-Hd1e513" type="question-title"> Iniuste appellans omnimodo*
+          <head xml:id="gd-p2c2q6-Hd1e513" type="question-title"> Iniuste appellans omnimodo
             puniendus est.</head>
           <p xml:id="gd-p2c2q6-d1e516"> Item <ref xml:id="gd-p2c2q6-Rd1e547">[ibidem, tit. XXXVII. c. i.]</ref> 
             Omnimodo puniendus est,
@@ -546,7 +546,7 @@
           </p>
           <p xml:id="gd-p2c2q6-d1e597">
             §. 6. Si quis ipsius quidem, a quo appel-lauit, adeundi facultatem
-            non habuit % ut ei libellosdaret**, eius autem, quem appellauit, habeat copiam,
+            non habuit % ut ei libellosdaret, eius autem, quem appellauit, habeat copiam,
             uidendum, an ei prescribi possit quod eum nonadierit. Et hoc iure utimur, ut, si
             alterius adeundi copia fuit, prescriptio locum habeat. 
           </p>
@@ -563,7 +563,7 @@
           </p>
           <p xml:id="gd-p2c2q6-d1e603">
             §. 9. Si quidemy in insulam deportandum an-notauerit preses
-            prouinciae, et inperator rescripserit***ut deportetur, uideamus quando sit prouocandum,
+            prouinciae, et inperator rescripseritut deportetur, uideamus quando sit prouocandum,
             utrumcum inperator rescripserit, an cum ei scribitur?Et putem, tunc appellandum esse,
             cum recipi eumpreses iubet+. Ceterum uerendum est, ne sero sit, uttunc prouocetur, cum
             inperator insulam ei assignauerit;conprobata enim sententia presidis tunc solet
@@ -584,7 +584,7 @@
           <head xml:id="gd-p2c2q6-Hd1e613" type="question-title">De appellationibus recipiendis uel non.</head> 
           <p xml:id="gd-p2c2q6-d1e561">Non solent audiri appellantes, nisi hi, quorum
             interest, uel quibus mandatum est, uel qui negotiumgerunt alienum, quod mox reus ratum
-            haberet. Sedet si mater *, ex pietate prouocauerit, dicendumest et hanc audiri debere,
+            haberet. Sedet si mater , ex pietate prouocauerit, dicendumest et hanc audiri debere,
             et si litem preparandam curaremaluerit, intercedere non uidetur, licet ab initio
             defendere non potest. 
           </p>
@@ -621,7 +621,7 @@
             utrumsit differenda pena eius, an non, queritur. Et si quidemgrauiora sunt crimina, ob
             que appellatio interpositaest, leuius autem id, propter quod non appellauit,
             recipiendaest omnino appellatio, et differenda pena. Si uero gra-uiorem sententiam
-            meruit ex ea specie, ex qua non est appellatum, omnino * pena inponenda est. </p>
+            meruit ex ea specie, ex qua non est appellatum, omnino  pena inponenda est. </p>
         </div>
         <div xml:id="gd-p2c2q6-Dd1e643">
           <head xml:id="gd-p2c2q6-Hd1e645">Dictum</head>
@@ -636,7 +636,7 @@
             §. 1. Si uero post datam sententiam appellare
             uoluerit, hic erit ei modus appellandi:„Ego A. sanctae Reginae ecclesiae minister licet
             indignus contrasententiam domini Gualterii sanctae Rau. ecclesiae archiepiscopi iniuste
-            in me latam pridie Kal. Magi A. incarnationisDomini MCV . * feria P quarta, Romanam
+            in me latam pridie Kal. Magi A. incarnationisDomini MCV .  feria P quarta, Romanam
             sedem appello, et apostolos peto. 
           </p>
           <p xml:id="gd-p2c2q6-d1e652">
@@ -704,7 +704,7 @@
         <div xml:id="gd-p2c2q6-Dd1e735">
           <head xml:id="gd-p2c2q6-Hd1e73x">Dictum</head>
           <p xml:id="gd-p2c2q6-d1e65x">Nisi forte Romanam sedem appellauerint. jautem,
-            qui appellauit^*, ad eum, a quo appellauit, remitti nondebet. </p>
+            qui appellauit, ad eum, a quo appellauit, remitti nondebet. </p>
           <p xml:id="gd-p2c2q6-d1e656"> Unde in Sardicensi Concilio, [c. 7.]: </p>
         </div>
         <div xml:id="gd-p2c2q6-Dd1e746">
@@ -725,7 +725,7 @@
         <div xml:id="gd-p2c2q6-Dd1e754">
           <head xml:id="gd-p2c2q6-Hd1e756">Dictum</head>
           <p xml:id="gd-p2c2q6-d1e665">Arbitrarii tantum sunt qui nullam legitimam
-            potestatem acceperunt, a quibus appellari non licet, quia eis inpu-tandum est qui* tales
+            potestatem acceperunt, a quibus appellari non licet, quia eis inpu-tandum est qui tales
             elegerunt. Si uero sententia eorum, a quibus appellatur, soluta /um' tt, nichil oberit
             eis, nisi forteuel inimicitia uel pecunia deprauati iniustam probantur tulisse
             sententiam. </p>
@@ -825,14 +825,14 @@
           <p xml:id="gd-p2c2q6-d1e760">Si uero is, qui appellauit, penitentia ductus ab
             appellatione desistere uoluerit, non prohibetur, sicut in 7. libr .Codicis, tit. de
             appellationibus et consultationibus P, [ 1 . 28.] Inpp. Arcadius et Honorius statuisse
-            leguntur: , , Si quislibellos * appellatorios ingesserit, sciat se habere licentiam
+            leguntur: , , Si quislibellos  appellatorios ingesserit, sciat se habere licentiam
             arbitrium conmutandi et suos libellos recuperandi, ne iusiae peni-tudinis humanitas
             amputetur .“
           </p>
           <p xml:id="gd-p2c2q6-d1e876">
             §. 1. Est autem quando appellationem interponi necesse non est. In eodem namque libro, et
             eod . tit. [ 1 . 27.] idem Inpp. decreuerunt: „ Nominationes i libellis uel edictis
-            factae , citra concilium publicum non ua-lent a quibus nec appellare necesse est*. 
+            factae , citra concilium publicum non ua-lent a quibus nec appellare necesse est. 
           </p>
           <p xml:id="gd-p2c2q6-d1e766">
             §. 2. Diffinitiua quoque sententia, que
@@ -864,14 +864,14 @@
             appellandinecessitas esse, cum sententia iure non teneati y. 
           </p>
           <p xml:id="gd-p2c2q6-d1e892">
-            §. 8. Itern ^ cum certa
+            §. 8. Itern  cum certa
             ratione et fine mulctare iudices possunt, sialiter contra legis statutum modum mulctam
             irrogauerint, quodcontra ius gestum uidetur firmitatem non tenet, et sine
             appellationepotest rescindi. 
           </p>
           <p xml:id="gd-p2c2q6-d1e894">
             §. 9. Venales quoque sententias , que in mer-cede a
-            corruptis iudicibus proferuntur, et ^ citra interpositae prouocationis auxilium infirmas
+            corruptis iudicibus proferuntur, et  citra interpositae prouocationis auxilium infirmas
             esse decretum est. 
           </p>
           <p xml:id="gd-p2c2q6-d1e897">
@@ -917,7 +917,7 @@
             defuncti testamento scripta reseretur uel ne hii, quos scriptos patueritheredes, in
             possessionem mittantur, et is, cuius de ea re notio erit, appellationem receperit , et
             iudex, qui tam ignaue 56 Sdd conniuentiam adhibuerit , et litigator, qui tam inportune
-            ap-pellauerit°, uiginti libris argenti mulctetur^. 
+            ap-pellauerit°, uiginti libris argenti mulctetur. 
           </p>
           <p xml:id="gd-p2c2q6-d1e914">
             §. 18. De possessione etiam et eius

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,8 +60,8 @@
           scribit dicens ; </p>
         <div xml:id="gd-p2c14q3-Dd1e109">
           <head xml:id="gd-p2c14q3-Hd1e111">Caput 1</head>
-          <head xml:id="gd-p2c14q3-Hd1e114" type="question-title"> Qui plus quam dederit expetit^,
-            usuras accipit^ . </head>
+          <head xml:id="gd-p2c14q3-Hd1e114" type="question-title"> Qui plus quam dederit expetit,
+            usuras accipit . </head>
           <p xml:id="gd-p2c14q3-d1e117"> Si feneraueris hominem , id est si tu mutuum g dederis
             pecuniam tuam, a quo plus quam dedisti expectes, non pecuniam solam, sed aliquid plus
             quam dedisti, siue illud triticum sit, siue uinum, siue oleum, siue quodlibet aliud, si
@@ -94,7 +94,7 @@
           </p>
           <p xml:id="gd-p2c14q3-d1e144">
             Item: §. 1. Esca usura est, et uestis usura est, et
-            quodcumque sorti accidit usura est; et quodcumque^ uelis ei nomeninponas, usura est.
+            quodcumque sorti accidit usura est; et quodcumque uelis ei nomeninponas, usura est.
             litem : 
           </p>
           <p xml:id="gd-p2c14q3-d1e146">

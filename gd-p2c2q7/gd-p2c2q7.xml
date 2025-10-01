@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -159,7 +159,7 @@
             maiores.</head>
           <p xml:id="gd-p2c2q7-d1e246"> Clericus aduersus exorcistam, exorcista aduersus acoli-tum,
             acolitus aduersus subdiaconum, subdiaconus aduersus diaconum, diaconus aduersus
-            presbiterum, presbiter aduersus episcopum accusationem dare aut testimoniumferre* non
+            presbiterum, presbiter aduersus episcopum accusationem dare aut testimoniumferre non
             ualet, </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e251">
@@ -221,7 +221,7 @@
           <p xml:id="gd-p2c2q7-d1e328">
             §. i. Nullus enim(ut reor) inuenitur inter nos, qui uelit seruum
             suum ab alioquam a se iudicari. Quod si presumptum fuerit, aut multaindignatione ipse
-            irascitur, aut potius uindictam* queritsuper eum. 
+            irascitur, aut potius uindictam queritsuper eum. 
           </p>
           <p xml:id="gd-p2c2q7-d1e330">
             §. 2. Unde et Dominus ait per
@@ -250,7 +250,7 @@
         <div xml:id="gd-p2c2q7-Dd1e323">
           <head xml:id="gd-p2c2q7-Hd1e325">Caput 16</head>
           <head xml:id="gd-p2c2q7-Hd1e328" type="question-title">Communione priuetur, qui primati
-            ?* aduersus episcopum conqueritur prius , quam eum familiariter conuenerit.</head>
+            ? aduersus episcopum conqueritur prius , quam eum familiariter conuenerit.</head>
           <p xml:id="gd-p2c2q7-d1e331">
             Item <ref xml:id="gd-p2c2q7-Rd1e348">Alexander , [epist. I. c. 3.]</ref> 
             Si quis erga episcopum uel
@@ -347,13 +347,13 @@
             . Ceterum si afide exorbitauerit , tanta est labes illius criminis, quod ad
             eius accusationem et serui aduersus dominum, et quilibet criminosiet infames aduersus
             quemlibet admittuntur. </p>
-          <p xml:id="gd-p2c2q7-d1e427"> Unde Dionisius Papa [ad S eu erum Episcopum, epist. II.]*
+          <p xml:id="gd-p2c2q7-d1e427"> Unde Dionisius Papa [ad S eu erum Episcopum, epist. II.]
           </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e432">
           <head xml:id="gd-p2c2q7-Hd1e434">Caput 23</head>
           <head xml:id="gd-p2c2q7-Hd1e437" type="question-title">Infames hereticos accusare non
-            possunt*.</head>
+            possunt.</head>
           <p xml:id="gd-p2c2q7-d1e440"> Alieni erroris socium, uel a sui uoluntarie propositi
             tramite recedentem, aut sacris Patrum regulis et constitutionibus non obedientem
             suscipere non possumus nec debemus, nec inpetere recte credentes uel sanctorum Patrum
@@ -476,7 +476,7 @@
             archae significeturcasus Prelatorum. Aliud est enim inclinari uel descendere, aliud
             cadere. Legitur enim quod saluator noster se inclinauerit, sicut quando digito scribebat
             in terra; et de montibus frequenterdescenderit, in quos ascendebat, ut uel pernoctaret
-            in oratione , uelut discipulos in monte altiora doceret precepta, uel ut ^ turbas
+            in oratione , uelut discipulos in monte altiora doceret precepta, uel ut  turbas
             fugiens ex altitudine montis eas respicere et libere posset docere , Inclinatio uel
             descensio humilitatem significat, qua spiritualesnonnumquam carnalibus condescendunt, et
             eorum infirmitaticonpatiuntur , iuxta illud Apostoli ; Quis infirmatur, et egonon
@@ -507,7 +507,7 @@
             §. 4. Item per Saulem
             prelati intelligantur, et per Dauid subditi. Saul purgans uentrem eos significat, qui
             malitiam corde conceptam foras in opus producunt. Sed in precisione clamidis non
-            significatur ** reprehensiopeccati. Per clamidem enim regni potestas intelligitur.
+            significatur  reprehensiopeccati. Per clamidem enim regni potestas intelligitur.
             Hancprecidit, qui prelatum sententia dampnationis ferit, quod nulli subditorum licet.
             Facta enim pastoris oris gladio, id est sententia dampnationis, a subditis ferienda non
             sunt. Hinc est , quod Ieronimus ait super Marcum de pontifice, qui scidit uestimenta sua.
@@ -546,7 +546,7 @@
             regula in eo est obseruanda, cum culpa seniorissuo exemplo non trahit ad interitum corda
             iuniorum. Ubiautem senior iuuenibus exemplum ad interitum prebet, ibidistricta
             increpatione feriendus est. Nam scriptum est:„ Laqueus iuuenum omnes uos/ et rursus
-            „Maledictus puer* centum annorum/ </p>
+            „Maledictus puer centum annorum/ </p>
 
         </div>
         <div xml:id="gd-p2c2q7-Dd1e530">
@@ -597,12 +597,12 @@
             clerici a laicis merito redarguantur, qui iure conparantur prophetae, qui uerbis
             asinaecontra naturam loquentis corripitur, nec tamen a propositopraui itineris
             retardatur. Quibus etiam aptissime nomencongruit ciuitatis, de qua Balaam uenisse
-            perhibetur. Bosornamque carneus siue in tribulatione * interpretatur. Nequeenim alia
+            perhibetur. Bosornamque carneus siue in tribulatione  interpretatur. Nequeenim alia
             magis causa luxuriosis existit, uerbum ue-ritatis amore pecuniae uel desideriorum
             temporaliumadulterare, quam quia carnis se concupiscentiismanciparunt. Sed et nomen
             ipsius Balaam, quiuanus populus, siue precipitans eos, interpretatur, talibusconuenit.
             Qui enim agnitam uiam ueritatis sponte deserunt?, quid nisi uanus populus sunt? Quid
-            etiam q, in* precipitium suos mergunt auditores, quibus non
+            etiam q, in precipitium suos mergunt auditores, quibus non
             salutaria, que corrigant, sed que illos delectent erronea predicant? De quibus apte
             subditur; „Hii sunt fontes sineaqua, et nebulae turbinibus exagitatae, quibus
             caligotenebrarum reseruatur.“ </p>
@@ -629,7 +629,7 @@
         <div xml:id="gd-p2c2q7-Dd1e656">
           <head xml:id="gd-p2c2q7-Hd1e658">Dictum</head>
           <p xml:id="gd-p2c2q7-d1e597">Quibus ergo Ieronimus, Augustinus, Gregorius
-            auferunt nomen columbae, episcopi , senioris^, nonne etpriuilegium est auferendum
+            auferunt nomen columbae, episcopi , senioris, nonne etpriuilegium est auferendum
             dignitatis °, ut possint a subditis reprehendi ? Unde scriptura dissimulans priuilegium
             prauaesenectutis ait: , , Maledicius, non senior, sed , , puer centumannorumP Aparet
             ergo, quod e 7 Zi ex accusatione Prelatorum infames fiunt, qui eorum uitam reprehendere
@@ -637,7 +637,7 @@
             tenent. Alii autem potius laudabiles fiunt ex accusationePrelatorum suorum , quam
             infames. Item, quod dicitur: „ Maiorum quispiam minorum accusationibus non inpetatur,
             minoresnon intelligendi sunt dignitate, sed uita . </p>
-          <p xml:id="gd-p2c2q7-d1e600"> Unde Ieronimus ait de Paulo super epistolam ad Galatas *;
+          <p xml:id="gd-p2c2q7-d1e600"> Unde Ieronimus ait de Paulo super epistolam ad Galatas ;
           </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e604">
@@ -669,7 +669,7 @@
             Idem <ref xml:id="gd-p2c2q7-Rd1e711">lib. II. de unico baptismo [contra Donatistas, cap. i.]</ref>
             Puto, quod sine ulla sui contumelia Ciprianus episcopus
             Petro apostolo conparatur, quantum attinet ad martirii coronam. Ceterum magis uereri
-            debeo, ne in Petrum contume*liosus existam. Quis enim nescit illum principatum
+            debeo, ne in Petrum contumeliosus existam. Quis enim nescit illum principatum
             aposto-latus cuilibet episcopatui preferendum? Sed etiamsidistat cathedrarum gratia, una
             est tamen martirum gloria. Item : Cum Petrus a Paulo posteriore corrigitur, etpacis atque
             unitatis uinculo custodito ad martirium promouetur, quanto facilius et fortius quod per
@@ -750,7 +750,7 @@
             accusationepraelatorum uidebantur repellendi . Nunc demonstrandum est, quibus rationibus
             probentur recipiendi, et quid contra respondeatur a prelatis. Christus, qui erat pastor
             pastorum, ouibus suis, de quibus ait : , , Non sum missus, nisi ad oues, que perierunt,
-            domus Israel, etc.* inter obprobria et uerbera, que patiebaturab eis, ait: „Si male
+            domus Israel, etc. inter obprobria et uerbera, que patiebaturab eis, ait: „Si male
             locutus sum, testimonium perhibe demalo . Item : „Quis ex uobis arguet me de peccato tAt
             quicumque ad testificandum in aliquem uel ad arguendumadmittuntur, ad eundem accusandum
             admitti possunt. Cum ergooues, ut aduersus pastorem suum testimonium ferant, et ut
@@ -794,7 +794,7 @@
           </p>
           <p xml:id="gd-p2c2q7-d1e712">
             Sed huic oppositioni B. Gregorius respondit, dicens
-            [Theoctistae Patriciae, lib. IX. epist. 39-]*:
+            [Theoctistae Patriciae, lib. IX. epist. 39-]:
           </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e716">
@@ -811,7 +811,7 @@
           <head xml:id="gd-p2c2q7-Hd1e818">Dictum</head>
           <p xml:id="gd-p2c2q7-d1e727">Cum ergo Petrus potuit ex offitio repellere
             querelas, sed noluit, non hoc exemplo coguntur prelati suscipere reprehensionem
-            subditorum. Ex hac etiam humilitatis dispensatione intelligitur illud Leonis /F.*
+            subditorum. Ex hac etiam humilitatis dispensatione intelligitur illud Leonis /F.
             Lodowico Augusto:
           </p>
         </div>
@@ -826,7 +826,7 @@
             non ueritatis discipuli, sed (quod dolentesdicimus) erimus pre ceteris erroris magistri.
             Inde magnitudinis uestrae magnopere clementiam inploramus, ut talesad hec, que diximus,
             perquirenda missos in his partibusdirigatis, qui Deum per omnia timeant, et cuncta
-            ^quemadmodum si uestra presens fuisset inperialis gloria) ailigenterexquirant, et non
+            quemadmodum si uestra presens fuisset inperialis gloria) ailigenterexquirant, et non
             tantum hec sola, que superius diximus, querimus ut examussim exagitent, sed siue minora,
             siueetiam maiora illis sint de nobis indicata negotia, ita eorumcuncta legitimo
             terminentur examine, quatinus in posterumnichil sit, quod ex eis indiscussum uel
@@ -868,7 +868,7 @@
             ungebantur et eorum oblatione peccata regum expiabantur. 
           </p>
           <p xml:id="gd-p2c2q7-d1e850">
-            §. 4. Sicuti ergo Achaz^ a
+            §. 4. Sicuti ergo Achaz a
             Domino lepra percussusest , qui sacerdotum offiXia usurpare uoluit, sic sacerdotibus
             etprophetis regum offitia usurpare non licuit. Nathan ergo propheta, cum regem
             redarguit, suum executus est offitium, in quoerat rege superior, non usurpauit regis
@@ -877,7 +877,7 @@
           </p>
           <p xml:id="gd-p2c2q7-d1e852">
             §. 5. Sic
-            et B. Ambrosius^* inper at oremus ex-communicauit, et ab ecclesiae ingressu prohibuit.
+            et B. Ambrosius inper at oremus ex-communicauit, et ab ecclesiae ingressu prohibuit.
           </p>
           <p xml:id="gd-p2c2q7-d1e854">
             §. 6. Sicutenim non sine causa iudex gladium portat, ita non sine causaclaues ecclesiae
@@ -895,7 +895,7 @@
             §. 8. His ita respondetur. Miracula
             (e£ maximeueteris testamenti ) sunt admiranda, non in exemplum nostraeactionis trahenda.
             Multa enim tunc concedebantur, que nuncpenitus prohibentur. Tunc enim Samuel Agag
-            pinguissimum regem Amalech in frustra^ conscidit; nunc nulli ecclesiasticorumiudicium
+            pinguissimum regem Amalech in frustra conscidit; nunc nulli ecclesiasticorumiudicium
             sanguinis agitare licet. Tunc Finees Iudeum coeuntem cum Madianita interfecit, et
             reputatum est ei m iustitiam;hodie sacerdotibus in perniciem sui uerteretur offitii.
             Exemploergo Danielis non solum accusandi uel redarguendi, sed etiamiudicandi potestatem
@@ -916,9 +916,9 @@
             §. 10. Item Simacus Papa, in Romana Sinodo dignitate sua expoliatus , prius
             statui pristino reddi decernitur, ut tunc ueniret ad causam, et si ita recte
             uideretur, accusantium propositionibusresponderet. Digna res uisa est maximo numero
-            sacerdotum, atque^ mereretur effectum, e/ cum postmodum ordinaretur, quomodo esset
+            sacerdotum, atque mereretur effectum, e/ cum postmodum ordinaretur, quomodo esset
             accusandus, prefatus Papa, ut causam diceret, occurrebat; sed ab emulis esP inpeditus. </p>
-          <p xml:id="gd-p2c2q7-d1e752"> Item Gregorius Papa * ait de se ipso: </p>
+          <p xml:id="gd-p2c2q7-d1e752"> Item Gregorius Papa  ait de se ipso: </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e756">
           <head xml:id="gd-p2c2q7-Hd1e758">Caput 42</head>
@@ -940,10 +940,10 @@
           <head xml:id="gd-p2c2q7-Hd1e891">Caput 43</head>
           <p xml:id="gd-p2c2q7-d1e774"> 
             <ref xml:id="gd-p2c2q7-Rd1e895">Item.</ref>
-            Paulus Deaclinae^sb ciuitatis episcopus accusatur a subditis
+            Paulus Deaclinaesb ciuitatis episcopus accusatur a subditis
             de lapsu carnis, conuincitur, deponitur, alter loco eius substituitur. Poc an ex
             dispensatione accusati, an ea; rigoreiuris sit factum, ex registro Gregorii ad Iohannem
-            Episcopum [primae Iustinianeael cap. CCZF//., potest perpendi ubi ait *: </p>
+            Episcopum [primae Iustinianeael cap. CCZF//., potest perpendi ubi ait : </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e779">
           <head xml:id="gd-p2c2q7-Hd1e781">Caput 44</head>
@@ -968,9 +968,9 @@
           <p xml:id="gd-p2c2q7-d1e79x">Hoc dicto non in accusatores uel depositores
             ulciscitur, sed in depositum ulterius prosequitur, ut si ultra ad episcopatum aspirare
             temptauerit , modis omnibus repellatur, et ad agendam penitentiam perennem in monasterio
-            * detrudatur . Quem ergo Gregorius ad episcopatum aspirantem modis omnibus repellit, quem
+             detrudatur . Quem ergo Gregorius ad episcopatum aspirantem modis omnibus repellit, quem
             graui penitentiae subicit, patet, non sua dispensatione, sed canonum censura a subditis
-            accusatum^s et conuictum. Et ut iam non exemplis, sed legibus agamus,
+            accusatums et conuictum. Et ut iam non exemplis, sed legibus agamus,
             uidendum est, quid Gregorius scribat Innocentio et reliquis Episcopis Sardiniae, [lib.
             VII. Indict. 2. epist. 8.] ita dicens: </p>
         </div>
@@ -1010,7 +1010,7 @@
         <div xml:id="gd-p2c2q7-Dd1e948">
           <head xml:id="gd-p2c2q7-Hd1e950">Dictum</head>
           <p xml:id="gd-p2c2q7-d1e823">Hec si quis specialia, et e# his generalem regulam
-            colligi non oportere contendit, audiat, quid Gelasius c. WF//.* dicat, omnibus clericis
+            colligi non oportere contendit, audiat, quid Gelasius c. WF//. dicat, omnibus clericis
             cuiuscumque ordinis itascribens: </p>
         </div>
         <div xml:id="gd-p2c2q7-Dd1e827">
@@ -1091,7 +1091,7 @@
             eos testificari non possunt</head>
           <p xml:id="gd-p2c2q7-d1e933">
             Placuit eorum accusandi sacerdotes et testificandi in eos
-            uocem obstruere, quos non humanis* uocibus, sed diuinis mortuos esse scimus, quia
+            uocem obstruere, quos non humanis uocibus, sed diuinis mortuos esse scimus, quia
             funestam uocempotius interdici quam audiri oportet.
           </p>
           <p xml:id="gd-p2c2q7-d1e936">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -73,7 +73,7 @@
         </p>
         <p xml:id="gd-p2c29q1-d1e109">
           §. 2. Ad hec, non omnis error consensum euacuat; qui enimaccipit in uxorem
-          *, quam putat uirginem, uel qui accipit meretricem, quam putat esse castam, uterque errat
+          , quam putat uirginem, uel qui accipit meretricem, quam putat esse castam, uterque errat
           , quia ille corruptam existimat esse uirginem, et iste meretricem reputat castam . Numquid
           ergo dicendi sunt non consensisse in eas f autdabitur utrique facultas dimittendi
           utramque, et ducendi aliam ?Verum est, quod non omnis error consensum excludit; sed

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,12 +63,12 @@
           <head xml:id="gd-p1d31-Hd1e121">Caput I.</head>
           <head xml:id="gd-p1d31-Hd1e124" type="question-title">Qui castitatem non promisit, ab uxore sua separari non
             cogatur.</head>
-          <p xml:id="gd-p1d31-d1e127">Ante triennium omnium ecclesiarum subdiaconi Siciliae prohibiti fb&amp;^jJt, ut
+          <p xml:id="gd-p1d31-d1e127">Ante triennium omnium ecclesiarum subdiaconi Siciliae prohibiti fb&amp;jJt, ut
             more &amp;omanae ecclesiae $jjj£ uxoribus nullatenus misceantur. Quod mihi durum atque
             incom-petens uidetur, ut, qui usum continentiae non inuenit, neque castitatem promisit,
             compellatur a sua uxore separari, atque per hoc (quod absit) in deterius cadat. Inde
             uidetur mihi, ut a presenti die episcopis omnibus dicatur, ut nullum facere diaconum
-            presumant, nisi qui se uicturum caste promiserit,quatenus et preterita mala*,
+            presumant, nisi qui se uicturum caste promiserit,quatenus et preterita mala,
             queproposito &amp; mentis appetita non sunt, uiolenter non exigantur et futura caute
             caueantur. 
           </p>
@@ -152,7 +152,7 @@
         </div>
         <div xml:id="gd-p1d31-Dd1e219">
           <head xml:id="gd-p1d31-Hd1e221">Dictum</head>
-          <p xml:id="gd-p1d31-d1e224">Quod autem Manicheorum causa de coniugio* sacerdotum illud supra dictum sit,
+          <p xml:id="gd-p1d31-d1e224">Quod autem Manicheorum causa de coniugio sacerdotum illud supra dictum sit,
             ex Gangren si Concilio apparet, in quo [cap. i.] sic statutum legitur:</p>
         </div>
         <div xml:id="gd-p1d31-Dd1e228">
@@ -224,7 +224,7 @@
             duxerunt non dormirent. Surgens autem Pahfnucius confessor contradixit, honorabiles
             confessus nuptias, et castitatem dicens esse cum propria coniuge concubitum, suasitque
             concilio, ne talem ponerent legem, grauem esse asserens causam, que aut ipsis aut eoruin
-            iugalibus^ occasio fornicationis existeret. Et hoc quidem Pahfnucius (licet nuptiarum
+            iugalibus occasio fornicationis existeret. Et hoc quidem Pahfnucius (licet nuptiarum
             esset inexpertus) exposuit, sinodusque laudauit sententiam eius, et nichil ex hac parte
             sanciuit, sed hoc in uniuscuiusque uoluntate, non necessitate permisit.</p>
         </div>
@@ -272,7 +272,7 @@
           <head xml:id="gd-p1d31-Hd1e335" type="question-title">Occidentalis, non orientalis ecclesia castitatis obtulit
             uotum.</head>
           <p xml:id="gd-p1d31-d1e338">Aliter se habet orientalium ecclesiarum traditio, aliter huius sanctae Romanae
-            ecclesiae. Nam eorum sacerdotes, diaconi atque subdiaconi matrimonio* copulantur; istius
+            ecclesiae. Nam eorum sacerdotes, diaconi atque subdiaconi matrimonio copulantur; istius
             autem ecclesiae uel occidentalium nullus sacerdotum a subdiacono usque ad episcopum
             licentiam habet coniugium sortiendi.</p>
         </div>

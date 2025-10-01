@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +66,7 @@
             accedit et de laicis, anteacta eius uita examinetur.</head>
           <p xml:id="gd-p1d55-d1e123">
             Priscis igitur pro sua reuerentia manentibus institutis, (que, ubi nulla rerum uel
-            temporum perurget angustia, regulariter conuenit custodiri), quia eatenus ecclesiae*, uel
+            temporum perurget angustia, regulariter conuenit custodiri), quia eatenus ecclesiae, uel
             cunctis uel sufficientibus priuatae sunt ministeriis, ut plebibus ad se pertinentibus
             diuina munera subplere non ualeant, concedimus s, ut, si quis monasterialibus
             disciplinis eruditus ad clericale munus accedit, etiam de laicis, anteacta eius uita
@@ -77,7 +77,7 @@
         </div>
         <div xml:id="gd-p1d55-Dd1e128">
           <head xml:id="gd-p1d55-Hd1e130">Caput 2</head>
-          <head xml:id="gd-p1d55-Hd1e133" type="question-title">Annuae suspensioni subiaceat, qui preter canonum^ formam
+          <head xml:id="gd-p1d55-Hd1e133" type="question-title">Annuae suspensioni subiaceat, qui preter canonum formam
             aliquem ordinat.</head>
           <p xml:id="gd-p1d55-d1e139">
             Item ex <ref xml:id="gd-p1d55-Rd1e133">Concilio Areiatensi IV. [c. 3.]</ref> 
@@ -88,7 +88,7 @@
             inponere. Et ideo, quicumque abhac die contra ea, que superius conprehensa sunt,
             clericumordinare presumpserit, ab ea die, qua hoc ei potueritapprobari, anno integro
             missas cantare non presumat.Ouam rem si quis obseruare noluerit, et contra
-            constitutum fratrum faciens missas celebrare presumpserit, ecclesiae communione priuetur*,
+            constitutum fratrum faciens missas celebrare presumpserit, ecclesiae communione priuetur,
             et ab omnium fratrum communione se nouerit alienum, quia dignum est, ut seueri-tatem
             ecclesiasticae disciplinae sentiat, qui salubriter s asanctis Patribus instituta
             obseruare contempnit.</p>
@@ -151,7 +151,7 @@
           <p xml:id="gd-p1d55-d1e221">
             Si quis a medicis propter languorem desectus est aut
             a barbaris abscisus , hic in clero permaneat. Si quis autem se sanus abscidit, hunc in?
-            clero constitutum abstineri conueniet, et deinceps* nullum talium debere promoueri. Sicut
+            clero constitutum abstineri conueniet, et deinceps nullum talium debere promoueri. Sicut
             autem hoc claret, quod de his, qui hanc rem affectant audentque semet ipsos abscidere
             dictum sit, sic eos, quos aut barbari, aut domini castrauerunt, inueniuntur autem s
             alias dignissimi, tales ad clerum suscipit ecclesia.
@@ -201,7 +201,7 @@
             captum sinistrae manus digitum habere abscisum, sciscitaris, si ob hoc ad ecclesiasticum
             ordinem ualeat promoueri, an non. Quod et nos reperientes,quia sollertia tua, magis
             super hoc sollicita, a sede apostolica doceri flagitat, normam iusticiae semper sequi
-            desideramus^ studium tuae sanctitatis merito collaudamus,reuerentiam tuam scire
+            desideramus studium tuae sanctitatis merito collaudamus,reuerentiam tuam scire
             uolentes, quoniam si ita est, quod a Normannis digitum ipsum habeat abscisum, aa
             pro-mouendum (si alias dignus fuerit) nil ei nocebit, eo quodquid de his, qui a dominis,
             uel a medicis, siue a paganis non sponte tale quid patiuntur, sacri censeant canones,
@@ -229,7 +229,7 @@
             biennio potuissetabstergi. Et ideo, frater karrissime, supradicto locum
             suum dignitatemque restitue, quatenus sacrosancta misteria, sicut consueuit, exerceat. Nec
             enim conuenit ob hoc auferri ante susceptum ordinem, in quo postmodum in
-            inualitudine^corporis casu probatur faciente prolapsus.
+            inualitudinecorporis casu probatur faciente prolapsus.
           </p>
         </div>
         <div xml:id="gd-p1d55-Dd1e302">

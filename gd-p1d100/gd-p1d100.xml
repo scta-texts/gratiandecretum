@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -203,7 +203,7 @@
           <head xml:id="gd-p1d100-Hd1e269" type="question-title">De eodem</head>
           <p xml:id="gd-p1d100-d1e272">Rationis ordo omnino nos admonet, ut cum usu pallii aliqua largiri priuilegia debeamus.
             Sed quoniam cumhonoris augmento cura quoque sollicitudinis debet excrescere, ut cultui
-            uestium actionis quoque ornamenta conueniant, oportet, ut enixius in cunctis studiis uestra se fraternitas exerceat, et*
+            uestium actionis quoque ornamenta conueniant, oportet, ut enixius in cunctis studiis uestra se fraternitas exerceat, et
             circa subiectorum actus sit uigilans.
           </p>
         </div>

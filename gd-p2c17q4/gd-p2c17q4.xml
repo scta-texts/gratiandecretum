@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +68,7 @@
         </div>
         <div xml:id="gd-p2c17q4-Dd1e112">
           <head xml:id="gd-p2c17q4-Hd1e114">Caput 1</head>
-          <head xml:id="gd-p2c17q4-Hd1e117" type="question-title"> Honore priuetur^ qui de iure
+          <head xml:id="gd-p2c17q4-Hd1e117" type="question-title"> Honore priuetur qui de iure
             ecclesiae aliquid alienare presumit . </head>
           <p xml:id="gd-p2c17q4-d1e120">
             Quicumque episcoporum, presbiterorum, diaconorum oblitus
@@ -468,7 +468,7 @@
         <div xml:id="gd-p2c17q4-Dd1e402">
           <head xml:id="gd-p2c17q4-Hd1e404">Caput 22</head>
           <head xml:id="gd-p2c17q4-Hd1e407" type="question-title"> Nisi canonice indicatum episcopum
-            con-prehendens^ laicus, excommunicetur. </head>
+            con-prehendens laicus, excommunicetur. </head>
           <p xml:id="gd-p2c17q4-d1e413"> 
             Item <ref xml:id="gd-p2c17q4-Rd1e589">Alexander. 225 c.</ref> 
             <cit>
@@ -608,7 +608,7 @@
             accusabitur, et conuictus, siue confessus, capitali sententia a rectoribus prouinciae
             ferietur, sicut in primo libroCodicis legitur, titulo de episcopis et clericis e£ lege:
             „Si quisin hoc genus sacrilegii proruperit, et in Digestis titul. Ad legemIuliam
-            pecuniarum ^ repetundarum, l. ultima.
+            pecuniarum  repetundarum, l. ultima.
           </p>
           <p xml:id="gd-p2c17q4-d1e756">
             §. 1. Conmittunt etiam sacrilegium qui contra
@@ -616,7 +616,7 @@
             nesciendo committunt, aut negligendo uiolant et offendunt;
             aut qui de principali iudicio disputant, dubitantes, an is dignus sit, quemprinceps
             elegerit; uel qui intra prouinciam, in qua prouincialeset ciues habentur, offitium
-            gerendae ac suscipiendae amministrationis desiderant ^, lib. 9. Codicis titulo de
+            gerendae ac suscipiendae amministrationis desiderant , lib. 9. Codicis titulo de
             crimine sacrilegii.
           </p>
           <p xml:id="gd-p2c17q4-d1e759">
@@ -703,7 +703,7 @@
           <head xml:id="gd-p2c17q4-Hd1e565" type="question-title"> Securitate accepta ad rationem
             reddendam fugitiui ab ecclesia eawVe cogantur. </head>
           <p xml:id="gd-p2c17q4-d1e571">
-            Idem <ref xml:id="gd-p2c17q4-Rd1e864">I oh anni, Episcopo Vibonensi ^. </ref>
+            Idem <ref xml:id="gd-p2c17q4-Rd1e864">I oh anni, Episcopo Vibonensi . </ref>
             <cit>
               <quote xml:id="gd-p2c17q4-Qd1e869">
                 Uxor Felicis et filiae Romam, quia sic oportuit,
@@ -926,7 +926,7 @@
                 terram intra Scillacenum castrum, que in DC. pedes extenditur, sub pretextu fabricandae
                 ecclesiae fraternitati tuae donationis titulo concessisse. Ideo uolumus, quantum
                 parietes edificatae ecclesiae circumdare possunt, iuri ecclesiae uendicare. Quicquid
-                uero extra parietes eiusdem ecclesiae esse potuerit^ in iure monasteriisine difficultate
+                uero extra parietes eiusdem ecclesiae esse potuerit in iure monasteriisine difficultate
                 aliqua reuertatur, quia nec mundanarum legum, nec sacrorum canonum statuta permittunt res
                 monasterii ab eius iure quolibet titulo segregari. Eapropter donationem eiusdem terrae,
                 que contra rationem facta est, sine aliqua dilatione restitue.
@@ -982,7 +982,7 @@
                 querat alterum, qui suscipiat, non Augustinum: imo, Deo propitio, neminem inueniet. Quam
                 laudabile factum sancti Aurelii Cartaginensis episcopi? Quidam enim, cum filios non
                 haberet, nec speraret, res suas omnes (retento sibi usufructu) donauit ecclesiae. Nati
-                suntilli filii 485 f reddidit episcopus nec^ opinanti eaque ille donauerat. In potestate
+                suntilli filii 485 f reddidit episcopus nec opinanti eaque ille donauerat. In potestate
                 habebat episcopus non reddere, sed iure fori, non iure poli.
               </quote>
             </cit> 

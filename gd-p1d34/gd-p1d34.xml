@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -55,8 +55,8 @@
       <div xml:id="gd-p1d34">
         <head xml:id="gd-p1d34-Hd1e103">DISTINCTIO XXXIV.</head>
         <div xml:id="gd-p1d34-Dd1e100">
-          <head xml:id="gd-p1d34-Hd1e102">DIctum</head>
-        <p xml:id="gd-p1d34-d1e109">I. Pars. Domesticarum quoque personarum immoderatam familiaritatem episcopum uitare
+          <head xml:id="gd-p1d34-Hd1e102">Dictum</head>
+        <p xml:id="gd-p1d34-d1e109">Domesticarum quoque personarum immoderatam familiaritatem episcopum uitare
           oportet.</p>
         <p xml:id="gd-p1d34-d1e112">Unde Nicolaus Papa Adaluino Archiepiscopo:</p>
         </div>
@@ -103,7 +103,7 @@
         </div>
         <div xml:id="gd-p1d34-Dd1e145">
           <head xml:id="gd-p1d34-Hd1e148">Dictum</head>
-          <p xml:id="gd-p1d34-d1e158">II. Pars. Gratian. Concubina autem hic ea intelligitur, que cessantibus legalibus
+          <p xml:id="gd-p1d34-d1e158">Concubina autem hic ea intelligitur, que cessantibus legalibus
             instrumentis unita est, et coniugali affectu asciscitur; hanc coniugem facit affectus,
             concubinam uero lex nominat. De hac dicitur in Concilio Tollet ano [I. c. 17.] </p>
         </div>
@@ -127,10 +127,10 @@
           <head xml:id="gd-p1d34-Hd1e197" type="question-title">Ex dictis Augustini in lib. VIL homiliarum, hom. 49.4S.</head>
           <p xml:id="gd-p1d34-d1e200">
             Audite carissimi, membra Christi et matris catholicae ecclesiae filii! Quod dico
-            competentibus* et fidelibus, audiant penitentes. Quod dico fidelibus, dico et
+            competentibus et fidelibus, audiant penitentes. Quod dico fidelibus, dico et
             competentibus, et penitentibus. Audiant catecumini, audiant omnes, omnes timeant, nemo
             contempnat; sit mihi in consolationem uester auditus, ne uobis sit in testimonium dolor
-            meus. Competentibus dico, fornicari uobis non licet, sufficiant uobis uxores**; audiat
+            meus. Competentibus dico, fornicari uobis non licet, sufficiant uobis uxores; audiat
             Deus, si uos surdi estis, audiant angeli, si uos contempnitis. Concubinas uobis habere
             non licet; et si non habetis uxores, tamen non licebit uobis habere concubinas, quas
             postea dimittatis, et ducatis uxores, tanto magis dampnatio uobis erit, si uolueritis
@@ -179,7 +179,7 @@
             scribitur, propter spem futurae incontinentiae constitutum esse creditur, quia difficile
             continentiam seruat, qui se illicito concubitu maculare non metuit. Vel prohibetur
             ordinari, qui pellicem uel meretricem cognouerit maritali affectu, uel quia corrupta
-            florem virginitatis amise-rat^^, uel quia meretricari non desinit, licet in uxorem
+            florem virginitatis amise-rat, uel quia meretricari non desinit, licet in uxorem
             ducatur. Utrumque enim inpedimentum cuilibet prestat, quo minus ad sacros ordines
             pertingere ualeat.</p>
           <p xml:id="gd-p1d34-d1e239">Unde Ylarius Papa [in Sinodo Romana, cap. 2.] scribit, dicens:</p>
@@ -241,7 +241,7 @@
         <div xml:id="gd-p1d34-Dd1e311">
           <head xml:id="gd-p1d34-Hd1e313">Caput 13</head>
           <head xml:id="gd-p1d34-Hd1e316" type="question-title">
-            Qui ante baptisma, seu post baptisma uiduam uxorem duxerit®**,
+            Qui ante baptisma, seu post baptisma uiduam uxorem duxerit®,
             non admittatur ad clerum.
           </head>
           <p xml:id="gd-p1d34-d1e319">
@@ -252,7 +252,7 @@
               <quote xml:id="gd-p1d34-Qd1e322">
                 Si quis uiduam (licet laicus) duxerit uxorem, siue ante baptismum, siue post baptismum,
                 non admittatur ad clerum, quia eodem uitio uidetur exclusus. In baptismate enim crimina
-                dimittuntur, non acceptae uxoris consortium relaxatur**** si tum putatur *u«w «isse
+                dimittuntur, non acceptae uxoris consortium relaxatur si tum putatur u«w «isse
                 com putanda, que ante baptismum ducta est, ergo nec filii, qui ante baptismum geniti sunt,
                 pro filiis habeantur.
               </quote>
@@ -275,7 +275,7 @@
         </div>
         <div xml:id="gd-p1d34-Dd1e356">
           <head xml:id="gd-p1d34-Hd1e358">Dictum</head>
-          <p xml:id="gd-p1d34-d1e340">V. Pars. Gratian. Similiter etiam uiduarum mariti, uel ancillarum, uel meretricum,
+          <p xml:id="gd-p1d34-d1e340">Similiter etiam uiduarum mariti, uel ancillarum, uel meretricum,
             clerici fieri non possunt.</p>
         </div>
         <div xml:id="gd-p1d34-Dd1e348">
@@ -321,7 +321,7 @@
           <head xml:id="gd-p1d34-Hd1e398">Caput 18</head>
           <head xml:id="gd-p1d34-Hd1e401" type="question-title">Viduam ducens uxorem, subdiaconus fieri potest.</head>
           <p xml:id="gd-p1d34-d1e404">Lector, si uiduam uxorem alterius acceperit, in lecto-ratu permaneat, aut .si
-            necessitas fuerit^, subdiaconus fiat, nichil autem supra. Similiter et si bigamus
+            necessitas fuerit, subdiaconus fiat, nichil autem supra. Similiter et si bigamus
             fuerit.</p>
         </div>
         <div xml:id="gd-p1d34-Dd1e441">

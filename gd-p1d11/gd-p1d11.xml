@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -102,7 +102,7 @@
           <head xml:id="gd-p1d11-Hd1e165">Dictum</head>
           <p xml:id="gd-p1d11-d1e169">Cum uero nec sacris canonibus, nec humanis legibus consuetudo
             obuiare monstratur, inconcussa seruanda est.</p>
-          <p xml:id="gd-p1d11-d1e173">Unde Augustinus ait ueffi* ex dictis B as ilii:</p>
+          <p xml:id="gd-p1d11-d1e173">Unde Augustinus ait ueffi ex dictis B as ilii:</p>
         </div>
         <div xml:id="gd-p1d11-Dd1e177">
           <head xml:id="gd-p1d11-Hd1e179">Caput 5</head>

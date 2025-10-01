@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,7 @@
         <p xml:id="gd-p2c26q5-d1e109"> Quod autem sortilegi et diuini , si cessare noluerint ,
           excommunicandi sint, ratione et auctoritate probatur. Est enim quoddam genus culturae
           ydolorum , ex demonum consultationibus futura predicere. Sicut enim auarus , quia cultum
-          Deo debitumnummo inpendit , y dolorum cultor ab$ Apostolo nominatur , sicilli , 7^* futura
+          Deo debitumnummo inpendit , y dolorum cultor ab$ Apostolo nominatur , sicilli , 7 futura
           , que ex Dei oraculo nonnumquam reuelata in-ueniuntur , uel demonum consultatione , uel
           quibuslibet prestigiisinuenire laborant , diuinitatis iura creaturis attribuunt.
           Futuraenim prescire solius Dei est , qui in sui contemplatione etiamangelos Hia prescire
@@ -85,8 +85,8 @@
             diuinationes expetunt . </head>
           <p xml:id="gd-p2c26q5-d1e136"> Item ex <ref xml:id="gd-p2c26q5-Rd1e132">Ancirano Concilio , c. 23. [al. 24.]</ref> 
             Qui
-            diuinationes expetunt, et morem gentilium*subsecuntur, uel in domos suas huiusmodi
-            homines introducunt, exquirendi** aliquid arte magica, aut expiandi causa, sub regula
+            diuinationes expetunt, et morem gentiliumsubsecuntur, uel in domos suas huiusmodi
+            homines introducunt, exquirendi aliquid arte magica, aut expiandi causa, sub regula
             quinquennii iaceant secundumgradus penitenciae diffinitos . </p>
         </div>
         <div xml:id="gd-p2c26q5-Dd1e140">
@@ -134,9 +134,9 @@
             Item ex <ref xml:id="gd-p2c26q5-Rd1e183">Concilio Tolletano IV., c. 30.</ref> 
             Si quis episcopus, aut presbiter, siue diaconus, uel
             quilibet de ordinibus clericorum aruspices, aut incantatores, aut ariolos, aut certe
-            augures uel sortilegos, uel qui profitentur artem magicam*, aut aliquoseorum similia
-            exercentes consuluisse fuerit deprehensus, ab honore dignitatis suae suspensus**
-            monasterii curam*** excipiat, ibique penitenciae perpetuae deditus scelus admissum
+            augures uel sortilegos, uel qui profitentur artem magicam, aut aliquoseorum similia
+            exercentes consuluisse fuerit deprehensus, ab honore dignitatis suae suspensus
+            monasterii curam excipiat, ibique penitenciae perpetuae deditus scelus admissum
             sacrilegii soluat. </p>
         </div>
         <div xml:id="gd-p2c26q5-Dd1e188">
@@ -187,7 +187,7 @@
           <head xml:id="gd-p2c26q5-Hd1e245" type="question-title"> Contra sortilegos , e/ ydolorum
             cultores, custodia pastoralis inuigilet. </head>
           <p xml:id="gd-p2c26q5-d1e251"> 
-            Item <ref xml:id="gd-p2c26q5-Rd1e249">Gregorius [lib. VII. epist. 66. ad Ianuarium Episcopum*.</ref> 
+            Item <ref xml:id="gd-p2c26q5-Rd1e249">Gregorius [lib. VII. epist. 66. ad Ianuarium Episcopum.</ref> 
             Contra y dolorum cultores, uel aruspices atque sortilegos,
             fraternitatem tuam uehementius pastoralihortamur inuigilare custodia. Quod, si emendare
             se a talibus nolle repereriss, si serui sunt, uolumus uerberibus, castigari, si uero
@@ -209,7 +209,7 @@
           <head xml:id="gd-p2c26q5-Hd1e272" type="question-title"> Sortilegam et magicam artem
             episcopi modis omnibus eliminare studeant.</head>
           <p xml:id="gd-p2c26q5-d1e275"> 
-            Item ex <ref xml:id="gd-p2c26q5-Rd1e277">Concilio Anquirensi *, c. i.</ref>
+            Item ex <ref xml:id="gd-p2c26q5-Rd1e277">Concilio Anquirensi , c. i.</ref>
             Episcopi, eorumque ministri omnibus uiribuselaborare studeant, ut perniciosam et a zabulo
             inuentamsortilegam et magicam artem ex parrochiis suis penituseradicent, et si aliquem
             uirum aut mulierem huiusce-modi sceleris sectatorem inueniunt, turpiter dehonestatum de
@@ -220,7 +220,7 @@
           </p>
           <p xml:id="gd-p2c26q5-d1e280">
             §. 1. Illud etiam non est omittendum, quod
-            quedam sceleratae** mulieres retro post sathanam conuersae, demonumillusionibus et
+            quedam sceleratae mulieres retro post sathanam conuersae, demonumillusionibus et
             fantasmatibus seductae, credunt se etprofitentur, cum Diana nocturnis horis dea
             paganorum, uelcum Herodiade, et innumera multitudine mulierum equitaresuper quasdam
             bestias, et multa terrarum spacia intempestae noctis silentio pertransire, eiusque
@@ -244,7 +244,7 @@
             uigilando numquam uiderat?Quis uero tam stultus et hebes sit, qui hec omnia, que insolo
             spiritu fiunt, etiam in corpore accidere arbitretur, cum Ezechiel propheta uisiones
             Domini in spiritu, non incorpore uidit°, et audiuit, sicut ipse dicit: , ,
-            Statim/*inquit, , , fui in spiritu ?** Et Paulus non audet dicere seraptum in corpore.
+            Statim/inquit, , , fui in spiritu ? Et Paulus non audet dicere seraptum in corpore.
             Omnibus itaque publice annunciandumest, quod qui talia credit et his similia fidem
             perdit p, et qui rectam Q fidem non habet, hic non est eius, sedillius, in quem credit,
             id est diaboli. Nam de Domino nostroscriptum est: , , Omnia per ipsum facta sunt.
@@ -260,7 +260,7 @@
             accingunt, uel consueta lumi-nariorum obsequia Dei ecclesiis subtrahunt, uel missam pro
             requiedefunctorum promulgatam pro uiuis celebrant hominibus. </p>
           <p xml:id="gd-p2c26q5-d1e285"> Quorum omnium maleficia nequissima Tolletanum Concilium
-            [XIII.] condempnat, dicens [c. 7.]*: </p>
+            [XIII.] condempnat, dicens [c. 7.]: </p>
         </div>
         <div xml:id="gd-p2c26q5-Dd1e289">
           <head xml:id="gd-p2c26q5-Hd1e291">Caput XIII</head>
@@ -269,11 +269,11 @@
           <p xml:id="gd-p2c26q5-d1e297"> Quicumque sacerdotum uel ministrorum deinceps causa
             cuiuslibet doloris permotus aut altare uestibus sacris exuere presumpserit, aut qualibet
             alia lugubri uesteaccinxerit, seu etiam si consueta luminariorum obsequia de templo Dei
-            subtraxerit, uel extingui prece-perit*, si eum antea uerae penitudinis coram
+            subtraxerit, uel extingui prece-perit, si eum antea uerae penitudinis coram
             metropolitanosatisfactio non purgauit, loci s sui dignitate se noueritet honore priuari;
             illis proculdubio personis ab hac ultionumsentencia separatis, que aut contaminationem
             sacrorum ordinum, uel subuersionem sanctae fidei metuentes, aut hostilitatem uel
-            obsidionem perferentes, seu etiam diuinorum iudiciorum sentenciam metuentes fecisse
+            obsidionem perferentes, seu etiam diuinorumiudiciorum sentenciam metuentes fecisse
             contigerit, inquorum facto plus humilitas, qua Deus placatur, quaminterni dolositas
             liuoris declaratur. 
           </p>
@@ -296,7 +296,7 @@
             §. 1. Sed quod
             in ultimoAnquirensi capitulo ea, que per incantatores fiunt, non incorpore, sed in
             spiritu fieri dicuntur, Augustinus in libro deciuitate Dei uidetur asserere , ita dicens
-            *: </p>
+            : </p>
         </div>
         <div xml:id="gd-p2c26q5-Dd1e305">
           <head xml:id="gd-p2c26q5-Hd1e307">Caput 14</head>
@@ -330,7 +330,7 @@
           <p xml:id="gd-p2c26q5-d1e337">
             §. 3. Ydromanticiab aqua dicti. Est enim ydromantia in aquarum
             inspectione umbras demonum euocare, et imagines ludificationes eorum uidere, ibique ab
-            eis aliqua audire, ubiadhibito sanguine etiam inferos perhibentur suscitare**. Et infra:
+            eis aliqua audire, ubiadhibito sanguine etiam inferos perhibentur suscitare. Et infra:
           </p>
           <p xml:id="gd-p2c26q5-d1e339">
             §. 4. Ad hec omnia supradicta pertinent ligaturae exeerabilium remediorum, que ars
@@ -374,7 +374,7 @@
             quiuirgam suam proiecit, et conuersa est in draconem, proie-ceruntque singuli uirgas
             suas, que conuer-sae sunt in dracones, sed deuorauit uirga Aaronuirgas eorum. Non enim
             fuerunt creatores draconumnec magi, nec angeli mali, quibus ministris illa
-            operabantur*Insuntft enim rebus corporeis per omnia elementaquedam occultae rationes
+            operabanturInsuntft enim rebus corporeis per omnia elementaquedam occultae rationes
             seminariae, quibus cum datafuerit oportunitas temporalis atque causalis, prorumpuntin
             species debitas suis modis et finibus: et sic non dicunturangeli, qui ista faciunt,
             animalium creatores, sicut necagricolae segetum pp, uel quorumcumque gignentium interra
@@ -385,7 +385,7 @@
           </p>
           <p xml:id="gd-p2c26q5-d1e352">
             §. 10. Preterea quidamputant querendum, quomodo scriptura narret
-            Phithonis-sam^ Samuelem prophetam suscitasse ad colloquiumSaulis inpiissimi regis, si
+            Phithonis-sam Samuelem prophetam suscitasse ad colloquiumSaulis inpiissimi regis, si
             phithonica diuinatio errorimagicae artis deputanda sit. Quibus ita responderi potest,
             indignum omnino facinus esse, si secundum uerbaystoriae conmodetur assensus. Quomodo
             enim fieripoterat, ut arte magica attraheretur"uir a natiuitatesanctus, et uitae
@@ -408,8 +408,8 @@
             dampnauerat. Sed si quis propterystoriam ea, que uerbis expressa sunt, putet non
             pre-termittenda, ne ratio ystoriae inanis sit, recte facit 
             quidem: si tamen minime istud ad ueri rationem rapiat, sed
-            ad uisum et ad^* intellectum Saulis. Nequeenim reprobus factus bonum poterat intellectum
-            habere.Historicus enim mentem Saulissss et habitum Sa-muelis descripsit^, ea, que dicta
+            ad uisum et ad intellectum Saulis. Nequeenim reprobus factus bonum poterat intellectum
+            habere.Historicus enim mentem Saulissss et habitum Sa-muelis descripsit, ea, que dicta
             sunt et uisa, exprimens, pretermittens, si uera an falsa sint. Quiait? „ Audiens, in quo
             habitu esset excitatus, intellexit , '" inquit, „hunc Samuelem esse.“ Quid intellexerit
             retulit, et, quia non bene intellexit, contra scripturamalium adorauit quam Deum, et

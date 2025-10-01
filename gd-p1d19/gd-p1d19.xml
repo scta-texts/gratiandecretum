@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -85,7 +85,7 @@
             occupant, postquam non habentur acceptae ? Sed quare multum immoremur, cum nec ipsas
             diuinas scripturas ueteris et noui testamenti iam recipiemus, si istos dixerimus
             audiendos? Etenim neutrum horum in codice canonum ecclesiasticorum habetur insertum. Sed
-            responsuri sunt isti qui ad resistendum potius, quam ad obediendum parati sunt aientes*,
+            responsuri sunt isti qui ad resistendum potius, quam ad obediendum parati sunt aientes,
             quod inter canones inueniatur capitulum S. Papae Innocenti, cuius auctoritate doceatur,
             a nobis utrumque testamentum esse recipiendum, quamquam in ipsis paternis canonibus
             nullum eorum ex toto contineatur insertum. Quibus ad hec asserendum est, quoniam si
@@ -137,7 +137,7 @@
           <p xml:id="gd-p1d19-d1e152">
             Item <ref xml:id="gd-p1d19-Rd1e145">Agato Papa omnibus Episcopis.</ref>
             Sic omnes apostolicae sedis sanctiones accipiendae sunt, tanquam ipsius uoce diuina
-            Petri* firmatae®.</p>
+            Petri firmatae®.</p>
         </div>
         <div xml:id="gd-p1d19-Dd1e156">
           <head xml:id="gd-p1d19-Hd1e158">Caput 3</head>
@@ -238,7 +238,7 @@
           <head xml:id="gd-p1d19-Hd1e236">Dictum</head>
           <p xml:id="gd-p1d19-d1e239">Hoc autem intelligendum est de illis sanctionibus uel decretalibus epistolis,
             in quibus nec precedeniium Patrum decretis, nec euangelicis preceptis aliquid contrarium
-            inuenitur. Anastasitis* enim secundus fauore Anastasii imperatoris, quos Acatius
+            inuenitur. Anastasitis enim secundus fauore Anastasii imperatoris, quos Acatius
             post'sententiam in se prolatam sacerdotes uel Leuitas ordinauerat, acceptis offitiis
             rite fungi debere decreuit, ita in-quiens:</p>
         </div>
@@ -306,7 +306,7 @@
             episcoporum uel presbiterorum et clericorum cunctae ecclesiae catholicae diacono,
             Tessaloni-censi, nomine Fotino, qui communicauerat Acatio; et quia occulte uoluit
             reuocare Acatium, et non potuit, nutudiuino percussus est.</p>
-          <p xml:id="gd-p1d19-d1e273">Hinc etiam de Maximo Episcopo in Constantinopolitana Sinodo statutum e^ [c. 6.].</p>
+          <p xml:id="gd-p1d19-d1e273">Hinc etiam de Maximo Episcopo in Constantinopolitana Sinodo statutum e [c. 6.].</p>
         </div>
         <div xml:id="gd-p1d19-Dd1e277">
           <head xml:id="gd-p1d19-Hd1e279">Caput 10</head>

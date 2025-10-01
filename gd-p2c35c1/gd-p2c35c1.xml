@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -127,7 +127,7 @@
             humanae propagationis originem habuit , quam nulla lex contraiubendo euacuauerat,
             excusantur Abraham, Ysaac, et Iacob, et ceteri, qui de propria cognatione ducebant
             uxores. QuamuiSetiam alia causa rectissimae rationis, qua id factum sit,
-            possitintelligi. Ceteris idolatria ^ f edatis, sola familia Heber incultu unius Dei
+            possitintelligi. Ceteris idolatria  f edatis, sola familia Heber incultu unius Dei
             remansit. Unde Abraham a Chaldeis cum fatre suo in ignem, quem adorare noluit, proiectus
             est, ut numensuae diuinitatis exurendo sentiret, quem uenerando colere contempsit. Ne
             ergo ex coniunctione infidelium fideles ad idola - triamY prolaberentur, et ita Deum
@@ -153,7 +153,7 @@
             quod per Prophetam predixerat: "In peccatis uestris dimisi matrem uestram
             quasiadulteram et repudiatam .“ Et item per alium Prophetam: ,, Vocabo non plebem meam
             plebem meam. In huius ergo reisacramentum consanguineorum coniunctiones primum in po-
-            pulo^cc permissae sunt, nunc autem prohibitae. Et quia non inuna tantum familia, sed in
+            pulocc permissae sunt, nunc autem prohibitae. Et quia non inuna tantum familia, sed in
             omni multitudine gentium fideliumpopulus inuenitur, non de propria cognatione, sed de
             qualibetalia cuique uxorem ducere conceditur. 
           </p>

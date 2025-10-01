@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -77,7 +77,7 @@
           <head xml:id="gd-p1d77-Hd1e133">Caput 2</head>
           <head xml:id="gd-p1d77-Hd1e136" type="question-title">Que interualla temporis in singulis gradibus sint
             obseruanda.</head>
-          <p xml:id="gd-p1d77-d1e139">In singulis gradibus hec tempora sunt obseruanda, si ab infantia* ecclesiasticis
+          <p xml:id="gd-p1d77-d1e139">In singulis gradibus hec tempora sunt obseruanda, si ab infantia ecclesiasticis
             ministeriis nomen dederit, ut interlectores et exorcistas quinquennio teneatur, exinde
             acolitusuel subdiaconus quatuordecim annis fiat, et sic ad benedictionem diaconatus, si
             meretur, accedat, in quo ordinequinque annis, si inculpate gesserit, adherere

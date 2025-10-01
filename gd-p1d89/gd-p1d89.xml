@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -121,7 +121,7 @@
           <p xml:id="gd-p1d89-d1e176">
             Item <ref xml:id="gd-p1d89-Rd1e184">Gregorius Iohannis Carolitano Episcopo, [lib. VII. epist. 66.]</ref>
             Indicatum est nobis, quod laicis quibusdam curam uestri patrimonii commiseritis, qui
-            postmodum in rusticorum uestrorum depredationibus atque ex fatigationibus* fuerunt
+            postmodum in rusticorum uestrorum depredationibus atque ex fatigationibus fuerunt
             deprehensi. Quod si ita est, districte a uobis discuti conuenit, atque inter eos
             ecclesiaeque uestrae rusticos causam examinare subtilius. Et quicquid fraudisinuentum
             fuerit, cum pena legibus statuta reddere conpellantur. De cetero uero cauendum est a

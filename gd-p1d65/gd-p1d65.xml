@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -175,7 +175,7 @@
         <div xml:id="gd-p1d65-Dd1e251">
           <head xml:id="gd-p1d65-Hd1e253">Dictum</head>
           <p xml:id="gd-p1d65-d1e240">His auctoritatibus datur intelligi, quod episcopi a
-            conprouincialibus suis debent^ ordinari. Sed queritur, si in prouincia fuerint^ plurimi
+            conprouincialibus suis debent ordinari. Sed queritur, si in prouincia fuerint plurimi
             episcopi, et contigeritforte unum remanere episcopum, quid fieri debeat? Ille, quia solus
             est, non potest ordinare episcopum; conprouinciales non habet, cum quibus consecrare
             episcopum ualeat. Cum ergotalis necessitas fuerit, quid faciendum sit, in Sardicensi

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -141,7 +141,7 @@
           <p xml:id="gd-p2c36q2-d1e204">
             Prohibetur ergo premissis auctoritatibus rapta
             copulari raptori ante, quam uicium rapinae aboleatur, donec illeraptor, et illa iure
-            rapta appellatur^ . Ceterum, cum illa patriaepotestati restituta fuerit, et raptor suae
+            rapta appellatur . Ceterum, cum illa patriaepotestati restituta fuerit, et raptor suae
             rapinae penitenciam,egerit, cum uoluntas parentum utriusque in unum conuenerit,
             nonprohibentur ad inuicem copulari. 
           </p>
@@ -188,20 +188,20 @@
           <p xml:id="gd-p2c36q2-d1e240">
             Hac auctoritate Meldensis concilii non permittitur
             raptae raptori post penitenciam copulari, sed permittitur utrique post penitenciam
-            legitimo coniugio copulari, ut rapta uidelicet^ non raptori, sed alii post penitenciam
+            legitimo coniugio copulari, ut rapta uidelicet non raptori, sed alii post penitenciam
             nubat. Similiterraptor post penitenciam non eam, quam rapuit, sed aliam permittitur
             habere uxorem. Cum enim raptor et rapta penitenciaesubici precipiantur si utriusque
             copulam auctoritas illa permitteret, frustra circa finem capituli diceretur: „ Quod si
             unusex coniugatis obierit, et is, qui publicam penitenciam exegerit, superstes
             extiterit, iterare coniugium non presumat. Eorumnamque quolibet decedente, qui
             penitenciam exegit superstesremanebit. Non ergo hac auctoritate raptor probatur in
-            coniugium raptam posse accipere. Potius inuenitur in Concilio apud Aquasgrani *, quod nec
+            coniugium raptam posse accipere. Potius inuenitur in Concilio apud Aquasgrani , quod nec
             etiam uoluntate parentum possuntadinuicem copulari. Sic enim in prefato concilio legitur
-            *: </p>
+            : </p>
         </div>
         <div xml:id="gd-p2c36q2-Dd1e244">
           <head xml:id="gd-p2c36q2-Hd1e246">Caput 11</head>
-          <head xml:id="gd-p2c36q2-Hd1e249" type="question-title"> Nec etiam uoluntate parentum ^
+          <head xml:id="gd-p2c36q2-Hd1e249" type="question-title"> Nec etiam uoluntate parentum 
             raptores raptas possunt habere coniuges. </head>
           <p xml:id="gd-p2c36q2-d1e252"> Placuit, ut hi, qui, rapiunt feminas uel furantur,
             autseducunt, eas nullatenus habeant uxores, quamuis eispostmodum conueniant, aut eas

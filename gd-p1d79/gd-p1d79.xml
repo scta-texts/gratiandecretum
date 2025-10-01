@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +74,7 @@
             Pontificis nemo audeat loqui.</head>
           <p xml:id="gd-p1d79-d1e142">
             Item <ref xml:id="gd-p1d79-Rd1e133">Simacus Papa, [in Sinodo Romana I. cap. 3. et 5.]</ref>
-            Si quis superstite Papa* pro Romano Pontificatu cuiquam quolibet modo fauorem prestare
+            Si quis superstite Papa pro Romano Pontificatu cuiquam quolibet modo fauorem prestare
             conuincitur, loci sui honore priuetur. Et infra: Si quis presbiter, autdiaconus, aut
             clericus, Papa incolumi et eo inconsulto, autsubscriptionem pro Romano Pontificatu
             commodare, aut pitacia promittere, aut sacramentum prebere temptauerit, aut aliquod certe suffragium
@@ -199,7 +199,7 @@
         </div>
         <div xml:id="gd-p1d79-Dd1e265">
           <head xml:id="gd-p1d79-Hd1e267">Caput 10</head>
-          <head xml:id="gd-p1d79-Hd1e270" type="question-title">Si Papa de electione sui successoris decernere*®non
+          <head xml:id="gd-p1d79-Hd1e270" type="question-title">Si Papa de electione sui successoris decernere®non
             poterit.</head>
           <p xml:id="gd-p1d79-d1e273">Si transitus Papae inopinatus euenerit, ut de sui electione successoris, ut supra
             placuit, non possit antedecernere, siquidem totius in unum conuenerit ecclesiastici

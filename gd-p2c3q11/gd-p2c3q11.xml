@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -95,7 +95,7 @@
           </p>
           <p xml:id="gd-p2c3q11-d1e156">
             §. 1.
-            Aliquando enim criminalis questio preiudicat ciuili, aliquandocriminali *. Unde in III.
+            Aliquando enim criminalis questio preiudicat ciuili, aliquandocriminali . Unde in III.
             lib, Cod. tit. de ordine iudiciorum, [lege, 4.], legitur: „ Ciuili questione intermissa
             sepe fit, utprius de crimine iudicetur, quod, utpote maius, merito minori prefertur </p>
         </div>
@@ -116,7 +116,7 @@
             libertatis .“ 
           </p>
           <p xml:id="gd-p2c3q11-d1e176">
-            Item: §. 1. „Si crimen aliquod inferatur ei, qui ingenuus esse dicitur *,
+            Item: §. 1. „Si crimen aliquod inferatur ei, qui ingenuus esse dicitur ,
             liberalis causa suo ordine ante debet agi cognitionem suam preside prebente, quoniam
             si delictum probatum fuerit, ante sciri, necesse est, utrum ut in liberum et ingenuum ,
             an ut in seruumconstitui oportet .“ 

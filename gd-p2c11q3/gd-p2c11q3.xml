@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -96,7 +96,7 @@
             prelati delinquunt, ac per hoc ipsi crudelius quam ceteri puniuntur, ut ait B. Gregorius:
             „Scire prelati debent, quia, si per-uersa umquam perpetrant, tot mortibus digni sunt,
             quotad subditos suos perditionis exempla transmittunt. Unde necesse est, ut tanto se
-            cautius custodiant a culpa, quanto per praua, que faciunt, non soli moriuntur/* 
+            cautius custodiant a culpa, quanto per praua, que faciunt, non soli moriuntur/ 
           </p>
           <p xml:id="gd-p2c11q3-d1e148">
             Et infra. §. i. Ceterum precaue, ne quando nobis secundum Domini preceptum duos aut tres testes
@@ -107,7 +107,7 @@
           <head xml:id="gd-p2c11q3-Hd1e160">Caput 4</head>
           <head xml:id="gd-p2c11q3-Hd1e163" type="question-title">De eodem.</head>
           <p xml:id="gd-p2c11q3-d1e169"> 
-            Item ex <ref xml:id="gd-p2c11q3-Rd1e165">Concilio Sardicensi , c.. 17.* </ref>
+            Item ex <ref xml:id="gd-p2c11q3-Rd1e165">Concilio Sardicensi , c.. 17. </ref>
             Si episcopus forte iracundus (quod non debet esse) cito et
             aspere conmouetur aduersus presbiterum siue diaconum, et eum de ecclesia exterminare
             uoluerit, pro-uidendum est, ne innocens dampnetur aut perdat communionem. Et ideo habeat
@@ -124,7 +124,7 @@
           <p xml:id="gd-p2c11q3-d1e181">
             Item ex <ref xml:id="gd-p2c11q3-Rd1e180">Concilio Cartaginensi , [II. c. 8.]</ref>
             Si quis
-            presbiter ab episcopo* suo correptus fuerit, debet utique apud uicinos episcopos conqueri, ut ab ipsis
+            presbiter ab episcopo suo correptus fuerit, debet utique apud uicinos episcopos conqueri, ut ab ipsis
             eius causa possit audiri, ac per ipsos suo episcopo reconciliari. Quod nisi fecerit, sed
             superbia (quod absit) inflatus secernendum se ab episcopi sui communione duxerit,
             ac separatim cum aliquibus scisma faciens sacrificium Deo obtulerit, anathema habeatur et
@@ -333,7 +333,7 @@
           <p xml:id="gd-p2c11q3-d1e402">Verum hoc de nominatim excommuni -catas.
             Excommunicationis enim penam duppliciter subimus , et dum reatum incurrimus , et dum
             sententia notamur. </p>
-          <p xml:id="gd-p2c11q3-d1e406"> Unde Ieronimus in lib. lud. [homil. II.]*: </p>
+          <p xml:id="gd-p2c11q3-d1e406"> Unde Ieronimus in lib. lud. [homil. II.]: </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e411">
           <head xml:id="gd-p2c11q3-Hd1e413">Caput 21</head>
@@ -365,7 +365,7 @@
             tuncdemum peccatorem dixit habendum sicut ethnicum et publicanum , cum ecclesiam audire
             contempserit. Apostolus quoque nonait: „ Si quis frater est for nicator , sed: „si quis
             frater nominatur fornicator etc., sententiae nominationem intelligens. Hincetiam
-            Urbanus^ Vilimundo ° episcopo: „Sane quod superRichardo et cetera ^ P. Require infrai
+            Urbanus Vilimundo ° episcopo: „Sane quod superRichardo et cetera  P. Require infrai
             causam : „ Quidam episcopus in heresim lapsus. Hinc etiam Christus in euangelio zizania
             dixit esse tolleranda usque ad messem. </p>
           <p xml:id="gd-p2c11q3-d1e429"> Hinc etiam Ieronimus in eodem libro iudicum : </p>
@@ -436,7 +436,7 @@
             patrem?
           </p>
           <p xml:id="gd-p2c11q3-d1e484">
-            §. 2. , , Si quis, inquit, , , nominatus* fuerit frater fornicator, 
+            §. 2. , , Si quis, inquit, , , nominatus fuerit frater fornicator, 
             aut auarus, aut ebriosus, cum huiusmodi nequecibum
             sumere.“ Cum autem de paganis ageret, non ita, sed: „Si quis uos uocauerit ex
             infidelibus, '“ (paganos significans), „et uultis ire, omne, quod adponitur uobis,
@@ -468,7 +468,7 @@
             auctoritateIohannis Papae: „Engiltrudam uxorem Bosonis etc. Require supra in causa: „
             Quidam episcopus a propria sede deiectus. Item ex auctoritate eiusdem : „Si quis domum
             Deiuiolauerit etc. Require infra causa [XVII.] „ Quidam presbiter infirmitate grauatus.
-            Item ex auctoritate SiluestriPapae: „ Presenti^ decreto censemus etc. Require supra
+            Item ex auctoritate SiluestriPapae: „ Presenti decreto censemus etc. Require supra
             incausa: , , In infamia cuiusdam episcopii
           </p>
           <p xml:id="gd-p2c11q3-d1e486">
@@ -484,9 +484,9 @@
             §. 4. Illud autem
             Petri de Clemente : „Si inimicus est isteClemens etc. de sententia notatis intelligendum
             est, sicut et illud Urbani : , , Quibus episcopi non communicant etc. ut infra in eadem
-            causa. Ceterum falsum esset illud Varensis^n .cilii 7 /.: , , Si tantum episcopus alieni
+            causa. Ceterum falsum esset illud Varensisn .cilii 7 /.: , , Si tantum episcopus alieni
             sceleris se consciumnouit. Item et illudi: „Placuit, ut si quando episcopus etc.require
-            supra in causa : , , Duo fornicator es et^l infamianotati.“ 
+            supra in causa : , , Duo fornicator es etl infamianotati.“ 
           </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e482">
@@ -584,7 +584,7 @@
         <div xml:id="gd-p2c11q3-Dd1e610">
           <head xml:id="gd-p2c11q3-Hd1e612">Caput 33</head>
           <p xml:id="gd-p2c11q3-d1e597"> 
-            <ref xml:id="gd-p2c11q3-Rd1e617">Idem super Iohannem^. </ref>
+            <ref xml:id="gd-p2c11q3-Rd1e617">Idem super Iohannem. </ref>
             Nichil sic debet formidare Christianus quam separari a
             corpore Christi. Si enim separatur a corpore Christi, non est membrum eius. Si non est
             membrum eius, non uege-tatur spiritu eius. „Quisquis autem, “ inquit Apostolus, „
@@ -759,11 +759,11 @@
         </div>
         <div xml:id="gd-p2c11q3-Dd1e791">
           <head xml:id="gd-p2c11q3-Hd1e793">Caput 46</head>
-          <head xml:id="gd-p2c11q3-Hd1e796" type="question-title"> Non est petenda solutio ^, cum
-            iniqua fertur^ sententia. </head>
+          <head xml:id="gd-p2c11q3-Hd1e796" type="question-title"> Non est petenda solutio , cum
+            iniqua fertur sententia. </head>
           <p xml:id="gd-p2c11q3-d1e802"> 
             Item <ref xml:id="gd-p2c11q3-Rd1e822">Gelasius Papa Episcopis orientalibus de dampnatione Dioscori</ref> 
-            <cit><quote xml:id="gd-p2c11q3-Qd1e826">Cui est illata sententia deponat errorem, et uacua est*
+            <cit><quote xml:id="gd-p2c11q3-Qd1e826">Cui est illata sententia deponat errorem, et uacua est
             si4"a iniusta est, tanto curare eam non debet, quantoapud Deum et eius ecclesiam neminem
             potest grauareiniqua sententia. Ita ergo ea se non absolui desideret, quase nullatenus
             perspicit obligatum.</quote></cit> </p>
@@ -786,7 +786,7 @@
           <p xml:id="gd-p2c11q3-d1e835"> 
             <ref xml:id="gd-p2c11q3-Rd1e857">Idem [sermone 16.] de uerbis Domini . </ref>
             Cepisti habere fratrem tuum tamquam publicanum: ligas illum
-            in terra, sed ut iuste alliges uide. Nam iniusta uincula disrumpit iustitia*. Quem
+            in terra, sed ut iuste alliges uide. Nam iniusta uincula disrumpit iustitia. Quem
             solueris, inquit, interra, solutus erit iri celo. </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e839">
@@ -869,7 +869,7 @@
             Inter uerba laudantium siue uituperantium ad mentem semper
             recurrendum est, et si in ea non inuenitur bonum, quod de nobis dicitur, magnam
             tristitiam generare debet;et rursum si in ea non inuenitur malum, quod de nobis homines
-            locuntur, in magnam debemus letitiam prosilire. Quid enim*, si non omnes laudant et
+            locuntur, in magnam debemus letitiam prosilire. Quid enim, si non omnes laudant et
             conscientialiberos nos demonstret? Habemus Paulum dicentem: „ Gloria nostra hec est,
             testimonium conscientiaenostrae.“ Iob quoque dicit: „Ecce in celo testis meus.“Si ergo
             nobis est testis in celo, testis in corde, dimittamus stultos foris loqui quod uolunt.
@@ -884,8 +884,8 @@
             Iudei?“ Respondit: „ Sinite illos, ceci sunt duces
             cecorum.“ Paulus quoque apostolus ammonet, dicens:„Si fieri potest, quod ex uobis est,
             cum omnibus hominibus pacem habentes.“ Dicturus, „ cum omnibus pacemhabeamus, '“ hoc p
-            difficile esse perspiciens Q, premisit: „si fieri potest." Et* subiunxit: „quod
-            fieri potest, " * cum dicit, , , quod ex uobis est:" quia sinos in mente karitatem erga
+            difficile esse perspiciens Q, premisit: „si fieri potest." Et subiunxit: „quod
+            fieri potest, "  cum dicit, , , quod ex uobis est:" quia sinos in mente karitatem erga
             odientes seruare cupimus, etsi illi nobiscum pacem non habent, nos tamen cum illissine
             dubio habemus, </p>
         </div>
@@ -958,12 +958,12 @@
         </div>
         <div xml:id="gd-p2c11q3-Dd1e1006">
           <head xml:id="gd-p2c11q3-Hd1e1008">Caput 60</head>
-          <head xml:id="gd-p2c11q3-Hd1e1011" type="question-title"> Ligandi uel soluendi ^ potestate
+          <head xml:id="gd-p2c11q3-Hd1e1011" type="question-title"> Ligandi uel soluendi  potestate
             sepriuat qui hanc iniuste exercet. </head>
           <p xml:id="gd-p2c11q3-d1e1017"> 
             Item <ref xml:id="gd-p2c11q3-Rd1e1042">Gregorius in omel. XXVI. [in Euang.]</ref>
             Ipse ligandi atque soluendi se potestate priuat qui hanc
-            pro suis uoluntatibus, et non pro subditorum^moribus exercet. 
+            pro suis uoluntatibus, et non pro subditorummoribus exercet. 
           </p>
         </div>
         <div xml:id="gd-p2c11q3-Dd1e1021">
@@ -1037,7 +1037,7 @@
             aliquando est iusta ex animo etcausa, sed non ex ordine™; aliquando est™s iusta ex animo
             etex$ ordine, sed non ex causa. Cum autem ex causa iniustafuerit, aliquando nullum in eo
             omnino delictum est, quod sitdampnatione dignum: aliquando non est in eo illud, super
-            quod fertur sententia , sed ex alio nominandus ^ est. Exanimo est iniusta , cum aliquis
+            quod fertur sententia , sed ex alio nominandus  est. Exanimo est iniusta , cum aliquis
             seruata integritate iudiciariiordinis in adulterum uel in quemlibet criminosum non
             amoreiustitiae, sed liuore odii, uel precio, aut fauore aduersarioruminductus sententiam
             profert. Unde Beda super epistolam Iacobiait : , , Ira enim uiri iustitiam Dei non
@@ -1089,7 +1089,7 @@
           <head xml:id="gd-p2c11q3-Hd1e1154" type="question-title">Ratio debet corrigere quod
             furore promulgatum est.</head>
           <p xml:id="gd-p2c11q3-d1e1160"> 
-            Item ex <ref xml:id="gd-p2c11q3-Rd1e1188">lib. [XI.] ecclesiast. y storiae^. </ref>
+            Item ex <ref xml:id="gd-p2c11q3-Rd1e1188">lib. [XI.] ecclesiast. y storiae. </ref>
             Cum apud Tessalonicam, seditione exorta, quidam ex
             militaribus uir inpetu fuisset populi furentis exstinctus, Theodosius, repentini nuncii
             atrocitate succensus, ad ludosCircenses inuitari populum, eique ex inprouiso
@@ -1116,7 +1116,7 @@
             plemter ad notitiam uenerit, diuina tunc et humanalex resoluatur, et secundum quod ibi
             constitutumest, remota personarum acceptione, diffinitiua proferatursententia. Hinc est
             quod Moises querelas populi sempertabernaculum ingressus ad Dominum referebat, et
-            iuxtacpiod Dominus inperabat iudicia proponebat, nimirum nosmfttiipebs f* ut non ex
+            iuxtacpiod Dominus inperabat iudicia proponebat, nimirum nosmfttiipebs f ut non ex
             corde nostro, $tcl ex preceptodiuino condempnationis uel iustificationis sententiam
             proferamus. 
           </p>
@@ -1125,7 +1125,7 @@
           <head xml:id="gd-p2c11q3-Hd1e1248">Caput 75</head>
           <head xml:id="gd-p2c11q3-Hd1e1251" type="question-title"> Iustum iudicium uendi non potest. </head>
           <p xml:id="gd-p2c11q3-d1e1257"> 
-            Item <ref xml:id="gd-p2c11q3-Rd1e1291">Augustinus ad Macedonium, [epist. LIV.]*</ref>
+            Item <ref xml:id="gd-p2c11q3-Rd1e1291">Augustinus ad Macedonium, [epist. LIV.]</ref>
             Non licet iudici uendere iustum iudicium, etsi liceat
             aduocato uendere iustum patrocinium, et iurisconsulto rectum consilium. </p>
         </div>
@@ -1191,7 +1191,7 @@
             Item <ref xml:id="gd-p2c11q3-Rd1e1236">Dama sus Papa, [epist. VI.]</ref>
             Eorum, qui accusantur, causas discutere non licet prius,
             quam canonice uocati ad sinodum ueniant, et presens per presentem agnoscat ueraciteret
-            intelligat que ei obiciuntur. Quod et per sapientiam Salomonis * dicitur:„Ante, quam
+            intelligat que ei obiciuntur. Quod et per sapientiam Salomonis  dicitur:„Ante, quam
             scruteris, ne reprehendas. Intellige prius, et tunc increpa. Ante, quam audias , non
             reprehendas Et licet apertissima sit contrariorum reprehensio, uerumtamen oportet ab
             his, qui dati sunt adeorum examinationem, ordinem seruari. 
@@ -1321,7 +1321,7 @@
             in-becillitatem animi fortitudo. Quotienscumque uincimuruiciiss atque peccatis, tociens
             Deum negamus, et econtrario, quociens bene quid agimus, Deum confitemur.Nec arbitrandum
             est in die iudicii illos tantum a Dei filio denegandos, qui in martirio Christum
-            negaue*runt, sed et illos omnes, quorum opere, uel sermone, uel cogitatione Christus
+            negauerunt, sed et illos omnes, quorum opere, uel sermone, uel cogitatione Christus
             negatur, negat uel confessus confitetur. De hac puto confessione quod
             discipulisprecepit, dicens: „Eritis michi testes in Ierusalem, et inomni Iudea, et
             Samaria, et usque ad ultimum terrae. </p>
@@ -1496,7 +1496,7 @@
           <p xml:id="gd-p2c11q3-d1e1648">
             Et infra [c. 3.]: §. i. Si bonum est quod
             precipitinperator, iubentis exsequere uoluntatem; si malum, responde £: , , Oportet Deo
-            magis quam hominibusobedire/* Hoc ipsum et de seruis apud dominos, etde uxoribus apud
+            magis quam hominibusobedire/ Hoc ipsum et de seruis apud dominos, etde uxoribus apud
             uiros, et de filiis apud patres, quod inillis tantum debeant dominis, uiris, parentibus
             essesubiecti, que contra Dei mandata non sunt. </p>
         </div>
@@ -1540,7 +1540,7 @@
           <head xml:id="gd-p2c11q3-Hd1e1599">Caput 97</head>
           <head xml:id="gd-p2c11q3-Hd1e1602" type="question-title"> De eodem.</head>
           <p xml:id="gd-p2c11q3-d1e1608"> 
-            Item <ref xml:id="gd-p2c11q3-Rd1e1712">Augustinus [sermone VI. de uerbis Domini]*.</ref>
+            Item <ref xml:id="gd-p2c11q3-Rd1e1712">Augustinus [sermone VI. de uerbis Domini].</ref>
             Qui resistit potestati Dei ordinationi resistit. Sed quid,
             si illud iubeat, quod non debeas facere? Hicsane contempne potestatem. Ipsos humanarum
             legumgradus aduerte. Si aliquid iusserit curator, non °faciendum est? Tamen, si contra
@@ -1618,7 +1618,7 @@
             euangelizauimus.“
           </p>
           <p xml:id="gd-p2c11q3-d1e1776">
-            Idem: §. i. Si quisprohibet** nobis quod a Domino preceptum est, uel
+            Idem: §. i. Si quisprohibet nobis quod a Domino preceptum est, uel
             rursum inperat fieri quod Dominus fieri prohibet, execrabilis sit omnibus, qui diligunt
             Deum.
           </p>
@@ -1740,7 +1740,7 @@
           <p xml:id="gd-p2c11q3-d1e1746"> 
             Item ex <ref xml:id="gd-p2c11q3-Rd1e1888">Concilio Aur a, nco. </ref>
             Canonica iustituta et sanctorum Patrum exempla sequentes,
-            ecclesiarum Dei uiolatores N.* auctoritate Dei et iudicio sancti Spiritus a gremio
+            ecclesiarum Dei uiolatores N. auctoritate Dei et iudicio sancti Spiritus a gremio
             sanctae matris ecclesiae et a consortio totius Christianitis eliminamus, quoadusque
             resipiscant et ecclesiae Dei satisfaciant. </p>
         </div>
@@ -1753,7 +1753,7 @@
             Cum aliquis uel excommunicatus, uel anathematizatus,
             penitencia ductus ueniam postulat et emendationem promittit, episcopus, qui eum
             excommunicauit, ante ianuasecclesiae uenire debet, et duodecim presbiteri cum eo, quieum
-            hinc et inde circumstare debent*. Et si ille terraeprostratus ueniam postulat, et de
+            hinc et inde circumstare debent. Et si ille terraeprostratus ueniam postulat, et de
             futuris cautelamspondet, tunc episcopus apprehensa manu eius dextera, inecclesiam illum
             introducat, et communioni Christianae reddat, et septem psalmos penitenciales decantet
             cum istis precibus: Kyrie eleison, Pater noster, saluum fac seruum tuum. Oratio: Presta,
@@ -1778,7 +1778,7 @@
             presumpserunt, ipsi in se dam-pnationis (sicut canones statuunt) sententiam intulerunt.
             Tamen, quia miseratio apostolica ueniam solet  E restare correctis, ob multitudinem misericordiae
             illisanc indulgentiam exhibemus, ut, sancta communione saginati, studeant tribus annis
-            continuis per ebdomadamomnisecunda* et sexta feria a uino** et a carnepenitus ieiunare,
+            continuis per ebdomadamomnisecunda et sexta feria a uino et a carnepenitus ieiunare,
             et ultra lugenda nequaquam conmittere. </p>
         </div>
       <div xml:id="gd-p2c11q3-Dd1e1926">

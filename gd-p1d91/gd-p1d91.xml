@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -113,7 +113,7 @@
         </div>
         <div xml:id="gd-p1d91-Dd1e161">
           <head xml:id="gd-p1d91-Hd1e163">Caput 4</head>
-          <head xml:id="gd-p1d91-Hd1e166" type="question-title">De eodem*.</head>
+          <head xml:id="gd-p1d91-Hd1e166" type="question-title">De eodem.</head>
           <p xml:id="gd-p1d91-d1e172">
             Item ex <ref xml:id="gd-p1d91-Rd1e166">eodem, [c. 51. 53. et 48. et 50.]</ref>
             Clericus quilibet uerbo Dei eruditus artificiouictum querat.
@@ -121,7 +121,7 @@
           <p xml:id="gd-p1d91-d1e169">
             Item: §. 1. Omnes clerici,
             qui ad operandum ualidi sunt, et artificiola, et litteras discant. Qui uero
-            non pro emendo aliquid in nundinis uel in foro deambulant^ ab offitio suo degradentur.
+            non pro emendo aliquid in nundinis uel in foro deambulant ab offitio suo degradentur.
             Inter temptaciones autem ab offitio declinantes uel negligentius agentes ab ipso
             offitio remoueantur.
           </p>

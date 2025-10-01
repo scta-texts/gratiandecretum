@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,7 @@
           <head xml:id="gd-p2c2q8-Hd1e102">Dictum</head>
         <p xml:id="gd-p2c2q8-d1e106">De accusationibus uero, qualiter fieri debeat, in
           canonibus aperte discernitur.</p>
-        <p xml:id="gd-p2c2q8-d1e109">Ait enim Calix tus Papa [ad Episcopos Galliae, ep. II.]*: </p>
+        <p xml:id="gd-p2c2q8-d1e109">Ait enim Calix tus Papa [ad Episcopos Galliae, ep. II.]: </p>
         </div>
         <div xml:id="gd-p2c2q8-Dd1e112">
           <head xml:id="gd-p2c2q8-Hd1e114">Caput 1</head>
@@ -83,7 +83,7 @@
           <p xml:id="gd-p2c2q8-d1e145"> 
             Item <ref xml:id="gd-p2c2q8-Rd1e143">Euticianus Papa [Episcopis Siciliae, ep. II.]</ref> 
             Quisquis ille est, qui crimen intendit, in iudicium ueniat,
-            nomen rei indicet, uinculum inscriptionis arripiat, custodiae similitudinem* (habita
+            nomen rei indicet, uinculum inscriptionis arripiat, custodiae similitudinem (habita
             tamen dignitatis estimatione) potiatur , nec sibi nouerit licentiam mentiendi, cum
             calum-pniantes ad uindictam poscat similitudo suplicii. 
           </p>
@@ -123,18 +123,18 @@
           <p xml:id="gd-p2c2q8-d1e189">
             [lege 3.] ostendit, dicens: §. 2. , , Libellorum
             inscriptionis conceptio talis est: Consul et dies. Apud illum pretorem uel
-            con-sulem^&amp; Lucius Titius professus est, se Meuiam lege lulia deadulteriis ream
-            deferre, quod dicat eam cum Gaio Seio in ciuitate iV, domo illius^, mense iV, consulibus
+            con-sulem&amp; Lucius Titius professus est, se Meuiam lege lulia deadulteriis ream
+            deferre, quod dicat eam cum Gaio Seio in ciuitate iV, domo illius, mense iV, consulibus
             N s, commisisse adulterium. Utique enim et locus designandus est, in quoadulterium
             commissum est, et persona, cum qua admissum dicitur, et mensis. Hoc enim lege lulia
-            publicorum ^* cauetur, et generaliter precipitur omnibus, qui aliquem reum deferunt .
+            publicorum  cauetur, et generaliter precipitur omnibus, qui aliquem reum deferunt .
             Nequeautem diem, neque horam inuitus conprehendanP'. Quod silibelli inscriptionum
             legitime ordinati non fuerint, rei nomenaboletur, et ex integro repetendi reum potestas
             fiet. 
           </p>
           <p xml:id="gd-p2c2q8-d1e191">
             §. 3. Item subscribere debebit is, qui dat libellumse professum esse, uelalius pro
-            eo, si litteras nesciat.' Sed s/ aliud crimen obiciat, ueluti^ quod domum suam prebuit,
+            eo, si litteras nesciat.' Sed s/ aliud crimen obiciat, ueluti quod domum suam prebuit,
             ut stuprum materfamiliaspateretur, quod adulterum deprehensum dimiserit, quod pretiumpro
             conperto stupro acceperit, et s£ quid simile, id ipsumlibello conprehendendum erit. Si
             accusator decesserit, aliauecausa eum inpedierit, quo minus accusare possit, et si

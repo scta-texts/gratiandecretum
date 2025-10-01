@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +75,7 @@
             Item ex <ref xml:id="gd-p2c10q1-Rd1e130">Concilio Tolletano III. [c. 19.]</ref> 
             Sic quidam contra omnem auctoritatem ecclesias, quas
             edificauerint, postulant consecrari, ut dotem, quam eidem ecclesiae contulerint,
-            censeant ad episcopiordinationem non pertinere. Quod factum taliter* in preterito
+            censeant ad episcopiordinationem non pertinere. Quod factum taliter in preterito
             corrigatur, ut et in futuro ne fiat prohibeatur, et omnia secundum constitutionem
             antiquam ad episcopi ordinationem et potestatem pertineant. </p>
         </div>
@@ -132,7 +132,7 @@
         </div>
         <div xml:id="gd-p2c10q1-Dd1e206">
           <head xml:id="gd-p2c10q1-Hd1e208">Caput 8</head>
-          <head xml:id="gd-p2c10q1-Hd1e211" type="question-title"> De his , que altario offeruntur ^
+          <head xml:id="gd-p2c10q1-Hd1e211" type="question-title"> De his , que altario offeruntur 
             , medietatem sibi episcopus uendicet. </head>
           <p xml:id="gd-p2c10q1-d1e217"> 
             Item ex <ref xml:id="gd-p2c10q1-Rd1e215">eodem , [c. 16.]</ref> 
@@ -221,7 +221,7 @@
         <div xml:id="gd-p2c10q1-Dd1e289">
           <head xml:id="gd-p2c10q1-Hd1e291">Caput 13</head>
           <head xml:id="gd-p2c10q1-Hd1e294" type="question-title"> Oblationes ecclesiae laicis
-            usurpare^ non licet</head>
+            usurpare non licet</head>
           <p xml:id="gd-p2c10q1-d1e297">Quia sacerdotes pro omnibus orare solent, quorum
             elemosinas et oblationes accipiunt, qua fronte presumunt laici oblationes, quas
             Christiani pro peccatis suisofferunt, uel ipsi comedere, uel aliis concedere, cum

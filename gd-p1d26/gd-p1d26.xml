@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -75,7 +75,7 @@
           </head>
           <p xml:id="gd-p1d26-d1e139"><ref xml:id="gd-p1d26-Rd1e132">Augustinus uero econtra testatur, scribens in epistolam ad Titum.</ref>
             Acutius intelligunt, qui nec eum, qui catecuminus uel paganus habuerit alteram,
-            ordinandum censuerunt, quia de sacramento agitur, non de peccato*. Propter sacramenti
+            ordinandum censuerunt, quia de sacramento agitur, non de peccato. Propter sacramenti
             sanctitatem sicut femina, si catecumina uitiata est, non potest post baptisma inter Dei
             uirgines consecrari, ita non absurde uisum est bigamum non peccasse, sed normam
             sacramenti amisisse non ad uitae meritum, sed ad ordinationis signaculum 's. Unius
@@ -86,7 +86,7 @@
         </div>
         <div xml:id="gd-p1d26-Dd1e146">
           <head xml:id="gd-p1d26-Hd1e148">Caput 3</head>
-          <head xml:id="gd-p1d26-Hd1e151" type="question-title">Bigamus* probatur, qui ante baptismum habuerit unam, et post
+          <head xml:id="gd-p1d26-Hd1e151" type="question-title">Bigamus probatur, qui ante baptismum habuerit unam, et post
             baptismum alteram.</head>
           <p xml:id="gd-p1d26-d1e154">Item Innocentius [I.] Rufo et Eusebio, et ceteris Episcopis Macedonibus, [epistol.
             XXII. c. 2.]</p>
@@ -98,7 +98,7 @@
             uirginiseque nomen accipiet, que quarto ducta est loco. Quis (oro) istud non uideat
             contra Apostoli esse preceptum, qui ait: „unius uxoris uirum oportere fieri sacerdotem?“
             Sed obicitur, quod in baptismo totum, quicquid in ueterihomine gestum est, sit solutum.
-            Dicite mihi (ut cum pace uestra loquar^, crimina tantum dimittuntur in baptismo, an et
+            Dicite mihi (ut cum pace uestra loquar, crimina tantum dimittuntur in baptismo, an et
             illa, que secundum Domini precepta ac Dei instituta complentur? Uxorem ducere crimen
             est, an non est crimen? Si crimen est, ergo (ut prefata uenia dixerim) erit auctor in
             culpa, qui, ut crimina committerentur, in paradiso precepit, cum ipse eos benedixit.

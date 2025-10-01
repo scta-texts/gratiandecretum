@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +62,7 @@
         <div xml:id="gd-p2c23q2-Dd1e109">
           <head xml:id="gd-p2c23q2-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c23q2-Hd1e114" type="question-title"> Quid sit iustum bellum.</head>
-          <p xml:id="gd-p2c23q2-d1e117"> Iustum est bellum, quod ex edicto* geritur de rebus
+          <p xml:id="gd-p2c23q2-d1e117"> Iustum est bellum, quod ex edicto geritur de rebus
             repetendis, aut propulsandorum hominum causa. 
           </p>
           <p xml:id="gd-p2c23q2-d1e119">

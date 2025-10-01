@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -106,7 +106,7 @@
             Quia episcopus uniuersique sacerdotes ad solam laudem Dei
             bonorumque operum actionem constituuntur, debet unusquisque eorum tam pro
             ecclesiasticis, quametiam pro suis actionibus (excepto publico uidelicet crimine) habere
-            aduocatum, non malae famae suspectum*sed bonae opinionis et laudabilis artis inuentum,
+            aduocatum, non malae famae suspectumsed bonae opinionis et laudabilis artis inuentum,
             ne, dum humana lucra attendunt, eterna premia perdant.
           </p>
         </div>

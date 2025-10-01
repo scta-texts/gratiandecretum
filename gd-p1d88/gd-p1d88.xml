@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -68,7 +68,7 @@
             negociis secularibus se miscere,nisi propter curam aut pupillorum aut orphanorum
             autuiduarum, aut si forte episcopus ciuitatis ecclesiasticarumrerum sollicitudinem eum
             habere precipiat. Ubi patet,quia alia sunt negocia secularia, alia ecclesiastica.
-            Nonne*Moyses in seculo erat, cum crebro intraret tabernaculum, etexiret, qui intus
+            NonneMoyses in seculo erat, cum crebro intraret tabernaculum, etexiret, qui intus
             contemplatione rapiebatur, foris infirmantium negociis urgebatur? Sic et Iacob
             ascendentes etdescendentes angelos uidit, quia rectores ecclesiae non 
             solum contemplandos ascendunt, sed deorsum quoque ad membra illius miserando

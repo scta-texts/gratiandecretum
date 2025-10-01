@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -74,7 +74,7 @@
             permaneant singulares. Quod si in hoc ordine, qui quartus extat a capite, dignum est
             custodiri, quanto magis in primo, uel secundo tertioue seruandum est, ne aut leuitico
             aut presbiterali honore, aut episcopali excellentia quisquam idoneus existimeturs, qui
-            se a uoluptate luxuriae* nec dum refrenas s e detegitur.</quote></cit>
+            se a uoluptate luxuriae nec dum refrenas s e detegitur.</quote></cit>
           </p>
         </div>
         <div xml:id="gd-p1d32-Dd1e131">
@@ -84,7 +84,7 @@
             <cit>
               <quote xml:id="gd-p1d32-Qd1e148">
                 Multorum relatione comperimus, hanc apud uos olim consuetudinem tenuisse, ut subdiaconi
-                suis licite miscerentur* uxoribus. Quod ne denuo quisquam presumeret, a Seruo dei sedis
+                suis licite miscerentur uxoribus. Quod ne denuo quisquam presumeret, a Seruo dei sedis
                 nostrae diacono ex auctoritate nostri decessoris est isto modo prohibitum, ut eodem
                 tempore ii, qui iam uxoribus fuerant copulati, unum e duobus eligerent, id est, aut a
                 suis uxoribus abstinerent, aut certe ministrare nulla ratione presumerent. Et quantum
@@ -150,7 +150,7 @@
               <quote xml:id="gd-p1d32-Qd1e221">
                 Nullus missam audiat presbiteri, quem scit concubinam indubitanter habere aut
                 subintroductam mulierem. Unde etiam ipsa sancta sinodus hoc capitulum sub
-                excommunicatione statuit, dicens: Quicumque sacerdotum diaconorum etc.* sicut in
+                excommunicatione statuit, dicens: Quicumque sacerdotum diaconorum etc. sicut in
                 subsequentis cap. Alexandri [II.] continetur
               </quote>
             </cit> .
@@ -172,21 +172,21 @@
             aut Nicolai de castitate clericorum, concubinam palam duxerit, uel ductam non
             reliquerit, ex parte omnipotentis Dei et auctoritate apostolorum principum Petri et
             Pauli precipimus et omninocontradicimus, ut missam non cantet, nec euangelium legat
-            &amp; nec epistolam ad missam*, neque in presbiteri© cum his ad diuina offitia, qui
+            &amp; nec epistolam ad missam, neque in presbiteri© cum his ad diuina offitia, qui
             prefatae constitucioni obedientes fuerint, maneat, neque partem ab ecclesia suscipiat.
           </p>
           <p xml:id="gd-p1d32-d1e236">
             §. 2. Precipientes etiam statuimus, ut hi predictorum ordinum, qui eisdem
             predecessoribus nostris obedientes castitatem seruauerint, iuxta ecclesias,
             (sicutoportet religiosos clericos) simul manducent et dormiant, et quicquid eis ab
-            ecclesia competit, hoc communiter habeant*. Deinde, ut decimae et primitiae seu
+            ecclesia competit, hoc communiter habeant. Deinde, ut decimae et primitiae seu
             oblationes uiuorum et mortuorum ecclesiis Dei fideliter reddantur a laicis, et ut in
             dispositione episcoporum sint, quas qui retinuerint, a sanctae ecclesiae communione
             separentur.</p>
         </div>
         <div xml:id="gd-p1d32-Dd1e242">
           <head xml:id="gd-p1d32-Hd1e244">Dictum</head>
-          <p xml:id="gd-p1d32-d1e208">Verum principia harum auctoritatum contraire uideniur leronimo^°,
+          <p xml:id="gd-p1d32-d1e208">Verum principia harum auctoritatum contraire uideniur leronimo°,
             Augustino et ceteris, qui Christi sacramenta neque in bono, neque in malo homine
             fugienda demonstranti, sicut subsequens causa simoniacorum plenius ostendit Q. Sed
             Urbanus II. in epist. destinata preposito S. Vincentii hanc contrarietatem determinat
@@ -198,7 +198,7 @@
             sancta et ueneranda non negamus, sequentes B. Augustinum, qui super Iohannem de
             huiusmodi tam copiose quam ueraciter disserit. Ait enim:,,Baptizat seruus bonus, siue
             seruus malus: nesciat se ille, qui baptizatur, baptizari, nisi ab eo, qui dedit sibi
-            baptizandi potestatem.^ Et paulo post: „Non horreat columba ministerium malorum,
+            baptizandi potestatem. Et paulo post: „Non horreat columba ministerium malorum,
             respiciat Domini potestatem.“
           </p>
           <p xml:id="gd-p1d32-d1e215">
@@ -344,7 +344,7 @@
             Item in <ref xml:id="gd-p1d32-Rd1e405">Cartag in en si Concilio [V., c. 3.]</ref>
             <cit>
               <quote xml:id="gd-p1d32-Qd1e410">
-                Placuit episcopos, presbiteros, diaconos* subdiaco-nos secundum priora instituta**
+                Placuit episcopos, presbiteros, diaconos subdiaco-nos secundum priora instituta
                 etiam abstinere ab uxoribus: quod nisi fecerint, ab ecclesiastico remo-ueantur offitio, ceteros uero
                 clericos ad hoc non cogi, sed uniuscuiusque ecclesiae consuetudinem obseruari
                 debere
@@ -395,7 +395,7 @@
             Item <ref xml:id="gd-p1d32-Rd1e469">Niceni Concilii, [c. 3.]</ref>
             <cit><quote xml:id="gd-p1d32-Qd1e473">Interdixit per omnia sancta sinodus, non episcopo, non presbitero, non
             diacono, non subdiacononon alicui omnino, qui in clero est, licere subintroduc-tam
-            mulierem habere, nisi forte aut matrem, aut sororem, aut amitam, aut etiam* eas idoneas
+            mulierem habere, nisi forte aut matrem, aut sororem, aut amitam, aut etiam eas idoneas
             personas, que fugiant suspiciones</quote></cit>.</p>
         </div>
         <div xml:id="gd-p1d32-Dd1e386">

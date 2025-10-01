@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -127,7 +127,7 @@
           <p xml:id="gd-p2c11q1-d1e198"> 
             Item <ref xml:id="gd-p2c11q1-Rd1e195">Marcellinus ep. II. ad Episc. orientales.</ref>
             Quecumque contentiones inter Christianos ortae fuerint, ad
-            ecclesiam deferantur, et ab ecclesiasticis uiris terminentur. Et si obedire** noluerint,
+            ecclesiam deferantur, et ab ecclesiasticis uiris terminentur. Et si obedire noluerint,
             quousque obediant a liminibus ecclesiae excludantur.]
           </p>
         </div>
@@ -135,7 +135,7 @@
           <head xml:id="gd-p2c11q1-Hd1e204">Caput 8</head>
           <head xml:id="gd-p2c11q1-Hd1e207" type="question-title"> Neque pro ciuili , neque pro
             criminali causa episcopus apud ciuilem iudicem producatur. </head>
-          <p xml:id="gd-p2c11q1-d1e210"> Item Bonifatius ad Episcopos Galliae * </p>
+          <p xml:id="gd-p2c11q1-d1e210"> Item Bonifatius ad Episcopos Galliae  </p>
           <p xml:id="gd-p2c11q1-d1e213"> Nullus episcopus neque pro ciuili, neque pro criminali
             causa apud quemuis iudicem siue ciuilem siue militaremproducatur uel exhibeatur.
             Magistratus enim, qui hociubere ausus fuerit, amissione cinguli condempnationeplectetur.
@@ -162,7 +162,7 @@
             excepta confunditur . 
           </p>
           <p xml:id="gd-p2c11q1-d1e238"> Nouella Constitutio . </p>
-          <p xml:id="gd-p2c11q1-d1e241"> Nons flagitetur ad testimonium iureiurando ** sed
+          <p xml:id="gd-p2c11q1-d1e241"> Nons flagitetur ad testimonium iureiurando  sed
             euangeliis tantum coram positis.
           </p>
           <p xml:id="gd-p2c11q1-d1e245">
@@ -283,7 +283,7 @@
             <ref xml:id="gd-p2c11q1-Rd1e361">Idem Sergio Cancellario.</ref> 
             Si quisquam clericus, siue inferioris siue potioris gradus,
             petitor existat, et contra laicam personam suas dirigat actiones, iste modis omnibus non
-            alibi quam apud prouinciaeiudicem negotium suum dicturus occurrat. *Si quis autemlaicus
+            alibi quam apud prouinciaeiudicem negotium suum dicturus occurrat. Si quis autemlaicus
             clericum cuiuscumque gradus duxerit esse pulsandum, ad episcoporum iudicium in eadem
             ciuitate uel territorio constitutorum proponat eas, quas se existimat habere, actiones.
             Quem ordinem legibus per omnia conuenientem atque consentaneum demonstrari illa regula
@@ -410,7 +410,7 @@
             Item <ref xml:id="gd-p2c11q1-Rd1e503">Innocentius Papa [ad Victricium Rothomagensem, epist. II. cap. 3.]</ref>
             Si que causae uel contentiones inter clericos et laicos
             tam superioris ordinis quam etiam inferiorisfuerint exortae, placuit, ut secundum
-            sinodum Nicenamcongregatis omnibus eiusdem provinciae episcopis iudicium** terminetur. </p>
+            sinodum Nicenamcongregatis omnibus eiusdem provinciae episcopis iudicium terminetur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e507">
           <head xml:id="gd-p2c11q1-Hd1e509">Dictum</head>
@@ -542,7 +542,7 @@
           <p xml:id="gd-p2c11q1-d1e613"> 
             Item <ref xml:id="gd-p2c11q1-Rd1e642">Siluester Papa [in epilogo Concilii Romani]</ref> 
             Nullus clericus, uel presbiter uel diaconus, propter
-            quamlibet causam intret in curiam, nec ante ciuilem*iudicem causam dicere suam presumat. 
+            quamlibet causam intret in curiam, nec ante ciuilemiudicem causam dicere suam presumat. 
           </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e617">
@@ -553,14 +553,14 @@
             Item <ref xml:id="gd-p2c11q1-Rd1e656">Leo Papa [ad Rusticum, epist. XC. al. XCII. c. 9.]</ref> 
             Aliud quidem est debita iusta reposcere, aliud propria
             perfectionis amore contempnere. Sea illicitorumueniam postulantem oportet etiam a multis
-            licitis abstinere, dicente Apostolo : „Omnia michi licent, sed nonomnia expediunt/*
+            licitis abstinere, dicente Apostolo : „Omnia michi licent, sed nonomnia expediunt/
             Unde si quis penitens habetcausam, quam negligere forte non debeat, melius expetet
             ecclesiasticum quam forense iudicium. </p>
         </div>
           <div xml:id="gd-p2c11q1-Dd1e660">
             <head xml:id="gd-p2c11q1-Hd1e662">Dictum</head>
           <p xml:id="gd-p2c11q1-d1e631">Non ait propter criminalem tantum, sed generaliter
-            propter quamlibet^, tam ciuilem quam criminalem intelligens. </p>
+            propter quamlibet, tam ciuilem quam criminalem intelligens. </p>
           <p xml:id="gd-p2c11q1-d1e635">Item Theodosius Inperator: 
           </p>
         </div>
@@ -572,7 +572,7 @@
             litis uel decursis temporum curriculis, siue cumnegotium peroratur, siue cum iam ceperit
             promi sententia, si iudicium elegerit sacrosanctae legis antistitis, illico sine aliqua
             dubitatione, etiamsi alia pars refragatur, ad episcoporum iudicium cum sermone
-            litigantium dirigatur*. </p>
+            litigantium dirigatur. </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e683">
           <head xml:id="gd-p2c11q1-Hd1e685">Caput 36</head>
@@ -590,7 +590,7 @@
         </div>
         <div xml:id="gd-p2c11q1-Dd1e693">
           <head xml:id="gd-p2c11q1-Hd1e695">Dictum</head>
-          <p xml:id="gd-p2c11q1-d1e660">Hec si quis antiquata contendat*, quia in
+          <p xml:id="gd-p2c11q1-d1e660">Hec si quis antiquata contendat, quia in
             Iustiniani codice non inueniuntur inserta , per Karolumrenouata cognoscat, qui in suis
             Capitularibus, [ 1 . VI. c. 281., ] aitinter cetera : </p>
         </div>
@@ -602,10 +602,10 @@
             omnes nobis subiectis quocumque uideantur legis uinculo
             stricti uel consuetudinario conexi more , hanc sententiam , quam exsexto decimo
             Theodosii inperatoris libro , capitulo uidelicetundecimo , ac? interrogata Ablauii ducis
-            , awam Hiiset omnibus per scripturam misimus, et 3*8  nostra capitula 
+            , awam Hiiset omnibus per scripturam misimus, et 38  nostra capitula 
             pro lege tenenda consultu omnium fidelium nostrorum s,
-            posuimus , cuncti perpetua teneant , zd es*; Quicumque litem 
-            habens , siue '^ petitor fuerit , e*c. w* supra. </p>
+            posuimus , cuncti perpetua teneant , zd es; Quicumque litem 
+            habens , siue ' petitor fuerit , ec. w supra. </p>
           <p xml:id="gd-p2c11q1-d1e681"> Item Gregorius [lib. XI. epist. 54.] I oh anni defensori
             eunti in Yspaniam ammonendo efcV: </p>
         </div>
@@ -618,10 +618,10 @@
             habuerit, non ab alio teneri, sed episcopusipsius adiri debuit, sicut nouellarum
             constitutiomanifestat, que ita loquitur de sanctissimis et Deo amabilibus, ac
             reuerentissimis episcopis et clericis acmonachis: „Inp. Augustus IustinianusPetro
-            gloriosissimoprefecto pretorio* cap. LIII. s. Si quis contraaliquem clericum aut
+            gloriosissimoprefecto pretorio cap. LIII. s. Si quis contraaliquem clericum aut
             monachum, aut diaconissam, autmonastriam, aut assistriam habet aliquam actionem, doceat
             prius sanctissimum episcopum, cui horum unusquisque subiaceat. Ille uero causam inter
-            eos diiudicet.Et si quidem utraque pars his, que iudicata sunt, nonadquieuerit**,
+            eos diiudicet.Et si quidem utraque pars his, que iudicata sunt, nonadquieuerit,
             iubemus per loci iudicem executioniperfecte contradi.“ 
           </p>
           <p xml:id="gd-p2c11q1-d1e724">
@@ -703,7 +703,7 @@
             Inolita presumptio usque adeo illicitis ausibus
             aditumpatefecit, ut clerici clericos, relicto suo pontifice, adiudicia publica
             pertrahant. Proinde statuimus ut hocde cetero non presumatur. Si quis hoc
-            presumpseritfacere, conuentus** et causam perdat, et a communione efficiatur extraneus.
+            presumpseritfacere, conuentus et causam perdat, et a communione efficiatur extraneus.
           </p>
         </div>
         <div xml:id="gd-p2c11q1-Dd1e758">
@@ -716,7 +716,7 @@
             etdiaconorum, seu clericorum, cum in ecclesia ei crimen fueritintentum, uel ciuilis
             causa fuerit conmota, si derelictoecclesiastico iudicio publicis iudiciis purgari
             uoluerit, etiamsiro ipso fuerit lata sententia, locum suum amittat. Etoc in criminali
-            actione. In ciuili uero perdat quod euicit, si locum suum obtinere maluerit, siquidem*
+            actione. In ciuili uero perdat quod euicit, si locum suum obtinere maluerit, siquidem
             ad eligendos iudices inique de ecclesiae consortio iudicat qui deuniuersa ecclesia male
             sentiendo de iudicio seculari poscitauxilium, cum priuatorum etiam causas Apostolus
             adecclesiam deferri atque ibi determinari precipiat. 
@@ -738,14 +738,14 @@
             Item <ref xml:id="gd-p2c11q1-Rd1e823">constitutio LXXIV. c. i.</ref>
             Si quis cum clerico litigium habuerit, si quidem de causa
             pecuniaria, adeat prius episcopum, cuius iudicio clericus subpositus est. Ille autem
-            sine dampno et sinedilatione conpetentem finem liti inpositurus est. Sin autemnoluerit*
+            sine dampno et sinedilatione conpetentem finem liti inpositurus est. Sin autemnoluerit
             episcopus litem dirimere, tunc ad ciuiles iudices disceptatio causae perueniat. Ubi
             autem dirimere episcopus uult, sine scriptura omnia procedant, et diffinitiua sententia
             ab eo sine scripturisferatur
           </p>
           <p xml:id="gd-p2c11q1-d1e826">
             §. 1. Quod si de criminali+ causa litigiumemerserit,
-            tunc conpetentes^ interpellati, consentaneumlegibus terminum causae inponant, ita tamen,
+            tunc conpetentes interpellati, consentaneumlegibus terminum causae inponant, ita tamen,
             ut disceptatio litis duorum mensium spatium non excedat, a litiscontestatione
             numerandumff. </p>
           <p xml:id="gd-p2c11q1-d1e803"> 

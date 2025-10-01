@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
           <head xml:id="gd-p1d86-Hd1e117">Caput 1</head>
           <head xml:id="gd-p1d86-Hd1e120" type="question-title">Negligentiae rectorum inputantur culpae inferiorum.</head>
           <p xml:id="gd-p1d86-d1e123">Inferiorum ordinum culpae ad nullos magis referendae sunt, quam ad desides
-            negligentesque rectores, qui multamsepe nutriunt pestilentiam, dum austeriorem*
+            negligentesque rectores, qui multamsepe nutriunt pestilentiam, dum austeriorem
             dissimulantadhibere medicinam.</p>
         </div>
         <div xml:id="gd-p1d86-Dd1e128">
@@ -265,8 +265,8 @@
             <ref xml:id="gd-p1d86-Rd1e351">Item.</ref>
             Est etiam illa probanda liberalitas, ut proximos seminis tui ne despicias, si egere
             cognoscas. Melius enim est, ut ipse subuenias tuis, quibus pudor est ab aliis sumptum
-            deposcere, aut alicui postulare subsidium necessitatis^; non tamen illi ditiores fieri
-            uelint,ex eo quod tu potest conferre inopibus: causam enim* natura prestat, non gratia.
+            deposcere, aut alicui postulare subsidium necessitatis; non tamen illi ditiores fieri
+            uelint,ex eo quod tu potest conferre inopibus: causam enim natura prestat, non gratia.
             Neque enim propterea te Deo dicasti, ut tuos diuites facias, sed ut tibi uitam perpetuam
             fructu boni operis adquiras, et precio miserationis peccata tua redimas. Putant parum se
             poscere? preciumquerunt tuum, uitae tuae adimere contendunt fructum,et accusant, quod
@@ -291,7 +291,7 @@
             affectu puro et sincero promitur, hoc est aecorum: non superfluas edificationes aggredi,
             nec pretermittere necessarias. Et maxime sacerdotibus hoc conuenit, ornare Dei templum
             honore congruo, ut etiam cultu aula Domini resplendeat, inpensas misericordiae
-            frequentare, quantum oporteat largiri peregrinis, non superfluas, sed conpetentes^.
+            frequentare, quantum oporteat largiri peregrinis, non superfluas, sed conpetentes.
           </p>
           <p xml:id="gd-p1d86-d1e372">
             Idem §. i. Conpatiamur itaquealienis calamitatibus, necessitates aliorum quantum

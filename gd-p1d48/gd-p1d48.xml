@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +56,7 @@
         <head xml:id="gd-p1d48-Hd1e103">DISTINCTIO XLVIIL</head>
         <div xml:id="gd-p1d48-Dd1e100">
           <head xml:id="gd-p1d48-Hd1e102">Dictum</head>
-        <p xml:id="gd-p1d48-d1e109">Prohibentur etiam „neophiti in episcopos ordinari, ut qui heri^erat catecuminus,
+        <p xml:id="gd-p1d48-d1e109">Prohibentur etiam „neophiti in episcopos ordinari, ut qui herierat catecuminus,
           hodie non fiat episcopus, qui heri erat in teatro, hodie non sedeat in ecclesia, qui
           uespere eratin circo, hodie non ministret altario, qui dudum fuerat fautoristrionum, hodie
           non sii consecrator uirginum. Causa autem huius prohibitionis est secundum Apostolum, ne
@@ -94,7 +94,7 @@
           <head xml:id="gd-p1d48-Hd1e136">Caput 2</head>
           <head xml:id="gd-p1d48-Hd1e139" type="question-title">Qui dicantur neophiti.</head>
           <p xml:id="gd-p1d48-d1e142">
-            Sicut neophitus dicebatur, qui in initio* sanctae fidei erat erudicione plantatus,sic
+            Sicut neophitus dicebatur, qui in initio sanctae fidei erat erudicione plantatus,sic
             modo neophitus habendus est, qui repente in religionis habitu plantatus ad ambiendos
             sacros ordines irrepserit. 
           </p>

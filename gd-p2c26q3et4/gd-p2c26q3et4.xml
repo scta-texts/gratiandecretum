@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -64,7 +64,7 @@
           <head xml:id="gd-p2c26q3et4-Hd1e111">Caput 1</head>
           <head xml:id="gd-p2c26q3et4-Hd1e114" type="question-title"> De multiplici genere
             diuinationis.</head>
-          <p xml:id="gd-p2c26q3et4-d1e117"> Igitur genus diuinationis a Persis* fertur allatum. 
+          <p xml:id="gd-p2c26q3et4-d1e117"> Igitur genus diuinationis a Persis fertur allatum. 
           </p>
           <p xml:id="gd-p2c26q3et4-d1e119">
             §.
@@ -85,7 +85,7 @@
           <p xml:id="gd-p2c26q3et4-d1e126">
             §.4. Aruspices
             nuncupanturquasi horarum inspectores; dies enim et horas in agendis negociis operibusque
-            custodiunt, et*quid per singulatempora obseruare debeat homo intendunt; hii etiam
+            custodiunt, etquid per singulatempora obseruare debeat homo intendunt; hii etiam
             extapecudum inspiciunt, et ex eis futura predicunt. 
           </p>
           <p xml:id="gd-p2c26q3et4-d1e128">
@@ -187,7 +187,7 @@
           <head xml:id="gd-p2c26q3et4-Hd1e172">Dictum</head>
           <p xml:id="gd-p2c26q3et4-d1e142">
             Quod autem hominum dispositiones
-            cogitatione conceptas per exteriora signa diabolus deprehendat, non firmissima ^ ratione
+            cogitatione conceptas per exteriora signa diabolus deprehendat, non firmissima  ratione
             uidetur approbatum. </p>
           <p xml:id="gd-p2c26q3et4-d1e145"> Unde idem Augustinus ait in lib. II. retractationum ,
             [c. 30.]: </p>

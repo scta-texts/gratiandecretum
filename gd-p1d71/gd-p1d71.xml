@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -65,7 +65,7 @@
             ordinentur.</head>
           <p xml:id="gd-p1d71-d1e120">
             Illud quoque sanctitas uestra statuat, ut nulli episcopo liceat alterius ciuitatis
-            ecclesiasticum* sollicitare et in suadiocesi clericum ordinare. Quia ex his
+            ecclesiasticum sollicitare et in suadiocesi clericum ordinare. Quia ex his
             contentionibussolent nasci discordiae, et ideo prohibeat omnium sentencia, ne quis hoc
             facere audeat. 
           </p>

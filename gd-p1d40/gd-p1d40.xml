@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -63,7 +63,7 @@
           conferat decorem, quem ab eo non accepit. Non enim loca, sed uita et mores sanctum faciunt
           sacerdotem. Unde ex offitio suscepto non licentiam peccandi, sed necessitatem bene uiuendi
           se nouerintassecutos.</p>
-        <p xml:id="gd-p1d40-d1e112">Unde Sim acu s* Papa ait.</p>
+        <p xml:id="gd-p1d40-d1e112">Unde Sim acu s Papa ait.</p>
         </div>
         <div xml:id="gd-p1d40-Dd1e115">
           <head xml:id="gd-p1d40-Hd1e117">Caput 1</head>
@@ -111,7 +111,7 @@
               deicit.</head>
             <p xml:id="gd-p1d40-d1e187">
               Item <ref xml:id="gd-p1d40-Rd1e176">Iohannes Crisostornus, [id est, auctor operis imperfecti in Matthaeum, homilia 40. ad c. 21.]</ref>
-              Homo Christianus fortiter cadit in peccatum^ propter duas causas: aut
+              Homo Christianus fortiter cadit in peccatum propter duas causas: aut
               propter magnitudinem peccati, aut propter altitudinem dignitatis.
             </p>
           </div>
@@ -212,7 +212,7 @@
             terra, inueniet confusionem in celo, nec inter seruos Christi computabitur, qui de
             primatu tractauerit, nec unusquisque eorum festinet, quomodo appareat aliis maior, sed
             quomodo omnibus inferior uideatur,quoniam non qui maior fuerit in honore, ille est
-            iustior, sed qui fuerit iustior, ille maior est^</p>
+            iustior, sed qui fuerit iustior, ille maior est</p>
         </div>
       </div>
     </body>

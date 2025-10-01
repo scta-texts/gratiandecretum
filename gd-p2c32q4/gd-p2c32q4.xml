@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -64,7 +64,7 @@
           ancillam Liae, et ex ea filios genuisse. Ex quibusomnibus colligitur, propter sterilitatem
           uxoris siue ex ancilla siueex qualibet alia licite filios queri; alioquin adulterii macula
           Abra-ham et Iacob notabuntur. Sed sicut post mortem Sarae Abra-ham Ceihuram duxit m
-          uxorem, ne secundum AugustinumChristiani * putarent esse peccatum post mortem uxoris
+          uxorem, ne secundum AugustinumChristiani  putarent esse peccatum post mortem uxoris
           aliamducere: sic uidetur uiuente uxore sua filios ex ancilla suscepisse, ne aliquibus hoc
           reputaretur in crimen. Illud autem Augustini dicitur contra aduersarium legum et
           Prophetarum, lib. II. [c. 9 -]: </p>
@@ -83,7 +83,7 @@
           <head xml:id="gd-p2c32q4-Hd1e123">Dictum</head>
           <p xml:id="gd-p2c32q4-d1e123">Sacramentum huius rei est, quod per bonos mali et
             boni erant in fide generandi, et per malos btini et mali% adfidem accessuri. </p>
-          <p xml:id="gd-p2c32q4-d1e126"> Unde Augustinus super Iohannem [tract. XI.]*: </p>
+          <p xml:id="gd-p2c32q4-d1e126"> Unde Augustinus super Iohannem [tract. XI.]: </p>
         </div>
         <div xml:id="gd-p2c32q4-Dd1e130">
           <head xml:id="gd-p2c32q4-Hd1e132">Caput 2</head>
@@ -152,7 +152,7 @@
             euangelizantur, et sacramentisinbuuntur, tamquam per se ipsam Rebecca eos parit,
             sicutEsau; cum autem per illos, qui non caste annunciant euangelium, tales in eodem y
             populo generantur, non Saraquidem per se ipsam parit, sed per Agar. Item boni
-            spirituales, quando euangelizantibus*** uel baptizantibus carnalibus generantur, Lia
+            spirituales, quando euangelizantibus uel baptizantibus carnalibus generantur, Lia
             quidem uel Rachel iure coniugalieos, sed per ancillarum uterum parit.
           </p>
           <p xml:id="gd-p2c32q4-d1e171">
@@ -182,7 +182,7 @@
             et: „In omni gente quicumquetimet Deum, et operatur iusticiam, acceptus est illi: nec
             electiomuneris queritur in successione generis, sed in perfectione uitaeet sinceritate
             scientiae, et uirginitas fecunditati prefertur, et sacerdotibus continentiae castitas
-            inperatur. Nec^ss ergo Abrahamaut Iacob deliquit, quia preter uxorem filios ex ancilla
+            inperatur. Necss ergo Abrahamaut Iacob deliquit, quia preter uxorem filios ex ancilla
             que-sierit , nec illorum exemplo, preter coniugale debitum, fecunditatem in aliqua licet
             alicui querere, cum illorum coniugia nostrorum equentur uel preferantur uirginitati, et
             inmoderatus ususconiugii nostri temporis turpitudinem fere imitetur fornicationisillius
@@ -278,7 +278,7 @@
           <p xml:id="gd-p2c32q4-d1e224"> 
             Item <ref xml:id="gd-p2c32q4-Rd1e267">Augustinus [lib. XXII. contra Faustum, c. 47. et 48.]</ref>
             Obiciuntur Iacob quatuor uxores, quod, quando mos erat,
-            crimen non erat. Sicut Patriarchae** coniugibus excipientibus semen suum miscebantur,
+            crimen non erat. Sicut Patriarchae coniugibus excipientibus semen suum miscebantur,
             non concupiscentiaperficiendae uoluptatis, sed prouidentia propagandaesuccessionis:
             sicApostoli admirantibus auditoribus doctrinam suam condelectabantur, non auiditate
             consequendaelaudis sed karitate seminandae ueritatis. 
@@ -317,7 +317,7 @@
         </div>
         <div xml:id="gd-p2c32q4-Dd1e259">
           <head xml:id="gd-p2c32q4-Hd1e261">Caput 10</head>
-          <head xml:id="gd-p2c32q4-Hd1e264" type="question-title"> Adulteria non sunt fatienda*
+          <head xml:id="gd-p2c32q4-Hd1e264" type="question-title"> Adulteria non sunt fatienda
             uoluntate generandi filios.</head>
           <p xml:id="gd-p2c32q4-d1e270"> 
             Item <ref xml:id="gd-p2c32q4-Rd1e313">Augustinus ad Claudium contra Iulianum, lib. V . </ref>
@@ -364,12 +364,12 @@
             In eo fornicator est maioris criminis, quia tollit membra
             Christi, et facit ea membra meretricis; „erunt quippe duo in carne una.“ Qui non est fidelis, nec credit in
             Christo, sua membra facit membra meretricis. E contrario infidelis in fornicatione sua
-            utrum uiolet, an edificet templum idolo, nescio. Per uicia quippe* uel maximedemones
+            utrum uiolet, an edificet templum idolo, nescio. Per uicia quippe uel maximedemones
             coluntur. Hoc unum scio, quod qui post fidemChristi fornicatur violat templum Dei.
             Secundum opuscarnis inmunditia nuncupatur, et eam comes luxuria sequitur. Quomodo enim
             in ueteri lege de nefandis criminibus, que in occulto fiunt, que etiam nominare
             turpissimumest, ne et dicentis os, et aures audientium polluerentur, generaliter
-            scriptura conplexa est, dicens: , , Verecundosuel uerentes^ facite filios Israel ab omni
+            scriptura conplexa est, dicens: , , Verecundosuel uerentes facite filios Israel ab omni
             inmundicia, “ sicin hoc loco ceteras extraordinarias uoluptates, ipsarum quoque opera
             nuptiarum, si non uerecunde et cum honestatequasi sub oculis Dei fiant, ut tantum
             liberis seruiatur, inmunditiam et luxuriam nominauit. </p>
@@ -406,7 +406,7 @@
           <head xml:id="gd-p2c32q4-Hd1e408" type="question-title">Qui sint liberi, et quam condicionem parentum sequantur. </head>
           <p xml:id="gd-p2c32q4-d1e354"> Liberi dicti sunt, qui ex libero matrimonio sunt orti. Nam
             filii ex libero et ancilla seruilis condicionissunt. Semper enim qui nascitur
-            deteriorem* partemsumit. Naturales autem filii dicuntur ingenuarumconcubinarum filii,
+            deteriorem partemsumit. Naturales autem filii dicuntur ingenuarumconcubinarum filii,
             quos sola natura genuit, non honestasconiugii.
           </p>
           <p xml:id="gd-p2c32q4-d1e414">

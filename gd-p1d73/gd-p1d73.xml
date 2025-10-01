@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -66,7 +66,7 @@
           prima grecaelementa Patris, et Filii, et Spiritus sancti, hoc est, II. T. A. queelementa
           octogenarium et quadringentesimum et primum significant numerum. Petri quoque apostoli
           prima littera, id est II.,que numerum octoginta significat; eius quoque, qui
-          scribit,episcopi prima littera ; cui scribitur, secunda littera^; accipientis,tertia
+          scribit,episcopi prima littera ; cui scribitur, secunda littera; accipientis,tertia
           littera; ciuitatis quoque, de qua scribitur, quarta, et indictionis, quecumque est illius
           temporis, numerus assumatur. Atque ita his omnibus grecis litteris, que, ut diximus,
           numeros exprimunt, in unum ductis, unam, quecumque fuerit collecta,summam epistola teneati;
@@ -125,10 +125,10 @@
             litteras, ut uigore ueritatis firmatae indubitanter a uobis suscipiantur, litteris
             grecis, ut canonica docetauctoritas, confirmare sategimus. Sancta Trinitas
             uestrambeatitudinem ad regimen sanctae suae ecclesiae perpetualiterbene ualere concedat,
-            kuqv **. (uel sic: Et. 0. (que eandem summam exprimunt) indictione X. Continet hec
+            kuqv . (uel sic: Et. 0. (que eandem summam exprimunt) indictione X. Continet hec
             formata epistola summam numeri MCCCXV. Y. grecam in nomineillius primam ponimus, quia
             Greci eam in quibusdam locis pro Y. consonante ponunt, sicut est david et
-            svayyihov)^].</p>
+            svayyihov)].</p>
         </div>
       </div>
     </body>
