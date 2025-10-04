@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -56,8 +54,8 @@
     <body>
       <div xml:id="gd-p2c25q2">
         <head xml:id="gd-p2c25q2-Hd1e103"> QUESTIO 2</head>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c25q2-Dd1e102">
+          <head xml:id="gd-p2c25q2-Hd1e104">Dictum</head>
         <p xml:id="gd-p2c25q2-d1e106">Quod autem antiquioribus priuilegiis subsequen-tibus
           derogari non possit auctoritate An aci e ti probatur, qui, scribens omnibus Episcopis et
           reliquis Christi sacerdotibus, ait [in epist. I. c. 37.]: </p>
@@ -76,7 +74,7 @@
           <head xml:id="gd-p2c25q2-Hd1e126" type="question-title"> Nec nouitate mutari, nec
             inprobitate conuelli ecclesiarum priuilegia debent.</head>
           <p xml:id="gd-p2c25q2-d1e132"> 
-            Item <ref>Leo Papa Marciano Augusto, [ep. LII. al. LIV.]</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e132">Leo Papa Marciano Augusto, [ep. LII. al. LIV.]</ref> 
             Priuilegia ecclesiarum et monasteriorum, sanctorum Patrum
             auctoritate instituta, nulla possunt inprobitate conuelli, nulla nouitate mutari. In quo
             opere auxiliante Christofideliter exequendo necesse est huius sanctae sedis
@@ -89,7 +87,7 @@
           <head xml:id="gd-p2c25q2-Hd1e141" type="question-title"> Priuilegio suae dignitatis
             aliquis ecclesiam exuere non debet.</head>
           <p xml:id="gd-p2c25q2-d1e147">
-            Item <ref>Gregorius Augustino, Anglorum Episcopo, [respons. 9.]</ref>
+            Item <ref xml:id="gd-p2c25q2-Rd1e146">Gregorius Augustino, Anglorum Episcopo, [respons. 9.]</ref>
             In Galliarum episcopis nullam tibi auctoritatem tribuimus,
             quia ab antiquis predecessorum nostrorum temporibus pallium Arelatensis episcopus
             accepit, quem nos priuare auctoritate percepta minime debemus. Si ergo contingat, ut
@@ -104,7 +102,7 @@
           <head xml:id="gd-p2c25q2-Hd1e157" type="question-title">Statuta Apostolicorum decessorum Apostolicus
             destruere non debet.</head>
           <p xml:id="gd-p2c25q2-d1e163"> 
-            <ref>Idem Felici Episcopo, [lib. XII. epist. 31.]</ref> 
+            <ref xml:id="gd-p2c25q2-Rd1e161">Idem Felici Episcopo, [lib. XII. epist. 31.]</ref> 
             Si ea destruerem, que antecessores nostri statuerunt, non
             constructor, sed euersor esse iuste conprobarer, testanteueritatis uoce, que ait: „Omne
             regnum in se ipsumdiuisum, “ desolabitur et omnis scientia et lex aduersumse diuisa
@@ -115,7 +113,7 @@
           <head xml:id="gd-p2c25q2-Hd1e172" type="question-title"> Metropolitanus ius dignitatis
             traditae sibi antiquitus intemeratum obtineat.</head>
           <p xml:id="gd-p2c25q2-d1e178"> 
-            Item <ref>Leo Papa [epist. LXXXII. al. LXXXIV. ad Anastasium, c. 2.]</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e175">Leo Papa [epist. LXXXII. al. LXXXIV. ad Anastasium, c. 2.]</ref> 
             Igitur secundum sanctorum Patrum canones, spiritu Dei
             conditos et totius mundi reuerentia consecratos, metropolitanos singularum prouinciarum
             episcopos, quibus ex delegatione nostra fraternitatis tuae cura pretenditur, iustraditae
@@ -138,7 +136,7 @@
           <head xml:id="gd-p2c25q2-Hd1e199" type="question-title"> Decreta apostolica nulla
             presumptione uiolentur.</head>
           <p xml:id="gd-p2c25q2-d1e208"> 
-            Item <ref>Gregorius Bonifatio primo Defensori, [lib. VII. epist. 17.]</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e201">Gregorius Bonifatio primo Defensori, [lib. VII. epist. 17.]</ref> 
             Institutionis nostrae decreta, que sunt priuilegiis et
             ordinatione disposita, perpetua stabilitate et sine aliquaconstituimus refragatione
             seruari, siue que scripto decreui-mus, seu que in nostra presencia uidentur esse
@@ -151,7 +149,7 @@
           <head xml:id="gd-p2c25q2-Hd1e214">Caput 8</head>
           <head xml:id="gd-p2c25q2-Hd1e217" type="question-title"> Priuilegia ecclesiarum
             Apostolicus debet seruare illesa. </head>
-          <p xml:id="gd-p2c25q2-d1e223"><ref>Idem Dominico, Cartaginensi Episcopo, [lib. II. Indict. 10. epist. 39.]</ref> De ecclesiasticis priuilegiis
+          <p xml:id="gd-p2c25q2-d1e223"><ref xml:id="gd-p2c25q2-Rd1e214">Idem Dominico, Cartaginensi Episcopo, [lib. II. Indict. 10. epist. 39.]</ref> De ecclesiasticis priuilegiis
             quod uestra fraternitasscribit, hoc postposita dubitatione teneat, quia, sicut
             nostra defendimus, ita singulis quibusque ecclesiis sua iura ser-uamus, nec cuilibet
             gratia fauente ultra quam meretur inpertior, nec ulli hoc, quod sui iuris est, ambitu
@@ -162,7 +160,7 @@
           <head xml:id="gd-p2c25q2-Hd1e229">Caput 9</head>
           <head xml:id="gd-p2c25q2-Hd1e232" type="question-title"> Quod rationabiliter diffinitum
             est nullo modo uiolari debet. </head>
-          <p xml:id="gd-p2c25q2-d1e235"> Item V<ref>igilio , Arelatensi Episc. [lib. VII. ep. 117.]</ref> Cum
+          <p xml:id="gd-p2c25q2-d1e235"> Item V<ref xml:id="gd-p2c25q2-Rd1e228">igilio , Arelatensi Episc. [lib. VII. ep. 117.]</ref> Cum
             piae desiderium uoluntatis, et laudandae diffinitionis intentio sacerdotalibus sit
             semper studiis adiuuanda, cura est sollicitudinis adhibenda, ut ea, que proquiete
             religiosae conuersationis sunt disposita uels ordinata, nec dissimulatio negligere, nec
@@ -173,7 +171,7 @@
           <head xml:id="gd-p2c25q2-Hd1e242">Caput 10</head>
           <head xml:id="gd-p2c25q2-Hd1e245" type="question-title"> Sibi iniuriam facit Apostolicus
             qui fratrum suorum iura perturbat.</head>
-          <p xml:id="gd-p2c25q2-d1e248"> <ref>Idem [ad Natalem Episcopum, lib. II. epist. 37.]</ref> 
+          <p xml:id="gd-p2c25q2-d1e248"> <ref xml:id="gd-p2c25q2-Rd1e243">Idem [ad Natalem Episcopum, lib. II. epist. 37.]</ref> 
             Quod uero dicitis, nostris temporibus debere seruarique a meis quoque decessoribus tradita uel
             custoditasunt, absit hoc a me, ut statuta maiorum consacerdotibus meis in qualibet
             ecclesia infringam, quia michi iniuriam facio, si fratrum meorum iura perturbo. </p>
@@ -182,11 +180,11 @@
           <head xml:id="gd-p2c25q2-Hd1e254">Caput 1</head>
           <head xml:id="gd-p2c25q2-Hd1e257" type="question-title"> Nulla presumptione uiolentur que
             ab Apostolis et eorum successoribus sunt instituta. </head>
-          <p xml:id="gd-p2c25q2-d1e260"> Item <ref>Iuilius Papa [epist. I. ad Orientales, c. 4.]</ref> 
+          <p xml:id="gd-p2c25q2-d1e260"> Item <ref xml:id="gd-p2c25q2-Rd1e257">Iuilius Papa [epist. I. ad Orientales, c. 4.]</ref> 
             Amputato
             totius usurpationis excessu nullus presumat que sibi non uidentur esse concessa. 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e260">
             §. i.
             Ea que sunt ab Apostolis eorumque successoribus instituta,
             nulla desidia negligantur, nulla dissensione uiolentur, nulla concertatione turbentur.
@@ -197,7 +195,7 @@
           <head xml:id="gd-p2c25q2-Hd1e272" type="question-title"> Que rationabiliter ordinata sunt
             nulla debent refragatione turbari.</head>
           <p xml:id="gd-p2c25q2-d1e281"> 
-            Item <ref>Gregorius Papa, [lib. VII. Indict. 2. epist. 60. Praerecti Illustri].</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e273">Gregorius Papa, [lib. VII. Indict. 2. epist. 60. Praerecti Illustri].</ref> 
             Ecclesiasticae moderationi est omnino conueniens, ut que
             ordinata fuerint, uel decisa, nulla in posterum debeant refragatione turbari. </p>
         </div>
@@ -206,20 +204,20 @@
           <head xml:id="gd-p2c25q2-Hd1e290" type="question-title"> Que contraleges fiunt" pro
             infectis habeantur . </head>
           <p xml:id="gd-p2c25q2-d1e296"> 
-            Idem in <ref>Registr o, [lib. VII. Indict. 2. epist. 7. Ianuario Caralitano] .</ref> 
+            Idem in <ref xml:id="gd-p2c25q2-Rd1e287">Registr o, [lib. VII. Indict. 2. epist. 7. Ianuario Caralitano] .</ref> 
             Inperiali constitutione sancitum est aperte, ut ea, que
             contra leges fiunt, non solum inutilia, sed etiam pro infectis habenda sint. </p>
         </div>
-        <div>
-          <head>Caput 14</head>
+        <div xml:id="gd-p2c25q2-Dd1e291">
+          <head xml:id="gd-p2c25q2-Hd1e293">Caput 14</head>
           <p xml:id="gd-p2c25q2-d1e306"> 
-            <ref>Cod. lib. I. tit. de precibus inperatori offerendis, Inperator Constantinus.</ref> 
+            <ref xml:id="gd-p2c25q2-Rd1e297">Cod. lib. I. tit. de precibus inperatori offerendis, Inperator Constantinus.</ref> 
             Nec dampnosa fisco, nec iuri contraria postulari oportet. </p>
         </div>
-        <div>
-          <head>Caput 15</head>
+        <div xml:id="gd-p2c25q2-Dd1e301">
+          <head xml:id="gd-p2c25q2-Hd1e303">Caput 15</head>
           <p xml:id="gd-p2c25q2-d1e312"> 
-            <ref>Inp. Theodosius et Valentinianus.</ref> 
+            <ref xml:id="gd-p2c25q2-Rd1e307">Inp. Theodosius et Valentinianus.</ref> 
             Rescripta contra ius elicita ab omnibus iudicibus
             precipimus refutari, nisi forte sit aliquid, quod non ledat alium, et prosit petenti,
             uel crimen supplicantibus indulgeat. 
@@ -230,7 +228,7 @@
           <head xml:id="gd-p2c25q2-Hd1e321" type="question-title"> Rescriptum meretur effectum, quod
             cum iuris et legum ratione concordat . </head>
           <p xml:id="gd-p2c25q2-d1e327"> 
-            Item <ref>Pelagius Papa Iohanni Comiti.</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e322">Pelagius Papa Iohanni Comiti.</ref> 
             Dicenti, sacras iussiones se habere pre manibus,
             respondimus scire illum oportere, quod ipse clementissimus princeps generalibus legibus
             constituerit, illa sacra uniuscuiusque supplicantis desiderio concessa preualere
@@ -239,51 +237,51 @@
             ferre. 
           </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c25q2-Dd1e326">
+          <head xml:id="gd-p2c25q2-Hd1e328">Dictum</head>
           <p xml:id="gd-p2c25q2-d1e330">
             Rescripta, siue sint adnotationes siue pragmaticae
             sanctiones, expressam debent habere in se condicionem: Si preces ueritate nituntur .
             Mendax enim precator debet carereinpetratis, et quibus scripta diriguntur sunt puniendi,
             si precummendacia uetuerint argui. 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e333">
             Unde Inpp. Diocletianus, et Maximianus, et Constantius lib. I. Cod. tit. si contra iusuel utilitatem publicam : §. 1. „ Prescriptione
             mendaciorumopposita, siue in iuris narratione mendacium reperiatur, siue infacti, siue
             in tacendi fraude, pro tenore ueritatis, non deprecantisaffirmatione, datum iudicem
             cognoscere debere, et secundum hocde causa conuenit ferre sentenciam
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e335">
             Item Inp .
             Constantinus: , , Puniri iubemus decem librarum auri mulctaiudices, qui uetuerunt precum
             argui falsitatem 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e337">
             Inpp. Theodosius et Valentinianus : §.3. „Et si legibus consentaneum
             sacrum oraculum mendax precator attulerit , careat penitus inpetratis, et, si nimia
             mentientis inuenitur inprobitas, etiam seueritati subiaceat iudicantis. 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e340">
             Item Constantinus : §.4. „Et si non cognitio, sed executio, mandatur, de ueritate precum inquiri
             oportet, ut si fraus interuenit , de omni negocio cognoscatur .“ 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e342">
             Inp. Anastasius: §. 5.„ Omnes cuiuscumque maioris uel minoris amministrationis uni-uersae reip . iudices
             monemus, ut nullum rescriptum, nullam pragmaticam sanctionem, nullam sacram
             annotationem, quegenerali iuri uel utilitati publicae aduersa esse uideatur ,
             indisceptatione i cuiuslibet litigii patiantur proferri; sed generales sacras
             constitutiones modis omnibus non dubitent obseruan-das. 
           </p>
-          <p>
-            <ref>Cod. tit. de diuers. rescript.
-            Inpp. Diocletianus et Maximianus</ref> : §. 6. <quote source="http://scta.info/resource/azsw2e-d1e305-d1e129@4-18">Sanccimus, ut autentica ipsa atqueoriginalia
+          <p xml:id="gd-p2c25q2-d1e344">
+            <ref xml:id="gd-p2c25q2-Rd1e346">Cod. tit. de diuers. rescript.
+            Inpp. Diocletianus et Maximianus</ref> : §. 6. <quote xml:id="gd-p2c25q2-Qd1e348" source="http://scta.info/resource/azsw2e-d1e305-d1e129@4-18">Sanccimus, ut autentica ipsa atqueoriginalia
             rescripta , etiam ex nostra manu subscripta, non exempla eorum insinuentur.</quote> 
           </p>
-          <p> Inp. Constantinus : § 7. <quote source="http://scta.info/resource/azsw2e-d1e305-d1e140@3-14">Si qua beneficia personalia sine die et consule fuerint
+          <p xml:id="gd-p2c25q2-d1e352"> Inp. Constantinus : § 7. <quote xml:id="gd-p2c25q2-Qd1e354" source="http://scta.info/resource/azsw2e-d1e305-d1e140@3-14">Si qua beneficia personalia sine die et consule fuerint
             deprehensa, auctoritate careant. </quote>
           </p>
-          <p>
-            Inp. Zeno: §. 8. <quote source="http://scta.info/resource/azsw2e-d1e305-d1e173@3-50 http://scta.info/resource/azsw2e-d1e305-d1e178@1-42">Uniuersa rescripta, siue in
+          <p xml:id="gd-p2c25q2-d1e358">
+            Inp. Zeno: §. 8. <quote xml:id="gd-p2c25q2-Qd1e360" source="http://scta.info/resource/azsw2e-d1e305-d1e173@3-50 http://scta.info/resource/azsw2e-d1e305-d1e178@1-42">Uniuersa rescripta, siue in
             personam precantium siue ad quemlibet iudicemmanauerint, que uel annotatio, uel queuis
             pragmatica sanctionominetur, sub ea condicione proferri precipimus, si precesueritate
             nituntur, nec aliquem fructum precator oraculi percipiat inpetrati, licet in iudicio
@@ -299,7 +297,7 @@
           <head xml:id="gd-p2c25q2-Hd1e339" type="question-title"> Priuilegia ecclesiarum nulla
             debent inprobitate conuelli.</head>
           <p xml:id="gd-p2c25q2-d1e345"> 
-            Item <ref>Leo Papa [epist. LII. al. LIV. ad Marcianum Augustum].</ref>
+            Item <ref xml:id="gd-p2c25q2-Rd1e374">Leo Papa [epist. LII. al. LIV. ad Marcianum Augustum].</ref>
             Priuilegia ecclesiarum, sanctorum canonibus instituta, et
             uenerabilis Nicenae fixa decretis, nulla possunt inprobitate conuelli, uel nouitate
             mutari.
@@ -326,21 +324,21 @@
             custodire conuenit, ita debet etiam male facta corrigere. </p>
           <p xml:id="gd-p2c25q2-d1e379"> Hinc etiam Archadius et Honorius : </p>
         </div>
-        <div>
-          <head>Caput 20</head>
+        <div xml:id="gd-p2c25q2-Dd1e411">
+          <head xml:id="gd-p2c25q2-Hd1e413">Caput 20</head>
           <p xml:id="gd-p2c25q2-d1e386"> Quecumque, inquiunt, a parentibus nostris diuersis sunt
             statuta temporibus, manere inuiolata atque incorrupta circa sacrosanctas ecclesias
             precipimus. Nichil igitur a priuilegiis inmutetur, omnibus, qui ecclesiis deseruiunt,
             tuicio deferatur, quia temporibus nostris addipocius reuerenciae cupimus, quam ex his,
             que olim prestita sunt, inmutari. 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e418">
             Idem [leg. 30.]: §. i. Non tamnouum aliquid presenti
             sanctione precipimus, quam illa, queolim uidentur indulta, firmamus. Priuilegia igitur,
             que olimreuerentia religionis obtinuit, mutilare sub penaeetiam interminatione
             prohibemus ita, ut hii quoque, quiecclesiae obtemperant, ipsius beneficiis perfruantur.
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e420">
             Idem [leg. 34.]: §. 2. Si ecclesiae uenerabilis priuilegia cuiusquam s fuerint uel
             temeritate uiolata, uel dissimulationeneglecta, conmissum duodecim librarum auri
             (sicutetiam prius constitutum est) condempnatione plectatur. Ipsaque priuilegia
@@ -373,7 +371,7 @@
             priuilegia multarum ecclesiarum uel in-minuuntur, uel penitus inmutantur, siue
             personaliter siue generaliter. 
           </p>
-          <p>
+          <p xml:id="gd-p2c25q2-d1e445">
             §. 2. Personaliter iuxta illud : „ Priuilegium
             omni nomeretur amittere qui permissa sibi abutitur potestate. </p>
         </div>
@@ -382,7 +380,7 @@
           <head xml:id="gd-p2c25q2-Hd1e416" type="question-title"> Quod habet amittat qui quod non
             accepit usurpat. </head>
           <p xml:id="gd-p2c25q2-d1e422"> 
-            Item <ref>Siluerius Papa Vigilio Episcopo, [ep. II.]</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e458">Siluerius Papa Vigilio Episcopo, [ep. II.]</ref> 
             Sic decet fidem sanctorum Patrum in ecclesia seruari
             catholica, ut quod habuit amittat qui inprobabili temeritate quod non accepit
             assumpserit. </p>
@@ -392,7 +390,7 @@
           <head xml:id="gd-p2c25q2-Hd1e431" type="question-title"> Priuilegium amittit qui sua
             potestate non legitime utitur.</head>
           <p xml:id="gd-p2c25q2-d1e437"> 
-            Item <ref>Simplicius [epist. II.] I oh an ni, Episcopo Rauennati, post pauca, quibus eum ab illicita ordinatione prohibuit.</ref>
+            Item <ref xml:id="gd-p2c25q2-Rd1e472">Simplicius [epist. II.] I oh an ni, Episcopo Rauennati, post pauca, quibus eum ab illicita ordinatione prohibuit.</ref>
             Denunciamus autem, quod si posthec aliquidtale
             presumpseris, et aliquem seu episcopum, uel presbiterum, seu diaconem inuitum facere
             forte credideris, ordinationes tibi Rauennatis uel Emiliensis ecclesiae
@@ -403,14 +401,14 @@
           <head xml:id="gd-p2c25q2-Hd1e446" type="question-title"> Ius ordinandi amittunt qui
             inmeritum consecrant.</head>
           <p xml:id="gd-p2c25q2-d1e452"> 
-            Item <ref>Leo Papa [epist. LXXXV. al. LXXXVII. ad Episcopos Africanos].</ref> 
+            Item <ref xml:id="gd-p2c25q2-Rd1e486">Leo Papa [epist. LXXXV. al. LXXXVII. ad Episcopos Africanos].</ref> 
             Si qui episcopi talem consecrauerint sacerdotem, qualem
             esse non liceat, etiamsi aliquo modo dampnum proprii honoris euaserint, ordinationis ius
             ulterius non habebunt, nec umquam ei sacramento intererunt, quod, neglecto diuino
             iudicio, inmerito prestiterunt. </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c25q2-Dd1e490">
+          <head xml:id="gd-p2c25q2-Hd1e492">Dictum</head>
           <p xml:id="gd-p2c25q2-d1e455">
             Generaliter, ueluti dum duitati episcopalis
             dignitas perpetuo subtrahitur, que suos episcopos interimere consueuit. </p>
@@ -445,8 +443,8 @@
             misteriarepresentet ingratis, ne, cum deuitamus zizania, dominica uideamur preterire
             frumenta. </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c25q2-Dd1e514">
+          <head xml:id="gd-p2c25q2-Hd1e516">Dictum</head>
           <p xml:id="gd-p2c25q2-d1e478">Hostiliatis quoque uel paupertatis
             necessitate episcopales sedes uel mutantur, uel duae in wmm rediguntur, sicut sup. in
             tit. de mutationibus episcoporum B . Gregorius fecisse legitur. Non ergo priuilegia
