@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -79,7 +77,7 @@
             gradu inuenti sunt, separentur, aut suspendatur eorum causa, usquedum nos insimul Domino
             auxiliante conueniamus
           </p>
-          <p>
+          <p xml:id="gd-p2c35q8-d1e116">
             Idem :§. 1. De his, qui mortua uxore secundas
             contraherenuptias uolunt, iuste et honeste et rationabiliter prospeximus, ab earum
             consanguineis usque ad quartum gradum genealogiae abstineri. Hec nos secundum indulgentiam
@@ -92,7 +90,7 @@
           <head xml:id="gd-p2c35q8-Hd1e126" type="question-title"> In quarto uel quinto gradu qui
             coniuncti inuenti fuerint separentur.</head>
           <p xml:id="gd-p2c35q8-d1e132"> 
-            <ref>Idem Felici, Messanae ciuitatis Episcopo.</ref> 
+            <ref xml:id="gd-p2c35q8-Rd1e129">Idem Felici, Messanae ciuitatis Episcopo.</ref> 
             Hec salubriter precauenda sancimus, ne quis
             fidelium propinquam sanguinis sui, usquequo affinitatis liniamentageneris successione
             cognoscuntur, in matrimonio sibi desideret copulari sed, sicut a maioribus
@@ -118,11 +116,11 @@
             nec salutentur ab eis. Sed si suis sacerdotibus inobedientes extiterint, et a tam nefando
             scelere segregari, atque ad publicam penitenciam redire noluerint, inter eos habeantur,
             qui spiritu periclitantur in-mundo, uel etiam inter eos, de quibus per se ueritas
-            ait: <quote source="http://scta.info/resource/mt18_17@14-19">Si te non audierit, sit tibi sicut ethnicus et publicanus</quote>/Et si alter eorum morte
+            ait: <quote xml:id="gd-p2c35q8-Qd1e149" source="http://scta.info/resource/mt18_17@14-19">Si te non audierit, sit tibi sicut ethnicus et publicanus</quote>/Et si alter eorum morte
             preuentus fuerit, alter, quam diuuiuit, grauiter peniteat, et sine spe coniugii maneat. </p>
         </div>
-        <div>
-          <head>Dictum</head>
+        <div xml:id="gd-p2c35q8-Dd1e155">
+          <head xml:id="gd-p2c35q8-Hd1e157">Dictum</head>
           <p xml:id="gd-p2c35q8-d1e154">
             Hac auctoritate qui in quarto uel in quinto gradu
             consanguinitatis coniuncti inuenti fuerint ab ecclesia separari iubentur. 
